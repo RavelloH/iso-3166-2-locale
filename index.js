@@ -506,7 +506,10 @@ async function processCountriesChunk({
         cityPayloads.push(cityDetail);
       }
 
-      const stateFilePath = path.join(countryDir, `${stateCode}.json`);
+      const stateDir = path.join(countryDir, stateCode);
+      await ensureDir(stateDir);
+
+      const stateFilePath = path.join(stateDir, "index.json");
       const statePayload = {
         locale: language,
         country: countryDetail,
@@ -516,7 +519,7 @@ async function processCountriesChunk({
       await writeQueue.enqueue(() => writeJsonFile(stateFilePath, statePayload));
     }
 
-    const countryFilePath = path.join(languageDir, `${countryCode}.json`);
+    const countryFilePath = path.join(countryDir, "index.json");
     const countryPayload = {
       locale: language,
       country: countryDetail,
@@ -624,10 +627,10 @@ function runWorker(payload) {
 
 async function resetLanguageOutput(language) {
   const languageDir = path.join(DATA_ROOT, language);
-  const languageIndexPath = path.join(DATA_ROOT, `${language}.json`);
+  const legacyLanguageIndexPath = path.join(DATA_ROOT, `${language}.json`);
 
   await fsp.rm(languageDir, { recursive: true, force: true });
-  await fsp.rm(languageIndexPath, { force: true });
+  await fsp.rm(legacyLanguageIndexPath, { force: true });
   await ensureDirectory(languageDir);
 }
 
@@ -651,7 +654,7 @@ async function generateLanguageData(language, countries, stateById, cityById) {
       writeConcurrency: perWorkerWriteConcurrency,
       dataRoot: DATA_ROOT,
     });
-    const languageIndexPath = path.join(DATA_ROOT, `${language}.json`);
+    const languageIndexPath = path.join(DATA_ROOT, language, "index.json");
     await writeJsonFile(languageIndexPath, getUniqueSorted(singleResult.countryCodes));
     return {
       countries: singleResult.countries,
@@ -688,7 +691,7 @@ async function generateLanguageData(language, countries, stateById, cityById) {
     allCountryCodes.push(...result.countryCodes);
   }
 
-  const languageIndexPath = path.join(DATA_ROOT, `${language}.json`);
+  const languageIndexPath = path.join(DATA_ROOT, language, "index.json");
   await writeJsonFile(languageIndexPath, getUniqueSorted(allCountryCodes));
 
   return {
