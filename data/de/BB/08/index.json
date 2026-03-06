@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 20,
+    "code": "BB",
+    "iso3": "BRB",
+    "numeric_code": "052",
+    "name": "Barbados",
+    "name_default": "Barbados",
+    "native": "Barbados",
+    "capital": "Bridgetown",
+    "phonecode": "1",
+    "currency": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "Bds$",
+    "tld": ".bb",
+    "population": 267800,
+    "gdp": 7552,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Barbadian",
+    "timezones": [
+      {
+        "zoneName": "America/Barbados",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "13.16666666",
+    "longitude": "-59.53333333",
+    "emoji": "🇧🇧",
+    "emojiU": "U+1F1E7 U+1F1E7"
+  },
+  "state": {
+    "id": 1230,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "BB-08",
+    "fips_code": "08",
+    "name": "Heiliger Michael",
+    "name_default": "Saint Michael",
+    "native": "Saint Michael",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.11829850",
+    "longitude": "-59.60157830",
+    "timezone": "America/Barbados",
+    "wikiDataId": "Q819170",
+    "country_code": "BB"
+  },
+  "cities": [
+    {
+      "id": 8448,
+      "name": "Bridgetown",
+      "name_default": "Bridgetown",
+      "native": "Bridgetown",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 98511,
+      "latitude": "13.10732000",
+      "longitude": "-59.62021000",
+      "timezone": "America/Barbados",
+      "wikiDataId": "Q36168",
+      "country_code": "BB",
+      "state_code": "08",
+      "state_id": 1230,
+      "country_id": 20
+    }
+  ]
+}

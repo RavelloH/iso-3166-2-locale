@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 228,
+    "code": "TV",
+    "iso3": "TUV",
+    "numeric_code": "798",
+    "name": "Tuvalu",
+    "name_default": "Tuvalu",
+    "native": "Tuvalu",
+    "capital": "Funafuti",
+    "phonecode": "688",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".tv",
+    "population": 10643,
+    "gdp": 65,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Tuvaluan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Funafuti",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "TVT",
+        "tzName": "Tuvalu Time"
+      }
+    ],
+    "latitude": "-8.00000000",
+    "longitude": "178.00000000",
+    "emoji": "🇹🇻",
+    "emojiU": "U+1F1F9 U+1F1FB"
+  },
+  "state": {
+    "id": 3947,
+    "code": "NMG",
+    "iso2": "NMG",
+    "iso3166_2": "TV-NMG",
+    "fips_code": "NMG",
+    "name": "Nanumanga",
+    "name_default": "Nanumanga",
+    "native": "Nanumga",
+    "type": "island council",
+    "level": null,
+    "parent_id": null,
+    "population": 391,
+    "latitude": "-6.28580190",
+    "longitude": "176.31992800",
+    "timezone": "Pacific/Funafuti",
+    "wikiDataId": "Q367027",
+    "country_code": "TV"
+  },
+  "cities": [
+    {
+      "id": 109001,
+      "name": "Wioska Toga",
+      "name_default": "Toga Village",
+      "native": "Toga Village",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 258,
+      "latitude": "-6.28764000",
+      "longitude": "176.31472000",
+      "timezone": "Pacific/Funafuti",
+      "wikiDataId": "Q3394651",
+      "country_code": "TV",
+      "state_code": "NMG",
+      "state_id": 3947,
+      "country_id": 228
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "意大利",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1694,
+    "code": "PE",
+    "iso2": "PE",
+    "iso3166_2": "IT-PE",
+    "fips_code": "13",
+    "name": "佩斯卡拉",
+    "name_default": "Pescara",
+    "native": "Pescara",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1679",
+    "population": 119554,
+    "latitude": "42.31026190",
+    "longitude": "13.95759010",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16242",
+    "country_code": "IT"
+  },
+  "cities": []
+}

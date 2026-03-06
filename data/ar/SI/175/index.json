@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "سلوفينيا",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4274,
+    "code": "175",
+    "iso2": "175",
+    "iso3166_2": "SI-175",
+    "fips_code": "K6",
+    "name": "بريفالي",
+    "name_default": "Prevalje",
+    "native": "Prevalje",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 4601,
+    "latitude": "46.54606170",
+    "longitude": "14.91697960",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q650009",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104236,
+      "name": "بريفالي",
+      "name_default": "Prevalje",
+      "native": "Prevalje",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4620,
+      "latitude": "46.54694000",
+      "longitude": "14.92083000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q15905",
+      "country_code": "SI",
+      "state_code": "175",
+      "state_id": 4274,
+      "country_id": 201
+    }
+  ]
+}

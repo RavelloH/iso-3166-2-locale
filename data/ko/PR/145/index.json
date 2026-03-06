@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "푸에르토리코",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5207,
+    "code": "145",
+    "iso2": "145",
+    "iso3166_2": "PR-145",
+    "fips_code": null,
+    "name": "베가 바하",
+    "name_default": "Vega Baja",
+    "native": "Vega Baja",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 54414,
+    "latitude": "18.44453140",
+    "longitude": "-66.38758700",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q2179051",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153622,
+      "name": "베가 바하",
+      "name_default": "Vega Baja",
+      "native": "Vega Baja",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "18.44614590",
+      "longitude": "-66.40419670",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q2179051",
+      "country_code": "PR",
+      "state_code": "145",
+      "state_id": 5207,
+      "country_id": 178
+    }
+  ]
+}

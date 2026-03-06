@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 69,
+    "code": "EE",
+    "iso3": "EST",
+    "numeric_code": "233",
+    "name": "Estland",
+    "name_default": "Estonia",
+    "native": "Eesti",
+    "capital": "Tallinn",
+    "phonecode": "372",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "population": 1369995,
+    "gdp": 45004,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Estonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  },
+  "state": {
+    "id": 5769,
+    "code": "586",
+    "iso2": "586",
+    "iso3166_2": "EE-586",
+    "fips_code": null,
+    "name": "Peipsiääre",
+    "name_default": "Peipsiääre",
+    "native": "Peipsiääre",
+    "type": "rural municipality",
+    "level": "2",
+    "parent_id": "3557",
+    "population": null,
+    "latitude": "58.66670000",
+    "longitude": "27.41670000",
+    "timezone": "Europe/Tallinn",
+    "wikiDataId": "Q15732441",
+    "country_code": "EE"
+  },
+  "cities": []
+}

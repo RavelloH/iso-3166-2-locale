@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "Франція",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 5060,
+    "code": "92",
+    "iso2": "92",
+    "iso3166_2": "FR-92",
+    "fips_code": null,
+    "name": "О-де-Сен",
+    "name_default": "Hauts-de-Seine",
+    "native": "Hauts-de-Seine",
+    "type": "metropolitan department",
+    "level": "2",
+    "parent_id": "4796",
+    "population": 1647435,
+    "latitude": "48.84018590",
+    "longitude": "2.19863000",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q12543",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "帕劳",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4532,
+    "code": "150",
+    "iso2": "150",
+    "iso3166_2": "PW-150",
+    "fips_code": "06",
+    "name": "科罗尔",
+    "name_default": "Koror",
+    "native": "Increase",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 11199,
+    "latitude": "7.33374870",
+    "longitude": "134.47628060",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q189426",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89704,
+      "name": "科罗尔",
+      "name_default": "Koror",
+      "native": "Increase",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 14000,
+      "latitude": "7.33978000",
+      "longitude": "134.47326000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q527748",
+      "country_code": "PW",
+      "state_code": "150",
+      "state_id": 4532,
+      "country_id": 168
+    }
+  ]
+}

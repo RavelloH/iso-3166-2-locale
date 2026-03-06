@@ -1,0 +1,39 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 71,
+    "code": "FK",
+    "iso3": "FLK",
+    "numeric_code": "238",
+    "name": "福克兰群岛",
+    "name_default": "Falkland Islands",
+    "native": "Falkland Islands",
+    "capital": "Stanley",
+    "phonecode": "500",
+    "currency": "FKP",
+    "currency_name": "Falkland Islands pound",
+    "currency_symbol": "£",
+    "tld": ".fk",
+    "population": 3662,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Falkland Island",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Stanley",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "FKST",
+        "tzName": "Falkland Islands Summer Time"
+      }
+    ],
+    "latitude": "-51.75000000",
+    "longitude": "-59.00000000",
+    "emoji": "🇫🇰",
+    "emojiU": "U+1F1EB U+1F1F0"
+  },
+  "states": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 83,
+    "code": "GH",
+    "iso3": "GHA",
+    "numeric_code": "288",
+    "name": "غانا",
+    "name_default": "Ghana",
+    "native": "Ghana",
+    "capital": "Accra",
+    "phonecode": "233",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "population": 33742380,
+    "gdp": 88332,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Ghanaian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  },
+  "state": {
+    "id": 57,
+    "code": "UW",
+    "iso2": "UW",
+    "iso3166_2": "GH-UW",
+    "fips_code": "11",
+    "name": "الغرب العلوي",
+    "name_default": "Upper West",
+    "native": "Upper West",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "10.36695250",
+    "longitude": "-2.09214260",
+    "timezone": "Africa/Accra",
+    "wikiDataId": "Q715805",
+    "country_code": "GH"
+  },
+  "cities": [
+    {
+      "id": 52213,
+      "name": "وا",
+      "name_default": "Wa",
+      "native": "Of",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 78107,
+      "latitude": "10.06069000",
+      "longitude": "-2.50192000",
+      "timezone": "Africa/Accra",
+      "wikiDataId": "Q250733",
+      "country_code": "GH",
+      "state_code": "UW",
+      "state_id": 57,
+      "country_id": 83
+    }
+  ]
+}

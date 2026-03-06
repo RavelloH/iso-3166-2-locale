@@ -1,0 +1,53 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 57,
+    "code": "CY",
+    "iso3": "CYP",
+    "numeric_code": "196",
+    "name": "قبرس",
+    "name_default": "Cyprus",
+    "native": "Κύπρος",
+    "capital": "Nicosia",
+    "phonecode": "357",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "population": 966400,
+    "gdp": 38736,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Cypriot",
+    "timezones": [
+      {
+        "zoneName": "Asia/Famagusta",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Nicosia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "35.00000000",
+    "longitude": "33.00000000",
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "مولداوی",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4388,
+    "code": "SD",
+    "iso2": "SD",
+    "iso3166_2": "MD-SD",
+    "fips_code": "86",
+    "name": "سولدنِشتی",
+    "name_default": "Șoldănești",
+    "native": "Șoldănești",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 5883,
+    "latitude": "47.81473890",
+    "longitude": "28.78895860",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q865639",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67341,
+      "name": "شولدنشتی",
+      "name_default": "Şoldăneşti",
+      "native": "Şoldăneşti",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6160,
+      "latitude": "47.81608000",
+      "longitude": "28.79718000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q2271123",
+      "country_code": "MD",
+      "state_code": "SD",
+      "state_id": 4388,
+      "country_id": 144
+    }
+  ]
+}

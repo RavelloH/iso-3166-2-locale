@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Slovenya",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4246,
+    "code": "129",
+    "iso2": "129",
+    "iso3166_2": "SI-129",
+    "fips_code": "D3",
+    "name": "Trbovlje",
+    "name_default": "Trbovlje",
+    "native": "Trbovlje",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 13822,
+    "latitude": "46.15035630",
+    "longitude": "15.04531370",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q15925",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104297,
+      "name": "Trbovlje",
+      "name_default": "Trbovlje",
+      "native": "Trbovlje",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 13678,
+      "latitude": "46.15500000",
+      "longitude": "15.05333000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q8011202",
+      "country_code": "SI",
+      "state_code": "129",
+      "state_id": 4246,
+      "country_id": 201
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 99,
+    "code": "HU",
+    "iso3": "HUN",
+    "numeric_code": "348",
+    "name": "Hungaria",
+    "name_default": "Hungary",
+    "native": "Magyarország",
+    "capital": "Budapest",
+    "phonecode": "36",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "population": 9539502,
+    "gdp": 237070,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Hungarian, Magyar",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  },
+  "state": {
+    "id": 1036,
+    "code": "BC",
+    "iso2": "BC",
+    "iso3166_2": "HU-BC",
+    "fips_code": "26",
+    "name": "Békéscsaba",
+    "name_default": "Békéscsaba",
+    "native": "Békéscsaba",
+    "type": "city with county rights",
+    "level": null,
+    "parent_id": null,
+    "population": 59732,
+    "latitude": "46.67980030",
+    "longitude": "21.09854250",
+    "timezone": "Europe/Budapest",
+    "wikiDataId": "Q178878",
+    "country_code": "HU"
+  },
+  "cities": []
+}

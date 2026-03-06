@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 119,
+    "code": "LA",
+    "iso3": "LAO",
+    "numeric_code": "418",
+    "name": "Laos",
+    "name_default": "Laos",
+    "native": "ສປປລາວ",
+    "capital": "Vientiane",
+    "phonecode": "856",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "population": 7647000,
+    "gdp": 16322,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Lao, Laotian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  },
+  "state": {
+    "id": 995,
+    "code": "XI",
+    "iso2": "XI",
+    "iso3166_2": "LA-XI",
+    "fips_code": "14",
+    "name": "Xiangkhouang",
+    "name_default": "Xiangkhouang",
+    "native": "ຊຽງຂວາງ",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 267172,
+    "latitude": "19.41304790",
+    "longitude": "103.46801260",
+    "timezone": "Asia/Vientiane",
+    "wikiDataId": "Q465947",
+    "country_code": "LA"
+  },
+  "cities": [
+    {
+      "id": 65893,
+      "name": "Muang Phônsavan",
+      "name_default": "Muang Phônsavan",
+      "native": "ມ.ໂພນສະຫວັນ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 37507,
+      "latitude": "19.44940000",
+      "longitude": "103.19170000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q1011711",
+      "country_code": "LA",
+      "state_code": "XI",
+      "state_id": 995,
+      "country_id": 119
+    }
+  ]
+}

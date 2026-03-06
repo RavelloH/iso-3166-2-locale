@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 65,
+    "code": "EG",
+    "iso3": "EGY",
+    "numeric_code": "818",
+    "name": "Ägypten",
+    "name_default": "Egypt",
+    "native": "مصر‎",
+    "capital": "Cairo",
+    "phonecode": "20",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "population": 107271260,
+    "gdp": 347342,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Egyptian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  },
+  "state": {
+    "id": 3227,
+    "code": "SIN",
+    "iso2": "SIN",
+    "iso3166_2": "EG-SIN",
+    "fips_code": "27",
+    "name": "Nord-Sinai",
+    "name_default": "North Sinai",
+    "native": "شمال سيناء",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 450531,
+    "latitude": "30.50428030",
+    "longitude": "33.59100600",
+    "timezone": "Africa/Cairo",
+    "wikiDataId": "Q30662",
+    "country_code": "EG"
+  },
+  "cities": [
+    {
+      "id": 31788,
+      "name": "Arisch",
+      "name_default": "Arish",
+      "native": "العريش",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 164830,
+      "latitude": "31.13159000",
+      "longitude": "33.79844000",
+      "timezone": "Africa/Cairo",
+      "wikiDataId": "Q238452",
+      "country_code": "EG",
+      "state_code": "SIN",
+      "state_id": 3227,
+      "country_id": 65
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 149,
+    "code": "MA",
+    "iso3": "MAR",
+    "numeric_code": "504",
+    "name": "モロッコ",
+    "name_default": "Morocco",
+    "native": "المغرب",
+    "capital": "Rabat",
+    "phonecode": "212",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "population": 36828330,
+    "gdp": 165835,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Moroccan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      },
+      {
+        "zoneName": "Africa/El_Aaiun",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western Sahara Time"
+      }
+    ],
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  },
+  "state": {
+    "id": 3294,
+    "code": "INE",
+    "iso2": "INE",
+    "iso3166_2": "MA-INE",
+    "fips_code": "09",
+    "name": "イネスガネ・アイト・メルル",
+    "name_default": "Inezgane-Ait Melloul",
+    "native": "إنزكان-آيت ملول",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "3295",
+    "population": 130333,
+    "latitude": "30.34691720",
+    "longitude": "-9.44084920",
+    "timezone": "Africa/Casablanca",
+    "wikiDataId": "Q1662264",
+    "country_code": "MA"
+  },
+  "cities": []
+}

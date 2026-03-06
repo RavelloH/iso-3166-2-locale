@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 1,
+    "code": "AF",
+    "iso3": "AFG",
+    "numeric_code": "004",
+    "name": "अफ़ग़ानिस्तान",
+    "name_default": "Afghanistan",
+    "native": "افغانستان",
+    "capital": "Kabul",
+    "phonecode": "93",
+    "currency": "AFN",
+    "currency_name": "Afghan afghani",
+    "currency_symbol": "؋",
+    "tld": ".af",
+    "population": 43844000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Afghan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ],
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "emoji": "🇦🇫",
+    "emojiU": "U+1F1E6 U+1F1EB"
+  },
+  "state": {
+    "id": 3870,
+    "code": "GHA",
+    "iso2": "GHA",
+    "iso3166_2": "AF-GHA",
+    "fips_code": "08",
+    "name": "गजनी",
+    "name_default": "Ghazni",
+    "native": "غزني",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 190424,
+    "latitude": "33.54505870",
+    "longitude": "68.41739720",
+    "timezone": "Asia/Kabul",
+    "wikiDataId": "Q180415",
+    "country_code": "AF"
+  },
+  "cities": [
+    {
+      "id": 71,
+      "name": "गजनी",
+      "name_default": "Ghazni",
+      "native": "غزني",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 141000,
+      "latitude": "33.55391000",
+      "longitude": "68.42096000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q173731",
+      "country_code": "AF",
+      "state_code": "GHA",
+      "state_id": 3870,
+      "country_id": 1
+    }
+  ]
+}

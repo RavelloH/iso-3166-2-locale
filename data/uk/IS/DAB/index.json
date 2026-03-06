@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Ісландія",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5561,
+    "code": "DAB",
+    "iso2": "DAB",
+    "iso3166_2": "IS-DAB",
+    "fips_code": null,
+    "name": "Далабіггг",
+    "name_default": "Dalabyggð",
+    "native": "Dalabyggð",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.25000000",
+    "longitude": "-21.83000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q1158005",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135169,
+      "name": "Далабіггг",
+      "name_default": "Dalabyggð",
+      "native": "Dalabyggð",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 645,
+      "latitude": "65.10121000",
+      "longitude": "-21.72871000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1157787",
+      "country_code": "IS",
+      "state_code": "DAB",
+      "state_id": 5561,
+      "country_id": 100
+    }
+  ]
+}

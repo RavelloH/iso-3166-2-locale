@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "圣基茨和尼维斯",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 5348,
+    "code": "03",
+    "iso2": "03",
+    "iso3166_2": "KN-03",
+    "fips_code": "03",
+    "name": "圣乔治巴斯特尔",
+    "name_default": "Saint George Basseterre",
+    "native": "Saint George Basseterre",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 12635,
+    "latitude": "17.23915440",
+    "longitude": "-62.64240820",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q1540744",
+    "country_code": "KN"
+  },
+  "cities": []
+}

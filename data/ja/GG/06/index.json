@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 91,
+    "code": "GG",
+    "iso3": "GGY",
+    "numeric_code": "831",
+    "name": "ガーンジー",
+    "name_default": "Guernsey",
+    "native": "Guernsey",
+    "capital": "St Peter Port",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".gg",
+    "population": 64781,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Channel Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Guernsey",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "49.46666666",
+    "longitude": "-2.58333333",
+    "emoji": "🇬🇬",
+    "emojiU": "U+1F1EC U+1F1EC"
+  },
+  "state": {
+    "id": 5391,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "GG-06",
+    "fips_code": "06",
+    "name": "セントピーターポート",
+    "name_default": "St Peter Port",
+    "native": "St Peter Port",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": 19295,
+    "latitude": "49.45681420",
+    "longitude": "-2.53899790",
+    "timezone": "Europe/Guernsey",
+    "wikiDataId": "Q174262",
+    "country_code": "GG"
+  },
+  "cities": [
+    {
+      "id": 160553,
+      "name": "Saint Peter Port",
+      "name_default": "Saint Peter Port",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16488,
+      "latitude": "49.45981000",
+      "longitude": "-2.53527000",
+      "timezone": "Europe/Guernsey",
+      "wikiDataId": null,
+      "country_code": "GG",
+      "state_code": "06",
+      "state_id": 5391,
+      "country_id": 91
+    }
+  ]
+}

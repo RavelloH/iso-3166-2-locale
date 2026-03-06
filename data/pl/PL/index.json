@@ -1,0 +1,56 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 176,
+    "code": "PL",
+    "iso3": "POL",
+    "numeric_code": "616",
+    "name": "Polska",
+    "name_default": "Poland",
+    "native": "Polska",
+    "capital": "Warsaw",
+    "phonecode": "48",
+    "currency": "PLN",
+    "currency_name": "Polish złoty",
+    "currency_symbol": "zł",
+    "tld": ".pl",
+    "population": 37401000,
+    "gdp": 979960,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Polish",
+    "timezones": [
+      {
+        "zoneName": "Europe/Warsaw",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "52.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇵🇱",
+    "emojiU": "U+1F1F5 U+1F1F1"
+  },
+  "states": [
+    "02",
+    "04",
+    "06",
+    "08",
+    "10",
+    "12",
+    "14",
+    "16",
+    "18",
+    "20",
+    "22",
+    "24",
+    "26",
+    "28",
+    "30",
+    "32"
+  ]
+}

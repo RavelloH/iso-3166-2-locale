@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "Guam",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5255,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "GU-02",
+    "fips_code": "02",
+    "name": "Asan-Maina",
+    "name_default": "Asan-Maina",
+    "native": "Asan-Maina",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": 2011,
+    "latitude": "13.47764720",
+    "longitude": "144.73085880",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q926116",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160258,
+      "name": "Asan-Maina Village",
+      "name_default": "Asan-Maina Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2137,
+      "latitude": "13.47215000",
+      "longitude": "144.71654000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "02",
+      "state_id": 5255,
+      "country_id": 89
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 145,
+    "code": "MC",
+    "iso3": "MCO",
+    "numeric_code": "492",
+    "name": "Monaco",
+    "name_default": "Monaco",
+    "native": "Monaco",
+    "capital": "Monaco",
+    "phonecode": "377",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mc",
+    "population": 38423,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Monegasque, Monacan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Monaco",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.73333333",
+    "longitude": "7.40000000",
+    "emoji": "🇲🇨",
+    "emojiU": "U+1F1F2 U+1F1E8"
+  },
+  "state": {
+    "id": 5669,
+    "code": "JE",
+    "iso2": "JE",
+    "iso3166_2": "MC-JE",
+    "fips_code": null,
+    "name": "Jardin Exotique",
+    "name_default": "Jardin Exotique",
+    "native": "Jardin Exotique",
+    "type": "quarter",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.73138889",
+    "longitude": "7.41388889",
+    "timezone": "Europe/Monaco",
+    "wikiDataId": "Q19286504",
+    "country_code": "MC"
+  },
+  "cities": [
+    {
+      "id": 160047,
+      "name": "Jardin Exotique",
+      "name_default": "Jardin Exotique",
+      "native": "Jardin Exotique",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 5117,
+      "latitude": "43.73138889",
+      "longitude": "7.41388889",
+      "timezone": "Europe/Monaco",
+      "wikiDataId": "Q19286504",
+      "country_code": "MC",
+      "state_code": "JE",
+      "state_id": 5669,
+      "country_id": 145
+    }
+  ]
+}

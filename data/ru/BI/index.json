@@ -1,0 +1,58 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Бурунди",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "states": [
+    "BB",
+    "BL",
+    "BM",
+    "BR",
+    "CA",
+    "CI",
+    "GI",
+    "KI",
+    "KR",
+    "KY",
+    "MA",
+    "MU",
+    "MW",
+    "MY",
+    "NG",
+    "RM",
+    "RT",
+    "RY"
+  ]
+}

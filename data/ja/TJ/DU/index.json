@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 217,
+    "code": "TJ",
+    "iso3": "TJK",
+    "numeric_code": "762",
+    "name": "タジキスタン",
+    "name_default": "Tajikistan",
+    "native": "Тоҷикистон",
+    "capital": "Dushanbe",
+    "phonecode": "992",
+    "currency": "TJS",
+    "currency_name": "Tajikistani somoni",
+    "currency_symbol": "SM",
+    "tld": ".tj",
+    "population": 10499000,
+    "gdp": 14836,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Central Asia",
+    "subregion_id": 10,
+    "nationality": "Tajikistani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dushanbe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TJT",
+        "tzName": "Tajikistan Time"
+      }
+    ],
+    "latitude": "39.00000000",
+    "longitude": "71.00000000",
+    "emoji": "🇹🇯",
+    "emojiU": "U+1F1F9 U+1F1EF"
+  },
+  "state": {
+    "id": 5706,
+    "code": "DU",
+    "iso2": "DU",
+    "iso3166_2": "TJ-DU",
+    "fips_code": null,
+    "name": "ドゥシャンベ",
+    "name_default": "Dushanbe",
+    "native": "Душанбе",
+    "type": "capital territory",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "38.53666667",
+    "longitude": "68.78000000",
+    "timezone": "Asia/Dushanbe",
+    "wikiDataId": "Q9365",
+    "country_code": "TJ"
+  },
+  "cities": [
+    {
+      "id": 160121,
+      "name": "ドゥシャンベ",
+      "name_default": "Dushanbe",
+      "native": "Душанбе",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 679400,
+      "latitude": "38.53666667",
+      "longitude": "68.78000000",
+      "timezone": "Asia/Dushanbe",
+      "wikiDataId": "Q9365",
+      "country_code": "TJ",
+      "state_code": "DU",
+      "state_id": 5706,
+      "country_id": 217
+    }
+  ]
+}

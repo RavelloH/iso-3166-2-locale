@@ -1,0 +1,84 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 132,
+    "code": "MY",
+    "iso3": "MYS",
+    "numeric_code": "458",
+    "name": "ماليزيا",
+    "name_default": "Malaysia",
+    "native": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "phonecode": "60",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "population": 34231700,
+    "gdp": 444984,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Malaysian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
+  },
+  "state": {
+    "id": 1949,
+    "code": "14",
+    "iso2": "14",
+    "iso3166_2": "MY-14",
+    "fips_code": "14",
+    "name": "كوالا لمبور",
+    "name_default": "Kuala Lumpur",
+    "native": "Kuala Lumpur",
+    "type": "federal territory",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "3.15169640",
+    "longitude": "101.69423710",
+    "timezone": "Asia/Kuala_Lumpur",
+    "wikiDataId": "Q1865",
+    "country_code": "MY"
+  },
+  "cities": [
+    {
+      "id": 76497,
+      "name": "كوالا لمبور",
+      "name_default": "Kuala Lumpur",
+      "native": "Kuala Lumpur",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1453975,
+      "latitude": "3.14120000",
+      "longitude": "101.68653000",
+      "timezone": "Asia/Kuala_Lumpur",
+      "wikiDataId": "Q1865",
+      "country_code": "MY",
+      "state_code": "14",
+      "state_id": 1949,
+      "country_id": 132
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Азербайджан",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 549,
+    "code": "KUR",
+    "iso2": "KUR",
+    "iso3166_2": "AZ-KUR",
+    "fips_code": "27",
+    "name": "Кюрдамир",
+    "name_default": "Kurdamir",
+    "native": "Kurdamir",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 18100,
+    "latitude": "40.34552470",
+    "longitude": "48.14889510",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q688589",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8106,
+      "name": "Кюрдамир",
+      "name_default": "Kyurdarmir",
+      "native": "Kyurdarmir",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 19088,
+      "latitude": "40.34257000",
+      "longitude": "48.15649000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q1851063",
+      "country_code": "AZ",
+      "state_code": "KUR",
+      "state_id": 549,
+      "country_id": 16
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 5642,
+    "code": "47",
+    "iso2": "47",
+    "iso3166_2": "MT-47",
+    "fips_code": null,
+    "name": "Safi",
+    "name_default": "Safi",
+    "native": "Ħal Safi",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "35.83333333",
+    "longitude": "14.48500000",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q658903",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 153740,
+      "name": "Ħal Safi",
+      "name_default": "Ħal Safi",
+      "native": "Ħal Safi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2280,
+      "latitude": "35.83333300",
+      "longitude": "14.48500000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q658903",
+      "country_code": "MT",
+      "state_code": "47",
+      "state_id": 5642,
+      "country_id": 135
+    }
+  ]
+}

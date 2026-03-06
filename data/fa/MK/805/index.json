@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 722,
+    "code": "805",
+    "iso2": "805",
+    "iso3166_2": "MK-805",
+    "fips_code": "29",
+    "name": "گیورچه پتروف",
+    "name_default": "Gjorče Petrov",
+    "native": "Ѓорче Петров",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "42.01746480",
+    "longitude": "21.36427530",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q924278",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67428,
+      "name": "گیورچه پترو",
+      "name_default": "Gjorče Petro",
+      "native": "Ѓорче Петро",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 41000,
+      "latitude": "42.00778000",
+      "longitude": "21.35306000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q157061",
+      "country_code": "MK",
+      "state_code": "805",
+      "state_id": 722,
+      "country_id": 129
+    }
+  ]
+}

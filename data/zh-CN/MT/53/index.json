@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "马耳他",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 94,
+    "code": "53",
+    "iso2": "53",
+    "iso3166_2": "MT-53",
+    "fips_code": "05",
+    "name": "圣路易娅",
+    "name_default": "Santa Luċija",
+    "native": "Santa Luċija",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 2954,
+    "latitude": "35.85614200",
+    "longitude": "14.50436000",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q1087776",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67808,
+      "name": "圣维内拉",
+      "name_default": "Santa Venera",
+      "native": "Santa Venera",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6932,
+      "latitude": "35.89083000",
+      "longitude": "14.47417000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q585420",
+      "country_code": "MT",
+      "state_code": "53",
+      "state_id": 94,
+      "country_id": 135
+    }
+  ]
+}

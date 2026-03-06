@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Азербайджан",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 541,
+    "code": "LAC",
+    "iso2": "LAC",
+    "iso3166_2": "AZ-LAC",
+    "fips_code": "28",
+    "name": "Лачын",
+    "name_default": "Lachin",
+    "native": "Lachin",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 2190,
+    "latitude": "39.63834140",
+    "longitude": "46.54608530",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q301832",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8109,
+      "name": "Лачын",
+      "name_default": "Laçın",
+      "native": "Laçın",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2300,
+      "latitude": "39.59881000",
+      "longitude": "46.55045000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q1000883",
+      "country_code": "AZ",
+      "state_code": "LAC",
+      "state_id": 541,
+      "country_id": 16
+    }
+  ]
+}

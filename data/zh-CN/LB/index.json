@@ -1,0 +1,48 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 121,
+    "code": "LB",
+    "iso3": "LBN",
+    "numeric_code": "422",
+    "name": "黎巴嫩",
+    "name_default": "Lebanon",
+    "native": "لبنان",
+    "capital": "Beirut",
+    "phonecode": "961",
+    "currency": "LBP",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "£",
+    "tld": ".lb",
+    "population": 5490000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Lebanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Beirut",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "33.83333333",
+    "longitude": "35.83333333",
+    "emoji": "🇱🇧",
+    "emojiU": "U+1F1F1 U+1F1E7"
+  },
+  "states": [
+    "AK",
+    "AS",
+    "BA",
+    "BH",
+    "BI",
+    "JA",
+    "JL",
+    "NA"
+  ]
+}

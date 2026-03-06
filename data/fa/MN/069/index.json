@@ -1,0 +1,91 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 146,
+    "code": "MN",
+    "iso3": "MNG",
+    "numeric_code": "496",
+    "name": "مغولستان",
+    "name_default": "Mongolia",
+    "native": "Монгол улс",
+    "capital": "Ulan Bator",
+    "phonecode": "976",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "population": 3544835,
+    "gdp": 25804,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Mongolian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Choibalsan",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "tzName": "Choibalsan Standard Time"
+      },
+      {
+        "zoneName": "Asia/Hovd",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "tzName": "Hovd Time"
+      },
+      {
+        "zoneName": "Asia/Ulaanbaatar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "tzName": "Ulaanbaatar Standard Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3"
+  },
+  "state": {
+    "id": 1976,
+    "code": "069",
+    "iso2": "069",
+    "iso3166_2": "MN-069",
+    "fips_code": "02",
+    "name": "بایانخونگور",
+    "name_default": "Bayankhongor",
+    "native": "Баянхонгор",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": 30931,
+    "latitude": "45.23809370",
+    "longitude": "99.51467990",
+    "timezone": "Asia/Choibalsan",
+    "wikiDataId": "Q276200",
+    "country_code": "MN"
+  },
+  "cities": [
+    {
+      "id": 67709,
+      "name": "بایان‌هونگور",
+      "name_default": "Bayanhongor",
+      "native": "Баянхонгор",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 30931,
+      "latitude": "46.19444000",
+      "longitude": "100.71806000",
+      "timezone": "Asia/Ulaanbaatar",
+      "wikiDataId": "Q804117",
+      "country_code": "MN",
+      "state_code": "069",
+      "state_id": 1976,
+      "country_id": 146
+    }
+  ]
+}

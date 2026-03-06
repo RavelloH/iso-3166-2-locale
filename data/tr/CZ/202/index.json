@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "Çekya",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4620,
+    "code": "202",
+    "iso2": "202",
+    "iso3166_2": "CZ-202",
+    "fips_code": "82",
+    "name": "Beroun",
+    "name_default": "Beroun",
+    "native": "Beroun",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4554",
+    "population": 21521,
+    "latitude": "49.96402920",
+    "longitude": "14.07339070",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q480085",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

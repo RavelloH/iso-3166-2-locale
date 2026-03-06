@@ -1,0 +1,50 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 246,
+    "code": "ZM",
+    "iso3": "ZMB",
+    "numeric_code": "894",
+    "name": "잠비아",
+    "name_default": "Zambia",
+    "native": "Zambia",
+    "capital": "Lusaka",
+    "phonecode": "260",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "population": 19693423,
+    "gdp": 28910,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Zambian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10"
+  ]
+}

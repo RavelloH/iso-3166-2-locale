@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "斯洛文尼亚",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4304,
+    "code": "018",
+    "iso2": "018",
+    "iso3166_2": "SI-018",
+    "fips_code": "G1",
+    "name": "德斯特尼克",
+    "name_default": "Destrnik",
+    "native": "Destrnik",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 186,
+    "latitude": "46.49223680",
+    "longitude": "15.87779560",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q570618",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104087,
+      "name": "德斯特尼克",
+      "name_default": "Destrnik",
+      "native": "Destrnik",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 186,
+      "latitude": "46.49254000",
+      "longitude": "15.87893000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q1255557",
+      "country_code": "SI",
+      "state_code": "018",
+      "state_id": 4304,
+      "country_id": 201
+    }
+  ]
+}

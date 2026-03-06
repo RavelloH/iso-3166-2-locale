@@ -1,0 +1,102 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 51,
+    "code": "CD",
+    "iso3": "COD",
+    "numeric_code": "180",
+    "name": "RD Congo",
+    "name_default": "Democratic Republic of the Congo",
+    "native": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "phonecode": "243",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "population": 112832000,
+    "gdp": 79119,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Congolese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  },
+  "state": {
+    "id": 4953,
+    "code": "LU",
+    "iso2": "LU",
+    "iso3166_2": "CD-LU",
+    "fips_code": "21",
+    "name": "Lualaba",
+    "name_default": "Lualaba",
+    "native": "Kriednle",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-10.70278090",
+    "longitude": "25.46579790",
+    "timezone": "Africa/Kinshasa",
+    "wikiDataId": "Q1159531",
+    "country_code": "CD"
+  },
+  "cities": [
+    {
+      "id": 153949,
+      "name": "Kasaji",
+      "name_default": "Kasaji",
+      "native": "Kasaji",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-10.38342000",
+      "longitude": "23.44987000",
+      "timezone": "Africa/Kinshasa",
+      "wikiDataId": "Q22536905",
+      "country_code": "CD",
+      "state_code": "LU",
+      "state_id": 4953,
+      "country_id": 51
+    },
+    {
+      "id": 153948,
+      "name": "Kolwezi",
+      "name_default": "Kolwezi",
+      "native": "Ignorant",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 790248,
+      "latitude": "-10.71666700",
+      "longitude": "25.46666700",
+      "timezone": "Africa/Lubumbashi",
+      "wikiDataId": "Q271404",
+      "country_code": "CD",
+      "state_code": "LU",
+      "state_id": 4953,
+      "country_id": 51
+    }
+  ]
+}

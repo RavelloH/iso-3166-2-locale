@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 7,
+    "code": "AO",
+    "iso3": "AGO",
+    "numeric_code": "024",
+    "name": "Angola",
+    "name_default": "Angola",
+    "native": "Angola",
+    "capital": "Luanda",
+    "phonecode": "244",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "population": 36170961,
+    "gdp": 113343,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Angolan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  },
+  "state": {
+    "id": 228,
+    "code": "CAB",
+    "iso2": "CAB",
+    "iso3166_2": "AO-CAB",
+    "fips_code": "03",
+    "name": "Kabinda",
+    "name_default": "Cabinda",
+    "native": "Cabinda",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-5.05639500",
+    "longitude": "12.32117490",
+    "timezone": "Africa/Luanda",
+    "wikiDataId": "Q168787",
+    "country_code": "AO"
+  },
+  "cities": [
+    {
+      "id": 591,
+      "name": "Kabinda",
+      "name_default": "Cabinda",
+      "native": "Cabinda",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 550000,
+      "latitude": "-5.55000000",
+      "longitude": "12.20000000",
+      "timezone": "Africa/Luanda",
+      "wikiDataId": "Q459360",
+      "country_code": "AO",
+      "state_code": "CAB",
+      "state_id": 228,
+      "country_id": 7
+    }
+  ]
+}

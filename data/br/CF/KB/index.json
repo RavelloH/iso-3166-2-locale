@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 42,
+    "code": "CF",
+    "iso3": "CAF",
+    "numeric_code": "140",
+    "name": "Republik Kreizafrikan",
+    "name_default": "Central African Republic",
+    "native": "Ködörösêse tî Bêafrîka",
+    "capital": "Bangui",
+    "phonecode": "236",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".cf",
+    "population": 6470307,
+    "gdp": 2932,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Central African",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bangui",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "21.00000000",
+    "emoji": "🇨🇫",
+    "emojiU": "U+1F1E8 U+1F1EB"
+  },
+  "state": {
+    "id": 1253,
+    "code": "KB",
+    "iso2": "KB",
+    "iso3166_2": "CF-KB",
+    "fips_code": "15",
+    "name": "Nana-Grébizi",
+    "name_default": "Nana-Grébizi",
+    "native": "Nana-Grébizi",
+    "type": "economic prefecture",
+    "level": null,
+    "parent_id": null,
+    "population": 117816,
+    "latitude": "7.50480070",
+    "longitude": "19.19235790",
+    "timezone": "Africa/Bangui",
+    "wikiDataId": "Q856227",
+    "country_code": "CF"
+  },
+  "cities": [
+    {
+      "id": 17321,
+      "name": "Kaga Bandoro",
+      "name_default": "Kaga Bandoro",
+      "native": "Kaga bando",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 55047,
+      "latitude": "6.98961000",
+      "longitude": "19.18744000",
+      "timezone": "Africa/Bangui",
+      "wikiDataId": "Q1210015",
+      "country_code": "CF",
+      "state_code": "KB",
+      "state_id": 1253,
+      "country_id": 42
+    }
+  ]
+}

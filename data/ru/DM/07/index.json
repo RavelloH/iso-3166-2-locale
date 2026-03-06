@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "Доминика",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "state": {
+    "id": 4083,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "DM-07",
+    "fips_code": "07",
+    "name": "Святой Лука",
+    "name_default": "Saint Luke",
+    "native": "Saint Luke",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.25264830",
+    "longitude": "-61.36068480",
+    "timezone": "America/Dominica",
+    "wikiDataId": "Q1431099",
+    "country_code": "DM"
+  },
+  "cities": [
+    {
+      "id": 31009,
+      "name": "Пуэнт-Мишель",
+      "name_default": "Pointe Michel",
+      "native": "Michel Pointe",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1202,
+      "latitude": "15.25976000",
+      "longitude": "-61.37452000",
+      "timezone": "America/Dominica",
+      "wikiDataId": "Q1934011",
+      "country_code": "DM",
+      "state_code": "07",
+      "state_id": 4083,
+      "country_id": 61
+    }
+  ]
+}

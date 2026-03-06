@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 87,
+    "code": "GD",
+    "iso3": "GRD",
+    "numeric_code": "308",
+    "name": "Granada",
+    "name_default": "Grenada",
+    "native": "Grenada",
+    "capital": "St. George's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "population": 109021,
+    "gdp": 1464,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Grenadian",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
+  },
+  "state": {
+    "id": 3868,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "GD-04",
+    "fips_code": "04",
+    "name": "São João",
+    "name_default": "Saint John",
+    "native": "Saint John",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.14440290",
+    "longitude": "-61.71218410",
+    "timezone": "America/Grenada",
+    "wikiDataId": "Q1476289",
+    "country_code": "GD"
+  },
+  "cities": [
+    {
+      "id": 52028,
+      "name": "Gouyave",
+      "name_default": "Gouyave",
+      "native": "Fruit",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3378,
+      "latitude": "12.16462000",
+      "longitude": "-61.72965000",
+      "timezone": "America/Grenada",
+      "wikiDataId": "Q375507",
+      "country_code": "GD",
+      "state_code": "04",
+      "state_id": 3868,
+      "country_id": 87
+    }
+  ]
+}

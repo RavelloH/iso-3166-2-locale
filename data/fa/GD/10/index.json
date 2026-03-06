@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 87,
+    "code": "GD",
+    "iso3": "GRD",
+    "numeric_code": "308",
+    "name": "گرنادا",
+    "name_default": "Grenada",
+    "native": "Grenada",
+    "capital": "St. George's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "population": 109021,
+    "gdp": 1464,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Grenadian",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
+  },
+  "state": {
+    "id": 3867,
+    "code": "10",
+    "iso2": "10",
+    "iso3166_2": "GD-10",
+    "fips_code": "10",
+    "name": "کاریاکو",
+    "name_default": "Carriacou",
+    "native": "Carriacou",
+    "type": "dependency",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.48299850",
+    "longitude": "-61.44484360",
+    "timezone": "America/Grenada",
+    "wikiDataId": "Q3044818",
+    "country_code": "GD"
+  },
+  "cities": [
+    {
+      "id": 52030,
+      "name": "هیلزبورو",
+      "name_default": "Hillsborough",
+      "native": "Hillsborough",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1000,
+      "latitude": "12.48292000",
+      "longitude": "-61.45597000",
+      "timezone": "America/Grenada",
+      "wikiDataId": "Q3267362",
+      "country_code": "GD",
+      "state_code": "10",
+      "state_id": 3867,
+      "country_id": 87
+    }
+  ]
+}

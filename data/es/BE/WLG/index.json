@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 22,
+    "code": "BE",
+    "iso3": "BEL",
+    "numeric_code": "056",
+    "name": "Bélgica",
+    "name_default": "Belgium",
+    "native": "België",
+    "capital": "Brussels",
+    "phonecode": "32",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "population": 11825551,
+    "gdp": 684864,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Belgian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
+  },
+  "state": {
+    "id": 1384,
+    "code": "WLG",
+    "iso2": "WLG",
+    "iso3166_2": "BE-WLG",
+    "fips_code": "04",
+    "name": "Feudal",
+    "name_default": "Liège",
+    "native": "Aan het zeren",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1380",
+    "population": 195278,
+    "latitude": "50.64509440",
+    "longitude": "5.57361120",
+    "timezone": "Europe/Brussels",
+    "wikiDataId": "Q1127",
+    "country_code": "BE"
+  },
+  "cities": []
+}

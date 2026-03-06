@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "Bahamalar",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3605,
+    "code": "BP",
+    "iso2": "BP",
+    "iso3166_2": "BS-BP",
+    "fips_code": "36",
+    "name": "Siyah Nokta",
+    "name_default": "Black Point",
+    "native": "Black Point",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "24.09625980",
+    "longitude": "-76.40225910",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q2525298",
+    "country_code": "BS"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 166,
+    "code": "OM",
+    "iso3": "OMN",
+    "numeric_code": "512",
+    "name": "Umman",
+    "name_default": "Oman",
+    "native": "عمان",
+    "capital": "Muscat",
+    "phonecode": "968",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "population": 5306976,
+    "gdp": 104351,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Omani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  },
+  "state": {
+    "id": 3059,
+    "code": "BU",
+    "iso2": "BU",
+    "iso3166_2": "OM-BU",
+    "fips_code": "10",
+    "name": "El Buraymi",
+    "name_default": "Al Buraimi",
+    "native": "البريمي",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "24.16149480",
+    "longitude": "56.14641020",
+    "timezone": "Asia/Muscat",
+    "wikiDataId": "Q852039",
+    "country_code": "OM"
+  },
+  "cities": [
+    {
+      "id": 79927,
+      "name": "El Buraymi",
+      "name_default": "Al Buraymī",
+      "native": "إلى بورايمي",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 73670,
+      "latitude": "24.25088000",
+      "longitude": "55.79312000",
+      "timezone": "Asia/Muscat",
+      "wikiDataId": "Q8032610",
+      "country_code": "OM",
+      "state_code": "BU",
+      "state_id": 3059,
+      "country_id": 166
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 158,
+    "code": "NZ",
+    "iso3": "NZL",
+    "numeric_code": "554",
+    "name": "Yeni Zelanda",
+    "name_default": "New Zealand",
+    "native": "New Zealand",
+    "capital": "Wellington",
+    "phonecode": "64",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "population": 5324700,
+    "gdp": 248666,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "New Zealand, NZ",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  },
+  "states": [
+    "AUK",
+    "BOP",
+    "CAN",
+    "CIT",
+    "GIS",
+    "HKB",
+    "MBH",
+    "MWT",
+    "NSN",
+    "NTL",
+    "OTA",
+    "STL",
+    "TAS",
+    "TKI",
+    "WGN",
+    "WKO",
+    "WTC"
+  ]
+}

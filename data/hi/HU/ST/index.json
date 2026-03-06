@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 99,
+    "code": "HU",
+    "iso3": "HUN",
+    "numeric_code": "348",
+    "name": "हंगरी",
+    "name_default": "Hungary",
+    "native": "Magyarország",
+    "capital": "Budapest",
+    "phonecode": "36",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "population": 9539502,
+    "gdp": 237070,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Hungarian, Magyar",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  },
+  "state": {
+    "id": 1068,
+    "code": "ST",
+    "iso2": "ST",
+    "iso3166_2": "HU-ST",
+    "fips_code": "41",
+    "name": "साल्गोटार्जन",
+    "name_default": "Salgótarján",
+    "native": "Salgótarján",
+    "type": "city with county rights",
+    "level": null,
+    "parent_id": null,
+    "population": 34627,
+    "latitude": "48.09352370",
+    "longitude": "19.79998130",
+    "timezone": "Europe/Budapest",
+    "wikiDataId": "Q189769",
+    "country_code": "HU"
+  },
+  "cities": []
+}

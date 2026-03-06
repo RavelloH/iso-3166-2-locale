@@ -1,0 +1,52 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 81,
+    "code": "GE",
+    "iso3": "GEO",
+    "numeric_code": "268",
+    "name": "Georgië",
+    "name_default": "Georgia",
+    "native": "საქართველო",
+    "capital": "Tbilisi",
+    "phonecode": "995",
+    "currency": "GEL",
+    "currency_name": "Georgian lari",
+    "currency_symbol": "ლ",
+    "tld": ".ge",
+    "population": 3704500,
+    "gdp": 35353,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Georgian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tbilisi",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GET",
+        "tzName": "Georgia Standard Time"
+      }
+    ],
+    "latitude": "42.00000000",
+    "longitude": "43.50000000",
+    "emoji": "🇬🇪",
+    "emojiU": "U+1F1EC U+1F1EA"
+  },
+  "states": [
+    "AB",
+    "AJ",
+    "GU",
+    "IM",
+    "KA",
+    "KK",
+    "MM",
+    "RL",
+    "SJ",
+    "SK",
+    "SZ",
+    "TB"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 194,
+    "code": "SA",
+    "iso3": "SAU",
+    "numeric_code": "682",
+    "name": "사우디아라비아",
+    "name_default": "Saudi Arabia",
+    "native": "المملكة العربية السعودية",
+    "capital": "Riyadh",
+    "phonecode": "966",
+    "currency": "SAR",
+    "currency_name": "Saudi riyal",
+    "currency_symbol": "﷼",
+    "tld": ".sa",
+    "population": 35300280,
+    "gdp": 1083749,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Saudi, Saudi Arabian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Riyadh",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "25.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇸🇦",
+    "emojiU": "U+1F1F8 U+1F1E6"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "14"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 219,
+    "code": "TH",
+    "iso3": "THA",
+    "numeric_code": "764",
+    "name": "Tailândia",
+    "name_default": "Thailand",
+    "native": "ประเทศไทย",
+    "capital": "Bangkok",
+    "phonecode": "66",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "population": 65859640,
+    "gdp": 546224,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Thai",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  },
+  "state": {
+    "id": 3507,
+    "code": "S",
+    "iso2": "S",
+    "iso3166_2": "TH-S",
+    "fips_code": "12",
+    "name": "Pattaya",
+    "name_default": "Pattaya",
+    "native": "พัทยา",
+    "type": "metropolitan administration",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.93669240",
+    "longitude": "100.88650020",
+    "timezone": "Asia/Bangkok",
+    "wikiDataId": "Q170919",
+    "country_code": "TH"
+  },
+  "cities": []
+}

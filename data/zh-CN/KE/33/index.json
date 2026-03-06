@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 113,
+    "code": "KE",
+    "iso3": "KEN",
+    "numeric_code": "404",
+    "name": "肯尼亚",
+    "name_default": "Kenya",
+    "native": "Kenya",
+    "capital": "Nairobi",
+    "phonecode": "254",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "population": 53330978,
+    "gdp": 131673,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Kenyan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  },
+  "state": {
+    "id": 175,
+    "code": "33",
+    "iso2": "33",
+    "iso3166_2": "KE-33",
+    "fips_code": "41",
+    "name": "纳罗克",
+    "name_default": "Narok",
+    "native": "Nasko",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-1.08869310",
+    "longitude": "35.87149160",
+    "timezone": "Africa/Nairobi",
+    "wikiDataId": "Q1852220",
+    "country_code": "KE"
+  },
+  "cities": [
+    {
+      "id": 64852,
+      "name": "纳罗克",
+      "name_default": "Narok",
+      "native": "Nasko",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 65430,
+      "latitude": "-1.08083000",
+      "longitude": "35.87111000",
+      "timezone": "Africa/Nairobi",
+      "wikiDataId": "Q998813",
+      "country_code": "KE",
+      "state_code": "33",
+      "state_id": 175,
+      "country_id": 113
+    }
+  ]
+}

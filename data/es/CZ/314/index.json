@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "República Checa",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4560,
+    "code": "314",
+    "iso2": "314",
+    "iso3166_2": "CZ-314",
+    "fips_code": "88",
+    "name": "Písek",
+    "name_default": "Písek",
+    "native": "Písek",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4639",
+    "population": 31121,
+    "latitude": "49.30898870",
+    "longitude": "14.14776900",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q594929",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

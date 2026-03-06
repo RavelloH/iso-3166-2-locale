@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "Burquina Faso",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3143,
+    "code": "GOU",
+    "iso2": "GOU",
+    "iso3166_2": "BF-GOU",
+    "fips_code": "50",
+    "name": "Gourma",
+    "name_default": "Gourma",
+    "native": "Gourma",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3158",
+    "population": null,
+    "latitude": "12.22782670",
+    "longitude": "0.54720780",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q432317",
+    "country_code": "BF"
+  },
+  "cities": []
+}

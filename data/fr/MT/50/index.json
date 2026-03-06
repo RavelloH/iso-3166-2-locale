@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malte",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 87,
+    "code": "50",
+    "iso2": "50",
+    "iso3166_2": "MT-50",
+    "fips_code": "50",
+    "name": "San Lawrenz",
+    "name_default": "San Lawrenz",
+    "native": "San Lawrenz",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 748,
+    "latitude": "36.05530050",
+    "longitude": "14.20395030",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q537308",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67803,
+      "name": "San Lawrenz",
+      "name_default": "San Lawrenz",
+      "native": "San Lawrenz",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 530,
+      "latitude": "36.05556000",
+      "longitude": "14.20361000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q537308",
+      "country_code": "MT",
+      "state_code": "50",
+      "state_id": 87,
+      "country_id": 135
+    }
+  ]
+}

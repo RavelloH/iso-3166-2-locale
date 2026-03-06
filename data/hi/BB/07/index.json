@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 20,
+    "code": "BB",
+    "iso3": "BRB",
+    "numeric_code": "052",
+    "name": "बारबाडोस",
+    "name_default": "Barbados",
+    "native": "Barbados",
+    "capital": "Bridgetown",
+    "phonecode": "1",
+    "currency": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "Bds$",
+    "tld": ".bb",
+    "population": 267800,
+    "gdp": 7552,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Barbadian",
+    "timezones": [
+      {
+        "zoneName": "America/Barbados",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "13.16666666",
+    "longitude": "-59.53333333",
+    "emoji": "🇧🇧",
+    "emojiU": "U+1F1E7 U+1F1E7"
+  },
+  "state": {
+    "id": 1221,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "BB-07",
+    "fips_code": "07",
+    "name": "सेंट लुसी",
+    "name_default": "Saint Lucy",
+    "native": "Saint Lucy",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.30240680",
+    "longitude": "-59.61294450",
+    "timezone": "America/Barbados",
+    "wikiDataId": "Q1647447",
+    "country_code": "BB"
+  },
+  "cities": []
+}

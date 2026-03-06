@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macedônia do Norte",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 707,
+    "code": "804",
+    "iso2": "804",
+    "iso3166_2": "MK-804",
+    "fips_code": "32",
+    "name": "Gazi Baba",
+    "name_default": "Gazi Baba",
+    "native": "Гази Баба",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 69626,
+    "latitude": "41.99844460",
+    "longitude": "21.47372490",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q2019836",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67406,
+      "name": "Cresevo",
+      "name_default": "Cresevo",
+      "native": "Крешево",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1479,
+      "latitude": "42.05083000",
+      "longitude": "21.50972000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q20935821",
+      "country_code": "MK",
+      "state_code": "804",
+      "state_id": 707,
+      "country_id": 129
+    }
+  ]
+}

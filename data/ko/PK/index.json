@@ -1,0 +1,47 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 167,
+    "code": "PK",
+    "iso3": "PAK",
+    "numeric_code": "586",
+    "name": "파키스탄",
+    "name_default": "Pakistan",
+    "native": "پاکستان",
+    "capital": "Islamabad",
+    "phonecode": "92",
+    "currency": "PKR",
+    "currency_name": "Pakistani rupee",
+    "currency_symbol": "₨",
+    "tld": ".pk",
+    "population": 241499431,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Pakistani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Karachi",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "PKT",
+        "tzName": "Pakistan Standard Time"
+      }
+    ],
+    "latitude": "30.00000000",
+    "longitude": "70.00000000",
+    "emoji": "🇵🇰",
+    "emojiU": "U+1F1F5 U+1F1F0"
+  },
+  "states": [
+    "BA",
+    "GB",
+    "IS",
+    "JK",
+    "KP",
+    "PB",
+    "SD"
+  ]
+}

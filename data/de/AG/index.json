@@ -1,0 +1,48 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 10,
+    "code": "AG",
+    "iso3": "ATG",
+    "numeric_code": "028",
+    "name": "Antigua und Barbuda",
+    "name_default": "Antigua and Barbuda",
+    "native": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".ag",
+    "population": 103603,
+    "gdp": 2373,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Antiguan or Barbudan",
+    "timezones": [
+      {
+        "zoneName": "America/Antigua",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.05000000",
+    "longitude": "-61.80000000",
+    "emoji": "🇦🇬",
+    "emojiU": "U+1F1E6 U+1F1EC"
+  },
+  "states": [
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "10",
+    "11"
+  ]
+}

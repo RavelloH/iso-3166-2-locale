@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 239,
+    "code": "VE",
+    "iso3": "VEN",
+    "numeric_code": "862",
+    "name": "Venezuela",
+    "name_default": "Venezuela",
+    "native": "Venezuela",
+    "capital": "Caracas",
+    "phonecode": "58",
+    "currency": "VES",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "population": 28517000,
+    "gdp": 108511,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Venezuelan",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  },
+  "state": {
+    "id": 4855,
+    "code": "A",
+    "iso2": "A",
+    "iso3166_2": "VE-A",
+    "fips_code": "25",
+    "name": "Distrito Capital",
+    "name_default": "Distrito Capital",
+    "native": "Distrito Capital",
+    "type": "capital district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "10.47495430",
+    "longitude": "-66.97080410",
+    "timezone": "America/Caracas",
+    "wikiDataId": "Q492791",
+    "country_code": "VE"
+  },
+  "cities": [
+    {
+      "id": 149261,
+      "name": "Caracas",
+      "name_default": "Caracas",
+      "native": "Caracas",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 2245744,
+      "latitude": "10.50000000",
+      "longitude": "-66.93333333",
+      "timezone": "America/Caracas",
+      "wikiDataId": "Q1533",
+      "country_code": "VE",
+      "state_code": "A",
+      "state_id": 4855,
+      "country_id": 239
+    }
+  ]
+}

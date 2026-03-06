@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 99,
+    "code": "HU",
+    "iso3": "HUN",
+    "numeric_code": "348",
+    "name": "Hungría",
+    "name_default": "Hungary",
+    "native": "Magyarország",
+    "capital": "Budapest",
+    "phonecode": "36",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "population": 9539502,
+    "gdp": 237070,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Hungarian, Magyar",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  },
+  "state": {
+    "id": 1053,
+    "code": "PS",
+    "iso2": "PS",
+    "iso3166_2": "HU-PS",
+    "fips_code": "15",
+    "name": "Pécs",
+    "name_default": "Pécs",
+    "native": "Pécs",
+    "type": "city with county rights",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.07273450",
+    "longitude": "18.23226600",
+    "timezone": "Europe/Budapest",
+    "wikiDataId": "Q45779",
+    "country_code": "HU"
+  },
+  "cities": []
+}

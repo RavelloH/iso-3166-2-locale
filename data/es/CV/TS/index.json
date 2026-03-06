@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Cabo Verde",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 3003,
+    "code": "TS",
+    "iso2": "TS",
+    "iso3166_2": "CV-TS",
+    "fips_code": "27",
+    "name": "Tarrafal de São Nicolau",
+    "name_default": "Tarrafal de São Nicolau",
+    "native": "Tarrafal de São Nicolau",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 3733,
+    "latitude": "16.56364980",
+    "longitude": "-24.35494200",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q1895853",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 22009,
+      "name": "Tarrafal de São Nicolau",
+      "name_default": "Tarrafal de São Nicolau",
+      "native": "Tarrafal de São Nicolau",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5237,
+      "latitude": "16.56622000",
+      "longitude": "-24.35793000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q2311253",
+      "country_code": "CV",
+      "state_code": "TS",
+      "state_id": 3003,
+      "country_id": 40
+    }
+  ]
+}

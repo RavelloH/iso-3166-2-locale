@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 126,
+    "code": "LT",
+    "iso3": "LTU",
+    "numeric_code": "440",
+    "name": "立陶宛",
+    "name_default": "Lithuania",
+    "native": "Lietuva",
+    "capital": "Vilnius",
+    "phonecode": "370",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "population": 2894548,
+    "gdp": 89192,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Lithuanian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  },
+  "state": {
+    "id": 1576,
+    "code": "41",
+    "iso2": "41",
+    "iso3166_2": "LT-41",
+    "fips_code": "56",
+    "name": "萨基艾",
+    "name_default": "Šakiai",
+    "native": "Šakiai",
+    "type": "district municipality",
+    "level": "1",
+    "parent_id": "1570",
+    "population": 5462,
+    "latitude": "54.95267100",
+    "longitude": "23.04801990",
+    "timezone": "Europe/Vilnius",
+    "wikiDataId": "Q2021307",
+    "country_code": "LT"
+  },
+  "cities": []
+}

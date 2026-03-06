@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "کیپ ورد",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2990,
+    "code": "SM",
+    "iso2": "SM",
+    "iso3166_2": "CV-SM",
+    "fips_code": "19",
+    "name": "سائو میگل",
+    "name_default": "São Miguel",
+    "native": "São Miguel",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.18996620",
+    "longitude": "-23.64204860",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q494874",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 21988,
+      "name": "کالهتا",
+      "name_default": "Calheta",
+      "native": "Calheta",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6329,
+      "latitude": "15.18613000",
+      "longitude": "-23.59228000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q2539817",
+      "country_code": "CV",
+      "state_code": "SM",
+      "state_id": 2990,
+      "country_id": 40
+    }
+  ]
+}

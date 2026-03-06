@@ -1,0 +1,39 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 249,
+    "code": "CW",
+    "iso3": "CUW",
+    "numeric_code": "531",
+    "name": "Curaçao",
+    "name_default": "Curaçao",
+    "native": "Curaçao",
+    "capital": "Willemstad",
+    "phonecode": "599",
+    "currency": "ANG",
+    "currency_name": "Netherlands Antillean guilder",
+    "currency_symbol": "ƒ",
+    "tld": ".cw",
+    "population": 156115,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Curacaoan",
+    "timezones": [
+      {
+        "zoneName": "America/Curacao",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666700",
+    "longitude": "-68.93333300",
+    "emoji": "🇨🇼",
+    "emojiU": "U+1F1E8 U+1F1FC"
+  },
+  "states": []
+}

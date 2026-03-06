@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 145,
+    "code": "MC",
+    "iso3": "MCO",
+    "numeric_code": "492",
+    "name": "모나코",
+    "name_default": "Monaco",
+    "native": "Monaco",
+    "capital": "Monaco",
+    "phonecode": "377",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mc",
+    "population": 38423,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Monegasque, Monacan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Monaco",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.73333333",
+    "longitude": "7.40000000",
+    "emoji": "🇲🇨",
+    "emojiU": "U+1F1F2 U+1F1E8"
+  },
+  "state": {
+    "id": 4917,
+    "code": "CL",
+    "iso2": "CL",
+    "iso3166_2": "MC-CL",
+    "fips_code": null,
+    "name": "라 콜레",
+    "name_default": "La Colle",
+    "native": "La Colle",
+    "type": "quarter",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.73274650",
+    "longitude": "7.41372760",
+    "timezone": "Europe/Monaco",
+    "wikiDataId": "Q55102",
+    "country_code": "MC"
+  },
+  "cities": [
+    {
+      "id": 160048,
+      "name": "라 콜레",
+      "name_default": "La Colle",
+      "native": "La Colle",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 5117,
+      "latitude": "43.73274650",
+      "longitude": "7.41372760",
+      "timezone": "Europe/Monaco",
+      "wikiDataId": "Q55102",
+      "country_code": "MC",
+      "state_code": "CL",
+      "state_id": 4917,
+      "country_id": 145
+    }
+  ]
+}

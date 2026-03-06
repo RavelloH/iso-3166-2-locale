@@ -1,0 +1,70 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 44,
+    "code": "CL",
+    "iso3": "CHL",
+    "numeric_code": "152",
+    "name": "Чили",
+    "name_default": "Chile",
+    "native": "Chile",
+    "capital": "Santiago",
+    "phonecode": "56",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "population": 20206953,
+    "gdp": 343823,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Chilean",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
+  },
+  "states": [
+    "AI",
+    "AN",
+    "AP",
+    "AR",
+    "AT",
+    "BI",
+    "CO",
+    "LI",
+    "LL",
+    "LR",
+    "MA",
+    "ML",
+    "NB",
+    "RM",
+    "TA",
+    "VS"
+  ]
+}

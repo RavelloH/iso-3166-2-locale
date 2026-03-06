@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 26,
+    "code": "BT",
+    "iso3": "BTN",
+    "numeric_code": "064",
+    "name": "Butan",
+    "name_default": "Bhutan",
+    "native": "ʼbrug-yul",
+    "capital": "Thimphu",
+    "phonecode": "975",
+    "currency": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "tld": ".bt",
+    "population": 784043,
+    "gdp": 3422,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bhutanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Thimphu",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BTT",
+        "tzName": "Bhutan Time"
+      }
+    ],
+    "latitude": "27.50000000",
+    "longitude": "90.50000000",
+    "emoji": "🇧🇹",
+    "emojiU": "U+1F1E7 U+1F1F9"
+  },
+  "state": {
+    "id": 245,
+    "code": "32",
+    "iso2": "32",
+    "iso3166_2": "BT-32",
+    "fips_code": "17",
+    "name": "Trongsa",
+    "name_default": "Trongsa ",
+    "native": "Trongsa ",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "27.50022690",
+    "longitude": "90.50806340",
+    "timezone": "Asia/Thimphu",
+    "wikiDataId": "Q728938",
+    "country_code": "BT"
+  },
+  "cities": [
+    {
+      "id": 153852,
+      "name": "Trongsa",
+      "name_default": "Trongsa",
+      "native": "ཀྲོང་ས།",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2695,
+      "latitude": "27.49940000",
+      "longitude": "90.50470000",
+      "timezone": "Asia/Thimphu",
+      "wikiDataId": "Q7845506",
+      "country_code": "BT",
+      "state_code": "32",
+      "state_id": 245,
+      "country_id": 26
+    }
+  ]
+}

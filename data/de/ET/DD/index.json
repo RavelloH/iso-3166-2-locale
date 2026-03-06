@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 70,
+    "code": "ET",
+    "iso3": "ETH",
+    "numeric_code": "231",
+    "name": "Äthiopien",
+    "name_default": "Ethiopia",
+    "native": "ኢትዮጵያ",
+    "capital": "Addis Ababa",
+    "phonecode": "251",
+    "currency": "ETB",
+    "currency_name": "Ethiopian birr",
+    "currency_symbol": "Nkf",
+    "tld": ".et",
+    "population": 111652998,
+    "gdp": 117457,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Ethiopian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Addis_Ababa",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇪🇹",
+    "emojiU": "U+1F1EA U+1F1F9"
+  },
+  "state": {
+    "id": 8,
+    "code": "DD",
+    "iso2": "DD",
+    "iso3166_2": "ET-DD",
+    "fips_code": "48",
+    "name": "Dire Dawa",
+    "name_default": "Dire Dawa",
+    "native": "አዝናኝ",
+    "type": "administration",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "9.59132300",
+    "longitude": "41.85663410",
+    "timezone": "Africa/Addis_Ababa",
+    "wikiDataId": "Q193486",
+    "country_code": "ET"
+  },
+  "cities": [
+    {
+      "id": 38622,
+      "name": "Dire Dawa",
+      "name_default": "Dire Dawa",
+      "native": "አዝናኝ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 277000,
+      "latitude": "9.59306000",
+      "longitude": "41.86611000",
+      "timezone": "Africa/Addis_Ababa",
+      "wikiDataId": "Q755752",
+      "country_code": "ET",
+      "state_code": "DD",
+      "state_id": 8,
+      "country_id": 70
+    }
+  ]
+}

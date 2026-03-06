@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 93,
+    "code": "GW",
+    "iso3": "GNB",
+    "numeric_code": "624",
+    "name": "기니비사우",
+    "name_default": "Guinea-Bissau",
+    "native": "Guiné-Bissau",
+    "capital": "Bissau",
+    "phonecode": "245",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".gw",
+    "population": 1781308,
+    "gdp": 2274,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Bissau-Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bissau",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "12.00000000",
+    "longitude": "-15.00000000",
+    "emoji": "🇬🇼",
+    "emojiU": "U+1F1EC U+1F1FC"
+  },
+  "state": {
+    "id": 2715,
+    "code": "QU",
+    "iso2": "QU",
+    "iso3166_2": "GW-QU",
+    "fips_code": "02",
+    "name": "키나라",
+    "name_default": "Quinara",
+    "native": "Quinara",
+    "type": "region",
+    "level": "1",
+    "parent_id": "2716",
+    "population": 63610,
+    "latitude": "11.63401140",
+    "longitude": "-15.09526850",
+    "timezone": "Africa/Bissau",
+    "wikiDataId": "Q862617",
+    "country_code": "GW"
+  },
+  "cities": [
+    {
+      "id": 53810,
+      "name": "부바",
+      "name_default": "Buba",
+      "native": "Buba",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 7898,
+      "latitude": "11.58889000",
+      "longitude": "-14.99583000",
+      "timezone": "Africa/Bissau",
+      "wikiDataId": "Q997402",
+      "country_code": "GW",
+      "state_code": "QU",
+      "state_id": 2715,
+      "country_id": 93
+    }
+  ]
+}

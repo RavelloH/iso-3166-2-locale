@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Kaapverdië",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2991,
+    "code": "MA",
+    "iso2": "MA",
+    "iso3166_2": "CV-MA",
+    "fips_code": "04",
+    "name": "Maio",
+    "name_default": "Maio",
+    "native": "Maio",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.22721820",
+    "longitude": "-23.15630140",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q2551133",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 22010,
+      "name": "Vila do Maio",
+      "name_default": "Vila do Maio",
+      "native": "Vila do Maio",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4472,
+      "latitude": "15.13823000",
+      "longitude": "-23.21158000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q489776",
+      "country_code": "CV",
+      "state_code": "MA",
+      "state_id": 2991,
+      "country_id": 40
+    }
+  ]
+}

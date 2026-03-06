@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 68,
+    "code": "ER",
+    "iso3": "ERI",
+    "numeric_code": "232",
+    "name": "Эритрея",
+    "name_default": "Eritrea",
+    "native": "ኤርትራ",
+    "capital": "Asmara",
+    "phonecode": "291",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "population": 3607000,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Eritrean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  },
+  "state": {
+    "id": 3426,
+    "code": "MA",
+    "iso2": "MA",
+    "iso3166_2": "ER-MA",
+    "fips_code": "05",
+    "name": "Мекель",
+    "name_default": "Maekel",
+    "native": "ጉሓት",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 1053254,
+    "latitude": "15.33333300",
+    "longitude": "38.91666700",
+    "timezone": "Africa/Asmara",
+    "wikiDataId": "Q27710",
+    "country_code": "ER"
+  },
+  "cities": [
+    {
+      "id": 31883,
+      "name": "Асмэра",
+      "name_default": "Asmara",
+      "native": "ኣስማራ",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 563930,
+      "latitude": "15.33805000",
+      "longitude": "38.93184000",
+      "timezone": "Africa/Asmara",
+      "wikiDataId": "Q3642",
+      "country_code": "ER",
+      "state_code": "MA",
+      "state_id": 3426,
+      "country_id": 68
+    }
+  ]
+}

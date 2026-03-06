@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 126,
+    "code": "LT",
+    "iso3": "LTU",
+    "numeric_code": "440",
+    "name": "Lituânia",
+    "name_default": "Lithuania",
+    "native": "Lietuva",
+    "capital": "Vilnius",
+    "phonecode": "370",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "population": 2894548,
+    "gdp": 89192,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Lithuanian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  },
+  "state": {
+    "id": 1559,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "LT-08",
+    "fips_code": "60",
+    "name": "Elektrėnai",
+    "name_default": "Elektrėnai",
+    "native": "Elektrėnai",
+    "type": "municipality",
+    "level": "1",
+    "parent_id": "1601",
+    "population": 11009,
+    "latitude": "54.78665700",
+    "longitude": "24.67083980",
+    "timezone": "Europe/Vilnius",
+    "wikiDataId": "Q2089777",
+    "country_code": "LT"
+  },
+  "cities": []
+}

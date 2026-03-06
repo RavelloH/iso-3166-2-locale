@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 121,
+    "code": "LB",
+    "iso3": "LBN",
+    "numeric_code": "422",
+    "name": "Líbano",
+    "name_default": "Lebanon",
+    "native": "لبنان",
+    "capital": "Beirut",
+    "phonecode": "961",
+    "currency": "LBP",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "£",
+    "tld": ".lb",
+    "population": 5490000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Lebanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Beirut",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "33.83333333",
+    "longitude": "35.83333333",
+    "emoji": "🇱🇧",
+    "emojiU": "U+1F1F1 U+1F1E7"
+  },
+  "state": {
+    "id": 2285,
+    "code": "AK",
+    "iso2": "AK",
+    "iso3166_2": "LB-AK",
+    "fips_code": "10",
+    "name": "Akkar",
+    "name_default": "Akkar",
+    "native": "الحبار",
+    "type": "governorate",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "34.55550090",
+    "longitude": "36.20164530",
+    "timezone": "Asia/Beirut",
+    "wikiDataId": "Q556146",
+    "country_code": "LB"
+  },
+  "cities": [
+    {
+      "id": 65939,
+      "name": "Caza de Aakkar",
+      "name_default": "Caza de Aakkar",
+      "native": "قضاء عكار",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "34.53333000",
+      "longitude": "36.16667000",
+      "timezone": "Asia/Beirut",
+      "wikiDataId": "Q419697",
+      "country_code": "LB",
+      "state_code": "AK",
+      "state_id": 2285,
+      "country_id": 121
+    }
+  ]
+}

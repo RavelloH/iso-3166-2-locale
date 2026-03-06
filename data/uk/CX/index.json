@@ -1,0 +1,39 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 46,
+    "code": "CX",
+    "iso3": "CXR",
+    "numeric_code": "162",
+    "name": "Острів Різдва",
+    "name_default": "Christmas Island",
+    "native": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "phonecode": "61",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".cx",
+    "population": 1692,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "Christmas Island",
+    "timezones": [
+      {
+        "zoneName": "Indian/Christmas",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "CXT",
+        "tzName": "Christmas Island Time"
+      }
+    ],
+    "latitude": "-10.50000000",
+    "longitude": "105.66666666",
+    "emoji": "🇨🇽",
+    "emojiU": "U+1F1E8 U+1F1FD"
+  },
+  "states": []
+}

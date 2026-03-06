@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "Moldavië",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4381,
+    "code": "FA",
+    "iso2": "FA",
+    "iso3166_2": "MD-FA",
+    "fips_code": "74",
+    "name": "Fălești",
+    "name_default": "Fălești",
+    "native": "Fălești",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 12074,
+    "latitude": "47.57351410",
+    "longitude": "27.70680160",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q878375",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67303,
+      "name": "Fălești",
+      "name_default": "Fălești",
+      "native": "Fălești",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 11946,
+      "latitude": "47.57667000",
+      "longitude": "27.71264000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q2078085",
+      "country_code": "MD",
+      "state_code": "FA",
+      "state_id": 4381,
+      "country_id": 144
+    }
+  ]
+}

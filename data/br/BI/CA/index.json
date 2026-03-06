@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3201,
+    "code": "CA",
+    "iso2": "CA",
+    "iso3166_2": "BI-CA",
+    "fips_code": "11",
+    "name": "Cankuzo",
+    "name_default": "Cankuzo",
+    "native": "Faire du chauffeur",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 3624,
+    "latitude": "-3.14508760",
+    "longitude": "30.58987000",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q645033",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9765,
+      "name": "Cankuzo",
+      "name_default": "Cankuzo",
+      "native": "Faire du chauffeur",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5607,
+      "latitude": "-3.21860000",
+      "longitude": "30.55280000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q2669640",
+      "country_code": "BI",
+      "state_code": "CA",
+      "state_id": 3201,
+      "country_id": 36
+    }
+  ]
+}

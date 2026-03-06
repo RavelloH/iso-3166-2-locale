@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 119,
+    "code": "LA",
+    "iso3": "LAO",
+    "numeric_code": "418",
+    "name": "Laos",
+    "name_default": "Laos",
+    "native": "ສປປລາວ",
+    "capital": "Vientiane",
+    "phonecode": "856",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "population": 7647000,
+    "gdp": 16322,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Lao, Laotian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  },
+  "state": {
+    "id": 988,
+    "code": "OU",
+    "iso2": "OU",
+    "iso3166_2": "LA-OU",
+    "fips_code": "07",
+    "name": "Oudomxay",
+    "name_default": "Oudomxay",
+    "native": "ອຸດົມໄຊ",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 345425,
+    "latitude": "20.69301340",
+    "longitude": "101.98536780",
+    "timezone": "Asia/Vientiane",
+    "wikiDataId": "Q465961",
+    "country_code": "LA"
+  },
+  "cities": [
+    {
+      "id": 65914,
+      "name": "Muang Xay",
+      "name_default": "Muang Xay",
+      "native": "ເມືອງໄຊ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 25000,
+      "latitude": "20.69229000",
+      "longitude": "101.98368000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q1026957",
+      "country_code": "LA",
+      "state_code": "OU",
+      "state_id": 988,
+      "country_id": 119
+    }
+  ]
+}

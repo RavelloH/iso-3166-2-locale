@@ -1,0 +1,84 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 137,
+    "code": "MH",
+    "iso3": "MHL",
+    "numeric_code": "584",
+    "name": "Wyspy Marshalla",
+    "name_default": "Marshall Islands",
+    "native": "M̧ajeļ",
+    "capital": "Majuro",
+    "phonecode": "692",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".mh",
+    "population": 42418,
+    "gdp": 297,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Marshallese",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Kwajalein",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Majuro",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      }
+    ],
+    "latitude": "9.00000000",
+    "longitude": "168.00000000",
+    "emoji": "🇲🇭",
+    "emojiU": "U+1F1F2 U+1F1ED"
+  },
+  "state": {
+    "id": 5651,
+    "code": "JAL",
+    "iso2": "JAL",
+    "iso3166_2": "MH-JAL",
+    "fips_code": null,
+    "name": "Jaluit",
+    "name_default": "Jaluit",
+    "native": "Jaluit",
+    "type": "municipality",
+    "level": null,
+    "parent_id": "2574",
+    "population": null,
+    "latitude": "6.00000000",
+    "longitude": "169.56666667",
+    "timezone": "Pacific/Kwajalein",
+    "wikiDataId": "Q168576",
+    "country_code": "MH"
+  },
+  "cities": [
+    {
+      "id": 160080,
+      "name": "Jabor",
+      "name_default": "Jabor",
+      "native": "Jabor",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "6.00000000",
+      "longitude": "169.56666667",
+      "timezone": "Pacific/Kwajalein",
+      "wikiDataId": "Q168576",
+      "country_code": "MH",
+      "state_code": "JAL",
+      "state_id": 5651,
+      "country_id": 137
+    }
+  ]
+}

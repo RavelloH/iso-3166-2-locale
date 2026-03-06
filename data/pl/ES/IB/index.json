@@ -1,0 +1,72 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 207,
+    "code": "ES",
+    "iso3": "ESP",
+    "numeric_code": "724",
+    "name": "Hiszpania",
+    "name_default": "Spain",
+    "native": "España",
+    "capital": "Madrid",
+    "phonecode": "34",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "population": 49315949,
+    "gdp": 1799511,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Spanish",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  },
+  "state": {
+    "id": 5335,
+    "code": "IB",
+    "iso2": "IB",
+    "iso3166_2": "ES-IB",
+    "fips_code": "",
+    "name": "Wyspy Baleary",
+    "name_default": "Balearic Islands",
+    "native": "Islas Baleares",
+    "type": "autonomous community",
+    "level": null,
+    "parent_id": null,
+    "population": 1231768,
+    "latitude": "39.61343200",
+    "longitude": "2.88291850",
+    "timezone": "Europe/Madrid",
+    "wikiDataId": "Q107356467",
+    "country_code": "ES"
+  },
+  "cities": []
+}

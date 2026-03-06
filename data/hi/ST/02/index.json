@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 193,
+    "code": "ST",
+    "iso3": "STP",
+    "numeric_code": "678",
+    "name": "साओ टोम और प्रिंसिप",
+    "name_default": "Sao Tome and Principe",
+    "native": "São Tomé e Príncipe",
+    "capital": "Sao Tome",
+    "phonecode": "239",
+    "currency": "STN",
+    "currency_name": "Dobra",
+    "currency_symbol": "Db",
+    "tld": ".st",
+    "population": 209607,
+    "gdp": 864,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Sao Tomean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Sao_Tome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "7.00000000",
+    "emoji": "🇸🇹",
+    "emojiU": "U+1F1F8 U+1F1F9"
+  },
+  "state": {
+    "id": 5729,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "ST-02",
+    "fips_code": null,
+    "name": "कैंटागालो",
+    "name_default": "Cantagalo",
+    "native": "Cantagalo",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "0.21667000",
+    "longitude": "6.70000000",
+    "timezone": "Africa/Sao_Tome",
+    "wikiDataId": "Q652819",
+    "country_code": "ST"
+  },
+  "cities": [
+    {
+      "id": 160117,
+      "name": "सैन्टाना",
+      "name_default": "Santana",
+      "native": "Santana",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4601,
+      "latitude": "0.25389000",
+      "longitude": "6.73444000",
+      "timezone": "Africa/Sao_Tome",
+      "wikiDataId": "Q2704421",
+      "country_code": "ST",
+      "state_code": "02",
+      "state_id": 5729,
+      "country_id": 193
+    }
+  ]
+}

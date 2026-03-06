@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 232,
+    "code": "GB",
+    "iso3": "GBR",
+    "numeric_code": "826",
+    "name": "イギリス",
+    "name_default": "United Kingdom",
+    "native": "United Kingdom",
+    "capital": "London",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".uk",
+    "population": 68265209,
+    "gdp": 3839180,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "British, UK",
+    "timezones": [
+      {
+        "zoneName": "Europe/London",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "54.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇧",
+    "emojiU": "U+1F1EC U+1F1E7"
+  },
+  "state": {
+    "id": 2504,
+    "code": "BOL",
+    "iso2": "BOL",
+    "iso3166_2": "GB-BOL",
+    "fips_code": "B1",
+    "name": "ボルトン",
+    "name_default": "Bolton",
+    "native": "Bolton",
+    "type": "metropolitan district",
+    "level": "2",
+    "parent_id": "2336",
+    "population": null,
+    "latitude": "55.92081780",
+    "longitude": "-2.79059880",
+    "timezone": "Europe/London",
+    "wikiDataId": "Q1364541",
+    "country_code": "GB"
+  },
+  "cities": [
+    {
+      "id": 48480,
+      "name": "ベリック・アポン・ツイード",
+      "name_default": "Berwick-Upon-Tweed",
+      "native": "Berwick-Upon-Tweed",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11630,
+      "latitude": "55.76536000",
+      "longitude": "-2.01186000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q504678",
+      "country_code": "GB",
+      "state_code": "BOL",
+      "state_id": 2504,
+      "country_id": 232
+    }
+  ]
+}

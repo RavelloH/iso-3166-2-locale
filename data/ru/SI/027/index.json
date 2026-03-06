@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Словения",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4293,
+    "code": "027",
+    "iso2": "027",
+    "iso3166_2": "SI-027",
+    "fips_code": "27",
+    "name": "Gorenja Vas–Poljane",
+    "name_default": "Gorenja Vas–Poljane",
+    "native": "Zažgal te -fell",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 6877,
+    "latitude": "46.11165820",
+    "longitude": "14.11493480",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q1005224",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104106,
+      "name": "Гореня Вас",
+      "name_default": "Gorenja Vas",
+      "native": "Ti zažgal",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1132,
+      "latitude": "46.10722000",
+      "longitude": "14.14806000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2805176",
+      "country_code": "SI",
+      "state_code": "027",
+      "state_id": 4293,
+      "country_id": 201
+    }
+  ]
+}

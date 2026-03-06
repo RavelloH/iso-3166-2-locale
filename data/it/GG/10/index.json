@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 91,
+    "code": "GG",
+    "iso3": "GGY",
+    "numeric_code": "831",
+    "name": "Guernsey",
+    "name_default": "Guernsey",
+    "native": "Guernsey",
+    "capital": "St Peter Port",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".gg",
+    "population": 64781,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Channel Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Guernsey",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "49.46666666",
+    "longitude": "-2.58333333",
+    "emoji": "🇬🇬",
+    "emojiU": "U+1F1EC U+1F1EC"
+  },
+  "state": {
+    "id": 5395,
+    "code": "10",
+    "iso2": "10",
+    "iso3166_2": "GG-10",
+    "fips_code": "10",
+    "name": "San Salvatore",
+    "name_default": "St Saviour",
+    "native": "St Saviour",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "49.44916480",
+    "longitude": "-2.62135570",
+    "timezone": "Europe/Guernsey",
+    "wikiDataId": "Q2106447",
+    "country_code": "GG"
+  },
+  "cities": []
+}

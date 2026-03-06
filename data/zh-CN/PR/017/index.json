@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "波多黎各",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5142,
+    "code": "017",
+    "iso2": "017",
+    "iso3166_2": "PR-017",
+    "fips_code": null,
+    "name": "巴塞罗内塔",
+    "name_default": "Barceloneta",
+    "native": "Barceloneta",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.45466390",
+    "longitude": "-66.53868770",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q526438",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153557,
+      "name": "巴塞罗内塔",
+      "name_default": "Barceloneta",
+      "native": "Barceloneta",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "41.38010610",
+      "longitude": "2.18969570",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q526438",
+      "country_code": "PR",
+      "state_code": "017",
+      "state_id": 5142,
+      "country_id": 178
+    }
+  ]
+}

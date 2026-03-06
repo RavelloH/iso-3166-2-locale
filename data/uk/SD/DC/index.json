@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 209,
+    "code": "SD",
+    "iso3": "SDN",
+    "numeric_code": "729",
+    "name": "Судан",
+    "name_default": "Sudan",
+    "native": "السودان",
+    "capital": "Khartoum",
+    "phonecode": "249",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "population": 51662000,
+    "gdp": 31506,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Sudanese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  },
+  "state": {
+    "id": 896,
+    "code": "DC",
+    "iso2": "DC",
+    "iso3166_2": "SD-DC",
+    "fips_code": "61",
+    "name": "Центральний Дарфур",
+    "name_default": "Central Darfur",
+    "native": "وسط دارفور",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 2499000,
+    "latitude": "12.12970930",
+    "longitude": "23.35416870",
+    "timezone": "Africa/Khartoum",
+    "wikiDataId": "Q4116493",
+    "country_code": "SD"
+  },
+  "cities": [
+    {
+      "id": 102984,
+      "name": "Залінгей",
+      "name_default": "Zalingei",
+      "native": "زالنجي",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 35061,
+      "latitude": "12.90918000",
+      "longitude": "23.47058000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q4118131",
+      "country_code": "SD",
+      "state_code": "DC",
+      "state_id": 896,
+      "country_id": 209
+    }
+  ]
+}

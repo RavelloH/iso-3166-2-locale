@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 125,
+    "code": "LI",
+    "iso3": "LIE",
+    "numeric_code": "438",
+    "name": "لیختن‌اشتاین",
+    "name_default": "Liechtenstein",
+    "native": "Liechtenstein",
+    "capital": "Vaduz",
+    "phonecode": "423",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".li",
+    "population": 40900,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Liechtenstein",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vaduz",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.26666666",
+    "longitude": "9.53333333",
+    "emoji": "🇱🇮",
+    "emojiU": "U+1F1F1 U+1F1EE"
+  },
+  "state": {
+    "id": 453,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "LI-06",
+    "fips_code": "06",
+    "name": "راگل",
+    "name_default": "Ruggell",
+    "native": "Ruggell",
+    "type": "commune",
+    "level": null,
+    "parent_id": null,
+    "population": 2322,
+    "latitude": "47.23975750",
+    "longitude": "9.52628710",
+    "timezone": "Europe/Vaduz",
+    "wikiDataId": "Q49659",
+    "country_code": "LI"
+  },
+  "cities": [
+    {
+      "id": 66442,
+      "name": "راگل",
+      "name_default": "Ruggell",
+      "native": "Ruggell",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2295,
+      "latitude": "47.23799000",
+      "longitude": "9.52540000",
+      "timezone": "Europe/Vaduz",
+      "wikiDataId": "Q49660",
+      "country_code": "LI",
+      "state_code": "06",
+      "state_id": 453,
+      "country_id": 125
+    }
+  ]
+}

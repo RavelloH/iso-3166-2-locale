@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "Saint Kitts i Nevis",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3840,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "KN-07",
+    "fips_code": "07",
+    "name": "Święty Jan Figtree",
+    "name_default": "Saint John Figtree",
+    "native": "Saint John Figtree",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3832",
+    "population": 3827,
+    "latitude": "17.11557480",
+    "longitude": "-62.60310040",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q657318",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65171,
+      "name": "Drzewo figowe",
+      "name_default": "Fig Tree",
+      "native": "Fig Tree",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2922,
+      "latitude": "17.12623000",
+      "longitude": "-62.60265000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3395177",
+      "country_code": "KN",
+      "state_code": "07",
+      "state_id": 3840,
+      "country_id": 185
+    }
+  ]
+}

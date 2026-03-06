@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 6,
+    "code": "AD",
+    "iso3": "AND",
+    "numeric_code": "020",
+    "name": "آندورا",
+    "name_default": "Andorra",
+    "native": "Andorra",
+    "capital": "Andorra la Vella",
+    "phonecode": "376",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ad",
+    "population": 88306,
+    "gdp": 4035,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Andorran",
+    "timezones": [
+      {
+        "zoneName": "Europe/Andorra",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.50000000",
+    "longitude": "1.50000000",
+    "emoji": "🇦🇩",
+    "emojiU": "U+1F1E6 U+1F1E9"
+  },
+  "state": {
+    "id": 488,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "AD-07",
+    "fips_code": "07",
+    "name": "آندورا لا ولا",
+    "name_default": "Andorra la Vella",
+    "native": "Andorra la Vella",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": 22256,
+    "latitude": "42.50631740",
+    "longitude": "1.52183550",
+    "timezone": "Europe/Andorra",
+    "wikiDataId": "Q2522163",
+    "country_code": "AD"
+  },
+  "cities": [
+    {
+      "id": 1,
+      "name": "آندورا لا ولا",
+      "name_default": "Andorra la Vella",
+      "native": "Andorra la Vella",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 24042,
+      "latitude": "42.50779000",
+      "longitude": "1.52109000",
+      "timezone": "Europe/Andorra",
+      "wikiDataId": "Q1863",
+      "country_code": "AD",
+      "state_code": "07",
+      "state_id": 488,
+      "country_id": 6
+    }
+  ]
+}

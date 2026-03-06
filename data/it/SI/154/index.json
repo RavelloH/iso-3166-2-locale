@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Slovenia",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4295,
+    "code": "154",
+    "iso2": "154",
+    "iso3166_2": "SI-154",
+    "fips_code": "G2",
+    "name": "Dobje",
+    "name_default": "Dobje",
+    "native": "Dobje",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.13700370",
+    "longitude": "15.39412900",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q1008179",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104090,
+      "name": "Dobje pri Planini",
+      "name_default": "Dobje pri Planini",
+      "native": "Dobje pri Planini",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 114,
+      "latitude": "46.13747000",
+      "longitude": "15.39412000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2751186",
+      "country_code": "SI",
+      "state_code": "154",
+      "state_id": 4295,
+      "country_id": 201
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 64,
+    "code": "EC",
+    "iso3": "ECU",
+    "numeric_code": "218",
+    "name": "Ekvator",
+    "name_default": "Ecuador",
+    "native": "Ecuador",
+    "capital": "Quito",
+    "phonecode": "593",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "population": 18103660,
+    "gdp": 125677,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Ecuadorian",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  },
+  "state": {
+    "id": 5068,
+    "code": "L",
+    "iso2": "L",
+    "iso3166_2": "EC-L",
+    "fips_code": "12",
+    "name": "Mağaza",
+    "name_default": "Loja",
+    "native": "Almacenar",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-3.99313000",
+    "longitude": "-79.20422000",
+    "timezone": "America/Guayaquil",
+    "wikiDataId": "Q504238",
+    "country_code": "EC"
+  },
+  "cities": [
+    {
+      "id": 149262,
+      "name": "Mağaza",
+      "name_default": "Loja",
+      "native": "Almacenar",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 274112,
+      "latitude": "-3.99313000",
+      "longitude": "-79.20422000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q944697",
+      "country_code": "EC",
+      "state_code": "L",
+      "state_id": 5068,
+      "country_id": 64
+    }
+  ]
+}

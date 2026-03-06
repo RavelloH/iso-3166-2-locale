@@ -1,0 +1,39 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 84,
+    "code": "GI",
+    "iso3": "GIB",
+    "numeric_code": "292",
+    "name": "Gibraltar",
+    "name_default": "Gibraltar",
+    "native": "Gibraltar",
+    "capital": "Gibraltar",
+    "phonecode": "350",
+    "currency": "GIP",
+    "currency_name": "Gibraltar pound",
+    "currency_symbol": "£",
+    "tld": ".gi",
+    "population": 38000,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Gibraltar",
+    "timezones": [
+      {
+        "zoneName": "Europe/Gibraltar",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "36.13333333",
+    "longitude": "-5.35000000",
+    "emoji": "🇬🇮",
+    "emojiU": "U+1F1EC U+1F1EE"
+  },
+  "states": []
+}

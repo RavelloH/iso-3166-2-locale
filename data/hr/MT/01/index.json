@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 110,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "MT-01",
+    "fips_code": "01",
+    "name": "Attard",
+    "name_default": "Attard",
+    "native": "Attard",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 11377,
+    "latitude": "35.89091720",
+    "longitude": "14.44300930",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q44557",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67758,
+      "name": "Attard",
+      "name_default": "Attard",
+      "native": "Attard",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 12268,
+      "latitude": "35.88972000",
+      "longitude": "14.44250000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q44557",
+      "country_code": "MT",
+      "state_code": "01",
+      "state_id": 110,
+      "country_id": 135
+    }
+  ]
+}

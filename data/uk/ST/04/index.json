@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 193,
+    "code": "ST",
+    "iso3": "STP",
+    "numeric_code": "678",
+    "name": "Сан-Томе і Принсіпі",
+    "name_default": "Sao Tome and Principe",
+    "native": "São Tomé e Príncipe",
+    "capital": "Sao Tome",
+    "phonecode": "239",
+    "currency": "STN",
+    "currency_name": "Dobra",
+    "currency_symbol": "Db",
+    "tld": ".st",
+    "population": 209607,
+    "gdp": 864,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Sao Tomean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Sao_Tome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "7.00000000",
+    "emoji": "🇸🇹",
+    "emojiU": "U+1F1F8 U+1F1F9"
+  },
+  "state": {
+    "id": 5731,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "ST-04",
+    "fips_code": null,
+    "name": "Лемба",
+    "name_default": "Lemba",
+    "native": "Lemba",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "0.22000000",
+    "longitude": "6.58000000",
+    "timezone": "Africa/Sao_Tome",
+    "wikiDataId": "Q652810",
+    "country_code": "ST"
+  },
+  "cities": [
+    {
+      "id": 160119,
+      "name": "Невеш",
+      "name_default": "Neves",
+      "native": "Neves",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 8391,
+      "latitude": "0.36667000",
+      "longitude": "6.55000000",
+      "timezone": "Africa/Sao_Tome",
+      "wikiDataId": "Q2704454",
+      "country_code": "ST",
+      "state_code": "04",
+      "state_id": 5731,
+      "country_id": 193
+    }
+  ]
+}

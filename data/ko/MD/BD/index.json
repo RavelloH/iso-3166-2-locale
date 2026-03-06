@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "몰도바",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4362,
+    "code": "BD",
+    "iso2": "BD",
+    "iso3166_2": "MD-BD",
+    "fips_code": "62",
+    "name": "다리",
+    "name_default": "Bender",
+    "native": "Bender",
+    "type": "city",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.82275510",
+    "longitude": "29.46201010",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q18088065",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67273,
+      "name": "다리",
+      "name_default": "Bender",
+      "native": "Bender",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 110175,
+      "latitude": "46.83156000",
+      "longitude": "29.47769000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q192176",
+      "country_code": "MD",
+      "state_code": "BD",
+      "state_id": 4362,
+      "country_id": 144
+    }
+  ]
+}

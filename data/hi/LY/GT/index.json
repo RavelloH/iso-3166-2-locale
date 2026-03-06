@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 124,
+    "code": "LY",
+    "iso3": "LBY",
+    "numeric_code": "434",
+    "name": "लीबिया",
+    "name_default": "Libya",
+    "native": "‏ليبيا",
+    "capital": "Tripolis",
+    "phonecode": "218",
+    "currency": "LYD",
+    "currency_name": "Libyan dinar",
+    "currency_symbol": "د.ل",
+    "tld": ".ly",
+    "population": 7459000,
+    "gdp": 47484,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Libyan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tripoli",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "25.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇱🇾",
+    "emojiU": "U+1F1F1 U+1F1FE"
+  },
+  "state": {
+    "id": 2969,
+    "code": "GT",
+    "iso2": "GT",
+    "iso3166_2": "LY-GT",
+    "fips_code": "71",
+    "name": "पहाड़ों का सिलसिला",
+    "name_default": "Ghat",
+    "native": "غات",
+    "type": "popularate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "24.96403710",
+    "longitude": "10.17592850",
+    "timezone": "Africa/Tripoli",
+    "wikiDataId": "Q48236",
+    "country_code": "LY"
+  },
+  "cities": [
+    {
+      "id": 67015,
+      "name": "पहाड़ों का सिलसिला",
+      "name_default": "Ghat",
+      "native": "غات",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 14630,
+      "latitude": "24.96334000",
+      "longitude": "10.18003000",
+      "timezone": "Africa/Tripoli",
+      "wikiDataId": "Q209393",
+      "country_code": "LY",
+      "state_code": "GT",
+      "state_id": 2969,
+      "country_id": 124
+    }
+  ]
+}

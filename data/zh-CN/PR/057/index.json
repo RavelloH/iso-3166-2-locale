@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "波多黎各",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5163,
+    "code": "057",
+    "iso2": "057",
+    "iso3166_2": "PR-057",
+    "fips_code": null,
+    "name": "瓜亚马",
+    "name_default": "Guayama",
+    "native": "Guayama",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "17.98413280",
+    "longitude": "-66.11377670",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q1870997",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153578,
+      "name": "瓜亚马",
+      "name_default": "Guayama",
+      "native": "Guayama",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 21575,
+      "latitude": "17.98413280",
+      "longitude": "-66.11377670",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q1870997",
+      "country_code": "PR",
+      "state_code": "057",
+      "state_id": 5163,
+      "country_id": 178
+    }
+  ]
+}

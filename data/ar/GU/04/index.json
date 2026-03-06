@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "غوام",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5257,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "GU-04",
+    "fips_code": "04",
+    "name": "شالان باغو-أوردوت",
+    "name_default": "Chalan Pago-Ordot",
+    "native": "Boy Pago-Cordot",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": 7064,
+    "latitude": "13.44137200",
+    "longitude": "144.76702410",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2482483",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160260,
+      "name": "Chalan Pago-Ordot Village",
+      "name_default": "Chalan Pago-Ordot Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6822,
+      "latitude": "13.44741000",
+      "longitude": "144.75902000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "04",
+      "state_id": 5257,
+      "country_id": 89
+    }
+  ]
+}

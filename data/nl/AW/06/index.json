@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 13,
+    "code": "AW",
+    "iso3": "ABW",
+    "numeric_code": "533",
+    "name": "Aruba",
+    "name_default": "Aruba",
+    "native": "Aruba",
+    "capital": "Oranjestad",
+    "phonecode": "297",
+    "currency": "AWG",
+    "currency_name": "Aruban florin",
+    "currency_symbol": "ƒ",
+    "tld": ".aw",
+    "population": 107566,
+    "gdp": 4100,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Aruban",
+    "timezones": [
+      {
+        "zoneName": "America/Aruba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.50000000",
+    "longitude": "-69.96666666",
+    "emoji": "🇦🇼",
+    "emojiU": "U+1F1E6 U+1F1FC"
+  },
+  "state": {
+    "id": 5248,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "AW-06",
+    "fips_code": "06",
+    "name": "San Nicolaas Zuid",
+    "name_default": "San Nicolaas Zuid",
+    "native": "San Nicolaas Zuid",
+    "type": "region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.42785580",
+    "longitude": "-69.93810790",
+    "timezone": "America/Aruba",
+    "wikiDataId": "Q2605285",
+    "country_code": "AW"
+  },
+  "cities": []
+}

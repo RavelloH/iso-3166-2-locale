@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Словения",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4315,
+    "code": "049",
+    "iso2": "049",
+    "iso3166_2": "SI-049",
+    "fips_code": "49",
+    "name": "Комен",
+    "name_default": "Komen",
+    "native": "Pridi",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 642,
+    "latitude": "45.81752350",
+    "longitude": "13.74827110",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q15283322",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104140,
+      "name": "Комен",
+      "name_default": "Komen",
+      "native": "Pridi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 616,
+      "latitude": "45.81528000",
+      "longitude": "13.74833000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q556210",
+      "country_code": "SI",
+      "state_code": "049",
+      "state_id": 4315,
+      "country_id": 201
+    }
+  ]
+}

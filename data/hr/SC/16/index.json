@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 197,
+    "code": "SC",
+    "iso3": "SYC",
+    "numeric_code": "690",
+    "name": "Sejšeli",
+    "name_default": "Seychelles",
+    "native": "Seychelles",
+    "capital": "Victoria",
+    "phonecode": "248",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "population": 122729,
+    "gdp": 2198,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Seychellois",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "latitude": "-4.65749770",
+    "longitude": "55.45401460",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  },
+  "state": {
+    "id": 516,
+    "code": "16",
+    "iso2": "16",
+    "iso3166_2": "SC-16",
+    "fips_code": "26",
+    "name": "Angleška rivijera",
+    "name_default": "La Rivière Anglaise",
+    "native": "La Rivière Anglaise",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 3737,
+    "latitude": "-4.61569090",
+    "longitude": "55.45115300",
+    "timezone": "Indian/Mahe",
+    "wikiDataId": "Q1819963",
+    "country_code": "SC"
+  },
+  "cities": [
+    {
+      "id": 102913,
+      "name": "Viktorija",
+      "name_default": "Victoria",
+      "native": "Victoria",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 24701,
+      "latitude": "-4.62001000",
+      "longitude": "55.45501000",
+      "timezone": "Indian/Mahe",
+      "wikiDataId": "Q3940",
+      "country_code": "SC",
+      "state_code": "16",
+      "state_id": 516,
+      "country_id": 197
+    }
+  ]
+}

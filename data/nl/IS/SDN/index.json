@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "IJsland",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5596,
+    "code": "SDN",
+    "iso2": "SDN",
+    "iso3166_2": "IS-SDN",
+    "fips_code": null,
+    "name": "Suðurnesjabær",
+    "name_default": "Suðurnesjabær",
+    "native": "Suðurnesjabær",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "63.87000000",
+    "longitude": "-22.08000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q2368394",
+    "country_code": "IS"
+  },
+  "cities": []
+}

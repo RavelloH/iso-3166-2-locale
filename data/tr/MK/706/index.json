@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Kuzey Makedonya",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 643,
+    "code": "706",
+    "iso2": "706",
+    "iso3166_2": "MK-706",
+    "fips_code": "97",
+    "name": "Staro Nagoričane",
+    "name_default": "Staro Nagoričane",
+    "native": "Старо Нагоричане",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 493,
+    "latitude": "42.19901880",
+    "longitude": "21.82941610",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q2128903",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67581,
+      "name": "Старо Нагоричане",
+      "name_default": "Старо Нагоричане",
+      "native": "Старо Нагоричане",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4112,
+      "latitude": "42.19806000",
+      "longitude": "21.82861000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q2731411",
+      "country_code": "MK",
+      "state_code": "706",
+      "state_id": 643,
+      "country_id": 129
+    }
+  ]
+}

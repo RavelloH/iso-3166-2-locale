@@ -1,0 +1,190 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 11,
+    "code": "AR",
+    "iso3": "ARG",
+    "numeric_code": "032",
+    "name": "Argentina",
+    "name_default": "Argentina",
+    "native": "Argentina",
+    "capital": "Buenos Aires",
+    "phonecode": "54",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "population": 46735004,
+    "gdp": 683533,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Argentine",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  },
+  "state": {
+    "id": 3650,
+    "code": "V",
+    "iso2": "V",
+    "iso3166_2": "AR-V",
+    "fips_code": "23",
+    "name": "Terra do Fogo",
+    "name_default": "Tierra del Fuego",
+    "native": "Tierra del Fuego",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-54.40710640",
+    "longitude": "-67.89748950",
+    "timezone": "America/Argentina/Ushuaia",
+    "wikiDataId": "Q44832",
+    "country_code": "AR"
+  },
+  "cities": [
+    {
+      "id": 1392,
+      "name": "Rio Grande",
+      "name_default": "Río Grande",
+      "native": "Río Grande",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 52681,
+      "latitude": "-53.78769000",
+      "longitude": "-67.70946000",
+      "timezone": "America/Argentina/Ushuaia",
+      "wikiDataId": "Q1005221",
+      "country_code": "AR",
+      "state_code": "V",
+      "state_id": 3650,
+      "country_id": 11
+    },
+    {
+      "id": 1508,
+      "name": "Tolhuin",
+      "name_default": "Tolhuin",
+      "native": "Peaje huin",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3000,
+      "latitude": "-54.51083000",
+      "longitude": "-67.19550000",
+      "timezone": "America/Argentina/Ushuaia",
+      "wikiDataId": "Q21831641",
+      "country_code": "AR",
+      "state_code": "V",
+      "state_id": 3650,
+      "country_id": 11
+    },
+    {
+      "id": 1524,
+      "name": "Ushuaia",
+      "name_default": "Ushuaia",
+      "native": "Ushuaia",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 56825,
+      "latitude": "-54.81084000",
+      "longitude": "-68.31591000",
+      "timezone": "America/Argentina/Ushuaia",
+      "wikiDataId": "Q44254",
+      "country_code": "AR",
+      "state_code": "V",
+      "state_id": 3650,
+      "country_id": 11
+    }
+  ]
+}

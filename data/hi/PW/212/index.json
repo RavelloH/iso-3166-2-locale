@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "पलाउ",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4530,
+    "code": "212",
+    "iso2": "212",
+    "iso3166_2": "PW-212",
+    "fips_code": "07",
+    "name": "मेलेक्योक",
+    "name_default": "Melekeok",
+    "native": "Melekeok",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 318,
+    "latitude": "7.47260130",
+    "longitude": "134.75487430",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q12898552",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89706,
+      "name": "मेलेकेओक गाँव",
+      "name_default": "Melekeok Village",
+      "native": "Melekeok Village",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 271,
+      "latitude": "7.49567000",
+      "longitude": "134.63671000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q154002",
+      "country_code": "PW",
+      "state_code": "212",
+      "state_id": 4530,
+      "country_id": 168
+    }
+  ]
+}

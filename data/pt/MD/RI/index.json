@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "Moldávia",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4376,
+    "code": "RI",
+    "iso2": "RI",
+    "iso3166_2": "MD-RI",
+    "fips_code": "84",
+    "name": "Rîșcani",
+    "name_default": "Rîșcani",
+    "native": "Rîșcani",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 9259,
+    "latitude": "47.95359870",
+    "longitude": "27.55144530",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q611656",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67321,
+      "name": "Rîşcani",
+      "name_default": "Rîşcani",
+      "native": "Rîşcani",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 8622,
+      "latitude": "47.94792000",
+      "longitude": "27.56376000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q1022131",
+      "country_code": "MD",
+      "state_code": "RI",
+      "state_id": 4376,
+      "country_id": 144
+    }
+  ]
+}

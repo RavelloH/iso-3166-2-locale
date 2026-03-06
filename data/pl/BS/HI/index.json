@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "Bahamy",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3613,
+    "code": "HI",
+    "iso2": "HI",
+    "iso3166_2": "BS-HI",
+    "fips_code": "22",
+    "name": "Wyspa Portowa",
+    "name_default": "Harbour Island",
+    "native": "Harbour Island",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "25.50011000",
+    "longitude": "-76.63405110",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q2357510",
+    "country_code": "BS"
+  },
+  "cities": [
+    {
+      "id": 15694,
+      "name": "Miasto Dunmore",
+      "name_default": "Dunmore Town",
+      "native": "Dunmore Town",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1523,
+      "latitude": "25.50216000",
+      "longitude": "-76.63633000",
+      "timezone": "America/Nassau",
+      "wikiDataId": "Q1771794",
+      "country_code": "BS",
+      "state_code": "HI",
+      "state_id": 3613,
+      "country_id": 17
+    }
+  ]
+}

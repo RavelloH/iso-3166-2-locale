@@ -1,0 +1,66 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 86,
+    "code": "GL",
+    "iso3": "GRL",
+    "numeric_code": "304",
+    "name": "Groenlandia",
+    "name_default": "Greenland",
+    "native": "Kalaallit Nunaat",
+    "capital": "Nuuk",
+    "phonecode": "299",
+    "currency": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "Kr.",
+    "tld": ".gl",
+    "population": 56542,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Greenlandic",
+    "timezones": [
+      {
+        "zoneName": "America/Danmarkshavn",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      },
+      {
+        "zoneName": "America/Nuuk",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "WGT",
+        "tzName": "West Greenland Time"
+      },
+      {
+        "zoneName": "America/Scoresbysund",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "EGT",
+        "tzName": "Eastern Greenland Time"
+      },
+      {
+        "zoneName": "America/Thule",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "72.00000000",
+    "longitude": "-40.00000000",
+    "emoji": "🇬🇱",
+    "emojiU": "U+1F1EC U+1F1F1"
+  },
+  "states": [
+    "AV",
+    "KU",
+    "QE",
+    "QT",
+    "SM"
+  ]
+}

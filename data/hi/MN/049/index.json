@@ -1,0 +1,109 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 146,
+    "code": "MN",
+    "iso3": "MNG",
+    "numeric_code": "496",
+    "name": "मंगोलिया",
+    "name_default": "Mongolia",
+    "native": "Монгол улс",
+    "capital": "Ulan Bator",
+    "phonecode": "976",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "population": 3544835,
+    "gdp": 25804,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Mongolian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Choibalsan",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "tzName": "Choibalsan Standard Time"
+      },
+      {
+        "zoneName": "Asia/Hovd",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "tzName": "Hovd Time"
+      },
+      {
+        "zoneName": "Asia/Ulaanbaatar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "tzName": "Ulaanbaatar Standard Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3"
+  },
+  "state": {
+    "id": 1980,
+    "code": "049",
+    "iso2": "049",
+    "iso3166_2": "MN-049",
+    "fips_code": "16",
+    "name": "सेलेंगे",
+    "name_default": "Selenge",
+    "native": "Сэлэнгэ",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "49.39101360",
+    "longitude": "107.06290340",
+    "timezone": "Asia/Choibalsan",
+    "wikiDataId": "Q234680",
+    "country_code": "MN"
+  },
+  "cities": [
+    {
+      "id": 67716,
+      "name": "ज़ुउनहारा",
+      "name_default": "Dzüünharaa",
+      "native": "Зуунхараа",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18830,
+      "latitude": "48.85229000",
+      "longitude": "106.45786000",
+      "timezone": "Asia/Ulaanbaatar",
+      "wikiDataId": "Q917690",
+      "country_code": "MN",
+      "state_code": "049",
+      "state_id": 1980,
+      "country_id": 146
+    },
+    {
+      "id": 67731,
+      "name": "सुह्बातर",
+      "name_default": "Sühbaatar",
+      "native": "Сүхбаатар",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 22741,
+      "latitude": "50.23139000",
+      "longitude": "106.20778000",
+      "timezone": "Asia/Ulaanbaatar",
+      "wikiDataId": "Q46319",
+      "country_code": "MN",
+      "state_code": "049",
+      "state_id": 1980,
+      "country_id": 146
+    }
+  ]
+}

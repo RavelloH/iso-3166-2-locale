@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "Lettonia",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4403,
+    "code": "106",
+    "iso2": "106",
+    "iso3166_2": "LV-106",
+    "fips_code": "33",
+    "name": "Ventspils",
+    "name_default": "Ventspils",
+    "native": "Ventspils",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 32723,
+    "latitude": "57.39039180",
+    "longitude": "21.56359910",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q1345325",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66939,
+      "name": "Piltene",
+      "name_default": "Piltene",
+      "native": "Piltene",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 823,
+      "latitude": "57.22426000",
+      "longitude": "21.67439000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q838491",
+      "country_code": "LV",
+      "state_code": "106",
+      "state_id": 4403,
+      "country_id": 120
+    }
+  ]
+}

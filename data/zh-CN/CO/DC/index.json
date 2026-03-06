@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 48,
+    "code": "CO",
+    "iso3": "COL",
+    "numeric_code": "170",
+    "name": "哥伦比亚",
+    "name_default": "Colombia",
+    "native": "Colombia",
+    "capital": "Bogotá",
+    "phonecode": "57",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "population": 53057212,
+    "gdp": 427766,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Colombian",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  },
+  "state": {
+    "id": 4921,
+    "code": "DC",
+    "iso2": "DC",
+    "iso3166_2": "CO-DC",
+    "fips_code": "00",
+    "name": "波哥大哥伦比亚特区",
+    "name_default": "Bogotá D.C.",
+    "native": "Bogotá D.C.",
+    "type": "capital district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "4.28347150",
+    "longitude": "-74.17536060",
+    "timezone": "America/Bogota",
+    "wikiDataId": "Q2841",
+    "country_code": "CO"
+  },
+  "cities": [
+    {
+      "id": 149237,
+      "name": "波哥大哥伦比亚特区",
+      "name_default": "Bogotá D.C.",
+      "native": "Bogotá D.C.",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 7674366,
+      "latitude": "4.61263889",
+      "longitude": "-74.07050000",
+      "timezone": "America/Bogota",
+      "wikiDataId": "Q2841",
+      "country_code": "CO",
+      "state_code": "DC",
+      "state_id": 4921,
+      "country_id": 48
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 115,
+    "code": "KP",
+    "iso3": "PRK",
+    "numeric_code": "408",
+    "name": "Kuzey Kore",
+    "name_default": "North Korea",
+    "native": "북한",
+    "capital": "Pyongyang",
+    "phonecode": "850",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "population": 25950000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "North Korean",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "13",
+    "14",
+    "15"
+  ]
+}

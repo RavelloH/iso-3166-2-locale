@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "Palau",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4531,
+    "code": "224",
+    "iso2": "224",
+    "iso3166_2": "PW-224",
+    "fips_code": "11",
+    "name": "Ngatpang",
+    "name_default": "Ngatpang",
+    "native": "Ngatpang",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 289,
+    "latitude": "7.61175910",
+    "longitude": "134.17997320",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q430385",
+    "country_code": "PW"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Cap Vert",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2986,
+    "code": "SD",
+    "iso2": "SD",
+    "iso3166_2": "CV-SD",
+    "fips_code": "17",
+    "name": "São Domingos",
+    "name_default": "São Domingos",
+    "native": "São Domingos",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.02861650",
+    "longitude": "-23.56392200",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q499009",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 22006,
+      "name": "São Domingos",
+      "name_default": "São Domingos",
+      "native": "São Domingos",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2960,
+      "latitude": "15.02438000",
+      "longitude": "-23.56250000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q2718745",
+      "country_code": "CV",
+      "state_code": "SD",
+      "state_id": 2986,
+      "country_id": 40
+    }
+  ]
+}

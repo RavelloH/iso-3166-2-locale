@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 166,
+    "code": "OM",
+    "iso3": "OMN",
+    "numeric_code": "512",
+    "name": "Oman",
+    "name_default": "Oman",
+    "native": "عمان",
+    "capital": "Muscat",
+    "phonecode": "968",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "population": 5306976,
+    "gdp": 104351,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Omani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  },
+  "state": {
+    "id": 3057,
+    "code": "ZU",
+    "iso2": "ZU",
+    "iso3166_2": "OM-ZU",
+    "fips_code": "08",
+    "name": "Dhofar",
+    "name_default": "Dhofar",
+    "native": "ظفار",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 408419,
+    "latitude": "18.33688290",
+    "longitude": "54.20929940",
+    "timezone": "Asia/Muscat",
+    "wikiDataId": "Q1207752",
+    "country_code": "OM"
+  },
+  "cities": [
+    {
+      "id": 79951,
+      "name": "Šalala",
+      "name_default": "Şalālah",
+      "native": "şalalh",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 163140,
+      "latitude": "17.01505000",
+      "longitude": "54.09237000",
+      "timezone": "Asia/Muscat",
+      "wikiDataId": "Q1294439",
+      "country_code": "OM",
+      "state_code": "ZU",
+      "state_id": 3057,
+      "country_id": 166
+    }
+  ]
+}

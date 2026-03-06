@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 94,
+    "code": "GY",
+    "iso3": "GUY",
+    "numeric_code": "328",
+    "name": "ガイアナ",
+    "name_default": "Guyana",
+    "native": "Guyana",
+    "capital": "Georgetown",
+    "phonecode": "592",
+    "currency": "GYD",
+    "currency_name": "Guyanese dollar",
+    "currency_symbol": "$",
+    "tld": ".gy",
+    "population": 772975,
+    "gdp": 25822,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Guyanese",
+    "timezones": [
+      {
+        "zoneName": "America/Guyana",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "GYT",
+        "tzName": "Guyana Time"
+      }
+    ],
+    "latitude": "5.00000000",
+    "longitude": "-59.00000000",
+    "emoji": "🇬🇾",
+    "emojiU": "U+1F1EC U+1F1FE"
+  },
+  "state": {
+    "id": 2765,
+    "code": "PM",
+    "iso2": "PM",
+    "iso3166_2": "GY-PM",
+    "fips_code": "16",
+    "name": "ポメルーン・スペーナム",
+    "name_default": "Pomeroon-Supenaam",
+    "native": "Pomerone superconame",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 46810,
+    "latitude": "7.20495480",
+    "longitude": "-58.82956410",
+    "timezone": "America/Guyana",
+    "wikiDataId": "Q680382",
+    "country_code": "GY"
+  },
+  "cities": [
+    {
+      "id": 53821,
+      "name": "アンナ・レジーナ",
+      "name_default": "Anna Regina",
+      "native": "Anna Regina",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "7.26439000",
+      "longitude": "-58.50769000",
+      "timezone": "America/Guyana",
+      "wikiDataId": "Q563067",
+      "country_code": "GY",
+      "state_code": "PM",
+      "state_id": 2765,
+      "country_id": 94
+    }
+  ]
+}

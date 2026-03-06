@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 245,
+    "code": "YE",
+    "iso3": "YEM",
+    "numeric_code": "887",
+    "name": "Yémen",
+    "name_default": "Yemen",
+    "native": "اليَمَن",
+    "capital": "Sanaa",
+    "phonecode": "967",
+    "currency": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "tld": ".ye",
+    "population": 32684503,
+    "gdp": 17401,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Yemeni",
+    "timezones": [
+      {
+        "zoneName": "Asia/Aden",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "48.00000000",
+    "emoji": "🇾🇪",
+    "emojiU": "U+1F1FE U+1F1EA"
+  },
+  "state": {
+    "id": 5467,
+    "code": "DA",
+    "iso2": "DA",
+    "iso3166_2": "YE-DA",
+    "fips_code": "10",
+    "name": "Ad Dali'",
+    "name_default": "Ad Dali'",
+    "native": "الضالع",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 21783,
+    "latitude": "13.70000000",
+    "longitude": "44.73000000",
+    "timezone": "Asia/Aden",
+    "wikiDataId": "Q241087",
+    "country_code": "YE"
+  },
+  "cities": [
+    {
+      "id": 157058,
+      "name": "Ad Dali'",
+      "name_default": "Ad Dali'",
+      "native": "الضالع",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 14760,
+      "latitude": "13.70000000",
+      "longitude": "44.73000000",
+      "timezone": "Asia/Aden",
+      "wikiDataId": "Q7308711",
+      "country_code": "YE",
+      "state_code": "DA",
+      "state_id": 5467,
+      "country_id": 245
+    }
+  ]
+}

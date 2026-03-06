@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 34,
+    "code": "BG",
+    "iso3": "BGR",
+    "numeric_code": "100",
+    "name": "Bulgarien",
+    "name_default": "Bulgaria",
+    "native": "България",
+    "capital": "Sofia",
+    "phonecode": "359",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "population": 6437360,
+    "gdp": 117007,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Bulgarian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  },
+  "state": {
+    "id": 4882,
+    "code": "27",
+    "iso2": "27",
+    "iso3166_2": "BG-27",
+    "fips_code": "54",
+    "name": "Schumen",
+    "name_default": "Shumen",
+    "native": "Шумен",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.27123980",
+    "longitude": "26.93612860",
+    "timezone": "Europe/Sofia",
+    "wikiDataId": "Q184981",
+    "country_code": "BG"
+  },
+  "cities": [
+    {
+      "id": 146184,
+      "name": "Schumen",
+      "name_default": "Shumen",
+      "native": "Шумен",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 66641,
+      "latitude": "43.28333300",
+      "longitude": "26.93333300",
+      "timezone": "Europe/Sofia",
+      "wikiDataId": "Q181830",
+      "country_code": "BG",
+      "state_code": "27",
+      "state_id": 4882,
+      "country_id": 34
+    }
+  ]
+}

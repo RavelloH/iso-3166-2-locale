@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macedónia do Norte",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 673,
+    "code": "204",
+    "iso2": "204",
+    "iso3166_2": "MK-204",
+    "fips_code": "C6",
+    "name": "Zrnovci",
+    "name_default": "Zrnovci",
+    "native": "Зрновци",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 2221,
+    "latitude": "41.83737140",
+    "longitude": "22.42870130",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q950881",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67565,
+      "name": "Zrnovci",
+      "name_default": "Zrnovci",
+      "native": "Зрновци",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3236,
+      "latitude": "41.85417000",
+      "longitude": "22.44444000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q2990830",
+      "country_code": "MK",
+      "state_code": "204",
+      "state_id": 673,
+      "country_id": 129
+    }
+  ]
+}

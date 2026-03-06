@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 206,
+    "code": "SS",
+    "iso3": "SSD",
+    "numeric_code": "728",
+    "name": "Südsudan",
+    "name_default": "South Sudan",
+    "native": "South Sudan",
+    "capital": "Juba",
+    "phonecode": "211",
+    "currency": "SSP",
+    "currency_name": "South Sudanese pound",
+    "currency_symbol": "£",
+    "tld": ".ss",
+    "population": 15786898,
+    "gdp": 3998,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "South Sudanese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Juba",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇸",
+    "emojiU": "U+1F1F8 U+1F1F8"
+  },
+  "state": {
+    "id": 2093,
+    "code": "EE",
+    "iso2": "EE",
+    "iso3166_2": "SS-EE",
+    "fips_code": "57",
+    "name": "Ost-Äquatoria",
+    "name_default": "Eastern Equatoria",
+    "native": "Eastern Equatoria",
+    "type": "state",
+    "level": "1",
+    "parent_id": null,
+    "population": 4393765,
+    "latitude": "5.28393200",
+    "longitude": "33.59123290",
+    "timezone": "Africa/Juba",
+    "wikiDataId": "Q488519",
+    "country_code": "SS"
+  },
+  "cities": []
+}

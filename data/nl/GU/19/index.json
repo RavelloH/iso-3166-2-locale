@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "Guam",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5272,
+    "code": "19",
+    "iso2": "19",
+    "iso3166_2": "GU-19",
+    "fips_code": "19",
+    "name": "Yona",
+    "name_default": "Yona",
+    "native": "Yona",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.41376000",
+    "longitude": "144.77441300",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2638381",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160281,
+      "name": "Yona Village",
+      "name_default": "Yona Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6484,
+      "latitude": "13.40974000",
+      "longitude": "144.77697000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "19",
+      "state_id": 5272,
+      "country_id": 89
+    }
+  ]
+}

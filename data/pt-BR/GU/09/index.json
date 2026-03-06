@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "Guam",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5262,
+    "code": "09",
+    "iso2": "09",
+    "iso3166_2": "GU-09",
+    "fips_code": "09",
+    "name": "Merizo (Malesso)",
+    "name_default": "Merizo (Malesso)",
+    "native": "Merizo (Malesso)",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.26829750",
+    "longitude": "144.67261060",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2482497",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160264,
+      "name": "Merizo Village",
+      "name_default": "Merizo Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2152,
+      "latitude": "13.26584000",
+      "longitude": "144.66908000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "09",
+      "state_id": 5262,
+      "country_id": 89
+    }
+  ]
+}

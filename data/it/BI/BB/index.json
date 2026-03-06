@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3196,
+    "code": "BB",
+    "iso2": "BB",
+    "iso3166_2": "BI-BB",
+    "fips_code": "09",
+    "name": "Bubanza",
+    "name_default": "Bubanza",
+    "native": "Bubanza",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 20031,
+    "latitude": "-3.11127870",
+    "longitude": "29.38283580",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q460538",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9762,
+      "name": "Bubanza",
+      "name_default": "Bubanza",
+      "native": "Bubanza",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 30996,
+      "latitude": "-3.08040000",
+      "longitude": "29.39100000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q2020432",
+      "country_code": "BI",
+      "state_code": "BB",
+      "state_id": 3196,
+      "country_id": 36
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 193,
+    "code": "ST",
+    "iso3": "STP",
+    "numeric_code": "678",
+    "name": "Sao Tomé en Principe",
+    "name_default": "Sao Tome and Principe",
+    "native": "São Tomé e Príncipe",
+    "capital": "Sao Tome",
+    "phonecode": "239",
+    "currency": "STN",
+    "currency_name": "Dobra",
+    "currency_symbol": "Db",
+    "tld": ".st",
+    "population": 209607,
+    "gdp": 864,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Sao Tomean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Sao_Tome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "7.00000000",
+    "emoji": "🇸🇹",
+    "emojiU": "U+1F1F8 U+1F1F9"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "P"
+  ]
+}

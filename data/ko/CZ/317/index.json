@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "체코",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4565,
+    "code": "317",
+    "iso2": "317",
+    "iso3166_2": "CZ-317",
+    "fips_code": "87",
+    "name": "소구",
+    "name_default": "Tábor",
+    "native": "Tábor",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4639",
+    "population": 34356,
+    "latitude": "49.41415330",
+    "longitude": "14.65872340",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q117503",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

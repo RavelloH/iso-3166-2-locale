@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 2,
+    "code": "AX",
+    "iso3": "ALA",
+    "numeric_code": "248",
+    "name": "Alandia",
+    "name_default": "Aland Islands",
+    "native": "Åland",
+    "capital": "Mariehamn",
+    "phonecode": "358",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ax",
+    "population": 30654,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Aland Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "emoji": "🇦🇽",
+    "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  "state": {
+    "id": 5287,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "AX-01",
+    "fips_code": "01",
+    "name": "Mariehamn",
+    "name_default": "Mariehamn",
+    "native": "Mariehamn",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 11898,
+    "latitude": "60.10242300",
+    "longitude": "19.94126000",
+    "timezone": "Europe/Mariehamn",
+    "wikiDataId": "Q48329",
+    "country_code": "AX"
+  },
+  "cities": [
+    {
+      "id": 160425,
+      "name": "Mariehamn",
+      "name_default": "Mariehamn",
+      "native": null,
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 10682,
+      "latitude": "60.09726000",
+      "longitude": "19.93481000",
+      "timezone": "Europe/Mariehamn",
+      "wikiDataId": null,
+      "country_code": "AX",
+      "state_code": "01",
+      "state_id": 5287,
+      "country_id": 2
+    }
+  ]
+}

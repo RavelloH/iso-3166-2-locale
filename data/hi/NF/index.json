@@ -1,0 +1,39 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 163,
+    "code": "NF",
+    "iso3": "NFK",
+    "numeric_code": "574",
+    "name": "नॉरफ़ॉक आइलैंड",
+    "name_default": "Norfolk Island",
+    "native": "Norfolk Island",
+    "capital": "Kingston",
+    "phonecode": "672",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".nf",
+    "population": 2188,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "Norfolk Island",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Norfolk",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NFT",
+        "tzName": "Norfolk Time"
+      }
+    ],
+    "latitude": "-29.03333333",
+    "longitude": "167.95000000",
+    "emoji": "🇳🇫",
+    "emojiU": "U+1F1F3 U+1F1EB"
+  },
+  "states": []
+}

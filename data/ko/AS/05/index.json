@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 5,
+    "code": "AS",
+    "iso3": "ASM",
+    "numeric_code": "016",
+    "name": "아메리칸사모아",
+    "name_default": "American Samoa",
+    "native": "American Samoa",
+    "capital": "Pago Pago",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".as",
+    "population": 49710,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "American Samoan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Pago_Pago",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "SST",
+        "tzName": "Samoa Standard Time"
+      }
+    ],
+    "latitude": "-14.33333333",
+    "longitude": "-170.00000000",
+    "emoji": "🇦🇸",
+    "emojiU": "U+1F1E6 U+1F1F8"
+  },
+  "state": {
+    "id": 5378,
+    "code": "05",
+    "iso2": "05",
+    "iso3166_2": "AS-05",
+    "fips_code": "05",
+    "name": "장미",
+    "name_default": "Rose",
+    "native": "Rose",
+    "type": "atoll",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-14.54248650",
+    "longitude": "-168.16374450",
+    "timezone": "Pacific/Pago_Pago",
+    "wikiDataId": "Q1636779",
+    "country_code": "AS"
+  },
+  "cities": []
+}

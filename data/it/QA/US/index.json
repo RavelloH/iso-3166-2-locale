@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 179,
+    "code": "QA",
+    "iso3": "QAT",
+    "numeric_code": "634",
+    "name": "Qatar",
+    "name_default": "Qatar",
+    "native": "قطر",
+    "capital": "Doha",
+    "phonecode": "974",
+    "currency": "QAR",
+    "currency_name": "Qatari riyal",
+    "currency_symbol": "ق.ر",
+    "tld": ".qa",
+    "population": 3173024,
+    "gdp": 222776,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Qatari",
+    "timezones": [
+      {
+        "zoneName": "Asia/Qatar",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "25.50000000",
+    "longitude": "51.25000000",
+    "emoji": "🇶🇦",
+    "emojiU": "U+1F1F6 U+1F1E6"
+  },
+  "state": {
+    "id": 3184,
+    "code": "US",
+    "iso2": "US",
+    "iso3166_2": "QA-US",
+    "fips_code": "09",
+    "name": "Umm Salal",
+    "name_default": "Umm Salal",
+    "native": "قاعدة أم",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 90835,
+    "latitude": "25.46476540",
+    "longitude": "51.33839960",
+    "timezone": "Asia/Qatar",
+    "wikiDataId": "Q990414",
+    "country_code": "QA"
+  },
+  "cities": [
+    {
+      "id": 89870,
+      "name": "Umm Şalāl Muhammad",
+      "name_default": "Umm Şalāl Muḩammad",
+      "native": "أم صلاح محمد",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 29391,
+      "latitude": "25.41524000",
+      "longitude": "51.40647000",
+      "timezone": "Asia/Qatar",
+      "wikiDataId": "Q3298627",
+      "country_code": "QA",
+      "state_code": "US",
+      "state_id": 3184,
+      "country_id": 179
+    }
+  ]
+}

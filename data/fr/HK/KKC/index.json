@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 98,
+    "code": "HK",
+    "iso3": "HKG",
+    "numeric_code": "344",
+    "name": "Hong Kong",
+    "name_default": "Hong Kong S.A.R.",
+    "native": "香港",
+    "capital": "Hong Kong",
+    "phonecode": "852",
+    "currency": "HKD",
+    "currency_name": "Hong Kong dollar",
+    "currency_symbol": "$",
+    "tld": ".hk",
+    "population": 7527500,
+    "gdp": 423999,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Hong Kong, Hong Kongese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Hong_Kong",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "HKT",
+        "tzName": "Hong Kong Time"
+      }
+    ],
+    "latitude": "22.25000000",
+    "longitude": "114.16666666",
+    "emoji": "🇭🇰",
+    "emojiU": "U+1F1ED U+1F1F0"
+  },
+  "state": {
+    "id": 4895,
+    "code": "KKC",
+    "iso2": "KKC",
+    "iso3166_2": "HK-KKC",
+    "fips_code": null,
+    "name": "Ville de Kowloon",
+    "name_default": "Kowloon City",
+    "native": "Kowloon City",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "22.32820000",
+    "longitude": "114.19155000",
+    "timezone": "Asia/Hong_Kong",
+    "wikiDataId": "Q986415",
+    "country_code": "HK"
+  },
+  "cities": [
+    {
+      "id": 153500,
+      "name": "Kowloon Tong",
+      "name_default": "Kowloon Tong",
+      "native": "九龙塘",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18849,
+      "latitude": "22.33700000",
+      "longitude": "114.17900000",
+      "timezone": "Asia/Hong_Kong",
+      "wikiDataId": "Q193903",
+      "country_code": "HK",
+      "state_code": "KKC",
+      "state_id": 4895,
+      "country_id": 98
+    }
+  ]
+}

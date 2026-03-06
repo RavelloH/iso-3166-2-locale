@@ -1,0 +1,58 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "بورکینافاسو",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3113,
+    "code": "NAM",
+    "iso2": "NAM",
+    "iso3166_2": "BF-NAM",
+    "fips_code": "64",
+    "name": "نامنتنگا",
+    "name_default": "Namentenga",
+    "native": "Namenga",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3127",
+    "population": null,
+    "latitude": "13.23672000",
+    "longitude": "-0.48193430",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q1142044",
+    "country_code": "BF"
+  },
+  "cities": []
+}

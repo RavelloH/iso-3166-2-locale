@@ -1,0 +1,58 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 208,
+    "code": "LK",
+    "iso3": "LKA",
+    "numeric_code": "144",
+    "name": "Шри-Ланка",
+    "name_default": "Sri Lanka",
+    "native": "śrī laṃkāva",
+    "capital": "Colombo",
+    "phonecode": "94",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "population": 21763170,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Sri Lankan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  },
+  "state": {
+    "id": 2809,
+    "code": "44",
+    "iso2": "44",
+    "iso3166_2": "LK-44",
+    "fips_code": "28",
+    "name": "Вавуния",
+    "name_default": "Vavuniya",
+    "native": "වවුනියාව",
+    "type": "district",
+    "level": "1",
+    "parent_id": "2813",
+    "population": null,
+    "latitude": "8.75947390",
+    "longitude": "80.50003340",
+    "timezone": "Asia/Colombo",
+    "wikiDataId": "Q527980",
+    "country_code": "LK"
+  },
+  "cities": []
+}

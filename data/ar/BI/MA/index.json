@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "بوروندي",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3188,
+    "code": "MA",
+    "iso2": "MA",
+    "iso3166_2": "BI-MA",
+    "fips_code": "17",
+    "name": "ماكامبا",
+    "name_default": "Makamba",
+    "native": "Makamba",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-4.19783150",
+    "longitude": "29.80739960",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q823740",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9771,
+      "name": "ماكامبا",
+      "name_default": "Makamba",
+      "native": "Makamba",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 14539,
+      "latitude": "-4.13480000",
+      "longitude": "29.80400000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q1286083",
+      "country_code": "BI",
+      "state_code": "MA",
+      "state_id": 3188,
+      "country_id": 36
+    }
+  ]
+}

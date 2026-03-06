@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 243,
+    "code": "WF",
+    "iso3": "WLF",
+    "numeric_code": "876",
+    "name": "瓦利斯群岛和富图纳群岛",
+    "name_default": "Wallis and Futuna Islands",
+    "native": "Wallis et Futuna",
+    "capital": "Mata Utu",
+    "phonecode": "681",
+    "currency": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "tld": ".wf",
+    "population": 11620,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Wallis and Futuna, Wallisian or Futunan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Wallis",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "WFT",
+        "tzName": "Wallis & Futuna Time"
+      }
+    ],
+    "latitude": "-13.30000000",
+    "longitude": "-176.20000000",
+    "emoji": "🇼🇫",
+    "emojiU": "U+1F1FC U+1F1EB"
+  },
+  "state": {
+    "id": 5708,
+    "code": "SG",
+    "iso2": "SG",
+    "iso3166_2": null,
+    "fips_code": null,
+    "name": "西加夫",
+    "name_default": "Sigave",
+    "native": "Sigavé",
+    "type": "administrative precinct",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-14.29610000",
+    "longitude": "-178.15850000",
+    "timezone": "Pacific/Wallis",
+    "wikiDataId": "Q2554877",
+    "country_code": "WF"
+  },
+  "cities": [
+    {
+      "id": 160133,
+      "name": "莉瓦",
+      "name_default": "Leava",
+      "native": "Leava",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 480,
+      "latitude": "-14.29610000",
+      "longitude": "-178.15850000",
+      "timezone": "Pacific/Wallis",
+      "wikiDataId": "Q1628069",
+      "country_code": "WF",
+      "state_code": "SG",
+      "state_id": 5708,
+      "country_id": 243
+    }
+  ]
+}

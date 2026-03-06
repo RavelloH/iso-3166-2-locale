@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "세인트키츠 네비스",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3833,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "KN-01",
+    "fips_code": "01",
+    "name": "크라이스트처치 니콜라 타운",
+    "name_default": "Christ Church Nichola Town",
+    "native": "Christ Church Nichola Town",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 1922,
+    "latitude": "17.36048120",
+    "longitude": "-62.76178370",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q176164",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65176,
+      "name": "니콜라 타운",
+      "name_default": "Nicola Town",
+      "native": "Nicola Town",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2059,
+      "latitude": "17.37956000",
+      "longitude": "-62.75318000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3394454",
+      "country_code": "KN",
+      "state_code": "01",
+      "state_id": 3833,
+      "country_id": 185
+    }
+  ]
+}

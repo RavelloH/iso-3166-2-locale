@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 92,
+    "code": "GN",
+    "iso3": "GIN",
+    "numeric_code": "324",
+    "name": "Gine",
+    "name_default": "Guinea",
+    "native": "Guinée",
+    "capital": "Conakry",
+    "phonecode": "224",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "population": 14363931,
+    "gdp": 30094,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  },
+  "state": {
+    "id": 2706,
+    "code": "DL",
+    "iso2": "DL",
+    "iso3166_2": "GN-DL",
+    "fips_code": "06",
+    "name": "Dalaba",
+    "name_default": "Dalaba",
+    "native": "Délinquant",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "2698",
+    "population": 6349,
+    "latitude": "10.68681760",
+    "longitude": "-12.24906970",
+    "timezone": "Africa/Conakry",
+    "wikiDataId": "Q623302",
+    "country_code": "GN"
+  },
+  "cities": []
+}

@@ -1,0 +1,48 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 200,
+    "code": "SK",
+    "iso3": "SVK",
+    "numeric_code": "703",
+    "name": "Slovacchia",
+    "name_default": "Slovakia",
+    "native": "Slovensko",
+    "capital": "Bratislava",
+    "phonecode": "421",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sk",
+    "population": 5413813,
+    "gdp": 147031,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Slovak",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bratislava",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "48.66666666",
+    "longitude": "19.50000000",
+    "emoji": "🇸🇰",
+    "emojiU": "U+1F1F8 U+1F1F0"
+  },
+  "states": [
+    "BC",
+    "BL",
+    "KI",
+    "NI",
+    "PV",
+    "TA",
+    "TC",
+    "ZI"
+  ]
+}

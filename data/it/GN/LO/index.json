@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 92,
+    "code": "GN",
+    "iso3": "GIN",
+    "numeric_code": "324",
+    "name": "Guinea",
+    "name_default": "Guinea",
+    "native": "Guinée",
+    "capital": "Conakry",
+    "phonecode": "224",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "population": 14363931,
+    "gdp": 30094,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  },
+  "state": {
+    "id": 2708,
+    "code": "LO",
+    "iso2": "LO",
+    "iso3166_2": "GN-LO",
+    "fips_code": "36",
+    "name": "Lola",
+    "name_default": "Lola",
+    "native": "Lola",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "2684",
+    "population": null,
+    "latitude": "8.01669610",
+    "longitude": "-8.30784260",
+    "timezone": "Africa/Conakry",
+    "wikiDataId": "Q623145",
+    "country_code": "GN"
+  },
+  "cities": []
+}

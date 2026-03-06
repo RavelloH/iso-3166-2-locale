@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Islândia",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5614,
+    "code": "TJO",
+    "iso2": "TJO",
+    "iso3166_2": "IS-TJO",
+    "fips_code": null,
+    "name": "Tjörneshreppur",
+    "name_default": "Tjörneshreppur",
+    "native": "Tjörneshreppur",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "66.20000000",
+    "longitude": "-17.05000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q2433113",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135223,
+      "name": "Tjörneshreppur",
+      "name_default": "Tjörneshreppur",
+      "native": "Tjörneshreppur",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 53,
+      "latitude": "66.11667000",
+      "longitude": "-17.20000000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q628888",
+      "country_code": "IS",
+      "state_code": "TJO",
+      "state_id": 5614,
+      "country_id": 100
+    }
+  ]
+}

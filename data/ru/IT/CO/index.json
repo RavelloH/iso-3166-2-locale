@@ -1,0 +1,58 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "Италия",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1740,
+    "code": "CO",
+    "iso2": "CO",
+    "iso3166_2": "IT-CO",
+    "fips_code": "17",
+    "name": "Комо",
+    "name_default": "Como",
+    "native": "COME",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1705",
+    "population": 84250,
+    "latitude": "45.80804160",
+    "longitude": "9.08517930",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16161",
+    "country_code": "IT"
+  },
+  "cities": []
+}

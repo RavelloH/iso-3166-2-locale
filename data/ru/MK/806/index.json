@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Северная Македония",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 706,
+    "code": "806",
+    "iso2": "806",
+    "iso3166_2": "MK-806",
+    "fips_code": "C2",
+    "name": "Зелениково",
+    "name_default": "Zelenikovo",
+    "native": "Зелениково",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "41.88604080",
+    "longitude": "21.58696710",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q9050283",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67562,
+      "name": "Зелениково",
+      "name_default": "Zelenikovo",
+      "native": "Зелениково",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4020,
+      "latitude": "41.88413000",
+      "longitude": "21.58848000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q2479406",
+      "country_code": "MK",
+      "state_code": "806",
+      "state_id": 706,
+      "country_id": 129
+    }
+  ]
+}

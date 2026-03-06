@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 197,
+    "code": "SC",
+    "iso3": "SYC",
+    "numeric_code": "690",
+    "name": "Seychelles",
+    "name_default": "Seychelles",
+    "native": "Seychelles",
+    "capital": "Victoria",
+    "phonecode": "248",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "population": 122729,
+    "gdp": 2198,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Seychellois",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "latitude": "-4.65749770",
+    "longitude": "55.45401460",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  },
+  "state": {
+    "id": 497,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "SC-06",
+    "fips_code": "06",
+    "name": "Baie Lazare",
+    "name_default": "Baie Lazare",
+    "native": "Très lazare",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 3951,
+    "latitude": "-4.74825250",
+    "longitude": "55.48593630",
+    "timezone": "Indian/Mahe",
+    "wikiDataId": "Q2494551",
+    "country_code": "SC"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 216,
+    "code": "TW",
+    "iso3": "TWN",
+    "numeric_code": "158",
+    "name": "Тайвань",
+    "name_default": "Taiwan",
+    "native": "臺灣",
+    "capital": "Taipei",
+    "phonecode": "886",
+    "currency": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "currency_symbol": "$",
+    "tld": ".tw",
+    "population": 23337936,
+    "gdp": 804889,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Chinese, Taiwanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Taipei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "latitude": "23.50000000",
+    "longitude": "121.00000000",
+    "emoji": "🇹🇼",
+    "emojiU": "U+1F1F9 U+1F1FC"
+  },
+  "state": {
+    "id": 3417,
+    "code": "HSZ",
+    "iso2": "HSZ",
+    "iso3166_2": "TW-HSZ",
+    "fips_code": "02",
+    "name": "Синьчжу",
+    "name_default": "Hsinchu",
+    "native": "Hsinchu",
+    "type": "city",
+    "level": null,
+    "parent_id": null,
+    "population": 453536,
+    "latitude": "24.81382870",
+    "longitude": "120.96747980",
+    "timezone": "Asia/Taipei",
+    "wikiDataId": "Q249994",
+    "country_code": "TW"
+  },
+  "cities": [
+    {
+      "id": 109011,
+      "name": "Округ Сіньчжу",
+      "name_default": "Hsinchu",
+      "native": "新竹县",
+      "type": "county",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "24.67416000",
+      "longitude": "121.16111000",
+      "timezone": "Asia/Taipei",
+      "wikiDataId": "Q74054",
+      "country_code": "TW",
+      "state_code": "HSZ",
+      "state_id": 3417,
+      "country_id": 216
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 93,
+    "code": "GW",
+    "iso3": "GNB",
+    "numeric_code": "624",
+    "name": "Гвінея-Бісау",
+    "name_default": "Guinea-Bissau",
+    "native": "Guiné-Bissau",
+    "capital": "Bissau",
+    "phonecode": "245",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".gw",
+    "population": 1781308,
+    "gdp": 2274,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Bissau-Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bissau",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "12.00000000",
+    "longitude": "-15.00000000",
+    "emoji": "🇬🇼",
+    "emojiU": "U+1F1EC U+1F1FC"
+  },
+  "state": {
+    "id": 2719,
+    "code": "GA",
+    "iso2": "GA",
+    "iso3166_2": "GW-GA",
+    "fips_code": "10",
+    "name": "Габу",
+    "name_default": "Gabú",
+    "native": "Gabú",
+    "type": "region",
+    "level": "1",
+    "parent_id": "2721",
+    "population": 37525,
+    "latitude": "12.11703510",
+    "longitude": "-14.17625060",
+    "timezone": "Africa/Bissau",
+    "wikiDataId": "Q872212",
+    "country_code": "GW"
+  },
+  "cities": [
+    {
+      "id": 53817,
+      "name": "Габу",
+      "name_default": "Gabú",
+      "native": "Gabú",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 43556,
+      "latitude": "12.28000000",
+      "longitude": "-14.22222000",
+      "timezone": "Africa/Bissau",
+      "wikiDataId": "Q1015891",
+      "country_code": "GW",
+      "state_code": "GA",
+      "state_id": 2719,
+      "country_id": 93
+    }
+  ]
+}

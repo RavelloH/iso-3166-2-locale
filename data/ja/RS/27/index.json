@@ -1,0 +1,58 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 196,
+    "code": "RS",
+    "iso3": "SRB",
+    "numeric_code": "688",
+    "name": "セルビア",
+    "name_default": "Serbia",
+    "native": "Србија",
+    "capital": "Belgrade",
+    "phonecode": "381",
+    "currency": "RSD",
+    "currency_name": "Serbian dinar",
+    "currency_symbol": "din",
+    "tld": ".rs",
+    "population": 6567783,
+    "gdp": 92549,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Serbian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Belgrade",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "44.00000000",
+    "longitude": "21.00000000",
+    "emoji": "🇷🇸",
+    "emojiU": "U+1F1F7 U+1F1F8"
+  },
+  "state": {
+    "id": 5691,
+    "code": "27",
+    "iso2": "27",
+    "iso3166_2": "RS-27",
+    "fips_code": "27",
+    "name": "プリズレン",
+    "name_default": "Prizren",
+    "native": "Призрен",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "42.21277778",
+    "longitude": "20.73916667",
+    "timezone": "Europe/Belgrade",
+    "wikiDataId": "Q201085",
+    "country_code": "RS"
+  },
+  "cities": []
+}

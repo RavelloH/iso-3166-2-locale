@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 152,
+    "code": "NA",
+    "iso3": "NAM",
+    "numeric_code": "516",
+    "name": "Namibia",
+    "name_default": "Namibia",
+    "native": "Namibia",
+    "capital": "Windhoek",
+    "phonecode": "264",
+    "currency": "NAD",
+    "currency_name": "Namibian dollar",
+    "currency_symbol": "$",
+    "tld": ".na",
+    "population": 3022401,
+    "gdp": 14214,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Namibian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Windhoek",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "WAST",
+        "tzName": "West Africa Summer Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇳🇦",
+    "emojiU": "U+1F1F3 U+1F1E6"
+  },
+  "state": {
+    "id": 40,
+    "code": "OW",
+    "iso2": "OW",
+    "iso3166_2": "NA-OW",
+    "fips_code": "33",
+    "name": "Ohangwena",
+    "name_default": "Ohangwena",
+    "native": "Ohangwena",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 337729,
+    "latitude": "-17.58773690",
+    "longitude": "16.77379550",
+    "timezone": "Africa/Windhoek",
+    "wikiDataId": "Q845702",
+    "country_code": "NA"
+  },
+  "cities": [
+    {
+      "id": 76657,
+      "name": "Oshikango",
+      "name_default": "Oshikango",
+      "native": "Oshikango",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2658,
+      "latitude": "-17.40000000",
+      "longitude": "15.88333000",
+      "timezone": "Africa/Windhoek",
+      "wikiDataId": "Q2033319",
+      "country_code": "NA",
+      "state_code": "OW",
+      "state_id": 40,
+      "country_id": 152
+    }
+  ]
+}

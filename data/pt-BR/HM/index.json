@@ -1,0 +1,39 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 96,
+    "code": "HM",
+    "iso3": "HMD",
+    "numeric_code": "334",
+    "name": "Ilha Heard e Ilhas McDonald",
+    "name_default": "Heard Island and McDonald Islands",
+    "native": "Heard Island and McDonald Islands",
+    "capital": "",
+    "phonecode": "672",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".hm",
+    "population": null,
+    "gdp": null,
+    "region": "",
+    "region_id": null,
+    "subregion": "",
+    "subregion_id": null,
+    "nationality": "Heard Island or McDonald Islands",
+    "timezones": [
+      {
+        "zoneName": "Indian/Kerguelen",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TFT",
+        "tzName": "French Southern and Antarctic Time"
+      }
+    ],
+    "latitude": "-53.10000000",
+    "longitude": "72.51666666",
+    "emoji": "🇭🇲",
+    "emojiU": "U+1F1ED U+1F1F2"
+  },
+  "states": []
+}

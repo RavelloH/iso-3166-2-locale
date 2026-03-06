@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 73,
+    "code": "FJ",
+    "iso3": "FJI",
+    "numeric_code": "242",
+    "name": "Wyspy Fidżi",
+    "name_default": "Fiji Islands",
+    "native": "Fiji",
+    "capital": "Suva",
+    "phonecode": "679",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "population": 900869,
+    "gdp": 6257,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Fijian",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  },
+  "state": {
+    "id": 1934,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "FJ-04",
+    "fips_code": "02",
+    "name": "Kadavu",
+    "name_default": "Kadavu",
+    "native": "Kadavu",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1932",
+    "population": null,
+    "latitude": "-19.01271220",
+    "longitude": "178.18766760",
+    "timezone": "Pacific/Fiji",
+    "wikiDataId": "Q1196481",
+    "country_code": "FJ"
+  },
+  "cities": []
+}

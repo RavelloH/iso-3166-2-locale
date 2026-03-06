@@ -1,0 +1,65 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 171,
+    "code": "PG",
+    "iso3": "PNG",
+    "numeric_code": "598",
+    "name": "Papua Nuova Guinea",
+    "name_default": "Papua New Guinea",
+    "native": "Papua Niugini",
+    "capital": "Port Moresby",
+    "phonecode": "675",
+    "currency": "PGK",
+    "currency_name": "Papua New Guinean kina",
+    "currency_symbol": "K",
+    "tld": ".pg",
+    "population": 11781559,
+    "gdp": 32835,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Papua New Guinean, Papuan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Bougainville",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "BST",
+        "tzName": "Bougainville Standard Time[6"
+      },
+      {
+        "zoneName": "Pacific/Port_Moresby",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "PGT",
+        "tzName": "Papua New Guinea Time"
+      }
+    ],
+    "latitude": "-6.00000000",
+    "longitude": "147.00000000",
+    "emoji": "🇵🇬",
+    "emojiU": "U+1F1F5 U+1F1EC"
+  },
+  "state": {
+    "id": 5228,
+    "code": "ESW",
+    "iso2": "ESW",
+    "iso3166_2": "PG-ESW",
+    "fips_code": "11",
+    "name": "Sepik orientale",
+    "name_default": "East Sepik",
+    "native": "East",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": 450530,
+    "latitude": "-4.35554100",
+    "longitude": "143.23251620",
+    "timezone": "Pacific/Bougainville",
+    "wikiDataId": "Q690880",
+    "country_code": "PG"
+  },
+  "cities": []
+}

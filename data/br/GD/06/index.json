@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 87,
+    "code": "GD",
+    "iso3": "GRD",
+    "numeric_code": "308",
+    "name": "Grenada",
+    "name_default": "Grenada",
+    "native": "Grenada",
+    "capital": "St. George's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "population": 109021,
+    "gdp": 1464,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Grenadian",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
+  },
+  "state": {
+    "id": 3863,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "GD-06",
+    "fips_code": "06",
+    "name": "Sant Padrig",
+    "name_default": "Saint Patrick",
+    "native": "Saint Patrick",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.21029860",
+    "longitude": "-61.63505390",
+    "timezone": "America/Grenada",
+    "wikiDataId": "Q1476309",
+    "country_code": "GD"
+  },
+  "cities": [
+    {
+      "id": 52033,
+      "name": "Saouterien",
+      "name_default": "Sauteurs",
+      "native": "Jumper",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1300,
+      "latitude": "12.21833000",
+      "longitude": "-61.63917000",
+      "timezone": "America/Grenada",
+      "wikiDataId": "Q1318103",
+      "country_code": "GD",
+      "state_code": "06",
+      "state_id": 3863,
+      "country_id": 87
+    }
+  ]
+}

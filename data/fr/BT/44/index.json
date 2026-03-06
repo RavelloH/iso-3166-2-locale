@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 26,
+    "code": "BT",
+    "iso3": "BTN",
+    "numeric_code": "064",
+    "name": "Bhoutan",
+    "name_default": "Bhutan",
+    "native": "ʼbrug-yul",
+    "capital": "Thimphu",
+    "phonecode": "975",
+    "currency": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "tld": ".bt",
+    "population": 784043,
+    "gdp": 3422,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bhutanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Thimphu",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BTT",
+        "tzName": "Bhutan Time"
+      }
+    ],
+    "latitude": "27.50000000",
+    "longitude": "90.50000000",
+    "emoji": "🇧🇹",
+    "emojiU": "U+1F1E7 U+1F1F9"
+  },
+  "state": {
+    "id": 234,
+    "code": "44",
+    "iso2": "44",
+    "iso3166_2": "BT-44",
+    "fips_code": "06",
+    "name": "Lhuntse",
+    "name_default": "Lhuntse ",
+    "native": "Lhuntse ",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "27.72874480",
+    "longitude": "91.13636240",
+    "timezone": "Asia/Thimphu",
+    "wikiDataId": "Q598793",
+    "country_code": "BT"
+  },
+  "cities": [
+    {
+      "id": 15710,
+      "name": "Lhuentse",
+      "name_default": "Lhuentse",
+      "native": "ལྷུན་རྩེ།",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 100,
+      "latitude": "27.66787000",
+      "longitude": "91.18393000",
+      "timezone": "Asia/Thimphu",
+      "wikiDataId": "Q2468415",
+      "country_code": "BT",
+      "state_code": "44",
+      "state_id": 234,
+      "country_id": 26
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "Francja",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 4827,
+    "code": "972",
+    "iso2": "972",
+    "iso3166_2": "FR-972",
+    "fips_code": "MQ",
+    "name": "Martynika",
+    "name_default": "Martinique",
+    "native": "Martinique",
+    "type": "overseas region",
+    "level": null,
+    "parent_id": null,
+    "population": 349925,
+    "latitude": "14.63679270",
+    "longitude": "-61.01582690",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q17054",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 37,
+    "code": "KH",
+    "iso3": "KHM",
+    "numeric_code": "116",
+    "name": "كمبوديا",
+    "name_default": "Cambodia",
+    "native": "Kâmpŭchéa",
+    "capital": "Phnom Penh",
+    "phonecode": "855",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "population": 17577760,
+    "gdp": 49799,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Cambodian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  },
+  "state": {
+    "id": 5070,
+    "code": "6",
+    "iso2": "6",
+    "iso3166_2": "KH-6",
+    "fips_code": "05",
+    "name": "كامبونج ثوم",
+    "name_default": "Kampong Thom",
+    "native": "កំពង់ធំ",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.66879230",
+    "longitude": "104.88791970",
+    "timezone": "Asia/Phnom_Penh",
+    "wikiDataId": "Q502148",
+    "country_code": "KH"
+  },
+  "cities": []
+}

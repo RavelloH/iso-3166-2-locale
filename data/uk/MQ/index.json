@@ -1,0 +1,44 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 138,
+    "code": "MQ",
+    "iso3": "MTQ",
+    "numeric_code": "474",
+    "name": "Мартініка",
+    "name_default": "Martinique",
+    "native": "Martinique",
+    "capital": "Fort-de-France",
+    "phonecode": "596",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mq",
+    "population": 339897,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Martiniquais, Martinican",
+    "timezones": [
+      {
+        "zoneName": "America/Martinique",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "14.66666700",
+    "longitude": "-61.00000000",
+    "emoji": "🇲🇶",
+    "emojiU": "U+1F1F2 U+1F1F6"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ]
+}

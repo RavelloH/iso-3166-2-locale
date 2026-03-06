@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "Dominika",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "state": {
+    "id": 4081,
+    "code": "11",
+    "iso2": "11",
+    "iso3166_2": "DM-11",
+    "fips_code": "11",
+    "name": "Sveti Petar",
+    "name_default": "Saint Peter",
+    "native": "Saint Peter",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.49975910",
+    "longitude": "-61.44034710",
+    "timezone": "America/Dominica",
+    "wikiDataId": "Q1476294",
+    "country_code": "DM"
+  },
+  "cities": [
+    {
+      "id": 31005,
+      "name": "Colihaut",
+      "name_default": "Colihaut",
+      "native": "Colihaut",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 773,
+      "latitude": "15.48478000",
+      "longitude": "-61.46215000",
+      "timezone": "America/Dominica",
+      "wikiDataId": "Q1108306",
+      "country_code": "DM",
+      "state_code": "11",
+      "state_id": 4081,
+      "country_id": 61
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "مالت",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 91,
+    "code": "22",
+    "iso2": "22",
+    "iso3166_2": "MT-22",
+    "fips_code": "05",
+    "name": "کرچم",
+    "name_default": "Kerċem",
+    "native": "Kerċem",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 1938,
+    "latitude": "36.04479390",
+    "longitude": "14.22506050",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q674679",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67789,
+      "name": "مقبا",
+      "name_default": "Mqabba",
+      "native": "Mqabba",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3315,
+      "latitude": "35.84763000",
+      "longitude": "14.46824000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q1017953",
+      "country_code": "MT",
+      "state_code": "22",
+      "state_id": 91,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 182,
+    "code": "RU",
+    "iso3": "RUS",
+    "numeric_code": "643",
+    "name": "Rosja",
+    "name_default": "Russia",
+    "native": "Россия",
+    "capital": "Moscow",
+    "phonecode": "7",
+    "currency": "RUB",
+    "currency_name": "Russian ruble",
+    "currency_symbol": "₽",
+    "tld": ".ru",
+    "population": 146028325,
+    "gdp": 2076396,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Russian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Anadyr",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "ANAT",
+        "tzName": "Anadyr Time[4"
+      },
+      {
+        "zoneName": "Asia/Barnaul",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Chita",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Irkutsk",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "IRKT",
+        "tzName": "Irkutsk Time"
+      },
+      {
+        "zoneName": "Asia/Kamchatka",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "PETT",
+        "tzName": "Kamchatka Time"
+      },
+      {
+        "zoneName": "Asia/Khandyga",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Krasnoyarsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Magadan",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MAGT",
+        "tzName": "Magadan Time"
+      },
+      {
+        "zoneName": "Asia/Novokuznetsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Novosibirsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "NOVT",
+        "tzName": "Novosibirsk Time"
+      },
+      {
+        "zoneName": "Asia/Omsk",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "OMST",
+        "tzName": "Omsk Time"
+      },
+      {
+        "zoneName": "Asia/Sakhalin",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SAKT",
+        "tzName": "Sakhalin Island Time"
+      },
+      {
+        "zoneName": "Asia/Srednekolymsk",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SRET",
+        "tzName": "Srednekolymsk Time"
+      },
+      {
+        "zoneName": "Asia/Tomsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "MSD+3",
+        "tzName": "Moscow Daylight Time+3"
+      },
+      {
+        "zoneName": "Asia/Ust-Nera",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Vladivostok",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Yakutsk",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Yekaterinburg",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "YEKT",
+        "tzName": "Yekaterinburg Time"
+      },
+      {
+        "zoneName": "Europe/Astrakhan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Kaliningrad",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Kirov",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Moscow",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Samara",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Saratov",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSD",
+        "tzName": "Moscow Daylight Time+4"
+      },
+      {
+        "zoneName": "Europe/Ulyanovsk",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Volgograd",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Standard Time"
+      }
+    ],
+    "latitude": "60.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇷🇺",
+    "emojiU": "U+1F1F7 U+1F1FA"
+  },
+  "state": {
+    "id": 1859,
+    "code": "CHU",
+    "iso2": "CHU",
+    "iso3166_2": "RU-CHU",
+    "fips_code": "15",
+    "name": "Czukotka",
+    "name_default": "Chukotka",
+    "native": "Чукотка",
+    "type": "autonomous district",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "66.00064750",
+    "longitude": "169.49008690",
+    "timezone": "Asia/Anadyr",
+    "wikiDataId": "Q7984",
+    "country_code": "RU"
+  },
+  "cities": [
+    {
+      "id": 97618,
+      "name": "Anadyr",
+      "name_default": "Anadyr",
+      "native": "Анадырь",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 13224,
+      "latitude": "64.73424000",
+      "longitude": "177.51030000",
+      "timezone": "Asia/Anadyr",
+      "wikiDataId": "Q7978",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 97619,
+      "name": "Rejon Anadyrski",
+      "name_default": "Anadyrskiy Rayon",
+      "native": "Анадырский район",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.00000000",
+      "longitude": "173.00000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q698395",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 97897,
+      "name": "Beringowski",
+      "name_default": "Beringovskiy",
+      "native": "Беринговский",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1861,
+      "latitude": "63.06101000",
+      "longitude": "179.35046000",
+      "timezone": "Asia/Anadyr",
+      "wikiDataId": "Q820680",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 97928,
+      "name": "Bilibino",
+      "name_default": "Bilibino",
+      "native": "Билибино",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5449,
+      "latitude": "68.05464000",
+      "longitude": "166.43721000",
+      "timezone": "Asia/Anadyr",
+      "wikiDataId": "Q105116",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 98381,
+      "name": "Egvekinot",
+      "name_default": "Egvekinot",
+      "native": "Эгвекинот",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3516,
+      "latitude": "66.32166000",
+      "longitude": "-179.12198000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q1240765",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 99547,
+      "name": "Ławrientija",
+      "name_default": "Lavrentiya",
+      "native": "Лаврентия",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1425,
+      "latitude": "65.58604000",
+      "longitude": "-171.02082000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q1020011",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 99664,
+      "name": "Lorino",
+      "name_default": "Lorino",
+      "native": "Лорино",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1470,
+      "latitude": "65.50306000",
+      "longitude": "-171.70387000",
+      "timezone": "Asia/Anadyr",
+      "wikiDataId": "Q1010651",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 100669,
+      "name": "Pewek",
+      "name_default": "Pevek",
+      "native": "Певек",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 4083,
+      "latitude": "69.70287000",
+      "longitude": "170.29993000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q178105",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 100872,
+      "name": "Provideniya",
+      "name_default": "Provideniya",
+      "native": "Провидения",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2193,
+      "latitude": "64.42289000",
+      "longitude": "-173.22641000",
+      "timezone": "Asia/Anadyr",
+      "wikiDataId": "Q1014296",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    },
+    {
+      "id": 100873,
+      "name": "Rejon Providenski",
+      "name_default": "Providenskiy Rayon",
+      "native": "Провиденский район",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.25000000",
+      "longitude": "-175.00000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q740303",
+      "country_code": "RU",
+      "state_code": "CHU",
+      "state_id": 1859,
+      "country_id": 182
+    }
+  ]
+}

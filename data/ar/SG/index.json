@@ -1,0 +1,45 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 199,
+    "code": "SG",
+    "iso3": "SGP",
+    "numeric_code": "702",
+    "name": "سنغافورة",
+    "name_default": "Singapore",
+    "native": "Singapore",
+    "capital": "Singapur",
+    "phonecode": "65",
+    "currency": "SGD",
+    "currency_name": "Singapore dollar",
+    "currency_symbol": "$",
+    "tld": ".sg",
+    "population": 6036900,
+    "gdp": 564774,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Singaporean",
+    "timezones": [
+      {
+        "zoneName": "Asia/Singapore",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "SGT",
+        "tzName": "Singapore Time"
+      }
+    ],
+    "latitude": "1.36666666",
+    "longitude": "103.80000000",
+    "emoji": "🇸🇬",
+    "emojiU": "U+1F1F8 U+1F1EC"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 149,
+    "code": "MA",
+    "iso3": "MAR",
+    "numeric_code": "504",
+    "name": "Marokko",
+    "name_default": "Morocco",
+    "native": "المغرب",
+    "capital": "Rabat",
+    "phonecode": "212",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "population": 36828330,
+    "gdp": 165835,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Moroccan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      },
+      {
+        "zoneName": "Africa/El_Aaiun",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western Sahara Time"
+      }
+    ],
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  },
+  "state": {
+    "id": 3269,
+    "code": "OUA",
+    "iso2": "OUA",
+    "iso3166_2": "MA-OUA",
+    "fips_code": "08",
+    "name": "Ouarzazate",
+    "name_default": "Ouarzazate",
+    "native": "ورزازات",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3290",
+    "population": 71067,
+    "latitude": "30.92019300",
+    "longitude": "-6.91092300",
+    "timezone": "Africa/Casablanca",
+    "wikiDataId": "Q1629229",
+    "country_code": "MA"
+  },
+  "cities": []
+}

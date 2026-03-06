@@ -1,0 +1,50 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 210,
+    "code": "SR",
+    "iso3": "SUR",
+    "numeric_code": "740",
+    "name": "Surinam",
+    "name_default": "Suriname",
+    "native": "Suriname",
+    "capital": "Paramaribo",
+    "phonecode": "597",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "population": 616500,
+    "gdp": 4506,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Surinamese",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  },
+  "states": [
+    "BR",
+    "CM",
+    "CR",
+    "MA",
+    "NI",
+    "PM",
+    "PR",
+    "SA",
+    "SI",
+    "WA"
+  ]
+}

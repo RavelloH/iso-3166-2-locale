@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 22,
+    "code": "BE",
+    "iso3": "BEL",
+    "numeric_code": "056",
+    "name": "Belgia",
+    "name_default": "Belgium",
+    "native": "België",
+    "capital": "Brussels",
+    "phonecode": "32",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "population": 11825551,
+    "gdp": 684864,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Belgian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
+  },
+  "state": {
+    "id": 1376,
+    "code": "BRU",
+    "iso2": "BRU",
+    "iso3166_2": "BE-BRU",
+    "fips_code": "11",
+    "name": "Bruksela-Stolica",
+    "name_default": "Brussels-Capital ",
+    "native": "Brussel-kapitaal",
+    "type": "region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "50.83879510",
+    "longitude": "4.37530410",
+    "timezone": "Europe/Brussels",
+    "wikiDataId": "Q240",
+    "country_code": "BE"
+  },
+  "cities": [
+    {
+      "id": 8693,
+      "name": "Bruksela",
+      "name_default": "Brussels",
+      "native": "Brussel",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1019022,
+      "latitude": "50.85045000",
+      "longitude": "4.34878000",
+      "timezone": "Europe/Brussels",
+      "wikiDataId": "Q239",
+      "country_code": "BE",
+      "state_code": "BRU",
+      "state_id": 1376,
+      "country_id": 22
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 202,
+    "code": "SB",
+    "iso3": "SLB",
+    "numeric_code": "090",
+    "name": "Salomonseilanden",
+    "name_default": "Solomon Islands",
+    "native": "Solomon Islands",
+    "capital": "Honiara",
+    "phonecode": "677",
+    "currency": "SBD",
+    "currency_name": "Solomon Islands dollar",
+    "currency_symbol": "Si$",
+    "tld": ".sb",
+    "population": 750325,
+    "gdp": 1898,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Solomon Island",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guadalcanal",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SBT",
+        "tzName": "Solomon Islands Time"
+      }
+    ],
+    "latitude": "-8.00000000",
+    "longitude": "159.00000000",
+    "emoji": "🇸🇧",
+    "emojiU": "U+1F1F8 U+1F1E7"
+  },
+  "state": {
+    "id": 4787,
+    "code": "RB",
+    "iso2": "RB",
+    "iso3166_2": "SB-RB",
+    "fips_code": "13",
+    "name": "Rennell en Bellona",
+    "name_default": "Rennell and Bellona",
+    "native": "Rennell and Bellona",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 4091,
+    "latitude": "-12.11342660",
+    "longitude": "160.31705230",
+    "timezone": "Pacific/Guadalcanal",
+    "wikiDataId": "Q1051475",
+    "country_code": "SB"
+  },
+  "cities": []
+}

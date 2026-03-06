@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macédoine du Nord",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 704,
+    "code": "815",
+    "iso2": "815",
+    "iso3166_2": "MK-815",
+    "fips_code": "C8",
+    "name": "Čair",
+    "name_default": "Čair",
+    "native": "Чаир",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 62586,
+    "latitude": "42.01067110",
+    "longitude": "21.43820770",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1419314",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67566,
+      "name": "Čair",
+      "name_default": "Čair",
+      "native": "Чаир",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 64773,
+      "latitude": "42.01528000",
+      "longitude": "21.44111000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q2990830",
+      "country_code": "MK",
+      "state_code": "815",
+      "state_id": 704,
+      "country_id": 129
+    }
+  ]
+}

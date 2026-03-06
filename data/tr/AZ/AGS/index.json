@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Azerbaycan",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 553,
+    "code": "AGS",
+    "iso2": "AGS",
+    "iso3166_2": "AZ-AGS",
+    "fips_code": "04",
+    "name": "Agdaş",
+    "name_default": "Agdash",
+    "native": "Ağdaş",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "40.16729670",
+    "longitude": "46.08572520",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q275784",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8050,
+      "name": "Ağdaş",
+      "name_default": "Ağdaş",
+      "native": "Ağdaş",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 23528,
+      "latitude": "40.64699000",
+      "longitude": "47.47380000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q1983932",
+      "country_code": "AZ",
+      "state_code": "AGS",
+      "state_id": 553,
+      "country_id": 16
+    }
+  ]
+}

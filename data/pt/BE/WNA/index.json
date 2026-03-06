@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 22,
+    "code": "BE",
+    "iso3": "BEL",
+    "numeric_code": "056",
+    "name": "Bélgica",
+    "name_default": "Belgium",
+    "native": "België",
+    "capital": "Brussels",
+    "phonecode": "32",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "population": 11825551,
+    "gdp": 684864,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Belgian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
+  },
+  "state": {
+    "id": 1378,
+    "code": "WNA",
+    "iso2": "WNA",
+    "iso3166_2": "BE-WNA",
+    "fips_code": "07",
+    "name": "Namur",
+    "name_default": "Namur",
+    "native": "Namur",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1380",
+    "population": 114007,
+    "latitude": "50.46738830",
+    "longitude": "4.87198540",
+    "timezone": "Europe/Brussels",
+    "wikiDataId": "Q1125",
+    "country_code": "BE"
+  },
+  "cities": []
+}

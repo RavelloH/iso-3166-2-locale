@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Azerbaiyán",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 585,
+    "code": "GA",
+    "iso2": "GA",
+    "iso3166_2": "AZ-GA",
+    "fips_code": "20",
+    "name": "Ganja",
+    "name_default": "Ganja",
+    "native": "Ganja",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "40.67980830",
+    "longitude": "46.35971780",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q131290",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8081,
+      "name": "Ganja",
+      "name_default": "Ganja",
+      "native": "Gəncə",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 331400,
+      "latitude": "40.68278000",
+      "longitude": "46.36056000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q1996181",
+      "country_code": "AZ",
+      "state_code": "GA",
+      "state_id": 585,
+      "country_id": 16
+    }
+  ]
+}

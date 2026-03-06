@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Kap Verde",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2993,
+    "code": "SO",
+    "iso2": "SO",
+    "iso3166_2": "CV-SO",
+    "fips_code": "25",
+    "name": "São Lourenço dos Órgãos",
+    "name_default": "São Lourenço dos Órgãos",
+    "native": "São Lourenço dos Órgãos",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 7388,
+    "latitude": "15.07094420",
+    "longitude": "-23.58651310",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q494726",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 21993,
+      "name": "João Teves",
+      "name_default": "João Teves",
+      "native": "João Teves",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 627,
+      "latitude": "15.06694000",
+      "longitude": "-23.58917000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q3077671",
+      "country_code": "CV",
+      "state_code": "SO",
+      "state_id": 2993,
+      "country_id": 40
+    }
+  ]
+}

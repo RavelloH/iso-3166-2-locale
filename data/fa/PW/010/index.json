@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "پالائو",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4538,
+    "code": "010",
+    "iso2": "010",
+    "iso3166_2": "PW-010",
+    "fips_code": "03",
+    "name": "آنگور",
+    "name_default": "Angaur",
+    "native": "Angaur",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 119,
+    "latitude": "6.90922300",
+    "longitude": "134.13879340",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q530813",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89700,
+      "name": "ایالت آنگائور",
+      "name_default": "Angaur State",
+      "native": "Angaur State",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 188,
+      "latitude": "6.90601000",
+      "longitude": "134.12997000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q275862",
+      "country_code": "PW",
+      "state_code": "010",
+      "state_id": 4538,
+      "country_id": 168
+    }
+  ]
+}

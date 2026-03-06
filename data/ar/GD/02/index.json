@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 87,
+    "code": "GD",
+    "iso3": "GRD",
+    "numeric_code": "308",
+    "name": "غرينادا",
+    "name_default": "Grenada",
+    "native": "Grenada",
+    "capital": "St. George's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "population": 109021,
+    "gdp": 1464,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Grenadian",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
+  },
+  "state": {
+    "id": 3869,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "GD-02",
+    "fips_code": "02",
+    "name": "القديس داود",
+    "name_default": "Saint David",
+    "native": "Saint David",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.04280690",
+    "longitude": "-61.67789880",
+    "timezone": "America/Grenada",
+    "wikiDataId": "Q2087806",
+    "country_code": "GD"
+  },
+  "cities": [
+    {
+      "id": 52031,
+      "name": "القديس ديفيد",
+      "name_default": "Saint David’s",
+      "native": "Saint David’s",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1321,
+      "latitude": "12.04903000",
+      "longitude": "-61.66875000",
+      "timezone": "America/Grenada",
+      "wikiDataId": "Q3267362",
+      "country_code": "GD",
+      "state_code": "02",
+      "state_id": 3869,
+      "country_id": 87
+    }
+  ]
+}

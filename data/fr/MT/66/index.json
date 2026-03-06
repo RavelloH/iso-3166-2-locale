@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malte",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 80,
+    "code": "66",
+    "iso2": "66",
+    "iso3166_2": "MT-66",
+    "fips_code": "33",
+    "name": "Żebbuġ Malte",
+    "name_default": "Żebbuġ Malta",
+    "native": "Żebbuġ Malta",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 11079,
+    "latitude": "35.87646480",
+    "longitude": "14.43908400",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q44573",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67823,
+      "name": "Żebbuġ",
+      "name_default": "Żebbuġ",
+      "native": "Żebbuġ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1770,
+      "latitude": "36.07222000",
+      "longitude": "14.23583000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q179243",
+      "country_code": "MT",
+      "state_code": "66",
+      "state_id": 80,
+      "country_id": 135
+    }
+  ]
+}

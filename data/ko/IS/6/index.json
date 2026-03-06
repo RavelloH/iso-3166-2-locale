@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "아이슬란드",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 3437,
+    "code": "6",
+    "iso2": "6",
+    "iso3166_2": "IS-6",
+    "fips_code": "40",
+    "name": "북동부",
+    "name_default": "Northeastern",
+    "native": "Norðaustur",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.47359970",
+    "longitude": "-17.44333390",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q241551",
+    "country_code": "IS"
+  },
+  "cities": []
+}

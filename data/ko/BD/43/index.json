@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 19,
+    "code": "BD",
+    "iso3": "BGD",
+    "numeric_code": "050",
+    "name": "방글라데시",
+    "name_default": "Bangladesh",
+    "native": "Bangladesh",
+    "capital": "Dhaka",
+    "phonecode": "880",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "population": 169828911,
+    "gdp": 467218,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bangladeshi",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  },
+  "state": {
+    "id": 5514,
+    "code": "43",
+    "iso2": "43",
+    "iso3166_2": "BD-43",
+    "fips_code": null,
+    "name": "나라일구",
+    "name_default": "Narail",
+    "native": "নড়াইল জেলা",
+    "type": "district",
+    "level": "2",
+    "parent_id": "775",
+    "population": 42299,
+    "latitude": "23.11630000",
+    "longitude": "89.49980000",
+    "timezone": "Asia/Dhaka",
+    "wikiDataId": null,
+    "country_code": "BD"
+  },
+  "cities": [
+    {
+      "id": 153884,
+      "name": "나라일",
+      "name_default": "Narail",
+      "native": "নড়াইল",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 788671,
+      "latitude": "23.13175700",
+      "longitude": "89.26258440",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q1550260",
+      "country_code": "BD",
+      "state_code": "43",
+      "state_id": 5514,
+      "country_id": 19
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "پورتو ریکو",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5193,
+    "code": "117",
+    "iso2": "117",
+    "iso3166_2": "PR-117",
+    "fips_code": null,
+    "name": "رینکون",
+    "name_default": "Rincón",
+    "native": "Rincón",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.33620740",
+    "longitude": "-67.23212020",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q294727",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153608,
+      "name": "رینکون",
+      "name_default": "Rincón",
+      "native": "Rincón",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1499,
+      "latitude": "18.34015140",
+      "longitude": "-67.24994590",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q294727",
+      "country_code": "PR",
+      "state_code": "117",
+      "state_id": 5193,
+      "country_id": 178
+    }
+  ]
+}

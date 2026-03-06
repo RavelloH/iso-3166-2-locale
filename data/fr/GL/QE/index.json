@@ -1,0 +1,116 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 86,
+    "code": "GL",
+    "iso3": "GRL",
+    "numeric_code": "304",
+    "name": "Groenland",
+    "name_default": "Greenland",
+    "native": "Kalaallit Nunaat",
+    "capital": "Nuuk",
+    "phonecode": "299",
+    "currency": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "Kr.",
+    "tld": ".gl",
+    "population": 56542,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Greenlandic",
+    "timezones": [
+      {
+        "zoneName": "America/Danmarkshavn",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      },
+      {
+        "zoneName": "America/Nuuk",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "WGT",
+        "tzName": "West Greenland Time"
+      },
+      {
+        "zoneName": "America/Scoresbysund",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "EGT",
+        "tzName": "Eastern Greenland Time"
+      },
+      {
+        "zoneName": "America/Thule",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "72.00000000",
+    "longitude": "-40.00000000",
+    "emoji": "🇬🇱",
+    "emojiU": "U+1F1EC U+1F1F1"
+  },
+  "state": {
+    "id": 5382,
+    "code": "QE",
+    "iso2": "QE",
+    "iso3166_2": "GL-QE",
+    "fips_code": "04",
+    "name": "Qeqqata",
+    "name_default": "Qeqqata",
+    "native": "Qeqqata",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 9378,
+    "latitude": "66.50000000",
+    "longitude": "-48.00000000",
+    "timezone": "America/Nuuk",
+    "wikiDataId": "Q476233",
+    "country_code": "GL"
+  },
+  "cities": [
+    {
+      "id": 154941,
+      "name": "Maniitsoq",
+      "name_default": "Maniitsoq",
+      "native": "Maniitsumi",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.40657990",
+      "longitude": "-52.94225730",
+      "timezone": "America/Nuuk",
+      "wikiDataId": "Q847691",
+      "country_code": "GL",
+      "state_code": "QE",
+      "state_id": 5382,
+      "country_id": 86
+    },
+    {
+      "id": 154942,
+      "name": "Sisimiut",
+      "name_default": "Sisimiut",
+      "native": "Sisimiut",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "66.93945740",
+      "longitude": "-53.74567660",
+      "timezone": "America/Nuuk",
+      "wikiDataId": "Q208098",
+      "country_code": "GL",
+      "state_code": "QE",
+      "state_id": 5382,
+      "country_id": 86
+    }
+  ]
+}

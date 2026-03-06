@@ -1,0 +1,44 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 33,
+    "code": "BN",
+    "iso3": "BRN",
+    "numeric_code": "096",
+    "name": "Brunei",
+    "name_default": "Brunei",
+    "native": "Negara Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "phonecode": "673",
+    "currency": "BND",
+    "currency_name": "Brunei dollar",
+    "currency_symbol": "B$",
+    "tld": ".bn",
+    "population": 455500,
+    "gdp": 16007,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Bruneian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Brunei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "BNT",
+        "tzName": "Brunei Darussalam Time"
+      }
+    ],
+    "latitude": "4.50000000",
+    "longitude": "114.66666666",
+    "emoji": "🇧🇳",
+    "emojiU": "U+1F1E7 U+1F1F3"
+  },
+  "states": [
+    "BE",
+    "BM",
+    "TE",
+    "TU"
+  ]
+}

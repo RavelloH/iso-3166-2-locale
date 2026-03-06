@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Sjeverna Makedonija",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 669,
+    "code": "607",
+    "iso2": "607",
+    "iso3166_2": "MK-607",
+    "fips_code": "E4",
+    "name": "Mavrovo i Rostuša",
+    "name_default": "Mavrovo and Rostuša",
+    "native": "Маврово и Ростуша",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 5042,
+    "latitude": "41.64411670",
+    "longitude": "20.65908930",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1323332",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67518,
+      "name": "Rostuša",
+      "name_default": "Rostusa",
+      "native": "Ростуша",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9147,
+      "latitude": "41.61000000",
+      "longitude": "20.60000000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q3040250",
+      "country_code": "MK",
+      "state_code": "607",
+      "state_id": 669,
+      "country_id": 129
+    }
+  ]
+}

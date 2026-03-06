@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "Dominika",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "state": {
+    "id": 4079,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "DM-04",
+    "fips_code": "04",
+    "name": "Aziz George",
+    "name_default": "Saint George",
+    "native": "Saint George",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.30588490",
+    "longitude": "-61.34772860",
+    "timezone": "America/Dominica",
+    "wikiDataId": "Q617801",
+    "country_code": "DM"
+  },
+  "cities": [
+    {
+      "id": 31013,
+      "name": "Roseau",
+      "name_default": "Roseau",
+      "native": "Reed",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 16571,
+      "latitude": "15.30174000",
+      "longitude": "-61.38808000",
+      "timezone": "America/Dominica",
+      "wikiDataId": "Q36281",
+      "country_code": "DM",
+      "state_code": "04",
+      "state_id": 4079,
+      "country_id": 61
+    }
+  ]
+}

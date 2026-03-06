@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "گوام",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5266,
+    "code": "13",
+    "iso2": "13",
+    "iso3166_2": "GU-13",
+    "fips_code": "13",
+    "name": "پیتی",
+    "name_default": "Piti",
+    "native": "Kept",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.46474460",
+    "longitude": "144.68769820",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2482463",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160270,
+      "name": "Piti Village",
+      "name_default": "Piti Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1666,
+      "latitude": "13.46256000",
+      "longitude": "144.69331000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "13",
+      "state_id": 5266,
+      "country_id": 89
+    }
+  ]
+}

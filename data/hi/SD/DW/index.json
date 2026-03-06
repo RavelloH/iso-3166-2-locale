@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 209,
+    "code": "SD",
+    "iso3": "SDN",
+    "numeric_code": "729",
+    "name": "सूडान",
+    "name_default": "Sudan",
+    "native": "السودان",
+    "capital": "Khartoum",
+    "phonecode": "249",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "population": 51662000,
+    "gdp": 31506,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Sudanese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  },
+  "state": {
+    "id": 888,
+    "code": "DW",
+    "iso2": "DW",
+    "iso3166_2": "SD-DW",
+    "fips_code": "47",
+    "name": "पश्चिमी दारफुर",
+    "name_default": "West Darfur",
+    "native": "غرب دارفور",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 1900000,
+    "latitude": "13.51100520",
+    "longitude": "22.70334270",
+    "timezone": "Africa/Khartoum",
+    "wikiDataId": "Q846331",
+    "country_code": "SD"
+  },
+  "cities": [
+    {
+      "id": 102951,
+      "name": "जेनीना",
+      "name_default": "Geneina",
+      "native": "جنينة",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 162981,
+      "latitude": "13.45262000",
+      "longitude": "22.44725000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q311309",
+      "country_code": "SD",
+      "state_code": "DW",
+      "state_id": 888,
+      "country_id": 209
+    }
+  ]
+}

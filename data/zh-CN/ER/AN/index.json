@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 68,
+    "code": "ER",
+    "iso3": "ERI",
+    "numeric_code": "232",
+    "name": "厄立特里亚",
+    "name_default": "Eritrea",
+    "native": "ኤርትራ",
+    "capital": "Asmara",
+    "phonecode": "291",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "population": 3607000,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Eritrean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  },
+  "state": {
+    "id": 3425,
+    "code": "AN",
+    "iso2": "AN",
+    "iso3166_2": "ER-AN",
+    "fips_code": "01",
+    "name": "安塞巴",
+    "name_default": "Anseba",
+    "native": "ኣንሰባ",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 893587,
+    "latitude": "16.50001010",
+    "longitude": "37.50000480",
+    "timezone": "Africa/Asmara",
+    "wikiDataId": "Q569468",
+    "country_code": "ER"
+  },
+  "cities": [
+    {
+      "id": 31888,
+      "name": "可人",
+      "name_default": "Keren",
+      "native": "ኬረን",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 74800,
+      "latitude": "15.77792000",
+      "longitude": "38.45107000",
+      "timezone": "Africa/Asmara",
+      "wikiDataId": "Q534409",
+      "country_code": "ER",
+      "state_code": "AN",
+      "state_id": 3425,
+      "country_id": 68
+    }
+  ]
+}

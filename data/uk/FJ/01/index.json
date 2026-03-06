@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 73,
+    "code": "FJ",
+    "iso3": "FJI",
+    "numeric_code": "242",
+    "name": "Острови Фіджі",
+    "name_default": "Fiji Islands",
+    "native": "Fiji",
+    "capital": "Suva",
+    "phonecode": "679",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "population": 900869,
+    "gdp": 6257,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Fijian",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  },
+  "state": {
+    "id": 1917,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "FJ-01",
+    "fips_code": "40",
+    "name": "Ба",
+    "name_default": "Ba",
+    "native": "Ba",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1923",
+    "population": null,
+    "latitude": "36.06138930",
+    "longitude": "-95.80058720",
+    "timezone": "Pacific/Fiji",
+    "wikiDataId": "Q797434",
+    "country_code": "FJ"
+  },
+  "cities": []
+}

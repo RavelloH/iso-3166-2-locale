@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 87,
+    "code": "GD",
+    "iso3": "GRD",
+    "numeric_code": "308",
+    "name": "Гренада",
+    "name_default": "Grenada",
+    "native": "Grenada",
+    "capital": "St. George's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "population": 109021,
+    "gdp": 1464,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Grenadian",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
+  },
+  "state": {
+    "id": 3864,
+    "code": "03",
+    "iso2": "03",
+    "iso3166_2": "GD-03",
+    "fips_code": "03",
+    "name": "Святой Георгий",
+    "name_default": "Saint George",
+    "native": "Saint George",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.05353310",
+    "longitude": "-61.75180500",
+    "timezone": "America/Grenada",
+    "wikiDataId": "Q576651",
+    "country_code": "GD"
+  },
+  "cities": [
+    {
+      "id": 52032,
+      "name": "Сент-Джордж",
+      "name_default": "Saint George's",
+      "native": "Saint George's",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 7500,
+      "latitude": "12.05288000",
+      "longitude": "-61.75226000",
+      "timezone": "America/Grenada",
+      "wikiDataId": "Q41547",
+      "country_code": "GD",
+      "state_code": "03",
+      "state_id": 3864,
+      "country_id": 87
+    }
+  ]
+}

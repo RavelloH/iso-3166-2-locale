@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macedonia del Nord",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 656,
+    "code": "802",
+    "iso2": "802",
+    "iso3166_2": "MK-802",
+    "fips_code": "01",
+    "name": "Aračinovo",
+    "name_default": "Aračinovo",
+    "native": "Арачиново",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 7991,
+    "latitude": "42.02529650",
+    "longitude": "21.55776590",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q597345",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67574,
+      "name": "Арачиново",
+      "name_default": "Арачиново",
+      "native": "Арачиново",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 12800,
+      "latitude": "42.02639000",
+      "longitude": "21.56194000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q626840",
+      "country_code": "MK",
+      "state_code": "802",
+      "state_id": 656,
+      "country_id": 129
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 171,
+    "code": "PG",
+    "iso3": "PNG",
+    "numeric_code": "598",
+    "name": "Papua Nuova Guinea",
+    "name_default": "Papua New Guinea",
+    "native": "Papua Niugini",
+    "capital": "Port Moresby",
+    "phonecode": "675",
+    "currency": "PGK",
+    "currency_name": "Papua New Guinean kina",
+    "currency_symbol": "K",
+    "tld": ".pg",
+    "population": 11781559,
+    "gdp": 32835,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Papua New Guinean, Papuan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Bougainville",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "BST",
+        "tzName": "Bougainville Standard Time[6"
+      },
+      {
+        "zoneName": "Pacific/Port_Moresby",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "PGT",
+        "tzName": "Papua New Guinea Time"
+      }
+    ],
+    "latitude": "-6.00000000",
+    "longitude": "147.00000000",
+    "emoji": "🇵🇬",
+    "emojiU": "U+1F1F5 U+1F1EC"
+  },
+  "state": {
+    "id": 4842,
+    "code": "MRL",
+    "iso2": "MRL",
+    "iso3166_2": "PG-MRL",
+    "fips_code": "13",
+    "name": "Mano",
+    "name_default": "Manus",
+    "native": "Manus",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-2.10326450",
+    "longitude": "146.93254480",
+    "timezone": "Pacific/Bougainville",
+    "wikiDataId": "Q874935",
+    "country_code": "PG"
+  },
+  "cities": [
+    {
+      "id": 81076,
+      "name": "Lorengau",
+      "name_default": "Lorengau",
+      "native": "Lorengau",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5806,
+      "latitude": "-2.03410000",
+      "longitude": "147.27173000",
+      "timezone": "Pacific/Port_Moresby",
+      "wikiDataId": "Q1017430",
+      "country_code": "PG",
+      "state_code": "MRL",
+      "state_id": 4842,
+      "country_id": 171
+    },
+    {
+      "id": 81079,
+      "name": "Mano",
+      "name_default": "Manus",
+      "native": "Manus",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-2.09626000",
+      "longitude": "146.96612000",
+      "timezone": "Pacific/Bougainville",
+      "wikiDataId": "Q586673",
+      "country_code": "PG",
+      "state_code": "MRL",
+      "state_id": 4842,
+      "country_id": 171
+    }
+  ]
+}

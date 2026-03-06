@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "Moldawie",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4378,
+    "code": "SV",
+    "iso2": "SV",
+    "iso3166_2": "MD-SV",
+    "fips_code": "88",
+    "name": "Ștefan Vodă",
+    "name_default": "Ștefan Vodă",
+    "native": "Ștefan Vodă",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 7078,
+    "latitude": "46.51600240",
+    "longitude": "29.66449730",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q2129061",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67342,
+      "name": "Ştefan Vodă",
+      "name_default": "Ştefan Vodă",
+      "native": "Ştefan Vodă",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 7700,
+      "latitude": "46.51287000",
+      "longitude": "29.66193000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q1982983",
+      "country_code": "MD",
+      "state_code": "SV",
+      "state_id": 4378,
+      "country_id": 144
+    }
+  ]
+}

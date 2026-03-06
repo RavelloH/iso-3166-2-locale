@@ -1,0 +1,84 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 158,
+    "code": "NZ",
+    "iso3": "NZL",
+    "numeric_code": "554",
+    "name": "新西兰",
+    "name_default": "New Zealand",
+    "native": "New Zealand",
+    "capital": "Wellington",
+    "phonecode": "64",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "population": 5324700,
+    "gdp": 248666,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "New Zealand, NZ",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  },
+  "state": {
+    "id": 4067,
+    "code": "CIT",
+    "iso2": "CIT",
+    "iso3166_2": "NZ-CIT",
+    "fips_code": "10",
+    "name": "查塔姆群岛",
+    "name_default": "Chatham Islands",
+    "native": "Chatham Islands",
+    "type": "special island authority",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-43.91753400",
+    "longitude": "-176.18734000",
+    "timezone": "Pacific/Chatham",
+    "wikiDataId": "Q26882619",
+    "country_code": "NZ"
+  },
+  "cities": [
+    {
+      "id": 79908,
+      "name": "怀唐伊",
+      "name_default": "Waitangi",
+      "native": "Waitangi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 140,
+      "latitude": "-43.95353000",
+      "longitude": "-176.55973000",
+      "timezone": "Pacific/Chatham",
+      "wikiDataId": "Q1809774",
+      "country_code": "NZ",
+      "state_code": "CIT",
+      "state_id": 4067,
+      "country_id": 158
+    }
+  ]
+}

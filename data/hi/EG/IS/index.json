@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 65,
+    "code": "EG",
+    "iso3": "EGY",
+    "numeric_code": "818",
+    "name": "मिस्र",
+    "name_default": "Egypt",
+    "native": "مصر‎",
+    "capital": "Cairo",
+    "phonecode": "20",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "population": 107271260,
+    "gdp": 347342,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Egyptian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  },
+  "state": {
+    "id": 3244,
+    "code": "IS",
+    "iso2": "IS",
+    "iso3166_2": "EG-IS",
+    "fips_code": "07",
+    "name": "इस्माइलिया",
+    "name_default": "Ismailia",
+    "native": "الإسماعيلية",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 450388,
+    "latitude": "30.60437750",
+    "longitude": "32.27708250",
+    "timezone": "Africa/Cairo",
+    "wikiDataId": "Q31067",
+    "country_code": "EG"
+  },
+  "cities": [
+    {
+      "id": 31821,
+      "name": "इस्माइलिया",
+      "name_default": "Ismailia",
+      "native": "الإسماعيلية",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 429465,
+      "latitude": "30.60427000",
+      "longitude": "32.27225000",
+      "timezone": "Africa/Cairo",
+      "wikiDataId": "Q217156",
+      "country_code": "EG",
+      "state_code": "IS",
+      "state_id": 3244,
+      "country_id": 65
+    }
+  ]
+}

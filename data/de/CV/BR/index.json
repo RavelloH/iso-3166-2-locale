@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Kap Verde",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2996,
+    "code": "BR",
+    "iso2": "BR",
+    "iso3166_2": "CV-BR",
+    "fips_code": "02",
+    "name": "Brava",
+    "name_default": "Brava",
+    "native": "Brava",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "14.85194260",
+    "longitude": "-24.70869390",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q2571624",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 21995,
+      "name": "Nova Sintra",
+      "name_default": "Nova Sintra",
+      "native": "Nova Sintra",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2225,
+      "latitude": "14.87139000",
+      "longitude": "-24.69556000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q493634",
+      "country_code": "CV",
+      "state_code": "BR",
+      "state_id": 2996,
+      "country_id": 40
+    }
+  ]
+}

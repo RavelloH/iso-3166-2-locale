@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 166,
+    "code": "OM",
+    "iso3": "OMN",
+    "numeric_code": "512",
+    "name": "オマーン",
+    "name_default": "Oman",
+    "native": "عمان",
+    "capital": "Muscat",
+    "phonecode": "968",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "population": 5306976,
+    "gdp": 104351,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Omani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  },
+  "state": {
+    "id": 3056,
+    "code": "WU",
+    "iso2": "WU",
+    "iso3166_2": "OM-WU",
+    "fips_code": "03",
+    "name": "アル・ウスタ",
+    "name_default": "Al Wusta",
+    "native": "الوسطى",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "19.72503470",
+    "longitude": "56.43136710",
+    "timezone": "Asia/Muscat",
+    "wikiDataId": "Q958518",
+    "country_code": "OM"
+  },
+  "cities": [
+    {
+      "id": 79936,
+      "name": "ハイマー",
+      "name_default": "Haymā’",
+      "native": "هايما",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1294,
+      "latitude": "19.95931000",
+      "longitude": "56.27575000",
+      "timezone": "Asia/Muscat",
+      "wikiDataId": "Q2892151",
+      "country_code": "OM",
+      "state_code": "WU",
+      "state_id": 3056,
+      "country_id": 166
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 159,
+    "code": "NI",
+    "iso3": "NIC",
+    "numeric_code": "558",
+    "name": "Nicaragua",
+    "name_default": "Nicaragua",
+    "native": "Nicaragua",
+    "capital": "Managua",
+    "phonecode": "505",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "population": 6803886,
+    "gdp": 21155,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Central America",
+    "subregion_id": 9,
+    "nationality": "Nicaraguan",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  },
+  "states": [
+    "AN",
+    "AS",
+    "BO",
+    "CA",
+    "CI",
+    "CO",
+    "ES",
+    "GR",
+    "JI",
+    "LE",
+    "MD",
+    "MN",
+    "MS",
+    "MT",
+    "NS",
+    "RI",
+    "SJ"
+  ]
+}

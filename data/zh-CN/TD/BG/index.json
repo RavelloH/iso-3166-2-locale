@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 43,
+    "code": "TD",
+    "iso3": "TCD",
+    "numeric_code": "148",
+    "name": "乍得",
+    "name_default": "Chad",
+    "native": "Tchad",
+    "capital": "N'Djamena",
+    "phonecode": "235",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "population": 19340757,
+    "gdp": 18792,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Chadian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  },
+  "state": {
+    "id": 3583,
+    "code": "BG",
+    "iso2": "BG",
+    "iso3166_2": "TD-BG",
+    "fips_code": "22",
+    "name": "加泽勒河",
+    "name_default": "Bahr el Gazel",
+    "native": "Bahr El Gazel",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "14.46824680",
+    "longitude": "16.94168360",
+    "timezone": "Africa/Ndjamena",
+    "wikiDataId": "Q1050621",
+    "country_code": "TD"
+  },
+  "cities": [
+    {
+      "id": 105152,
+      "name": "穆索罗",
+      "name_default": "Moussoro",
+      "native": "Moussoro",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 35100,
+      "latitude": "13.64143000",
+      "longitude": "16.48941000",
+      "timezone": "Africa/Ndjamena",
+      "wikiDataId": "Q2369466",
+      "country_code": "TD",
+      "state_code": "BG",
+      "state_id": 3583,
+      "country_id": 43
+    }
+  ]
+}

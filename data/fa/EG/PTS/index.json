@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 65,
+    "code": "EG",
+    "iso3": "EGY",
+    "numeric_code": "818",
+    "name": "مصر",
+    "name_default": "Egypt",
+    "native": "مصر‎",
+    "capital": "Cairo",
+    "phonecode": "20",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "population": 107271260,
+    "gdp": 347342,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Egyptian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  },
+  "state": {
+    "id": 3229,
+    "code": "PTS",
+    "iso2": "PTS",
+    "iso3166_2": "EG-PTS",
+    "fips_code": "19",
+    "name": "پورت سعید",
+    "name_default": "Port Said",
+    "native": "بورسعيد",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 797398,
+    "latitude": "31.18212750",
+    "longitude": "32.37258200",
+    "timezone": "Africa/Cairo",
+    "wikiDataId": "Q31079",
+    "country_code": "EG"
+  },
+  "cities": [
+    {
+      "id": 31850,
+      "name": "پورت سعید",
+      "name_default": "Port Said",
+      "native": "بورسعيد",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 524433,
+      "latitude": "31.25654000",
+      "longitude": "32.28411000",
+      "timezone": "Africa/Cairo",
+      "wikiDataId": "Q134509",
+      "country_code": "EG",
+      "state_code": "PTS",
+      "state_id": 3229,
+      "country_id": 65
+    }
+  ]
+}

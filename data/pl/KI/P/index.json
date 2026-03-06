@@ -1,0 +1,91 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 114,
+    "code": "KI",
+    "iso3": "KIR",
+    "numeric_code": "296",
+    "name": "Kiribati",
+    "name_default": "Kiribati",
+    "native": "Kiribati",
+    "capital": "Tarawa",
+    "phonecode": "686",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".ki",
+    "population": 120740,
+    "gdp": 312,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "I-Kiribati",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Enderbury",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "PHOT",
+        "tzName": "Phoenix Island Time"
+      },
+      {
+        "zoneName": "Pacific/Kiritimati",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "LINT",
+        "tzName": "Line Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Tarawa",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "GILT",
+        "tzName": "Gilbert Island Time"
+      }
+    ],
+    "latitude": "1.41666666",
+    "longitude": "173.00000000",
+    "emoji": "🇰🇮",
+    "emojiU": "U+1F1F0 U+1F1EE"
+  },
+  "state": {
+    "id": 1830,
+    "code": "P",
+    "iso2": "P",
+    "iso3166_2": "KI-P",
+    "fips_code": "03",
+    "name": "Feniks",
+    "name_default": "Phoenix",
+    "native": "Phoenix",
+    "type": "island",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-3.72134440",
+    "longitude": "-170.71170520",
+    "timezone": "Pacific/Enderbury",
+    "wikiDataId": "Q271674",
+    "country_code": "KI"
+  },
+  "cities": [
+    {
+      "id": 65057,
+      "name": "Kanton",
+      "name_default": "Kanton",
+      "native": "Canton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-2.81000000",
+      "longitude": "-171.67800000",
+      "timezone": "Pacific/Enderbury",
+      "wikiDataId": "Q5349994",
+      "country_code": "KI",
+      "state_code": "P",
+      "state_id": 1830,
+      "country_id": 114
+    }
+  ]
+}

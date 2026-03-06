@@ -1,0 +1,58 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 92,
+    "code": "GN",
+    "iso3": "GIN",
+    "numeric_code": "324",
+    "name": "Гвинея",
+    "name_default": "Guinea",
+    "native": "Guinée",
+    "capital": "Conakry",
+    "phonecode": "224",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "population": 14363931,
+    "gdp": 30094,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  },
+  "state": {
+    "id": 2675,
+    "code": "FR",
+    "iso2": "FR",
+    "iso3166_2": "GN-FR",
+    "fips_code": "11",
+    "name": "Фриа",
+    "name_default": "Fria",
+    "native": "Gratuit",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "2676",
+    "population": 61691,
+    "latitude": "10.36745430",
+    "longitude": "-13.58418710",
+    "timezone": "Africa/Conakry",
+    "wikiDataId": "Q1456055",
+    "country_code": "GN"
+  },
+  "cities": []
+}

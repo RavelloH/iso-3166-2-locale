@@ -1,0 +1,200 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 31,
+    "code": "BR",
+    "iso3": "BRA",
+    "numeric_code": "076",
+    "name": "Бразилія",
+    "name_default": "Brazil",
+    "native": "Brasil",
+    "capital": "Brasilia",
+    "phonecode": "55",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "population": 213421037,
+    "gdp": 2125958,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Brazilian",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  },
+  "state": {
+    "id": 2017,
+    "code": "DF",
+    "iso2": "DF",
+    "iso3166_2": "BR-DF",
+    "fips_code": "07",
+    "name": "Федеральний округ",
+    "name_default": "Distrito Federal",
+    "native": "Distrito Federal",
+    "type": "federal district",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-15.77544620",
+    "longitude": "-47.79708910",
+    "timezone": "America/Sao_Paulo",
+    "wikiDataId": "Q119158",
+    "country_code": "BR"
+  },
+  "cities": [
+    {
+      "id": 10776,
+      "name": "Бразиліа",
+      "name_default": "Brasília",
+      "native": "Brasília",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 2207718,
+      "latitude": "-15.77972000",
+      "longitude": "-47.92972000",
+      "timezone": "America/Sao_Paulo",
+      "wikiDataId": "Q2844",
+      "country_code": "BR",
+      "state_code": "DF",
+      "state_id": 2017,
+      "country_id": 31
+    },
+    {
+      "id": 13934,
+      "name": "Планальтіна",
+      "name_default": "Planaltina",
+      "native": "Planaltina",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 189412,
+      "latitude": "-15.61791000",
+      "longitude": "-47.64874000",
+      "timezone": "America/Sao_Paulo",
+      "wikiDataId": "Q1004078",
+      "country_code": "BR",
+      "state_code": "DF",
+      "state_id": 2017,
+      "country_id": 31
+    }
+  ]
+}

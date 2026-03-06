@@ -1,0 +1,39 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 241,
+    "code": "VG",
+    "iso3": "VGB",
+    "numeric_code": "092",
+    "name": "영국령 버진아일랜드",
+    "name_default": "Virgin Islands (British)",
+    "native": "British Virgin Islands",
+    "capital": "Road Town",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".vg",
+    "population": 39471,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "British Virgin Island",
+    "timezones": [
+      {
+        "zoneName": "America/Tortola",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.43138300",
+    "longitude": "-64.62305000",
+    "emoji": "🇻🇬",
+    "emojiU": "U+1F1FB U+1F1EC"
+  },
+  "states": []
+}

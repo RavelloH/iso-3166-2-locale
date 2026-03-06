@@ -1,0 +1,39 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 47,
+    "code": "CC",
+    "iso3": "CCK",
+    "numeric_code": "166",
+    "name": "코코스 제도",
+    "name_default": "Cocos (Keeling) Islands",
+    "native": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "phonecode": "61",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".cc",
+    "population": 593,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "Cocos Island",
+    "timezones": [
+      {
+        "zoneName": "Indian/Cocos",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "CCT",
+        "tzName": "Cocos Islands Time"
+      }
+    ],
+    "latitude": "-12.50000000",
+    "longitude": "96.83333333",
+    "emoji": "🇨🇨",
+    "emojiU": "U+1F1E8 U+1F1E8"
+  },
+  "states": []
+}

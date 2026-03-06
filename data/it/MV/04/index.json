@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 133,
+    "code": "MV",
+    "iso3": "MDV",
+    "numeric_code": "462",
+    "name": "Maldive",
+    "name_default": "Maldives",
+    "native": "Maldives",
+    "capital": "Male",
+    "phonecode": "960",
+    "currency": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "tld": ".mv",
+    "population": 515132,
+    "gdp": 7480,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Maldivian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Maldives",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MVT",
+        "tzName": "Maldives Time"
+      }
+    ],
+    "latitude": "3.25000000",
+    "longitude": "73.00000000",
+    "emoji": "🇲🇻",
+    "emojiU": "U+1F1F2 U+1F1FB"
+  },
+  "state": {
+    "id": 2584,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "MV-04",
+    "fips_code": "47",
+    "name": "Vaavu",
+    "name_default": "Vaavu",
+    "native": "ހެދުން",
+    "type": "administrative atoll",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "3.61524920",
+    "longitude": "73.58699860",
+    "timezone": "Indian/Maldives",
+    "wikiDataId": "Q2709111",
+    "country_code": "MV"
+  },
+  "cities": [
+    {
+      "id": 67924,
+      "name": "Felidhoo",
+      "name_default": "Felidhoo",
+      "native": "ފެލިދޫ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 541,
+      "latitude": "3.47182000",
+      "longitude": "73.54699000",
+      "timezone": "Indian/Maldives",
+      "wikiDataId": "Q4043243",
+      "country_code": "MV",
+      "state_code": "04",
+      "state_id": 2584,
+      "country_id": 133
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 104,
+    "code": "IQ",
+    "iso3": "IRQ",
+    "numeric_code": "368",
+    "name": "Irak",
+    "name_default": "Iraq",
+    "native": "العراق",
+    "capital": "Baghdad",
+    "phonecode": "964",
+    "currency": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "د.ع",
+    "tld": ".iq",
+    "population": 46118793,
+    "gdp": 258020,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Iraqi",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baghdad",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "33.00000000",
+    "longitude": "44.00000000",
+    "emoji": "🇮🇶",
+    "emojiU": "U+1F1EE U+1F1F6"
+  },
+  "states": [
+    "AN",
+    "AR",
+    "BA",
+    "BB",
+    "BG",
+    "DA",
+    "DI",
+    "DQ",
+    "KA",
+    "KI",
+    "KR",
+    "MA",
+    "MU",
+    "NA",
+    "NI",
+    "QA",
+    "SD",
+    "SU",
+    "WA"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "ایسلند",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5612,
+    "code": "TAL",
+    "iso2": "TAL",
+    "iso3166_2": "IS-TAL",
+    "fips_code": null,
+    "name": "تالکنافجارآرپور",
+    "name_default": "Tálknafjarðarhreppur",
+    "native": "Tálknafjarðarhreppur",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.63000000",
+    "longitude": "-23.78000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q2433116",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135224,
+      "name": "تالکنافجارآرپور",
+      "name_default": "Tálknafjarðarhreppur",
+      "native": "Tálknafjarðarhreppur",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.61667000",
+      "longitude": "-23.88333000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1798705",
+      "country_code": "IS",
+      "state_code": "TAL",
+      "state_id": 5612,
+      "country_id": 100
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 51,
+    "code": "CD",
+    "iso3": "COD",
+    "numeric_code": "180",
+    "name": "جمهوری کنگو",
+    "name_default": "Democratic Republic of the Congo",
+    "native": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "phonecode": "243",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "population": 112832000,
+    "gdp": 79119,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Congolese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  },
+  "state": {
+    "id": 2741,
+    "code": "KN",
+    "iso2": "KN",
+    "iso3166_2": "CD-KN",
+    "fips_code": "06",
+    "name": "کینشاسا",
+    "name_default": "Kinshasa",
+    "native": "Kinshasa",
+    "type": "city",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-4.32171000",
+    "longitude": "15.31225110",
+    "timezone": "Africa/Kinshasa",
+    "wikiDataId": "Q3838",
+    "country_code": "CD"
+  },
+  "cities": [
+    {
+      "id": 17263,
+      "name": "کینشاسا",
+      "name_default": "Kinshasa",
+      "native": "Kinshasa",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 14565700,
+      "latitude": "-4.32758000",
+      "longitude": "15.31357000",
+      "timezone": "Africa/Kinshasa",
+      "wikiDataId": "Q3838",
+      "country_code": "CD",
+      "state_code": "KN",
+      "state_id": 2741,
+      "country_id": 51
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 43,
+    "code": "TD",
+    "iso3": "TCD",
+    "numeric_code": "148",
+    "name": "Çad",
+    "name_default": "Chad",
+    "native": "Tchad",
+    "capital": "N'Djamena",
+    "phonecode": "235",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "population": 19340757,
+    "gdp": 18792,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Chadian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  },
+  "states": [
+    "BA",
+    "BG",
+    "BO",
+    "CB",
+    "EE",
+    "EO",
+    "GR",
+    "HL",
+    "KA",
+    "LC",
+    "LO",
+    "LR",
+    "MA",
+    "MC",
+    "ME",
+    "MO",
+    "ND",
+    "OD",
+    "SA",
+    "SI",
+    "TA",
+    "TI",
+    "WF"
+  ]
+}

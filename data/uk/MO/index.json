@@ -1,0 +1,39 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 128,
+    "code": "MO",
+    "iso3": "MAC",
+    "numeric_code": "446",
+    "name": "САР Макао.",
+    "name_default": "Macau S.A.R.",
+    "native": "澳門",
+    "capital": "Macao",
+    "phonecode": "853",
+    "currency": "MOP",
+    "currency_name": "Macanese pataca",
+    "currency_symbol": "$",
+    "tld": ".mo",
+    "population": 685900,
+    "gdp": 53354,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Macanese, Chinese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Macau",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "latitude": "22.16666666",
+    "longitude": "113.55000000",
+    "emoji": "🇲🇴",
+    "emojiU": "U+1F1F2 U+1F1F4"
+  },
+  "states": []
+}

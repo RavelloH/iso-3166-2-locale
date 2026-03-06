@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 166,
+    "code": "OM",
+    "iso3": "OMN",
+    "numeric_code": "512",
+    "name": "阿曼",
+    "name_default": "Oman",
+    "native": "عمان",
+    "capital": "Muscat",
+    "phonecode": "968",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "population": 5306976,
+    "gdp": 104351,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Omani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  },
+  "state": {
+    "id": 3053,
+    "code": "SS",
+    "iso2": "SS",
+    "iso3166_2": "OM-SS",
+    "fips_code": "07",
+    "name": "北阿什沙尔基亚",
+    "name_default": "Ash Sharqiyah North",
+    "native": "شمال الشرقية",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "22.20247380",
+    "longitude": "58.51590720",
+    "timezone": "Asia/Muscat",
+    "wikiDataId": "Q4501876",
+    "country_code": "OM"
+  },
+  "cities": []
+}

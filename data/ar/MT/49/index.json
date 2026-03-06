@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "مالطا",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 75,
+    "code": "49",
+    "iso2": "49",
+    "iso3166_2": "MT-49",
+    "fips_code": "54",
+    "name": "سان غوان",
+    "name_default": "San Ġwann",
+    "native": "San Ġwann",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 14720,
+    "latitude": "35.90773650",
+    "longitude": "14.47524160",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q39507",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67805,
+      "name": "سان جيلجان (سانت جوليان)",
+      "name_default": "San Ġiljan (St. Julian's)",
+      "native": "San Ġiljan (St. Julian's)",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "35.91839000",
+      "longitude": "14.48977000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q20922925",
+      "country_code": "MT",
+      "state_code": "49",
+      "state_id": 75,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "स्लोवेनिया",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4276,
+    "code": "192",
+    "iso2": "192",
+    "iso3166_2": "SI-192",
+    "fips_code": "N7",
+    "name": "ज़िरोव्निका",
+    "name_default": "Žirovnica",
+    "native": "Žirovnica",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.40460830",
+    "longitude": "14.13532290",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q394103",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104368,
+      "name": "ज़िरोव्निका",
+      "name_default": "Žirovnica",
+      "native": "Žirovnica",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 608,
+      "latitude": "46.40472000",
+      "longitude": "14.14000000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q3437411",
+      "country_code": "SI",
+      "state_code": "192",
+      "state_id": 4276,
+      "country_id": 201
+    }
+  ]
+}

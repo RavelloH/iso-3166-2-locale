@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 208,
+    "code": "LK",
+    "iso3": "LKA",
+    "numeric_code": "144",
+    "name": "श्रीलंका",
+    "name_default": "Sri Lanka",
+    "native": "śrī laṃkāva",
+    "capital": "Colombo",
+    "phonecode": "94",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "population": 21763170,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Sri Lankan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  },
+  "state": {
+    "id": 2814,
+    "code": "45",
+    "iso2": "45",
+    "iso3166_2": "LK-45",
+    "fips_code": "27",
+    "name": "मुल्लैतिवु",
+    "name_default": "Mullaitivu",
+    "native": "මුලතිව්",
+    "type": "district",
+    "level": "1",
+    "parent_id": "2813",
+    "population": 28973,
+    "latitude": "9.26753880",
+    "longitude": "80.81282540",
+    "timezone": "Asia/Colombo",
+    "wikiDataId": "Q1587508",
+    "country_code": "LK"
+  },
+  "cities": []
+}

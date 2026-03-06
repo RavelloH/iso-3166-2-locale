@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 43,
+    "code": "TD",
+    "iso3": "TCD",
+    "numeric_code": "148",
+    "name": "تشاد",
+    "name_default": "Chad",
+    "native": "Tchad",
+    "capital": "N'Djamena",
+    "phonecode": "235",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "population": 19340757,
+    "gdp": 18792,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Chadian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  },
+  "state": {
+    "id": 3587,
+    "code": "TI",
+    "iso2": "TI",
+    "iso3166_2": "TD-TI",
+    "fips_code": "26",
+    "name": "تيبستي",
+    "name_default": "Tibesti",
+    "native": "Tibesti",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "21.40073910",
+    "longitude": "17.47427630",
+    "timezone": "Africa/Ndjamena",
+    "wikiDataId": "Q737711",
+    "country_code": "TD"
+  },
+  "cities": [
+    {
+      "id": 105119,
+      "name": "أوزو",
+      "name_default": "Aozou",
+      "native": "Aozou",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1880,
+      "latitude": "21.83750000",
+      "longitude": "17.42750000",
+      "timezone": "Africa/Ndjamena",
+      "wikiDataId": "Q2858017",
+      "country_code": "TD",
+      "state_code": "TI",
+      "state_id": 3587,
+      "country_id": 43
+    }
+  ]
+}

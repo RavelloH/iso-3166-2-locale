@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 1,
+    "code": "AF",
+    "iso3": "AFG",
+    "numeric_code": "004",
+    "name": "Afganistan",
+    "name_default": "Afghanistan",
+    "native": "افغانستان",
+    "capital": "Kabul",
+    "phonecode": "93",
+    "currency": "AFN",
+    "currency_name": "Afghan afghani",
+    "currency_symbol": "؋",
+    "tld": ".af",
+    "population": 43844000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Afghan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ],
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "emoji": "🇦🇫",
+    "emojiU": "U+1F1E6 U+1F1EB"
+  },
+  "state": {
+    "id": 3874,
+    "code": "ZAB",
+    "iso2": "ZAB",
+    "iso3166_2": "AF-ZAB",
+    "fips_code": "28",
+    "name": "Zabul",
+    "name_default": "Zabul",
+    "native": "زابل",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 391150,
+    "latitude": "32.30689420",
+    "longitude": "67.12990400",
+    "timezone": "Asia/Kabul",
+    "wikiDataId": "Q139126",
+    "country_code": "AF"
+  },
+  "cities": [
+    {
+      "id": 109,
+      "name": "Kalāt",
+      "name_default": "Qalāt",
+      "native": "قلات",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 12191,
+      "latitude": "32.10575000",
+      "longitude": "66.90833000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q527318",
+      "country_code": "AF",
+      "state_code": "ZAB",
+      "state_id": 3874,
+      "country_id": 1
+    }
+  ]
+}

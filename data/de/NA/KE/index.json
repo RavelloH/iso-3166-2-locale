@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 152,
+    "code": "NA",
+    "iso3": "NAM",
+    "numeric_code": "516",
+    "name": "Namibia",
+    "name_default": "Namibia",
+    "native": "Namibia",
+    "capital": "Windhoek",
+    "phonecode": "264",
+    "currency": "NAD",
+    "currency_name": "Namibian dollar",
+    "currency_symbol": "$",
+    "tld": ".na",
+    "population": 3022401,
+    "gdp": 14214,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Namibian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Windhoek",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "WAST",
+        "tzName": "West Africa Summer Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇳🇦",
+    "emojiU": "U+1F1F3 U+1F1E6"
+  },
+  "state": {
+    "id": 36,
+    "code": "KE",
+    "iso2": "KE",
+    "iso3166_2": "NA-KE",
+    "fips_code": "40",
+    "name": "Kavango Ost",
+    "name_default": "Kavango East",
+    "native": "Kavango East",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 218421,
+    "latitude": "-18.39823550",
+    "longitude": "20.72468000",
+    "timezone": "Africa/Windhoek",
+    "wikiDataId": "Q14824032",
+    "country_code": "NA"
+  },
+  "cities": [
+    {
+      "id": 76664,
+      "name": "Rundu",
+      "name_default": "Rundu",
+      "native": "Round",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 118632,
+      "latitude": "-17.93333000",
+      "longitude": "19.76667000",
+      "timezone": "Africa/Windhoek",
+      "wikiDataId": "Q662291",
+      "country_code": "NA",
+      "state_code": "KE",
+      "state_id": 36,
+      "country_id": 152
+    }
+  ]
+}

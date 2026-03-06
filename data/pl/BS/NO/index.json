@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "Bahamy",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3616,
+    "code": "NO",
+    "iso2": "NO",
+    "iso3166_2": "BS-NO",
+    "fips_code": "46",
+    "name": "Północne Abaco",
+    "name_default": "North Abaco",
+    "native": "North Abaco",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 9578,
+    "latitude": "26.93839430",
+    "longitude": "-77.68382210",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q623327",
+    "country_code": "BS"
+  },
+  "cities": [
+    {
+      "id": 15692,
+      "name": "Cooper’s Town",
+      "name_default": "Cooper’s Town",
+      "native": "Cooper’s Town",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 8413,
+      "latitude": "26.87137000",
+      "longitude": "-77.51131000",
+      "timezone": "America/Nassau",
+      "wikiDataId": "Q1129877",
+      "country_code": "BS",
+      "state_code": "NO",
+      "state_id": 3616,
+      "country_id": 17
+    }
+  ]
+}

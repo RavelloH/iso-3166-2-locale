@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "Italie",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1774,
+    "code": "NO",
+    "iso2": "NO",
+    "iso3166_2": "IT-NO",
+    "fips_code": "05",
+    "name": "Novare",
+    "name_default": "Novara",
+    "native": "Novara",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1702",
+    "population": 102573,
+    "latitude": "45.58425000",
+    "longitude": "8.54599700",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16216",
+    "country_code": "IT"
+  },
+  "cities": []
+}

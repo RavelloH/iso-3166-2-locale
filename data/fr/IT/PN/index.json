@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "Italie",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1690,
+    "code": "PN",
+    "iso2": "PN",
+    "iso3166_2": "IT-PN",
+    "fips_code": "13",
+    "name": "Pordenone",
+    "name_default": "Pordenone",
+    "native": "Pordenone",
+    "type": "decentralized regional entity",
+    "level": "2",
+    "parent_id": "1756",
+    "population": 52632,
+    "latitude": "46.10173670",
+    "longitude": "12.70390280",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16247",
+    "country_code": "IT"
+  },
+  "cities": []
+}

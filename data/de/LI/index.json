@@ -1,0 +1,51 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 125,
+    "code": "LI",
+    "iso3": "LIE",
+    "numeric_code": "438",
+    "name": "Liechtenstein",
+    "name_default": "Liechtenstein",
+    "native": "Liechtenstein",
+    "capital": "Vaduz",
+    "phonecode": "423",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".li",
+    "population": 40900,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Liechtenstein",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vaduz",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.26666666",
+    "longitude": "9.53333333",
+    "emoji": "🇱🇮",
+    "emojiU": "U+1F1F1 U+1F1EE"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11"
+  ]
+}

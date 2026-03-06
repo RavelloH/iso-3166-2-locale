@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 210,
+    "code": "SR",
+    "iso3": "SUR",
+    "numeric_code": "740",
+    "name": "Suriname",
+    "name_default": "Suriname",
+    "native": "Suriname",
+    "capital": "Paramaribo",
+    "phonecode": "597",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "population": 616500,
+    "gdp": 4506,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Surinamese",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  },
+  "state": {
+    "id": 2848,
+    "code": "SA",
+    "iso2": "SA",
+    "iso3166_2": "SR-SA",
+    "fips_code": "17",
+    "name": "Saramacca",
+    "name_default": "Saramacca",
+    "native": "Saramacca",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "5.78708050",
+    "longitude": "-55.60645740",
+    "timezone": "America/Paramaribo",
+    "wikiDataId": "Q1351157",
+    "country_code": "SR"
+  },
+  "cities": [
+    {
+      "id": 104824,
+      "name": "Groninga",
+      "name_default": "Groningen",
+      "native": "Groningen",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3216,
+      "latitude": "5.80000000",
+      "longitude": "-55.46667000",
+      "timezone": "America/Paramaribo",
+      "wikiDataId": "Q508935",
+      "country_code": "SR",
+      "state_code": "SA",
+      "state_id": 2848,
+      "country_id": 210
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 207,
+    "code": "ES",
+    "iso3": "ESP",
+    "numeric_code": "724",
+    "name": "Spanien",
+    "name_default": "Spain",
+    "native": "España",
+    "capital": "Madrid",
+    "phonecode": "34",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "population": 49315949,
+    "gdp": 1799511,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Spanish",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  },
+  "state": {
+    "id": 5340,
+    "code": "VC",
+    "iso2": "VC",
+    "iso3166_2": "ES-VC",
+    "fips_code": "",
+    "name": "Valencianische Gemeinschaft",
+    "name_default": "Valencian Community",
+    "native": "Comunidad valenciana",
+    "type": "autonomous community",
+    "level": null,
+    "parent_id": null,
+    "population": 5319285,
+    "latitude": "39.68195910",
+    "longitude": "-0.76544060",
+    "timezone": "Europe/Madrid",
+    "wikiDataId": "Q5720",
+    "country_code": "ES"
+  },
+  "cities": []
+}

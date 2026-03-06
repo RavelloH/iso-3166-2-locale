@@ -1,0 +1,84 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 132,
+    "code": "MY",
+    "iso3": "MYS",
+    "numeric_code": "458",
+    "name": "Maleisië",
+    "name_default": "Malaysia",
+    "native": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "phonecode": "60",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "population": 34231700,
+    "gdp": 444984,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Malaysian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
+  },
+  "state": {
+    "id": 1935,
+    "code": "15",
+    "iso2": "15",
+    "iso3166_2": "MY-15",
+    "fips_code": "15",
+    "name": "Labuan",
+    "name_default": "Labuan",
+    "native": "Labuan",
+    "type": "federal territory",
+    "level": "1",
+    "parent_id": null,
+    "population": 102300,
+    "latitude": "5.31683360",
+    "longitude": "115.21986130",
+    "timezone": "Asia/Kuala_Lumpur",
+    "wikiDataId": "Q214504",
+    "country_code": "MY"
+  },
+  "cities": [
+    {
+      "id": 76511,
+      "name": "Labuan",
+      "name_default": "Labuan",
+      "native": "Labuan",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 95120,
+      "latitude": "5.28028000",
+      "longitude": "115.24750000",
+      "timezone": "Asia/Kuala_Lumpur",
+      "wikiDataId": "Q2363616",
+      "country_code": "MY",
+      "state_code": "15",
+      "state_id": 1935,
+      "country_id": 132
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 231,
+    "code": "AE",
+    "iso3": "ARE",
+    "numeric_code": "784",
+    "name": "Emirati Arabi Uniti",
+    "name_default": "United Arab Emirates",
+    "native": "دولة الإمارات العربية المتحدة",
+    "capital": "Abu Dhabi",
+    "phonecode": "971",
+    "currency": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "currency_symbol": "إ.د",
+    "tld": ".ae",
+    "population": 10678556,
+    "gdp": 548598,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Emirati, Emirian, Emiri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dubai",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "24.00000000",
+    "longitude": "54.00000000",
+    "emoji": "🇦🇪",
+    "emojiU": "U+1F1E6 U+1F1EA"
+  },
+  "state": {
+    "id": 3391,
+    "code": "DU",
+    "iso2": "DU",
+    "iso3166_2": "AE-DU",
+    "fips_code": "03",
+    "name": "Dubai",
+    "name_default": "Dubai",
+    "native": "دبي",
+    "type": "emirate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "25.26472270",
+    "longitude": "55.29241460",
+    "timezone": "Asia/Dubai",
+    "wikiDataId": "Q613",
+    "country_code": "AE"
+  },
+  "cities": [
+    {
+      "id": 32,
+      "name": "Dubai",
+      "name_default": "Dubai",
+      "native": "دبي",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 3944751,
+      "latitude": "25.06570000",
+      "longitude": "55.17128000",
+      "timezone": "Asia/Dubai",
+      "wikiDataId": "Q612",
+      "country_code": "AE",
+      "state_code": "DU",
+      "state_id": 3391,
+      "country_id": 231
+    }
+  ]
+}

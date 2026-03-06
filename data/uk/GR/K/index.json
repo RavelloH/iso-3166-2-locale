@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 85,
+    "code": "GR",
+    "iso3": "GRC",
+    "numeric_code": "300",
+    "name": "Греція",
+    "name_default": "Greece",
+    "native": "Ελλάδα",
+    "capital": "Athens",
+    "phonecode": "30",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "population": 10400720,
+    "gdp": 267348,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Greek, Hellenic",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  },
+  "state": {
+    "id": 5464,
+    "code": "K",
+    "iso2": "K",
+    "iso3166_2": "GR-K",
+    "fips_code": null,
+    "name": "Північне Егейське море",
+    "name_default": "North Aegean",
+    "native": "Βόρειο Αιγαίο",
+    "type": "administrative region",
+    "level": "1",
+    "parent_id": null,
+    "population": 194943,
+    "latitude": "38.76453610",
+    "longitude": "24.70113280",
+    "timezone": "Europe/Athens",
+    "wikiDataId": "Q173620",
+    "country_code": "GR"
+  },
+  "cities": []
+}

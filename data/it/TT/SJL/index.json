@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 223,
+    "code": "TT",
+    "iso3": "TTO",
+    "numeric_code": "780",
+    "name": "Trinidad e Tobago",
+    "name_default": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "phonecode": "1",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "population": 1368333,
+    "gdp": 26467,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Trinidadian or Tobagonian",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
+  },
+  "state": {
+    "id": 3357,
+    "code": "SJL",
+    "iso2": "SJL",
+    "iso3166_2": "TT-SJL",
+    "fips_code": "SJL",
+    "name": "San Juan-Laventille",
+    "name_default": "San Juan-Laventille",
+    "native": "For San Juan Lavent",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 157258,
+    "latitude": "10.67560660",
+    "longitude": "-61.47101540",
+    "timezone": "America/Port_of_Spain",
+    "wikiDataId": "Q979608",
+    "country_code": "TT"
+  },
+  "cities": [
+    {
+      "id": 108973,
+      "name": "Laventille",
+      "name_default": "Laventille",
+      "native": "Laventille",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 21000,
+      "latitude": "10.64917000",
+      "longitude": "-61.49889000",
+      "timezone": "America/Port_of_Spain",
+      "wikiDataId": "Q6502566",
+      "country_code": "TT",
+      "state_code": "SJL",
+      "state_id": 3357,
+      "country_id": 223
+    }
+  ]
+}

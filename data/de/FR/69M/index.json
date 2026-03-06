@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "Frankreich",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 5038,
+    "code": "69M",
+    "iso2": "69M",
+    "iso3166_2": "FR-69M",
+    "fips_code": null,
+    "name": "Métropole Lyon",
+    "name_default": "Métropole de Lyon",
+    "native": "Métropole de Lyon",
+    "type": "metropolitan collectivity with special status",
+    "level": null,
+    "parent_id": null,
+    "population": 1433613,
+    "latitude": "45.74816160",
+    "longitude": "4.85568590",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q16665897",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "مالت",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 106,
+    "code": "16",
+    "iso2": "16",
+    "iso3166_2": "MT-16",
+    "fips_code": "58",
+    "name": "گَسْری",
+    "name_default": "Għasri",
+    "native": "Għasri",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 424,
+    "latitude": "36.06680750",
+    "longitude": "14.21924750",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q1017339",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67767,
+      "name": "گودجا",
+      "name_default": "Gudja",
+      "native": "Gudja",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2997,
+      "latitude": "35.84917000",
+      "longitude": "14.50306000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q1018153",
+      "country_code": "MT",
+      "state_code": "16",
+      "state_id": 106,
+      "country_id": 135
+    }
+  ]
+}

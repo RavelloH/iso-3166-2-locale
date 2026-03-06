@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 25,
+    "code": "BM",
+    "iso3": "BMU",
+    "numeric_code": "060",
+    "name": "Bermudas",
+    "name_default": "Bermuda",
+    "native": "Bermuda",
+    "capital": "Hamilton",
+    "phonecode": "1",
+    "currency": "BMD",
+    "currency_name": "Bermudian dollar",
+    "currency_symbol": "$",
+    "tld": ".bm",
+    "population": 64055,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Bermudian, Bermudan",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Bermuda",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "32.33333333",
+    "longitude": "-64.75000000",
+    "emoji": "🇧🇲",
+    "emojiU": "U+1F1E7 U+1F1F2"
+  },
+  "state": {
+    "id": 4867,
+    "code": "SAN",
+    "iso2": "SAN",
+    "iso3166_2": "BM-SAN",
+    "fips_code": "08",
+    "name": "Sandys",
+    "name_default": "Sandys",
+    "native": "Sandys",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "32.29995280",
+    "longitude": "-64.86741030",
+    "timezone": "Atlantic/Bermuda",
+    "wikiDataId": "Q121782",
+    "country_code": "BM"
+  },
+  "cities": [
+    {
+      "id": 153513,
+      "name": "Somerset",
+      "name_default": "Somerset",
+      "native": "Somerset",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "32.28200000",
+      "longitude": "-64.84400000",
+      "timezone": "Atlantic/Bermuda",
+      "wikiDataId": "Q516580",
+      "country_code": "BM",
+      "state_code": "SAN",
+      "state_id": 4867,
+      "country_id": 25
+    }
+  ]
+}

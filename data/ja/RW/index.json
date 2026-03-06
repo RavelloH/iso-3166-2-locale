@@ -1,0 +1,45 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 183,
+    "code": "RW",
+    "iso3": "RWA",
+    "numeric_code": "646",
+    "name": "ルワンダ",
+    "name_default": "Rwanda",
+    "native": "Rwanda",
+    "capital": "Kigali",
+    "phonecode": "250",
+    "currency": "RWF",
+    "currency_name": "Rwandan franc",
+    "currency_symbol": "FRw",
+    "tld": ".rw",
+    "population": 14104969,
+    "gdp": 14771,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Rwandan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kigali",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-2.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇷🇼",
+    "emojiU": "U+1F1F7 U+1F1FC"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ]
+}

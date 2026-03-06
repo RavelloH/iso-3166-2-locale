@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 122,
+    "code": "LS",
+    "iso3": "LSO",
+    "numeric_code": "426",
+    "name": "莱索托",
+    "name_default": "Lesotho",
+    "native": "Lesotho",
+    "capital": "Maseru",
+    "phonecode": "266",
+    "currency": "LSL",
+    "currency_name": "Lesotho loti",
+    "currency_symbol": "L",
+    "tld": ".ls",
+    "population": 2116427,
+    "gdp": 2404,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Basotho",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maseru",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "latitude": "-29.50000000",
+    "longitude": "28.50000000",
+    "emoji": "🇱🇸",
+    "emojiU": "U+1F1F1 U+1F1F8"
+  },
+  "state": {
+    "id": 3023,
+    "code": "F",
+    "iso2": "F",
+    "iso3166_2": "LS-F",
+    "fips_code": "15",
+    "name": "莫哈莱斯胡克",
+    "name_default": "Mohale's Hoek",
+    "native": "Mohale's corner",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-30.15163050",
+    "longitude": "27.47701130",
+    "timezone": "Africa/Maseru",
+    "wikiDataId": "Q839074",
+    "country_code": "LS"
+  },
+  "cities": [
+    {
+      "id": 66569,
+      "name": "莫哈莱斯胡克",
+      "name_default": "Mohale’s Hoek",
+      "native": "Mohale's Hoek",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 46593,
+      "latitude": "-30.15137000",
+      "longitude": "27.47691000",
+      "timezone": "Africa/Maseru",
+      "wikiDataId": "Q1818943",
+      "country_code": "LS",
+      "state_code": "F",
+      "state_id": 3023,
+      "country_id": 122
+    }
+  ]
+}

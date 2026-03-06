@@ -1,0 +1,58 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 99,
+    "code": "HU",
+    "iso3": "HUN",
+    "numeric_code": "348",
+    "name": "ハンガリー",
+    "name_default": "Hungary",
+    "native": "Magyarország",
+    "capital": "Budapest",
+    "phonecode": "36",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "population": 9539502,
+    "gdp": 237070,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Hungarian, Magyar",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  },
+  "state": {
+    "id": 1033,
+    "code": "SF",
+    "iso2": "SF",
+    "iso3166_2": "HU-SF",
+    "fips_code": "35",
+    "name": "セーケシュフェヘールヴァール",
+    "name_default": "Székesfehérvár",
+    "native": "Székesfehérvár",
+    "type": "city with county rights",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "47.19101690",
+    "longitude": "18.41081100",
+    "timezone": "Europe/Budapest",
+    "wikiDataId": "Q130212",
+    "country_code": "HU"
+  },
+  "cities": []
+}

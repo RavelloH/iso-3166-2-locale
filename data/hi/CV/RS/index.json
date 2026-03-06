@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "ग्केप वर्ड",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2984,
+    "code": "RS",
+    "iso2": "RS",
+    "iso3166_2": "CV-RS",
+    "fips_code": "23",
+    "name": "रिबेरा ग्रांडे डे सैंटियागो",
+    "name_default": "Ribeira Grande de Santiago",
+    "native": "Ribeira Grande de Santiago",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 8325,
+    "latitude": "14.98302980",
+    "longitude": "-23.65617250",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q499620",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 21989,
+      "name": "सिडेड वेल्हा",
+      "name_default": "Cidade Velha",
+      "native": "Cidade Velha",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3319,
+      "latitude": "14.91531000",
+      "longitude": "-23.60527000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q464913",
+      "country_code": "CV",
+      "state_code": "RS",
+      "state_id": 2984,
+      "country_id": 40
+    }
+  ]
+}

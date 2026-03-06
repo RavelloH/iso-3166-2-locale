@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 63,
+    "code": "TL",
+    "iso3": "TLS",
+    "numeric_code": "626",
+    "name": "동티모르",
+    "name_default": "Timor-Leste",
+    "native": "Timor-Leste",
+    "capital": "Dili",
+    "phonecode": "670",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tl",
+    "population": 1391221,
+    "gdp": 2115,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Timorese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dili",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "TLT",
+        "tzName": "Timor Leste Time"
+      }
+    ],
+    "latitude": "-8.83333333",
+    "longitude": "125.91666666",
+    "emoji": "🇹🇱",
+    "emojiU": "U+1F1F9 U+1F1F1"
+  },
+  "state": {
+    "id": 4525,
+    "code": "BO",
+    "iso2": "BO",
+    "iso3166_2": "TL-BO",
+    "fips_code": "BO",
+    "name": "보보나로",
+    "name_default": "Bobonaro",
+    "native": "Ver",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-8.97455500",
+    "longitude": "125.23065050",
+    "timezone": "Asia/Dili",
+    "wikiDataId": "Q860913",
+    "country_code": "TL"
+  },
+  "cities": [
+    {
+      "id": 106859,
+      "name": "말리아나",
+      "name_default": "Maliana",
+      "native": "Maliana",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 22000,
+      "latitude": "-8.99167000",
+      "longitude": "125.21972000",
+      "timezone": "Asia/Dili",
+      "wikiDataId": "Q1020338",
+      "country_code": "TL",
+      "state_code": "BO",
+      "state_id": 4525,
+      "country_id": 63
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 133,
+    "code": "MV",
+    "iso3": "MDV",
+    "numeric_code": "462",
+    "name": "Maldive",
+    "name_default": "Maldives",
+    "native": "Maldives",
+    "capital": "Male",
+    "phonecode": "960",
+    "currency": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "tld": ".mv",
+    "population": 515132,
+    "gdp": 7480,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Maldivian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Maldives",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MVT",
+        "tzName": "Maldives Time"
+      }
+    ],
+    "latitude": "3.25000000",
+    "longitude": "73.00000000",
+    "emoji": "🇲🇻",
+    "emojiU": "U+1F1F2 U+1F1FB"
+  },
+  "state": {
+    "id": 2590,
+    "code": "17",
+    "iso2": "17",
+    "iso3166_2": "MV-17",
+    "fips_code": "32",
+    "name": "Dhaalu",
+    "name_default": "Dhaalu",
+    "native": "ދައުލޫ",
+    "type": "administrative atoll",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "2.84734540",
+    "longitude": "72.90295260",
+    "timezone": "Indian/Maldives",
+    "wikiDataId": "Q2290784",
+    "country_code": "MV"
+  },
+  "cities": [
+    {
+      "id": 67931,
+      "name": "Kudahuvadhoo",
+      "name_default": "Kudahuvadhoo",
+      "native": "ކުޑަހުވައްދޫ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1562,
+      "latitude": "2.67075000",
+      "longitude": "72.89437000",
+      "timezone": "Indian/Maldives",
+      "wikiDataId": "Q2339256",
+      "country_code": "MV",
+      "state_code": "17",
+      "state_id": 2590,
+      "country_id": 133
+    }
+  ]
+}

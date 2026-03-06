@@ -1,0 +1,65 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 165,
+    "code": "NO",
+    "iso3": "NOR",
+    "numeric_code": "578",
+    "name": "ノルウェー",
+    "name_default": "Norway",
+    "native": "Norge",
+    "capital": "Oslo",
+    "phonecode": "47",
+    "currency": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "ko",
+    "tld": ".no",
+    "population": 5606944,
+    "gdp": 504276,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Norwegian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Oslo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Arctic/Longyearbyen",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "62.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇳🇴",
+    "emojiU": "U+1F1F3 U+1F1F4"
+  },
+  "state": {
+    "id": 1013,
+    "code": "21",
+    "iso2": "21",
+    "iso3166_2": "NO-21",
+    "fips_code": "SV",
+    "name": "スヴァールバル諸島",
+    "name_default": "Svalbard",
+    "native": "Svalbard",
+    "type": "arctic region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "78.71985190",
+    "longitude": "20.34933280",
+    "timezone": "Europe/Oslo",
+    "wikiDataId": "Q25231",
+    "country_code": "NO"
+  },
+  "cities": []
+}

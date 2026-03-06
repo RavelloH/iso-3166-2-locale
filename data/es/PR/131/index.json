@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Puerto Rico",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5200,
+    "code": "131",
+    "iso2": "131",
+    "iso3166_2": "PR-131",
+    "fips_code": null,
+    "name": "San Sebastián",
+    "name_default": "San Sebastián",
+    "native": "San Sebastián",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.32346000",
+    "longitude": "-66.97283700",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q10313",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153615,
+      "name": "San Sebastián",
+      "name_default": "San Sebastián",
+      "native": "San Sebastián",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.31833400",
+      "longitude": "-1.98123130",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q10313",
+      "country_code": "PR",
+      "state_code": "131",
+      "state_id": 5200,
+      "country_id": 178
+    }
+  ]
+}

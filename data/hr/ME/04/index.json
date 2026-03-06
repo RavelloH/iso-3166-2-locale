@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 147,
+    "code": "ME",
+    "iso3": "MNE",
+    "numeric_code": "499",
+    "name": "Crna Gora",
+    "name_default": "Montenegro",
+    "native": "Црна Гора",
+    "capital": "Podgorica",
+    "phonecode": "382",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".me",
+    "population": 623327,
+    "gdp": 8562,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Montenegrin",
+    "timezones": [
+      {
+        "zoneName": "Europe/Podgorica",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.50000000",
+    "longitude": "19.30000000",
+    "emoji": "🇲🇪",
+    "emojiU": "U+1F1F2 U+1F1EA"
+  },
+  "state": {
+    "id": 25,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "ME-04",
+    "fips_code": "04",
+    "name": "Bijelo Polje",
+    "name_default": "Bijelo Polje",
+    "native": "Бело поље",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.03415950",
+    "longitude": "19.74735590",
+    "timezone": "Europe/Podgorica",
+    "wikiDataId": "Q4086488",
+    "country_code": "ME"
+  },
+  "cities": [
+    {
+      "id": 67346,
+      "name": "Bijelo Polje",
+      "name_default": "Bijelo Polje",
+      "native": "Бело поље",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 15400,
+      "latitude": "43.03834000",
+      "longitude": "19.74758000",
+      "timezone": "Europe/Podgorica",
+      "wikiDataId": "Q115276",
+      "country_code": "ME",
+      "state_code": "04",
+      "state_id": 25,
+      "country_id": 147
+    }
+  ]
+}

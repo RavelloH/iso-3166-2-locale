@@ -1,0 +1,65 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 149,
+    "code": "MA",
+    "iso3": "MAR",
+    "numeric_code": "504",
+    "name": "Maroko",
+    "name_default": "Morocco",
+    "native": "المغرب",
+    "capital": "Rabat",
+    "phonecode": "212",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "population": 36828330,
+    "gdp": 165835,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Moroccan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      },
+      {
+        "zoneName": "Africa/El_Aaiun",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western Sahara Time"
+      }
+    ],
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  },
+  "state": {
+    "id": 4945,
+    "code": "SIB",
+    "iso2": "SIB",
+    "iso3166_2": "MA-SIB",
+    "fips_code": "06",
+    "name": "Sidi Bennour",
+    "name_default": "Sidi Bennour",
+    "native": "سيدي بنور",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3303",
+    "population": 55815,
+    "latitude": "32.65077920",
+    "longitude": "-8.42420870",
+    "timezone": "Africa/Casablanca",
+    "wikiDataId": "Q3408408",
+    "country_code": "MA"
+  },
+  "cities": []
+}

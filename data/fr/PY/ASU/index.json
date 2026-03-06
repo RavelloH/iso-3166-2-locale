@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 172,
+    "code": "PY",
+    "iso3": "PRY",
+    "numeric_code": "600",
+    "name": "Paraguay",
+    "name_default": "Paraguay",
+    "native": "Paraguay",
+    "capital": "Asunción",
+    "phonecode": "595",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "tld": ".py",
+    "population": 6109644,
+    "gdp": 45465,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Paraguayan",
+    "timezones": [
+      {
+        "zoneName": "America/Asuncion",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PYST",
+        "tzName": "Paraguay Summer Time"
+      }
+    ],
+    "latitude": "-23.00000000",
+    "longitude": "-58.00000000",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE"
+  },
+  "state": {
+    "id": 5221,
+    "code": "ASU",
+    "iso2": "ASU",
+    "iso3166_2": "PY-ASU",
+    "fips_code": null,
+    "name": "Asunción",
+    "name_default": "Asuncion",
+    "native": "Asunción",
+    "type": "department",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-25.28004590",
+    "longitude": "-57.63438140",
+    "timezone": "America/Asuncion",
+    "wikiDataId": "Q2933",
+    "country_code": "PY"
+  },
+  "cities": []
+}

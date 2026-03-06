@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 222,
+    "code": "TO",
+    "iso3": "TON",
+    "numeric_code": "776",
+    "name": "टोंगा",
+    "name_default": "Tonga",
+    "native": "Tonga",
+    "capital": "Nuku'alofa",
+    "phonecode": "676",
+    "currency": "TOP",
+    "currency_name": "Tongan paʻanga",
+    "currency_symbol": "$",
+    "tld": ".to",
+    "population": 100179,
+    "gdp": 568,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Tongan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Tongatapu",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "TOT",
+        "tzName": "Tonga Time"
+      }
+    ],
+    "latitude": "-20.00000000",
+    "longitude": "-175.00000000",
+    "emoji": "🇹🇴",
+    "emojiU": "U+1F1F9 U+1F1F4"
+  },
+  "state": {
+    "id": 3913,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "TO-02",
+    "fips_code": "01",
+    "name": "हापाई",
+    "name_default": "Haʻapai",
+    "native": "Haʻapai",
+    "type": "division",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-20.05874040",
+    "longitude": "-174.62299190",
+    "timezone": "Pacific/Tongatapu",
+    "wikiDataId": "Q10293470",
+    "country_code": "TO"
+  },
+  "cities": [
+    {
+      "id": 107049,
+      "name": "पंगाई",
+      "name_default": "Pangai",
+      "native": "Pangai",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2000,
+      "latitude": "-19.81468000",
+      "longitude": "-174.35423000",
+      "timezone": "Pacific/Tongatapu",
+      "wikiDataId": "Q1027037",
+      "country_code": "TO",
+      "state_code": "02",
+      "state_id": 3913,
+      "country_id": 222
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 114,
+    "code": "KI",
+    "iso3": "KIR",
+    "numeric_code": "296",
+    "name": "키리바시",
+    "name_default": "Kiribati",
+    "native": "Kiribati",
+    "capital": "Tarawa",
+    "phonecode": "686",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".ki",
+    "population": 120740,
+    "gdp": 312,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "I-Kiribati",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Enderbury",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "PHOT",
+        "tzName": "Phoenix Island Time"
+      },
+      {
+        "zoneName": "Pacific/Kiritimati",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "LINT",
+        "tzName": "Line Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Tarawa",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "GILT",
+        "tzName": "Gilbert Island Time"
+      }
+    ],
+    "latitude": "1.41666666",
+    "longitude": "173.00000000",
+    "emoji": "🇰🇮",
+    "emojiU": "U+1F1F0 U+1F1EE"
+  },
+  "states": [
+    "G",
+    "L",
+    "P"
+  ]
+}

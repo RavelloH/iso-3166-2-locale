@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "سلوفينيا",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4193,
+    "code": "162",
+    "iso2": "162",
+    "iso3166_2": "SI-162",
+    "fips_code": "H3",
+    "name": "هورجول",
+    "name_default": "Horjul",
+    "native": "Horjul",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 1169,
+    "latitude": "46.02253780",
+    "longitude": "14.29862690",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q1005185",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104115,
+      "name": "هورجول",
+      "name_default": "Horjul",
+      "native": "Horjul",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1442,
+      "latitude": "46.02361000",
+      "longitude": "14.29917000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q5903623",
+      "country_code": "SI",
+      "state_code": "162",
+      "state_id": 4193,
+      "country_id": 201
+    }
+  ]
+}

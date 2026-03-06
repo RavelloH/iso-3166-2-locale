@@ -1,0 +1,84 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 137,
+    "code": "MH",
+    "iso3": "MHL",
+    "numeric_code": "584",
+    "name": "Isole Marshall",
+    "name_default": "Marshall Islands",
+    "native": "M̧ajeļ",
+    "capital": "Majuro",
+    "phonecode": "692",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".mh",
+    "population": 42418,
+    "gdp": 297,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Marshallese",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Kwajalein",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Majuro",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      }
+    ],
+    "latitude": "9.00000000",
+    "longitude": "168.00000000",
+    "emoji": "🇲🇭",
+    "emojiU": "U+1F1F2 U+1F1ED"
+  },
+  "state": {
+    "id": 5645,
+    "code": "ARN",
+    "iso2": "ARN",
+    "iso3166_2": "MH-ARN",
+    "fips_code": null,
+    "name": "Arno",
+    "name_default": "Arno",
+    "native": "Arno",
+    "type": "municipality",
+    "level": null,
+    "parent_id": "2573",
+    "population": null,
+    "latitude": "7.08333333",
+    "longitude": "171.70000000",
+    "timezone": "Pacific/Kwajalein",
+    "wikiDataId": "Q694057",
+    "country_code": "MH"
+  },
+  "cities": [
+    {
+      "id": 160072,
+      "name": "Arno",
+      "name_default": "Arno",
+      "native": "Arno",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "7.08333333",
+      "longitude": "171.70000000",
+      "timezone": "Pacific/Kwajalein",
+      "wikiDataId": "Q694057",
+      "country_code": "MH",
+      "state_code": "ARN",
+      "state_id": 5645,
+      "country_id": 137
+    }
+  ]
+}

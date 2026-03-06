@@ -1,0 +1,58 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "チェコ",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4572,
+    "code": "723",
+    "iso2": "723",
+    "iso3166_2": "CZ-723",
+    "fips_code": "87",
+    "name": "ヴセティン",
+    "name_default": "Vsetín",
+    "native": "Vsetín",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4552",
+    "population": 25185,
+    "latitude": "49.33897750",
+    "longitude": "17.99615340",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q852541",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

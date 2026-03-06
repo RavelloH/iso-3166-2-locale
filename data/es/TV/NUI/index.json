@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 228,
+    "code": "TV",
+    "iso3": "TUV",
+    "numeric_code": "798",
+    "name": "Tuvalu",
+    "name_default": "Tuvalu",
+    "native": "Tuvalu",
+    "capital": "Funafuti",
+    "phonecode": "688",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".tv",
+    "population": 10643,
+    "gdp": 65,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Tuvaluan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Funafuti",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "TVT",
+        "tzName": "Tuvalu Time"
+      }
+    ],
+    "latitude": "-8.00000000",
+    "longitude": "178.00000000",
+    "emoji": "🇹🇻",
+    "emojiU": "U+1F1F9 U+1F1FB"
+  },
+  "state": {
+    "id": 3948,
+    "code": "NUI",
+    "iso2": "NUI",
+    "iso3166_2": "TV-NUI",
+    "fips_code": "NUI",
+    "name": "Nui",
+    "name_default": "Nui",
+    "native": "Great",
+    "type": "island council",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-7.22075990",
+    "longitude": "177.14611220",
+    "timezone": "Pacific/Funafuti",
+    "wikiDataId": "Q547997",
+    "country_code": "TV"
+  },
+  "cities": [
+    {
+      "id": 109000,
+      "name": "Pueblo de Tanrake",
+      "name_default": "Tanrake Village",
+      "native": "Tanrake Village",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 408,
+      "latitude": "-7.24562000",
+      "longitude": "177.14511000",
+      "timezone": "Pacific/Funafuti",
+      "wikiDataId": "Q3394618",
+      "country_code": "TV",
+      "state_code": "NUI",
+      "state_id": 3948,
+      "country_id": 228
+    }
+  ]
+}

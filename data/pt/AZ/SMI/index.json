@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Azerbaijão",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 529,
+    "code": "SMI",
+    "iso2": "SMI",
+    "iso3166_2": "AZ-SMI",
+    "fips_code": "50",
+    "name": "Shamakhi (cidade)",
+    "name_default": "Shamakhi",
+    "native": "Şamakay",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 31704,
+    "latitude": "40.63187310",
+    "longitude": "48.63638010",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q330839",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8173,
+      "name": "Shamakhi (cidade)",
+      "name_default": "Shamakhi",
+      "native": "Şamakay",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 29403,
+      "latitude": "40.63141000",
+      "longitude": "48.64137000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q388224",
+      "country_code": "AZ",
+      "state_code": "SMI",
+      "state_id": 529,
+      "country_id": 16
+    }
+  ]
+}

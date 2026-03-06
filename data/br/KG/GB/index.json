@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 118,
+    "code": "KG",
+    "iso3": "KGZ",
+    "numeric_code": "417",
+    "name": "Kirgizstan",
+    "name_default": "Kyrgyzstan",
+    "native": "Кыргызстан",
+    "capital": "Bishkek",
+    "phonecode": "996",
+    "currency": "KGS",
+    "currency_name": "Kyrgyzstani som",
+    "currency_symbol": "лв",
+    "tld": ".kg",
+    "population": 7281800,
+    "gdp": 19849,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Central Asia",
+    "subregion_id": 10,
+    "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bishkek",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "KGT",
+        "tzName": "Kyrgyzstan Time"
+      }
+    ],
+    "latitude": "41.00000000",
+    "longitude": "75.00000000",
+    "emoji": "🇰🇬",
+    "emojiU": "U+1F1F0 U+1F1EC"
+  },
+  "state": {
+    "id": 1001,
+    "code": "GB",
+    "iso2": "GB",
+    "iso3166_2": "KG-GB",
+    "fips_code": "01",
+    "name": "Biskek",
+    "name_default": "Bishkek",
+    "native": "Бишкек",
+    "type": "city",
+    "level": null,
+    "parent_id": null,
+    "population": 1321900,
+    "latitude": "42.87614240",
+    "longitude": "74.60367240",
+    "timezone": "Asia/Bishkek",
+    "wikiDataId": "Q9361",
+    "country_code": "KG"
+  },
+  "cities": [
+    {
+      "id": 64891,
+      "name": "Biskek",
+      "name_default": "Bishkek",
+      "native": "Бишкек",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 900000,
+      "latitude": "42.87000000",
+      "longitude": "74.59000000",
+      "timezone": "Asia/Bishkek",
+      "wikiDataId": "Q816163",
+      "country_code": "KG",
+      "state_code": "GB",
+      "state_id": 1001,
+      "country_id": 118
+    }
+  ]
+}

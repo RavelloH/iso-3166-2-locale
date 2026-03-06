@@ -1,0 +1,50 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "多米尼加",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "states": [
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 111,
+    "code": "44",
+    "iso2": "44",
+    "iso3166_2": "MT-44",
+    "fips_code": "01",
+    "name": "Qrendi",
+    "name_default": "Qrendi",
+    "native": "Qrendi",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 3321,
+    "latitude": "35.83284880",
+    "longitude": "14.45486210",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q282203",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67799,
+      "name": "Qrendi",
+      "name_default": "Qrendi",
+      "native": "Qrendi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2752,
+      "latitude": "35.83472000",
+      "longitude": "14.45833000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q282203",
+      "country_code": "MT",
+      "state_code": "44",
+      "state_id": 111,
+      "country_id": 135
+    }
+  ]
+}

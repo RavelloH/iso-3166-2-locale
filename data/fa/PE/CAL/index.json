@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 173,
+    "code": "PE",
+    "iso3": "PER",
+    "numeric_code": "604",
+    "name": "پرو",
+    "name_default": "Peru",
+    "native": "Perú",
+    "capital": "Lima",
+    "phonecode": "51",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "population": 34350244,
+    "gdp": 303293,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Peruvian",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
+  },
+  "state": {
+    "id": 3701,
+    "code": "CAL",
+    "iso2": "CAL",
+    "iso3166_2": "PE-CAL",
+    "fips_code": "07",
+    "name": "کالائو",
+    "name_default": "Callao",
+    "native": "Callao",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 1300000,
+    "latitude": "-12.05226260",
+    "longitude": "-77.13911330",
+    "timezone": "America/Lima",
+    "wikiDataId": "Q2071352",
+    "country_code": "PE"
+  },
+  "cities": [
+    {
+      "id": 80587,
+      "name": "کالائو",
+      "name_default": "Callao",
+      "native": "Callao",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 537377,
+      "latitude": "-12.05659000",
+      "longitude": "-77.11814000",
+      "timezone": "America/Lima",
+      "wikiDataId": "Q105037",
+      "country_code": "PE",
+      "state_code": "CAL",
+      "state_id": 3701,
+      "country_id": 173
+    }
+  ]
+}

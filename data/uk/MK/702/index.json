@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Північна Македонія",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 677,
+    "code": "702",
+    "iso2": "702",
+    "iso3166_2": "MK-702",
+    "fips_code": "52",
+    "name": "Крива Паланка",
+    "name_default": "Kriva Palanka",
+    "native": "Крива Паланка",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 13481,
+    "latitude": "42.20584540",
+    "longitude": "22.33079650",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1422453",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67459,
+      "name": "Крива Паланка",
+      "name_default": "Kriva Palanka",
+      "native": "Крива Паланка",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 20820,
+      "latitude": "42.20088000",
+      "longitude": "22.33244000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q1977737",
+      "country_code": "MK",
+      "state_code": "702",
+      "state_id": 677,
+      "country_id": 129
+    }
+  ]
+}

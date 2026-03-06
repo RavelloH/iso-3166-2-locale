@@ -1,0 +1,84 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 132,
+    "code": "MY",
+    "iso3": "MYS",
+    "numeric_code": "458",
+    "name": "Malaysia",
+    "name_default": "Malaysia",
+    "native": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "phonecode": "60",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "population": 34231700,
+    "gdp": 444984,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Malaysian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
+  },
+  "state": {
+    "id": 1945,
+    "code": "16",
+    "iso2": "16",
+    "iso3166_2": "MY-16",
+    "fips_code": "17",
+    "name": "Putrajaya",
+    "name_default": "Putrajaya",
+    "native": "Putrajaya",
+    "type": "federal territory",
+    "level": "1",
+    "parent_id": null,
+    "population": 119700,
+    "latitude": "2.93843810",
+    "longitude": "101.69223000",
+    "timezone": "Asia/Kuala_Lumpur",
+    "wikiDataId": "Q182378",
+    "country_code": "MY"
+  },
+  "cities": [
+    {
+      "id": 76549,
+      "name": "Putrajaya",
+      "name_default": "Putrajaya",
+      "native": "Putrajaya",
+      "type": "gov_seat",
+      "level": null,
+      "parent_id": null,
+      "population": 50000,
+      "latitude": "2.93527000",
+      "longitude": "101.69112000",
+      "timezone": "Asia/Kuala_Lumpur",
+      "wikiDataId": "Q1011949",
+      "country_code": "MY",
+      "state_code": "16",
+      "state_id": 1945,
+      "country_id": 132
+    }
+  ]
+}

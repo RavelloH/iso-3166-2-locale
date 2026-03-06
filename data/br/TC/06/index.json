@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 227,
+    "code": "TC",
+    "iso3": "TCA",
+    "numeric_code": "796",
+    "name": "Inizi Turks ha Caicos",
+    "name_default": "Turks and Caicos Islands",
+    "native": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tc",
+    "population": 50894,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Turks and Caicos Island",
+    "timezones": [
+      {
+        "zoneName": "America/Grand_Turk",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "latitude": "21.75000000",
+    "longitude": "-71.58333333",
+    "emoji": "🇹🇨",
+    "emojiU": "U+1F1F9 U+1F1E8"
+  },
+  "state": {
+    "id": 5368,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "TC-06",
+    "fips_code": "06",
+    "name": "Salt Cay",
+    "name_default": "Salt Cay",
+    "native": "Salt Cay",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "21.32283950",
+    "longitude": "-71.20779090",
+    "timezone": "America/Grand_Turk",
+    "wikiDataId": "Q426843",
+    "country_code": "TC"
+  },
+  "cities": []
+}

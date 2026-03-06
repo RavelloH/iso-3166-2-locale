@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 237,
+    "code": "VU",
+    "iso3": "VUT",
+    "numeric_code": "548",
+    "name": "瓦努阿图",
+    "name_default": "Vanuatu",
+    "native": "Vanuatu",
+    "capital": "Port Vila",
+    "phonecode": "678",
+    "currency": "VUV",
+    "currency_name": "Vanuatu vatu",
+    "currency_symbol": "VT",
+    "tld": ".vu",
+    "population": 321409,
+    "gdp": 1267,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Ni-Vanuatu, Vanuatuan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Efate",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "VUT",
+        "tzName": "Vanuatu Time"
+      }
+    ],
+    "latitude": "-16.00000000",
+    "longitude": "167.00000000",
+    "emoji": "🇻🇺",
+    "emojiU": "U+1F1FB U+1F1FA"
+  },
+  "state": {
+    "id": 4772,
+    "code": "TOB",
+    "iso2": "TOB",
+    "iso3166_2": "VU-TOB",
+    "fips_code": "07",
+    "name": "托尔巴",
+    "name_default": "Torba",
+    "native": "Torba",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-13.66441350",
+    "longitude": "167.17416360",
+    "timezone": "Pacific/Efate",
+    "wikiDataId": "Q822514",
+    "country_code": "VU"
+  },
+  "cities": [
+    {
+      "id": 130642,
+      "name": "索拉",
+      "name_default": "Sola",
+      "native": "Sola",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1065,
+      "latitude": "-13.87611000",
+      "longitude": "167.55167000",
+      "timezone": "Pacific/Efate",
+      "wikiDataId": "Q1423143",
+      "country_code": "VU",
+      "state_code": "TOB",
+      "state_id": 4772,
+      "country_id": 237
+    }
+  ]
+}

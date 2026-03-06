@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Island",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5595,
+    "code": "SBT",
+    "iso2": "SBT",
+    "iso3166_2": "IS-SBT",
+    "fips_code": null,
+    "name": "Svalbarðsströnd",
+    "name_default": "Svalbardsstrandarhreppur",
+    "native": "Svalbardsstrandarhreppur",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.27000000",
+    "longitude": "-21.17000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q2370596",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135221,
+      "name": "Svalbarðsstrandarhreppur",
+      "name_default": "Svalbarðsstrandarhreppur",
+      "native": "Svalbarðsstrandarhreppur",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 504,
+      "latitude": "65.74138000",
+      "longitude": "-18.03513000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1225664",
+      "country_code": "IS",
+      "state_code": "SBT",
+      "state_id": 5595,
+      "country_id": 100
+    }
+  ]
+}

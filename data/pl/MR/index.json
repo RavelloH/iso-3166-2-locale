@@ -1,0 +1,55 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 139,
+    "code": "MR",
+    "iso3": "MRT",
+    "numeric_code": "478",
+    "name": "Mauretania",
+    "name_default": "Mauritania",
+    "native": "موريتانيا",
+    "capital": "Nouakchott",
+    "phonecode": "222",
+    "currency": "MRU",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "UM",
+    "tld": ".mr",
+    "population": 4927532,
+    "gdp": 11470,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Mauritanian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "20.00000000",
+    "longitude": "-12.00000000",
+    "emoji": "🇲🇷",
+    "emojiU": "U+1F1F2 U+1F1F7"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 158,
+    "code": "NZ",
+    "iso3": "NZL",
+    "numeric_code": "554",
+    "name": "Neuseeland",
+    "name_default": "New Zealand",
+    "native": "New Zealand",
+    "capital": "Wellington",
+    "phonecode": "64",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "population": 5324700,
+    "gdp": 248666,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "New Zealand, NZ",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  },
+  "state": {
+    "id": 4063,
+    "code": "MBH",
+    "iso2": "MBH",
+    "iso3166_2": "NZ-MBH",
+    "fips_code": "F4",
+    "name": "Marlborough",
+    "name_default": "Marlborough",
+    "native": "Marlborough",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-41.47447470",
+    "longitude": "173.83302630",
+    "timezone": "Pacific/Auckland",
+    "wikiDataId": "Q140083",
+    "country_code": "NZ"
+  },
+  "cities": [
+    {
+      "id": 79775,
+      "name": "Blenheim",
+      "name_default": "Blenheim",
+      "native": "Blenheim",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 28200,
+      "latitude": "-41.51603000",
+      "longitude": "173.95280000",
+      "timezone": "Pacific/Auckland",
+      "wikiDataId": "Q883831",
+      "country_code": "NZ",
+      "state_code": "MBH",
+      "state_id": 4063,
+      "country_id": 158
+    },
+    {
+      "id": 79860,
+      "name": "Picton",
+      "name_default": "Picton",
+      "native": "Picton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4730,
+      "latitude": "-41.29067000",
+      "longitude": "174.00801000",
+      "timezone": "Pacific/Auckland",
+      "wikiDataId": "Q1362879",
+      "country_code": "NZ",
+      "state_code": "MBH",
+      "state_id": 4063,
+      "country_id": 158
+    }
+  ]
+}

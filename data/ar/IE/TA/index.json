@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 105,
+    "code": "IE",
+    "iso3": "IRL",
+    "numeric_code": "372",
+    "name": "أيرلندا",
+    "name_default": "Ireland",
+    "native": "Éire",
+    "capital": "Dublin",
+    "phonecode": "353",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ie",
+    "population": 5458600,
+    "gdp": 598840,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Irish",
+    "timezones": [
+      {
+        "zoneName": "Europe/Dublin",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "53.00000000",
+    "longitude": "-8.00000000",
+    "emoji": "🇮🇪",
+    "emojiU": "U+1F1EE U+1F1EA"
+  },
+  "state": {
+    "id": 1069,
+    "code": "TA",
+    "iso2": "TA",
+    "iso3166_2": "IE-TA",
+    "fips_code": "26",
+    "name": "تيبيراري",
+    "name_default": "Tipperary",
+    "native": "Tipperary",
+    "type": "county",
+    "level": "1",
+    "parent_id": "1080",
+    "population": null,
+    "latitude": "52.47378940",
+    "longitude": "-8.16185140",
+    "timezone": "Europe/Dublin",
+    "wikiDataId": "Q184618",
+    "country_code": "IE"
+  },
+  "cities": []
+}

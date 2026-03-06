@@ -1,0 +1,58 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "Italija",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1708,
+    "code": "RE",
+    "iso2": "RE",
+    "iso3166_2": "IT-RE",
+    "fips_code": "02",
+    "name": "Reggio Emilia",
+    "name_default": "Reggio Emilia",
+    "native": "Reggio Emilia",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1773",
+    "population": 172518,
+    "latitude": "44.60866740",
+    "longitude": "10.59406670",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16254",
+    "country_code": "IT"
+  },
+  "cities": []
+}

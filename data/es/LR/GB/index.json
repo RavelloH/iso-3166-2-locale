@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "Liberia",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3040,
+    "code": "GB",
+    "iso2": "GB",
+    "iso3166_2": "LR-GB",
+    "fips_code": "11",
+    "name": "Gran Bassa",
+    "name_default": "Grand Bassa",
+    "native": "Grand Bassa",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 293557,
+    "latitude": "6.16406210",
+    "longitude": "-9.89566900",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q1047895",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66549,
+      "name": "Buchanan",
+      "name_default": "Buchanan",
+      "native": "Buchanan",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 75854,
+      "latitude": "5.87693000",
+      "longitude": "-10.04964000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q269222",
+      "country_code": "LR",
+      "state_code": "GB",
+      "state_id": 3040,
+      "country_id": 123
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 130,
+    "code": "MG",
+    "iso3": "MDG",
+    "numeric_code": "450",
+    "name": "Madagascar",
+    "name_default": "Madagascar",
+    "native": "Madagasikara",
+    "capital": "Antananarivo",
+    "phonecode": "261",
+    "currency": "MGA",
+    "currency_name": "Malagasy ariary",
+    "currency_symbol": "Ar",
+    "tld": ".mg",
+    "population": 31727042,
+    "gdp": 18708,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Malagasy",
+    "timezones": [
+      {
+        "zoneName": "Indian/Antananarivo",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "-20.00000000",
+    "longitude": "47.00000000",
+    "emoji": "🇲🇬",
+    "emojiU": "U+1F1F2 U+1F1EC"
+  },
+  "state": {
+    "id": 2952,
+    "code": "A",
+    "iso2": "A",
+    "iso3166_2": "MG-A",
+    "fips_code": "04",
+    "name": "Toamasina",
+    "name_default": "Toamasina",
+    "native": "Toamasina",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 325857,
+    "latitude": "-18.15539850",
+    "longitude": "49.40983520",
+    "timezone": "Indian/Antananarivo",
+    "wikiDataId": "Q639418",
+    "country_code": "MG"
+  },
+  "cities": []
+}

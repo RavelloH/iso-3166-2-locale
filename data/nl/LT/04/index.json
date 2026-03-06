@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 126,
+    "code": "LT",
+    "iso3": "LTU",
+    "numeric_code": "440",
+    "name": "Litouwen",
+    "name_default": "Lithuania",
+    "native": "Lietuva",
+    "capital": "Vilnius",
+    "phonecode": "370",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "population": 2894548,
+    "gdp": 89192,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Lithuanian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  },
+  "state": {
+    "id": 5346,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "LT-04",
+    "fips_code": "60",
+    "name": "Anykščiai",
+    "name_default": "Anykščiai",
+    "native": "Anykščiai",
+    "type": "district municipality",
+    "level": "1",
+    "parent_id": "1621",
+    "population": null,
+    "latitude": "55.52579350",
+    "longitude": "25.10612470",
+    "timezone": "Europe/Vilnius",
+    "wikiDataId": "Q2089772",
+    "country_code": "LT"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "몰타",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 104,
+    "code": "56",
+    "iso2": "56",
+    "iso3166_2": "MT-56",
+    "fips_code": "58",
+    "name": "슬리에마",
+    "name_default": "Sliema",
+    "native": "Sliema",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 22591,
+    "latitude": "35.91100810",
+    "longitude": "14.50290400",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q39526",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67811,
+      "name": "슬리에마",
+      "name_default": "Sliema",
+      "native": "Sliema",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 22591,
+      "latitude": "35.91250000",
+      "longitude": "14.50194000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q39526",
+      "country_code": "MT",
+      "state_code": "56",
+      "state_id": 104,
+      "country_id": 135
+    }
+  ]
+}

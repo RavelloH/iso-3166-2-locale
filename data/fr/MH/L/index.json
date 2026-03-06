@@ -1,0 +1,65 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 137,
+    "code": "MH",
+    "iso3": "MHL",
+    "numeric_code": "584",
+    "name": "Îles Marshall",
+    "name_default": "Marshall Islands",
+    "native": "M̧ajeļ",
+    "capital": "Majuro",
+    "phonecode": "692",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".mh",
+    "population": 42418,
+    "gdp": 297,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Marshallese",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Kwajalein",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Majuro",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      }
+    ],
+    "latitude": "9.00000000",
+    "longitude": "168.00000000",
+    "emoji": "🇲🇭",
+    "emojiU": "U+1F1F2 U+1F1ED"
+  },
+  "state": {
+    "id": 2574,
+    "code": "L",
+    "iso2": "L",
+    "iso3166_2": "MH-L",
+    "fips_code": "17",
+    "name": "Ralik",
+    "name_default": "Ralik",
+    "native": "Titled",
+    "type": "chain",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "8.23081700",
+    "longitude": "167.79532240",
+    "timezone": "Pacific/Kwajalein",
+    "wikiDataId": "Q697840",
+    "country_code": "MH"
+  },
+  "cities": []
+}

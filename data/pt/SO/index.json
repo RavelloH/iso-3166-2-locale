@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 203,
+    "code": "SO",
+    "iso3": "SOM",
+    "numeric_code": "706",
+    "name": "Somália",
+    "name_default": "Somalia",
+    "native": "Soomaaliya",
+    "capital": "Mogadishu",
+    "phonecode": "252",
+    "currency": "SOS",
+    "currency_name": "Somali shilling",
+    "currency_symbol": "Sh.so.",
+    "tld": ".so",
+    "population": 19655000,
+    "gdp": 12994,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Somali, Somalian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mogadishu",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "10.00000000",
+    "longitude": "49.00000000",
+    "emoji": "🇸🇴",
+    "emojiU": "U+1F1F8 U+1F1F4"
+  },
+  "states": [
+    "AW",
+    "BK",
+    "BN",
+    "BR",
+    "BY",
+    "GA",
+    "GE",
+    "HI",
+    "JD",
+    "JH",
+    "MU",
+    "NU",
+    "SA",
+    "SD",
+    "SH",
+    "SO",
+    "TO",
+    "WO"
+  ]
+}

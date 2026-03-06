@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 55,
+    "code": "HR",
+    "iso3": "HRV",
+    "numeric_code": "191",
+    "name": "Kroatien",
+    "name_default": "Croatia",
+    "native": "Hrvatska",
+    "capital": "Zagreb",
+    "phonecode": "385",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".hr",
+    "population": 3866233,
+    "gdp": 98951,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Croatian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  },
+  "state": {
+    "id": 5069,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "HR-04",
+    "fips_code": "05",
+    "name": "Karlovac",
+    "name_default": "Karlovac",
+    "native": "Karlovac",
+    "type": "county",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "45.48925220",
+    "longitude": "15.54863030",
+    "timezone": "Europe/Zagreb",
+    "wikiDataId": "Q57071",
+    "country_code": "HR"
+  },
+  "cities": []
+}

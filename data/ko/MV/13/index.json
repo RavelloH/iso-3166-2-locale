@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 133,
+    "code": "MV",
+    "iso3": "MDV",
+    "numeric_code": "462",
+    "name": "몰디브",
+    "name_default": "Maldives",
+    "native": "Maldives",
+    "capital": "Male",
+    "phonecode": "960",
+    "currency": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "tld": ".mv",
+    "population": 515132,
+    "gdp": 7480,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Maldivian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Maldives",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MVT",
+        "tzName": "Maldives Time"
+      }
+    ],
+    "latitude": "3.25000000",
+    "longitude": "73.00000000",
+    "emoji": "🇲🇻",
+    "emojiU": "U+1F1F2 U+1F1FB"
+  },
+  "state": {
+    "id": 2602,
+    "code": "13",
+    "iso2": "13",
+    "iso3166_2": "MV-13",
+    "fips_code": "44",
+    "name": "라아",
+    "name_default": "Raa",
+    "native": "ރާ",
+    "type": "administrative atoll",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "5.66094850",
+    "longitude": "72.76816450",
+    "timezone": "Indian/Maldives",
+    "wikiDataId": "Q1457965",
+    "country_code": "MV"
+  },
+  "cities": [
+    {
+      "id": 67941,
+      "name": "우구파루",
+      "name_default": "Ugoofaaru",
+      "native": "އުގޯބާ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1575,
+      "latitude": "5.66812000",
+      "longitude": "73.03017000",
+      "timezone": "Indian/Maldives",
+      "wikiDataId": "Q2147686",
+      "country_code": "MV",
+      "state_code": "13",
+      "state_id": 2602,
+      "country_id": 133
+    }
+  ]
+}

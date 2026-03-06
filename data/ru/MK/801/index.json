@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Северная Македония",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 703,
+    "code": "801",
+    "iso2": "801",
+    "iso3166_2": "MK-801",
+    "fips_code": "F3",
+    "name": "Аэродром",
+    "name_default": "Aerodrom",
+    "native": "Аеродром",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "41.96780280",
+    "longitude": "21.50902200",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1992708",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67546,
+      "name": "Usje",
+      "name_default": "Usje",
+      "native": "Усје",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1035,
+      "latitude": "41.95871000",
+      "longitude": "21.45835000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q20931808",
+      "country_code": "MK",
+      "state_code": "801",
+      "state_id": 703,
+      "country_id": 129
+    }
+  ]
+}

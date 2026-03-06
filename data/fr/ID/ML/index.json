@@ -1,0 +1,79 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 102,
+    "code": "ID",
+    "iso3": "IDN",
+    "numeric_code": "360",
+    "name": "Indonésie",
+    "name_default": "Indonesia",
+    "native": "Indonesia",
+    "capital": "Jakarta",
+    "phonecode": "62",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "population": 284438782,
+    "gdp": 1429743,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Indonesian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  },
+  "state": {
+    "id": 5620,
+    "code": "ML",
+    "iso2": "ML",
+    "iso3166_2": "ID-ML",
+    "fips_code": null,
+    "name": "Moluques",
+    "name_default": "Maluku",
+    "native": "Maluku",
+    "type": "geographical unit",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-3.00000000",
+    "longitude": "129.00000000",
+    "timezone": "Asia/Jayapura",
+    "wikiDataId": "Q3827",
+    "country_code": "ID"
+  },
+  "cities": []
+}

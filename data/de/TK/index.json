@@ -1,0 +1,39 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 221,
+    "code": "TK",
+    "iso3": "TKL",
+    "numeric_code": "772",
+    "name": "Tokelau",
+    "name_default": "Tokelau",
+    "native": "Tokelau",
+    "capital": "",
+    "phonecode": "690",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".tk",
+    "population": 1647,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Tokelauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fakaofo",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "TKT",
+        "tzName": "Tokelau Time"
+      }
+    ],
+    "latitude": "-9.00000000",
+    "longitude": "-172.00000000",
+    "emoji": "🇹🇰",
+    "emojiU": "U+1F1F9 U+1F1F0"
+  },
+  "states": []
+}

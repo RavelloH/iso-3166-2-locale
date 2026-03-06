@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 145,
+    "code": "MC",
+    "iso3": "MCO",
+    "numeric_code": "492",
+    "name": "Principato di Monaco",
+    "name_default": "Monaco",
+    "native": "Monaco",
+    "capital": "Monaco",
+    "phonecode": "377",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mc",
+    "population": 38423,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Monegasque, Monacan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Monaco",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.73333333",
+    "longitude": "7.40000000",
+    "emoji": "🇲🇨",
+    "emojiU": "U+1F1F2 U+1F1E8"
+  },
+  "state": {
+    "id": 5673,
+    "code": "MA",
+    "iso2": "MA",
+    "iso3166_2": "MC-MA",
+    "fips_code": null,
+    "name": "Malbousquet",
+    "name_default": "Malbousquet",
+    "native": "Malbousquet",
+    "type": "quarter",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.73450000",
+    "longitude": "7.42150000",
+    "timezone": "Europe/Monaco",
+    "wikiDataId": null,
+    "country_code": "MC"
+  },
+  "cities": [
+    {
+      "id": 160053,
+      "name": "Malbousquet",
+      "name_default": "Malbousquet",
+      "native": "Malbousquet",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.73450000",
+      "longitude": "7.42150000",
+      "timezone": "Europe/Monaco",
+      "wikiDataId": null,
+      "country_code": "MC",
+      "state_code": "MA",
+      "state_id": 5673,
+      "country_id": 145
+    }
+  ]
+}

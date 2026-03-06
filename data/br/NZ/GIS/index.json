@@ -1,0 +1,84 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 158,
+    "code": "NZ",
+    "iso3": "NZL",
+    "numeric_code": "554",
+    "name": "Zeland-Nevez",
+    "name_default": "New Zealand",
+    "native": "New Zealand",
+    "capital": "Wellington",
+    "phonecode": "64",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "population": 5324700,
+    "gdp": 248666,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "New Zealand, NZ",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  },
+  "state": {
+    "id": 4068,
+    "code": "GIS",
+    "iso2": "GIS",
+    "iso3166_2": "NZ-GIS",
+    "fips_code": "F1",
+    "name": "Gisborne",
+    "name_default": "Gisborne",
+    "native": "Gisborne",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-38.15322870",
+    "longitude": "178.13675240",
+    "timezone": "Pacific/Auckland",
+    "wikiDataId": "Q140246",
+    "country_code": "NZ"
+  },
+  "cities": [
+    {
+      "id": 79796,
+      "name": "Gisborne",
+      "name_default": "Gisborne",
+      "native": "Gisborne",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 37000,
+      "latitude": "-38.65333000",
+      "longitude": "178.00417000",
+      "timezone": "Pacific/Auckland",
+      "wikiDataId": "Q233467",
+      "country_code": "NZ",
+      "state_code": "GIS",
+      "state_id": 4068,
+      "country_id": 158
+    }
+  ]
+}

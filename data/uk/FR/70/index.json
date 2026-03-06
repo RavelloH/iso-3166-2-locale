@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "Франція",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 5039,
+    "code": "70",
+    "iso2": "70",
+    "iso3166_2": "FR-70",
+    "fips_code": null,
+    "name": "Верхня Сона",
+    "name_default": "Haute-Saône",
+    "native": "Haute-Saône",
+    "type": "metropolitan department",
+    "level": "2",
+    "parent_id": "4820",
+    "population": 233920,
+    "latitude": "47.63842330",
+    "longitude": "6.09511410",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q12730",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 124,
+    "code": "LY",
+    "iso3": "LBY",
+    "numeric_code": "434",
+    "name": "Libia",
+    "name_default": "Libya",
+    "native": "‏ليبيا",
+    "capital": "Tripolis",
+    "phonecode": "218",
+    "currency": "LYD",
+    "currency_name": "Libyan dinar",
+    "currency_symbol": "د.ل",
+    "tld": ".ly",
+    "population": 7459000,
+    "gdp": 47484,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Libyan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tripoli",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "25.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇱🇾",
+    "emojiU": "U+1F1F1 U+1F1FE"
+  },
+  "state": {
+    "id": 2979,
+    "code": "JI",
+    "iso2": "JI",
+    "iso3166_2": "LY-JI",
+    "fips_code": "81",
+    "name": "Jafara",
+    "name_default": "Jafara",
+    "native": "جفارة",
+    "type": "popularate",
+    "level": null,
+    "parent_id": null,
+    "population": 548855,
+    "latitude": "32.55879160",
+    "longitude": "13.07070240",
+    "timezone": "Africa/Tripoli",
+    "wikiDataId": "Q329060",
+    "country_code": "LY"
+  },
+  "cities": [
+    {
+      "id": 67004,
+      "name": "Al ‘Azīzīyah",
+      "name_default": "Al ‘Azīzīyah",
+      "native": "العزيزية",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 52404,
+      "latitude": "32.53194000",
+      "longitude": "13.01750000",
+      "timezone": "Africa/Tripoli",
+      "wikiDataId": "Q312307",
+      "country_code": "LY",
+      "state_code": "JI",
+      "state_id": 2979,
+      "country_id": 124
+    }
+  ]
+}

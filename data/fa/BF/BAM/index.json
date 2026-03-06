@@ -1,0 +1,58 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "بورکینافاسو",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3155,
+    "code": "BAM",
+    "iso2": "BAM",
+    "iso3166_2": "BF-BAM",
+    "fips_code": "15",
+    "name": "بم",
+    "name_default": "Bam",
+    "native": "Bam",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3127",
+    "population": null,
+    "latitude": "13.46811500",
+    "longitude": "-1.59866370",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q620710",
+    "country_code": "BF"
+  },
+  "cities": []
+}

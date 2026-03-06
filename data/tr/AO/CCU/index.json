@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 7,
+    "code": "AO",
+    "iso3": "AGO",
+    "numeric_code": "024",
+    "name": "Angola",
+    "name_default": "Angola",
+    "native": "Angola",
+    "capital": "Luanda",
+    "phonecode": "244",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "population": 36170961,
+    "gdp": 113343,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Angolan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  },
+  "state": {
+    "id": 226,
+    "code": "CCU",
+    "iso2": "CCU",
+    "iso3166_2": "AO-CCU",
+    "fips_code": "04",
+    "name": "Cuando Cubango",
+    "name_default": "Cuando Cubango",
+    "native": "Quando Cubango",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 534002,
+    "latitude": "-16.04576940",
+    "longitude": "19.56215320",
+    "timezone": "Africa/Luanda",
+    "wikiDataId": "Q215268",
+    "country_code": "AO"
+  },
+  "cities": [
+    {
+      "id": 625,
+      "name": "Menongue",
+      "name_default": "Menongue",
+      "native": "Visual",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 251178,
+      "latitude": "-14.65850000",
+      "longitude": "17.69099000",
+      "timezone": "Africa/Luanda",
+      "wikiDataId": "Q818731",
+      "country_code": "AO",
+      "state_code": "CCU",
+      "state_id": 226,
+      "country_id": 7
+    }
+  ]
+}

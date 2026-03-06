@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 2,
+    "code": "AX",
+    "iso3": "ALA",
+    "numeric_code": "248",
+    "name": "Åland",
+    "name_default": "Aland Islands",
+    "native": "Åland",
+    "capital": "Mariehamn",
+    "phonecode": "358",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ax",
+    "population": 30654,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Aland Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "emoji": "🇦🇽",
+    "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  "state": {
+    "id": 5292,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "AX-06",
+    "fips_code": "06",
+    "name": "Hammarland",
+    "name_default": "Hammarland",
+    "native": "Hammarland",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 1640,
+    "latitude": "60.21967580",
+    "longitude": "19.73784810",
+    "timezone": "Europe/Mariehamn",
+    "wikiDataId": "Q134685",
+    "country_code": "AX"
+  },
+  "cities": []
+}

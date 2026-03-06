@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 2,
+    "code": "AX",
+    "iso3": "ALA",
+    "numeric_code": "248",
+    "name": "جزر آلاند",
+    "name_default": "Aland Islands",
+    "native": "Åland",
+    "capital": "Mariehamn",
+    "phonecode": "358",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ax",
+    "population": 30654,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Aland Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "emoji": "🇦🇽",
+    "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  "state": {
+    "id": 5301,
+    "code": "15",
+    "iso2": "15",
+    "iso3166_2": "AX-15",
+    "fips_code": "15",
+    "name": "كوكار",
+    "name_default": "Kökar",
+    "native": "Kökar",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "59.92117090",
+    "longitude": "20.91035140",
+    "timezone": "Europe/Mariehamn",
+    "wikiDataId": "Q179730",
+    "country_code": "AX"
+  },
+  "cities": []
+}

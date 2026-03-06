@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 25,
+    "code": "BM",
+    "iso3": "BMU",
+    "numeric_code": "060",
+    "name": "Бермуды",
+    "name_default": "Bermuda",
+    "native": "Bermuda",
+    "capital": "Hamilton",
+    "phonecode": "1",
+    "currency": "BMD",
+    "currency_name": "Bermudian dollar",
+    "currency_symbol": "$",
+    "tld": ".bm",
+    "population": 64055,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Bermudian, Bermudan",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Bermuda",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "32.33333333",
+    "longitude": "-64.75000000",
+    "emoji": "🇧🇲",
+    "emojiU": "U+1F1E7 U+1F1F2"
+  },
+  "state": {
+    "id": 4869,
+    "code": "SOU",
+    "iso2": "SOU",
+    "iso3166_2": "BM-SOU",
+    "fips_code": "10",
+    "name": "Саутгемптон",
+    "name_default": "Southampton",
+    "native": "Southampton",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "32.25179590",
+    "longitude": "-64.84969890",
+    "timezone": "Atlantic/Bermuda",
+    "wikiDataId": "Q1323054",
+    "country_code": "BM"
+  },
+  "cities": [
+    {
+      "id": 153511,
+      "name": "Саутгемптон",
+      "name_default": "Southampton",
+      "native": "Southampton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "32.24900000",
+      "longitude": "-64.86100000",
+      "timezone": "Atlantic/Bermuda",
+      "wikiDataId": "Q575093",
+      "country_code": "BM",
+      "state_code": "SOU",
+      "state_id": 4869,
+      "country_id": 25
+    }
+  ]
+}

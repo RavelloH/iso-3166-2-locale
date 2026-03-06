@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 8,
+    "code": "AI",
+    "iso3": "AIA",
+    "numeric_code": "660",
+    "name": "Anguilla",
+    "name_default": "Anguilla",
+    "native": "Anguilla",
+    "capital": "The Valley",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".ai",
+    "population": 16010,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Anguillan",
+    "timezones": [
+      {
+        "zoneName": "America/Anguilla",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-63.16666666",
+    "emoji": "🇦🇮",
+    "emojiU": "U+1F1E6 U+1F1EE"
+  },
+  "state": {
+    "id": 5274,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "AI-02",
+    "fips_code": "02",
+    "name": "East End",
+    "name_default": "East End",
+    "native": "East End",
+    "type": "district",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.23426290",
+    "longitude": "-62.99737400",
+    "timezone": "America/Anguilla",
+    "wikiDataId": "Q5328283",
+    "country_code": "AI"
+  },
+  "cities": []
+}

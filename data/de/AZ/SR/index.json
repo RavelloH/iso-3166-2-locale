@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Aserbaidschan",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 520,
+    "code": "SR",
+    "iso2": "SR",
+    "iso3166_2": "AZ-SR",
+    "fips_code": "07",
+    "name": "Schirwan",
+    "name_default": "Shirvan",
+    "native": "Şirvan",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "39.92965730",
+    "longitude": "48.93426570",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q241116",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8212,
+      "name": "Shirvan",
+      "name_default": "Şirvan",
+      "native": "Şirvan",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 70220,
+      "latitude": "39.93778000",
+      "longitude": "48.92900000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q2159352",
+      "country_code": "AZ",
+      "state_code": "SR",
+      "state_id": 520,
+      "country_id": 16
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3202,
+    "code": "BR",
+    "iso2": "BR",
+    "iso3166_2": "BI-BR",
+    "fips_code": "10",
+    "name": "Bururi",
+    "name_default": "Bururi",
+    "native": "Bururi",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 20764,
+    "latitude": "-3.85815920",
+    "longitude": "29.58437900",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q431385",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9764,
+      "name": "Bururi",
+      "name_default": "Bururi",
+      "native": "Bururi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6929,
+      "latitude": "-3.94877000",
+      "longitude": "29.62438000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q992247",
+      "country_code": "BI",
+      "state_code": "BR",
+      "state_id": 3202,
+      "country_id": 36
+    }
+  ]
+}

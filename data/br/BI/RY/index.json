@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3191,
+    "code": "RY",
+    "iso2": "RY",
+    "iso3166_2": "BI-RY",
+    "fips_code": "21",
+    "name": "Ruyigi",
+    "name_default": "Ruyigi",
+    "native": "Ruyigi",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 44220,
+    "latitude": "-3.47334710",
+    "longitude": "30.25012780",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q822578",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9778,
+      "name": "Ruyigi",
+      "name_default": "Ruyigi",
+      "native": "Ruyigi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 11046,
+      "latitude": "-3.47639000",
+      "longitude": "30.24861000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q1018116",
+      "country_code": "BI",
+      "state_code": "RY",
+      "state_id": 3191,
+      "country_id": 36
+    }
+  ]
+}

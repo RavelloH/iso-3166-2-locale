@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 119,
+    "code": "LA",
+    "iso3": "LAO",
+    "numeric_code": "418",
+    "name": "ラオス人民民主共和国",
+    "name_default": "Laos",
+    "native": "ສປປລາວ",
+    "capital": "Vientiane",
+    "phonecode": "856",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "population": 7647000,
+    "gdp": 16322,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Lao, Laotian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  },
+  "state": {
+    "id": 978,
+    "code": "LP",
+    "iso2": "LP",
+    "iso3166_2": "LA-LP",
+    "fips_code": "17",
+    "name": "ルアンパバーン",
+    "name_default": "Luang Prabang",
+    "native": "ຫຼວງພະບາງ",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 55027,
+    "latitude": "20.21154150",
+    "longitude": "102.61268400",
+    "timezone": "Asia/Vientiane",
+    "wikiDataId": "Q747881",
+    "country_code": "LA"
+  },
+  "cities": [
+    {
+      "id": 65865,
+      "name": "ルアンパバーン",
+      "name_default": "Luang Prabang",
+      "native": "ຫຼວງພະບາງ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 53792,
+      "latitude": "19.88601000",
+      "longitude": "102.13503000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q190165",
+      "country_code": "LA",
+      "state_code": "LP",
+      "state_id": 978,
+      "country_id": 119
+    }
+  ]
+}

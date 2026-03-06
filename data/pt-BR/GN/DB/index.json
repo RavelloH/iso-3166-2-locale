@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 92,
+    "code": "GN",
+    "iso3": "GIN",
+    "numeric_code": "324",
+    "name": "Guiné",
+    "name_default": "Guinea",
+    "native": "Guinée",
+    "capital": "Conakry",
+    "phonecode": "224",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "population": 14363931,
+    "gdp": 30094,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  },
+  "state": {
+    "id": 2679,
+    "code": "DB",
+    "iso2": "DB",
+    "iso3166_2": "GN-DB",
+    "fips_code": "05",
+    "name": "Dabola",
+    "name_default": "Dabola",
+    "native": "Dabole",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "5344",
+    "population": 38617,
+    "latitude": "10.74217200",
+    "longitude": "-11.10648600",
+    "timezone": "Africa/Conakry",
+    "wikiDataId": "Q1156587",
+    "country_code": "GN"
+  },
+  "cities": []
+}

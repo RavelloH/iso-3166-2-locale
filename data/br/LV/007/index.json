@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "Latvia",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4487,
+    "code": "007",
+    "iso2": "007",
+    "iso3166_2": "LV-007",
+    "fips_code": "02",
+    "name": "Alūksne",
+    "name_default": "Alūksne",
+    "native": "Alūksne",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 6188,
+    "latitude": "57.42544850",
+    "longitude": "27.04249680",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q3393445",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66875,
+      "name": "Alūksne",
+      "name_default": "Alūksne",
+      "native": "Alūksne",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6188,
+      "latitude": "57.42162000",
+      "longitude": "27.04662000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q291333",
+      "country_code": "LV",
+      "state_code": "007",
+      "state_id": 4487,
+      "country_id": 120
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 169,
+    "code": "PS",
+    "iso3": "PSE",
+    "numeric_code": "275",
+    "name": "Palestina",
+    "name_default": "Palestinian Territory Occupied",
+    "native": "فلسطين",
+    "capital": "East Jerusalem",
+    "phonecode": "970",
+    "currency": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "tld": ".ps",
+    "population": 5483450,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Palestinian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Gaza",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Hebron",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "31.90000000",
+    "longitude": "35.20000000",
+    "emoji": "🇵🇸",
+    "emojiU": "U+1F1F5 U+1F1F8"
+  },
+  "state": {
+    "id": 5120,
+    "code": "GZA",
+    "iso2": "GZA",
+    "iso3166_2": "PS-GZA",
+    "fips_code": null,
+    "name": "Gaza",
+    "name_default": "Gaza",
+    "native": "غزة",
+    "type": "governorate",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "31.48723970",
+    "longitude": "34.14998900",
+    "timezone": "Asia/Gaza",
+    "wikiDataId": "Q762573",
+    "country_code": "PS"
+  },
+  "cities": [
+    {
+      "id": 153965,
+      "name": "Al-Zahra",
+      "name_default": "Al-Zahra",
+      "native": "الزهراء",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "31.47246750",
+      "longitude": "34.37782930",
+      "timezone": "Asia/Gaza",
+      "wikiDataId": "Q310110",
+      "country_code": "PS",
+      "state_code": "GZA",
+      "state_id": 5120,
+      "country_id": 169
+    },
+    {
+      "id": 153964,
+      "name": "Kêr Gaza",
+      "name_default": "Gaza City",
+      "native": "مدينة غزة",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "31.50172950",
+      "longitude": "34.44624480",
+      "timezone": "Asia/Gaza",
+      "wikiDataId": "Q47492",
+      "country_code": "PS",
+      "state_code": "GZA",
+      "state_id": 5120,
+      "country_id": 169
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Slovenia",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4335,
+    "code": "048",
+    "iso2": "048",
+    "iso3166_2": "SI-048",
+    "fips_code": "H7",
+    "name": "Kočevje",
+    "name_default": "Kočevje",
+    "native": "Kočevje",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 8113,
+    "latitude": "45.64280000",
+    "longitude": "14.86158380",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q15884",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104149,
+      "name": "Kočevje",
+      "name_default": "Kočevje",
+      "native": "Kočevje",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 8151,
+      "latitude": "45.64333000",
+      "longitude": "14.86333000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q12958961",
+      "country_code": "SI",
+      "state_code": "048",
+      "state_id": 4335,
+      "country_id": 201
+    }
+  ]
+}

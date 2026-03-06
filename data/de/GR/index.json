@@ -1,0 +1,55 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 85,
+    "code": "GR",
+    "iso3": "GRC",
+    "numeric_code": "300",
+    "name": "Griechenland",
+    "name_default": "Greece",
+    "native": "Ελλάδα",
+    "capital": "Athens",
+    "phonecode": "30",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "population": 10400720,
+    "gdp": 267348,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Greek, Hellenic",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  },
+  "states": [
+    "13",
+    "A",
+    "A2",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ]
+}

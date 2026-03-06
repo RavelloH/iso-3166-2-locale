@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 215,
+    "code": "SY",
+    "iso3": "SYR",
+    "numeric_code": "760",
+    "name": "Siria",
+    "name_default": "Syria",
+    "native": "سوريا",
+    "capital": "Damascus",
+    "phonecode": "963",
+    "currency": "SYP",
+    "currency_name": "Syrian pound",
+    "currency_symbol": "LS",
+    "tld": ".sy",
+    "population": 25620000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Syrian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Damascus",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "35.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇸🇾",
+    "emojiU": "U+1F1F8 U+1F1FE"
+  },
+  "state": {
+    "id": 2939,
+    "code": "DI",
+    "iso2": "DI",
+    "iso3166_2": "SY-DI",
+    "fips_code": "13",
+    "name": "Damasco",
+    "name_default": "Damascus",
+    "native": "دمشق",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "33.51306950",
+    "longitude": "36.30958140",
+    "timezone": "Asia/Damascus",
+    "wikiDataId": "Q2007044",
+    "country_code": "SY"
+  },
+  "cities": [
+    {
+      "id": 104988,
+      "name": "Damasco",
+      "name_default": "Damascus",
+      "native": "دمشق",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1569394,
+      "latitude": "33.51020000",
+      "longitude": "36.29128000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q3766",
+      "country_code": "SY",
+      "state_code": "DI",
+      "state_id": 2939,
+      "country_id": 215
+    }
+  ]
+}

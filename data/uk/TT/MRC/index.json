@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 223,
+    "code": "TT",
+    "iso3": "TTO",
+    "numeric_code": "780",
+    "name": "Тринідад і Тобаго",
+    "name_default": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "phonecode": "1",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "population": 1368333,
+    "gdp": 26467,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Trinidadian or Tobagonian",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
+  },
+  "state": {
+    "id": 3356,
+    "code": "MRC",
+    "iso2": "MRC",
+    "iso3166_2": "TT-MRC",
+    "fips_code": "11",
+    "name": "Ріо-Кларо-Маяро",
+    "name_default": "Rio Claro-Mayaro",
+    "native": "Rio Claro-Mayaro",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 35650,
+    "latitude": "10.25970160",
+    "longitude": "-61.09235030",
+    "timezone": "America/Port_of_Spain",
+    "wikiDataId": "Q2487249",
+    "country_code": "TT"
+  },
+  "cities": [
+    {
+      "id": 108983,
+      "name": "Ріо-Кларо",
+      "name_default": "Rio Claro",
+      "native": "Rio Claro",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 35650,
+      "latitude": "10.30594000",
+      "longitude": "-61.17556000",
+      "timezone": "America/Port_of_Spain",
+      "wikiDataId": "Q514272",
+      "country_code": "TT",
+      "state_code": "MRC",
+      "state_id": 3356,
+      "country_id": 223
+    }
+  ]
+}

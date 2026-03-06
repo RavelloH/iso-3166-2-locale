@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Исландия",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5557,
+    "code": "ASA",
+    "iso2": "ASA",
+    "iso3166_2": "IS-ASA",
+    "fips_code": null,
+    "name": "Аусахреппюр",
+    "name_default": "Ásahreppur",
+    "native": "Ásahreppur",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "63.95000000",
+    "longitude": "-21.50000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q731911",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135229,
+      "name": "Асахреппур",
+      "name_default": "Ásahreppur",
+      "native": "Ásahreppur",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 299,
+      "latitude": "63.87589000",
+      "longitude": "-20.59484000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q252482",
+      "country_code": "IS",
+      "state_code": "ASA",
+      "state_id": 5557,
+      "country_id": 100
+    }
+  ]
+}

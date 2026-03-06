@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "أذربيجان",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 573,
+    "code": "QOB",
+    "iso2": "QOB",
+    "iso3166_2": "AZ-QOB",
+    "fips_code": "41",
+    "name": "قوبوستان",
+    "name_default": "Gobustan",
+    "native": "Onlar idarə edirlər",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "40.53260440",
+    "longitude": "48.99416760",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q457508",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8150,
+      "name": "قبوستان",
+      "name_default": "Qobustan",
+      "native": "Qobustan",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3754,
+      "latitude": "40.53360000",
+      "longitude": "48.92819000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q764030",
+      "country_code": "AZ",
+      "state_code": "QOB",
+      "state_id": 573,
+      "country_id": 16
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 73,
+    "code": "FJ",
+    "iso3": "FJI",
+    "numeric_code": "242",
+    "name": "فیجی",
+    "name_default": "Fiji Islands",
+    "native": "Fiji",
+    "capital": "Suva",
+    "phonecode": "679",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "population": 900869,
+    "gdp": 6257,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Fijian",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  },
+  "state": {
+    "id": 1919,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "FJ-08",
+    "fips_code": "40",
+    "name": "نادروگا-ناوسا",
+    "name_default": "Nadroga-Navosa",
+    "native": "Grahoga-navos",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1923",
+    "population": 58931,
+    "latitude": "-17.98652780",
+    "longitude": "177.65811300",
+    "timezone": "Pacific/Fiji",
+    "wikiDataId": "Q952528",
+    "country_code": "FJ"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "ラトビア",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4400,
+    "code": "033",
+    "iso2": "033",
+    "iso3166_2": "LV-033",
+    "fips_code": "09",
+    "name": "グルベネ",
+    "name_default": "Gulbene",
+    "native": "Gulbene",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 6722,
+    "latitude": "57.17597210",
+    "longitude": "26.75147130",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q209187",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66897,
+      "name": "グルベネ",
+      "name_default": "Gulbene",
+      "native": "Gulbene",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6722,
+      "latitude": "57.17767000",
+      "longitude": "26.75291000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q753010",
+      "country_code": "LV",
+      "state_code": "033",
+      "state_id": 4400,
+      "country_id": 120
+    }
+  ]
+}

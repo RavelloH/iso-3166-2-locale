@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 133,
+    "code": "MV",
+    "iso3": "MDV",
+    "numeric_code": "462",
+    "name": "Malediwy",
+    "name_default": "Maldives",
+    "native": "Maldives",
+    "capital": "Male",
+    "phonecode": "960",
+    "currency": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "tld": ".mv",
+    "population": 515132,
+    "gdp": 7480,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Maldivian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Maldives",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MVT",
+        "tzName": "Maldives Time"
+      }
+    ],
+    "latitude": "3.25000000",
+    "longitude": "73.00000000",
+    "emoji": "🇲🇻",
+    "emojiU": "U+1F1F2 U+1F1FB"
+  },
+  "state": {
+    "id": 2595,
+    "code": "29",
+    "iso2": "29",
+    "iso3166_2": "MV-29",
+    "fips_code": "42",
+    "name": "Gnaviyani",
+    "name_default": "Gnaviyani",
+    "native": "ގްނާވިއަން",
+    "type": "administrative atoll",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-0.20532640",
+    "longitude": "73.25698680",
+    "timezone": "Indian/Maldives",
+    "wikiDataId": "Q1811116",
+    "country_code": "MV"
+  },
+  "cities": [
+    {
+      "id": 67927,
+      "name": "Fuvammulah",
+      "name_default": "Fuvahmulah",
+      "native": "ފުވައްމުލައް",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 11140,
+      "latitude": "-0.29878000",
+      "longitude": "73.42403000",
+      "timezone": "Indian/Maldives",
+      "wikiDataId": "Q2060910",
+      "country_code": "MV",
+      "state_code": "29",
+      "state_id": 2595,
+      "country_id": 133
+    }
+  ]
+}

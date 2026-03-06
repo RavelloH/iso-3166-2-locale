@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 239,
+    "code": "VE",
+    "iso3": "VEN",
+    "numeric_code": "862",
+    "name": "Venezuela",
+    "name_default": "Venezuela",
+    "native": "Venezuela",
+    "capital": "Caracas",
+    "phonecode": "58",
+    "currency": "VES",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "population": 28517000,
+    "gdp": 108511,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Venezuelan",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  },
+  "state": {
+    "id": 2046,
+    "code": "W",
+    "iso2": "W",
+    "iso3166_2": "VE-W",
+    "fips_code": "24",
+    "name": "Venezuela",
+    "name_default": "Venezuela",
+    "native": "Venezuela",
+    "type": "federal dependency",
+    "level": "2",
+    "parent_id": null,
+    "population": null,
+    "latitude": "8.00187090",
+    "longitude": "-66.11093180",
+    "timezone": "America/Caracas",
+    "wikiDataId": "Q130343",
+    "country_code": "VE"
+  },
+  "cities": []
+}

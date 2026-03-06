@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 69,
+    "code": "EE",
+    "iso3": "EST",
+    "numeric_code": "233",
+    "name": "एस्तोनिया",
+    "name_default": "Estonia",
+    "native": "Eesti",
+    "capital": "Tallinn",
+    "phonecode": "372",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "population": 1369995,
+    "gdp": 45004,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Estonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  },
+  "state": {
+    "id": 5736,
+    "code": "130",
+    "iso2": "130",
+    "iso3166_2": "EE-130",
+    "fips_code": null,
+    "name": "अलुटागुसे",
+    "name_default": "Alutaguse",
+    "native": "Alutaguse",
+    "type": "rural municipality",
+    "level": "2",
+    "parent_id": "3569",
+    "population": null,
+    "latitude": "59.11670000",
+    "longitude": "27.45000000",
+    "timezone": "Europe/Tallinn",
+    "wikiDataId": "Q15732413",
+    "country_code": "EE"
+  },
+  "cities": []
+}

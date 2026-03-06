@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Словенія",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4222,
+    "code": "033",
+    "iso2": "033",
+    "iso3166_2": "SI-033",
+    "fips_code": "L4",
+    "name": "Шаловці",
+    "name_default": "Šalovci",
+    "native": "Šalovci",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 392,
+    "latitude": "46.82442710",
+    "longitude": "16.28576600",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q13378373",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104341,
+      "name": "Шаловці",
+      "name_default": "Šalovci",
+      "native": "Šalovci",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 381,
+      "latitude": "46.82500000",
+      "longitude": "16.29806000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q241462",
+      "country_code": "SI",
+      "state_code": "033",
+      "state_id": 4222,
+      "country_id": 201
+    }
+  ]
+}

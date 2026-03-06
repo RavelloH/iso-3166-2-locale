@@ -1,0 +1,56 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 83,
+    "code": "GH",
+    "iso3": "GHA",
+    "numeric_code": "288",
+    "name": "Ghana",
+    "name_default": "Ghana",
+    "native": "Ghana",
+    "capital": "Accra",
+    "phonecode": "233",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "population": 33742380,
+    "gdp": 88332,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Ghanaian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  },
+  "states": [
+    "AA",
+    "AF",
+    "AH",
+    "BE",
+    "BO",
+    "CP",
+    "EP",
+    "NE",
+    "NP",
+    "OT",
+    "SV",
+    "TV",
+    "UE",
+    "UW",
+    "WN",
+    "WP"
+  ]
+}

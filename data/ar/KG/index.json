@@ -1,0 +1,49 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 118,
+    "code": "KG",
+    "iso3": "KGZ",
+    "numeric_code": "417",
+    "name": "قيرغيزستان",
+    "name_default": "Kyrgyzstan",
+    "native": "Кыргызстан",
+    "capital": "Bishkek",
+    "phonecode": "996",
+    "currency": "KGS",
+    "currency_name": "Kyrgyzstani som",
+    "currency_symbol": "лв",
+    "tld": ".kg",
+    "population": 7281800,
+    "gdp": 19849,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Central Asia",
+    "subregion_id": 10,
+    "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bishkek",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "KGT",
+        "tzName": "Kyrgyzstan Time"
+      }
+    ],
+    "latitude": "41.00000000",
+    "longitude": "75.00000000",
+    "emoji": "🇰🇬",
+    "emojiU": "U+1F1F0 U+1F1EC"
+  },
+  "states": [
+    "B",
+    "C",
+    "GB",
+    "GO",
+    "J",
+    "N",
+    "O",
+    "T",
+    "Y"
+  ]
+}

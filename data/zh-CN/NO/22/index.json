@@ -1,0 +1,65 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 165,
+    "code": "NO",
+    "iso3": "NOR",
+    "numeric_code": "578",
+    "name": "挪威",
+    "name_default": "Norway",
+    "native": "Norge",
+    "capital": "Oslo",
+    "phonecode": "47",
+    "currency": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "ko",
+    "tld": ".no",
+    "population": 5606944,
+    "gdp": 504276,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Norwegian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Oslo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Arctic/Longyearbyen",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "62.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇳🇴",
+    "emojiU": "U+1F1F3 U+1F1F4"
+  },
+  "state": {
+    "id": 1026,
+    "code": "22",
+    "iso2": "22",
+    "iso3166_2": "NO-22",
+    "fips_code": "JN",
+    "name": "扬马延岛",
+    "name_default": "Jan Mayen",
+    "native": "Jan Mayen",
+    "type": "arctic region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "70.99314710",
+    "longitude": "-8.35206590",
+    "timezone": "Europe/Oslo",
+    "wikiDataId": "Q14056",
+    "country_code": "NO"
+  },
+  "cities": []
+}

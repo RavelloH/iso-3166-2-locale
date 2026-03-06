@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 70,
+    "code": "ET",
+    "iso3": "ETH",
+    "numeric_code": "231",
+    "name": "Etiopía",
+    "name_default": "Ethiopia",
+    "native": "ኢትዮጵያ",
+    "capital": "Addis Ababa",
+    "phonecode": "251",
+    "currency": "ETB",
+    "currency_name": "Ethiopian birr",
+    "currency_symbol": "Nkf",
+    "tld": ".et",
+    "population": 111652998,
+    "gdp": 117457,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Ethiopian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Addis_Ababa",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇪🇹",
+    "emojiU": "U+1F1EA U+1F1F9"
+  },
+  "state": {
+    "id": 7,
+    "code": "HA",
+    "iso2": "HA",
+    "iso3166_2": "ET-HA",
+    "fips_code": "50",
+    "name": "Harari",
+    "name_default": "Harari",
+    "native": "ሐረሪ",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "9.29055170",
+    "longitude": "42.18856720",
+    "timezone": "Africa/Addis_Ababa",
+    "wikiDataId": "Q1033855",
+    "country_code": "ET"
+  },
+  "cities": [
+    {
+      "id": 38650,
+      "name": "Harar",
+      "name_default": "Harar",
+      "native": "ሐረር",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 157000,
+      "latitude": "9.31387000",
+      "longitude": "42.11815000",
+      "timezone": "Africa/Addis_Ababa",
+      "wikiDataId": "Q190184",
+      "country_code": "ET",
+      "state_code": "HA",
+      "state_id": 7,
+      "country_id": 70
+    }
+  ]
+}

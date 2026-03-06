@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 139,
+    "code": "MR",
+    "iso3": "MRT",
+    "numeric_code": "478",
+    "name": "Mauretanien",
+    "name_default": "Mauritania",
+    "native": "موريتانيا",
+    "capital": "Nouakchott",
+    "phonecode": "222",
+    "currency": "MRU",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "UM",
+    "tld": ".mr",
+    "population": 4927532,
+    "gdp": 11470,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Mauritanian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "20.00000000",
+    "longitude": "-12.00000000",
+    "emoji": "🇲🇷",
+    "emojiU": "U+1F1F2 U+1F1F7"
+  },
+  "state": {
+    "id": 3341,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "MR-04",
+    "fips_code": "04",
+    "name": "Gorgol",
+    "name_default": "Gorgol",
+    "native": "غورغول",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "16.00622750",
+    "longitude": "-12.83608340",
+    "timezone": "Africa/Nouakchott",
+    "wikiDataId": "Q859831",
+    "country_code": "MR"
+  },
+  "cities": [
+    {
+      "id": 67749,
+      "name": "Kaédi",
+      "name_default": "Kaédi",
+      "native": "كادي",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 56283,
+      "latitude": "16.15027000",
+      "longitude": "-13.50370000",
+      "timezone": "Africa/Nouakchott",
+      "wikiDataId": "Q312357",
+      "country_code": "MR",
+      "state_code": "04",
+      "state_id": 3341,
+      "country_id": 139
+    }
+  ]
+}

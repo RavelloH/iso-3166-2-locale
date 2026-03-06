@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 20,
+    "code": "BB",
+    "iso3": "BRB",
+    "numeric_code": "052",
+    "name": "Барбадос",
+    "name_default": "Barbados",
+    "native": "Barbados",
+    "capital": "Bridgetown",
+    "phonecode": "1",
+    "currency": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "Bds$",
+    "tld": ".bb",
+    "population": 267800,
+    "gdp": 7552,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Barbadian",
+    "timezones": [
+      {
+        "zoneName": "America/Barbados",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "13.16666666",
+    "longitude": "-59.53333333",
+    "emoji": "🇧🇧",
+    "emojiU": "U+1F1E7 U+1F1E7"
+  },
+  "state": {
+    "id": 1229,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "BB-02",
+    "fips_code": "02",
+    "name": "Святий Андрій",
+    "name_default": "Saint Andrew",
+    "native": "Saint Andrew",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.24329040",
+    "longitude": "-59.57317000",
+    "timezone": "America/Barbados",
+    "wikiDataId": "Q1647439",
+    "country_code": "BB"
+  },
+  "cities": [
+    {
+      "id": 8450,
+      "name": "Гренландія",
+      "name_default": "Greenland",
+      "native": "Greenland",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 508,
+      "latitude": "13.25808000",
+      "longitude": "-59.57763000",
+      "timezone": "America/Barbados",
+      "wikiDataId": "Q3556018",
+      "country_code": "BB",
+      "state_code": "02",
+      "state_id": 1229,
+      "country_id": 20
+    }
+  ]
+}

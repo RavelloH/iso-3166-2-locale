@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "マルタ",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 84,
+    "code": "09",
+    "iso2": "09",
+    "iso3166_2": "MT-09",
+    "fips_code": "28",
+    "name": "フロリアナ",
+    "name_default": "Floriana",
+    "native": "Floriana",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 2032,
+    "latitude": "35.89298380",
+    "longitude": "14.50527160",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q832807",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67765,
+      "name": "フロリアナ",
+      "name_default": "Floriana",
+      "native": "Floriana",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2205,
+      "latitude": "35.89583000",
+      "longitude": "14.50833000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q832807",
+      "country_code": "MT",
+      "state_code": "09",
+      "state_id": 84,
+      "country_id": 135
+    }
+  ]
+}

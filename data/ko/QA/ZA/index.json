@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 179,
+    "code": "QA",
+    "iso3": "QAT",
+    "numeric_code": "634",
+    "name": "카타르",
+    "name_default": "Qatar",
+    "native": "قطر",
+    "capital": "Doha",
+    "phonecode": "974",
+    "currency": "QAR",
+    "currency_name": "Qatari riyal",
+    "currency_symbol": "ق.ر",
+    "tld": ".qa",
+    "population": 3173024,
+    "gdp": 222776,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Qatari",
+    "timezones": [
+      {
+        "zoneName": "Asia/Qatar",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "25.50000000",
+    "longitude": "51.25000000",
+    "emoji": "🇶🇦",
+    "emojiU": "U+1F1F6 U+1F1E6"
+  },
+  "state": {
+    "id": 3182,
+    "code": "ZA",
+    "iso2": "ZA",
+    "iso3166_2": "QA-ZA",
+    "fips_code": "01",
+    "name": "알 다옌",
+    "name_default": "Al Daayen",
+    "native": "دايين",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 54339,
+    "latitude": "25.50974190",
+    "longitude": "51.44226990",
+    "timezone": "Asia/Qatar",
+    "wikiDataId": "Q310786",
+    "country_code": "QA"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Slovenia",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4300,
+    "code": "135",
+    "iso2": "135",
+    "iso3166_2": "SI-135",
+    "fips_code": "N2",
+    "name": "Videm",
+    "name_default": "Videm",
+    "native": "Videm",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.34295020",
+    "longitude": "15.93223790",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q1002863",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104310,
+      "name": "Videm pri Ptuju",
+      "name_default": "Videm pri Ptuju",
+      "native": "Videm pri Ptuju",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 460,
+      "latitude": "46.36861000",
+      "longitude": "15.90639000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q3162598",
+      "country_code": "SI",
+      "state_code": "135",
+      "state_id": 4300,
+      "country_id": 201
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 191,
+    "code": "WS",
+    "iso3": "WSM",
+    "numeric_code": "882",
+    "name": "萨摩亚",
+    "name_default": "Samoa",
+    "native": "Samoa",
+    "capital": "Apia",
+    "phonecode": "685",
+    "currency": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "SAT",
+    "tld": ".ws",
+    "population": 205557,
+    "gdp": 1160,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Samoan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Apia",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "WST",
+        "tzName": "West Samoa Time"
+      }
+    ],
+    "latitude": "-13.58333333",
+    "longitude": "-172.33333333",
+    "emoji": "🇼🇸",
+    "emojiU": "U+1F1FC U+1F1F8"
+  },
+  "state": {
+    "id": 4766,
+    "code": "VS",
+    "iso2": "VS",
+    "iso3166_2": "WS-VS",
+    "fips_code": "11",
+    "name": "瓦伊西加诺",
+    "name_default": "Vaisigano",
+    "native": "Vaisigano",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 6543,
+    "latitude": "-13.55956560",
+    "longitude": "-172.65937980",
+    "timezone": "Pacific/Apia",
+    "wikiDataId": "Q1193139",
+    "country_code": "WS"
+  },
+  "cities": [
+    {
+      "id": 130645,
+      "name": "阿萨乌",
+      "name_default": "Asau",
+      "native": "Lima",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6643,
+      "latitude": "-13.51963000",
+      "longitude": "-172.63784000",
+      "timezone": "Pacific/Apia",
+      "wikiDataId": "Q4803660",
+      "country_code": "WS",
+      "state_code": "VS",
+      "state_id": 4766,
+      "country_id": 191
+    }
+  ]
+}

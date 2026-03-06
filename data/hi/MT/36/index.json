@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "माल्टा",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 132,
+    "code": "36",
+    "iso2": "36",
+    "iso3166_2": "MT-36",
+    "fips_code": "11",
+    "name": "मुंक्सर",
+    "name_default": "Munxar",
+    "native": "Munxar",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 1707,
+    "latitude": "36.02880580",
+    "longitude": "14.22506050",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q587462",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67790,
+      "name": "मुंक्सर",
+      "name_default": "Munxar",
+      "native": "Munxar",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 840,
+      "latitude": "36.03000000",
+      "longitude": "14.23333000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q587462",
+      "country_code": "MT",
+      "state_code": "36",
+      "state_id": 132,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 54,
+    "code": "CI",
+    "iso3": "CIV",
+    "numeric_code": "384",
+    "name": "Elfenbeinküste",
+    "name_default": "Ivory Coast",
+    "native": "Cote D'Ivoire",
+    "capital": "Yamoussoukro",
+    "phonecode": "225",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ci",
+    "population": 29389150,
+    "gdp": 94483,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Ivorian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Abidjan",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇨🇮",
+    "emojiU": "U+1F1E8 U+1F1EE"
+  },
+  "state": {
+    "id": 2653,
+    "code": "YM",
+    "iso2": "YM",
+    "iso3166_2": "CI-YM",
+    "fips_code": "98",
+    "name": "Yamoussoukro",
+    "name_default": "Yamoussoukro",
+    "native": "Yamoussoukro",
+    "type": "autonomous district",
+    "level": "2",
+    "parent_id": null,
+    "population": 422072,
+    "latitude": "6.82762280",
+    "longitude": "-5.28934330",
+    "timezone": "Africa/Abidjan",
+    "wikiDataId": "Q3768",
+    "country_code": "CI"
+  },
+  "cities": []
+}

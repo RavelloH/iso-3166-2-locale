@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "माल्टा",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 102,
+    "code": "30",
+    "iso2": "30",
+    "iso3166_2": "MT-30",
+    "fips_code": "46",
+    "name": "मेलिएहा",
+    "name_default": "Mellieħa",
+    "native": "Mellieħa",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 11389,
+    "latitude": "35.95996180",
+    "longitude": "14.36836700",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q755979",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 153737,
+      "name": "मनिकाटा",
+      "name_default": "Manikata",
+      "native": "Manikata",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 539,
+      "latitude": "35.94000000",
+      "longitude": "14.35333000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q821200",
+      "country_code": "MT",
+      "state_code": "30",
+      "state_id": 102,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 51,
+    "code": "CD",
+    "iso3": "COD",
+    "numeric_code": "180",
+    "name": "Kongo Demokratik Cumhuriyeti",
+    "name_default": "Democratic Republic of the Congo",
+    "native": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "phonecode": "243",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "population": 112832000,
+    "gdp": 79119,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Congolese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  },
+  "state": {
+    "id": 2751,
+    "code": "IT",
+    "iso2": "IT",
+    "iso3166_2": "CD-IT",
+    "fips_code": "17",
+    "name": "Ituri",
+    "name_default": "Ituri",
+    "native": "Ituri",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 4392200,
+    "latitude": "1.83306230",
+    "longitude": "29.49807740",
+    "timezone": "Africa/Kinshasa",
+    "wikiDataId": "Q750659",
+    "country_code": "CD"
+  },
+  "cities": [
+    {
+      "id": 17239,
+      "name": "Bunia",
+      "name_default": "Bunia",
+      "native": "Bunia",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 327837,
+      "latitude": "1.55941000",
+      "longitude": "30.25224000",
+      "timezone": "Africa/Lubumbashi",
+      "wikiDataId": "Q648298",
+      "country_code": "CD",
+      "state_code": "IT",
+      "state_id": 2751,
+      "country_id": 51
+    }
+  ]
+}

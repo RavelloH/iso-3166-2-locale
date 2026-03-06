@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "São Cristóvão e Neves",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3842,
+    "code": "13",
+    "iso2": "13",
+    "iso3166_2": "KN-13",
+    "fips_code": "13",
+    "name": "Ilha Central de São Tomás",
+    "name_default": "Saint Thomas Middle Island",
+    "native": "Saint Thomas Middle Island",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 2535,
+    "latitude": "17.33488130",
+    "longitude": "-62.80882510",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q1752101",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65173,
+      "name": "Ilha do Meio",
+      "name_default": "Middle Island",
+      "native": "Middle Island",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2332,
+      "latitude": "17.32590000",
+      "longitude": "-62.81055000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3394074",
+      "country_code": "KN",
+      "state_code": "13",
+      "state_id": 3842,
+      "country_id": 185
+    }
+  ]
+}

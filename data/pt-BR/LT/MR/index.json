@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 126,
+    "code": "LT",
+    "iso3": "LTU",
+    "numeric_code": "440",
+    "name": "Lituânia",
+    "name_default": "Lithuania",
+    "native": "Lietuva",
+    "capital": "Vilnius",
+    "phonecode": "370",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "population": 2894548,
+    "gdp": 89192,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Lithuanian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  },
+  "state": {
+    "id": 1570,
+    "code": "MR",
+    "iso2": "MR",
+    "iso3166_2": "LT-MR",
+    "fips_code": "59",
+    "name": "Marijampolė",
+    "name_default": "Marijampolė",
+    "native": "Marijampolė",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "54.55625360",
+    "longitude": "23.35036650",
+    "timezone": "Europe/Vilnius",
+    "wikiDataId": "Q853948",
+    "country_code": "LT"
+  },
+  "cities": []
+}

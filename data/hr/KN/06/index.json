@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "Sveti Kristof i Nevis",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3845,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "KN-06",
+    "fips_code": "06",
+    "name": "Sveti Ivan Kapisterre",
+    "name_default": "Saint John Capisterre",
+    "native": "Saint John Capisterre",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 2962,
+    "latitude": "17.38725670",
+    "longitude": "-62.79921320",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q668498",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65170,
+      "name": "Grad zaljeva Dieppe",
+      "name_default": "Dieppe Bay Town",
+      "native": "Dieppe Bay Town",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 592,
+      "latitude": "17.41473000",
+      "longitude": "-62.81390000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q1010810",
+      "country_code": "KN",
+      "state_code": "06",
+      "state_id": 3845,
+      "country_id": 185
+    }
+  ]
+}

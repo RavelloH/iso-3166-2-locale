@@ -1,0 +1,102 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 236,
+    "code": "UZ",
+    "iso3": "UZB",
+    "numeric_code": "860",
+    "name": "Ouzbekistan",
+    "name_default": "Uzbekistan",
+    "native": "O‘zbekiston",
+    "capital": "Tashkent",
+    "phonecode": "998",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "population": 37859698,
+    "gdp": 132484,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Central Asia",
+    "subregion_id": 10,
+    "nationality": "Uzbekistani, Uzbek",
+    "timezones": [
+      {
+        "zoneName": "Asia/Samarkand",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      },
+      {
+        "zoneName": "Asia/Tashkent",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      }
+    ],
+    "latitude": "41.00000000",
+    "longitude": "64.00000000",
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF"
+  },
+  "state": {
+    "id": 2536,
+    "code": "TK",
+    "iso2": "TK",
+    "iso3166_2": "UZ-TK",
+    "fips_code": "13",
+    "name": "Tachkent",
+    "name_default": "Tashkent",
+    "native": "Tashkent",
+    "type": "city",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "41.31233630",
+    "longitude": "69.27870790",
+    "timezone": "Asia/Samarkand",
+    "wikiDataId": "Q269",
+    "country_code": "UZ"
+  },
+  "cities": [
+    {
+      "id": 129901,
+      "name": "Bektemir",
+      "name_default": "Bektemir",
+      "native": "Bektemir",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 27500,
+      "latitude": "41.20972000",
+      "longitude": "69.33417000",
+      "timezone": "Asia/Tashkent",
+      "wikiDataId": "Q815053",
+      "country_code": "UZ",
+      "state_code": "TK",
+      "state_id": 2536,
+      "country_id": 236
+    },
+    {
+      "id": 130005,
+      "name": "Tachkent",
+      "name_default": "Tashkent",
+      "native": "Toshkent",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1978028,
+      "latitude": "41.26465000",
+      "longitude": "69.21627000",
+      "timezone": "Asia/Tashkent",
+      "wikiDataId": "Q269",
+      "country_code": "UZ",
+      "state_code": "TK",
+      "state_id": 2536,
+      "country_id": 236
+    }
+  ]
+}

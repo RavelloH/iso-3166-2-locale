@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Slovenija",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4289,
+    "code": "206",
+    "iso2": "206",
+    "iso3166_2": "SI-206",
+    "fips_code": "P3",
+    "name": "Šmarješke Toplice",
+    "name_default": "Šmarješke Toplice",
+    "native": "Šmarješke Toplice",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 492,
+    "latitude": "45.86803770",
+    "longitude": "15.23474220",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q3509893",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104358,
+      "name": "Šmarjeta",
+      "name_default": "Šmarjeta",
+      "native": "Šmarjeta",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 309,
+      "latitude": "45.88333000",
+      "longitude": "15.25000000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2113343",
+      "country_code": "SI",
+      "state_code": "206",
+      "state_id": 4289,
+      "country_id": 201
+    }
+  ]
+}

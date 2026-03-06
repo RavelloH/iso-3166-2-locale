@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "푸에르토리코",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5172,
+    "code": "075",
+    "iso2": "075",
+    "iso3166_2": "PR-075",
+    "fips_code": null,
+    "name": "후아나 디아스",
+    "name_default": "Juana Díaz",
+    "native": "Juana Díaz",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 46538,
+    "latitude": "18.05343720",
+    "longitude": "-66.50750790",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q2361577",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153587,
+      "name": "후아나 디아스",
+      "name_default": "Juana Díaz",
+      "native": "Juana Díaz",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9427,
+      "latitude": "18.05343720",
+      "longitude": "-66.50750790",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q2361577",
+      "country_code": "PR",
+      "state_code": "075",
+      "state_id": 5172,
+      "country_id": 178
+    }
+  ]
+}

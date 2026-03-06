@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 155,
+    "code": "BQ",
+    "iso3": "BES",
+    "numeric_code": "535",
+    "name": "Bonaire, Sint Eustatius i Saba",
+    "name_default": "Bonaire, Sint Eustatius and Saba",
+    "native": "Caribisch Nederland",
+    "capital": "Kralendijk",
+    "phonecode": "599",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".an",
+    "population": 26552,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bonaire",
+    "timezones": [
+      {
+        "zoneName": "America/Curacao",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "12.15000000",
+    "longitude": "-68.26666700",
+    "emoji": "🇧🇶",
+    "emojiU": "U+1F1E7 U+1F1F6"
+  },
+  "state": {
+    "id": 5088,
+    "code": "BQ3",
+    "iso2": "BQ3",
+    "iso3166_2": "BQ-BQ3",
+    "fips_code": "05",
+    "name": "Sint Eustatius",
+    "name_default": "Sint Eustatius",
+    "native": "Sint Eustatius",
+    "type": "special municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 3270,
+    "latitude": "17.48903060",
+    "longitude": "-62.97355500",
+    "timezone": "America/Curacao",
+    "wikiDataId": "Q26180",
+    "country_code": "BQ"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 140,
+    "code": "32",
+    "iso2": "32",
+    "iso3166_2": "MT-32",
+    "fips_code": "35",
+    "name": "Mosta",
+    "name_default": "Mosta",
+    "native": "Pont",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 23482,
+    "latitude": "35.91415040",
+    "longitude": "14.42284270",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q39520",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 153728,
+      "name": "Bidnija",
+      "name_default": "Bidnija",
+      "native": "Bidnija",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2615,
+      "latitude": "35.92694400",
+      "longitude": "14.39833300",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q794641",
+      "country_code": "MT",
+      "state_code": "32",
+      "state_id": 140,
+      "country_id": 135
+    }
+  ]
+}

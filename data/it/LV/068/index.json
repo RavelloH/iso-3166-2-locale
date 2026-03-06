@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "Lettonia",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4417,
+    "code": "068",
+    "iso2": "068",
+    "iso3166_2": "LV-068",
+    "fips_code": "A2",
+    "name": "Olaine",
+    "name_default": "Olaine",
+    "native": "Olaine",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 9654,
+    "latitude": "56.79059060",
+    "longitude": "23.93319810",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q2451375",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66936,
+      "name": "Olaine",
+      "name_default": "Olaine",
+      "native": "Olaine",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9654,
+      "latitude": "56.79472000",
+      "longitude": "23.93580000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q731915",
+      "country_code": "LV",
+      "state_code": "068",
+      "state_id": 4417,
+      "country_id": 120
+    }
+  ]
+}

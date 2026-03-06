@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Porto Rico",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5185,
+    "code": "101",
+    "iso2": "101",
+    "iso3166_2": "PR-101",
+    "fips_code": null,
+    "name": "Morovis",
+    "name_default": "Morovis",
+    "native": "Morovis",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 28727,
+    "latitude": "18.32578500",
+    "longitude": "-66.40655920",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q2623982",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153600,
+      "name": "Morovis",
+      "name_default": "Morovis",
+      "native": "Morovis",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2414,
+      "latitude": "18.32578500",
+      "longitude": "-66.40655920",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q2623982",
+      "country_code": "PR",
+      "state_code": "101",
+      "state_id": 5185,
+      "country_id": 178
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Словенія",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4333,
+    "code": "203",
+    "iso2": "203",
+    "iso3166_2": "SI-203",
+    "fips_code": "P5",
+    "name": "Стража",
+    "name_default": "Straža",
+    "native": "Straža",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "45.78368550",
+    "longitude": "15.07303990",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q1784972",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104286,
+      "name": "Стража",
+      "name_default": "Straža",
+      "native": "Straža",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 114,
+      "latitude": "45.78000000",
+      "longitude": "15.07278000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q6962554",
+      "country_code": "SI",
+      "state_code": "203",
+      "state_id": 4333,
+      "country_id": 201
+    }
+  ]
+}

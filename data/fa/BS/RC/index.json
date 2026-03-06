@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "باهاما",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3600,
+    "code": "RC",
+    "iso2": "RC",
+    "iso3166_2": "BS-RC",
+    "fips_code": "49",
+    "name": "جزیره رم",
+    "name_default": "Rum Cay",
+    "native": "Rum Cay",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 90,
+    "latitude": "23.82630650",
+    "longitude": "-74.93268290",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q21713441",
+    "country_code": "BS"
+  },
+  "cities": [
+    {
+      "id": 15701,
+      "name": "پورت نلسون",
+      "name_default": "Port Nelson",
+      "native": "Port Nelson",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 91,
+      "latitude": "23.64967000",
+      "longitude": "-74.84157000",
+      "timezone": "America/Nassau",
+      "wikiDataId": "Q1771829",
+      "country_code": "BS",
+      "state_code": "RC",
+      "state_id": 3600,
+      "country_id": 17
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 152,
+    "code": "NA",
+    "iso3": "NAM",
+    "numeric_code": "516",
+    "name": "नामिबिया",
+    "name_default": "Namibia",
+    "native": "Namibia",
+    "capital": "Windhoek",
+    "phonecode": "264",
+    "currency": "NAD",
+    "currency_name": "Namibian dollar",
+    "currency_symbol": "$",
+    "tld": ".na",
+    "population": 3022401,
+    "gdp": 14214,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Namibian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Windhoek",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "WAST",
+        "tzName": "West Africa Summer Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇳🇦",
+    "emojiU": "U+1F1F3 U+1F1E6"
+  },
+  "state": {
+    "id": 41,
+    "code": "OH",
+    "iso2": "OH",
+    "iso3166_2": "NA-OH",
+    "fips_code": "35",
+    "name": "ओमाहेके",
+    "name_default": "Omaheke",
+    "native": "Omaheke",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 102881,
+    "latitude": "-21.90746760",
+    "longitude": "19.39296610",
+    "timezone": "Africa/Windhoek",
+    "wikiDataId": "Q838775",
+    "country_code": "NA"
+  },
+  "cities": [
+    {
+      "id": 76631,
+      "name": "गोबाबिस",
+      "name_default": "Gobabis",
+      "native": "Gobabis",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 33404,
+      "latitude": "-22.45000000",
+      "longitude": "18.96667000",
+      "timezone": "Africa/Windhoek",
+      "wikiDataId": "Q1000609",
+      "country_code": "NA",
+      "state_code": "OH",
+      "state_id": 41,
+      "country_id": 152
+    }
+  ]
+}

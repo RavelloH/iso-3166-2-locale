@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 216,
+    "code": "TW",
+    "iso3": "TWN",
+    "numeric_code": "158",
+    "name": "Taiwan",
+    "name_default": "Taiwan",
+    "native": "臺灣",
+    "capital": "Taipei",
+    "phonecode": "886",
+    "currency": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "currency_symbol": "$",
+    "tld": ".tw",
+    "population": 23337936,
+    "gdp": 804889,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Chinese, Taiwanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Taipei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "latitude": "23.50000000",
+    "longitude": "121.00000000",
+    "emoji": "🇹🇼",
+    "emojiU": "U+1F1F9 U+1F1FC"
+  },
+  "state": {
+    "id": 3412,
+    "code": "KHH",
+    "iso2": "KHH",
+    "iso3166_2": "TW-KHH",
+    "fips_code": "02",
+    "name": "Kaohsiung",
+    "name_default": "Kaohsiung",
+    "native": "Kaohsiung",
+    "type": "special municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "22.62033480",
+    "longitude": "120.31203750",
+    "timezone": "Asia/Taipei",
+    "wikiDataId": "Q181557",
+    "country_code": "TW"
+  },
+  "cities": [
+    {
+      "id": 109016,
+      "name": "Kaohsiung",
+      "name_default": "Kaohsiung",
+      "native": "高雄",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2721500,
+      "latitude": "22.61626000",
+      "longitude": "120.31333000",
+      "timezone": "Asia/Taipei",
+      "wikiDataId": "Q181557",
+      "country_code": "TW",
+      "state_code": "KHH",
+      "state_id": 3412,
+      "country_id": 216
+    }
+  ]
+}

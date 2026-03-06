@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 134,
+    "code": "ML",
+    "iso3": "MLI",
+    "numeric_code": "466",
+    "name": "Mali",
+    "name_default": "Mali",
+    "native": "Mali",
+    "capital": "Bamako",
+    "phonecode": "223",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ml",
+    "population": 22395489,
+    "gdp": 23208,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Malian, Malinese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bamako",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "17.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇲🇱",
+    "emojiU": "U+1F1F2 U+1F1F1"
+  },
+  "state": {
+    "id": 253,
+    "code": "BKO",
+    "iso2": "BKO",
+    "iso3166_2": "ML-BKO",
+    "fips_code": "01",
+    "name": "Bamako",
+    "name_default": "Bamako",
+    "native": "Bamako",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 4227569,
+    "latitude": "12.64931900",
+    "longitude": "-8.00033700",
+    "timezone": "Africa/Bamako",
+    "wikiDataId": "Q3703",
+    "country_code": "ML"
+  },
+  "cities": [
+    {
+      "id": 67587,
+      "name": "Bamako",
+      "name_default": "Bamako",
+      "native": "Bamako",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 4227569,
+      "latitude": "12.65000000",
+      "longitude": "-8.00000000",
+      "timezone": "Africa/Bamako",
+      "wikiDataId": "Q799794",
+      "country_code": "ML",
+      "state_code": "BKO",
+      "state_id": 253,
+      "country_id": 134
+    }
+  ]
+}

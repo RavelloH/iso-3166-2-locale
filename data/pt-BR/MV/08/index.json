@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 133,
+    "code": "MV",
+    "iso3": "MDV",
+    "numeric_code": "462",
+    "name": "Maldivas",
+    "name_default": "Maldives",
+    "native": "Maldives",
+    "capital": "Male",
+    "phonecode": "960",
+    "currency": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "tld": ".mv",
+    "population": 515132,
+    "gdp": 7480,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Maldivian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Maldives",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MVT",
+        "tzName": "Maldives Time"
+      }
+    ],
+    "latitude": "3.25000000",
+    "longitude": "73.00000000",
+    "emoji": "🇲🇻",
+    "emojiU": "U+1F1F2 U+1F1FB"
+  },
+  "state": {
+    "id": 2591,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "MV-08",
+    "fips_code": "46",
+    "name": "Thaa",
+    "name_default": "Thaa",
+    "native": "ތައާ",
+    "type": "administrative atoll",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "2.14616550",
+    "longitude": "73.02882450",
+    "timezone": "Indian/Maldives",
+    "wikiDataId": "Q2709118",
+    "country_code": "MV"
+  },
+  "cities": [
+    {
+      "id": 67942,
+      "name": "Veymandoo",
+      "name_default": "Veymandoo",
+      "native": "ވެއިމަންޑޫ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1100,
+      "latitude": "2.18772000",
+      "longitude": "73.09556000",
+      "timezone": "Indian/Maldives",
+      "wikiDataId": "Q2390425",
+      "country_code": "MV",
+      "state_code": "08",
+      "state_id": 2591,
+      "country_id": 133
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 43,
+    "code": "TD",
+    "iso3": "TCD",
+    "numeric_code": "148",
+    "name": "Čad",
+    "name_default": "Chad",
+    "native": "Tchad",
+    "capital": "N'Djamena",
+    "phonecode": "235",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "population": 19340757,
+    "gdp": 18792,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Chadian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  },
+  "state": {
+    "id": 3586,
+    "code": "ND",
+    "iso2": "ND",
+    "iso3166_2": "TD-ND",
+    "fips_code": "21",
+    "name": "N'Djamena",
+    "name_default": "N'Djamena",
+    "native": "N'Djamena",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "12.11915430",
+    "longitude": "15.05027580",
+    "timezone": "Africa/Ndjamena",
+    "wikiDataId": "Q3659",
+    "country_code": "TD"
+  },
+  "cities": [
+    {
+      "id": 153264,
+      "name": "N'Djamena",
+      "name_default": "N'Djamena",
+      "native": "N'Djamena",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1092066,
+      "latitude": "12.11000000",
+      "longitude": "15.05000000",
+      "timezone": "Africa/Ndjamena",
+      "wikiDataId": "Q3659",
+      "country_code": "TD",
+      "state_code": "ND",
+      "state_id": 3586,
+      "country_id": 43
+    }
+  ]
+}

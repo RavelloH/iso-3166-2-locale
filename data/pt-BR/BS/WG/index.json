@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "Bahamas",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3599,
+    "code": "WG",
+    "iso2": "WG",
+    "iso3166_2": "BS-WG",
+    "fips_code": "54",
+    "name": "Oeste de Grand Bahama",
+    "name_default": "West Grand Bahama",
+    "native": "West Grand Bahama",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "26.74400000",
+    "longitude": "-78.87886850",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q2702338",
+    "country_code": "BS"
+  },
+  "cities": [
+    {
+      "id": 15704,
+      "name": "Extremo Oeste",
+      "name_default": "West End",
+      "native": "West End",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 13673,
+      "latitude": "26.68711000",
+      "longitude": "-78.97702000",
+      "timezone": "America/Nassau",
+      "wikiDataId": "Q1771573",
+      "country_code": "BS",
+      "state_code": "WG",
+      "state_id": 3599,
+      "country_id": 17
+    }
+  ]
+}

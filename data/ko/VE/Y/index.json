@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 239,
+    "code": "VE",
+    "iso3": "VEN",
+    "numeric_code": "862",
+    "name": "베네수엘라",
+    "name_default": "Venezuela",
+    "native": "Venezuela",
+    "capital": "Caracas",
+    "phonecode": "58",
+    "currency": "VES",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "population": 28517000,
+    "gdp": 108511,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Venezuelan",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  },
+  "state": {
+    "id": 2051,
+    "code": "Y",
+    "iso2": "Y",
+    "iso3166_2": "VE-Y",
+    "fips_code": "09",
+    "name": "델타 아마쿠로",
+    "name_default": "Delta Amacuro",
+    "native": "Delta Amacuro",
+    "type": "state",
+    "level": "1",
+    "parent_id": null,
+    "population": 171413,
+    "latitude": "8.94145990",
+    "longitude": "-61.34032730",
+    "timezone": "America/Caracas",
+    "wikiDataId": "Q201137",
+    "country_code": "VE"
+  },
+  "cities": [
+    {
+      "id": 130161,
+      "name": "투쿠피타",
+      "name_default": "Tucupita",
+      "native": "Tucupito",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 99778,
+      "latitude": "9.05806000",
+      "longitude": "-62.05000000",
+      "timezone": "America/Caracas",
+      "wikiDataId": "Q179007",
+      "country_code": "VE",
+      "state_code": "Y",
+      "state_id": 2051,
+      "country_id": 239
+    }
+  ]
+}

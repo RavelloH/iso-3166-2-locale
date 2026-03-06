@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 229,
+    "code": "UG",
+    "iso3": "UGA",
+    "numeric_code": "800",
+    "name": "Uganda",
+    "name_default": "Uganda",
+    "native": "Uganda",
+    "capital": "Kampala",
+    "phonecode": "256",
+    "currency": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "tld": ".ug",
+    "population": 45905417,
+    "gdp": 64277,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Ugandan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇬",
+    "emojiU": "U+1F1FA U+1F1EC"
+  },
+  "state": {
+    "id": 347,
+    "code": "103",
+    "iso2": "103",
+    "iso3166_2": "UG-103",
+    "fips_code": "42",
+    "name": "Kiboga",
+    "name_default": "Kiboga",
+    "native": "Kiboga",
+    "type": "district",
+    "level": "1",
+    "parent_id": "396",
+    "population": 22400,
+    "latitude": "0.91485180",
+    "longitude": "31.75089580",
+    "timezone": "Africa/Kampala",
+    "wikiDataId": "Q892064",
+    "country_code": "UG"
+  },
+  "cities": []
+}

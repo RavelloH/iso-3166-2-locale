@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 69,
+    "code": "EE",
+    "iso3": "EST",
+    "numeric_code": "233",
+    "name": "Estonia",
+    "name_default": "Estonia",
+    "native": "Eesti",
+    "capital": "Tallinn",
+    "phonecode": "372",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "population": 1369995,
+    "gdp": 45004,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Estonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  },
+  "state": {
+    "id": 5778,
+    "code": "689",
+    "iso2": "689",
+    "iso3166_2": "EE-689",
+    "fips_code": null,
+    "name": "Gmina Ruhnu",
+    "name_default": "Ruhnu",
+    "native": "Ruhnu",
+    "type": "rural municipality",
+    "level": "2",
+    "parent_id": "3561",
+    "population": null,
+    "latitude": "57.80000000",
+    "longitude": "23.26670000",
+    "timezone": "Europe/Tallinn",
+    "wikiDataId": "Q672859",
+    "country_code": "EE"
+  },
+  "cities": []
+}

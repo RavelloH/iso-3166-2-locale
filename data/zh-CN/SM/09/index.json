@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 192,
+    "code": "SM",
+    "iso3": "SMR",
+    "numeric_code": "674",
+    "name": "圣马力诺",
+    "name_default": "San Marino",
+    "native": "San Marino",
+    "capital": "San Marino",
+    "phonecode": "378",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sm",
+    "population": 34132,
+    "gdp": 2047,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Sammarinese",
+    "timezones": [
+      {
+        "zoneName": "Europe/San_Marino",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.76666666",
+    "longitude": "12.41666666",
+    "emoji": "🇸🇲",
+    "emojiU": "U+1F1F8 U+1F1F2"
+  },
+  "state": {
+    "id": 65,
+    "code": "09",
+    "iso2": "09",
+    "iso3166_2": "SM-09",
+    "fips_code": "09",
+    "name": "塞拉瓦莱",
+    "name_default": "Serravalle",
+    "native": "Serravalle",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.96990260",
+    "longitude": "12.48029460",
+    "timezone": "Europe/San_Marino",
+    "wikiDataId": "Q185412",
+    "country_code": "SM"
+  },
+  "cities": [
+    {
+      "id": 104701,
+      "name": "塞拉瓦莱",
+      "name_default": "Serravalle",
+      "native": "Serravalle",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9258,
+      "latitude": "43.96897000",
+      "longitude": "12.48167000",
+      "timezone": "Europe/San_Marino",
+      "wikiDataId": "Q1848",
+      "country_code": "SM",
+      "state_code": "09",
+      "state_id": 65,
+      "country_id": 192
+    }
+  ]
+}

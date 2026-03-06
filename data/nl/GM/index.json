@@ -1,0 +1,46 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 80,
+    "code": "GM",
+    "iso3": "GMB",
+    "numeric_code": "270",
+    "name": "Gambia",
+    "name_default": "The Gambia",
+    "native": "Gambia",
+    "capital": "Banjul",
+    "phonecode": "220",
+    "currency": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "tld": ".gm",
+    "population": 2422712,
+    "gdp": 2771,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Gambian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "-16.56666666",
+    "emoji": "🇬🇲",
+    "emojiU": "U+1F1EC U+1F1F2"
+  },
+  "states": [
+    "B",
+    "L",
+    "M",
+    "N",
+    "U",
+    "W"
+  ]
+}

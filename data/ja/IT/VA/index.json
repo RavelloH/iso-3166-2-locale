@@ -1,0 +1,58 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "イタリア",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 1765,
+    "code": "VA",
+    "iso2": "VA",
+    "iso3166_2": "IT-VA",
+    "fips_code": "06",
+    "name": "ヴァレーゼ",
+    "name_default": "Varese",
+    "native": "Varese",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1705",
+    "population": 80588,
+    "latitude": "45.83972030",
+    "longitude": "8.75413380",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q16299",
+    "country_code": "IT"
+  },
+  "cities": []
+}

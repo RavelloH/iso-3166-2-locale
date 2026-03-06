@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 210,
+    "code": "SR",
+    "iso3": "SUR",
+    "numeric_code": "740",
+    "name": "Suriname",
+    "name_default": "Suriname",
+    "native": "Suriname",
+    "capital": "Paramaribo",
+    "phonecode": "597",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "population": 616500,
+    "gdp": 4506,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Surinamese",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  },
+  "state": {
+    "id": 2843,
+    "code": "PM",
+    "iso2": "PM",
+    "iso3166_2": "SR-PM",
+    "fips_code": "16",
+    "name": "Paramaribo",
+    "name_default": "Paramaribo",
+    "native": "Paramaribo",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 240924,
+    "latitude": "5.82476280",
+    "longitude": "-55.17039410",
+    "timezone": "America/Paramaribo",
+    "wikiDataId": "Q1130134",
+    "country_code": "SR"
+  },
+  "cities": [
+    {
+      "id": 104831,
+      "name": "Paramaribo",
+      "name_default": "Paramaribo",
+      "native": "Paramaribo",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 223757,
+      "latitude": "5.86638000",
+      "longitude": "-55.16682000",
+      "timezone": "America/Paramaribo",
+      "wikiDataId": "Q3001",
+      "country_code": "SR",
+      "state_code": "PM",
+      "state_id": 2843,
+      "country_id": 210
+    }
+  ]
+}

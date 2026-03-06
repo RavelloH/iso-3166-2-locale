@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 147,
+    "code": "ME",
+    "iso3": "MNE",
+    "numeric_code": "499",
+    "name": "Montenegro",
+    "name_default": "Montenegro",
+    "native": "Црна Гора",
+    "capital": "Podgorica",
+    "phonecode": "382",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".me",
+    "population": 623327,
+    "gdp": 8562,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Montenegrin",
+    "timezones": [
+      {
+        "zoneName": "Europe/Podgorica",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.50000000",
+    "longitude": "19.30000000",
+    "emoji": "🇲🇪",
+    "emojiU": "U+1F1F2 U+1F1EA"
+  },
+  "state": {
+    "id": 15,
+    "code": "17",
+    "iso2": "17",
+    "iso3166_2": "ME-17",
+    "fips_code": "17",
+    "name": "Rožaje",
+    "name_default": "Rožaje",
+    "native": "Рожаје",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "42.84083890",
+    "longitude": "20.16706280",
+    "timezone": "Europe/Podgorica",
+    "wikiDataId": "Q3296677",
+    "country_code": "ME"
+  },
+  "cities": [
+    {
+      "id": 67367,
+      "name": "Rožaje",
+      "name_default": "Rožaje",
+      "native": "Рожаје",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9422,
+      "latitude": "42.83299000",
+      "longitude": "20.16652000",
+      "timezone": "Europe/Podgorica",
+      "wikiDataId": "Q506775",
+      "country_code": "ME",
+      "state_code": "17",
+      "state_id": 15,
+      "country_id": 147
+    }
+  ]
+}

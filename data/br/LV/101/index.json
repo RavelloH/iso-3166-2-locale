@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "Latvia",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4425,
+    "code": "101",
+    "iso2": "101",
+    "iso3166_2": "LV-101",
+    "fips_code": "30",
+    "name": "Valka",
+    "name_default": "Valka",
+    "native": "Valka",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "57.77439000",
+    "longitude": "26.01700500",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q1945263",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66977,
+      "name": "Valka",
+      "name_default": "Valka",
+      "native": "Valka",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4615,
+      "latitude": "57.77520000",
+      "longitude": "26.01013000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q323774",
+      "country_code": "LV",
+      "state_code": "101",
+      "state_id": 4425,
+      "country_id": 120
+    }
+  ]
+}

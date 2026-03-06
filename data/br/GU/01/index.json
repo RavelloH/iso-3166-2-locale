@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "Guam",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5254,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "GU-01",
+    "fips_code": "01",
+    "name": "Uheldirioù Agana",
+    "name_default": "Agana Heights",
+    "native": "Agana Heights",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": 3673,
+    "latitude": "13.46554410",
+    "longitude": "144.74657140",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2714496",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160257,
+      "name": "Agana Heights Village",
+      "name_default": "Agana Heights Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3940,
+      "latitude": "13.46559000",
+      "longitude": "144.74795000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "01",
+      "state_id": 5254,
+      "country_id": 89
+    }
+  ]
+}

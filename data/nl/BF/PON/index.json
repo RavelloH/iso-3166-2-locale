@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "Burkina Faso",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3163,
+    "code": "PON",
+    "iso2": "PON",
+    "iso3166_2": "BF-PON",
+    "fips_code": "69",
+    "name": "Poni",
+    "name_default": "Poni",
+    "native": "Violet",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3140",
+    "population": null,
+    "latitude": "10.30859430",
+    "longitude": "-3.30168110",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q953657",
+    "country_code": "BF"
+  },
+  "cities": []
+}

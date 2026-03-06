@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 196,
+    "code": "RS",
+    "iso3": "SRB",
+    "numeric_code": "688",
+    "name": "塞尔维亚",
+    "name_default": "Serbia",
+    "native": "Србија",
+    "capital": "Belgrade",
+    "phonecode": "381",
+    "currency": "RSD",
+    "currency_name": "Serbian dinar",
+    "currency_symbol": "din",
+    "tld": ".rs",
+    "population": 6567783,
+    "gdp": 92549,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Serbian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Belgrade",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "44.00000000",
+    "longitude": "21.00000000",
+    "emoji": "🇷🇸",
+    "emojiU": "U+1F1F7 U+1F1F8"
+  },
+  "state": {
+    "id": 5692,
+    "code": "28",
+    "iso2": "28",
+    "iso3166_2": "RS-28",
+    "fips_code": "28",
+    "name": "科索沃米特罗维察",
+    "name_default": "Kosovska Mitrovica",
+    "native": "Косовска Митровица",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "42.88333333",
+    "longitude": "20.86666667",
+    "timezone": "Europe/Belgrade",
+    "wikiDataId": "Q2017517",
+    "country_code": "RS"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Island",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5587,
+    "code": "MUL",
+    "iso2": "MUL",
+    "iso3166_2": "IS-MUL",
+    "fips_code": null,
+    "name": "Mulaþing",
+    "name_default": "Múlaþing",
+    "native": "Múlaþing",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.25000000",
+    "longitude": "-14.55000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q2063295",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135179,
+      "name": "Fljótsdalshérad",
+      "name_default": "Fljótsdalshérað",
+      "native": "Fljótsdalshérað",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.25020000",
+      "longitude": "-15.37211000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q665474",
+      "country_code": "IS",
+      "state_code": "MUL",
+      "state_id": 5587,
+      "country_id": 100
+    }
+  ]
+}

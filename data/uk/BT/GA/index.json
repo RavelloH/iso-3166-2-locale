@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 26,
+    "code": "BT",
+    "iso3": "BTN",
+    "numeric_code": "064",
+    "name": "Бутан",
+    "name_default": "Bhutan",
+    "native": "ʼbrug-yul",
+    "capital": "Thimphu",
+    "phonecode": "975",
+    "currency": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "tld": ".bt",
+    "population": 784043,
+    "gdp": 3422,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bhutanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Thimphu",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BTT",
+        "tzName": "Bhutan Time"
+      }
+    ],
+    "latitude": "27.50000000",
+    "longitude": "90.50000000",
+    "emoji": "🇧🇹",
+    "emojiU": "U+1F1E7 U+1F1F9"
+  },
+  "state": {
+    "id": 229,
+    "code": "GA",
+    "iso2": "GA",
+    "iso3166_2": "BT-GA",
+    "fips_code": "04",
+    "name": "Гаса",
+    "name_default": "Gasa ",
+    "native": "Gasa ",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "27.91908750",
+    "longitude": "89.78753180",
+    "timezone": "Asia/Thimphu",
+    "wikiDataId": "Q578294",
+    "country_code": "BT"
+  },
+  "cities": [
+    {
+      "id": 15707,
+      "name": "Гаса",
+      "name_default": "Gasa",
+      "native": "ག་ས།",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 548,
+      "latitude": "27.90372000",
+      "longitude": "89.72689000",
+      "timezone": "Asia/Thimphu",
+      "wikiDataId": "Q5221776",
+      "country_code": "BT",
+      "state_code": "GA",
+      "state_id": 229,
+      "country_id": 26
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 184,
+    "code": "SH",
+    "iso3": "SHN",
+    "numeric_code": "654",
+    "name": "Santa Helena",
+    "name_default": "Saint Helena",
+    "native": "Saint Helena",
+    "capital": "Jamestown",
+    "phonecode": "290",
+    "currency": "SHP",
+    "currency_name": "Saint Helena pound",
+    "currency_symbol": "£",
+    "tld": ".sh",
+    "population": 5651,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Saint Helenian",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/St_Helena",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "-15.95000000",
+    "longitude": "-5.70000000",
+    "emoji": "🇸🇭",
+    "emojiU": "U+1F1F8 U+1F1ED"
+  },
+  "state": {
+    "id": 5447,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "SH-08",
+    "fips_code": "08",
+    "name": "São Paulo",
+    "name_default": "Saint Paul's",
+    "native": "Saint Paul's",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-15.98512670",
+    "longitude": "-5.73809860",
+    "timezone": "Atlantic/St_Helena",
+    "wikiDataId": "Q7402003",
+    "country_code": "SH"
+  },
+  "cities": []
+}

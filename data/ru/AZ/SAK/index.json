@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Азербайджан",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 586,
+    "code": "SAK",
+    "iso2": "SAK",
+    "iso3166_2": "AZ-SAK",
+    "fips_code": "47",
+    "name": "Шаки",
+    "name_default": "Shaki",
+    "native": "Şübhə",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "41.20336090",
+    "longitude": "47.18026230",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q330864",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8057,
+      "name": "Баш-Гёйнюк",
+      "name_default": "Baş Göynük",
+      "native": "Baş Göynük",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1658,
+      "latitude": "41.32582000",
+      "longitude": "47.11357000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q4875325",
+      "country_code": "AZ",
+      "state_code": "SAK",
+      "state_id": 586,
+      "country_id": 16
+    }
+  ]
+}

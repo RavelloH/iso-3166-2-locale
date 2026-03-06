@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 197,
+    "code": "SC",
+    "iso3": "SYC",
+    "numeric_code": "690",
+    "name": "Сейшельські острови",
+    "name_default": "Seychelles",
+    "native": "Seychelles",
+    "capital": "Victoria",
+    "phonecode": "248",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "population": 122729,
+    "gdp": 2198,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Seychellois",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "latitude": "-4.65749770",
+    "longitude": "55.45401460",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  },
+  "state": {
+    "id": 505,
+    "code": "10",
+    "iso2": "10",
+    "iso3166_2": "SC-10",
+    "fips_code": "10",
+    "name": "Бель Омбр",
+    "name_default": "Bel Ombre",
+    "native": "Belles ombres",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-4.61937160",
+    "longitude": "55.41129790",
+    "timezone": "Indian/Mahe",
+    "wikiDataId": "Q3245439",
+    "country_code": "SC"
+  },
+  "cities": [
+    {
+      "id": 102909,
+      "name": "Бель Омбр",
+      "name_default": "Bel Ombre",
+      "native": "Belles ombres",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4163,
+      "latitude": "-4.61667000",
+      "longitude": "55.41667000",
+      "timezone": "Indian/Mahe",
+      "wikiDataId": "Q646756",
+      "country_code": "SC",
+      "state_code": "10",
+      "state_id": 505,
+      "country_id": 197
+    }
+  ]
+}

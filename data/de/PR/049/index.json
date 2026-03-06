@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Puerto Rico",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5158,
+    "code": "049",
+    "iso2": "049",
+    "iso3166_2": "PR-049",
+    "fips_code": null,
+    "name": "Culebra",
+    "name_default": "Culebra",
+    "native": "Culebra",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.31367760",
+    "longitude": "-65.28262260",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q526402",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153573,
+      "name": "Culebra",
+      "name_default": "Culebra",
+      "native": "Culebra",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1486,
+      "latitude": "18.31039400",
+      "longitude": "-65.30307050",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q526402",
+      "country_code": "PR",
+      "state_code": "049",
+      "state_id": 5158,
+      "country_id": 178
+    }
+  ]
+}

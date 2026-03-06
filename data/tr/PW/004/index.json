@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "Palau",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4528,
+    "code": "004",
+    "iso2": "004",
+    "iso3166_2": "PW-004",
+    "fips_code": "02",
+    "name": "Airai",
+    "name_default": "Airai",
+    "native": "Airai",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 2455,
+    "latitude": "7.35993420",
+    "longitude": "134.56011540",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q407967",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89712,
+      "name": "Ngetkib",
+      "name_default": "Ngetkib",
+      "native": "Ngetkib",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 62,
+      "latitude": "7.36451000",
+      "longitude": "134.51484000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q3001462",
+      "country_code": "PW",
+      "state_code": "004",
+      "state_id": 4528,
+      "country_id": 168
+    }
+  ]
+}

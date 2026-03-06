@@ -1,0 +1,72 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 207,
+    "code": "ES",
+    "iso3": "ESP",
+    "numeric_code": "724",
+    "name": "España",
+    "name_default": "Spain",
+    "native": "España",
+    "capital": "Madrid",
+    "phonecode": "34",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "population": 49315949,
+    "gdp": 1799511,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Spanish",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  },
+  "state": {
+    "id": 5222,
+    "code": "CN",
+    "iso2": "CN",
+    "iso3166_2": "ES-CN",
+    "fips_code": "IC",
+    "name": "Canarias",
+    "name_default": "Canary Islands",
+    "native": "Canarias",
+    "type": "autonomous community",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "28.29357850",
+    "longitude": "-16.62144710",
+    "timezone": "Atlantic/Canary",
+    "wikiDataId": "Q5813",
+    "country_code": "ES"
+  },
+  "cities": []
+}

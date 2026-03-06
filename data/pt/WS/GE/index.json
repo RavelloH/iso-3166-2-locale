@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 191,
+    "code": "WS",
+    "iso3": "WSM",
+    "numeric_code": "882",
+    "name": "Samoa",
+    "name_default": "Samoa",
+    "native": "Samoa",
+    "capital": "Apia",
+    "phonecode": "685",
+    "currency": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "SAT",
+    "tld": ".ws",
+    "population": 205557,
+    "gdp": 1160,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Samoan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Apia",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "WST",
+        "tzName": "West Samoa Time"
+      }
+    ],
+    "latitude": "-13.58333333",
+    "longitude": "-172.33333333",
+    "emoji": "🇼🇸",
+    "emojiU": "U+1F1FC U+1F1F8"
+  },
+  "state": {
+    "id": 4769,
+    "code": "GE",
+    "iso2": "GE",
+    "iso3166_2": "WS-GE",
+    "fips_code": "05",
+    "name": "Gaga'emauga",
+    "name_default": "Gaga'emauga",
+    "native": "Gaga'emauga",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 7840,
+    "latitude": "-13.54286660",
+    "longitude": "-172.36688700",
+    "timezone": "Pacific/Apia",
+    "wikiDataId": "Q1193143",
+    "country_code": "WS"
+  },
+  "cities": []
+}

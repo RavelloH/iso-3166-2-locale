@@ -1,0 +1,43 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 148,
+    "code": "MS",
+    "iso3": "MSR",
+    "numeric_code": "500",
+    "name": "Montserrat",
+    "name_default": "Montserrat",
+    "native": "Montserrat",
+    "capital": "Plymouth",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".ms",
+    "population": 4386,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Montserratian",
+    "timezones": [
+      {
+        "zoneName": "America/Montserrat",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "16.75000000",
+    "longitude": "-62.20000000",
+    "emoji": "🇲🇸",
+    "emojiU": "U+1F1F2 U+1F1F8"
+  },
+  "states": [
+    "01",
+    "02",
+    "03"
+  ]
+}

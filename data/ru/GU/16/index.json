@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "Гуам",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5269,
+    "code": "16",
+    "iso2": "16",
+    "iso3166_2": "GU-16",
+    "fips_code": "16",
+    "name": "Талофофо (Talo'fo'fo)",
+    "name_default": "Talofofo (Talo'fo'fo)",
+    "native": "Tapeable (Shots'fos)",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.35390400",
+    "longitude": "144.75329320",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q2482468",
+    "country_code": "GU"
+  },
+  "cities": [
+    {
+      "id": 160274,
+      "name": "Talofofo Village",
+      "name_default": "Talofofo Village",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3215,
+      "latitude": "13.35513000",
+      "longitude": "144.75835000",
+      "timezone": "Pacific/Guam",
+      "wikiDataId": null,
+      "country_code": "GU",
+      "state_code": "16",
+      "state_id": 5269,
+      "country_id": 89
+    }
+  ]
+}

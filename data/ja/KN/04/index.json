@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "セントクリストファー・ネイビス",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3837,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "KN-04",
+    "fips_code": "04",
+    "name": "セントジョージジンジャーランド",
+    "name_default": "Saint George Gingerland",
+    "native": "Saint George Gingerland",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3832",
+    "population": 2496,
+    "latitude": "17.12577590",
+    "longitude": "-62.56198110",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q1472520",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65172,
+      "name": "マーケットショップ",
+      "name_default": "Market Shop",
+      "native": "Market Shop",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2568,
+      "latitude": "17.13218000",
+      "longitude": "-62.57267000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3398739",
+      "country_code": "KN",
+      "state_code": "04",
+      "state_id": 3837,
+      "country_id": 185
+    }
+  ]
+}

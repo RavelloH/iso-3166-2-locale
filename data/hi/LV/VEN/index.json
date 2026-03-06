@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "लातविया",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4421,
+    "code": "VEN",
+    "iso2": "VEN",
+    "iso3166_2": "LV-VEN",
+    "fips_code": "32",
+    "name": "वेंत्स्पिल्स",
+    "name_default": "Ventspils",
+    "native": "Ventspils",
+    "type": "state city",
+    "level": null,
+    "parent_id": null,
+    "population": 32723,
+    "latitude": "57.39039180",
+    "longitude": "21.56359910",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q104036",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66984,
+      "name": "वेंत्स्पिल्स",
+      "name_default": "Ventspils",
+      "native": "Ventspils",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 32723,
+      "latitude": "57.38988000",
+      "longitude": "21.57288000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q7917870",
+      "country_code": "LV",
+      "state_code": "VEN",
+      "state_id": 4421,
+      "country_id": 120
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 217,
+    "code": "TJ",
+    "iso3": "TJK",
+    "numeric_code": "762",
+    "name": "Tađikistan",
+    "name_default": "Tajikistan",
+    "native": "Тоҷикистон",
+    "capital": "Dushanbe",
+    "phonecode": "992",
+    "currency": "TJS",
+    "currency_name": "Tajikistani somoni",
+    "currency_symbol": "SM",
+    "tld": ".tj",
+    "population": 10499000,
+    "gdp": 14836,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Central Asia",
+    "subregion_id": 10,
+    "nationality": "Tajikistani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dushanbe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TJT",
+        "tzName": "Tajikistan Time"
+      }
+    ],
+    "latitude": "39.00000000",
+    "longitude": "71.00000000",
+    "emoji": "🇹🇯",
+    "emojiU": "U+1F1F9 U+1F1EF"
+  },
+  "states": [
+    "DU",
+    "GB",
+    "KT",
+    "RA",
+    "SU"
+  ]
+}

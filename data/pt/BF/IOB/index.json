@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "Burquina Faso",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3135,
+    "code": "IOB",
+    "iso2": "IOB",
+    "iso3166_2": "BF-IOB",
+    "fips_code": "52",
+    "name": "Ioba",
+    "name_default": "Ioba",
+    "native": "Emploi",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3140",
+    "population": null,
+    "latitude": "11.03431870",
+    "longitude": "-2.96277610",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q1074154",
+    "country_code": "BF"
+  },
+  "cities": []
+}

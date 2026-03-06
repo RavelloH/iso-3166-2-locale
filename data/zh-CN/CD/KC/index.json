@@ -1,0 +1,65 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 51,
+    "code": "CD",
+    "iso3": "COD",
+    "numeric_code": "180",
+    "name": "刚果（金）",
+    "name_default": "Democratic Republic of the Congo",
+    "native": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "phonecode": "243",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "population": 112832000,
+    "gdp": 79119,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Congolese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  },
+  "state": {
+    "id": 2742,
+    "code": "KC",
+    "iso2": "KC",
+    "iso3166_2": "CD-KC",
+    "fips_code": "05",
+    "name": "开赛中央区",
+    "name_default": "Kasaï Central",
+    "native": "Kasaï Central",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-5.90468960",
+    "longitude": "21.43344170",
+    "timezone": "Africa/Kinshasa",
+    "wikiDataId": "Q6702952",
+    "country_code": "CD"
+  },
+  "cities": []
+}

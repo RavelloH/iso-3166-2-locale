@@ -1,0 +1,52 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 3,
+    "code": "AL",
+    "iso3": "ALB",
+    "numeric_code": "008",
+    "name": "Albanija",
+    "name_default": "Albania",
+    "native": "Shqipëria",
+    "capital": "Tirana",
+    "phonecode": "355",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "population": 2363314,
+    "gdp": 28372,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Albanian ",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ]
+}

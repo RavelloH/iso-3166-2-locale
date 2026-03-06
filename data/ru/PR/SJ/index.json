@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Пуэрто-Рико",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5075,
+    "code": "SJ",
+    "iso2": "SJ",
+    "iso3166_2": "PR-SJ",
+    "fips_code": "233",
+    "name": "Сан-Хуан",
+    "name_default": "San Juan",
+    "native": "San Juan",
+    "type": "region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.38423900",
+    "longitude": "-66.05344000",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q41211",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153613,
+      "name": "Сан-Хуан",
+      "name_default": "San Juan",
+      "native": "San Juan",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "18.46320300",
+      "longitude": "-66.11475710",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q1320747",
+      "country_code": "PR",
+      "state_code": "SJ",
+      "state_id": 5075,
+      "country_id": 178
+    }
+  ]
+}

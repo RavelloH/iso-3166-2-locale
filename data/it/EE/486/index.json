@@ -1,0 +1,58 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 69,
+    "code": "EE",
+    "iso3": "EST",
+    "numeric_code": "233",
+    "name": "Estonia",
+    "name_default": "Estonia",
+    "native": "Eesti",
+    "capital": "Tallinn",
+    "phonecode": "372",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "population": 1369995,
+    "gdp": 45004,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Estonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  },
+  "state": {
+    "id": 5765,
+    "code": "486",
+    "iso2": "486",
+    "iso3166_2": "EE-486",
+    "fips_code": null,
+    "name": "Mustvee",
+    "name_default": "Mustvee",
+    "native": "Mustvee",
+    "type": "rural municipality",
+    "level": "2",
+    "parent_id": "3565",
+    "population": null,
+    "latitude": "58.85000000",
+    "longitude": "26.93330000",
+    "timezone": "Europe/Tallinn",
+    "wikiDataId": "Q2627812",
+    "country_code": "EE"
+  },
+  "cities": []
+}

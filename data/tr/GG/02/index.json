@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 91,
+    "code": "GG",
+    "iso3": "GGY",
+    "numeric_code": "831",
+    "name": "Alderney",
+    "name_default": "Guernsey",
+    "native": "Guernsey",
+    "capital": "St Peter Port",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".gg",
+    "population": 64781,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Channel Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Guernsey",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "49.46666666",
+    "longitude": "-2.58333333",
+    "emoji": "🇬🇬",
+    "emojiU": "U+1F1EC U+1F1EC"
+  },
+  "state": {
+    "id": 5387,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "GG-02",
+    "fips_code": "02",
+    "name": "Orman",
+    "name_default": "Forest",
+    "native": "Forest",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "49.43129170",
+    "longitude": "-2.59279680",
+    "timezone": "Europe/Guernsey",
+    "wikiDataId": "Q2324169",
+    "country_code": "GG"
+  },
+  "cities": [
+    {
+      "id": 160552,
+      "name": "Forest Parish",
+      "name_default": "Forest Parish",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1624,
+      "latitude": "49.42983000",
+      "longitude": "-2.60168000",
+      "timezone": "Europe/Guernsey",
+      "wikiDataId": null,
+      "country_code": "GG",
+      "state_code": "02",
+      "state_id": 5387,
+      "country_id": 91
+    }
+  ]
+}

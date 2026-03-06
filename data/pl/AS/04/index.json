@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 5,
+    "code": "AS",
+    "iso3": "ASM",
+    "numeric_code": "016",
+    "name": "Samoa Amerykańskie",
+    "name_default": "American Samoa",
+    "native": "American Samoa",
+    "capital": "Pago Pago",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".as",
+    "population": 49710,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "American Samoan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Pago_Pago",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "SST",
+        "tzName": "Samoa Standard Time"
+      }
+    ],
+    "latitude": "-14.33333333",
+    "longitude": "-170.00000000",
+    "emoji": "🇦🇸",
+    "emojiU": "U+1F1E6 U+1F1F8"
+  },
+  "state": {
+    "id": 5377,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "AS-04",
+    "fips_code": "04",
+    "name": "Swains",
+    "name_default": "Swains",
+    "native": "Swains",
+    "type": "atoll",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-11.05290400",
+    "longitude": "-171.07673490",
+    "timezone": "Pacific/Pago_Pago",
+    "wikiDataId": "Q1128488",
+    "country_code": "AS"
+  },
+  "cities": []
+}

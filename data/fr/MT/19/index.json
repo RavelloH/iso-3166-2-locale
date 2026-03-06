@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malte",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 93,
+    "code": "19",
+    "iso2": "19",
+    "iso3166_2": "MT-19",
+    "fips_code": "05",
+    "name": "Iklin",
+    "name_default": "Iklin",
+    "native": "Iklin",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 3422,
+    "latitude": "35.90987740",
+    "longitude": "14.45777320",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q304589",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67781,
+      "name": "L-Iklin",
+      "name_default": "L-Iklin",
+      "native": "L-Iklin",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3422,
+      "latitude": "35.90414000",
+      "longitude": "14.45415000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q304589",
+      "country_code": "MT",
+      "state_code": "19",
+      "state_id": 93,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Nordmazedonien",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 681,
+    "code": "808",
+    "iso2": "808",
+    "iso3166_2": "MK-808",
+    "fips_code": "41",
+    "name": "Karpoš",
+    "name_default": "Karpoš",
+    "native": "Карпош",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 61288,
+    "latitude": "42.00622790",
+    "longitude": "21.38625690",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1463246",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67526,
+      "name": "Skopje",
+      "name_default": "Skopje",
+      "native": "Скопско",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 422540,
+      "latitude": "41.99646000",
+      "longitude": "21.43141000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q384",
+      "country_code": "MK",
+      "state_code": "808",
+      "state_id": 681,
+      "country_id": 129
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "Frañs",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 4972,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "FR-06",
+    "fips_code": null,
+    "name": "Alpes-Maritimes",
+    "name_default": "Alpes-Maritimes",
+    "native": "Alpes-Maritimes",
+    "type": "metropolitan department",
+    "level": "2",
+    "parent_id": "4812",
+    "population": 1114579,
+    "latitude": "43.94199960",
+    "longitude": "7.02026550",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q3139",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 160,
+    "code": "NE",
+    "iso3": "NER",
+    "numeric_code": "562",
+    "name": "Níger",
+    "name_default": "Niger",
+    "native": "Niger",
+    "capital": "Niamey",
+    "phonecode": "227",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ne",
+    "population": 26312034,
+    "gdp": 21874,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Nigerien",
+    "timezones": [
+      {
+        "zoneName": "Africa/Niamey",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇪",
+    "emojiU": "U+1F1F3 U+1F1EA"
+  },
+  "state": {
+    "id": 5685,
+    "code": "8",
+    "iso2": "8",
+    "iso3166_2": "NE-8",
+    "fips_code": "08",
+    "name": "Niamei",
+    "name_default": "Niamey",
+    "native": "Niamey",
+    "type": "urban community",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.51361111",
+    "longitude": "2.10888889",
+    "timezone": "Africa/Niamey",
+    "wikiDataId": "Q3674",
+    "country_code": "NE"
+  },
+  "cities": [
+    {
+      "id": 160096,
+      "name": "Niamei",
+      "name_default": "Niamey",
+      "native": "Niamey",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1496260,
+      "latitude": "13.51361111",
+      "longitude": "2.10888889",
+      "timezone": "Africa/Niamey",
+      "wikiDataId": "Q3674",
+      "country_code": "NE",
+      "state_code": "8",
+      "state_id": 5685,
+      "country_id": 160
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "Eslovenia",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4310,
+    "code": "012",
+    "iso2": "012",
+    "iso3166_2": "SI-012",
+    "fips_code": "12",
+    "name": "Cerklje na Gorenjskem",
+    "name_default": "Cerklje na Gorenjskem",
+    "native": "Cerklje na Gorenjskem",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 1710,
+    "latitude": "46.25170540",
+    "longitude": "14.48579790",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q859679",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104080,
+      "name": "Cerklje na Gorenjskem",
+      "name_default": "Cerklje na Gorenjskem",
+      "native": "Cerklje na Gorenjskem",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1710,
+      "latitude": "46.25417000",
+      "longitude": "14.48861000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q1252424",
+      "country_code": "SI",
+      "state_code": "012",
+      "state_id": 4310,
+      "country_id": 201
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 162,
+    "code": "NU",
+    "iso3": "NIU",
+    "numeric_code": "570",
+    "name": "Niue",
+    "name_default": "Niue",
+    "native": "Niuē",
+    "capital": "Alofi",
+    "phonecode": "683",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nu",
+    "population": 1681,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Niuean",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Niue",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "NUT",
+        "tzName": "Niue Time"
+      }
+    ],
+    "latitude": "-19.03333333",
+    "longitude": "-169.86666666",
+    "emoji": "🇳🇺",
+    "emojiU": "U+1F1F3 U+1F1FA"
+  },
+  "state": {
+    "id": 5433,
+    "code": "12",
+    "iso2": "12",
+    "iso3166_2": "NU-12",
+    "fips_code": "12",
+    "name": "Tamakautoga",
+    "name_default": "Tamakautoga",
+    "native": "Tamakautoga",
+    "type": "village",
+    "level": null,
+    "parent_id": null,
+    "population": 180,
+    "latitude": "-19.10452400",
+    "longitude": "-169.91738200",
+    "timezone": "Pacific/Niue",
+    "wikiDataId": "Q3045565",
+    "country_code": "NU"
+  },
+  "cities": []
+}

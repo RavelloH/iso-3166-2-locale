@@ -1,0 +1,410 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 39,
+    "code": "CA",
+    "iso3": "CAN",
+    "numeric_code": "124",
+    "name": "Kanada",
+    "name_default": "Canada",
+    "native": "Canada",
+    "capital": "Ottawa",
+    "phonecode": "1",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "population": 41548787,
+    "gdp": 2225341,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Canadian",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  },
+  "state": {
+    "id": 871,
+    "code": "PE",
+    "iso2": "PE",
+    "iso3166_2": "CA-PE",
+    "fips_code": "09",
+    "name": "Wyspa Księcia Edwarda",
+    "name_default": "Prince Edward Island",
+    "native": "Prince Edward Island",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 154331,
+    "latitude": "46.50368070",
+    "longitude": "-63.59541100",
+    "timezone": "America/Halifax",
+    "wikiDataId": "Q1979",
+    "country_code": "CA"
+  },
+  "cities": [
+    {
+      "id": 16154,
+      "name": "Alberton",
+      "name_default": "Alberton",
+      "native": "Alberton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1147,
+      "latitude": "46.81685000",
+      "longitude": "-64.06542000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q740843",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16210,
+      "name": "Belfast",
+      "name_default": "Belfast",
+      "native": "Belfast",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1687,
+      "latitude": "46.08341000",
+      "longitude": "-62.88197000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q2894317",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16297,
+      "name": "Charlottetown",
+      "name_default": "Charlottetown",
+      "native": "Charlottetown",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 38809,
+      "latitude": "46.23899000",
+      "longitude": "-63.13414000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q2127",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16338,
+      "name": "Kornwalia",
+      "name_default": "Cornwall",
+      "native": "Cornwall",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5348,
+      "latitude": "46.22652000",
+      "longitude": "-63.21809000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q1018959",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16417,
+      "name": "Fallingbrook",
+      "name_default": "Fallingbrook",
+      "native": "Fallingbrook",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 25000,
+      "latitude": "45.47558000",
+      "longitude": "-75.48401000",
+      "timezone": "America/Toronto",
+      "wikiDataId": "Q1744221",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16538,
+      "name": "Kensington",
+      "name_default": "Kensington",
+      "native": "Kensington",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1619,
+      "latitude": "46.43343000",
+      "longitude": "-63.64871000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q2126898",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 16707,
+      "name": "Montague",
+      "name_default": "Montague",
+      "native": "Montague",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1834,
+      "latitude": "46.16681000",
+      "longitude": "-62.64866000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q1009804",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 17055,
+      "name": "Souris",
+      "name_default": "Souris",
+      "native": "Mouse",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1053,
+      "latitude": "46.35010000",
+      "longitude": "-62.24862000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q2167346",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    },
+    {
+      "id": 17087,
+      "name": "Summerside",
+      "name_default": "Summerside",
+      "native": "Summerside",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16001,
+      "latitude": "46.39593000",
+      "longitude": "-63.78762000",
+      "timezone": "America/Halifax",
+      "wikiDataId": "Q863058",
+      "country_code": "CA",
+      "state_code": "PE",
+      "state_id": 871,
+      "country_id": 39
+    }
+  ]
+}

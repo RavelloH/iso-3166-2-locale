@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 2,
+    "code": "AX",
+    "iso3": "ALA",
+    "numeric_code": "248",
+    "name": "올란드 제도",
+    "name_default": "Aland Islands",
+    "native": "Åland",
+    "capital": "Mariehamn",
+    "phonecode": "358",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ax",
+    "population": 30654,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Aland Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "emoji": "🇦🇽",
+    "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  "state": {
+    "id": 5299,
+    "code": "13",
+    "iso2": "13",
+    "iso3166_2": "AX-13",
+    "fips_code": "13",
+    "name": "럼팔랜드",
+    "name_default": "Lumparland",
+    "native": "Lumparland",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 378,
+    "latitude": "60.11683850",
+    "longitude": "20.26105830",
+    "timezone": "Europe/Mariehamn",
+    "wikiDataId": "Q176191",
+    "country_code": "AX"
+  },
+  "cities": []
+}

@@ -1,0 +1,39 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 187,
+    "code": "PM",
+    "iso3": "SPM",
+    "numeric_code": "666",
+    "name": "Saint-Pierre-et-Miquelon",
+    "name_default": "Saint Pierre and Miquelon",
+    "native": "Saint-Pierre-et-Miquelon",
+    "capital": "Saint-Pierre",
+    "phonecode": "508",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".pm",
+    "population": 5819,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Saint-Pierrais or Miquelonnais",
+    "timezones": [
+      {
+        "zoneName": "America/Miquelon",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PMDT",
+        "tzName": "Pierre & Miquelon Daylight Time"
+      }
+    ],
+    "latitude": "46.83333333",
+    "longitude": "-56.33333333",
+    "emoji": "🇵🇲",
+    "emojiU": "U+1F1F5 U+1F1F2"
+  },
+  "states": []
+}

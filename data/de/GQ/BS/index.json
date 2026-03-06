@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 67,
+    "code": "GQ",
+    "iso3": "GNQ",
+    "numeric_code": "226",
+    "name": "Äquatorial-Guinea",
+    "name_default": "Equatorial Guinea",
+    "native": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "phonecode": "240",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".gq",
+    "population": 1668768,
+    "gdp": 12684,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Equatorial Guinean, Equatoguinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "2.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇬🇶",
+    "emojiU": "U+1F1EC U+1F1F6"
+  },
+  "state": {
+    "id": 3443,
+    "code": "BS",
+    "iso2": "BS",
+    "iso3166_2": "GQ-BS",
+    "fips_code": "05",
+    "name": "Bioko Sur",
+    "name_default": "Bioko Sur",
+    "native": "Bioko sur",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 34674,
+    "latitude": "3.42452540",
+    "longitude": "8.66460920",
+    "timezone": "Africa/Malabo",
+    "wikiDataId": "Q845817",
+    "country_code": "GQ"
+  },
+  "cities": [
+    {
+      "id": 52385,
+      "name": "Luba",
+      "name_default": "Luba",
+      "native": "Luba",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 7739,
+      "latitude": "3.45683000",
+      "longitude": "8.55465000",
+      "timezone": "Africa/Malabo",
+      "wikiDataId": "Q985548",
+      "country_code": "GQ",
+      "state_code": "BS",
+      "state_id": 3443,
+      "country_id": 67
+    }
+  ]
+}

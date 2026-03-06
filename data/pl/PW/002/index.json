@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "Palau",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4540,
+    "code": "002",
+    "iso2": "002",
+    "iso3166_2": "PW-002",
+    "fips_code": "01",
+    "name": "Aimeliik",
+    "name_default": "Aimeliik",
+    "native": "Ameliikik",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 334,
+    "latitude": "7.56514970",
+    "longitude": "134.14696650",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q405589",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89709,
+      "name": "Ngchemiangel",
+      "name_default": "Ngchemiangel",
+      "native": "Nzchemiaangel",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 270,
+      "latitude": "7.44613000",
+      "longitude": "134.47678000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q3001462",
+      "country_code": "PW",
+      "state_code": "002",
+      "state_id": 4540,
+      "country_id": 168
+    }
+  ]
+}

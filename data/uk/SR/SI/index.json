@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 210,
+    "code": "SR",
+    "iso3": "SUR",
+    "numeric_code": "740",
+    "name": "Суринам",
+    "name_default": "Suriname",
+    "native": "Suriname",
+    "capital": "Paramaribo",
+    "phonecode": "597",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "population": 616500,
+    "gdp": 4506,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Surinamese",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  },
+  "state": {
+    "id": 2847,
+    "code": "SI",
+    "iso2": "SI",
+    "iso3166_2": "SR-SI",
+    "fips_code": "18",
+    "name": "Сіпалівіні",
+    "name_default": "Sipaliwini",
+    "native": "Sipaliwini",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "3.68150860",
+    "longitude": "-55.96124600",
+    "timezone": "America/Paramaribo",
+    "wikiDataId": "Q1130138",
+    "country_code": "SR"
+  },
+  "cities": []
+}

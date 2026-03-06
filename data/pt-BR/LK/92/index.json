@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 208,
+    "code": "LK",
+    "iso3": "LKA",
+    "numeric_code": "144",
+    "name": "Sri Lanka",
+    "name_default": "Sri Lanka",
+    "native": "śrī laṃkāva",
+    "capital": "Colombo",
+    "phonecode": "94",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "population": 21763170,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Sri Lankan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  },
+  "state": {
+    "id": 2797,
+    "code": "92",
+    "iso2": "92",
+    "iso3166_2": "LK-92",
+    "fips_code": "11",
+    "name": "Kegalle",
+    "name_default": "Kegalle",
+    "native": "කෑගල්ල",
+    "type": "district",
+    "level": "1",
+    "parent_id": "2803",
+    "population": null,
+    "latitude": "7.12040530",
+    "longitude": "80.32131060",
+    "timezone": "Asia/Colombo",
+    "wikiDataId": "Q1737803",
+    "country_code": "LK"
+  },
+  "cities": []
+}

@@ -1,0 +1,46 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 72,
+    "code": "FO",
+    "iso3": "FRO",
+    "numeric_code": "234",
+    "name": "Farski Otoci",
+    "name_default": "Faroe Islands",
+    "native": "Føroyar",
+    "capital": "Torshavn",
+    "phonecode": "298",
+    "currency": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "Kr.",
+    "tld": ".fo",
+    "population": 55146,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Faroese",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Faroe",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      }
+    ],
+    "latitude": "62.00000000",
+    "longitude": "-7.00000000",
+    "emoji": "🇫🇴",
+    "emojiU": "U+1F1EB U+1F1F4"
+  },
+  "states": [
+    "EY",
+    "NO",
+    "SA",
+    "ST",
+    "SU",
+    "VA"
+  ]
+}

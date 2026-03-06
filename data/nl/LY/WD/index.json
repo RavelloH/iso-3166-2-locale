@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 124,
+    "code": "LY",
+    "iso3": "LBY",
+    "numeric_code": "434",
+    "name": "Libië",
+    "name_default": "Libya",
+    "native": "‏ليبيا",
+    "capital": "Tripolis",
+    "phonecode": "218",
+    "currency": "LYD",
+    "currency_name": "Libyan dinar",
+    "currency_symbol": "د.ل",
+    "tld": ".ly",
+    "population": 7459000,
+    "gdp": 47484,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Libyan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tripoli",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "25.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇱🇾",
+    "emojiU": "U+1F1F1 U+1F1FE"
+  },
+  "state": {
+    "id": 2973,
+    "code": "WD",
+    "iso2": "WD",
+    "iso3166_2": "LY-WD",
+    "fips_code": "84",
+    "name": "Wadi al Hayaa",
+    "name_default": "Wadi al Hayaa",
+    "native": "وادي الحياة",
+    "type": "popularate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "26.42333690",
+    "longitude": "12.71836380",
+    "timezone": "Africa/Tripoli",
+    "wikiDataId": "Q48233",
+    "country_code": "LY"
+  },
+  "cities": [
+    {
+      "id": 67034,
+      "name": "Ubari",
+      "name_default": "Ubari",
+      "native": "أوباري",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 33569,
+      "latitude": "26.59034000",
+      "longitude": "12.77511000",
+      "timezone": "Africa/Tripoli",
+      "wikiDataId": "Q1424460",
+      "country_code": "LY",
+      "state_code": "WD",
+      "state_id": 2973,
+      "country_id": 124
+    }
+  ]
+}

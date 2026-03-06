@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 208,
+    "code": "LK",
+    "iso3": "LKA",
+    "numeric_code": "144",
+    "name": "Sri Lanka",
+    "name_default": "Sri Lanka",
+    "native": "śrī laṃkāva",
+    "capital": "Colombo",
+    "phonecode": "94",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "population": 21763170,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Sri Lankan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  },
+  "state": {
+    "id": 2794,
+    "code": "23",
+    "iso2": "23",
+    "iso3166_2": "LK-23",
+    "fips_code": "17",
+    "name": "Nuwara Eliya",
+    "name_default": "Nuwara Eliya",
+    "native": "නුවරඑළිය",
+    "type": "district",
+    "level": "1",
+    "parent_id": "2798",
+    "population": null,
+    "latitude": "6.97388630",
+    "longitude": "80.76712700",
+    "timezone": "Asia/Colombo",
+    "wikiDataId": "Q1583950",
+    "country_code": "LK"
+  },
+  "cities": []
+}

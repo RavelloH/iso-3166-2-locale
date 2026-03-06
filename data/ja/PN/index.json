@@ -1,0 +1,39 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 175,
+    "code": "PN",
+    "iso3": "PCN",
+    "numeric_code": "612",
+    "name": "ピトケアン",
+    "name_default": "Pitcairn Island",
+    "native": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "phonecode": "870",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".pn",
+    "population": 35,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Pitcairn Island",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Pitcairn",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      }
+    ],
+    "latitude": "-25.06666666",
+    "longitude": "-130.10000000",
+    "emoji": "🇵🇳",
+    "emojiU": "U+1F1F5 U+1F1F3"
+  },
+  "states": []
+}

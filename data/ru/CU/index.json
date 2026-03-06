@@ -1,0 +1,56 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 56,
+    "code": "CU",
+    "iso3": "CUB",
+    "numeric_code": "192",
+    "name": "Куба",
+    "name_default": "Cuba",
+    "native": "Cuba",
+    "capital": "Havana",
+    "phonecode": "53",
+    "currency": "CUP",
+    "currency_name": "Cuban peso",
+    "currency_symbol": "$",
+    "tld": ".cu",
+    "population": 9748007,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Cuban",
+    "timezones": [
+      {
+        "zoneName": "America/Havana",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "CST",
+        "tzName": "Cuba Standard Time"
+      }
+    ],
+    "latitude": "21.50000000",
+    "longitude": "-80.00000000",
+    "emoji": "🇨🇺",
+    "emojiU": "U+1F1E8 U+1F1FA"
+  },
+  "states": [
+    "01",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "99"
+  ]
+}

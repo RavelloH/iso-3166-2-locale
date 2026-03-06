@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 192,
+    "code": "SM",
+    "iso3": "SMR",
+    "numeric_code": "674",
+    "name": "Сан-Марино",
+    "name_default": "San Marino",
+    "native": "San Marino",
+    "capital": "San Marino",
+    "phonecode": "378",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sm",
+    "population": 34132,
+    "gdp": 2047,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Sammarinese",
+    "timezones": [
+      {
+        "zoneName": "Europe/San_Marino",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.76666666",
+    "longitude": "12.41666666",
+    "emoji": "🇸🇲",
+    "emojiU": "U+1F1F8 U+1F1F2"
+  },
+  "state": {
+    "id": 61,
+    "code": "06",
+    "iso2": "06",
+    "iso3166_2": "SM-06",
+    "fips_code": "06",
+    "name": "Борго-Маджоре",
+    "name_default": "Borgo Maggiore",
+    "native": "Borgo Maggiore",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 6953,
+    "latitude": "43.94118650",
+    "longitude": "12.44742200",
+    "timezone": "Europe/San_Marino",
+    "wikiDataId": "Q201368",
+    "country_code": "SM"
+  },
+  "cities": [
+    {
+      "id": 104694,
+      "name": "Борго-Маджоре",
+      "name_default": "Borgo Maggiore",
+      "native": "Borgo Maggiore",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6424,
+      "latitude": "43.94193000",
+      "longitude": "12.44738000",
+      "timezone": "Europe/San_Marino",
+      "wikiDataId": "Q289747",
+      "country_code": "SM",
+      "state_code": "06",
+      "state_id": 61,
+      "country_id": 192
+    }
+  ]
+}

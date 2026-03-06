@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 40,
+    "code": "CV",
+    "iso3": "CPV",
+    "numeric_code": "132",
+    "name": "Cabo Verde",
+    "name_default": "Cape Verde",
+    "native": "Cabo Verde",
+    "capital": "Praia",
+    "phonecode": "238",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "population": 491233,
+    "gdp": 2786,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Verdean",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  },
+  "state": {
+    "id": 2995,
+    "code": "CF",
+    "iso2": "CF",
+    "iso3166_2": "CV-CF",
+    "fips_code": "24",
+    "name": "Santa Catarina do Fogo",
+    "name_default": "Santa Catarina do Fogo",
+    "native": "Santa Catarina do Fogo",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 5299,
+    "latitude": "14.90225450",
+    "longitude": "-24.32125790",
+    "timezone": "Atlantic/Cape_Verde",
+    "wikiDataId": "Q2608046",
+    "country_code": "CV"
+  },
+  "cities": [
+    {
+      "id": 21990,
+      "name": "Cova Figueira",
+      "name_default": "Cova Figueira",
+      "native": "Cova Figueira",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 720,
+      "latitude": "14.89054000",
+      "longitude": "-24.29343000",
+      "timezone": "Atlantic/Cape_Verde",
+      "wikiDataId": "Q485198",
+      "country_code": "CV",
+      "state_code": "CF",
+      "state_id": 2995,
+      "country_id": 40
+    }
+  ]
+}

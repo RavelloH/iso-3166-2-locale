@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Aserbaidschan",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 574,
+    "code": "GYG",
+    "iso2": "GYG",
+    "iso3166_2": "AZ-GYG",
+    "fips_code": "62",
+    "name": "Göygöl",
+    "name_default": "Goygol",
+    "native": "Xas",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "40.58800400",
+    "longitude": "46.32109500",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q388087",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8196,
+      "name": "Göygöl (Stadt)",
+      "name_default": "Yelenendorf",
+      "native": "Yelenendorf",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 17816,
+      "latitude": "40.58584000",
+      "longitude": "46.31890000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q1026631",
+      "country_code": "AZ",
+      "state_code": "GYG",
+      "state_id": 574,
+      "country_id": 16
+    }
+  ]
+}

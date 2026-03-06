@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "リベリア",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3034,
+    "code": "BG",
+    "iso2": "BG",
+    "iso3166_2": "LR-BG",
+    "fips_code": "01",
+    "name": "ボン",
+    "name_default": "Bong",
+    "native": "Bong",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "6.96221950",
+    "longitude": "-9.71344590",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q877578",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66553,
+      "name": "ガバンガ",
+      "name_default": "Gbarnga",
+      "native": "Recurring",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 86031,
+      "latitude": "6.99543000",
+      "longitude": "-9.47122000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q985291",
+      "country_code": "LR",
+      "state_code": "BG",
+      "state_id": 3034,
+      "country_id": 123
+    }
+  ]
+}

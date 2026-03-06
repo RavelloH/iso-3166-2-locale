@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "Islanda",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5611,
+    "code": "SVG",
+    "iso2": "SVG",
+    "iso3166_2": "IS-SVG",
+    "fips_code": null,
+    "name": "Vogar",
+    "name_default": "Vogar",
+    "native": "Sveitarfélagið Vogar",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "63.98000000",
+    "longitude": "-22.38000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q208047",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135227,
+      "name": "Vogar",
+      "name_default": "Vogar",
+      "native": "Spilamaður",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1029,
+      "latitude": "63.98160000",
+      "longitude": "-22.38473000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1019448",
+      "country_code": "IS",
+      "state_code": "SVG",
+      "state_id": 5611,
+      "country_id": 100
+    }
+  ]
+}

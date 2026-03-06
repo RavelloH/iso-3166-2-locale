@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 232,
+    "code": "GB",
+    "iso3": "GBR",
+    "numeric_code": "826",
+    "name": "यूनाइटेड किंगडम",
+    "name_default": "United Kingdom",
+    "native": "United Kingdom",
+    "capital": "London",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".uk",
+    "population": 68265209,
+    "gdp": 3839180,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "British, UK",
+    "timezones": [
+      {
+        "zoneName": "Europe/London",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "54.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇧",
+    "emojiU": "U+1F1EC U+1F1E7"
+  },
+  "state": {
+    "id": 2524,
+    "code": "NWP",
+    "iso2": "NWP",
+    "iso3166_2": "GB-NWP",
+    "fips_code": "Y6",
+    "name": "न्यूपोर्ट",
+    "name_default": "Newport",
+    "native": "Newport",
+    "type": "unitary authority",
+    "level": "2",
+    "parent_id": "2338",
+    "population": null,
+    "latitude": "52.76885940",
+    "longitude": "-2.37836760",
+    "timezone": "Europe/London",
+    "wikiDataId": "Q11294004",
+    "country_code": "GB"
+  },
+  "cities": []
+}

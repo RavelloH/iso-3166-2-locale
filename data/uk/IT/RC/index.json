@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 107,
+    "code": "IT",
+    "iso3": "ITA",
+    "numeric_code": "380",
+    "name": "Італія",
+    "name_default": "Italy",
+    "native": "Italia",
+    "capital": "Rome",
+    "phonecode": "39",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "population": 58919230,
+    "gdp": 2422855,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Italian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  },
+  "state": {
+    "id": 5635,
+    "code": "RC",
+    "iso2": "RC",
+    "iso3166_2": "IT-RC",
+    "fips_code": "16",
+    "name": "Реджо-Калабрія",
+    "name_default": "Reggio Calabria",
+    "native": "Reggio Calabria",
+    "type": "metropolitan city",
+    "level": "1",
+    "parent_id": "1703",
+    "population": null,
+    "latitude": "38.10882200",
+    "longitude": "15.64392200",
+    "timezone": "Europe/Rome",
+    "wikiDataId": "Q18241896",
+    "country_code": "IT"
+  },
+  "cities": []
+}

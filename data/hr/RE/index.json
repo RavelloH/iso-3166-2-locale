@@ -1,0 +1,44 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 180,
+    "code": "RE",
+    "iso3": "REU",
+    "numeric_code": "638",
+    "name": "Réunion",
+    "name_default": "Reunion",
+    "native": "La Réunion",
+    "capital": "Saint-Denis",
+    "phonecode": "262",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".re",
+    "population": 896175,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Reunionese, Reunionnais",
+    "timezones": [
+      {
+        "zoneName": "Indian/Reunion",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "RET",
+        "tzName": "Réunion Time"
+      }
+    ],
+    "latitude": "-21.15000000",
+    "longitude": "55.50000000",
+    "emoji": "🇷🇪",
+    "emojiU": "U+1F1F7 U+1F1EA"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 191,
+    "code": "WS",
+    "iso3": "WSM",
+    "numeric_code": "882",
+    "name": "Samoa",
+    "name_default": "Samoa",
+    "native": "Samoa",
+    "capital": "Apia",
+    "phonecode": "685",
+    "currency": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "SAT",
+    "tld": ".ws",
+    "population": 205557,
+    "gdp": 1160,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Samoan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Apia",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "WST",
+        "tzName": "West Samoa Time"
+      }
+    ],
+    "latitude": "-13.58333333",
+    "longitude": "-172.33333333",
+    "emoji": "🇼🇸",
+    "emojiU": "U+1F1FC U+1F1F8"
+  },
+  "state": {
+    "id": 4761,
+    "code": "AL",
+    "iso2": "AL",
+    "iso3166_2": "WS-AL",
+    "fips_code": "02",
+    "name": "Aiga-i-le-Tai",
+    "name_default": "Aiga-i-le-Tai",
+    "native": "Aiga-i-le-Tai",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 5029,
+    "latitude": "-13.86203100",
+    "longitude": "-172.03283710",
+    "timezone": "Pacific/Apia",
+    "wikiDataId": "Q1144488",
+    "country_code": "WS"
+  },
+  "cities": [
+    {
+      "id": 130654,
+      "name": "Mulifanua",
+      "name_default": "Mulifanua",
+      "native": "Mulifanua",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4508,
+      "latitude": "-13.83183000",
+      "longitude": "-172.03602000",
+      "timezone": "Pacific/Apia",
+      "wikiDataId": "Q2270858",
+      "country_code": "WS",
+      "state_code": "AL",
+      "state_id": 4761,
+      "country_id": 191
+    }
+  ]
+}

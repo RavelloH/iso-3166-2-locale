@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 117,
+    "code": "KW",
+    "iso3": "KWT",
+    "numeric_code": "414",
+    "name": "Кувейт",
+    "name_default": "Kuwait",
+    "native": "الكويت",
+    "capital": "Kuwait City",
+    "phonecode": "965",
+    "currency": "KWD",
+    "currency_name": "Kuwaiti dinar",
+    "currency_symbol": "ك.د",
+    "tld": ".kw",
+    "population": 4881254,
+    "gdp": 153101,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Kuwaiti",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuwait",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "29.50000000",
+    "longitude": "45.75000000",
+    "emoji": "🇰🇼",
+    "emojiU": "U+1F1F0 U+1F1FC"
+  },
+  "state": {
+    "id": 972,
+    "code": "JA",
+    "iso2": "JA",
+    "iso3166_2": "KW-JA",
+    "fips_code": "05",
+    "name": "Аль-Джахра",
+    "name_default": "Al Jahra",
+    "native": "الجهراء",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": 393432,
+    "latitude": "29.34746360",
+    "longitude": "47.67220540",
+    "timezone": "Asia/Kuwait",
+    "wikiDataId": "Q405701",
+    "country_code": "KW"
+  },
+  "cities": [
+    {
+      "id": 65577,
+      "name": "Аль-Джахра",
+      "name_default": "Al Jahrā’",
+      "native": "الجهراء",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 24281,
+      "latitude": "29.33750000",
+      "longitude": "47.65806000",
+      "timezone": "Asia/Kuwait",
+      "wikiDataId": "Q980396",
+      "country_code": "KW",
+      "state_code": "JA",
+      "state_id": 972,
+      "country_id": 117
+    }
+  ]
+}

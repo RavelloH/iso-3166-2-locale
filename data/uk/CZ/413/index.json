@@ -1,0 +1,58 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "Чеська Республіка",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4595,
+    "code": "413",
+    "iso2": "413",
+    "iso3166_2": "CZ-413",
+    "fips_code": "83",
+    "name": "Соколов",
+    "name_default": "Sokolov",
+    "native": "Sokolov",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4581",
+    "population": null,
+    "latitude": "50.18090970",
+    "longitude": "12.63949860",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q833856",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

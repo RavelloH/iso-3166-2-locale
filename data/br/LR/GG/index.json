@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "Liberia",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3039,
+    "code": "GG",
+    "iso2": "GG",
+    "iso3166_2": "LR-GG",
+    "fips_code": "19",
+    "name": "Gedeh Bras",
+    "name_default": "Grand Gedeh",
+    "native": "Grand Gedeh",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 216692,
+    "latitude": "5.81615330",
+    "longitude": "-8.09955370",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q950841",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66563,
+      "name": "Zwedru",
+      "name_default": "Zwedru",
+      "native": "Zwedru",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 38269,
+      "latitude": "6.06846000",
+      "longitude": "-8.13559000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q231884",
+      "country_code": "LR",
+      "state_code": "GG",
+      "state_id": 3039,
+      "country_id": 123
+    }
+  ]
+}

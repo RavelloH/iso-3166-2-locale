@@ -1,0 +1,39 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 76,
+    "code": "GF",
+    "iso3": "GUF",
+    "numeric_code": "254",
+    "name": "Französisch Guyana",
+    "name_default": "French Guiana",
+    "native": "Guyane française",
+    "capital": "Cayenne",
+    "phonecode": "594",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gf",
+    "population": 292354,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "French Guianese",
+    "timezones": [
+      {
+        "zoneName": "America/Cayenne",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "GFT",
+        "tzName": "French Guiana Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-53.00000000",
+    "emoji": "🇬🇫",
+    "emojiU": "U+1F1EC U+1F1EB"
+  },
+  "states": []
+}

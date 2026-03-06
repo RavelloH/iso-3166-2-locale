@@ -1,0 +1,356 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 39,
+    "code": "CA",
+    "iso3": "CAN",
+    "numeric_code": "124",
+    "name": "Kanada",
+    "name_default": "Canada",
+    "native": "Canada",
+    "capital": "Ottawa",
+    "phonecode": "1",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "population": 41548787,
+    "gdp": 2225341,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Canadian",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  },
+  "state": {
+    "id": 876,
+    "code": "NU",
+    "iso2": "NU",
+    "iso3166_2": "CA-NU",
+    "fips_code": "14",
+    "name": "Nunavut",
+    "name_default": "Nunavut",
+    "native": "Nunavut",
+    "type": "territory",
+    "level": null,
+    "parent_id": null,
+    "population": 36858,
+    "latitude": "65.03777270",
+    "longitude": "-92.55407910",
+    "timezone": "America/Iqaluit",
+    "wikiDataId": "Q2023",
+    "country_code": "CA"
+  },
+  "cities": [
+    {
+      "id": 16315,
+      "name": "Rijeka Clyde",
+      "name_default": "Clyde River",
+      "native": "Clyde River",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1181,
+      "latitude": "70.47233000",
+      "longitude": "-68.58987000",
+      "timezone": "America/Iqaluit",
+      "wikiDataId": "Q201351",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    },
+    {
+      "id": 16453,
+      "name": "Gjoa Haven",
+      "name_default": "Gjoa Haven",
+      "native": "Gjoa Haven",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1349,
+      "latitude": "68.62602000",
+      "longitude": "-95.87836000",
+      "timezone": "America/Cambridge_Bay",
+      "wikiDataId": "Q719585",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    },
+    {
+      "id": 16524,
+      "name": "Iqaluit",
+      "name_default": "Iqaluit",
+      "native": "Fish",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 7429,
+      "latitude": "63.74697000",
+      "longitude": "-68.51727000",
+      "timezone": "America/Iqaluit",
+      "wikiDataId": "Q2030",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    },
+    {
+      "id": 16555,
+      "name": "Kugluktuk",
+      "name_default": "Kugluktuk",
+      "native": "Bullet",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1382,
+      "latitude": "67.82743000",
+      "longitude": "-115.09649000",
+      "timezone": "America/Cambridge_Bay",
+      "wikiDataId": "Q719707",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    },
+    {
+      "id": 16793,
+      "name": "Pangnirtung",
+      "name_default": "Pangnirtung",
+      "native": "Pangnirtung",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1504,
+      "latitude": "66.14642000",
+      "longitude": "-65.69996000",
+      "timezone": "America/Iqaluit",
+      "wikiDataId": "Q631747",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    },
+    {
+      "id": 16869,
+      "name": "Rankin Inlet",
+      "name_default": "Rankin Inlet",
+      "native": "Rankin Inlet",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 2975,
+      "latitude": "62.80906000",
+      "longitude": "-92.08534000",
+      "timezone": "America/Rankin_Inlet",
+      "wikiDataId": "Q1021766",
+      "country_code": "CA",
+      "state_code": "NU",
+      "state_id": 876,
+      "country_id": 39
+    }
+  ]
+}

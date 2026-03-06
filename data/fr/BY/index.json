@@ -1,0 +1,47 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 21,
+    "code": "BY",
+    "iso3": "BLR",
+    "numeric_code": "112",
+    "name": "Biélorussie",
+    "name_default": "Belarus",
+    "native": "Белару́сь",
+    "capital": "Minsk",
+    "phonecode": "375",
+    "currency": "BYN",
+    "currency_name": "Belarusian ruble",
+    "currency_symbol": "Br",
+    "tld": ".by",
+    "population": 9109280,
+    "gdp": 71561,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Belarusian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Minsk",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      }
+    ],
+    "latitude": "53.00000000",
+    "longitude": "28.00000000",
+    "emoji": "🇧🇾",
+    "emojiU": "U+1F1E7 U+1F1FE"
+  },
+  "states": [
+    "BR",
+    "HM",
+    "HO",
+    "HR",
+    "MA",
+    "MI",
+    "VI"
+  ]
+}

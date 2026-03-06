@@ -1,0 +1,77 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 243,
+    "code": "WF",
+    "iso3": "WLF",
+    "numeric_code": "876",
+    "name": "Wallis e Futuna",
+    "name_default": "Wallis and Futuna Islands",
+    "native": "Wallis et Futuna",
+    "capital": "Mata Utu",
+    "phonecode": "681",
+    "currency": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "tld": ".wf",
+    "population": 11620,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Wallis and Futuna, Wallisian or Futunan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Wallis",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "WFT",
+        "tzName": "Wallis & Futuna Time"
+      }
+    ],
+    "latitude": "-13.30000000",
+    "longitude": "-176.20000000",
+    "emoji": "🇼🇫",
+    "emojiU": "U+1F1FC U+1F1EB"
+  },
+  "state": {
+    "id": 5709,
+    "code": "AL",
+    "iso2": "AL",
+    "iso3166_2": null,
+    "fips_code": null,
+    "name": "Alo",
+    "name_default": "Alo",
+    "native": "Alo",
+    "type": "administrative precinct",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-14.30938056",
+    "longitude": "-178.12355000",
+    "timezone": "Pacific/Wallis",
+    "wikiDataId": "Q2734700",
+    "country_code": "WF"
+  },
+  "cities": [
+    {
+      "id": 160134,
+      "name": "Ono",
+      "name_default": "Ono",
+      "native": "Ono",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 239,
+      "latitude": "-14.31055556",
+      "longitude": "-178.10500000",
+      "timezone": "Pacific/Wallis",
+      "wikiDataId": "Q3882732",
+      "country_code": "WF",
+      "state_code": "AL",
+      "state_id": 5709,
+      "country_id": 243
+    }
+  ]
+}

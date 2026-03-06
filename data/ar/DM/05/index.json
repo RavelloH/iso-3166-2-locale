@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "دومينيكا",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "state": {
+    "id": 4076,
+    "code": "05",
+    "iso2": "05",
+    "iso3166_2": "DM-05",
+    "fips_code": "05",
+    "name": "القديس يوحنا",
+    "name_default": "Saint John",
+    "native": "Saint John",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.57391580",
+    "longitude": "-61.43697570",
+    "timezone": "America/Dominica",
+    "wikiDataId": "Q1476285",
+    "country_code": "DM"
+  },
+  "cities": [
+    {
+      "id": 31011,
+      "name": "بورتسموث",
+      "name_default": "Portsmouth",
+      "native": "Portsmouth",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3633,
+      "latitude": "15.58333000",
+      "longitude": "-61.46667000",
+      "timezone": "America/Dominica",
+      "wikiDataId": "Q1014235",
+      "country_code": "DM",
+      "state_code": "05",
+      "state_id": 4076,
+      "country_id": 61
+    }
+  ]
+}

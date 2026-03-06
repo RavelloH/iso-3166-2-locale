@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 89,
+    "code": "GU",
+    "iso3": "GUM",
+    "numeric_code": "316",
+    "name": "关岛",
+    "name_default": "Guam",
+    "native": "Guam",
+    "capital": "Hagatna",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".gu",
+    "population": 153836,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Guamanian, Guambat",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guam",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHST",
+        "tzName": "Chamorro Standard Time"
+      }
+    ],
+    "latitude": "13.46666666",
+    "longitude": "144.78333333",
+    "emoji": "🇬🇺",
+    "emojiU": "U+1F1EC U+1F1FA"
+  },
+  "state": {
+    "id": 5260,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "GU-07",
+    "fips_code": "07",
+    "name": "Umatac（Humåtak）",
+    "name_default": "Umatac (Humåtak)",
+    "native": "Umatac (Humåtak)",
+    "type": "village",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.29457770",
+    "longitude": "144.65382830",
+    "timezone": "Pacific/Guam",
+    "wikiDataId": "Q531529",
+    "country_code": "GU"
+  },
+  "cities": []
+}

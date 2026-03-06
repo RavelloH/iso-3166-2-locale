@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 73,
+    "code": "FJ",
+    "iso3": "FJI",
+    "numeric_code": "242",
+    "name": "फिजी आइलैंड्स",
+    "name_default": "Fiji Islands",
+    "native": "Fiji",
+    "capital": "Suva",
+    "phonecode": "679",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "population": 900869,
+    "gdp": 6257,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Fijian",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  },
+  "state": {
+    "id": 1930,
+    "code": "02",
+    "iso2": "02",
+    "iso3166_2": "FJ-02",
+    "fips_code": "01",
+    "name": "बुआ",
+    "name_default": "Bua",
+    "native": "Bua",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1921",
+    "population": null,
+    "latitude": "43.09645840",
+    "longitude": "-89.50088000",
+    "timezone": "Pacific/Fiji",
+    "wikiDataId": "Q1365265",
+    "country_code": "FJ"
+  },
+  "cities": []
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "بوركينا فاسو",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3129,
+    "code": "HOU",
+    "iso2": "HOU",
+    "iso3166_2": "BF-HOU",
+    "fips_code": "51",
+    "name": "هويت",
+    "name_default": "Houet",
+    "native": "Houetter",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3165",
+    "population": null,
+    "latitude": "11.38510560",
+    "longitude": "-4.32736430",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q1074161",
+    "country_code": "BF"
+  },
+  "cities": []
+}

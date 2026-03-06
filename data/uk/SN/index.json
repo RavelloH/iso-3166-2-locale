@@ -1,0 +1,54 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 195,
+    "code": "SN",
+    "iso3": "SEN",
+    "numeric_code": "686",
+    "name": "Сенегал",
+    "name_default": "Senegal",
+    "native": "Sénégal",
+    "capital": "Dakar",
+    "phonecode": "221",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "population": 18593258,
+    "gdp": 34728,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Senegalese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
+  },
+  "states": [
+    "DB",
+    "DK",
+    "FK",
+    "KA",
+    "KD",
+    "KE",
+    "KL",
+    "LG",
+    "MT",
+    "SE",
+    "SL",
+    "TC",
+    "TH",
+    "ZG"
+  ]
+}

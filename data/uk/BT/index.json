@@ -1,0 +1,60 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 26,
+    "code": "BT",
+    "iso3": "BTN",
+    "numeric_code": "064",
+    "name": "Бутан",
+    "name_default": "Bhutan",
+    "native": "ʼbrug-yul",
+    "capital": "Thimphu",
+    "phonecode": "975",
+    "currency": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "tld": ".bt",
+    "population": 784043,
+    "gdp": 3422,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bhutanese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Thimphu",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BTT",
+        "tzName": "Bhutan Time"
+      }
+    ],
+    "latitude": "27.50000000",
+    "longitude": "90.50000000",
+    "emoji": "🇧🇹",
+    "emojiU": "U+1F1E7 U+1F1F9"
+  },
+  "states": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "21",
+    "22",
+    "23",
+    "24",
+    "31",
+    "32",
+    "33",
+    "34",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "GA",
+    "TY"
+  ]
+}

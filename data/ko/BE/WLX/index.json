@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 22,
+    "code": "BE",
+    "iso3": "BEL",
+    "numeric_code": "056",
+    "name": "벨기에",
+    "name_default": "Belgium",
+    "native": "België",
+    "capital": "Brussels",
+    "phonecode": "32",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "population": 11825551,
+    "gdp": 684864,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Belgian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
+  },
+  "state": {
+    "id": 1379,
+    "code": "WLX",
+    "iso2": "WLX",
+    "iso3166_2": "BE-WLX",
+    "fips_code": "06",
+    "name": "룩셈부르크",
+    "name_default": "Luxembourg",
+    "native": "Luxemburg",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1380",
+    "population": null,
+    "latitude": "49.96380050",
+    "longitude": "5.43980190",
+    "timezone": "Europe/Brussels",
+    "wikiDataId": "Q1126",
+    "country_code": "BE"
+  },
+  "cities": []
+}

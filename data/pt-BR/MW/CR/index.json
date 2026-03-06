@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 131,
+    "code": "MW",
+    "iso3": "MWI",
+    "numeric_code": "454",
+    "name": "Malawi",
+    "name_default": "Malawi",
+    "native": "Malawi",
+    "capital": "Lilongwe",
+    "phonecode": "265",
+    "currency": "MWK",
+    "currency_name": "Malawian kwacha",
+    "currency_symbol": "MK",
+    "tld": ".mw",
+    "population": 20734262,
+    "gdp": 13959,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Malawian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Blantyre",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-13.50000000",
+    "longitude": "34.00000000",
+    "emoji": "🇲🇼",
+    "emojiU": "U+1F1F2 U+1F1FC"
+  },
+  "state": {
+    "id": 3109,
+    "code": "CR",
+    "iso2": "CR",
+    "iso3166_2": "MW-CR",
+    "fips_code": "03",
+    "name": "Chiradzulu",
+    "name_default": "Chiradzulu",
+    "native": "Shael",
+    "type": "district",
+    "level": "1",
+    "parent_id": "3106",
+    "population": null,
+    "latitude": "-15.75472000",
+    "longitude": "35.20553620",
+    "timezone": "Africa/Blantyre",
+    "wikiDataId": "Q722501",
+    "country_code": "MW"
+  },
+  "cities": []
+}

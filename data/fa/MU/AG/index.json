@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 140,
+    "code": "MU",
+    "iso3": "MUS",
+    "numeric_code": "480",
+    "name": "موریس",
+    "name_default": "Mauritius",
+    "native": "Maurice",
+    "capital": "Port Louis",
+    "phonecode": "230",
+    "currency": "MUR",
+    "currency_name": "Mauritian rupee",
+    "currency_symbol": "₨",
+    "tld": ".mu",
+    "population": 1243741,
+    "gdp": 15495,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Mauritian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mauritius",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MUT",
+        "tzName": "Mauritius Time"
+      }
+    ],
+    "latitude": "-20.28333333",
+    "longitude": "57.55000000",
+    "emoji": "🇲🇺",
+    "emojiU": "U+1F1F2 U+1F1FA"
+  },
+  "state": {
+    "id": 3248,
+    "code": "AG",
+    "iso2": "AG",
+    "iso3166_2": "MU-AG",
+    "fips_code": "21",
+    "name": "جزایر آگالگا",
+    "name_default": "Agalega Islands",
+    "native": "Agly Islands",
+    "type": "dependency",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-10.38485780",
+    "longitude": "56.61235250",
+    "timezone": "Indian/Mauritius",
+    "wikiDataId": "Q196042",
+    "country_code": "MU"
+  },
+  "cities": [
+    {
+      "id": 67922,
+      "name": "وینگت سینک",
+      "name_default": "Vingt Cinq",
+      "native": "Twenty five",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 250,
+      "latitude": "-10.38803000",
+      "longitude": "56.61795000",
+      "timezone": "Indian/Mauritius",
+      "wikiDataId": "Q641130",
+      "country_code": "MU",
+      "state_code": "AG",
+      "state_id": 3248,
+      "country_id": 140
+    }
+  ]
+}

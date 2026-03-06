@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 10,
+    "code": "AG",
+    "iso3": "ATG",
+    "numeric_code": "028",
+    "name": "Antígua e Barbuda",
+    "name_default": "Antigua and Barbuda",
+    "native": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".ag",
+    "population": 103603,
+    "gdp": 2373,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Antiguan or Barbudan",
+    "timezones": [
+      {
+        "zoneName": "America/Antigua",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.05000000",
+    "longitude": "-61.80000000",
+    "emoji": "🇦🇬",
+    "emojiU": "U+1F1E6 U+1F1EC"
+  },
+  "state": {
+    "id": 3707,
+    "code": "05",
+    "iso2": "05",
+    "iso3166_2": "AG-05",
+    "fips_code": "05",
+    "name": "Santa Maria",
+    "name_default": "Saint Mary",
+    "native": "Saint Mary",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "17.05481500",
+    "longitude": "-61.86023680",
+    "timezone": "America/Antigua",
+    "wikiDataId": "Q1999872",
+    "country_code": "AG"
+  },
+  "cities": [
+    {
+      "id": 143,
+      "name": "Bolands",
+      "name_default": "Bolands",
+      "native": "Bolands",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1657,
+      "latitude": "17.06565000",
+      "longitude": "-61.87466000",
+      "timezone": "America/Antigua",
+      "wikiDataId": "Q1771701",
+      "country_code": "AG",
+      "state_code": "05",
+      "state_id": 3707,
+      "country_id": 10
+    }
+  ]
+}

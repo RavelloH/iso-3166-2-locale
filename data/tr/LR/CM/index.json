@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "Liberya",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3036,
+    "code": "CM",
+    "iso2": "CM",
+    "iso3166_2": "LR-CM",
+    "fips_code": "12",
+    "name": "Grand Cape Dağı",
+    "name_default": "Grand Cape Mount",
+    "native": "Grand Cape Mount",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 129817,
+    "latitude": "7.04962060",
+    "longitude": "-11.12984300",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q1047921",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66559,
+      "name": "Robertsport",
+      "name_default": "Robertsport",
+      "native": "Robertsport",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5306,
+      "latitude": "6.75329000",
+      "longitude": "-11.36710000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q1024892",
+      "country_code": "LR",
+      "state_code": "CM",
+      "state_id": 3036,
+      "country_id": 123
+    }
+  ]
+}

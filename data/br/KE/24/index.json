@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 113,
+    "code": "KE",
+    "iso3": "KEN",
+    "numeric_code": "404",
+    "name": "Kenya",
+    "name_default": "Kenya",
+    "native": "Kenya",
+    "capital": "Nairobi",
+    "phonecode": "254",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "population": 53330978,
+    "gdp": 131673,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Kenyan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  },
+  "state": {
+    "id": 187,
+    "code": "24",
+    "iso2": "24",
+    "iso3166_2": "KE-24",
+    "fips_code": "33",
+    "name": "Mandera",
+    "name_default": "Mandera",
+    "native": "Mandera",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 114718,
+    "latitude": "3.22853320",
+    "longitude": "40.70561530",
+    "timezone": "Africa/Nairobi",
+    "wikiDataId": "Q1477874",
+    "country_code": "KE"
+  },
+  "cities": [
+    {
+      "id": 64829,
+      "name": "Mandera",
+      "name_default": "Mandera",
+      "native": "Mandera",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 114718,
+      "latitude": "3.93726000",
+      "longitude": "41.85688000",
+      "timezone": "Africa/Nairobi",
+      "wikiDataId": "Q949915",
+      "country_code": "KE",
+      "state_code": "24",
+      "state_id": 187,
+      "country_id": 113
+    }
+  ]
+}

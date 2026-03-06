@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 126,
+    "code": "LT",
+    "iso3": "LTU",
+    "numeric_code": "440",
+    "name": "ليتوانيا",
+    "name_default": "Lithuania",
+    "native": "Lietuva",
+    "capital": "Vilnius",
+    "phonecode": "370",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "population": 2894548,
+    "gdp": 89192,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Lithuanian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  },
+  "state": {
+    "id": 1583,
+    "code": "13",
+    "iso2": "13",
+    "iso3166_2": "LT-13",
+    "fips_code": "57",
+    "name": "كايسيادوريس",
+    "name_default": "Kaišiadorys",
+    "native": "Kaišiadorys",
+    "type": "district municipality",
+    "level": "1",
+    "parent_id": "1556",
+    "population": 8334,
+    "latitude": "54.86023370",
+    "longitude": "24.45447850",
+    "timezone": "Europe/Vilnius",
+    "wikiDataId": "Q2069320",
+    "country_code": "LT"
+  },
+  "cities": []
+}

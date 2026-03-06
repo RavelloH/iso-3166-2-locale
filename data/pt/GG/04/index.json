@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 91,
+    "code": "GG",
+    "iso3": "GGY",
+    "numeric_code": "831",
+    "name": "Guernsey",
+    "name_default": "Guernsey",
+    "native": "Guernsey",
+    "capital": "St Peter Port",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".gg",
+    "population": 64781,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Channel Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Guernsey",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "49.46666666",
+    "longitude": "-2.58333333",
+    "emoji": "🇬🇬",
+    "emojiU": "U+1F1EC U+1F1EC"
+  },
+  "state": {
+    "id": 5389,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "GG-04",
+    "fips_code": "04",
+    "name": "Alderney",
+    "name_default": "Alderney",
+    "native": "Alderney",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "49.71689110",
+    "longitude": "-2.19716940",
+    "timezone": "Europe/Guernsey",
+    "wikiDataId": "Q24695673",
+    "country_code": "GG"
+  },
+  "cities": []
+}

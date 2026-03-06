@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 89,
+    "code": "29",
+    "iso2": "29",
+    "iso3166_2": "MT-29",
+    "fips_code": "05",
+    "name": "Mdina",
+    "name_default": "Mdina",
+    "native": "Mdina",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": 250,
+    "latitude": "35.88809300",
+    "longitude": "14.40683570",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q207277",
+    "country_code": "MT"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macédoine du Nord",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 655,
+    "code": "103",
+    "iso2": "103",
+    "iso3166_2": "MK-103",
+    "fips_code": "25",
+    "name": "Demir Kapija",
+    "name_default": "Demir Kapija",
+    "native": "Демир Капија",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 3275,
+    "latitude": "41.40871360",
+    "longitude": "22.24185710",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q2370973",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67411,
+      "name": "Demir Kapija",
+      "name_default": "Demir Kapija",
+      "native": "Демир Капија",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2643,
+      "latitude": "41.40613000",
+      "longitude": "22.24631000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q1014699",
+      "country_code": "MK",
+      "state_code": "103",
+      "state_id": 655,
+      "country_id": 129
+    }
+  ]
+}

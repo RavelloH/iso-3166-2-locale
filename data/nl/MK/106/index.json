@@ -1,0 +1,77 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Noord-Macedonië",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 664,
+    "code": "106",
+    "iso2": "106",
+    "iso3166_2": "MK-106",
+    "fips_code": "69",
+    "name": "Onderhandelen",
+    "name_default": "Negotino",
+    "native": "Неготино",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 12488,
+    "latitude": "41.48442290",
+    "longitude": "22.09059030",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q3246545",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67489,
+      "name": "Onderhandelen",
+      "name_default": "Negotino",
+      "native": "Неготино",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 19515,
+      "latitude": "41.48456000",
+      "longitude": "22.09056000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q164954",
+      "country_code": "MK",
+      "state_code": "106",
+      "state_id": 664,
+      "country_id": 129
+    }
+  ]
+}

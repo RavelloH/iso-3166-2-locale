@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 148,
+    "code": "MS",
+    "iso3": "MSR",
+    "numeric_code": "500",
+    "name": "Montserrat",
+    "name_default": "Montserrat",
+    "native": "Montserrat",
+    "capital": "Plymouth",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".ms",
+    "population": 4386,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Montserratian",
+    "timezones": [
+      {
+        "zoneName": "America/Montserrat",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "16.75000000",
+    "longitude": "-62.20000000",
+    "emoji": "🇲🇸",
+    "emojiU": "U+1F1F2 U+1F1F8"
+  },
+  "state": {
+    "id": 5419,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "MS-01",
+    "fips_code": "01",
+    "name": "Święty Piotr",
+    "name_default": "Saint Peter",
+    "native": "Saint Peter",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "16.77659810",
+    "longitude": "-62.20007860",
+    "timezone": "America/Montserrat",
+    "wikiDataId": "Q3464018",
+    "country_code": "MS"
+  },
+  "cities": []
+}

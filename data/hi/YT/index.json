@@ -1,0 +1,57 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 141,
+    "code": "YT",
+    "iso3": "MYT",
+    "numeric_code": "175",
+    "name": "मैयट",
+    "name_default": "Mayotte",
+    "native": "Mayotte",
+    "capital": "Mamoudzou",
+    "phonecode": "262",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".yt",
+    "population": 337011,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Mahoran",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mayotte",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "-12.83333333",
+    "longitude": "45.16666666",
+    "emoji": "🇾🇹",
+    "emojiU": "U+1F1FE U+1F1F9"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+  ]
+}

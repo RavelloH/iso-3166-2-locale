@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "St. Kitts und Nevis",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3844,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "KN-08",
+    "fips_code": "08",
+    "name": "Saint Mary Cayon",
+    "name_default": "Saint Mary Cayon",
+    "native": "Saint Mary Cayon",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 3435,
+    "latitude": "17.34620710",
+    "longitude": "-62.73826710",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q1538034",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65167,
+      "name": "Cayon",
+      "name_default": "Cayon",
+      "native": "Cayon",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 788,
+      "latitude": "17.35000000",
+      "longitude": "-62.73333000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3316336",
+      "country_code": "KN",
+      "state_code": "08",
+      "state_id": 3844,
+      "country_id": 185
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "帕劳",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4533,
+    "code": "218",
+    "iso2": "218",
+    "iso3166_2": "PW-218",
+    "fips_code": "09",
+    "name": "恩加尔切隆",
+    "name_default": "Ngarchelong",
+    "native": "Ngarchelong",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 384,
+    "latitude": "7.84672350",
+    "longitude": "134.47330140",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q1070185",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89707,
+      "name": "门格朗",
+      "name_default": "Mengellang",
+      "native": "Crowd",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 488,
+      "latitude": "7.69570000",
+      "longitude": "134.63054000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q3001462",
+      "country_code": "PW",
+      "state_code": "218",
+      "state_id": 4533,
+      "country_id": 168
+    }
+  ]
+}

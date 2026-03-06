@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 16,
+    "code": "AZ",
+    "iso3": "AZE",
+    "numeric_code": "031",
+    "name": "Aserbaidschan",
+    "name_default": "Azerbaijan",
+    "native": "Azərbaycan",
+    "capital": "Baku",
+    "phonecode": "994",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "population": 10241722,
+    "gdp": 78870,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Azerbaijani, Azeri",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  },
+  "state": {
+    "id": 550,
+    "code": "YAR",
+    "iso2": "YAR",
+    "iso3166_2": "AZ-YAR",
+    "fips_code": "66",
+    "name": "Yardımlı (Rayon)",
+    "name_default": "Yardymli",
+    "native": "Yarası",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 68000,
+    "latitude": "38.90289930",
+    "longitude": "48.21329830",
+    "timezone": "Asia/Baku",
+    "wikiDataId": "Q127255",
+    "country_code": "AZ"
+  },
+  "cities": [
+    {
+      "id": 8194,
+      "name": "Yardımlı (Stadt)",
+      "name_default": "Yardımlı",
+      "native": "Yardımlı",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 7623,
+      "latitude": "38.90771000",
+      "longitude": "48.24052000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q4991826",
+      "country_code": "AZ",
+      "state_code": "YAR",
+      "state_id": 550,
+      "country_id": 16
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 250,
+    "code": "SX",
+    "iso3": "SXM",
+    "numeric_code": "534",
+    "name": "Sint Maarten (Dutch part)",
+    "name_default": "Sint Maarten (Dutch part)",
+    "native": "Sint Maarten",
+    "capital": "Philipsburg",
+    "phonecode": "1721",
+    "currency": "ANG",
+    "currency_name": "Netherlands Antillean guilder",
+    "currency_symbol": "ƒ",
+    "tld": ".sx",
+    "population": 41349,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Sint Maarten",
+    "timezones": [
+      {
+        "zoneName": "America/Anguilla",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.03333300",
+    "longitude": "-63.05000000",
+    "emoji": "🇸🇽",
+    "emojiU": "U+1F1F8 U+1F1FD"
+  },
+  "states": []
+}

@@ -1,0 +1,51 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 20,
+    "code": "BB",
+    "iso3": "BRB",
+    "numeric_code": "052",
+    "name": "Барбадос",
+    "name_default": "Barbados",
+    "native": "Barbados",
+    "capital": "Bridgetown",
+    "phonecode": "1",
+    "currency": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "Bds$",
+    "tld": ".bb",
+    "population": 267800,
+    "gdp": 7552,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Barbadian",
+    "timezones": [
+      {
+        "zoneName": "America/Barbados",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "13.16666666",
+    "longitude": "-59.53333333",
+    "emoji": "🇧🇧",
+    "emojiU": "U+1F1E7 U+1F1E7"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11"
+  ]
+}

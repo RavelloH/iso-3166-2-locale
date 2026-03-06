@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "بورتوريكو",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5157,
+    "code": "047",
+    "iso2": "047",
+    "iso3166_2": "PR-047",
+    "fips_code": null,
+    "name": "كوروزال",
+    "name_default": "Corozal",
+    "native": "Corozal",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.30438780",
+    "longitude": "-66.32891860",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q451786",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153572,
+      "name": "كوروزال",
+      "name_default": "Corozal",
+      "native": "Corozal",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "18.40308020",
+      "longitude": "-88.39675360",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q451786",
+      "country_code": "PR",
+      "state_code": "047",
+      "state_id": 5157,
+      "country_id": 178
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 7,
+    "code": "AO",
+    "iso3": "AGO",
+    "numeric_code": "024",
+    "name": "앙골라",
+    "name_default": "Angola",
+    "native": "Angola",
+    "capital": "Luanda",
+    "phonecode": "244",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "population": 36170961,
+    "gdp": 113343,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Angolan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  },
+  "state": {
+    "id": 223,
+    "code": "LNO",
+    "iso2": "LNO",
+    "iso3166_2": "AO-LNO",
+    "fips_code": "17",
+    "name": "룬다 노르테",
+    "name_default": "Lunda Norte",
+    "native": "Lunda Norte",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 862566,
+    "latitude": "-8.50882530",
+    "longitude": "19.75386180",
+    "timezone": "Africa/Luanda",
+    "wikiDataId": "Q214221",
+    "country_code": "AO"
+  },
+  "cities": [
+    {
+      "id": 618,
+      "name": "루카파",
+      "name_default": "Lucapa",
+      "native": "Lucapa",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 154305,
+      "latitude": "-8.68337000",
+      "longitude": "20.27045000",
+      "timezone": "Africa/Luanda",
+      "wikiDataId": "Q620866",
+      "country_code": "AO",
+      "state_code": "LNO",
+      "state_id": 223,
+      "country_id": 7
+    }
+  ]
+}

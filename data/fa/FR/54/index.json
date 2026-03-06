@@ -1,0 +1,58 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 75,
+    "code": "FR",
+    "iso3": "FRA",
+    "numeric_code": "250",
+    "name": "فرانسه",
+    "name_default": "France",
+    "native": "France",
+    "capital": "Paris",
+    "phonecode": "33",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "population": 68688000,
+    "gdp": 3211292,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "French",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  },
+  "state": {
+    "id": 5022,
+    "code": "54",
+    "iso2": "54",
+    "iso3166_2": "FR-54",
+    "fips_code": null,
+    "name": "مورت-ا-موزل",
+    "name_default": "Meurthe-et-Moselle",
+    "native": "Meurthe-et-Moselle",
+    "type": "metropolitan department",
+    "level": "2",
+    "parent_id": "4820",
+    "population": 732898,
+    "latitude": "48.95596820",
+    "longitude": "5.98703830",
+    "timezone": "Europe/Paris",
+    "wikiDataId": "Q12626",
+    "country_code": "FR"
+  },
+  "cities": []
+}

@@ -1,0 +1,102 @@
+{
+  "locale": "it",
+  "country": {
+    "id": 64,
+    "code": "EC",
+    "iso3": "ECU",
+    "numeric_code": "218",
+    "name": "Ecuador",
+    "name_default": "Ecuador",
+    "native": "Ecuador",
+    "capital": "Quito",
+    "phonecode": "593",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "population": 18103660,
+    "gdp": 125677,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Ecuadorian",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  },
+  "state": {
+    "id": 2916,
+    "code": "N",
+    "iso2": "N",
+    "iso3166_2": "EC-N",
+    "fips_code": "23",
+    "name": "Napo",
+    "name_default": "Napo",
+    "native": "NAPO",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-0.60819650",
+    "longitude": "-77.95203410",
+    "timezone": "America/Guayaquil",
+    "wikiDataId": "Q211900",
+    "country_code": "EC"
+  },
+  "cities": [
+    {
+      "id": 31482,
+      "name": "Archidona",
+      "name_default": "Archidona",
+      "native": "Archidona",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 7353,
+      "latitude": "-0.90950000",
+      "longitude": "-77.80772000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q4786593",
+      "country_code": "EC",
+      "state_code": "N",
+      "state_id": 2916,
+      "country_id": 64
+    },
+    {
+      "id": 31581,
+      "name": "Tena",
+      "name_default": "Tena",
+      "native": "Real",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 17172,
+      "latitude": "-0.99380000",
+      "longitude": "-77.81286000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q994312",
+      "country_code": "EC",
+      "state_code": "N",
+      "state_id": 2916,
+      "country_id": 64
+    }
+  ]
+}

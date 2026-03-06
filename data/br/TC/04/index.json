@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 227,
+    "code": "TC",
+    "iso3": "TCA",
+    "numeric_code": "796",
+    "name": "Inizi Turks ha Caicos",
+    "name_default": "Turks and Caicos Islands",
+    "native": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tc",
+    "population": 50894,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Turks and Caicos Island",
+    "timezones": [
+      {
+        "zoneName": "America/Grand_Turk",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "latitude": "21.75000000",
+    "longitude": "-71.58333333",
+    "emoji": "🇹🇨",
+    "emojiU": "U+1F1F9 U+1F1E8"
+  },
+  "state": {
+    "id": 5366,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "TC-04",
+    "fips_code": "04",
+    "name": "Su Caicos",
+    "name_default": "South Caicos",
+    "native": "South Caicos",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "21.51446540",
+    "longitude": "-71.53793440",
+    "timezone": "America/Grand_Turk",
+    "wikiDataId": "Q1814473",
+    "country_code": "TC"
+  },
+  "cities": []
+}

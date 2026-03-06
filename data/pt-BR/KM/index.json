@@ -1,0 +1,43 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 49,
+    "code": "KM",
+    "iso3": "COM",
+    "numeric_code": "174",
+    "name": "Comores",
+    "name_default": "Comoros",
+    "native": "Komori",
+    "capital": "Moroni",
+    "phonecode": "269",
+    "currency": "KMF",
+    "currency_name": "Comorian franc",
+    "currency_symbol": "CF",
+    "tld": ".km",
+    "population": 870038,
+    "gdp": 1548,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Comoran, Comorian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Comoro",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "-12.16666666",
+    "longitude": "44.25000000",
+    "emoji": "🇰🇲",
+    "emojiU": "U+1F1F0 U+1F1F2"
+  },
+  "states": [
+    "A",
+    "G",
+    "M"
+  ]
+}

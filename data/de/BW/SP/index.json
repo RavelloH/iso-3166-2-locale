@@ -1,0 +1,58 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 29,
+    "code": "BW",
+    "iso3": "BWA",
+    "numeric_code": "072",
+    "name": "Botswana",
+    "name_default": "Botswana",
+    "native": "Botswana",
+    "capital": "Gaborone",
+    "phonecode": "267",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "population": 2359609,
+    "gdp": 19400,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Motswana, Botswanan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
+  },
+  "state": {
+    "id": 5715,
+    "code": "SP",
+    "iso2": "SP",
+    "iso3166_2": "BW-SP",
+    "fips_code": null,
+    "name": "Selebi-Phikwe",
+    "name_default": "Selibe Phikwe",
+    "native": "Selibe Phikwe",
+    "type": "town",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-21.97583333",
+    "longitude": "27.84000000",
+    "timezone": "Africa/Gaborone",
+    "wikiDataId": "Q141263",
+    "country_code": "BW"
+  },
+  "cities": []
+}

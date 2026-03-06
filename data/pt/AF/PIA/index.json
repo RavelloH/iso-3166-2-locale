@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 1,
+    "code": "AF",
+    "iso3": "AFG",
+    "numeric_code": "004",
+    "name": "Afeganistão",
+    "name_default": "Afghanistan",
+    "native": "افغانستان",
+    "capital": "Kabul",
+    "phonecode": "93",
+    "currency": "AFN",
+    "currency_name": "Afghan afghani",
+    "currency_symbol": "؋",
+    "tld": ".af",
+    "population": 43844000,
+    "gdp": null,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Afghan",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ],
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "emoji": "🇦🇫",
+    "emojiU": "U+1F1E6 U+1F1EB"
+  },
+  "state": {
+    "id": 3894,
+    "code": "PIA",
+    "iso2": "PIA",
+    "iso3166_2": "AF-PIA",
+    "fips_code": "36",
+    "name": "Paktia",
+    "name_default": "Paktia",
+    "native": "بسته",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 622831,
+    "latitude": "33.70572400",
+    "longitude": "69.40835550",
+    "timezone": "Asia/Kabul",
+    "wikiDataId": "Q182493",
+    "country_code": "AF"
+  },
+  "cities": [
+    {
+      "id": 69,
+      "name": "Gardez",
+      "name_default": "Gardez",
+      "native": "ګردېز",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 103601,
+      "latitude": "33.59744000",
+      "longitude": "69.22592000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q467632",
+      "country_code": "AF",
+      "state_code": "PIA",
+      "state_id": 3894,
+      "country_id": 1
+    }
+  ]
+}

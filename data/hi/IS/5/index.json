@@ -1,0 +1,58 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "आइसलैंड",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 3435,
+    "code": "5",
+    "iso2": "5",
+    "iso3166_2": "IS-5",
+    "fips_code": "41",
+    "name": "नॉर्थवेस्टर्न",
+    "name_default": "Northwestern",
+    "native": "Norðvestur",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "65.46221890",
+    "longitude": "-19.84710160",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q210866",
+    "country_code": "IS"
+  },
+  "cities": []
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 22,
+    "code": "BE",
+    "iso3": "BEL",
+    "numeric_code": "056",
+    "name": "Belgia",
+    "name_default": "Belgium",
+    "native": "België",
+    "capital": "Brussels",
+    "phonecode": "32",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "population": 11825551,
+    "gdp": 684864,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Belgian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
+  },
+  "state": {
+    "id": 1382,
+    "code": "WBR",
+    "iso2": "WBR",
+    "iso3166_2": "BE-WBR",
+    "fips_code": "10",
+    "name": "Brabancja Walońska",
+    "name_default": "Walloon Brabant",
+    "native": "Walloon Brabant",
+    "type": "province",
+    "level": "1",
+    "parent_id": "1380",
+    "population": 414130,
+    "latitude": "50.66631060",
+    "longitude": "4.55000740",
+    "timezone": "Europe/Brussels",
+    "wikiDataId": "Q1122",
+    "country_code": "BE"
+  },
+  "cities": []
+}

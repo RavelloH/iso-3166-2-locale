@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 185,
+    "code": "KN",
+    "iso3": "KNA",
+    "numeric_code": "659",
+    "name": "San Cristóbal y Nieves",
+    "name_default": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".kn",
+    "population": 51320,
+    "gdp": 1129,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Kittitian or Nevisian",
+    "timezones": [
+      {
+        "zoneName": "America/St_Kitts",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "17.33333333",
+    "longitude": "-62.75000000",
+    "emoji": "🇰🇳",
+    "emojiU": "U+1F1F0 U+1F1F3"
+  },
+  "state": {
+    "id": 3831,
+    "code": "11",
+    "iso2": "11",
+    "iso3166_2": "KN-11",
+    "fips_code": "11",
+    "name": "San Pedro Basseterre",
+    "name_default": "Saint Peter Basseterre",
+    "native": "Saint Peter Basseterre",
+    "type": "parish",
+    "level": "1",
+    "parent_id": "3841",
+    "population": 4670,
+    "latitude": "17.32556530",
+    "longitude": "-62.72177790",
+    "timezone": "America/St_Kitts",
+    "wikiDataId": "Q1725609",
+    "country_code": "KN"
+  },
+  "cities": [
+    {
+      "id": 65174,
+      "name": "Colina de los monos",
+      "name_default": "Monkey Hill",
+      "native": "Monkey Hill",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 592,
+      "latitude": "17.32327000",
+      "longitude": "-62.72914000",
+      "timezone": "America/St_Kitts",
+      "wikiDataId": "Q3395174",
+      "country_code": "KN",
+      "state_code": "11",
+      "state_id": 3831,
+      "country_id": 185
+    }
+  ]
+}

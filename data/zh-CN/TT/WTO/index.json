@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 223,
+    "code": "TT",
+    "iso3": "TTO",
+    "numeric_code": "780",
+    "name": "特立尼达和多巴哥",
+    "name_default": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "phonecode": "1",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "population": 1368333,
+    "gdp": 26467,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Trinidadian or Tobagonian",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
+  },
+  "state": {
+    "id": 3353,
+    "code": "WTO",
+    "iso2": "WTO",
+    "iso3166_2": "TT-WTO",
+    "fips_code": "03",
+    "name": "西多巴哥",
+    "name_default": "Western Tobago",
+    "native": "Western Tobago",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "11.15728850",
+    "longitude": "-60.81650130",
+    "timezone": "America/Port_of_Spain",
+    "wikiDataId": "Q13365874",
+    "country_code": "TT"
+  },
+  "cities": []
+}

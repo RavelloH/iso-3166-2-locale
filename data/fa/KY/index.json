@@ -1,0 +1,43 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 41,
+    "code": "KY",
+    "iso3": "CYM",
+    "numeric_code": "136",
+    "name": "جزایر کیمن",
+    "name_default": "Cayman Islands",
+    "native": "Cayman Islands",
+    "capital": "George Town",
+    "phonecode": "1",
+    "currency": "KYD",
+    "currency_name": "Cayman Islands dollar",
+    "currency_symbol": "$",
+    "tld": ".ky",
+    "population": 84738,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Caymanian",
+    "timezones": [
+      {
+        "zoneName": "America/Cayman",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "latitude": "19.50000000",
+    "longitude": "-80.50000000",
+    "emoji": "🇰🇾",
+    "emojiU": "U+1F1F0 U+1F1FE"
+  },
+  "states": [
+    "01",
+    "02",
+    "03"
+  ]
+}

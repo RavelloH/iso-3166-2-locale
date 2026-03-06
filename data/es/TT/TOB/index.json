@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 223,
+    "code": "TT",
+    "iso3": "TTO",
+    "numeric_code": "780",
+    "name": "Trinidad y Tobago",
+    "name_default": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "phonecode": "1",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "population": 1368333,
+    "gdp": 26467,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Trinidadian or Tobagonian",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
+  },
+  "state": {
+    "id": 5735,
+    "code": "TOB",
+    "iso2": "TOB",
+    "iso3166_2": "TT-TOB",
+    "fips_code": null,
+    "name": "Tobago",
+    "name_default": "Tobago",
+    "native": "Tobago",
+    "type": "ward",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "11.25000000",
+    "longitude": "-60.68333330",
+    "timezone": "America/Port_of_Spain",
+    "wikiDataId": "Q128323",
+    "country_code": "TT"
+  },
+  "cities": [
+    {
+      "id": 108986,
+      "name": "Scarborough",
+      "name_default": "Scarborough",
+      "native": "Scarborough",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 17000,
+      "latitude": "11.18229000",
+      "longitude": "-60.73525000",
+      "timezone": "America/Port_of_Spain",
+      "wikiDataId": "Q966660",
+      "country_code": "TT",
+      "state_code": "TOB",
+      "state_id": 5735,
+      "country_id": 223
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "Tchekia",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4578,
+    "code": "315",
+    "iso2": "315",
+    "iso3166_2": "CZ-315",
+    "fips_code": "89",
+    "name": "Pratik",
+    "name_default": "Prachatice",
+    "native": "Prachatice",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4639",
+    "population": 11119,
+    "latitude": "49.01091000",
+    "longitude": "14.00000050",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q385016",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

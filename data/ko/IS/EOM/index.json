@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "아이슬란드",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5563,
+    "code": "EOM",
+    "iso2": "EOM",
+    "iso3166_2": "IS-EOM",
+    "fips_code": null,
+    "name": "Eyja- og Miklaholtshreppur",
+    "name_default": "Eyja- og Miklaholtshreppur",
+    "native": "Eyja- og Miklaholtshreppur",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "64.72000000",
+    "longitude": "-22.65000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q1379862",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135174,
+      "name": "Eyja- og Miklaholtshreppur",
+      "name_default": "Eyja- og Miklaholtshreppur",
+      "native": "Eyja- og Miklaholtshreppur",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 124,
+      "latitude": "64.85846000",
+      "longitude": "-22.54557000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1385816",
+      "country_code": "IS",
+      "state_code": "EOM",
+      "state_id": 5563,
+      "country_id": 100
+    }
+  ]
+}

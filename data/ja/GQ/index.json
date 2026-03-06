@@ -1,0 +1,50 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 67,
+    "code": "GQ",
+    "iso3": "GNQ",
+    "numeric_code": "226",
+    "name": "赤道ギニア",
+    "name_default": "Equatorial Guinea",
+    "native": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "phonecode": "240",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".gq",
+    "population": 1668768,
+    "gdp": 12684,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Equatorial Guinean, Equatoguinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "2.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇬🇶",
+    "emojiU": "U+1F1EC U+1F1F6"
+  },
+  "states": [
+    "AN",
+    "BN",
+    "BS",
+    "C",
+    "CS",
+    "DJ",
+    "I",
+    "KN",
+    "LI",
+    "WN"
+  ]
+}

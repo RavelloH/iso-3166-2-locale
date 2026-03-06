@@ -1,0 +1,54 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 66,
+    "code": "SV",
+    "iso3": "SLV",
+    "numeric_code": "222",
+    "name": "Salvador",
+    "name_default": "El Salvador",
+    "native": "El Salvador",
+    "capital": "San Salvador",
+    "phonecode": "503",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".sv",
+    "population": 6029976,
+    "gdp": 36749,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Central America",
+    "subregion_id": 9,
+    "nationality": "Salvadoran",
+    "timezones": [
+      {
+        "zoneName": "America/El_Salvador",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "latitude": "13.83333333",
+    "longitude": "-88.91666666",
+    "emoji": "🇸🇻",
+    "emojiU": "U+1F1F8 U+1F1FB"
+  },
+  "states": [
+    "AH",
+    "CA",
+    "CH",
+    "CU",
+    "LI",
+    "MO",
+    "PA",
+    "SA",
+    "SM",
+    "SO",
+    "SS",
+    "SV",
+    "UN",
+    "US"
+  ]
+}

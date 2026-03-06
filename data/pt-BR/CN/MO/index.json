@@ -1,0 +1,65 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 45,
+    "code": "CN",
+    "iso3": "CHN",
+    "numeric_code": "156",
+    "name": "China",
+    "name_default": "China",
+    "native": "中国",
+    "capital": "Beijing",
+    "phonecode": "86",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "population": 1408280000,
+    "gdp": 19231705,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Chinese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  },
+  "state": {
+    "id": 2266,
+    "code": "MO",
+    "iso2": "MO",
+    "iso3166_2": "CN-MO",
+    "fips_code": "MC",
+    "name": "RAE de Macau",
+    "name_default": "Macau SAR",
+    "native": "Macau SAR",
+    "type": "special administrative region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "22.31452850",
+    "longitude": "113.94724460",
+    "timezone": "Asia/Shanghai",
+    "wikiDataId": "Q14773",
+    "country_code": "CN"
+  },
+  "cities": []
+}

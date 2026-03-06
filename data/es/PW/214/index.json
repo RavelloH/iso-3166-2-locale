@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "Palau",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4537,
+    "code": "214",
+    "iso2": "214",
+    "iso3166_2": "PW-214",
+    "fips_code": "08",
+    "name": "Ngaraard",
+    "name_default": "Ngaraard",
+    "native": "To eat",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 413,
+    "latitude": "7.64245290",
+    "longitude": "134.73280640",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q1154127",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89715,
+      "name": "Ulimang",
+      "name_default": "Ulimang",
+      "native": "ULIMANG",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 581,
+      "latitude": "7.62416000",
+      "longitude": "134.64208000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q3481073",
+      "country_code": "PW",
+      "state_code": "214",
+      "state_id": 4537,
+      "country_id": 168
+    }
+  ]
+}

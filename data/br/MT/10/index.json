@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "Malta",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 134,
+    "code": "10",
+    "iso2": "10",
+    "iso3166_2": "MT-10",
+    "fips_code": "11",
+    "name": "Fontana",
+    "name_default": "Fontana",
+    "native": "Fontana",
+    "type": "local council",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "36.03874400",
+    "longitude": "14.23700140",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q1002742",
+    "country_code": "MT"
+  },
+  "cities": [
+    {
+      "id": 67766,
+      "name": "Fontana",
+      "name_default": "Fontana",
+      "native": "Fontana",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 922,
+      "latitude": "36.03750000",
+      "longitude": "14.23611000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q20924972",
+      "country_code": "MT",
+      "state_code": "10",
+      "state_id": 134,
+      "country_id": 135
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 73,
+    "code": "FJ",
+    "iso3": "FJI",
+    "numeric_code": "242",
+    "name": "Fiyi",
+    "name_default": "Fiji Islands",
+    "native": "Fiji",
+    "capital": "Suva",
+    "phonecode": "679",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "population": 900869,
+    "gdp": 6257,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Fijian",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "C",
+    "E",
+    "N",
+    "R",
+    "W"
+  ]
+}

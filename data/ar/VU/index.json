@@ -1,0 +1,46 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 237,
+    "code": "VU",
+    "iso3": "VUT",
+    "numeric_code": "548",
+    "name": "فانواتو",
+    "name_default": "Vanuatu",
+    "native": "Vanuatu",
+    "capital": "Port Vila",
+    "phonecode": "678",
+    "currency": "VUV",
+    "currency_name": "Vanuatu vatu",
+    "currency_symbol": "VT",
+    "tld": ".vu",
+    "population": 321409,
+    "gdp": 1267,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Ni-Vanuatu, Vanuatuan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Efate",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "VUT",
+        "tzName": "Vanuatu Time"
+      }
+    ],
+    "latitude": "-16.00000000",
+    "longitude": "167.00000000",
+    "emoji": "🇻🇺",
+    "emojiU": "U+1F1FB U+1F1FA"
+  },
+  "states": [
+    "MAP",
+    "PAM",
+    "SAM",
+    "SEE",
+    "TAE",
+    "TOB"
+  ]
+}

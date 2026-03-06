@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 4,
+    "code": "DZ",
+    "iso3": "DZA",
+    "numeric_code": "012",
+    "name": "Algerien",
+    "name_default": "Algeria",
+    "native": "الجزائر",
+    "capital": "Algiers",
+    "phonecode": "213",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "population": 47400000,
+    "gdp": 268885,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Algerian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  },
+  "state": {
+    "id": 1140,
+    "code": "27",
+    "iso2": "27",
+    "iso3166_2": "DZ-27",
+    "fips_code": "07",
+    "name": "Mostaganem",
+    "name_default": "Mostaganem",
+    "native": "مستغانم",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 245330,
+    "latitude": "36.00269150",
+    "longitude": "0.36868670",
+    "timezone": "Africa/Algiers",
+    "wikiDataId": "Q221445",
+    "country_code": "DZ"
+  },
+  "cities": [
+    {
+      "id": 31388,
+      "name": "Mostaganem",
+      "name_default": "Mostaganem",
+      "native": "مستغانم",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 145696,
+      "latitude": "35.93115000",
+      "longitude": "0.08918000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q849524",
+      "country_code": "DZ",
+      "state_code": "27",
+      "state_id": 1140,
+      "country_id": 4
+    }
+  ]
+}

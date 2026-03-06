@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 153,
+    "code": "NR",
+    "iso3": "NRU",
+    "numeric_code": "520",
+    "name": "나우루",
+    "name_default": "Nauru",
+    "native": "Nauru",
+    "capital": "Yaren",
+    "phonecode": "674",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".nr",
+    "population": 11680,
+    "gdp": 169,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Nauruan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Nauru",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NRT",
+        "tzName": "Nauru Time"
+      }
+    ],
+    "latitude": "-0.53333333",
+    "longitude": "166.91666666",
+    "emoji": "🇳🇷",
+    "emojiU": "U+1F1F3 U+1F1F7"
+  },
+  "state": {
+    "id": 4656,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "NR-01",
+    "fips_code": "01",
+    "name": "아이워",
+    "name_default": "Aiwo",
+    "native": "Theirs",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-0.53400120",
+    "longitude": "166.91388730",
+    "timezone": "Pacific/Nauru",
+    "wikiDataId": "Q240017",
+    "country_code": "NR"
+  },
+  "cities": [
+    {
+      "id": 79762,
+      "name": "아리제젠",
+      "name_default": "Arijejen",
+      "native": "Aria",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2381,
+      "latitude": "-0.52545000",
+      "longitude": "166.91247000",
+      "timezone": "Pacific/Nauru",
+      "wikiDataId": "Q1835785",
+      "country_code": "NR",
+      "state_code": "01",
+      "state_id": 4656,
+      "country_id": 153
+    }
+  ]
+}

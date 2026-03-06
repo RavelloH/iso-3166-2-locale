@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 197,
+    "code": "SC",
+    "iso3": "SYC",
+    "numeric_code": "690",
+    "name": "سيشيل",
+    "name_default": "Seychelles",
+    "native": "Seychelles",
+    "capital": "Victoria",
+    "phonecode": "248",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "population": 122729,
+    "gdp": 2198,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Seychellois",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "latitude": "-4.65749770",
+    "longitude": "55.45401460",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  },
+  "state": {
+    "id": 512,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "SC-08",
+    "fips_code": "08",
+    "name": "بو فالون",
+    "name_default": "Beau Vallon",
+    "native": "Beau Vallon",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-4.62109670",
+    "longitude": "55.42778020",
+    "timezone": "Indian/Mahe",
+    "wikiDataId": "Q7479348",
+    "country_code": "SC"
+  },
+  "cities": [
+    {
+      "id": 102908,
+      "name": "بو فالون",
+      "name_default": "Beau Vallon",
+      "native": "Beau Vallon",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4142,
+      "latitude": "-4.62091000",
+      "longitude": "55.43015000",
+      "timezone": "Indian/Mahe",
+      "wikiDataId": "Q646756",
+      "country_code": "SC",
+      "state_code": "08",
+      "state_id": 512,
+      "country_id": 197
+    }
+  ]
+}

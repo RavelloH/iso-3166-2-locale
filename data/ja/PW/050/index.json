@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 168,
+    "code": "PW",
+    "iso3": "PLW",
+    "numeric_code": "585",
+    "name": "パラオ",
+    "name_default": "Palau",
+    "native": "Palau",
+    "capital": "Melekeok",
+    "phonecode": "680",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pw",
+    "population": 16733,
+    "gdp": 333,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Palauan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Palau",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "PWT",
+        "tzName": "Palau Time"
+      }
+    ],
+    "latitude": "7.50000000",
+    "longitude": "134.50000000",
+    "emoji": "🇵🇼",
+    "emojiU": "U+1F1F5 U+1F1FC"
+  },
+  "state": {
+    "id": 4529,
+    "code": "050",
+    "iso2": "050",
+    "iso3166_2": "PW-050",
+    "fips_code": "04",
+    "name": "鳩穂兵衛",
+    "name_default": "Hatohobei",
+    "native": "Hatohobei",
+    "type": "state",
+    "level": null,
+    "parent_id": null,
+    "population": 25,
+    "latitude": "3.00706580",
+    "longitude": "131.12377810",
+    "timezone": "Pacific/Palau",
+    "wikiDataId": "Q3516752",
+    "country_code": "PW"
+  },
+  "cities": [
+    {
+      "id": 89714,
+      "name": "トビ村",
+      "name_default": "Tobi Village",
+      "native": "Tobi Village",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 44,
+      "latitude": "3.00488000",
+      "longitude": "131.12168000",
+      "timezone": "Pacific/Palau",
+      "wikiDataId": "Q2868400",
+      "country_code": "PW",
+      "state_code": "050",
+      "state_id": 4529,
+      "country_id": 168
+    }
+  ]
+}

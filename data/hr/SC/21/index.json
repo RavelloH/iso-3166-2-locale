@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 197,
+    "code": "SC",
+    "iso3": "SYC",
+    "numeric_code": "690",
+    "name": "Sejšeli",
+    "name_default": "Seychelles",
+    "native": "Seychelles",
+    "capital": "Victoria",
+    "phonecode": "248",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "population": 122729,
+    "gdp": 2198,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Seychellois",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "latitude": "-4.65749770",
+    "longitude": "55.45401460",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  },
+  "state": {
+    "id": 507,
+    "code": "21",
+    "iso2": "21",
+    "iso3166_2": "SC-21",
+    "fips_code": "27",
+    "name": "Port Glaud",
+    "name_default": "Port Glaud",
+    "native": "Port Glaud",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 3082,
+    "latitude": "-4.66406000",
+    "longitude": "55.41776060",
+    "timezone": "Indian/Mahe",
+    "wikiDataId": "Q1808165",
+    "country_code": "SC"
+  },
+  "cities": [
+    {
+      "id": 102911,
+      "name": "Port Glaud",
+      "name_default": "Port Glaud",
+      "native": "Port Glaud",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3243,
+      "latitude": "-4.66667000",
+      "longitude": "55.41667000",
+      "timezone": "Indian/Mahe",
+      "wikiDataId": "Q646756",
+      "country_code": "SC",
+      "state_code": "21",
+      "state_id": 507,
+      "country_id": 197
+    }
+  ]
+}

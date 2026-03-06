@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 6,
+    "code": "AD",
+    "iso3": "AND",
+    "numeric_code": "020",
+    "name": "Андорра",
+    "name_default": "Andorra",
+    "native": "Andorra",
+    "capital": "Andorra la Vella",
+    "phonecode": "376",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ad",
+    "population": 88306,
+    "gdp": 4035,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Andorran",
+    "timezones": [
+      {
+        "zoneName": "Europe/Andorra",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.50000000",
+    "longitude": "1.50000000",
+    "emoji": "🇦🇩",
+    "emojiU": "U+1F1E6 U+1F1E9"
+  },
+  "state": {
+    "id": 492,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "AD-08",
+    "fips_code": "08",
+    "name": "Ескальдес-Енгордані",
+    "name_default": "Escaldes-Engordany",
+    "native": "Escaldes-Engordany",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": 14395,
+    "latitude": "42.48619600",
+    "longitude": "1.60377110",
+    "timezone": "Europe/Andorra",
+    "wikiDataId": "Q24286",
+    "country_code": "AD"
+  },
+  "cities": [
+    {
+      "id": 10,
+      "name": "Лес-Ескальдес",
+      "name_default": "les Escaldes",
+      "native": "les Escaldes",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 15853,
+      "latitude": "42.50729000",
+      "longitude": "1.53414000",
+      "timezone": "Europe/Andorra",
+      "wikiDataId": "Q1050185",
+      "country_code": "AD",
+      "state_code": "08",
+      "state_id": 492,
+      "country_id": 6
+    }
+  ]
+}

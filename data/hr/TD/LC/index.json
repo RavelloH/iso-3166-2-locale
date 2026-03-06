@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 43,
+    "code": "TD",
+    "iso3": "TCD",
+    "numeric_code": "148",
+    "name": "Čad",
+    "name_default": "Chad",
+    "native": "Tchad",
+    "capital": "N'Djamena",
+    "phonecode": "235",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "population": 19340757,
+    "gdp": 18792,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Chadian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  },
+  "state": {
+    "id": 3577,
+    "code": "LC",
+    "iso2": "LC",
+    "iso3166_2": "TD-LC",
+    "fips_code": "07",
+    "name": "Lac",
+    "name_default": "Lac",
+    "native": "Lac",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "13.58208270",
+    "longitude": "14.37883290",
+    "timezone": "Africa/Ndjamena",
+    "wikiDataId": "Q867869",
+    "country_code": "TD"
+  },
+  "cities": [
+    {
+      "id": 105126,
+      "name": "Bol",
+      "name_default": "Bol",
+      "native": "Il était",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 51389,
+      "latitude": "13.46706000",
+      "longitude": "14.71363000",
+      "timezone": "Africa/Ndjamena",
+      "wikiDataId": "Q891241",
+      "country_code": "TD",
+      "state_code": "LC",
+      "state_id": 3577,
+      "country_id": 43
+    }
+  ]
+}

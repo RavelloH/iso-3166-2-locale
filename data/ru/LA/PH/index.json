@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 119,
+    "code": "LA",
+    "iso3": "LAO",
+    "numeric_code": "418",
+    "name": "Лаос",
+    "name_default": "Laos",
+    "native": "ສປປລາວ",
+    "capital": "Vientiane",
+    "phonecode": "856",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "population": 7647000,
+    "gdp": 16322,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Lao, Laotian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  },
+  "state": {
+    "id": 987,
+    "code": "PH",
+    "iso2": "PH",
+    "iso3166_2": "LA-PH",
+    "fips_code": "18",
+    "name": "Пхонгсали",
+    "name_default": "Phongsaly",
+    "native": "ຜົ້ງສາລີ",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 23300,
+    "latitude": "21.67678160",
+    "longitude": "102.27731770",
+    "timezone": "Asia/Vientiane",
+    "wikiDataId": "Q334868",
+    "country_code": "LA"
+  },
+  "cities": [
+    {
+      "id": 65920,
+      "name": "Пхонгсали",
+      "name_default": "Phôngsali",
+      "native": "ຜົ້ງສາລີ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 15083,
+      "latitude": "21.68080000",
+      "longitude": "102.10030000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q966990",
+      "country_code": "LA",
+      "state_code": "PH",
+      "state_id": 987,
+      "country_id": 119
+    }
+  ]
+}

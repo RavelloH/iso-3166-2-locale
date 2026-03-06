@@ -1,0 +1,58 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 162,
+    "code": "NU",
+    "iso3": "NIU",
+    "numeric_code": "570",
+    "name": "니우에",
+    "name_default": "Niue",
+    "native": "Niuē",
+    "capital": "Alofi",
+    "phonecode": "683",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nu",
+    "population": 1681,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Niuean",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Niue",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "NUT",
+        "tzName": "Niue Time"
+      }
+    ],
+    "latitude": "-19.03333333",
+    "longitude": "-169.86666666",
+    "emoji": "🇳🇺",
+    "emojiU": "U+1F1F3 U+1F1FA"
+  },
+  "state": {
+    "id": 5425,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "NU-04",
+    "fips_code": "04",
+    "name": "히쿠타바케",
+    "name_default": "Hikutavake",
+    "native": "Hikuvake",
+    "type": "village",
+    "level": null,
+    "parent_id": null,
+    "population": 39,
+    "latitude": "-18.96563260",
+    "longitude": "-169.88063600",
+    "timezone": "Pacific/Niue",
+    "wikiDataId": "Q1962527",
+    "country_code": "NU"
+  },
+  "cities": []
+}

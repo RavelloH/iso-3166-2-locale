@@ -1,0 +1,58 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "Republika Czeska",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4558,
+    "code": "20C",
+    "iso2": "20C",
+    "iso3166_2": "CZ-20C",
+    "fips_code": "88",
+    "name": "Rakovnik",
+    "name_default": "Rakovník",
+    "native": "Rakovník",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4554",
+    "population": 15682,
+    "latitude": "50.10612300",
+    "longitude": "13.73966230",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q338296",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

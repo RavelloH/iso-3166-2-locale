@@ -1,0 +1,52 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 50,
+    "code": "CG",
+    "iso3": "COG",
+    "numeric_code": "178",
+    "name": "콩고",
+    "name_default": "Congo",
+    "native": "République du Congo",
+    "capital": "Brazzaville",
+    "phonecode": "242",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cg",
+    "population": 6142180,
+    "gdp": 15281,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Middle Africa",
+    "subregion_id": 2,
+    "nationality": "Congolese",
+    "timezones": [
+      {
+        "zoneName": "Africa/Brazzaville",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "latitude": "-1.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇨🇬",
+    "emojiU": "U+1F1E8 U+1F1EC"
+  },
+  "states": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "2",
+    "5",
+    "7",
+    "8",
+    "9",
+    "BZV"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 6,
+    "code": "AD",
+    "iso3": "AND",
+    "numeric_code": "020",
+    "name": "Andorra",
+    "name_default": "Andorra",
+    "native": "Andorra",
+    "capital": "Andorra la Vella",
+    "phonecode": "376",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ad",
+    "population": 88306,
+    "gdp": 4035,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Andorran",
+    "timezones": [
+      {
+        "zoneName": "Europe/Andorra",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "42.50000000",
+    "longitude": "1.50000000",
+    "emoji": "🇦🇩",
+    "emojiU": "U+1F1E6 U+1F1E9"
+  },
+  "state": {
+    "id": 491,
+    "code": "05",
+    "iso2": "05",
+    "iso3166_2": "AD-05",
+    "fips_code": "05",
+    "name": "Ordino",
+    "name_default": "Ordino",
+    "native": "Ordino",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": 4858,
+    "latitude": "42.59944330",
+    "longitude": "1.54023270",
+    "timezone": "Europe/Andorra",
+    "wikiDataId": "Q24272",
+    "country_code": "AD"
+  },
+  "cities": [
+    {
+      "id": 6,
+      "name": "Ordino",
+      "name_default": "Ordino",
+      "native": "Ordenar",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3066,
+      "latitude": "42.55623000",
+      "longitude": "1.53319000",
+      "timezone": "Europe/Andorra",
+      "wikiDataId": "Q3885480",
+      "country_code": "AD",
+      "state_code": "05",
+      "state_id": 491,
+      "country_id": 6
+    }
+  ]
+}

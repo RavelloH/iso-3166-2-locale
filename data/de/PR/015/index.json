@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Puerto Rico",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5141,
+    "code": "015",
+    "iso2": "015",
+    "iso3166_2": "PR-015",
+    "fips_code": null,
+    "name": "Arroyo",
+    "name_default": "Arroyo",
+    "native": "Cauce seco de un río",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": null,
+    "latitude": "17.99619930",
+    "longitude": "-66.05316830",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q344528",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153556,
+      "name": "Arroyo",
+      "name_default": "Arroyo",
+      "native": "Cauce seco de un río",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "17.99642200",
+      "longitude": "-66.09248790",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q344528",
+      "country_code": "PR",
+      "state_code": "015",
+      "state_id": 5141,
+      "country_id": 178
+    }
+  ]
+}

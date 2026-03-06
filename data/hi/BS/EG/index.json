@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 17,
+    "code": "BS",
+    "iso3": "BHS",
+    "numeric_code": "044",
+    "name": "बहामास",
+    "name_default": "The Bahamas",
+    "native": "Bahamas",
+    "capital": "Nassau",
+    "phonecode": "1",
+    "currency": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "B$",
+    "tld": ".bs",
+    "population": 398165,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Bahamian",
+    "timezones": [
+      {
+        "zoneName": "America/Nassau",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      }
+    ],
+    "latitude": "24.25000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇧🇸",
+    "emojiU": "U+1F1E7 U+1F1F8"
+  },
+  "state": {
+    "id": 3614,
+    "code": "EG",
+    "iso2": "EG",
+    "iso3166_2": "BS-EG",
+    "fips_code": "41",
+    "name": "ईस्ट ग्रैंड बहामा",
+    "name_default": "East Grand Bahama",
+    "native": "East Grand Bahama",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "26.67722290",
+    "longitude": "-78.01345210",
+    "timezone": "America/Nassau",
+    "wikiDataId": "Q2630334",
+    "country_code": "BS"
+  },
+  "cities": [
+    {
+      "id": 15697,
+      "name": "हाई रॉक",
+      "name_default": "High Rock",
+      "native": "High Rock",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3744,
+      "latitude": "26.60999000",
+      "longitude": "-78.27863000",
+      "timezone": "America/Nassau",
+      "wikiDataId": "Q3101961",
+      "country_code": "BS",
+      "state_code": "EG",
+      "state_id": 3614,
+      "country_id": 17
+    }
+  ]
+}

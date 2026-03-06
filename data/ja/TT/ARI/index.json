@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 223,
+    "code": "TT",
+    "iso3": "TTO",
+    "numeric_code": "780",
+    "name": "トリニダード・トバゴ",
+    "name_default": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "phonecode": "1",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "population": 1368333,
+    "gdp": 26467,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Trinidadian or Tobagonian",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
+  },
+  "state": {
+    "id": 3362,
+    "code": "ARI",
+    "iso2": "ARI",
+    "iso3166_2": "TT-ARI",
+    "fips_code": "01",
+    "name": "有馬",
+    "name_default": "Arima",
+    "native": "Arima",
+    "type": "borough",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "10.63720570",
+    "longitude": "-61.28297620",
+    "timezone": "America/Port_of_Spain",
+    "wikiDataId": "Q661405",
+    "country_code": "TT"
+  },
+  "cities": [
+    {
+      "id": 108968,
+      "name": "有馬",
+      "name_default": "Arima",
+      "native": "Arima",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 33807,
+      "latitude": "10.63737000",
+      "longitude": "-61.28228000",
+      "timezone": "America/Port_of_Spain",
+      "wikiDataId": "Q131495",
+      "country_code": "TT",
+      "state_code": "ARI",
+      "state_id": 3362,
+      "country_id": 223
+    }
+  ]
+}

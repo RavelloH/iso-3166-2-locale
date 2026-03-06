@@ -1,0 +1,77 @@
+{
+  "locale": "uk",
+  "country": {
+    "id": 203,
+    "code": "SO",
+    "iso3": "SOM",
+    "numeric_code": "706",
+    "name": "Сомалі",
+    "name_default": "Somalia",
+    "native": "Soomaaliya",
+    "capital": "Mogadishu",
+    "phonecode": "252",
+    "currency": "SOS",
+    "currency_name": "Somali shilling",
+    "currency_symbol": "Sh.so.",
+    "tld": ".so",
+    "population": 19655000,
+    "gdp": 12994,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Somali, Somalian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mogadishu",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "10.00000000",
+    "longitude": "49.00000000",
+    "emoji": "🇸🇴",
+    "emojiU": "U+1F1F8 U+1F1F4"
+  },
+  "state": {
+    "id": 927,
+    "code": "BN",
+    "iso2": "BN",
+    "iso3166_2": "SO-BN",
+    "fips_code": "02",
+    "name": "Банадір",
+    "name_default": "Banaadir",
+    "native": "Banaadir",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 2330700,
+    "latitude": "2.07833510",
+    "longitude": "45.28054210",
+    "timezone": "Africa/Mogadishu",
+    "wikiDataId": "Q806070",
+    "country_code": "SO"
+  },
+  "cities": [
+    {
+      "id": 104810,
+      "name": "Могадішо",
+      "name_default": "Mogadishu",
+      "native": "Muqdisho",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 2120000,
+      "latitude": "2.03711000",
+      "longitude": "45.34375000",
+      "timezone": "Africa/Mogadishu",
+      "wikiDataId": "Q2449",
+      "country_code": "SO",
+      "state_code": "BN",
+      "state_id": 927,
+      "country_id": 203
+    }
+  ]
+}

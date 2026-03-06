@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 69,
+    "code": "EE",
+    "iso3": "EST",
+    "numeric_code": "233",
+    "name": "Estonia",
+    "name_default": "Estonia",
+    "native": "Eesti",
+    "capital": "Tallinn",
+    "phonecode": "372",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "population": 1369995,
+    "gdp": 45004,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Estonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  },
+  "state": {
+    "id": 3555,
+    "code": "39",
+    "iso2": "39",
+    "iso3166_2": "EE-39",
+    "fips_code": "02",
+    "name": "Hola",
+    "name_default": "Hiiu",
+    "native": "Hiiu",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 3986,
+    "latitude": "59.38302360",
+    "longitude": "24.67038480",
+    "timezone": "Europe/Tallinn",
+    "wikiDataId": "Q1466462",
+    "country_code": "EE"
+  },
+  "cities": [
+    {
+      "id": 31645,
+      "name": "Kärdla",
+      "name_default": "Kärdla",
+      "native": "Kärdla",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2921,
+      "latitude": "58.99778000",
+      "longitude": "22.74917000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q155066",
+      "country_code": "EE",
+      "state_code": "39",
+      "state_id": 3555,
+      "country_id": 69
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "لتونی",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4431,
+    "code": "102",
+    "iso2": "102",
+    "iso3166_2": "LV-102",
+    "fips_code": "E1",
+    "name": "واراکلانی",
+    "name_default": "Varakļāni",
+    "native": "Varakļāni",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 1619,
+    "latitude": "56.60887430",
+    "longitude": "26.75390930",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q432596",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66980,
+      "name": "واراکلانی",
+      "name_default": "Varakļāni",
+      "native": "Varakļāni",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1619,
+      "latitude": "56.60826000",
+      "longitude": "26.75377000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q849141",
+      "country_code": "LV",
+      "state_code": "102",
+      "state_id": 4431,
+      "country_id": 120
+    }
+  ]
+}

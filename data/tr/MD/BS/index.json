@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "Moldova",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4379,
+    "code": "BS",
+    "iso2": "BS",
+    "iso3166_2": "MD-BS",
+    "fips_code": "61",
+    "name": "Basarabeasca",
+    "name_default": "Basarabeasca",
+    "native": "Basarabeasca",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 8471,
+    "latitude": "46.39852420",
+    "longitude": "28.90220840",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q1980044",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67272,
+      "name": "Basarabeasca",
+      "name_default": "Basarabeasca",
+      "native": "Basarabeasca",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6291,
+      "latitude": "46.33170000",
+      "longitude": "28.96365000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q809787",
+      "country_code": "MD",
+      "state_code": "BS",
+      "state_id": 4379,
+      "country_id": 144
+    }
+  ]
+}

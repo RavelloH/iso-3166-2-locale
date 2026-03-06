@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 150,
+    "code": "MZ",
+    "iso3": "MOZ",
+    "numeric_code": "508",
+    "name": "モザンビーク",
+    "name_default": "Mozambique",
+    "native": "Moçambique",
+    "capital": "Maputo",
+    "phonecode": "258",
+    "currency": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "tld": ".mz",
+    "population": 34090466,
+    "gdp": 23771,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Mozambican",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-18.25000000",
+    "longitude": "35.00000000",
+    "emoji": "🇲🇿",
+    "emojiU": "U+1F1F2 U+1F1FF"
+  },
+  "state": {
+    "id": 3337,
+    "code": "B",
+    "iso2": "B",
+    "iso3166_2": "MZ-B",
+    "fips_code": "10",
+    "name": "マニカ",
+    "name_default": "Manica",
+    "native": "Manga",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-19.04009950",
+    "longitude": "33.43181370",
+    "timezone": "Africa/Maputo",
+    "wikiDataId": "Q622792",
+    "country_code": "MZ"
+  },
+  "cities": [
+    {
+      "id": 76593,
+      "name": "チモイオ",
+      "name_default": "Chimoio",
+      "native": "Chimoio",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 422046,
+      "latitude": "-19.11639000",
+      "longitude": "33.48333000",
+      "timezone": "Africa/Maputo",
+      "wikiDataId": "Q638509",
+      "country_code": "MZ",
+      "state_code": "B",
+      "state_id": 3337,
+      "country_id": 150
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 4,
+    "code": "DZ",
+    "iso3": "DZA",
+    "numeric_code": "012",
+    "name": "Cezayir",
+    "name_default": "Algeria",
+    "native": "الجزائر",
+    "capital": "Algiers",
+    "phonecode": "213",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "population": 47400000,
+    "gdp": 268885,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Northern Africa",
+    "subregion_id": 1,
+    "nationality": "Algerian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  },
+  "state": {
+    "id": 4908,
+    "code": "52",
+    "iso2": "52",
+    "iso3166_2": "DZ-52",
+    "fips_code": null,
+    "name": "Bordj Baji Mokhtar",
+    "name_default": "Bordj Baji Mokhtar",
+    "native": "برج باجي مختار",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "22.62614610",
+    "longitude": "0.12758170",
+    "timezone": "Africa/Algiers",
+    "wikiDataId": "Q76592938",
+    "country_code": "DZ"
+  },
+  "cities": []
+}

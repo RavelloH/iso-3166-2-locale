@@ -1,0 +1,58 @@
+{
+  "locale": "pt",
+  "country": {
+    "id": 152,
+    "code": "NA",
+    "iso3": "NAM",
+    "numeric_code": "516",
+    "name": "Namíbia",
+    "name_default": "Namibia",
+    "native": "Namibia",
+    "capital": "Windhoek",
+    "phonecode": "264",
+    "currency": "NAD",
+    "currency_name": "Namibian dollar",
+    "currency_symbol": "$",
+    "tld": ".na",
+    "population": 3022401,
+    "gdp": 14214,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Namibian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Windhoek",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "WAST",
+        "tzName": "West Africa Summer Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇳🇦",
+    "emojiU": "U+1F1F3 U+1F1E6"
+  },
+  "state": {
+    "id": 35,
+    "code": "KW",
+    "iso2": "KW",
+    "iso3166_2": "NA-KW",
+    "fips_code": "41",
+    "name": "Kavango Oeste",
+    "name_default": "Kavango West",
+    "native": "Kavango West",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 123266,
+    "latitude": "-18.25611100",
+    "longitude": "18.97020100",
+    "timezone": "Africa/Windhoek",
+    "wikiDataId": "Q14824027",
+    "country_code": "NA"
+  },
+  "cities": []
+}

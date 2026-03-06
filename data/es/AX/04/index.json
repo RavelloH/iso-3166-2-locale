@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 2,
+    "code": "AX",
+    "iso3": "ALA",
+    "numeric_code": "248",
+    "name": "Alandia",
+    "name_default": "Aland Islands",
+    "native": "Åland",
+    "capital": "Mariehamn",
+    "phonecode": "358",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ax",
+    "population": 30654,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Aland Island",
+    "timezones": [
+      {
+        "zoneName": "Europe/Mariehamn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "60.11666700",
+    "longitude": "19.90000000",
+    "emoji": "🇦🇽",
+    "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  "state": {
+    "id": 5290,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": "AX-04",
+    "fips_code": "04",
+    "name": "Lemland",
+    "name_default": "Lemland",
+    "native": "Lemland",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 2143,
+    "latitude": "60.06901690",
+    "longitude": "20.08600810",
+    "timezone": "Europe/Mariehamn",
+    "wikiDataId": "Q176186",
+    "country_code": "AX"
+  },
+  "cities": []
+}

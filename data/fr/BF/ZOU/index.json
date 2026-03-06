@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 35,
+    "code": "BF",
+    "iso3": "BFA",
+    "numeric_code": "854",
+    "name": "Burkina Faso",
+    "name_default": "Burkina Faso",
+    "native": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phonecode": "226",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "population": 24070553,
+    "gdp": 27056,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Burkinabe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  },
+  "state": {
+    "id": 3118,
+    "code": "ZOU",
+    "iso2": "ZOU",
+    "iso3166_2": "BF-ZOU",
+    "fips_code": "44",
+    "name": "Zoundwéogo",
+    "name_default": "Zoundwéogo",
+    "native": "Zoundwéogo",
+    "type": "province",
+    "level": "1",
+    "parent_id": "3149",
+    "population": null,
+    "latitude": "11.55258950",
+    "longitude": "-1.03089380",
+    "timezone": "Africa/Ouagadougou",
+    "wikiDataId": "Q227059",
+    "country_code": "BF"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3192,
+    "code": "KY",
+    "iso2": "KY",
+    "iso3166_2": "BI-KY",
+    "fips_code": "15",
+    "name": "Kayanza",
+    "name_default": "Kayanza",
+    "native": "Kayanza",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 21767,
+    "latitude": "-3.02148160",
+    "longitude": "29.64580340",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q720848",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9769,
+      "name": "Kayanza",
+      "name_default": "Kayanza",
+      "native": "Kayanza",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 33682,
+      "latitude": "-2.92210000",
+      "longitude": "29.62930000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q2305839",
+      "country_code": "BI",
+      "state_code": "KY",
+      "state_id": 3192,
+      "country_id": 36
+    }
+  ]
+}

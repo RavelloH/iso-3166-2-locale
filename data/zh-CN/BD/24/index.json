@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 19,
+    "code": "BD",
+    "iso3": "BGD",
+    "numeric_code": "050",
+    "name": "孟加拉",
+    "name_default": "Bangladesh",
+    "native": "Bangladesh",
+    "capital": "Dhaka",
+    "phonecode": "880",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "population": 169828911,
+    "gdp": 467218,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Southern Asia",
+    "subregion_id": 14,
+    "nationality": "Bangladeshi",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  },
+  "state": {
+    "id": 5498,
+    "code": "24",
+    "iso2": "24",
+    "iso3166_2": "BD-24",
+    "fips_code": null,
+    "name": "乔伊布尔哈特",
+    "name_default": "Joypurhat",
+    "native": "জয়পুরহাট জেলা",
+    "type": "district",
+    "level": "2",
+    "parent_id": "753",
+    "population": 84910,
+    "latitude": "25.09360000",
+    "longitude": "89.09450000",
+    "timezone": "Asia/Dhaka",
+    "wikiDataId": null,
+    "country_code": "BD"
+  },
+  "cities": [
+    {
+      "id": 153897,
+      "name": "乔伊普尔哈特",
+      "name_default": "Joypurhat",
+      "native": "জয়পুরহাট",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 956431,
+      "latitude": "25.06567070",
+      "longitude": "88.76832650",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q2348146",
+      "country_code": "BD",
+      "state_code": "24",
+      "state_id": 5498,
+      "country_id": 19
+    }
+  ]
+}

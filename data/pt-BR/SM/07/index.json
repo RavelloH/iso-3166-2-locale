@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 192,
+    "code": "SM",
+    "iso3": "SMR",
+    "numeric_code": "674",
+    "name": "San Marino",
+    "name_default": "San Marino",
+    "native": "San Marino",
+    "capital": "San Marino",
+    "phonecode": "378",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sm",
+    "population": 34132,
+    "gdp": 2047,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Sammarinese",
+    "timezones": [
+      {
+        "zoneName": "Europe/San_Marino",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.76666666",
+    "longitude": "12.41666666",
+    "emoji": "🇸🇲",
+    "emojiU": "U+1F1F8 U+1F1F2"
+  },
+  "state": {
+    "id": 58,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "SM-07",
+    "fips_code": "07",
+    "name": "São Marino",
+    "name_default": "San Marino",
+    "native": "San Marino",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.94236000",
+    "longitude": "12.45777700",
+    "timezone": "Europe/San_Marino",
+    "wikiDataId": "Q1848",
+    "country_code": "SM"
+  },
+  "cities": [
+    {
+      "id": 104700,
+      "name": "São Marino",
+      "name_default": "San Marino",
+      "native": "San Marino",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 3997,
+      "latitude": "43.93667000",
+      "longitude": "12.44639000",
+      "timezone": "Europe/San_Marino",
+      "wikiDataId": "Q1848",
+      "country_code": "SM",
+      "state_code": "07",
+      "state_id": 58,
+      "country_id": 192
+    }
+  ]
+}

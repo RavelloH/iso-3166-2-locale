@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 104,
+    "code": "IQ",
+    "iso3": "IRQ",
+    "numeric_code": "368",
+    "name": "Iraque",
+    "name_default": "Iraq",
+    "native": "العراق",
+    "capital": "Baghdad",
+    "phonecode": "964",
+    "currency": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "د.ع",
+    "tld": ".iq",
+    "population": 46118793,
+    "gdp": 258020,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Iraqi",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baghdad",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "33.00000000",
+    "longitude": "44.00000000",
+    "emoji": "🇮🇶",
+    "emojiU": "U+1F1EE U+1F1F6"
+  },
+  "state": {
+    "id": 5625,
+    "code": "KR",
+    "iso2": "KR",
+    "iso3166_2": "IQ-KR",
+    "fips_code": null,
+    "name": "Iqlim Curdistão",
+    "name_default": "Iqlim Kurdistan",
+    "native": "ھەرێمی کوردستان",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "36.18333333",
+    "longitude": "44.00000000",
+    "timezone": "Asia/Baghdad",
+    "wikiDataId": "Q205047",
+    "country_code": "IQ"
+  },
+  "cities": []
+}

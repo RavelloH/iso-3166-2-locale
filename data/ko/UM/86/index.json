@@ -1,0 +1,65 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 234,
+    "code": "UM",
+    "iso3": "UMI",
+    "numeric_code": "581",
+    "name": "미국령 군소 제도",
+    "name_default": "United States Minor Outlying Islands",
+    "native": "United States Minor Outlying Islands",
+    "capital": "",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "population": null,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "American",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Midway",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "SST",
+        "tzName": "Samoa Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Wake",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "WAKT",
+        "tzName": "Wake Island Time"
+      }
+    ],
+    "latitude": "0.00000000",
+    "longitude": "0.00000000",
+    "emoji": "🇺🇲",
+    "emojiU": "U+1F1FA U+1F1F2"
+  },
+  "state": {
+    "id": 5214,
+    "code": "86",
+    "iso2": "86",
+    "iso3166_2": "UM-86",
+    "fips_code": null,
+    "name": "자비스 섬",
+    "name_default": "Jarvis Island",
+    "native": "Jarvis Island",
+    "type": "island",
+    "level": "4",
+    "parent_id": null,
+    "population": null,
+    "latitude": "-0.37435030",
+    "longitude": "-159.99672060",
+    "timezone": "Pacific/Midway",
+    "wikiDataId": "Q62218",
+    "country_code": "UM"
+  },
+  "cities": []
+}

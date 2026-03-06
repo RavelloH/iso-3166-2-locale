@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 178,
+    "code": "PR",
+    "iso3": "PRI",
+    "numeric_code": "630",
+    "name": "Puerto Rico",
+    "name_default": "Puerto Rico",
+    "native": "Puerto Rico",
+    "capital": "San Juan",
+    "phonecode": "1",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".pr",
+    "population": 3203295,
+    "gdp": 122522,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Puerto Rican",
+    "timezones": [
+      {
+        "zoneName": "America/Puerto_Rico",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.25000000",
+    "longitude": "-66.50000000",
+    "emoji": "🇵🇷",
+    "emojiU": "U+1F1F5 U+1F1F7"
+  },
+  "state": {
+    "id": 5181,
+    "code": "093",
+    "iso2": "093",
+    "iso3166_2": "PR-093",
+    "fips_code": null,
+    "name": "Maricao",
+    "name_default": "Maricao",
+    "native": "Maricao",
+    "type": "municipality",
+    "level": "3",
+    "parent_id": null,
+    "population": 4455,
+    "latitude": "18.18079020",
+    "longitude": "-66.97990010",
+    "timezone": "America/Puerto_Rico",
+    "wikiDataId": "Q2624359",
+    "country_code": "PR"
+  },
+  "cities": [
+    {
+      "id": 153596,
+      "name": "Maricao",
+      "name_default": "Maricao",
+      "native": "Maricao",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1172,
+      "latitude": "18.18079020",
+      "longitude": "-66.97990010",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q2624359",
+      "country_code": "PR",
+      "state_code": "093",
+      "state_id": 5181,
+      "country_id": 178
+    }
+  ]
+}

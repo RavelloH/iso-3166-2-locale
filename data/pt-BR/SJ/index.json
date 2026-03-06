@@ -1,0 +1,39 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 211,
+    "code": "SJ",
+    "iso3": "SJM",
+    "numeric_code": "744",
+    "name": "Svalbard",
+    "name_default": "Svalbard and Jan Mayen Islands",
+    "native": "Svalbard og Jan Mayen",
+    "capital": "Longyearbyen",
+    "phonecode": "47",
+    "currency": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "ko",
+    "tld": ".sj",
+    "population": null,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Svalbard",
+    "timezones": [
+      {
+        "zoneName": "Arctic/Longyearbyen",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "78.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇸🇯",
+    "emojiU": "U+1F1F8 U+1F1EF"
+  },
+  "states": []
+}

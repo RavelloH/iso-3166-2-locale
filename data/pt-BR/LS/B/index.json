@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 122,
+    "code": "LS",
+    "iso3": "LSO",
+    "numeric_code": "426",
+    "name": "Lesoto",
+    "name_default": "Lesotho",
+    "native": "Lesotho",
+    "capital": "Maseru",
+    "phonecode": "266",
+    "currency": "LSL",
+    "currency_name": "Lesotho loti",
+    "currency_symbol": "L",
+    "tld": ".ls",
+    "population": 2116427,
+    "gdp": 2404,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Basotho",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maseru",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "latitude": "-29.50000000",
+    "longitude": "28.50000000",
+    "emoji": "🇱🇸",
+    "emojiU": "U+1F1F1 U+1F1F8"
+  },
+  "state": {
+    "id": 3029,
+    "code": "B",
+    "iso2": "B",
+    "iso3166_2": "LS-B",
+    "fips_code": "11",
+    "name": "Butha-Buthe",
+    "name_default": "Butha-Buthe",
+    "native": "Butha-Buthe",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 35108,
+    "latitude": "-28.76537540",
+    "longitude": "28.24681480",
+    "timezone": "Africa/Maseru",
+    "wikiDataId": "Q535632",
+    "country_code": "LS"
+  },
+  "cities": [
+    {
+      "id": 66564,
+      "name": "Butha-Buthe",
+      "name_default": "Butha-Buthe",
+      "native": "Butha-Buthe",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 40599,
+      "latitude": "-28.76659000",
+      "longitude": "28.24937000",
+      "timezone": "Africa/Maseru",
+      "wikiDataId": "Q382249",
+      "country_code": "LS",
+      "state_code": "B",
+      "state_id": 3029,
+      "country_id": 122
+    }
+  ]
+}

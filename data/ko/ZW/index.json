@@ -1,0 +1,50 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 247,
+    "code": "ZW",
+    "iso3": "ZWE",
+    "numeric_code": "716",
+    "name": "짐바브웨",
+    "name_default": "Zimbabwe",
+    "native": "Zimbabwe",
+    "capital": "Harare",
+    "phonecode": "263",
+    "currency": "ZWL",
+    "currency_name": "Zimbabwe Dollar",
+    "currency_symbol": "$",
+    "tld": ".zw",
+    "population": 17073087,
+    "gdp": 38172,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Zimbabwean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Harare",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-20.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇼",
+    "emojiU": "U+1F1FF U+1F1FC"
+  },
+  "states": [
+    "BU",
+    "HA",
+    "MA",
+    "MC",
+    "ME",
+    "MI",
+    "MN",
+    "MS",
+    "MV",
+    "MW"
+  ]
+}

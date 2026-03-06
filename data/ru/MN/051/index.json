@@ -1,0 +1,91 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 146,
+    "code": "MN",
+    "iso3": "MNG",
+    "numeric_code": "496",
+    "name": "Монголия",
+    "name_default": "Mongolia",
+    "native": "Монгол улс",
+    "capital": "Ulan Bator",
+    "phonecode": "976",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "population": 3544835,
+    "gdp": 25804,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Eastern Asia",
+    "subregion_id": 12,
+    "nationality": "Mongolian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Choibalsan",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "tzName": "Choibalsan Standard Time"
+      },
+      {
+        "zoneName": "Asia/Hovd",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "tzName": "Hovd Time"
+      },
+      {
+        "zoneName": "Asia/Ulaanbaatar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "tzName": "Ulaanbaatar Standard Time"
+      }
+    ],
+    "latitude": "46.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3"
+  },
+  "state": {
+    "id": 1977,
+    "code": "051",
+    "iso2": "051",
+    "iso3166_2": "MN-051",
+    "fips_code": "17",
+    "name": "Сухэ-Батор",
+    "name_default": "Sükhbaatar",
+    "native": "Сүхбаатар",
+    "type": "province",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "46.20934170",
+    "longitude": "113.50771960",
+    "timezone": "Asia/Choibalsan",
+    "wikiDataId": "Q244804",
+    "country_code": "MN"
+  },
+  "cities": [
+    {
+      "id": 67708,
+      "name": "Баруун-Урт",
+      "name_default": "Baruun-Urt",
+      "native": "Баруун-Урт",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 18190,
+      "latitude": "46.68056000",
+      "longitude": "113.27917000",
+      "timezone": "Asia/Ulaanbaatar",
+      "wikiDataId": "Q809657",
+      "country_code": "MN",
+      "state_code": "051",
+      "state_id": 1977,
+      "country_id": 146
+    }
+  ]
+}

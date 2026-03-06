@@ -1,0 +1,74 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 177,
+    "code": "PT",
+    "iso3": "PRT",
+    "numeric_code": "620",
+    "name": "Portugal",
+    "name_default": "Portugal",
+    "native": "Portugal",
+    "capital": "Lisbon",
+    "phonecode": "351",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".pt",
+    "population": 10749635,
+    "gdp": 321440,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Portuguese",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Azores",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "AZOT",
+        "tzName": "Azores Standard Time"
+      },
+      {
+        "zoneName": "Atlantic/Madeira",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Lisbon",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      }
+    ],
+    "latitude": "39.50000000",
+    "longitude": "-8.00000000",
+    "emoji": "🇵🇹",
+    "emojiU": "U+1F1F5 U+1F1F9"
+  },
+  "states": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "20",
+    "30"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 29,
+    "code": "BW",
+    "iso3": "BWA",
+    "numeric_code": "072",
+    "name": "Botswana",
+    "name_default": "Botswana",
+    "native": "Botswana",
+    "capital": "Gaborone",
+    "phonecode": "267",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "population": 2359609,
+    "gdp": 19400,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "Motswana, Botswanan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
+  },
+  "state": {
+    "id": 5712,
+    "code": "GA",
+    "iso2": "GA",
+    "iso3166_2": "BW-GA",
+    "fips_code": null,
+    "name": "Gaborone",
+    "name_default": "Gaborone",
+    "native": "Gaborone",
+    "type": "city",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-24.65805556",
+    "longitude": "25.91222222",
+    "timezone": "Africa/Gaborone",
+    "wikiDataId": "Q3919",
+    "country_code": "BW"
+  },
+  "cities": []
+}

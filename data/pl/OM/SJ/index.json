@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 166,
+    "code": "OM",
+    "iso3": "OMN",
+    "numeric_code": "512",
+    "name": "Oman",
+    "name_default": "Oman",
+    "native": "عمان",
+    "capital": "Muscat",
+    "phonecode": "968",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "population": 5306976,
+    "gdp": 104351,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Omani",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  },
+  "state": {
+    "id": 3054,
+    "code": "SJ",
+    "iso2": "SJ",
+    "iso3166_2": "OM-SJ",
+    "fips_code": "07",
+    "name": "Ash Sharqiyah Południe",
+    "name_default": "Ash Sharqiyah South",
+    "native": "جنوب الشرقية",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "21.90987800",
+    "longitude": "59.30781170",
+    "timezone": "Asia/Muscat",
+    "wikiDataId": "Q4501894",
+    "country_code": "OM"
+  },
+  "cities": [
+    {
+      "id": 79949,
+      "name": "Sur",
+      "name_default": "Sur",
+      "native": "على",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 71152,
+      "latitude": "22.56667000",
+      "longitude": "59.52889000",
+      "timezone": "Asia/Muscat",
+      "wikiDataId": "Q737270",
+      "country_code": "OM",
+      "state_code": "SJ",
+      "state_id": 3054,
+      "country_id": 166
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 14,
+    "code": "AU",
+    "iso3": "AUS",
+    "numeric_code": "036",
+    "name": "Australien",
+    "name_default": "Australia",
+    "native": "Australia",
+    "capital": "Canberra",
+    "phonecode": "61",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".au",
+    "population": 27400013,
+    "gdp": 1771681,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Australia and New Zealand",
+    "subregion_id": 19,
+    "nationality": "Australian",
+    "timezones": [
+      {
+        "zoneName": "Antarctica/Macquarie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MIST",
+        "tzName": "Macquarie Island Station Time"
+      },
+      {
+        "zoneName": "Australia/Adelaide",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Brisbane",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Broken_Hill",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Currie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Darwin",
+        "gmtOffset": 34200,
+        "gmtOffsetName": "UTC+09:30",
+        "abbreviation": "ACST",
+        "tzName": "Australian Central Standard Time"
+      },
+      {
+        "zoneName": "Australia/Eucla",
+        "gmtOffset": 31500,
+        "gmtOffsetName": "UTC+08:45",
+        "abbreviation": "ACWST",
+        "tzName": "Australian Central Western Standard Time (Unofficial)"
+      },
+      {
+        "zoneName": "Australia/Hobart",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Lindeman",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Lord_Howe",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "LHST",
+        "tzName": "Lord Howe Summer Time"
+      },
+      {
+        "zoneName": "Australia/Melbourne",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Perth",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "AWST",
+        "tzName": "Australian Western Standard Time"
+      },
+      {
+        "zoneName": "Australia/Sydney",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      }
+    ],
+    "latitude": "-27.00000000",
+    "longitude": "133.00000000",
+    "emoji": "🇦🇺",
+    "emojiU": "U+1F1E6 U+1F1FA"
+  },
+  "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+  ]
+}

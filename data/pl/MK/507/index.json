@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "Macedonia Północna",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 696,
+    "code": "507",
+    "iso2": "507",
+    "iso3166_2": "MK-507",
+    "fips_code": "E1",
+    "name": "Nowaci",
+    "name_default": "Novaci",
+    "native": "Новаци",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "41.04426610",
+    "longitude": "21.45888940",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q2088022",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67492,
+      "name": "Nowaci",
+      "name_default": "Novaci",
+      "native": "Новаци",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2357,
+      "latitude": "41.04197000",
+      "longitude": "21.45866000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q20932467",
+      "country_code": "MK",
+      "state_code": "507",
+      "state_id": 696,
+      "country_id": 129
+    }
+  ]
+}

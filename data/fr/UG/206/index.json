@@ -1,0 +1,58 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 229,
+    "code": "UG",
+    "iso3": "UGA",
+    "numeric_code": "800",
+    "name": "Uganda",
+    "name_default": "Uganda",
+    "native": "Uganda",
+    "capital": "Kampala",
+    "phonecode": "256",
+    "currency": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "tld": ".ug",
+    "population": 45905417,
+    "gdp": 64277,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Ugandan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇬",
+    "emojiU": "U+1F1FA U+1F1EC"
+  },
+  "state": {
+    "id": 432,
+    "code": "206",
+    "iso2": "206",
+    "iso3166_2": "UG-206",
+    "fips_code": "39",
+    "name": "Kapchorwa",
+    "name_default": "Kapchorwa",
+    "native": "Kapchorwa",
+    "type": "district",
+    "level": "1",
+    "parent_id": "372",
+    "population": 54520,
+    "latitude": "1.33502050",
+    "longitude": "34.39763560",
+    "timezone": "Africa/Kampala",
+    "wikiDataId": "Q1229921",
+    "country_code": "UG"
+  },
+  "cities": []
+}

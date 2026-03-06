@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 144,
+    "code": "MD",
+    "iso3": "MDA",
+    "numeric_code": "498",
+    "name": "Moldavia",
+    "name_default": "Moldova",
+    "native": "Moldova",
+    "capital": "Chisinau",
+    "phonecode": "373",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "population": 2381300,
+    "gdp": 19462,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Moldovan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  },
+  "state": {
+    "id": 4374,
+    "code": "SO",
+    "iso2": "SO",
+    "iso3166_2": "MD-SO",
+    "fips_code": "87",
+    "name": "Soroca",
+    "name_default": "Soroca",
+    "native": "Soroca",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 21135,
+    "latitude": "48.15497430",
+    "longitude": "28.28707830",
+    "timezone": "Europe/Chisinau",
+    "wikiDataId": "Q2129022",
+    "country_code": "MD"
+  },
+  "cities": [
+    {
+      "id": 67324,
+      "name": "Soroca",
+      "name_default": "Soroca",
+      "native": "Soroca",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 27423,
+      "latitude": "48.15659000",
+      "longitude": "28.28489000",
+      "timezone": "Europe/Chisinau",
+      "wikiDataId": "Q603400",
+      "country_code": "MD",
+      "state_code": "SO",
+      "state_id": 4374,
+      "country_id": 144
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 64,
+    "code": "EC",
+    "iso3": "ECU",
+    "numeric_code": "218",
+    "name": "Эквадор",
+    "name_default": "Ecuador",
+    "native": "Ecuador",
+    "capital": "Quito",
+    "phonecode": "593",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "population": 18103660,
+    "gdp": 125677,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Ecuadorian",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  },
+  "state": {
+    "id": 2909,
+    "code": "Z",
+    "iso2": "Z",
+    "iso3166_2": "EC-Z",
+    "fips_code": "20",
+    "name": "Самора Чинчипе",
+    "name_default": "Zamora Chinchipe",
+    "native": "Zamora Chinchipe",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": 110973,
+    "latitude": "-4.06201830",
+    "longitude": "-78.77515880",
+    "timezone": "America/Guayaquil",
+    "wikiDataId": "Q744670",
+    "country_code": "EC"
+  },
+  "cities": [
+    {
+      "id": 31590,
+      "name": "Янцаза",
+      "name_default": "Yantzaza",
+      "native": "A yantzaza",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 9970,
+      "latitude": "-3.83261000",
+      "longitude": "-78.76076000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q5763412",
+      "country_code": "EC",
+      "state_code": "Z",
+      "state_id": 2909,
+      "country_id": 64
+    },
+    {
+      "id": 31591,
+      "name": "Самора",
+      "name_default": "Zamora",
+      "native": "Zamora",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 17584,
+      "latitude": "-4.06685000",
+      "longitude": "-78.95488000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q2283736",
+      "country_code": "EC",
+      "state_code": "Z",
+      "state_id": 2909,
+      "country_id": 64
+    }
+  ]
+}

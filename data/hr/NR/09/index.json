@@ -1,0 +1,58 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 153,
+    "code": "NR",
+    "iso3": "NRU",
+    "numeric_code": "520",
+    "name": "Nauru",
+    "name_default": "Nauru",
+    "native": "Nauru",
+    "capital": "Yaren",
+    "phonecode": "674",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".nr",
+    "population": 11680,
+    "gdp": 169,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Micronesia",
+    "subregion_id": 21,
+    "nationality": "Nauruan",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Nauru",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NRT",
+        "tzName": "Nauru Time"
+      }
+    ],
+    "latitude": "-0.53333333",
+    "longitude": "166.91666666",
+    "emoji": "🇳🇷",
+    "emojiU": "U+1F1F3 U+1F1F7"
+  },
+  "state": {
+    "id": 4654,
+    "code": "09",
+    "iso2": "09",
+    "iso3166_2": "NR-09",
+    "fips_code": "09",
+    "name": "Ewa",
+    "name_default": "Ewa",
+    "native": "Ewa",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-0.50872410",
+    "longitude": "166.93693840",
+    "timezone": "Pacific/Nauru",
+    "wikiDataId": "Q274381",
+    "country_code": "NR"
+  },
+  "cities": []
+}

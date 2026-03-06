@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 174,
+    "code": "PH",
+    "iso3": "PHL",
+    "numeric_code": "608",
+    "name": "Filipijnen",
+    "name_default": "Philippines",
+    "native": "Pilipinas",
+    "capital": "Manila",
+    "phonecode": "63",
+    "currency": "PHP",
+    "currency_name": "Philippine peso",
+    "currency_symbol": "₱",
+    "tld": ".ph",
+    "population": 114123600,
+    "gdp": 497495,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Philippine, Filipino",
+    "timezones": [
+      {
+        "zoneName": "Asia/Manila",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "PHT",
+        "tzName": "Philippine Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "122.00000000",
+    "emoji": "🇵🇭",
+    "emojiU": "U+1F1F5 U+1F1ED"
+  },
+  "state": {
+    "id": 1308,
+    "code": "07",
+    "iso2": "07",
+    "iso3166_2": "PH-07",
+    "fips_code": "07",
+    "name": "Centrale Visayas",
+    "name_default": "Central Visayas",
+    "native": "Central Visayas",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 6545603,
+    "latitude": "10.47345040",
+    "longitude": "123.86480830",
+    "timezone": "Asia/Manila",
+    "wikiDataId": "Q13669",
+    "country_code": "PH"
+  },
+  "cities": []
+}

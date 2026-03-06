@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "سلوفينيا",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4214,
+    "code": "130",
+    "iso2": "130",
+    "iso3166_2": "SI-130",
+    "fips_code": "D4",
+    "name": "تريبني",
+    "name_default": "Trebnje",
+    "native": "Trebnje",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 3478,
+    "latitude": "45.90801630",
+    "longitude": "15.01319050",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q13378243",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104298,
+      "name": "تريبني",
+      "name_default": "Trebnje",
+      "native": "Trebnje",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3927,
+      "latitude": "45.90417000",
+      "longitude": "15.02167000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q15926",
+      "country_code": "SI",
+      "state_code": "130",
+      "state_id": 4214,
+      "country_id": 201
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 105,
+    "code": "IE",
+    "iso3": "IRL",
+    "numeric_code": "372",
+    "name": "Irlanda",
+    "name_default": "Ireland",
+    "native": "Éire",
+    "capital": "Dublin",
+    "phonecode": "353",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ie",
+    "population": 5458600,
+    "gdp": 598840,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Irish",
+    "timezones": [
+      {
+        "zoneName": "Europe/Dublin",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "53.00000000",
+    "longitude": "-8.00000000",
+    "emoji": "🇮🇪",
+    "emojiU": "U+1F1EE U+1F1EA"
+  },
+  "state": {
+    "id": 1082,
+    "code": "KE",
+    "iso2": "KE",
+    "iso3166_2": "IE-KE",
+    "fips_code": "12",
+    "name": "Kildare",
+    "name_default": "Kildare",
+    "native": "Kildare",
+    "type": "county",
+    "level": "1",
+    "parent_id": "1073",
+    "population": 10302,
+    "latitude": "53.15436450",
+    "longitude": "-6.81844230",
+    "timezone": "Europe/Dublin",
+    "wikiDataId": "Q173332",
+    "country_code": "IE"
+  },
+  "cities": []
+}

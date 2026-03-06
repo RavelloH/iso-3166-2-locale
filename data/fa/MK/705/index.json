@@ -1,0 +1,77 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 129,
+    "code": "MK",
+    "iso3": "MKD",
+    "numeric_code": "807",
+    "name": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+    "name_default": "North Macedonia",
+    "native": "Северна Македонија",
+    "capital": "Skopje",
+    "phonecode": "389",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "population": 1826247,
+    "gdp": 17885,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Macedonian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  },
+  "state": {
+    "id": 717,
+    "code": "705",
+    "iso2": "705",
+    "iso3166_2": "MK-705",
+    "fips_code": "85",
+    "name": "رانکووچه",
+    "name_default": "Rankovce",
+    "native": "Ранковце",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "42.16862010",
+    "longitude": "22.11655180",
+    "timezone": "Europe/Skopje",
+    "wikiDataId": "Q1475001",
+    "country_code": "MK"
+  },
+  "cities": [
+    {
+      "id": 67578,
+      "name": "رانکووسکی",
+      "name_default": "Ранковце",
+      "native": "Ранковце",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4071,
+      "latitude": "42.16964000",
+      "longitude": "22.11617000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q2990795",
+      "country_code": "MK",
+      "state_code": "705",
+      "state_id": 717,
+      "country_id": 129
+    }
+  ]
+}

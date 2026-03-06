@@ -1,0 +1,39 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 190,
+    "code": "MF",
+    "iso3": "MAF",
+    "numeric_code": "663",
+    "name": "密克罗尼西亚",
+    "name_default": "Saint-Martin (French part)",
+    "native": "Saint-Martin",
+    "capital": "Marigot",
+    "phonecode": "590",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mf",
+    "population": 31496,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Saint-Martinoise",
+    "timezones": [
+      {
+        "zoneName": "America/Marigot",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.08333333",
+    "longitude": "-63.95000000",
+    "emoji": "🇲🇫",
+    "emojiU": "U+1F1F2 U+1F1EB"
+  },
+  "states": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 145,
+    "code": "MC",
+    "iso3": "MCO",
+    "numeric_code": "492",
+    "name": "Mônaco",
+    "name_default": "Monaco",
+    "native": "Monaco",
+    "capital": "Monaco",
+    "phonecode": "377",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mc",
+    "population": 38423,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Monegasque, Monacan",
+    "timezones": [
+      {
+        "zoneName": "Europe/Monaco",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "43.73333333",
+    "longitude": "7.40000000",
+    "emoji": "🇲🇨",
+    "emojiU": "U+1F1F2 U+1F1E8"
+  },
+  "state": {
+    "id": 4919,
+    "code": "MG",
+    "iso2": "MG",
+    "iso3166_2": "MC-MG",
+    "fips_code": null,
+    "name": "Moneghetti",
+    "name_default": "Moneghetti",
+    "native": "Mongotti",
+    "type": "quarter",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "43.73649270",
+    "longitude": "7.41533830",
+    "timezone": "Europe/Monaco",
+    "wikiDataId": "Q55108",
+    "country_code": "MC"
+  },
+  "cities": [
+    {
+      "id": 160055,
+      "name": "Moneghetti",
+      "name_default": "Moneghetti",
+      "native": "Mongotti",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 3131,
+      "latitude": "43.73649270",
+      "longitude": "7.41533830",
+      "timezone": "Europe/Monaco",
+      "wikiDataId": "Q55108",
+      "country_code": "MC",
+      "state_code": "MG",
+      "state_id": 4919,
+      "country_id": 145
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 245,
+    "code": "YE",
+    "iso3": "YEM",
+    "numeric_code": "887",
+    "name": "Jemen",
+    "name_default": "Yemen",
+    "native": "اليَمَن",
+    "capital": "Sanaa",
+    "phonecode": "967",
+    "currency": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "tld": ".ye",
+    "population": 32684503,
+    "gdp": 17401,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Yemeni",
+    "timezones": [
+      {
+        "zoneName": "Asia/Aden",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "48.00000000",
+    "emoji": "🇾🇪",
+    "emojiU": "U+1F1FE U+1F1EA"
+  },
+  "state": {
+    "id": 1232,
+    "code": "SA",
+    "iso2": "SA",
+    "iso3166_2": "YE-SA",
+    "fips_code": "16",
+    "name": "Amanat Al Asimah",
+    "name_default": "Amanat Al Asimah",
+    "native": "أمانة العاصمة",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 2545000,
+    "latitude": "15.35000000",
+    "longitude": "44.20000000",
+    "timezone": "Asia/Aden",
+    "wikiDataId": "Q2471",
+    "country_code": "YE"
+  },
+  "cities": [
+    {
+      "id": 130964,
+      "name": "Sanaa",
+      "name_default": "Sanaa",
+      "native": "صنعاء",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1937451,
+      "latitude": "15.35472000",
+      "longitude": "44.20667000",
+      "timezone": "Asia/Aden",
+      "wikiDataId": "Q2471",
+      "country_code": "YE",
+      "state_code": "SA",
+      "state_id": 1232,
+      "country_id": 245
+    }
+  ]
+}

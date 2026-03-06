@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 210,
+    "code": "SR",
+    "iso3": "SUR",
+    "numeric_code": "740",
+    "name": "Surinam",
+    "name_default": "Suriname",
+    "native": "Suriname",
+    "capital": "Paramaribo",
+    "phonecode": "597",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "population": 616500,
+    "gdp": 4506,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "Surinamese",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  },
+  "state": {
+    "id": 2841,
+    "code": "PR",
+    "iso2": "PR",
+    "iso3166_2": "SR-PR",
+    "fips_code": "15",
+    "name": "Para",
+    "name_default": "Para",
+    "native": "Naar",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "5.34304130",
+    "longitude": "-55.58134100",
+    "timezone": "America/Paramaribo",
+    "wikiDataId": "Q1140891",
+    "country_code": "SR"
+  },
+  "cities": [
+    {
+      "id": 104830,
+      "name": "Onverwacht",
+      "name_default": "Onverwacht",
+      "native": "Onverwacht",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2105,
+      "latitude": "5.58983000",
+      "longitude": "-55.19462000",
+      "timezone": "America/Paramaribo",
+      "wikiDataId": "Q1861566",
+      "country_code": "SR",
+      "state_code": "PR",
+      "state_id": 2841,
+      "country_id": 210
+    }
+  ]
+}

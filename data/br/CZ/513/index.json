@@ -1,0 +1,58 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 58,
+    "code": "CZ",
+    "iso3": "CZE",
+    "numeric_code": "203",
+    "name": "Tchekia",
+    "name_default": "Czech Republic",
+    "native": "Česká republika",
+    "capital": "Prague",
+    "phonecode": "420",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "population": 10876875,
+    "gdp": 360244,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Eastern Europe",
+    "subregion_id": 15,
+    "nationality": "Czech",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  },
+  "state": {
+    "id": 4590,
+    "code": "513",
+    "iso2": "513",
+    "iso3166_2": "CZ-513",
+    "fips_code": "83",
+    "name": "Liberec",
+    "name_default": "Liberec",
+    "native": "Liberec",
+    "type": "district",
+    "level": "1",
+    "parent_id": "4601",
+    "population": 108090,
+    "latitude": "50.77026480",
+    "longitude": "15.05839470",
+    "timezone": "Europe/Prague",
+    "wikiDataId": "Q739824",
+    "country_code": "CZ"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 25,
+    "code": "BM",
+    "iso3": "BMU",
+    "numeric_code": "060",
+    "name": "Bermuda",
+    "name_default": "Bermuda",
+    "native": "Bermuda",
+    "capital": "Hamilton",
+    "phonecode": "1",
+    "currency": "BMD",
+    "currency_name": "Bermudian dollar",
+    "currency_symbol": "$",
+    "tld": ".bm",
+    "population": 64055,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Northern America",
+    "subregion_id": 6,
+    "nationality": "Bermudian, Bermudan",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Bermuda",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "32.33333333",
+    "longitude": "-64.75000000",
+    "emoji": "🇧🇲",
+    "emojiU": "U+1F1E7 U+1F1F2"
+  },
+  "state": {
+    "id": 4861,
+    "code": "HA",
+    "iso2": "HA",
+    "iso3166_2": "BM-HA",
+    "fips_code": "02",
+    "name": "Hamilton",
+    "name_default": "Hamilton",
+    "native": "Hamilton",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "32.33799060",
+    "longitude": "-64.73575560",
+    "timezone": "Atlantic/Bermuda",
+    "wikiDataId": "Q289876",
+    "country_code": "BM"
+  },
+  "cities": [
+    {
+      "id": 153515,
+      "name": "Hamilton",
+      "name_default": "Hamilton",
+      "native": "Hamilton",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 902,
+      "latitude": "32.29400000",
+      "longitude": "-64.78300000",
+      "timezone": "Atlantic/Bermuda",
+      "wikiDataId": "Q12232",
+      "country_code": "BM",
+      "state_code": "HA",
+      "state_id": 4861,
+      "country_id": 25
+    }
+  ]
+}

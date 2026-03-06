@@ -1,0 +1,39 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 205,
+    "code": "GS",
+    "iso3": "SGS",
+    "numeric_code": "239",
+    "name": "Islas Georgias del Sur y Sandwich del Sur",
+    "name_default": "South Georgia",
+    "native": "South Georgia",
+    "capital": "Grytviken",
+    "phonecode": "500",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".gs",
+    "population": null,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "South America",
+    "subregion_id": 8,
+    "nationality": "South Georgia or South Sandwich Islands",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/South_Georgia",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "GST",
+        "tzName": "South Georgia and the South Sandwich Islands Time"
+      }
+    ],
+    "latitude": "-54.50000000",
+    "longitude": "-37.00000000",
+    "emoji": "🇬🇸",
+    "emojiU": "U+1F1EC U+1F1F8"
+  },
+  "states": []
+}

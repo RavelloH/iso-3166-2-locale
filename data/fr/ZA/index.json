@@ -1,0 +1,49 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 204,
+    "code": "ZA",
+    "iso3": "ZAF",
+    "numeric_code": "710",
+    "name": "Afrique du Sud",
+    "name_default": "South Africa",
+    "native": "South Africa",
+    "capital": "Pretoria",
+    "phonecode": "27",
+    "currency": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "tld": ".za",
+    "population": 63100945,
+    "gdp": 410338,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "South African",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "latitude": "-29.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇿🇦",
+    "emojiU": "U+1F1FF U+1F1E6"
+  },
+  "states": [
+    "EC",
+    "FS",
+    "GP",
+    "KZN",
+    "LP",
+    "MP",
+    "NC",
+    "NW",
+    "WC"
+  ]
+}

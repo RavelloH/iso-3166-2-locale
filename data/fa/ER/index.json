@@ -1,0 +1,46 @@
+{
+  "locale": "fa",
+  "country": {
+    "id": 68,
+    "code": "ER",
+    "iso3": "ERI",
+    "numeric_code": "232",
+    "name": "اریتره",
+    "name_default": "Eritrea",
+    "native": "ኤርትራ",
+    "capital": "Asmara",
+    "phonecode": "291",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "population": 3607000,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Eritrean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  },
+  "states": [
+    "AN",
+    "DK",
+    "DU",
+    "GB",
+    "MA",
+    "SK"
+  ]
+}

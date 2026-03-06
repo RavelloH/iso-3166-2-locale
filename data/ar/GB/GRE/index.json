@@ -1,0 +1,77 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 232,
+    "code": "GB",
+    "iso3": "GBR",
+    "numeric_code": "826",
+    "name": "المملكة المتحدة",
+    "name_default": "United Kingdom",
+    "native": "United Kingdom",
+    "capital": "London",
+    "phonecode": "44",
+    "currency": "GBP",
+    "currency_name": "British pound",
+    "currency_symbol": "£",
+    "tld": ".uk",
+    "population": 68265209,
+    "gdp": 3839180,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "British, UK",
+    "timezones": [
+      {
+        "zoneName": "Europe/London",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "54.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇧",
+    "emojiU": "U+1F1EC U+1F1E7"
+  },
+  "state": {
+    "id": 2492,
+    "code": "GRE",
+    "iso2": "GRE",
+    "iso3166_2": "GB-GRE",
+    "fips_code": "E7",
+    "name": "غرينتش",
+    "name_default": "Greenwich",
+    "native": "Greenwich",
+    "type": "london borough",
+    "level": "2",
+    "parent_id": "2336",
+    "population": null,
+    "latitude": "51.46862560",
+    "longitude": "0.04883060",
+    "timezone": "Europe/London",
+    "wikiDataId": "Q693450",
+    "country_code": "GB"
+  },
+  "cities": [
+    {
+      "id": 48157,
+      "name": "آبي وود",
+      "name_default": "Abbey Wood",
+      "native": "Abbey Wood",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13000,
+      "latitude": "51.48688000",
+      "longitude": "0.10747000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q690421",
+      "country_code": "GB",
+      "state_code": "GRE",
+      "state_id": 2492,
+      "country_id": 232
+    }
+  ]
+}

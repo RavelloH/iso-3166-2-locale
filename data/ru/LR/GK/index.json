@@ -1,0 +1,77 @@
+{
+  "locale": "ru",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "Либерия",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3045,
+    "code": "GK",
+    "iso2": "GK",
+    "iso3166_2": "LR-GK",
+    "fips_code": "16",
+    "name": "Гранд Кру",
+    "name_default": "Grand Kru",
+    "native": "Grand crew",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 109342,
+    "latitude": "4.84932000",
+    "longitude": "-8.33088450",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q574952",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66546,
+      "name": "Барклайвилл",
+      "name_default": "Barclayville",
+      "native": "Barclayville",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 4692,
+      "latitude": "4.67443000",
+      "longitude": "-8.23306000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q807963",
+      "country_code": "LR",
+      "state_code": "GK",
+      "state_id": 3045,
+      "country_id": 123
+    }
+  ]
+}

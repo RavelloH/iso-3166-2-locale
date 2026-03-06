@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 201,
+    "code": "SI",
+    "iso3": "SVN",
+    "numeric_code": "705",
+    "name": "슬로베니아",
+    "name_default": "Slovenia",
+    "native": "Slovenija",
+    "capital": "Ljubljana",
+    "phonecode": "386",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "population": 2130638,
+    "gdp": 75224,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Slovenian, Slovene",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  },
+  "state": {
+    "id": 4198,
+    "code": "114",
+    "iso2": "114",
+    "iso3166_2": "SI-114",
+    "fips_code": "C4",
+    "name": "슬로베스케 콘지체",
+    "name_default": "Slovenske Konjice",
+    "native": "Slovenske Konjice",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": 5152,
+    "latitude": "46.33691910",
+    "longitude": "15.42147080",
+    "timezone": "Europe/Ljubljana",
+    "wikiDataId": "Q13378155",
+    "country_code": "SI"
+  },
+  "cities": [
+    {
+      "id": 104273,
+      "name": "슬로베스케 콘지체",
+      "name_default": "Slovenske Konjice",
+      "native": "Slovenske Konjice",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5157,
+      "latitude": "46.33667000",
+      "longitude": "15.42583000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q15919",
+      "country_code": "SI",
+      "state_code": "114",
+      "state_id": 4198,
+      "country_id": 201
+    }
+  ]
+}

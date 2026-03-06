@@ -1,0 +1,58 @@
+{
+  "locale": "nl",
+  "country": {
+    "id": 92,
+    "code": "GN",
+    "iso3": "GIN",
+    "numeric_code": "324",
+    "name": "Guinee",
+    "name_default": "Guinea",
+    "native": "Guinée",
+    "capital": "Conakry",
+    "phonecode": "224",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "population": 14363931,
+    "gdp": 30094,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Guinean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  },
+  "state": {
+    "id": 2692,
+    "code": "KB",
+    "iso2": "KB",
+    "iso3166_2": "GN-KB",
+    "fips_code": "33",
+    "name": "Koubia",
+    "name_default": "Koubia",
+    "native": "Koubia",
+    "type": "prefecture",
+    "level": "2",
+    "parent_id": "2677",
+    "population": 2486,
+    "latitude": "11.58235400",
+    "longitude": "-11.89202370",
+    "timezone": "Africa/Conakry",
+    "wikiDataId": "Q623409",
+    "country_code": "GN"
+  },
+  "cities": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "de",
+  "country": {
+    "id": 68,
+    "code": "ER",
+    "iso3": "ERI",
+    "numeric_code": "232",
+    "name": "Eritrea",
+    "name_default": "Eritrea",
+    "native": "ኤርትራ",
+    "capital": "Asmara",
+    "phonecode": "291",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "population": 3607000,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Eritrean",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  },
+  "state": {
+    "id": 3424,
+    "code": "SK",
+    "iso2": "SK",
+    "iso3166_2": "ER-SK",
+    "fips_code": "06",
+    "name": "Nördliches Rotes Meer",
+    "name_default": "Northern Red Sea",
+    "native": "ሰሜናዊ ቀይሕ ባሕሪ",
+    "type": "region",
+    "level": null,
+    "parent_id": null,
+    "population": 897454,
+    "latitude": "16.00000000",
+    "longitude": "39.00000000",
+    "timezone": "Africa/Asmara",
+    "wikiDataId": "Q27910",
+    "country_code": "ER"
+  },
+  "cities": [
+    {
+      "id": 31889,
+      "name": "Massawa",
+      "name_default": "Massawa",
+      "native": "ማሳዋ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 23100,
+      "latitude": "15.60811000",
+      "longitude": "39.47455000",
+      "timezone": "Africa/Asmara",
+      "wikiDataId": "Q275635",
+      "country_code": "ER",
+      "state_code": "SK",
+      "state_id": 3424,
+      "country_id": 68
+    }
+  ]
+}

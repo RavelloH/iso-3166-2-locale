@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 36,
+    "code": "BI",
+    "iso3": "BDI",
+    "numeric_code": "108",
+    "name": "Burundi",
+    "name_default": "Burundi",
+    "native": "Burundi",
+    "capital": "Bujumbura",
+    "phonecode": "257",
+    "currency": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "tld": ".bi",
+    "population": 12332788,
+    "gdp": 6745,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Burundian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "latitude": "-3.50000000",
+    "longitude": "30.00000000",
+    "emoji": "🇧🇮",
+    "emojiU": "U+1F1E7 U+1F1EE"
+  },
+  "state": {
+    "id": 3199,
+    "code": "NG",
+    "iso2": "NG",
+    "iso3166_2": "BI-NG",
+    "fips_code": "19",
+    "name": "Ngozi",
+    "name_default": "Ngozi",
+    "native": "Ngozi",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-2.87768950",
+    "longitude": "29.89949860",
+    "timezone": "Africa/Bujumbura",
+    "wikiDataId": "Q720852",
+    "country_code": "BI"
+  },
+  "cities": [
+    {
+      "id": 9775,
+      "name": "Ngozi",
+      "name_default": "Ngozi",
+      "native": "Ngozi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 61716,
+      "latitude": "-2.90750000",
+      "longitude": "29.83060000",
+      "timezone": "Africa/Bujumbura",
+      "wikiDataId": "Q929689",
+      "country_code": "BI",
+      "state_code": "NG",
+      "state_id": 3199,
+      "country_id": 36
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "fr",
+  "country": {
+    "id": 120,
+    "code": "LV",
+    "iso3": "LVA",
+    "numeric_code": "428",
+    "name": "Lettonie",
+    "name_default": "Latvia",
+    "native": "Latvija",
+    "capital": "Riga",
+    "phonecode": "371",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "population": 1830400,
+    "gdp": 45535,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Latvian",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  },
+  "state": {
+    "id": 4500,
+    "code": "JEL",
+    "iso2": "JEL",
+    "iso3166_2": "LV-JEL",
+    "fips_code": "11",
+    "name": "Jelgava",
+    "name_default": "Jelgava",
+    "native": "Jelgava",
+    "type": "state city",
+    "level": null,
+    "parent_id": null,
+    "population": 54834,
+    "latitude": "56.65143940",
+    "longitude": "23.73391430",
+    "timezone": "Europe/Riga",
+    "wikiDataId": "Q179830",
+    "country_code": "LV"
+  },
+  "cities": [
+    {
+      "id": 66906,
+      "name": "Jelgava",
+      "name_default": "Jelgava",
+      "native": "Jelgava",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 54834,
+      "latitude": "56.65000000",
+      "longitude": "23.71278000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q1684136",
+      "country_code": "LV",
+      "state_code": "JEL",
+      "state_id": 4500,
+      "country_id": 120
+    }
+  ]
+}

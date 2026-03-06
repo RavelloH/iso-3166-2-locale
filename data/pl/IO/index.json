@@ -1,0 +1,39 @@
+{
+  "locale": "pl",
+  "country": {
+    "id": 32,
+    "code": "IO",
+    "iso3": "IOT",
+    "numeric_code": "086",
+    "name": "Brytyjskie Terytorium Oceanu Indyjskiego",
+    "name_default": "British Indian Ocean Territory",
+    "native": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "phonecode": "246",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".io",
+    "population": null,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "BIOT",
+    "timezones": [
+      {
+        "zoneName": "Indian/Chagos",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "IOT",
+        "tzName": "Indian Ocean Time"
+      }
+    ],
+    "latitude": "-6.00000000",
+    "longitude": "71.50000000",
+    "emoji": "🇮🇴",
+    "emojiU": "U+1F1EE U+1F1F4"
+  },
+  "states": []
+}

@@ -1,0 +1,77 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 125,
+    "code": "LI",
+    "iso3": "LIE",
+    "numeric_code": "438",
+    "name": "Liechtenstein",
+    "name_default": "Liechtenstein",
+    "native": "Liechtenstein",
+    "capital": "Vaduz",
+    "phonecode": "423",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".li",
+    "population": 40900,
+    "gdp": null,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Western Europe",
+    "subregion_id": 17,
+    "nationality": "Liechtenstein",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vaduz",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "47.26666666",
+    "longitude": "9.53333333",
+    "emoji": "🇱🇮",
+    "emojiU": "U+1F1F1 U+1F1EE"
+  },
+  "state": {
+    "id": 454,
+    "code": "05",
+    "iso2": "05",
+    "iso3166_2": "LI-05",
+    "fips_code": "05",
+    "name": "Planken",
+    "name_default": "Planken",
+    "native": "Planken",
+    "type": "commune",
+    "level": null,
+    "parent_id": null,
+    "population": 473,
+    "latitude": "47.18588480",
+    "longitude": "9.54522110",
+    "timezone": "Europe/Vaduz",
+    "wikiDataId": "Q49660",
+    "country_code": "LI"
+  },
+  "cities": [
+    {
+      "id": 66441,
+      "name": "Planken",
+      "name_default": "Planken",
+      "native": "Bretter",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 478,
+      "latitude": "47.18516000",
+      "longitude": "9.54437000",
+      "timezone": "Europe/Vaduz",
+      "wikiDataId": "Q49660",
+      "country_code": "LI",
+      "state_code": "05",
+      "state_id": 454,
+      "country_id": 125
+    }
+  ]
+}

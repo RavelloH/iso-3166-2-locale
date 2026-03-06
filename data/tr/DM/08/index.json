@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 61,
+    "code": "DM",
+    "iso3": "DMA",
+    "numeric_code": "212",
+    "name": "Dominika",
+    "name_default": "Dominica",
+    "native": "Dominica",
+    "capital": "Roseau",
+    "phonecode": "1",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "population": 67408,
+    "gdp": 742,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Dominican",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  },
+  "state": {
+    "id": 4077,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "DM-08",
+    "fips_code": "08",
+    "name": "Aziz Mark",
+    "name_default": "Saint Mark",
+    "native": "Saint Mark",
+    "type": "parish",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "15.22852650",
+    "longitude": "-61.35000410",
+    "timezone": "America/Dominica",
+    "wikiDataId": "Q1431115",
+    "country_code": "DM"
+  },
+  "cities": [
+    {
+      "id": 31016,
+      "name": "Soufrière",
+      "name_default": "Soufrière",
+      "native": "Sulfur",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1416,
+      "latitude": "15.23374000",
+      "longitude": "-61.35881000",
+      "timezone": "America/Dominica",
+      "wikiDataId": "Q1027850",
+      "country_code": "DM",
+      "state_code": "08",
+      "state_id": 4077,
+      "country_id": 61
+    }
+  ]
+}

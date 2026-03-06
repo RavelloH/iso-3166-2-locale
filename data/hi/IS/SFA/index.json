@@ -1,0 +1,77 @@
+{
+  "locale": "hi",
+  "country": {
+    "id": 100,
+    "code": "IS",
+    "iso3": "ISL",
+    "numeric_code": "352",
+    "name": "आइसलैंड",
+    "name_default": "Iceland",
+    "native": "Ísland",
+    "capital": "Reykjavik",
+    "phonecode": "354",
+    "currency": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "ko",
+    "tld": ".is",
+    "population": 391810,
+    "gdp": 35309,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Northern Europe",
+    "subregion_id": 18,
+    "nationality": "Icelandic",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Reykjavik",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "65.00000000",
+    "longitude": "-18.00000000",
+    "emoji": "🇮🇸",
+    "emojiU": "U+1F1EE U+1F1F8"
+  },
+  "state": {
+    "id": 5599,
+    "code": "SFA",
+    "iso2": "SFA",
+    "iso3166_2": "IS-SFA",
+    "fips_code": null,
+    "name": "आर्बोर्ग",
+    "name_default": "Árborg",
+    "native": "Sveitarfélagið Árborg",
+    "type": "municipality",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "63.90000000",
+    "longitude": "-20.88000000",
+    "timezone": "Atlantic/Reykjavik",
+    "wikiDataId": "Q731908",
+    "country_code": "IS"
+  },
+  "cities": [
+    {
+      "id": 135210,
+      "name": "सेल्फॉस",
+      "name_default": "Selfoss",
+      "native": "Selfoss",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 9812,
+      "latitude": "63.93311000",
+      "longitude": "-20.99712000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q192898",
+      "country_code": "IS",
+      "state_code": "SFA",
+      "state_id": 5599,
+      "country_id": 100
+    }
+  ]
+}

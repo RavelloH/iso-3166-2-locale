@@ -1,0 +1,77 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 123,
+    "code": "LR",
+    "iso3": "LBR",
+    "numeric_code": "430",
+    "name": "利比里亚",
+    "name_default": "Liberia",
+    "native": "Liberia",
+    "capital": "Monrovia",
+    "phonecode": "231",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "population": 5248621,
+    "gdp": 5166,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Liberian",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
+  },
+  "state": {
+    "id": 3042,
+    "code": "MY",
+    "iso2": "MY",
+    "iso3166_2": "LR-MY",
+    "fips_code": "13",
+    "name": "马里兰州",
+    "name_default": "Maryland",
+    "native": "Maryland",
+    "type": "county",
+    "level": null,
+    "parent_id": null,
+    "population": 6263220,
+    "latitude": "4.63553760",
+    "longitude": "-7.72816690",
+    "timezone": "Africa/Monrovia",
+    "wikiDataId": "Q870138",
+    "country_code": "LR"
+  },
+  "cities": [
+    {
+      "id": 66555,
+      "name": "哈珀",
+      "name_default": "Harper",
+      "native": "Harper",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 35503,
+      "latitude": "4.37820000",
+      "longitude": "-7.71081000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q1019486",
+      "country_code": "LR",
+      "state_code": "MY",
+      "state_id": 3042,
+      "country_id": 123
+    }
+  ]
+}

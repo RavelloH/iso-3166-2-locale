@@ -1,0 +1,77 @@
+{
+  "locale": "es",
+  "country": {
+    "id": 111,
+    "code": "JO",
+    "iso3": "JOR",
+    "numeric_code": "400",
+    "name": "Jordania",
+    "name_default": "Jordan",
+    "native": "الأردن",
+    "capital": "Amman",
+    "phonecode": "962",
+    "currency": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "ا.د",
+    "tld": ".jo",
+    "population": 11734000,
+    "gdp": 56102,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "Western Asia",
+    "subregion_id": 11,
+    "nationality": "Jordanian",
+    "timezones": [
+      {
+        "zoneName": "Asia/Amman",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "latitude": "31.00000000",
+    "longitude": "36.00000000",
+    "emoji": "🇯🇴",
+    "emojiU": "U+1F1EF U+1F1F4"
+  },
+  "state": {
+    "id": 958,
+    "code": "MD",
+    "iso2": "MD",
+    "iso3166_2": "JO-MD",
+    "fips_code": "23",
+    "name": "Madaba",
+    "name_default": "Madaba",
+    "native": "مادبا",
+    "type": "governorate",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "31.71960970",
+    "longitude": "35.79327540",
+    "timezone": "Asia/Amman",
+    "wikiDataId": "Q750447",
+    "country_code": "JO"
+  },
+  "cities": [
+    {
+      "id": 63173,
+      "name": "Madaba",
+      "name_default": "Mādabā",
+      "native": "مادبا",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 82335,
+      "latitude": "31.71599000",
+      "longitude": "35.79392000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q1683958",
+      "country_code": "JO",
+      "state_code": "MD",
+      "state_id": 958,
+      "country_id": 111
+    }
+  ]
+}

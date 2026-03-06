@@ -1,0 +1,58 @@
+{
+  "locale": "pt-BR",
+  "country": {
+    "id": 162,
+    "code": "NU",
+    "iso3": "NIU",
+    "numeric_code": "570",
+    "name": "Niue",
+    "name_default": "Niue",
+    "native": "Niuē",
+    "capital": "Alofi",
+    "phonecode": "683",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nu",
+    "population": 1681,
+    "gdp": null,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Polynesia",
+    "subregion_id": 22,
+    "nationality": "Niuean",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Niue",
+        "gmtOffset": -39600,
+        "gmtOffsetName": "UTC-11:00",
+        "abbreviation": "NUT",
+        "tzName": "Niue Time"
+      }
+    ],
+    "latitude": "-19.03333333",
+    "longitude": "-169.86666666",
+    "emoji": "🇳🇺",
+    "emojiU": "U+1F1F3 U+1F1FA"
+  },
+  "state": {
+    "id": 5429,
+    "code": "08",
+    "iso2": "08",
+    "iso3166_2": "NU-08",
+    "fips_code": "08",
+    "name": "Liku",
+    "name_default": "Liku",
+    "native": "Liku",
+    "type": "village",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-19.05369070",
+    "longitude": "-169.79425910",
+    "timezone": "Pacific/Niue",
+    "wikiDataId": "Q2570188",
+    "country_code": "NU"
+  },
+  "cities": []
+}

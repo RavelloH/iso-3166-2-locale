@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 229,
+    "code": "UG",
+    "iso3": "UGA",
+    "numeric_code": "800",
+    "name": "乌干达",
+    "name_default": "Uganda",
+    "native": "Uganda",
+    "capital": "Kampala",
+    "phonecode": "256",
+    "currency": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "tld": ".ug",
+    "population": 45905417,
+    "gdp": 64277,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Ugandan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "latitude": "1.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇬",
+    "emojiU": "U+1F1FA U+1F1EC"
+  },
+  "state": {
+    "id": 415,
+    "code": "410",
+    "iso2": "410",
+    "iso3166_2": "UG-410",
+    "fips_code": "52",
+    "name": "姆巴拉拉",
+    "name_default": "Mbarara",
+    "native": "Robbery",
+    "type": "district",
+    "level": "1",
+    "parent_id": "370",
+    "population": null,
+    "latitude": "-0.60715960",
+    "longitude": "30.65450220",
+    "timezone": "Africa/Kampala",
+    "wikiDataId": "Q1091595",
+    "country_code": "UG"
+  },
+  "cities": []
+}

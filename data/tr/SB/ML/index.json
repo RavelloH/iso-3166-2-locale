@@ -1,0 +1,77 @@
+{
+  "locale": "tr",
+  "country": {
+    "id": 202,
+    "code": "SB",
+    "iso3": "SLB",
+    "numeric_code": "090",
+    "name": "Solomon Adalari",
+    "name_default": "Solomon Islands",
+    "native": "Solomon Islands",
+    "capital": "Honiara",
+    "phonecode": "677",
+    "currency": "SBD",
+    "currency_name": "Solomon Islands dollar",
+    "currency_symbol": "Si$",
+    "tld": ".sb",
+    "population": 750325,
+    "gdp": 1898,
+    "region": "Oceania",
+    "region_id": 5,
+    "subregion": "Melanesia",
+    "subregion_id": 20,
+    "nationality": "Solomon Island",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guadalcanal",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SBT",
+        "tzName": "Solomon Islands Time"
+      }
+    ],
+    "latitude": "-8.00000000",
+    "longitude": "159.00000000",
+    "emoji": "🇸🇧",
+    "emojiU": "U+1F1F8 U+1F1E7"
+  },
+  "state": {
+    "id": 4783,
+    "code": "ML",
+    "iso2": "ML",
+    "iso3166_2": "SB-ML",
+    "fips_code": "03",
+    "name": "Malaita",
+    "name_default": "Malaita",
+    "native": "Malaita",
+    "type": "province",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-8.95516870",
+    "longitude": "160.95144130",
+    "timezone": "Pacific/Guadalcanal",
+    "wikiDataId": "Q1190896",
+    "country_code": "SB"
+  },
+  "cities": [
+    {
+      "id": 102899,
+      "name": "Auki",
+      "name_default": "Auki",
+      "native": "Insertion",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6811,
+      "latitude": "-8.76778000",
+      "longitude": "160.69778000",
+      "timezone": "Pacific/Guadalcanal",
+      "wikiDataId": "Q538476",
+      "country_code": "SB",
+      "state_code": "ML",
+      "state_id": 4783,
+      "country_id": 202
+    }
+  ]
+}

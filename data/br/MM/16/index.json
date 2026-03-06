@@ -1,0 +1,77 @@
+{
+  "locale": "br",
+  "country": {
+    "id": 151,
+    "code": "MM",
+    "iso3": "MMR",
+    "numeric_code": "104",
+    "name": "Myanmar",
+    "name_default": "Myanmar",
+    "native": "မြန်မာ",
+    "capital": "Nay Pyi Taw",
+    "phonecode": "95",
+    "currency": "MMK",
+    "currency_name": "Burmese kyat",
+    "currency_symbol": "K",
+    "tld": ".mm",
+    "population": 51316756,
+    "gdp": 64944,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Burmese",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yangon",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "MMT",
+        "tzName": "Myanmar Standard Time"
+      }
+    ],
+    "latitude": "22.00000000",
+    "longitude": "98.00000000",
+    "emoji": "🇲🇲",
+    "emojiU": "U+1F1F2 U+1F1F2"
+  },
+  "state": {
+    "id": 2138,
+    "code": "16",
+    "iso2": "16",
+    "iso3166_2": "MM-16",
+    "fips_code": "01",
+    "name": "Rakhine",
+    "name_default": "Rakhine",
+    "native": "ရခိုင်",
+    "type": "state",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "19.52129910",
+    "longitude": "94.00724280",
+    "timezone": "Asia/Yangon",
+    "wikiDataId": "Q233838",
+    "country_code": "MM"
+  },
+  "cities": [
+    {
+      "id": 67687,
+      "name": "Sittwe",
+      "name_default": "Sittwe",
+      "native": "စစ်တွေ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 177743,
+      "latitude": "20.14624000",
+      "longitude": "92.89835000",
+      "timezone": "Asia/Yangon",
+      "wikiDataId": "Q738748",
+      "country_code": "MM",
+      "state_code": "16",
+      "state_id": 2138,
+      "country_id": 151
+    }
+  ]
+}

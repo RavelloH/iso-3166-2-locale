@@ -1,0 +1,58 @@
+{
+  "locale": "ar",
+  "country": {
+    "id": 184,
+    "code": "SH",
+    "iso3": "SHN",
+    "numeric_code": "654",
+    "name": "سانت هيلانة",
+    "name_default": "Saint Helena",
+    "native": "Saint Helena",
+    "capital": "Jamestown",
+    "phonecode": "290",
+    "currency": "SHP",
+    "currency_name": "Saint Helena pound",
+    "currency_symbol": "£",
+    "tld": ".sh",
+    "population": 5651,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Western Africa",
+    "subregion_id": 3,
+    "nationality": "Saint Helenian",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/St_Helena",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "latitude": "-15.95000000",
+    "longitude": "-5.70000000",
+    "emoji": "🇸🇭",
+    "emojiU": "U+1F1F8 U+1F1ED"
+  },
+  "state": {
+    "id": 5440,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "SH-01",
+    "fips_code": "01",
+    "name": "غابة الإنذار",
+    "name_default": "Alarm Forest",
+    "native": "Alarm Forest",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": 383,
+    "latitude": "-15.94850430",
+    "longitude": "-5.70281940",
+    "timezone": "Atlantic/St_Helena",
+    "wikiDataId": "Q4708386",
+    "country_code": "SH"
+  },
+  "cities": []
+}

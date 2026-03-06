@@ -1,0 +1,77 @@
+{
+  "locale": "ko",
+  "country": {
+    "id": 140,
+    "code": "MU",
+    "iso3": "MUS",
+    "numeric_code": "480",
+    "name": "모리셔스",
+    "name_default": "Mauritius",
+    "native": "Maurice",
+    "capital": "Port Louis",
+    "phonecode": "230",
+    "currency": "MUR",
+    "currency_name": "Mauritian rupee",
+    "currency_symbol": "₨",
+    "tld": ".mu",
+    "population": 1243741,
+    "gdp": 15495,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Eastern Africa",
+    "subregion_id": 4,
+    "nationality": "Mauritian",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mauritius",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MUT",
+        "tzName": "Mauritius Time"
+      }
+    ],
+    "latitude": "-20.28333333",
+    "longitude": "57.55000000",
+    "emoji": "🇲🇺",
+    "emojiU": "U+1F1F2 U+1F1FA"
+  },
+  "state": {
+    "id": 3251,
+    "code": "CC",
+    "iso2": "CC",
+    "iso3166_2": "MU-CC",
+    "fips_code": "22",
+    "name": "세인트 브랜든 제도",
+    "name_default": "Saint Brandon Islands",
+    "native": "Saint Brandon Islands",
+    "type": "dependency",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-16.58333300",
+    "longitude": "59.61666700",
+    "timezone": "Indian/Mauritius",
+    "wikiDataId": "Q511859",
+    "country_code": "MU"
+  },
+  "cities": [
+    {
+      "id": 67844,
+      "name": "카르가도스 카라호스",
+      "name_default": "Cargados Carajos",
+      "native": "Loaded caragos",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 63,
+      "latitude": "-16.60329000",
+      "longitude": "59.65851000",
+      "timezone": "Indian/Mauritius",
+      "wikiDataId": "Q130238",
+      "country_code": "MU",
+      "state_code": "CC",
+      "state_id": 3251,
+      "country_id": 140
+    }
+  ]
+}
