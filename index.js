@@ -489,12 +489,8 @@ async function processCountriesChunk({
       stateCodes.push(stateCode);
       stateCount += 1;
 
-      const stateDir = path.join(countryDir, stateCode);
-      await ensureDir(stateDir);
-
       const cities = Array.isArray(baseState.cities) ? baseState.cities : [];
-      const cityNames = [];
-      const usedCityFileNames = new Set();
+      const cityPayloads = [];
 
       for (const baseCity of cities) {
         const translatedCity = cityById.get(String(baseCity.id)) || null;
@@ -506,34 +502,8 @@ async function processCountriesChunk({
           language
         );
 
-        const cityNameForList = cityDetail.name || cityDetail.name_default;
-        if (cityNameForList) {
-          cityNames.push(cityNameForList);
-        }
         cityCount += 1;
-
-        const fileNameSource =
-          baseCity.name || cityDetail.name_default || `city-${cityDetail.id ?? cityCount}`;
-        const baseFileName = sanitizePathSegment(
-          fileNameSource,
-          `city-${cityDetail.id ?? cityCount}`
-        );
-        let fileName = baseFileName;
-        let suffix = 2;
-        while (usedCityFileNames.has(fileName.toLowerCase())) {
-          fileName = `${baseFileName}-${suffix}`;
-          suffix += 1;
-        }
-        usedCityFileNames.add(fileName.toLowerCase());
-
-        const cityFilePath = path.join(stateDir, `${fileName}.json`);
-        const cityPayload = {
-          locale: language,
-          country: countryDetail,
-          state: stateDetail,
-          city: cityDetail,
-        };
-        await writeQueue.enqueue(() => writeJsonFile(cityFilePath, cityPayload));
+        cityPayloads.push(cityDetail);
       }
 
       const stateFilePath = path.join(countryDir, `${stateCode}.json`);
@@ -541,7 +511,7 @@ async function processCountriesChunk({
         locale: language,
         country: countryDetail,
         state: stateDetail,
-        cities: getUniqueSorted(cityNames),
+        cities: cityPayloads,
       };
       await writeQueue.enqueue(() => writeJsonFile(stateFilePath, statePayload));
     }
@@ -652,7 +622,18 @@ function runWorker(payload) {
   });
 }
 
+async function resetLanguageOutput(language) {
+  const languageDir = path.join(DATA_ROOT, language);
+  const languageIndexPath = path.join(DATA_ROOT, `${language}.json`);
+
+  await fsp.rm(languageDir, { recursive: true, force: true });
+  await fsp.rm(languageIndexPath, { force: true });
+  await ensureDirectory(languageDir);
+}
+
 async function generateLanguageData(language, countries, stateById, cityById) {
+  await resetLanguageOutput(language);
+
   const workerCount = resolveWorkerCount(countries.length);
   const totalWriteConcurrency = resolveWriteConcurrency(workerCount);
   const perWorkerWriteConcurrency = Math.max(
