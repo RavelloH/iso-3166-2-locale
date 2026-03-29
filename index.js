@@ -40,7 +40,7 @@ const SOURCE_URLS = {
   states:
     "https://github.com/dr5hn/countries-states-cities-database/raw/refs/heads/master/json/states.json",
   citiesGz:
-    "https://github.com/dr5hn/countries-states-cities-database/raw/refs/heads/master/json/cities.json.gz",
+    "https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-cities.json.gz",
 };
 
 const DEFAULT_WORKER_COUNT = LOGICAL_CPUS;
