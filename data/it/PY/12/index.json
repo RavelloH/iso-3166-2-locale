@@ -108,6 +108,24 @@
       "state_code": "12",
       "state_id": 2781,
       "country_id": 172
+    },
+    {
+      "id": 161652,
+      "name": "Villa Oliva (Paraguay)",
+      "name_default": "Villa Oliva",
+      "native": "Villa Oliva",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 990,
+      "latitude": "-26.02000000",
+      "longitude": "-57.87000000",
+      "timezone": "America/Asuncion",
+      "wikiDataId": "Q1750358",
+      "country_code": "PY",
+      "state_code": "12",
+      "state_id": 2781,
+      "country_id": 172
     }
   ]
 }
