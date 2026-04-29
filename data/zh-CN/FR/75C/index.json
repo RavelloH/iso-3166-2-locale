@@ -45,7 +45,7 @@
     "name_default": "Paris",
     "native": "Paris",
     "type": "metropolitan collectivity with special status",
-    "level": null,
+    "level": "1",
     "parent_id": null,
     "population": null,
     "latitude": "48.85661400",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q90",
     "country_code": "FR"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 44856,
+      "name": "巴黎",
+      "name_default": "Paris",
+      "native": "Paris",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 2113705,
+      "latitude": "48.85340000",
+      "longitude": "2.34860000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q90",
+      "country_code": "FR",
+      "state_code": "75C",
+      "state_id": 4816,
+      "country_id": 75
+    }
+  ]
 }

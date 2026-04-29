@@ -45,7 +45,7 @@
     "name_default": "Guadeloupe",
     "native": "Guadeloupe",
     "type": "overseas region",
-    "level": null,
+    "level": "1",
     "parent_id": null,
     "population": 378561,
     "latitude": "16.25288270",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q17012",
     "country_code": "FR"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 45943,
+      "name": "圣弗朗索瓦",
+      "name_default": "Saint-François",
+      "native": "Saint-François",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13577,
+      "latitude": "46.41537000",
+      "longitude": "3.90542000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q651723",
+      "country_code": "FR",
+      "state_code": "971",
+      "state_id": 4829,
+      "country_id": 75
+    }
+  ]
 }

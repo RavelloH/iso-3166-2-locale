@@ -1,0 +1,77 @@
+{
+  "locale": "ja",
+  "country": {
+    "id": 78,
+    "code": "TF",
+    "iso3": "ATF",
+    "numeric_code": "260",
+    "name": "フランス領南方・南極地域",
+    "name_default": "French Southern Territories",
+    "native": "Territoire des Terres australes et antarctiques fr",
+    "capital": "Port-aux-Francais",
+    "phonecode": "262",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".tf",
+    "population": null,
+    "gdp": null,
+    "region": "Africa",
+    "region_id": 1,
+    "subregion": "Southern Africa",
+    "subregion_id": 5,
+    "nationality": "French Southern Territories",
+    "timezones": [
+      {
+        "zoneName": "Indian/Kerguelen",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TFT",
+        "tzName": "French Southern and Antarctic Time"
+      }
+    ],
+    "latitude": "-49.25000000",
+    "longitude": "69.16700000",
+    "emoji": "🇹🇫",
+    "emojiU": "U+1F1F9 U+1F1EB"
+  },
+  "state": {
+    "id": 5825,
+    "code": "04",
+    "iso2": "04",
+    "iso3166_2": null,
+    "fips_code": null,
+    "name": "Saint-Paul and Amsterdam Islands",
+    "name_default": "Saint-Paul and Amsterdam Islands",
+    "native": "Îles Saint-Paul et Amsterdam",
+    "type": "district",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "-37.79555556",
+    "longitude": "77.57333333",
+    "timezone": "Indian/Kerguelen",
+    "wikiDataId": "Q1149385",
+    "country_code": "TF"
+  },
+  "cities": [
+    {
+      "id": 162136,
+      "name": "Martin-de-Viviès",
+      "name_default": "Martin-de-Viviès",
+      "native": "Martin-de-Viviès",
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-37.79555556",
+      "longitude": "77.57333333",
+      "timezone": "Indian/Kerguelen",
+      "wikiDataId": "Q1908459",
+      "country_code": "TF",
+      "state_code": "04",
+      "state_id": 5825,
+      "country_id": 78
+    }
+  ]
+}

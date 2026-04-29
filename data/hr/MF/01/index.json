@@ -1,0 +1,77 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 190,
+    "code": "MF",
+    "iso3": "MAF",
+    "numeric_code": "663",
+    "name": "Sveti Martin",
+    "name_default": "Saint-Martin (French part)",
+    "native": "Saint-Martin",
+    "capital": "Marigot",
+    "phonecode": "590",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mf",
+    "population": 31496,
+    "gdp": null,
+    "region": "Americas",
+    "region_id": 2,
+    "subregion": "Caribbean",
+    "subregion_id": 7,
+    "nationality": "Saint-Martinoise",
+    "timezones": [
+      {
+        "zoneName": "America/Marigot",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "latitude": "18.08333333",
+    "longitude": "-63.95000000",
+    "emoji": "🇲🇫",
+    "emojiU": "U+1F1F2 U+1F1EB"
+  },
+  "state": {
+    "id": 5820,
+    "code": "01",
+    "iso2": "01",
+    "iso3166_2": "FR-MF",
+    "fips_code": null,
+    "name": "Saint-Martin",
+    "name_default": "Saint-Martin",
+    "native": "Saint-Martin",
+    "type": "overseas collectivity",
+    "level": null,
+    "parent_id": null,
+    "population": null,
+    "latitude": "18.07310000",
+    "longitude": "-63.08220000",
+    "timezone": "America/Marigot",
+    "wikiDataId": "Q126125",
+    "country_code": "MF"
+  },
+  "cities": [
+    {
+      "id": 162131,
+      "name": "Marigot",
+      "name_default": "Marigot",
+      "native": "Marigot",
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "18.07310000",
+      "longitude": "-63.08220000",
+      "timezone": "America/Marigot",
+      "wikiDataId": "Q200605",
+      "country_code": "MF",
+      "state_code": "01",
+      "state_id": 5820,
+      "country_id": 190
+    }
+  ]
+}
