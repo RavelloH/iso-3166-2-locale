@@ -132,7 +132,7 @@
       "name": "Bedfordshire central",
       "name_default": "Central Bedfordshire",
       "native": "Central Bedfordshire",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -358,7 +358,7 @@
       "wikiDataId": "Q1519557",
       "country_code": "GB",
       "state_code": "CBF",
-      "state_id": 2303,
+      "state_id": 2507,
       "country_id": 232
     },
     {
@@ -520,7 +520,7 @@
       "wikiDataId": "Q7198115",
       "country_code": "GB",
       "state_code": "CBF",
-      "state_id": 2303,
+      "state_id": 2369,
       "country_id": 232
     },
     {
@@ -628,7 +628,7 @@
       "wikiDataId": "Q1522913",
       "country_code": "GB",
       "state_code": "CBF",
-      "state_id": 2303,
+      "state_id": 2507,
       "country_id": 232
     },
     {
@@ -718,7 +718,7 @@
       "wikiDataId": "Q1519179",
       "country_code": "GB",
       "state_code": "CBF",
-      "state_id": 2303,
+      "state_id": 2507,
       "country_id": 232
     }
   ]

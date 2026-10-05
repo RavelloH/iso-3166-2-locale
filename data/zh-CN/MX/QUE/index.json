@@ -1433,7 +1433,7 @@
       "name": "杰尔潘",
       "name_default": "Jalpan",
       "native": "Jalpan",
-      "type": "city",
+      "type": "adm2",
       "level": null,
       "parent_id": null,
       "population": 786,
@@ -2034,7 +2034,7 @@
       "latitude": "21.18484000",
       "longitude": "-99.31985000",
       "timezone": "America/Mexico_City",
-      "wikiDataId": "Q2652446",
+      "wikiDataId": "Q23925177",
       "country_code": "MX",
       "state_code": "QUE",
       "state_id": 3455,
@@ -2595,7 +2595,7 @@
       "wikiDataId": "Q50029157",
       "country_code": "MX",
       "state_code": "QUE",
-      "state_id": 3455,
+      "state_id": 3469,
       "country_id": 142
     },
     {
@@ -2631,7 +2631,7 @@
       "wikiDataId": "Q49942628",
       "country_code": "MX",
       "state_code": "QUE",
-      "state_id": 3455,
+      "state_id": 3469,
       "country_id": 142
     },
     {
@@ -2675,7 +2675,7 @@
       "name": "克雷塔罗",
       "name_default": "Querétaro",
       "native": "Querétaro",
-      "type": "city",
+      "type": "municipality",
       "level": null,
       "parent_id": null,
       "population": 917,

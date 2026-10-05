@@ -150,7 +150,7 @@
       "name": "Municipio de Bolton",
       "name_default": "Borough of Bolton",
       "native": "Borough of Bolton",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -168,7 +168,7 @@
       "name": "Municipio de Wigan",
       "name_default": "Borough of Wigan",
       "native": "Borough of Wigan",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -286,7 +286,7 @@
       "wikiDataId": "Q1630298",
       "country_code": "GB",
       "state_code": "WGN",
-      "state_id": 2320,
+      "state_id": 2504,
       "country_id": 232
     },
     {
@@ -340,7 +340,7 @@
       "wikiDataId": "Q2779533",
       "country_code": "GB",
       "state_code": "WGN",
-      "state_id": 2320,
+      "state_id": 2495,
       "country_id": 232
     },
     {
@@ -358,7 +358,7 @@
       "wikiDataId": "Q2330263",
       "country_code": "GB",
       "state_code": "WGN",
-      "state_id": 2320,
+      "state_id": 2495,
       "country_id": 232
     },
     {
@@ -412,7 +412,7 @@
       "wikiDataId": "Q2389867",
       "country_code": "GB",
       "state_code": "WGN",
-      "state_id": 2320,
+      "state_id": 2495,
       "country_id": 232
     },
     {
