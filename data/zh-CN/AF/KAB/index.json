@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164338,
+      "name": "Istālif",
+      "name_default": "Istālif",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 41413,
+      "latitude": "34.83268000",
+      "longitude": "69.07756000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q826488",
+      "country_code": "AF",
+      "state_code": "KAB",
+      "state_id": 3902,
+      "country_id": 1
+    },
+    {
       "id": 79,
       "name": "喀布尔",
       "name_default": "Kabul",

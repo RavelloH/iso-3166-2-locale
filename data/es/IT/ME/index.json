@@ -51,7 +51,7 @@
     "latitude": "38.19395000",
     "longitude": "15.55256200",
     "timezone": "Europe/Rome",
-    "wikiDataId": "Q18241892",
+    "wikiDataId": "Q20991250",
     "country_code": "IT"
   },
   "cities": [
@@ -500,6 +500,24 @@
       "longitude": "15.07965000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q496026",
+      "country_code": "IT",
+      "state_code": "ME",
+      "state_id": 5632,
+      "country_id": 107
+    },
+    {
+      "id": 138450,
+      "name": "Faro Superior",
+      "name_default": "Faro Superiore",
+      "native": "Faro Superiore",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2586,
+      "latitude": "38.26794000",
+      "longitude": "15.58268000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q2442711",
       "country_code": "IT",
       "state_code": "ME",
       "state_id": 5632,

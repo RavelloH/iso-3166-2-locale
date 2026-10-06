@@ -57,9 +57,28 @@
     "population": 450530,
     "latitude": "-4.35554100",
     "longitude": "143.23251620",
-    "timezone": "Pacific/Bougainville",
+    "timezone": "Pacific/Port_Moresby",
     "wikiDataId": "Q690880",
     "country_code": "PG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165439,
+      "name": "Wewak",
+      "name_default": "Wewak",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-3.54964000",
+      "longitude": "143.63229000",
+      "timezone": "Pacific/Port_Moresby",
+      "wikiDataId": "Q1017763",
+      "country_code": "PG",
+      "state_code": "ESW",
+      "state_id": 5228,
+      "country_id": 171
+    }
+  ]
 }

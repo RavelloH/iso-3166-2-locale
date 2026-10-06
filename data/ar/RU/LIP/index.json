@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -433,7 +433,7 @@
       "name": "رايون دولغوروكوفسكي",
       "name_default": "Dolgorukovskiy Rayon",
       "native": "Долгоруковский район",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -739,7 +739,7 @@
       "name": "رايون ليف تولستوفسكي",
       "name_default": "Lev-Tolstovskiy Rayon",
       "native": "Лев-Толстовский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,

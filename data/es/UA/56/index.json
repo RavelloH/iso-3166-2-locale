@@ -455,6 +455,24 @@
       "country_id": 230
     },
     {
+      "id": 110490,
+      "name": "Esmiga",
+      "name_default": "Smyga",
+      "native": "Смига",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2800,
+      "latitude": "50.23910000",
+      "longitude": "25.76575000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q219595",
+      "country_code": "UA",
+      "state_code": "56",
+      "state_id": 4683,
+      "country_id": 230
+    },
+    {
       "id": 110589,
       "name": "Tarakaniv",
       "name_default": "Tarakaniv",

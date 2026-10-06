@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q491111",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165570,
+      "name": "Aweil",
+      "name_default": "Aweil",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 38745,
+      "latitude": "8.76194000",
+      "longitude": "27.39194000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q791685",
+      "country_code": "SS",
+      "state_code": "BN",
+      "state_id": 2088,
+      "country_id": 206
+    }
+  ]
 }

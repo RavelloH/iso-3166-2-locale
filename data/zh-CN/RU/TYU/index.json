@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": 581907,
     "latitude": "57.15353400",
     "longitude": "65.54227400",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yekaterinburg",
     "wikiDataId": "Q5824",
     "country_code": "RU"
   },
@@ -681,24 +681,6 @@
       "country_id": 182
     },
     {
-      "id": 100443,
-      "name": "奥穆廷斯基",
-      "name_default": "Omutinskiy",
-      "native": "Омутинский",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "56.47453000",
-      "longitude": "67.67087000",
-      "timezone": "Asia/Yekaterinburg",
-      "wikiDataId": "Q2023564",
-      "country_code": "RU",
-      "state_code": "TYU",
-      "state_id": 1907,
-      "country_id": 182
-    },
-    {
       "id": 100444,
       "name": "奥穆廷斯基区",
       "name_default": "Omutinskiy Rayon",
@@ -711,6 +693,24 @@
       "longitude": "67.58333000",
       "timezone": "Asia/Yekaterinburg",
       "wikiDataId": "Q1753806",
+      "country_code": "RU",
+      "state_code": "TYU",
+      "state_id": 1907,
+      "country_id": 182
+    },
+    {
+      "id": 100443,
+      "name": "奥穆廷斯基",
+      "name_default": "Omutinskoye",
+      "native": "Омутинский",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "56.47453000",
+      "longitude": "67.67087000",
+      "timezone": "Asia/Yekaterinburg",
+      "wikiDataId": "Q2023564",
       "country_code": "RU",
       "state_code": "TYU",
       "state_id": 1907,

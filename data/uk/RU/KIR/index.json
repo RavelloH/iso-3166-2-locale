@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -230,6 +230,24 @@
     "country_code": "RU"
   },
   "cities": [
+    {
+      "id": 165485,
+      "name": "Afanas’yevo",
+      "name_default": "Afanas’yevo",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.86548000",
+      "longitude": "53.25804000",
+      "timezone": "Europe/Kirov",
+      "wikiDataId": "Q3606139",
+      "country_code": "RU",
+      "state_code": "KIR",
+      "state_id": 1890,
+      "country_id": 182
+    },
     {
       "id": 97508,
       "name": "Афанасьєвський район",
@@ -411,24 +429,6 @@
       "country_id": 182
     },
     {
-      "id": 98412,
-      "name": "Фаленки",
-      "name_default": "Falënki",
-      "native": "Фаленки",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 5303,
-      "latitude": "58.36127000",
-      "longitude": "51.59461000",
-      "timezone": "Europe/Kirov",
-      "wikiDataId": "Q37785040",
-      "country_code": "RU",
-      "state_code": "KIR",
-      "state_id": 1890,
-      "country_id": 182
-    },
-    {
       "id": 98413,
       "name": "Фаленський район",
       "name_default": "Falënskiy Rayon",
@@ -441,6 +441,24 @@
       "longitude": "51.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2220468",
+      "country_code": "RU",
+      "state_code": "KIR",
+      "state_id": 1890,
+      "country_id": 182
+    },
+    {
+      "id": 98412,
+      "name": "Фаленки",
+      "name_default": "Falyonki",
+      "native": "Фаленки",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5303,
+      "latitude": "58.36127000",
+      "longitude": "51.59461000",
+      "timezone": "Europe/Kirov",
+      "wikiDataId": "Q37785040",
       "country_code": "RU",
       "state_code": "KIR",
       "state_id": 1890,
@@ -469,7 +487,7 @@
       "name": "Кікнурський район",
       "name_default": "Kiknurskiy Rayon",
       "native": "Кикнурский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -1045,7 +1063,7 @@
       "name": "Нолінський район",
       "name_default": "Nolinskiy Rayon",
       "native": "Нолинский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,

@@ -54,5 +54,24 @@
     "wikiDataId": "Q330158",
     "country_code": "BD"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164489,
+      "name": "Mātuail",
+      "name_default": "Mātuail",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 34310,
+      "latitude": "23.71211000",
+      "longitude": "90.45983000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q6791945",
+      "country_code": "BD",
+      "state_code": "C",
+      "state_id": 760,
+      "country_id": 19
+    }
+  ]
 }

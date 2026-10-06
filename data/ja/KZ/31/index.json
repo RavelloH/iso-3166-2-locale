@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -110,24 +110,6 @@
       "longitude": "72.78333000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q27350591",
-      "country_code": "KZ",
-      "state_code": "31",
-      "state_id": 147,
-      "country_id": 112
-    },
-    {
-      "id": 65663,
-      "name": "チュー",
-      "name_default": "Chu",
-      "native": "Чу",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "43.60334000",
-      "longitude": "73.75919000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q145802",
       "country_code": "KZ",
       "state_code": "31",
       "state_id": 147,
@@ -326,6 +308,24 @@
       "longitude": "71.50000000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q4408883",
+      "country_code": "KZ",
+      "state_code": "31",
+      "state_id": 147,
+      "country_id": 112
+    },
+    {
+      "id": 65663,
+      "name": "チュー",
+      "name_default": "Shu",
+      "native": "Чу",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.60334000",
+      "longitude": "73.75919000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q145802",
       "country_code": "KZ",
       "state_code": "31",
       "state_id": 147,

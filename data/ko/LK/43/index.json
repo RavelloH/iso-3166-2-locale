@@ -54,5 +54,24 @@
     "wikiDataId": "Q178003",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165176,
+      "name": "Mannar",
+      "name_default": "Mannar",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 35817,
+      "latitude": "8.98945000",
+      "longitude": "79.87842000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q1280127",
+      "country_code": "LK",
+      "state_code": "43",
+      "state_id": 2805,
+      "country_id": 208
+    }
+  ]
 }

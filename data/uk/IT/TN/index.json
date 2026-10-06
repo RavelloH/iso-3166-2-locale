@@ -51,7 +51,7 @@
     "latitude": "46.06787800",
     "longitude": "11.12108300",
     "timezone": "Europe/Rome",
-    "wikiDataId": "Q16290",
+    "wikiDataId": "Q16289",
     "country_code": "IT"
   },
   "cities": [
@@ -1694,6 +1694,24 @@
       "country_id": 107
     },
     {
+      "id": 138974,
+      "name": "Джонгі-Капелла",
+      "name_default": "Gionghi-Cappella",
+      "native": "Gionghi-Cappella",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 483,
+      "latitude": "45.93680000",
+      "longitude": "11.27478000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18480012",
+      "country_code": "IT",
+      "state_code": "TN",
+      "state_id": 5640,
+      "country_id": 107
+    },
+    {
       "id": 138980,
       "name": "Джово",
       "name_default": "Giovo",
@@ -2756,24 +2774,6 @@
       "country_id": 107
     },
     {
-      "id": 58837,
-      "name": "Міст Каффаро",
-      "name_default": "Ponte Caffaro",
-      "native": "Ponte Caffaro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1478,
-      "latitude": "45.82078000",
-      "longitude": "10.52707000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q302316",
-      "country_code": "IT",
-      "state_code": "TN",
-      "state_id": 1717,
-      "country_id": 107
-    },
-    {
       "id": 58971,
       "name": "Пово",
       "name_default": "Povo",
@@ -2879,24 +2879,6 @@
       "country_code": "IT",
       "state_code": "TN",
       "state_id": 5640,
-      "country_id": 107
-    },
-    {
-      "id": 59098,
-      "name": "Доводить - Proveis",
-      "name_default": "Proves - Proveis",
-      "native": "Test - Fornisce",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 288,
-      "latitude": "46.47661000",
-      "longitude": "11.02247000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "TN",
-      "state_id": 5639,
       "country_id": 107
     },
     {
@@ -3239,24 +3221,6 @@
       "country_code": "IT",
       "state_code": "TN",
       "state_id": 5640,
-      "country_id": 107
-    },
-    {
-      "id": 59779,
-      "name": "Салорно",
-      "name_default": "Salorno",
-      "native": "Solo",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 2783,
-      "latitude": "46.24062000",
-      "longitude": "11.21192000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "TN",
-      "state_id": 5639,
       "country_id": 107
     },
     {

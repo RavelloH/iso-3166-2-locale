@@ -272,6 +272,24 @@
       "country_id": 107
     },
     {
+      "id": 135899,
+      "name": "巴斯蒂亚",
+      "name_default": "Bastia",
+      "native": "Bastia",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 1802,
+      "latitude": "45.38609000",
+      "longitude": "11.65196000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18497308",
+      "country_code": "IT",
+      "state_code": "PD",
+      "state_id": 1665,
+      "country_id": 107
+    },
+    {
       "id": 135905,
       "name": "巴塔利亚泰尔梅",
       "name_default": "Battaglia Terme",
@@ -485,24 +503,6 @@
       "country_code": "IT",
       "state_code": "PD",
       "state_id": 1665,
-      "country_id": 107
-    },
-    {
-      "id": 136663,
-      "name": "坎波隆戈·马焦雷·利托利",
-      "name_default": "Campolongo Maggiore Liettoli",
-      "native": "Lizollol Bointship Campolong",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 3578,
-      "latitude": "45.33944000",
-      "longitude": "12.02417000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18503069",
-      "country_code": "IT",
-      "state_code": "PD",
-      "state_id": 5638,
       "country_id": 107
     },
     {
@@ -1334,6 +1334,24 @@
       "country_id": 107
     },
     {
+      "id": 140912,
+      "name": "奥尔特雷布伦塔",
+      "name_default": "Oltre Brenta",
+      "native": "Oltre Brenta",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1680,
+      "latitude": "45.41207000",
+      "longitude": "11.99803000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18498443",
+      "country_code": "IT",
+      "state_code": "PD",
+      "state_id": 1665,
+      "country_id": 107
+    },
+    {
       "id": 141018,
       "name": "奥斯佩达莱托·尤加内奥",
       "name_default": "Ospedaletto Euganeo",
@@ -1367,24 +1385,6 @@
       "country_code": "IT",
       "state_code": "PD",
       "state_id": 1665,
-      "country_id": 107
-    },
-    {
-      "id": 58388,
-      "name": "佩戈洛特",
-      "name_default": "Pegolotte",
-      "native": "Pegolotte",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 1346,
-      "latitude": "45.19178000",
-      "longitude": "12.03791000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18503505",
-      "country_code": "IT",
-      "state_code": "PD",
-      "state_id": 5638,
       "country_id": 107
     },
     {
@@ -2213,24 +2213,6 @@
       "country_code": "IT",
       "state_code": "PD",
       "state_id": 1665,
-      "country_id": 107
-    },
-    {
-      "id": 61719,
-      "name": "瓦利",
-      "name_default": "Valli",
-      "native": "Valli",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1143,
-      "latitude": "45.22342000",
-      "longitude": "12.18990000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q4008229",
-      "country_code": "IT",
-      "state_code": "PD",
-      "state_id": 5638,
       "country_id": 107
     },
     {

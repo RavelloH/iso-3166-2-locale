@@ -162,6 +162,24 @@
       "state_code": "77",
       "state_id": 2218,
       "country_id": 225
+    },
+    {
+      "id": 165613,
+      "name": "Yalova",
+      "name_default": "Yalova",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 71289,
+      "latitude": "40.65501000",
+      "longitude": "29.27693000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q205942",
+      "country_code": "TR",
+      "state_code": "77",
+      "state_id": 2218,
+      "country_id": 225
     }
   ]
 }

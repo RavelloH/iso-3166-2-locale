@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": null,
     "latitude": "56.83910400",
     "longitude": "60.60825000",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yekaterinburg",
     "wikiDataId": "Q5462",
     "country_code": "RU"
   },
@@ -2277,6 +2277,24 @@
       "longitude": "58.05170000",
       "timezone": "Asia/Yekaterinburg",
       "wikiDataId": "Q15277093",
+      "country_code": "RU",
+      "state_code": "SVE",
+      "state_id": 1894,
+      "country_id": 182
+    },
+    {
+      "id": 165512,
+      "name": "Ural’skiy",
+      "name_default": "Ural’skiy",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "56.67570000",
+      "longitude": "61.08240000",
+      "timezone": "Asia/Yekaterinburg",
+      "wikiDataId": "Q249829",
       "country_code": "RU",
       "state_code": "SVE",
       "state_id": 1894,

@@ -54,5 +54,24 @@
     "wikiDataId": "Q1461972",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66617,
+      "name": "Казлу Руда",
+      "name_default": "Kazlų Rūda",
+      "native": "Kazlų Rūda",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5507,
+      "latitude": "54.74900000",
+      "longitude": "23.49000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q945473",
+      "country_code": "LT",
+      "state_code": "17",
+      "state_id": 1575,
+      "country_id": 126
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q1017953",
     "country_code": "MT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67789,
+      "name": "음카바",
+      "name_default": "Mqabba",
+      "native": "Mqabba",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3315,
+      "latitude": "35.84763000",
+      "longitude": "14.46824000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q1017953",
+      "country_code": "MT",
+      "state_code": "33",
+      "state_id": 74,
+      "country_id": 135
+    }
+  ]
 }

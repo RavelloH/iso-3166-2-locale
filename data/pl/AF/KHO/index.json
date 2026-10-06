@@ -72,6 +72,42 @@
       "state_code": "KHO",
       "state_id": 3878,
       "country_id": 1
+    },
+    {
+      "id": 164364,
+      "name": "Shaykh Amīr Kêlay",
+      "name_default": "Shaykh Amīr Kêlay",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "33.28744000",
+      "longitude": "69.91283000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q7447156",
+      "country_code": "AF",
+      "state_code": "KHO",
+      "state_id": 3878,
+      "country_id": 1
+    },
+    {
+      "id": 164365,
+      "name": "Spērah",
+      "name_default": "Spērah",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "33.20204000",
+      "longitude": "69.51520000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q7576340",
+      "country_code": "AF",
+      "state_code": "KHO",
+      "state_id": 3878,
+      "country_id": 1
     }
   ]
 }

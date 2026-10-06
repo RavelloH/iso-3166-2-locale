@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165557,
+      "name": "Koumpentoum",
+      "name_default": "Koumpentoum",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.98333000",
+      "longitude": "-14.56667000",
+      "timezone": "Africa/Dakar",
+      "wikiDataId": "Q3199296",
+      "country_code": "SN",
+      "state_code": "TC",
+      "state_id": 486,
+      "country_id": 195
+    },
+    {
       "id": 104762,
       "name": "坦巴昆达",
       "name_default": "Tambacounda",

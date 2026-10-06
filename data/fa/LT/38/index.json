@@ -54,5 +54,24 @@
     "wikiDataId": "Q2069355",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66584,
+      "name": "آریوگالا",
+      "name_default": "Ariogala",
+      "native": "Ariogala",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3653,
+      "latitude": "55.26200000",
+      "longitude": "23.47700000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1004320",
+      "country_code": "LT",
+      "state_code": "38",
+      "state_id": 1587,
+      "country_id": 126
+    }
+  ]
 }

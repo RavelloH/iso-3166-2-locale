@@ -54,5 +54,24 @@
     "wikiDataId": "Q836649",
     "country_code": "VU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165853,
+      "name": "Saratamata",
+      "name_default": "Saratamata",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-15.28625000",
+      "longitude": "167.99125000",
+      "timezone": "Pacific/Efate",
+      "wikiDataId": "Q1980393",
+      "country_code": "VU",
+      "state_code": "PAM",
+      "state_id": 4773,
+      "country_id": 237
+    }
+  ]
 }

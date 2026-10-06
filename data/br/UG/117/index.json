@@ -54,5 +54,24 @@
     "wikiDataId": "Q3321631",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165660,
+      "name": "Buikwe",
+      "name_default": "Buikwe",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "0.33750000",
+      "longitude": "33.01056000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4986374",
+      "country_code": "UG",
+      "state_code": "117",
+      "state_id": 377,
+      "country_id": 229
+    }
+  ]
 }

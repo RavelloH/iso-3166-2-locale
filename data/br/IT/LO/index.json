@@ -290,6 +290,24 @@
       "country_id": 107
     },
     {
+      "id": 137113,
+      "name": "Kazino Alberi",
+      "name_default": "Cassino d'Alberi",
+      "native": "Cassino d'Alberi",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1048,
+      "latitude": "45.39208000",
+      "longitude": "9.39090000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q3662014",
+      "country_code": "IT",
+      "state_code": "LO",
+      "state_id": 1747,
+      "country_id": 107
+    },
+    {
       "id": 137284,
       "name": "Bocca d'Adda Castelnuovo",
       "name_default": "Castelnuovo Bocca d'Adda",
@@ -575,24 +593,6 @@
       "country_code": "IT",
       "state_code": "LO",
       "state_id": 1747,
-      "country_id": 107
-    },
-    {
-      "id": 139342,
-      "name": "Lambrinia",
-      "name_default": "Lambrinia",
-      "native": "Lambrinia",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1135,
-      "latitude": "45.15831000",
-      "longitude": "9.52750000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18492913",
-      "country_code": "IT",
-      "state_code": "LO",
-      "state_id": 1676,
       "country_id": 107
     },
     {

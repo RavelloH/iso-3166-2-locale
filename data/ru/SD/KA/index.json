@@ -26,8 +26,8 @@
         "zoneName": "Africa/Khartoum",
         "gmtOffset": 7200,
         "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EAT",
-        "tzName": "Eastern African Time"
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "15.00000000",
@@ -86,6 +86,24 @@
       "longitude": "36.39998000",
       "timezone": "Africa/Khartoum",
       "wikiDataId": "Q686813",
+      "country_code": "SD",
+      "state_code": "KA",
+      "state_id": 884,
+      "country_id": 209
+    },
+    {
+      "id": 165527,
+      "name": "New Halfa",
+      "name_default": "New Halfa",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 63589,
+      "latitude": "15.33021000",
+      "longitude": "35.59854000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q4495188",
       "country_code": "SD",
       "state_code": "KA",
       "state_id": 884,

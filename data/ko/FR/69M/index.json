@@ -45,8 +45,8 @@
     "name_default": "Métropole de Lyon",
     "native": "Métropole de Lyon",
     "type": "metropolitan collectivity with special status",
-    "level": "1",
-    "parent_id": null,
+    "level": "2",
+    "parent_id": "4798",
     "population": 1433613,
     "latitude": "45.74816160",
     "longitude": "4.85568590",
@@ -54,5 +54,60 @@
     "wikiDataId": "Q16665897",
     "country_code": "FR"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 43678,
+      "name": "리옹",
+      "name_default": "Lyon",
+      "native": "Lyon",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 520774,
+      "latitude": "45.74846000",
+      "longitude": "4.84671000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q456",
+      "country_code": "FR",
+      "state_code": "69M",
+      "state_id": 5038,
+      "country_id": 75
+    },
+    {
+      "id": 47926,
+      "name": "베니시외",
+      "name_default": "Vénissieux",
+      "native": "Vénissieux",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 66701,
+      "latitude": "45.69706000",
+      "longitude": "4.88593000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q13598",
+      "country_code": "FR",
+      "state_code": "69M",
+      "state_id": 5038,
+      "country_id": 75
+    },
+    {
+      "id": 47818,
+      "name": "빌뢰르반",
+      "name_default": "Villeurbanne",
+      "native": "Villeurbanne",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 162207,
+      "latitude": "45.76601000",
+      "longitude": "4.87950000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q582",
+      "country_code": "FR",
+      "state_code": "69M",
+      "state_id": 5038,
+      "country_id": 75
+    }
+  ]
 }

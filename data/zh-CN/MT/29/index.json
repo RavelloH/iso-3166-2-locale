@@ -54,5 +54,24 @@
     "wikiDataId": "Q207277",
     "country_code": "MT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67774,
+      "name": "伊姆迪娜",
+      "name_default": "Imdina",
+      "native": "Imdina",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 193,
+      "latitude": "35.88694000",
+      "longitude": "14.40250000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q207277",
+      "country_code": "MT",
+      "state_code": "29",
+      "state_id": 89,
+      "country_id": 135
+    }
+  ]
 }

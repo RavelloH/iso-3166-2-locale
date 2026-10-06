@@ -57,11 +57,29 @@
     "population": null,
     "latitude": "-10.70278090",
     "longitude": "25.46579790",
-    "timezone": "Africa/Kinshasa",
+    "timezone": "Africa/Lubumbashi",
     "wikiDataId": "Q1159531",
     "country_code": "CD"
   },
   "cities": [
+    {
+      "id": 164541,
+      "name": "Fungurume",
+      "name_default": "Fungurume",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 50100,
+      "latitude": "-10.61771000",
+      "longitude": "26.32107000",
+      "timezone": "Africa/Lubumbashi",
+      "wikiDataId": "Q3090897",
+      "country_code": "CD",
+      "state_code": "LU",
+      "state_id": 4953,
+      "country_id": 51
+    },
     {
       "id": 153949,
       "name": "Kasaji",

@@ -51,8 +51,45 @@
     "latitude": "54.39246770",
     "longitude": "24.10876070",
     "timezone": "Europe/Vilnius",
-    "wikiDataId": "Q3685407",
+    "wikiDataId": "Q769940",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66592,
+      "name": "داگای",
+      "name_default": "Daugai",
+      "native": "Daugai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1279,
+      "latitude": "54.36667000",
+      "longitude": "24.33333000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q27485543",
+      "country_code": "LT",
+      "state_code": "03",
+      "state_id": 5722,
+      "country_id": 126
+    },
+    {
+      "id": 66678,
+      "name": "سیمناس",
+      "name_default": "Simnas",
+      "native": "Simnas",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1864,
+      "latitude": "54.38200000",
+      "longitude": "23.64600000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1892074",
+      "country_code": "LT",
+      "state_code": "03",
+      "state_id": 5722,
+      "country_id": 126
+    }
+  ]
 }

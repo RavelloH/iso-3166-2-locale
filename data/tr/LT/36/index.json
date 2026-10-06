@@ -54,5 +54,24 @@
     "wikiDataId": "Q47090",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66605,
+      "name": "Jieznalar",
+      "name_default": "Jieznas",
+      "native": "Jieznas",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1024,
+      "latitude": "54.59937000",
+      "longitude": "24.17593000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q47068",
+      "country_code": "LT",
+      "state_code": "36",
+      "state_id": 1578,
+      "country_id": 126
+    }
+  ]
 }

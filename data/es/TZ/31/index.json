@@ -51,7 +51,7 @@
     "latitude": "-7.82694750",
     "longitude": "32.61939370",
     "timezone": "Africa/Dar_es_Salaam",
-    "wikiDataId": "Q458382",
+    "wikiDataId": "Q25618976",
     "country_code": "TZ"
   },
   "cities": [
@@ -122,6 +122,24 @@
       "longitude": "32.96670000",
       "timezone": "Africa/Dar_es_Salaam",
       "wikiDataId": "Q6885757",
+      "country_code": "TZ",
+      "state_code": "31",
+      "state_id": 4956,
+      "country_id": 218
+    },
+    {
+      "id": 149063,
+      "name": "Tunduma",
+      "name_default": "Tunduma",
+      "native": "Kuonekana",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 219309,
+      "latitude": "-9.30000000",
+      "longitude": "32.76670000",
+      "timezone": "Africa/Dar_es_Salaam",
+      "wikiDataId": "Q7852915",
       "country_code": "TZ",
       "state_code": "31",
       "state_id": 4956,

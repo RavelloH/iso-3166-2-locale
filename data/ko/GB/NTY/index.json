@@ -180,6 +180,24 @@
       "state_code": "NTY",
       "state_id": 2521,
       "country_id": 232
+    },
+    {
+      "id": 51896,
+      "name": "와이드오픈",
+      "name_default": "Wideopen",
+      "native": "Wideopen",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 8976,
+      "latitude": "55.04514000",
+      "longitude": "-1.62246000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q9372539",
+      "country_code": "GB",
+      "state_code": "NTY",
+      "state_id": 2521,
+      "country_id": 232
     }
   ]
 }

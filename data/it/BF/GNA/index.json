@@ -45,7 +45,7 @@
     "name_default": "Gnagna",
     "native": "Gnagne",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3158",
     "population": null,
     "latitude": "12.91545740",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1074144",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164504,
+      "name": "Mani",
+      "name_default": "Mani",
+      "native": null,
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.25833000",
+      "longitude": "-0.21306000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q6750830",
+      "country_code": "BF",
+      "state_code": "GNA",
+      "state_id": 3122,
+      "country_id": 35
+    }
+  ]
 }

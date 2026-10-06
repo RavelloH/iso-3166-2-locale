@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -154,7 +154,7 @@
     {
       "id": 65619,
       "name": "Karakuł",
-      "name_default": "Astrakhan",
+      "name_default": "Astrakhanka",
       "native": "Астрахань",
       "type": "adm2",
       "level": null,
@@ -218,6 +218,24 @@
       "longitude": "73.09592000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q2509316",
+      "country_code": "KZ",
+      "state_code": "11",
+      "state_id": 145,
+      "country_id": 112
+    },
+    {
+      "id": 65657,
+      "name": "Burabaj",
+      "name_default": "Būrabay",
+      "native": "Бурабай",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 6500,
+      "latitude": "53.08382000",
+      "longitude": "70.31379000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1009456",
       "country_code": "KZ",
       "state_code": "11",
       "state_id": 145,
@@ -452,6 +470,24 @@
       "longitude": "72.01514000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q4203114",
+      "country_code": "KZ",
+      "state_code": "11",
+      "state_id": 145,
+      "country_id": 112
+    },
+    {
+      "id": 165157,
+      "name": "Zerenda",
+      "name_default": "Zerenda",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.90599000",
+      "longitude": "69.15593000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1046159",
       "country_code": "KZ",
       "state_code": "11",
       "state_id": 145,

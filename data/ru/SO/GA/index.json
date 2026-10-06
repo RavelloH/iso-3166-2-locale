@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165563,
+      "name": "Adado",
+      "name_default": "Adado",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "6.13603000",
+      "longitude": "46.62761000",
+      "timezone": "Africa/Mogadishu",
+      "wikiDataId": "Q4678352",
+      "country_code": "SO",
+      "state_code": "GA",
+      "state_id": 918,
+      "country_id": 203
+    },
+    {
       "id": 104790,
       "name": "Сильбур",
       "name_default": "Ceelbuur",

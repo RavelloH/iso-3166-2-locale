@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 49785,
-      "name": "Halkirk",
-      "name_default": "Halkirk",
-      "native": "Halkirk",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 970,
-      "latitude": "58.51227000",
-      "longitude": "-3.49155000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1011584",
-      "country_code": "GB",
-      "state_code": "ORK",
-      "state_id": 2474,
-      "country_id": 232
-    },
-    {
       "id": 50210,
       "name": "Kirkwall",
       "name_default": "Kirkwall",
@@ -161,24 +143,6 @@
       "country_code": "GB",
       "state_code": "ORK",
       "state_id": 2474,
-      "country_id": 232
-    },
-    {
-      "id": 51890,
-      "name": "Docht",
-      "name_default": "Wick",
-      "native": "Wick",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 7140,
-      "latitude": "58.43906000",
-      "longitude": "-3.09424000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1012502",
-      "country_code": "GB",
-      "state_code": "ORK",
-      "state_id": 2383,
       "country_id": 232
     }
   ]

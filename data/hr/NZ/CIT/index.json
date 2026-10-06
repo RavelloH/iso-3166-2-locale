@@ -24,15 +24,15 @@
     "timezones": [
       {
         "zoneName": "Pacific/Auckland",
-        "gmtOffset": 46800,
-        "gmtOffsetName": "UTC+13:00",
-        "abbreviation": "NZDT",
-        "tzName": "New Zealand Daylight Time"
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NZST",
+        "tzName": "New Zealand Standard Time"
       },
       {
         "zoneName": "Pacific/Chatham",
-        "gmtOffset": 49500,
-        "gmtOffsetName": "UTC+13:45",
+        "gmtOffset": 45900,
+        "gmtOffsetName": "UTC+12:45",
         "abbreviation": "CHAST",
         "tzName": "Chatham Standard Time"
       }
@@ -58,7 +58,7 @@
     "latitude": "-43.91753400",
     "longitude": "-176.18734000",
     "timezone": "Pacific/Chatham",
-    "wikiDataId": "Q26882619",
+    "wikiDataId": "Q86771569",
     "country_code": "NZ"
   },
   "cities": [

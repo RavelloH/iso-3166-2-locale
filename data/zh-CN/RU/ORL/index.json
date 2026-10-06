@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -269,7 +269,7 @@
     {
       "id": 98286,
       "name": "德米特罗夫斯克-奥尔洛夫斯基",
-      "name_default": "Dmitrovsk-Orlovskiy",
+      "name_default": "Dmitrovsk",
       "native": "Дмитровск-Орловский",
       "type": "city",
       "level": null,
@@ -341,7 +341,7 @@
     {
       "id": 99148,
       "name": "科尔普尼",
-      "name_default": "Kolpny",
+      "name_default": "Kolpna",
       "native": "Колпны",
       "type": "adm2",
       "level": null,

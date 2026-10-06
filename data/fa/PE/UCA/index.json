@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165435,
+      "name": "Aguaytía",
+      "name_default": "Aguaytía",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-9.03778000",
+      "longitude": "-75.50906000",
+      "timezone": "America/Lima",
+      "wikiDataId": "Q2723604",
+      "country_code": "PE",
+      "state_code": "UCA",
+      "state_id": 3684,
+      "country_id": 173
+    },
+    {
       "id": 80565,
       "name": "آتالایا",
       "name_default": "Atalaya",
@@ -114,7 +132,7 @@
       "name": "استان کورونل پورتیلو",
       "name_default": "Provincia de Coronel Portillo",
       "native": "Provincia de Coronel Portillo",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 384168,

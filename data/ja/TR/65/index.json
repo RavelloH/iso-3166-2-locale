@@ -288,6 +288,24 @@
       "state_code": "65",
       "state_id": 2152,
       "country_id": 225
+    },
+    {
+      "id": 165604,
+      "name": "Van",
+      "name_default": "Van",
+      "native": "Van",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 525016,
+      "latitude": "38.49457000",
+      "longitude": "43.38323000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q83061",
+      "country_code": "TR",
+      "state_code": "65",
+      "state_id": 2152,
+      "country_id": 225
     }
   ]
 }

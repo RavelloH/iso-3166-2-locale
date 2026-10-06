@@ -432,6 +432,24 @@
       "state_code": "44",
       "state_id": 3794,
       "country_id": 240
+    },
+    {
+      "id": 165850,
+      "name": "Tân Châu",
+      "name_default": "Tân Châu",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 175211,
+      "latitude": "10.79832000",
+      "longitude": "105.23887000",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "wikiDataId": "Q2367367",
+      "country_code": "VN",
+      "state_code": "44",
+      "state_id": 3794,
+      "country_id": 240
     }
   ]
 }

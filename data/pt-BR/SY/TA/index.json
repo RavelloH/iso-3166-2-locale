@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Damascus",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "35.00000000",
@@ -68,6 +68,24 @@
       "longitude": "36.14303000",
       "timezone": "Asia/Damascus",
       "wikiDataId": "Q4120566",
+      "country_code": "SY",
+      "state_code": "TA",
+      "state_id": 2947,
+      "country_id": 215
+    },
+    {
+      "id": 165580,
+      "name": "Ash Shaykh Badr",
+      "name_default": "Ash Shaykh Badr",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "34.99174000",
+      "longitude": "36.08350000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q2132653",
       "country_code": "SY",
       "state_code": "TA",
       "state_id": 2947,

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -315,6 +315,24 @@
       "longitude": "42.01700000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q37783849",
+      "country_code": "RU",
+      "state_code": "KC",
+      "state_id": 1869,
+      "country_id": 182
+    },
+    {
+      "id": 165495,
+      "name": "Erken-Shakhar",
+      "name_default": "Erken-Shakhar",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "44.37780000",
+      "longitude": "41.95840000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4532481",
       "country_code": "RU",
       "state_code": "KC",
       "state_id": 1869,

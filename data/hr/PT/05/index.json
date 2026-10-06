@@ -70,6 +70,24 @@
   },
   "cities": [
     {
+      "id": 143244,
+      "name": "Alkaini",
+      "name_default": "Alcains",
+      "native": "Alcains",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4615,
+      "latitude": "39.91540278",
+      "longitude": "-7.46107778",
+      "timezone": "Europe/Lisbon",
+      "wikiDataId": "Q1024258",
+      "country_code": "PT",
+      "state_code": "05",
+      "state_id": 2241,
+      "country_id": 177
+    },
+    {
       "id": 88926,
       "name": "Aldeia de Joanes",
       "name_default": "Aldeia de Joanes",

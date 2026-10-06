@@ -252,6 +252,24 @@
       "state_code": "59",
       "state_id": 2167,
       "country_id": 225
+    },
+    {
+      "id": 165610,
+      "name": "Tekirdağ",
+      "name_default": "Tekirdağ",
+      "native": "Tekirdağ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 122287,
+      "latitude": "40.97810000",
+      "longitude": "27.51101000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q182009",
+      "country_code": "TR",
+      "state_code": "59",
+      "state_id": 2167,
+      "country_id": 225
     }
   ]
 }

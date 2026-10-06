@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -495,7 +495,7 @@
     {
       "id": 68716,
       "name": "カデレイタ",
-      "name_default": "Cadereyta",
+      "name_default": "Cadereyta de Montes",
       "native": "Cadereyta",
       "type": "city",
       "level": null,
@@ -649,6 +649,24 @@
       "longitude": "-100.33588000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q5096055",
+      "country_code": "MX",
+      "state_code": "QUE",
+      "state_id": 3455,
+      "country_id": 142
+    },
+    {
+      "id": 69095,
+      "name": "チテジェ・デ・ガラバト",
+      "name_default": "Chitejé de Garabato",
+      "native": "Chitejé de Garabato",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1625,
+      "latitude": "20.10111000",
+      "longitude": "-100.18899000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61287491",
       "country_code": "MX",
       "state_code": "QUE",
       "state_id": 3455,
@@ -1143,7 +1161,7 @@
     {
       "id": 70204,
       "name": "エル・サウズ",
-      "name_default": "El Saúz",
+      "name_default": "El Sauz",
       "native": "El Saúz",
       "type": "city",
       "level": null,
@@ -1195,6 +1213,24 @@
       "country_id": 142
     },
     {
+      "id": 76296,
+      "name": "サモラノ",
+      "name_default": "El Zamorano",
+      "native": "Zamorano",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1938,
+      "latitude": "20.80819000",
+      "longitude": "-100.11797000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61291689",
+      "country_code": "MX",
+      "state_code": "QUE",
+      "state_id": 3455,
+      "country_id": 142
+    },
+    {
       "id": 70311,
       "name": "エピグメニオ・ゴンザレス",
       "name_default": "Epigmenio González",
@@ -1215,7 +1251,7 @@
     {
       "id": 70319,
       "name": "エスコラスティカス",
-      "name_default": "Escolasticas",
+      "name_default": "Escolásticas",
       "native": "Escuelas",
       "type": "city",
       "level": null,
@@ -1431,7 +1467,7 @@
     {
       "id": 70979,
       "name": "ハルパン",
-      "name_default": "Jalpan",
+      "name_default": "Jalpan de Serra",
       "native": "Jalpan",
       "type": "adm2",
       "level": null,
@@ -2581,24 +2617,6 @@
       "country_id": 142
     },
     {
-      "id": 72977,
-      "name": "プエルト・デ・カロサ",
-      "name_default": "Puerto de Carroza",
-      "native": "Puerto de Carroza",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1260,
-      "latitude": "20.89862000",
-      "longitude": "-100.41164000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q50029157",
-      "country_code": "MX",
-      "state_code": "QUE",
-      "state_id": 3469,
-      "country_id": 142
-    },
-    {
       "id": 72978,
       "name": "プエルト・デ・チキウイテ",
       "name_default": "Puerto de Chiquihuite",
@@ -2614,24 +2632,6 @@
       "country_code": "MX",
       "state_code": "QUE",
       "state_id": 3455,
-      "country_id": 142
-    },
-    {
-      "id": 72979,
-      "name": "プエルト・デ・ニエト",
-      "name_default": "Puerto de Nieto",
-      "native": "Puerto de Nieto",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1305,
-      "latitude": "20.88975000",
-      "longitude": "-100.53814000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q49942628",
-      "country_code": "MX",
-      "state_code": "QUE",
-      "state_id": 3469,
       "country_id": 142
     },
     {
@@ -2907,7 +2907,7 @@
     {
       "id": 73736,
       "name": "サンホセ・デ・ロス・オルベラ",
-      "name_default": "San Jose de los Olvera",
+      "name_default": "San José de los Olvera",
       "native": "San Jose de los Olvera",
       "type": "city",
       "level": null,
@@ -3393,7 +3393,7 @@
     {
       "id": 74843,
       "name": "サンタ・ロサ・ハウレギ",
-      "name_default": "Santa Rosa Jauregui",
+      "name_default": "Santa Rosa Jáuregui",
       "native": "Santa Rosa Jauregui",
       "type": "city",
       "level": null,
@@ -3745,24 +3745,6 @@
       "longitude": "-99.95222000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q20240657",
-      "country_code": "MX",
-      "state_code": "QUE",
-      "state_id": 3455,
-      "country_id": 142
-    },
-    {
-      "id": 76296,
-      "name": "サモラノ",
-      "name_default": "Zamorano",
-      "native": "Zamorano",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1938,
-      "latitude": "20.80819000",
-      "longitude": "-100.11797000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61291689",
       "country_code": "MX",
       "state_code": "QUE",
       "state_id": 3455,

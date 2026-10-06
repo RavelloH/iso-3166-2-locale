@@ -24,17 +24,17 @@
     "timezones": [
       {
         "zoneName": "Africa/Casablanca",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western European Summer Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       },
       {
         "zoneName": "Africa/El_Aaiun",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western Sahara Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       }
     ],
     "latitude": "32.00000000",
@@ -61,5 +61,24 @@
     "wikiDataId": "Q1734717",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165184,
+      "name": "Oujda",
+      "name_default": "Oujda",
+      "native": "‫وجدة‬",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 539711,
+      "latitude": "34.68139000",
+      "longitude": "-1.90858000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q193802",
+      "country_code": "MA",
+      "state_code": "OUJ",
+      "state_id": 4940,
+      "country_id": 149
+    }
+  ]
 }

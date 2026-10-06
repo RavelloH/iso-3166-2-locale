@@ -51,8 +51,27 @@
     "latitude": "55.73449850",
     "longitude": "24.35780550",
     "timezone": "Europe/Vilnius",
-    "wikiDataId": "Q928992",
+    "wikiDataId": "Q3685412",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66651,
+      "name": "パネヴェジース",
+      "name_default": "Panevėžys",
+      "native": "Panevėžys",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 87913,
+      "latitude": "55.73333000",
+      "longitude": "24.35000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1719466",
+      "country_code": "LT",
+      "state_code": "32",
+      "state_id": 5721,
+      "country_id": 126
+    }
+  ]
 }

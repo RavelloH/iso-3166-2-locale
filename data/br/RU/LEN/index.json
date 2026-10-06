@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -243,24 +243,6 @@
       "longitude": "30.27388000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2034325",
-      "country_code": "RU",
-      "state_code": "LEN",
-      "state_id": 1896,
-      "country_id": 182
-    },
-    {
-      "id": 97528,
-      "name": "Akademiek",
-      "name_default": "Akademicheskoe",
-      "native": "Академическое",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 103304,
-      "latitude": "60.01375000",
-      "longitude": "30.39471000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4059198",
       "country_code": "RU",
       "state_code": "LEN",
       "state_id": 1896,
@@ -573,24 +555,6 @@
       "country_id": 182
     },
     {
-      "id": 98568,
-      "name": "Gorskaya",
-      "name_default": "Gorskaya",
-      "native": "Горская",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3800,
-      "latitude": "60.04640000",
-      "longitude": "29.97137000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q37804400",
-      "country_code": "RU",
-      "state_code": "LEN",
-      "state_id": 1879,
-      "country_id": 182
-    },
-    {
       "id": 98572,
       "name": "Gostilitsy",
       "name_default": "Gostilitsy",
@@ -696,24 +660,6 @@
       "country_code": "RU",
       "state_code": "LEN",
       "state_id": 1896,
-      "country_id": 182
-    },
-    {
-      "id": 98790,
-      "name": "Kalininskiy",
-      "name_default": "Kalininskiy",
-      "native": "Калининский",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 504641,
-      "latitude": "59.99675000",
-      "longitude": "30.38990000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q3462814",
-      "country_code": "RU",
-      "state_code": "LEN",
-      "state_id": 1879,
       "country_id": 182
     },
     {
@@ -1035,6 +981,24 @@
       "longitude": "30.25789000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1141765",
+      "country_code": "RU",
+      "state_code": "LEN",
+      "state_id": 1896,
+      "country_id": 182
+    },
+    {
+      "id": 165470,
+      "name": "Kudrovo",
+      "name_default": "Kudrovo",
+      "native": "Кудрово",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "59.90349000",
+      "longitude": "30.51058000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4244555",
       "country_code": "RU",
       "state_code": "LEN",
       "state_id": 1896,

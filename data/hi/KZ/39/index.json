@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -98,6 +98,24 @@
   },
   "cities": [
     {
+      "id": 165154,
+      "name": "Amangeldi",
+      "name_default": "Amangeldi",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "50.18271000",
+      "longitude": "65.18966000",
+      "timezone": "Asia/Qostanay",
+      "wikiDataId": "Q4063922",
+      "country_code": "KZ",
+      "state_code": "39",
+      "state_id": 157,
+      "country_id": 112
+    },
+    {
       "id": 65616,
       "name": "अर्कालिक",
       "name_default": "Arkalyk",
@@ -110,6 +128,24 @@
       "longitude": "66.92027000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q698941",
+      "country_code": "KZ",
+      "state_code": "39",
+      "state_id": 157,
+      "country_id": 112
+    },
+    {
+      "id": 165159,
+      "name": "Äūlīeköl",
+      "name_default": "Äūlīeköl",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.35850000",
+      "longitude": "64.13429000",
+      "timezone": "Asia/Qostanay",
+      "wikiDataId": "Q1651017",
       "country_code": "KZ",
       "state_code": "39",
       "state_id": 157,
@@ -146,24 +182,6 @@
       "longitude": "64.18268000",
       "timezone": "Asia/Qostanay",
       "wikiDataId": "Q27357540",
-      "country_code": "KZ",
-      "state_code": "39",
-      "state_id": 157,
-      "country_id": 112
-    },
-    {
-      "id": 65671,
-      "name": "द्झेटीगारा",
-      "name_default": "Dzhetygara",
-      "native": "Жетіғара",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 43104,
-      "latitude": "52.19019000",
-      "longitude": "61.19894000",
-      "timezone": "Asia/Qostanay",
-      "wikiDataId": "Q1018868",
       "country_code": "KZ",
       "state_code": "39",
       "state_id": 157,
@@ -380,6 +398,24 @@
       "longitude": "66.07982000",
       "timezone": "Asia/Qostanay",
       "wikiDataId": "Q32382",
+      "country_code": "KZ",
+      "state_code": "39",
+      "state_id": 157,
+      "country_id": 112
+    },
+    {
+      "id": 65671,
+      "name": "द्झेटीगारा",
+      "name_default": "Zhitikara",
+      "native": "Жетіғара",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 43104,
+      "latitude": "52.19019000",
+      "longitude": "61.19894000",
+      "timezone": "Asia/Qostanay",
+      "wikiDataId": "Q1018868",
       "country_code": "KZ",
       "state_code": "39",
       "state_id": 157,

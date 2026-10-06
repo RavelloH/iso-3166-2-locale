@@ -54,5 +54,60 @@
     "wikiDataId": "Q838338",
     "country_code": "CZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 22127,
+      "name": "बेज़्ड्रुज़िसे",
+      "name_default": "Bezdružice",
+      "native": "Výhody",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 931,
+      "latitude": "49.90724000",
+      "longitude": "12.97110000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q616317",
+      "country_code": "CZ",
+      "state_code": "327",
+      "state_id": 4646,
+      "country_id": 58
+    },
+    {
+      "id": 22511,
+      "name": "क्लाद्रुबी",
+      "name_default": "Kladruby",
+      "native": "Kladruby",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1419,
+      "latitude": "49.71498000",
+      "longitude": "12.98232000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q1744198",
+      "country_code": "CZ",
+      "state_code": "327",
+      "state_id": 4646,
+      "country_id": 58
+    },
+    {
+      "id": 23126,
+      "name": "स्ट्राज़",
+      "name_default": "Stráž",
+      "native": "Stráž",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1057,
+      "latitude": "49.66878000",
+      "longitude": "12.77546000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q1261010",
+      "country_code": "CZ",
+      "state_code": "327",
+      "state_id": 4646,
+      "country_id": 58
+    }
+  ]
 }

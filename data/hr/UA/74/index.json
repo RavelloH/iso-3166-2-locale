@@ -69,8 +69,8 @@
     "level": null,
     "parent_id": null,
     "population": null,
-    "latitude": "50.45989030",
-    "longitude": "30.63031190",
+    "latitude": "51.34000000",
+    "longitude": "32.06000000",
     "timezone": "Europe/Kiev",
     "wikiDataId": "Q167874",
     "country_code": "UA"
@@ -151,7 +151,7 @@
     {
       "id": 109415,
       "name": "Bobrovica",
-      "name_default": "Bobrovytsya",
+      "name_default": "Bobrovytsia",
       "native": "Бобровиця",
       "type": "city",
       "level": null,
@@ -259,7 +259,7 @@
     {
       "id": 109542,
       "name": "Dihtyari",
-      "name_default": "Dihtyari",
+      "name_default": "Dihtiari",
       "native": "Діхтярі",
       "type": "city",
       "level": null,
@@ -277,7 +277,7 @@
     {
       "id": 109562,
       "name": "Dobryanka",
-      "name_default": "Dobryanka",
+      "name_default": "Dobrianka",
       "native": "Добрянка",
       "type": "city",
       "level": null,
@@ -295,7 +295,7 @@
     {
       "id": 109645,
       "name": "Horodnja",
-      "name_default": "Horodnya",
+      "name_default": "Horodnia",
       "native": "Городня",
       "type": "city",
       "level": null,
@@ -313,7 +313,7 @@
     {
       "id": 109666,
       "name": "Ičnja",
-      "name_default": "Ichnya",
+      "name_default": "Ichnia",
       "native": "Ічня",
       "type": "city",
       "level": null,
@@ -493,7 +493,7 @@
     {
       "id": 109963,
       "name": "Ljubeč",
-      "name_default": "Lyubech",
+      "name_default": "Liubech",
       "native": "Любеч",
       "type": "city",
       "level": null,
@@ -707,24 +707,6 @@
       "country_id": 230
     },
     {
-      "id": 110436,
-      "name": "Ščors",
-      "name_default": "Shchors",
-      "native": "Щорс",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10620,
-      "latitude": "51.81865000",
-      "longitude": "31.94504000",
-      "timezone": "Europe/Kyiv",
-      "wikiDataId": "Q148990",
-      "country_code": "UA",
-      "state_code": "74",
-      "state_id": 4692,
-      "country_id": 230
-    },
-    {
       "id": 110494,
       "name": "Snovski rajon",
       "name_default": "Snovs'kyy Rayon",
@@ -743,9 +725,27 @@
       "country_id": 230
     },
     {
+      "id": 110436,
+      "name": "Ščors",
+      "name_default": "Snovsk",
+      "native": "Щорс",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10620,
+      "latitude": "51.81865000",
+      "longitude": "31.94504000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q148990",
+      "country_code": "UA",
+      "state_code": "74",
+      "state_id": 4692,
+      "country_id": 230
+    },
+    {
       "id": 110516,
       "name": "Sosnica",
-      "name_default": "Sosnytsya",
+      "name_default": "Sosnytsia",
       "native": "Сосниця",
       "type": "city",
       "level": null,

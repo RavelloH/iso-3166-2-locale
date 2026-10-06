@@ -54,5 +54,24 @@
     "wikiDataId": "Q1114954",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165662,
+      "name": "Lwengo",
+      "name_default": "Lwengo",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-0.41611000",
+      "longitude": "31.40806000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6687528",
+      "country_code": "UG",
+      "state_code": "124",
+      "state_id": 417,
+      "country_id": 229
+    }
+  ]
 }

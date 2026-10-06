@@ -51,7 +51,7 @@
     "latitude": "38.10882200",
     "longitude": "15.64392200",
     "timezone": "Europe/Rome",
-    "wikiDataId": "Q18241896",
+    "wikiDataId": "Q3678586",
     "country_code": "IT"
   },
   "cities": [
@@ -104,6 +104,24 @@
       "longitude": "16.22718000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q54557",
+      "country_code": "IT",
+      "state_code": "RC",
+      "state_id": 5635,
+      "country_id": 107
+    },
+    {
+      "id": 135462,
+      "name": "Amato",
+      "name_default": "Amato",
+      "native": "Amato",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 1086,
+      "latitude": "38.38333000",
+      "longitude": "16.13333000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18431752",
       "country_code": "IT",
       "state_code": "RC",
       "state_id": 5635,
@@ -740,24 +758,6 @@
       "country_id": 107
     },
     {
-      "id": 138450,
-      "name": "Faro Superiore",
-      "name_default": "Faro Superiore",
-      "native": "Faro Superiore",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2586,
-      "latitude": "38.26794000",
-      "longitude": "15.58268000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q2442711",
-      "country_code": "IT",
-      "state_code": "RC",
-      "state_id": 5632,
-      "country_id": 107
-    },
-    {
       "id": 138486,
       "name": "Feroleto della Chiesa",
       "name_default": "Feroleto della Chiesa",
@@ -935,24 +935,6 @@
       "country_code": "IT",
       "state_code": "RC",
       "state_id": 5635,
-      "country_id": 107
-    },
-    {
-      "id": 139157,
-      "name": "Marina Guardavalle",
-      "name_default": "Guardavalle Marina",
-      "native": "Guardavalle Marina",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2346,
-      "latitude": "38.47957000",
-      "longitude": "16.57656000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18429326",
-      "country_code": "IT",
-      "state_code": "RC",
-      "state_id": 1728,
       "country_id": 107
     },
     {

@@ -54,5 +54,24 @@
     "wikiDataId": "Q1375819",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165656,
+      "name": "Namutumba",
+      "name_default": "Namutumba",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 22600,
+      "latitude": "0.83611000",
+      "longitude": "33.68611000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6272234",
+      "country_code": "UG",
+      "state_code": "224",
+      "state_id": 337,
+      "country_id": 229
+    }
+  ]
 }

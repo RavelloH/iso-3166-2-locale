@@ -54,5 +54,24 @@
     "wikiDataId": "Q3539116",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165670,
+      "name": "Kiryandongo",
+      "name_default": "Kiryandongo",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.87633000",
+      "longitude": "32.06225000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6699373",
+      "country_code": "UG",
+      "state_code": "421",
+      "state_id": 346,
+      "country_id": 229
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q891962",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165651,
+      "name": "Bukuya",
+      "name_default": "Bukuya",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26972,
+      "latitude": "0.67861000",
+      "longitude": "31.81972000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q24236551",
+      "country_code": "UG",
+      "state_code": "107",
+      "state_id": 371,
+      "country_id": 229
+    }
+  ]
 }

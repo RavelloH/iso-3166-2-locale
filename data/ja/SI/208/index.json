@@ -54,5 +54,24 @@
     "wikiDataId": "Q1027089",
     "country_code": "SI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 104100,
+      "name": "ドラゴマー",
+      "name_default": "Dragomer",
+      "native": "Dragomer",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1410,
+      "latitude": "46.01667000",
+      "longitude": "14.38333000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q630081",
+      "country_code": "SI",
+      "state_code": "208",
+      "state_id": 4306,
+      "country_id": 201
+    }
+  ]
 }

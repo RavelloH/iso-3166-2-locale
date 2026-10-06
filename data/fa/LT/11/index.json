@@ -54,5 +54,24 @@
     "wikiDataId": "Q610133",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66721,
+      "name": "ژاگاره",
+      "name_default": "Žagarė",
+      "native": "Žagarė",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1247,
+      "latitude": "56.36149000",
+      "longitude": "23.25094000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q393332",
+      "country_code": "LT",
+      "state_code": "11",
+      "state_id": 1581,
+      "country_id": 126
+    }
+  ]
 }

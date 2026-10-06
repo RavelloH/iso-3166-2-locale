@@ -54,5 +54,42 @@
     "wikiDataId": "Q1813849",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66647,
+      "name": "Пабраде",
+      "name_default": "Pabradė",
+      "native": "Pabradė",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 6375,
+      "latitude": "54.98100000",
+      "longitude": "25.76100000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1004328",
+      "country_code": "LT",
+      "state_code": "49",
+      "state_id": 1560,
+      "country_id": 126
+    },
+    {
+      "id": 66720,
+      "name": "Швенчёнеляй",
+      "name_default": "Švenčionėliai",
+      "native": "Švenčionėliai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4613,
+      "latitude": "55.16163000",
+      "longitude": "26.00177000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q392772",
+      "country_code": "LT",
+      "state_code": "49",
+      "state_id": 1560,
+      "country_id": 126
+    }
+  ]
 }

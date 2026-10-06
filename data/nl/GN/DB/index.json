@@ -54,5 +54,42 @@
     "wikiDataId": "Q1156587",
     "country_code": "GN"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164775,
+      "name": "Bissikrima",
+      "name_default": "Bissikrima",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 28840,
+      "latitude": "10.85000000",
+      "longitude": "-10.93333000",
+      "timezone": "Africa/Conakry",
+      "wikiDataId": "Q4918470",
+      "country_code": "GN",
+      "state_code": "DB",
+      "state_id": 2679,
+      "country_id": 92
+    },
+    {
+      "id": 164774,
+      "name": "Dabola",
+      "name_default": "Dabola",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 29449,
+      "latitude": "10.74330000",
+      "longitude": "-11.10778000",
+      "timezone": "Africa/Conakry",
+      "wikiDataId": "Q1100543",
+      "country_code": "GN",
+      "state_code": "DB",
+      "state_id": 2679,
+      "country_id": 92
+    }
+  ]
 }

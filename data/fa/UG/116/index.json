@@ -54,5 +54,24 @@
     "wikiDataId": "Q432438",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165675,
+      "name": "Nakaseke",
+      "name_default": "Nakaseke",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "0.75167000",
+      "longitude": "32.38500000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q3529595",
+      "country_code": "UG",
+      "state_code": "116",
+      "state_id": 423,
+      "country_id": 229
+    }
+  ]
 }

@@ -59,7 +59,7 @@
     "name_default": "Zamora",
     "native": "Zamora",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "5329",
     "population": null,
     "latitude": "41.68576930",
@@ -934,6 +934,24 @@
       "country_id": 207
     },
     {
+      "id": 33803,
+      "name": "Corrales",
+      "name_default": "Corrales",
+      "native": "Corral",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1029,
+      "latitude": "41.35800000",
+      "longitude": "-5.72479000",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": "Q1990609",
+      "country_code": "ES",
+      "state_code": "ZA",
+      "state_id": 1161,
+      "country_id": 207
+    },
+    {
       "id": 152655,
       "name": "Wijncorrales",
       "name_default": "Corrales del Vino",
@@ -1273,24 +1291,6 @@
       "country_code": "ES",
       "state_code": "ZA",
       "state_id": 1161,
-      "country_id": 207
-    },
-    {
-      "id": 34207,
-      "name": "Fonfría",
-      "name_default": "Fonfría",
-      "native": "Fopfía",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 35,
-      "latitude": "40.99566000",
-      "longitude": "-1.08475000",
-      "timezone": "Europe/Madrid",
-      "wikiDataId": "Q574337",
-      "country_code": "ES",
-      "state_code": "ZA",
-      "state_id": 5111,
       "country_id": 207
     },
     {

@@ -54,5 +54,42 @@
     "wikiDataId": "Q404943",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66657,
+      "name": "پلاتلیای",
+      "name_default": "Plateliai",
+      "native": "Plateliai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1021,
+      "latitude": "56.04657000",
+      "longitude": "21.81615000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1028246",
+      "country_code": "LT",
+      "state_code": "35",
+      "state_id": 1553,
+      "country_id": 126
+    },
+    {
+      "id": 66658,
+      "name": "غوطه‌ور شدن",
+      "name_default": "Plunge",
+      "native": "Pasinerti",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17385,
+      "latitude": "55.91139000",
+      "longitude": "21.84417000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q977255",
+      "country_code": "LT",
+      "state_code": "35",
+      "state_id": 1553,
+      "country_id": 126
+    }
+  ]
 }

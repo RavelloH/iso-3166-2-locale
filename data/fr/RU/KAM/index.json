@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -303,6 +303,24 @@
       "country_id": 182
     },
     {
+      "id": 165483,
+      "name": "Kamenskoye",
+      "name_default": "Kamenskoye",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "62.46778000",
+      "longitude": "166.20666000",
+      "timezone": "Asia/Kamchatka",
+      "wikiDataId": "Q984829",
+      "country_code": "RU",
+      "state_code": "KAM",
+      "state_id": 1865,
+      "country_id": 182
+    },
+    {
       "id": 98863,
       "name": "District de Karaginsky",
       "name_default": "Karaginsky",
@@ -387,6 +405,24 @@
       "longitude": "159.00000000",
       "timezone": "Asia/Kamchatka",
       "wikiDataId": "Q539619",
+      "country_code": "RU",
+      "state_code": "KAM",
+      "state_id": 1865,
+      "country_id": 182
+    },
+    {
+      "id": 165484,
+      "name": "Nikol’skoye",
+      "name_default": "Nikol’skoye",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "55.19683000",
+      "longitude": "165.99779000",
+      "timezone": "Asia/Kamchatka",
+      "wikiDataId": "Q1321636",
       "country_code": "RU",
       "state_code": "KAM",
       "state_id": 1865,
@@ -591,6 +627,24 @@
       "country_id": 182
     },
     {
+      "id": 165513,
+      "name": "Ust’-Bol’sheretsk",
+      "name_default": "Ust’-Bol’sheretsk",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.82582000",
+      "longitude": "156.28290000",
+      "timezone": "Asia/Kamchatka",
+      "wikiDataId": "Q2502620",
+      "country_code": "RU",
+      "state_code": "KAM",
+      "state_id": 1865,
+      "country_id": 182
+    },
+    {
       "id": 102116,
       "name": "Rayon d'Oust-Bol'sheretskiy",
       "name_default": "Ust’-Bol’sheretskiy Rayon",
@@ -603,6 +657,24 @@
       "longitude": "157.00000000",
       "timezone": "Asia/Kamchatka",
       "wikiDataId": "Q766227",
+      "country_code": "RU",
+      "state_code": "KAM",
+      "state_id": 1865,
+      "country_id": 182
+    },
+    {
+      "id": 165514,
+      "name": "Ust’-Kamchatsk",
+      "name_default": "Ust’-Kamchatsk",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "56.23600000",
+      "longitude": "162.53300000",
+      "timezone": "Asia/Kamchatka",
+      "wikiDataId": "Q1934124",
       "country_code": "RU",
       "state_code": "KAM",
       "state_id": 1865,

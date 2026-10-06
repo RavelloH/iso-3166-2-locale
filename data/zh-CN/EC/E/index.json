@@ -63,6 +63,24 @@
   },
   "cities": [
     {
+      "id": 164624,
+      "name": "Atacames",
+      "name_default": "Atacames",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "0.86903000",
+      "longitude": "-79.84806000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q753121",
+      "country_code": "EC",
+      "state_code": "E",
+      "state_id": 2922,
+      "country_id": 64
+    },
+    {
       "id": 31505,
       "name": "埃斯梅拉达斯",
       "name_default": "Esmeraldas",

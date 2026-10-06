@@ -45,7 +45,7 @@
     "name_default": "Boulkiemde",
     "native": "Boulkiemde",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3115",
     "population": null,
     "latitude": "12.29371200",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q895102",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164502,
+      "name": "Kindi",
+      "name_default": "Kindi",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "12.43860000",
+      "longitude": "-2.03279000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q1741954",
+      "country_code": "BF",
+      "state_code": "BLK",
+      "state_id": 5343,
+      "country_id": 35
+    }
+  ]
 }

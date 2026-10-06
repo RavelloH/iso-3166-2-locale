@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164548,
+      "name": "Bobangui",
+      "name_default": "Bobangui",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "4.05000000",
+      "longitude": "18.11667000",
+      "timezone": "Africa/Bangui",
+      "wikiDataId": "Q2907916",
+      "country_code": "CF",
+      "state_code": "LB",
+      "state_id": 1256,
+      "country_id": 42
+    },
+    {
       "id": 17307,
       "name": "Бода",
       "name_default": "Boda",

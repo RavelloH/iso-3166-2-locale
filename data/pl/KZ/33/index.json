@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -96,5 +96,114 @@
     "wikiDataId": "Q111281411",
     "country_code": "KZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 65633,
+      "name": "Balpyk Bī",
+      "name_default": "Balpyk Bī",
+      "native": "Балпық би",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 11810,
+      "latitude": "44.90225000",
+      "longitude": "78.23157000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q4076856",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    },
+    {
+      "id": 65668,
+      "name": "Drużba",
+      "name_default": "Druzhba",
+      "native": "Дружба",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2930,
+      "latitude": "45.25332000",
+      "longitude": "82.48044000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1251114",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    },
+    {
+      "id": 65763,
+      "name": "Sarkand",
+      "name_default": "Sarkand",
+      "native": "Сарқанд",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 76919,
+      "latitude": "45.41126000",
+      "longitude": "79.91545000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1340535",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    },
+    {
+      "id": 65800,
+      "name": "Tałdykorgan",
+      "name_default": "Taldykorgan",
+      "native": "Талдықорған",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 116558,
+      "latitude": "45.01556000",
+      "longitude": "78.37389000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q491102",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    },
+    {
+      "id": 165158,
+      "name": "Zhansugurov",
+      "name_default": "Zhansugurov",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "45.39743000",
+      "longitude": "79.50345000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1976359",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    },
+    {
+      "id": 65841,
+      "name": "Żarkent",
+      "name_default": "Zharkent",
+      "native": "Жаркент",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 34422,
+      "latitude": "44.16660000",
+      "longitude": "80.00655000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q2231416",
+      "country_code": "KZ",
+      "state_code": "33",
+      "state_id": 5456,
+      "country_id": 112
+    }
+  ]
 }

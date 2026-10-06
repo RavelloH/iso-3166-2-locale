@@ -54,5 +54,24 @@
     "wikiDataId": "Q1365449",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165666,
+      "name": "Bududa",
+      "name_default": "Bududa",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.01118000",
+      "longitude": "34.33112000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4985181",
+      "country_code": "UG",
+      "state_code": "218",
+      "state_id": 349,
+      "country_id": 229
+    }
+  ]
 }

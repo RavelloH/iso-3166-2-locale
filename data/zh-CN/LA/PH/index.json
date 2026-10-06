@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165162,
+      "name": "Khoa",
+      "name_default": "Khoa",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "21.07833000",
+      "longitude": "102.50608000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q2891978",
+      "country_code": "LA",
+      "state_code": "PH",
+      "state_id": 987,
+      "country_id": 119
+    },
+    {
       "id": 65920,
       "name": "丰沙里",
       "name_default": "Phôngsali",

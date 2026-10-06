@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -505,6 +505,24 @@
       "longitude": "-98.79194000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q20275488",
+      "country_code": "MX",
+      "state_code": "SLP",
+      "state_id": 3461,
+      "country_id": 142
+    },
+    {
+      "id": 68987,
+      "name": "چاپولوواکانیتو",
+      "name_default": "Chapulhuacanito",
+      "native": "Chapulhuacanito",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3445,
+      "latitude": "21.20911000",
+      "longitude": "-98.67016000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61298500",
       "country_code": "MX",
       "state_code": "SLP",
       "state_id": 3461,
@@ -2095,6 +2113,24 @@
       "country_id": 142
     },
     {
+      "id": 72802,
+      "name": "طرح ایگوالا",
+      "name_default": "Plan de Iguala",
+      "native": "Plan de Iguala",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1596,
+      "latitude": "22.03638000",
+      "longitude": "-98.46457000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61312081",
+      "country_code": "MX",
+      "state_code": "SLP",
+      "state_id": 3461,
+      "country_id": 142
+    },
+    {
       "id": 72848,
       "name": "پونچیانو آریاگا",
       "name_default": "Ponciano Arriaga",
@@ -3085,6 +3121,24 @@
       "country_id": 142
     },
     {
+      "id": 75523,
+      "name": "تزاپوتلا",
+      "name_default": "Tezapotla",
+      "native": "Tesapot",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2912,
+      "latitude": "21.17381000",
+      "longitude": "-98.81242000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61298601",
+      "country_code": "MX",
+      "state_code": "SLP",
+      "state_id": 3461,
+      "country_id": 142
+    },
+    {
       "id": 75555,
       "name": "تیرا نوئوا",
       "name_default": "Tierra Nueva",
@@ -3223,6 +3277,24 @@
       "longitude": "-100.67827000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q49901538",
+      "country_code": "MX",
+      "state_code": "SLP",
+      "state_id": 3461,
+      "country_id": 142
+    },
+    {
+      "id": 165248,
+      "name": "Villa Juárez",
+      "name_default": "Villa Juárez",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "22.32617000",
+      "longitude": "-100.26689000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q3849466",
       "country_code": "MX",
       "state_code": "SLP",
       "state_id": 3461,

@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Amman",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "31.00000000",
@@ -55,6 +55,24 @@
     "country_code": "JO"
   },
   "cities": [
+    {
+      "id": 165109,
+      "name": "Dhībān",
+      "name_default": "Dhībān",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "31.49889000",
+      "longitude": "35.78287000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q1019166",
+      "country_code": "JO",
+      "state_code": "MD",
+      "state_id": 958,
+      "country_id": 111
+    },
     {
       "id": 63173,
       "name": "Madaba",

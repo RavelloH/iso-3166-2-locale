@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Amman",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "31.00000000",
@@ -86,6 +86,24 @@
       "longitude": "35.89802000",
       "timezone": "Asia/Amman",
       "wikiDataId": "Q3505791",
+      "country_code": "JO",
+      "state_code": "AM",
+      "state_id": 965,
+      "country_id": 111
+    },
+    {
+      "id": 165107,
+      "name": "Al Juwayyidah",
+      "name_default": "Al Juwayyidah",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "31.88715000",
+      "longitude": "35.93144000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q759755",
       "country_code": "JO",
       "state_code": "AM",
       "state_id": 965,

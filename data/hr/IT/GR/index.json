@@ -46,7 +46,7 @@
     "native": "Grosseto",
     "type": "province",
     "level": "2",
-    "parent_id": "1764",
+    "parent_id": "1664",
     "population": 82131,
     "latitude": "42.77511020",
     "longitude": "11.28780440",
@@ -539,24 +539,6 @@
       "country_code": "IT",
       "state_code": "GR",
       "state_id": 1787,
-      "country_id": 107
-    },
-    {
-      "id": 58458,
-      "name": "Rimska pesca",
-      "name_default": "Pescia Romana",
-      "native": "Pescia Romana",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1013,
-      "latitude": "42.39963000",
-      "longitude": "11.49651000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q2784233",
-      "country_code": "IT",
-      "state_code": "GR",
-      "state_id": 1735,
       "country_id": 107
     },
     {

@@ -54,24 +54,5 @@
     "wikiDataId": "Q1087776",
     "country_code": "MT"
   },
-  "cities": [
-    {
-      "id": 67808,
-      "name": "Święta Wenera",
-      "name_default": "Santa Venera",
-      "native": "Santa Venera",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 6932,
-      "latitude": "35.89083000",
-      "longitude": "14.47417000",
-      "timezone": "Europe/Malta",
-      "wikiDataId": "Q585420",
-      "country_code": "MT",
-      "state_code": "53",
-      "state_id": 94,
-      "country_id": 135
-    }
-  ]
+  "cities": []
 }

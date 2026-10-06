@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48246,
-      "name": "Ammanford",
-      "name_default": "Ammanford",
-      "native": "Ammanford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 23709,
-      "latitude": "51.79279000",
-      "longitude": "-3.98833000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2472406",
-      "country_code": "GB",
-      "state_code": "SWA",
-      "state_id": 2484,
-      "country_id": 232
-    },
-    {
       "id": 48533,
       "name": "Bishopston",
       "name_default": "Bishopston",
@@ -89,24 +71,6 @@
       "country_code": "GB",
       "state_code": "SWA",
       "state_id": 2433,
-      "country_id": 232
-    },
-    {
-      "id": 48784,
-      "name": "Burry Limanı",
-      "name_default": "Burry Port",
-      "native": "Burry Port",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 8310,
-      "latitude": "51.68435000",
-      "longitude": "-4.24687000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2253279",
-      "country_code": "GB",
-      "state_code": "SWA",
-      "state_id": 2484,
       "country_id": 232
     },
     {
@@ -164,24 +128,6 @@
       "country_id": 232
     },
     {
-      "id": 49647,
-      "name": "Glanamman",
-      "name_default": "Glanamman",
-      "native": "Glanamman",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 4168,
-      "latitude": "51.80000000",
-      "longitude": "-3.93333000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2079042",
-      "country_code": "GB",
-      "state_code": "SWA",
-      "state_id": 2484,
-      "country_id": 232
-    },
-    {
       "id": 49684,
       "name": "Gorseinon",
       "name_default": "Gorseinon",
@@ -215,24 +161,6 @@
       "country_code": "GB",
       "state_code": "SWA",
       "state_id": 2433,
-      "country_id": 232
-    },
-    {
-      "id": 50350,
-      "name": "Llanelli",
-      "name_default": "Llanelli",
-      "native": "Llanelli",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 49591,
-      "latitude": "51.68195000",
-      "longitude": "-4.16191000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q990125",
-      "country_code": "GB",
-      "state_code": "SWA",
-      "state_id": 2484,
       "country_id": 232
     },
     {
@@ -341,24 +269,6 @@
       "country_code": "GB",
       "state_code": "SWA",
       "state_id": 2433,
-      "country_id": 232
-    },
-    {
-      "id": 51684,
-      "name": "Tycroes",
-      "name_default": "Tycroes",
-      "native": "Tyrant",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2156,
-      "latitude": "51.77806000",
-      "longitude": "-4.02000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q7859766",
-      "country_code": "GB",
-      "state_code": "SWA",
-      "state_id": 2484,
       "country_id": 232
     }
   ]

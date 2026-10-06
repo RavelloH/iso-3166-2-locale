@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -727,6 +727,24 @@
       "country_id": 142
     },
     {
+      "id": 75896,
+      "name": "乌尔苏洛·加尔万",
+      "name_default": "Estación Manuel",
+      "native": "Ursulo Galván",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 12077,
+      "latitude": "22.72779000",
+      "longitude": "-98.32191000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q20226880",
+      "country_code": "MX",
+      "state_code": "TAM",
+      "state_id": 3463,
+      "country_id": 142
+    },
+    {
       "id": 70355,
       "name": "圣恩格拉西亚车站",
       "name_default": "Estación Santa Engracia",
@@ -1135,6 +1153,24 @@
       "longitude": "-99.02608000",
       "timezone": "America/Monterrey",
       "wikiDataId": "Q4271174",
+      "country_code": "MX",
+      "state_code": "TAM",
+      "state_id": 3463,
+      "country_id": 142
+    },
+    {
+      "id": 165259,
+      "name": "Loma Alta",
+      "name_default": "Loma Alta",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "22.88418000",
+      "longitude": "-99.02605000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q10763524",
       "country_code": "MX",
       "state_code": "TAM",
       "state_id": 3463,
@@ -1963,24 +1999,6 @@
       "longitude": "-97.97167000",
       "timezone": "America/Monterrey",
       "wikiDataId": "Q20226875",
-      "country_code": "MX",
-      "state_code": "TAM",
-      "state_id": 3463,
-      "country_id": 142
-    },
-    {
-      "id": 75896,
-      "name": "乌尔苏洛·加尔万",
-      "name_default": "Ursulo Galván",
-      "native": "Ursulo Galván",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 12077,
-      "latitude": "22.72779000",
-      "longitude": "-98.32191000",
-      "timezone": "America/Monterrey",
-      "wikiDataId": "Q20226880",
       "country_code": "MX",
       "state_code": "TAM",
       "state_id": 3463,

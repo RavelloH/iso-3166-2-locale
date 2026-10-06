@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q332095",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165566,
+      "name": "Wau",
+      "name_default": "Wau",
+      "native": "واو",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 127384,
+      "latitude": "7.70111000",
+      "longitude": "27.98972000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q276534",
+      "country_code": "SS",
+      "state_code": "BW",
+      "state_id": 2091,
+      "country_id": 206
+    }
+  ]
 }

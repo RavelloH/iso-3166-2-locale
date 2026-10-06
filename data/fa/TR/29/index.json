@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165614,
+      "name": "Gümüşhane",
+      "name_default": "Gümüşhane",
+      "native": "Gümüşhane",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 39214,
+      "latitude": "40.46001000",
+      "longitude": "39.47176000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q214303",
+      "country_code": "TR",
+      "state_code": "29",
+      "state_id": 2204,
+      "country_id": 225
+    },
+    {
       "id": 107969,
       "name": "کلکیت",
       "name_default": "Kelkit",

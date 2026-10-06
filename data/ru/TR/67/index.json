@@ -198,6 +198,24 @@
       "state_code": "67",
       "state_id": 2213,
       "country_id": 225
+    },
+    {
+      "id": 165611,
+      "name": "Zonguldak",
+      "name_default": "Zonguldak",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 101749,
+      "latitude": "41.45139000",
+      "longitude": "31.79305000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q187895",
+      "country_code": "TR",
+      "state_code": "67",
+      "state_id": 2213,
+      "country_id": 225
     }
   ]
 }

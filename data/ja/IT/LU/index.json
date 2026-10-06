@@ -46,7 +46,7 @@
     "native": "Lucca",
     "type": "province",
     "level": "2",
-    "parent_id": "1764",
+    "parent_id": "1664",
     "population": 89346,
     "latitude": "43.83767360",
     "longitude": "10.49505300",
@@ -161,24 +161,6 @@
       "country_code": "IT",
       "state_code": "LU",
       "state_id": 1749,
-      "country_id": 107
-    },
-    {
-      "id": 136760,
-      "name": "カパンネ＝プラート＝チンクアーレ",
-      "name_default": "Capanne-Prato-Cinquale",
-      "native": "Capanne-Prato-Cinquale",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 8270,
-      "latitude": "43.99720000",
-      "longitude": "10.15636000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "LU",
-      "state_id": 1759,
       "country_id": 107
     },
     {
@@ -434,24 +416,6 @@
       "country_id": 107
     },
     {
-      "id": 139889,
-      "name": "マリーナ・ディ・マッサ",
-      "name_default": "Marina di Massa",
-      "native": "Marina di Massa",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 19092,
-      "latitude": "44.00380000",
-      "longitude": "10.10674000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "LU",
-      "state_id": 1759,
-      "country_id": 107
-    },
-    {
       "id": 139980,
       "name": "マッサローザ",
       "name_default": "Massarosa",
@@ -521,24 +485,6 @@
       "country_code": "IT",
       "state_code": "LU",
       "state_id": 1749,
-      "country_id": 107
-    },
-    {
-      "id": 140947,
-      "name": "オレンターノ",
-      "name_default": "Orentano",
-      "native": "Orentano",
-      "type": "locality",
-      "level": null,
-      "parent_id": null,
-      "population": 1676,
-      "latitude": "43.77907000",
-      "longitude": "10.65939000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q3885522",
-      "country_code": "IT",
-      "state_code": "LU",
-      "state_id": 1685,
       "country_id": 107
     },
     {

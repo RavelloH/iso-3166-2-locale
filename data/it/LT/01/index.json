@@ -54,5 +54,60 @@
     "wikiDataId": "Q1023041",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66577,
+      "name": "Akmenė",
+      "name_default": "Akmenė",
+      "native": "Akmenė",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3026,
+      "latitude": "56.25000000",
+      "longitude": "22.75000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q27485851",
+      "country_code": "LT",
+      "state_code": "01",
+      "state_id": 1561,
+      "country_id": 126
+    },
+    {
+      "id": 66642,
+      "name": "Naujoji Akmene",
+      "name_default": "Naujoji Akmene",
+      "native": "Naujoji Akmene",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11922,
+      "latitude": "56.31667000",
+      "longitude": "22.90000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q835848",
+      "country_code": "LT",
+      "state_code": "01",
+      "state_id": 1561,
+      "country_id": 126
+    },
+    {
+      "id": 66696,
+      "name": "Vendita",
+      "name_default": "Venta",
+      "native": "Venta",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3270,
+      "latitude": "56.19162000",
+      "longitude": "22.69528000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1104010",
+      "country_code": "LT",
+      "state_code": "01",
+      "state_id": 1561,
+      "country_id": 126
+    }
+  ]
 }

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165124,
+      "name": "Juja",
+      "name_default": "Juja",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 156041,
+      "latitude": "-1.10148000",
+      "longitude": "37.01320000",
+      "timezone": "Africa/Nairobi",
+      "wikiDataId": "Q13123165",
+      "country_code": "KE",
+      "state_code": "13",
+      "state_id": 199,
+      "country_id": 113
+    },
+    {
       "id": 64802,
       "name": "Киамбу",
       "name_default": "Kiambu",

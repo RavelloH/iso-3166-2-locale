@@ -31,17 +31,17 @@
       },
       {
         "zoneName": "America/Nuuk",
-        "gmtOffset": -10800,
-        "gmtOffsetName": "UTC-03:00",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
         "abbreviation": "WGT",
         "tzName": "West Greenland Time"
       },
       {
         "zoneName": "America/Scoresbysund",
-        "gmtOffset": -3600,
-        "gmtOffsetName": "UTC-01:00",
-        "abbreviation": "EGT",
-        "tzName": "Eastern Greenland Time"
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "WGT",
+        "tzName": "West Greenland Time"
       },
       {
         "zoneName": "America/Thule",
@@ -76,24 +76,6 @@
     "country_code": "GL"
   },
   "cities": [
-    {
-      "id": 154943,
-      "name": "Аммассалік",
-      "name_default": "Ammassalik",
-      "native": "Ammassalik",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "65.61452670",
-      "longitude": "-37.65014660",
-      "timezone": "America/Nuuk",
-      "wikiDataId": "Q2139799",
-      "country_code": "GL",
-      "state_code": "SM",
-      "state_id": 5383,
-      "country_id": 86
-    },
     {
       "id": 154944,
       "name": "Іттоккортоормійт",
@@ -161,6 +143,24 @@
       "longitude": "-49.70519590",
       "timezone": "America/Nuuk",
       "wikiDataId": "Q545767",
+      "country_code": "GL",
+      "state_code": "SM",
+      "state_id": 5383,
+      "country_id": 86
+    },
+    {
+      "id": 154943,
+      "name": "Аммассалік",
+      "name_default": "Tasiilaq",
+      "native": "Ammassalik",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "65.61452670",
+      "longitude": "-37.65014660",
+      "timezone": "America/Nuuk",
+      "wikiDataId": "Q2139799",
       "country_code": "GL",
       "state_code": "SM",
       "state_id": 5383,

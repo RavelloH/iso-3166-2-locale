@@ -45,7 +45,7 @@
     "name_default": "Kénédougou",
     "native": "Kénédougou",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3165",
     "population": null,
     "latitude": "11.40399800",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1150901",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164494,
+      "name": "Orodara",
+      "name_default": "Orodara",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33422,
+      "latitude": "10.98115000",
+      "longitude": "-4.91885000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q143892",
+      "country_code": "BF",
+      "state_code": "KEN",
+      "state_id": 3112,
+      "country_id": 35
+    }
+  ]
 }

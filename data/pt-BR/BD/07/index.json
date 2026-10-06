@@ -51,7 +51,7 @@
     "latitude": "22.68540000",
     "longitude": "90.64820000",
     "timezone": "Asia/Dhaka",
-    "wikiDataId": null,
+    "wikiDataId": "Q855042",
     "country_code": "BD"
   },
   "cities": [
@@ -68,6 +68,24 @@
       "longitude": "90.10568470",
       "timezone": "Asia/Dhaka",
       "wikiDataId": "Q855042",
+      "country_code": "BD",
+      "state_code": "07",
+      "state_id": 5477,
+      "country_id": 19
+    },
+    {
+      "id": 164481,
+      "name": "Burhānuddin",
+      "name_default": "Burhānuddin",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 45670,
+      "latitude": "22.49518000",
+      "longitude": "90.72391000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q4099948",
       "country_code": "BD",
       "state_code": "07",
       "state_id": 5477,

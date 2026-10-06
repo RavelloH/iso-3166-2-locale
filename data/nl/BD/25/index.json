@@ -51,7 +51,7 @@
     "latitude": "22.64020000",
     "longitude": "90.19870000",
     "timezone": "Asia/Dhaka",
-    "wikiDataId": null,
+    "wikiDataId": "Q2093327",
     "country_code": "BD"
   },
   "cities": [
@@ -68,6 +68,24 @@
       "longitude": "89.87191590",
       "timezone": "Asia/Dhaka",
       "wikiDataId": "Q2093327",
+      "country_code": "BD",
+      "state_code": "25",
+      "state_id": 5496,
+      "country_id": 19
+    },
+    {
+      "id": 164488,
+      "name": "Nālchiti",
+      "name_default": "Nālchiti",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 38703,
+      "latitude": "22.63696000",
+      "longitude": "90.27195000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q4312696",
       "country_code": "BD",
       "state_code": "25",
       "state_id": 5496,

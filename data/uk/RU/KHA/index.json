@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": 577441,
     "latitude": "51.63126840",
     "longitude": "136.12152400",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Vladivostok",
     "wikiDataId": "Q7788",
     "country_code": "RU"
   },
@@ -789,6 +789,24 @@
       "country_id": 182
     },
     {
+      "id": 165478,
+      "name": "Pereyaslavka",
+      "name_default": "Pereyaslavka",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.96500000",
+      "longitude": "135.06356000",
+      "timezone": "Asia/Vladivostok",
+      "wikiDataId": "Q2070411",
+      "country_code": "RU",
+      "state_code": "KHA",
+      "state_id": 1873,
+      "country_id": 182
+    },
+    {
       "id": 101155,
       "name": "Селіхіно",
       "name_default": "Selikhino",
@@ -845,7 +863,7 @@
     {
       "id": 101895,
       "name": "Тополево",
-      "name_default": "Topolëvo",
+      "name_default": "Topolevo",
       "native": "Тополево",
       "type": "city",
       "level": null,

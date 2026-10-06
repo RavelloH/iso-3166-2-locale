@@ -54,5 +54,24 @@
     "wikiDataId": "Q3536053",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165663,
+      "name": "Agago",
+      "name_default": "Agago",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "2.83383000",
+      "longitude": "33.33361000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4690976",
+      "country_code": "UG",
+      "state_code": "322",
+      "state_id": 392,
+      "country_id": 229
+    }
+  ]
 }

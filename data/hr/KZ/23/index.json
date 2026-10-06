@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -97,6 +97,24 @@
     "country_code": "KZ"
   },
   "cities": [
+    {
+      "id": 165152,
+      "name": "Akkistau",
+      "name_default": "Akkistau",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.22107000",
+      "longitude": "51.00630000",
+      "timezone": "Asia/Atyrau",
+      "wikiDataId": "Q3312325",
+      "country_code": "KZ",
+      "state_code": "23",
+      "state_id": 153,
+      "country_id": 112
+    },
     {
       "id": 65598,
       "name": "Akkol",

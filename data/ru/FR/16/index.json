@@ -48,8 +48,8 @@
     "level": "2",
     "parent_id": "4795",
     "population": 351603,
-    "latitude": "45.73022670",
-    "longitude": "-0.72128760",
+    "latitude": "45.83333333",
+    "longitude": "0.33333333",
     "timezone": "Europe/Paris",
     "wikiDataId": "Q3266",
     "country_code": "FR"
@@ -416,24 +416,6 @@
       "country_id": 75
     },
     {
-      "id": 40913,
-      "name": "Ширак",
-      "name_default": "Chirac",
-      "native": "Chirac",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1095,
-      "latitude": "44.52289000",
-      "longitude": "3.26652000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q193532",
-      "country_code": "FR",
-      "state_code": "16",
-      "state_id": 5016,
-      "country_id": 75
-    },
-    {
       "id": 41079,
       "name": "коньяк",
       "name_default": "Cognac",
@@ -526,7 +508,7 @@
     {
       "id": 41748,
       "name": "Эксидей",
-      "name_default": "Exideuil",
+      "name_default": "Exideuil-sur-Vienne",
       "native": "Exideuil",
       "type": "city",
       "level": null,

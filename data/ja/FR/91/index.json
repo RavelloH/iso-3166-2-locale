@@ -812,6 +812,24 @@
       "country_id": 75
     },
     {
+      "id": 48125,
+      "name": "エヴリー",
+      "name_default": "Évry",
+      "native": "Évry",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 51900,
+      "latitude": "48.63280000",
+      "longitude": "2.44049000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q192393",
+      "country_code": "FR",
+      "state_code": "91",
+      "state_id": 5059,
+      "country_id": 75
+    },
+    {
       "id": 162107,
       "name": "Évry-Courcouronnes",
       "name_default": "Évry-Courcouronnes",
@@ -1424,6 +1442,24 @@
       "country_id": 75
     },
     {
+      "id": 44481,
+      "name": "メレヴィル",
+      "name_default": "Méréville",
+      "native": "Méréville",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3250,
+      "latitude": "48.31476000",
+      "longitude": "2.08609000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q257045",
+      "country_code": "FR",
+      "state_code": "91",
+      "state_id": 5059,
+      "country_id": 75
+    },
+    {
       "id": 44076,
       "name": "ミリ・ラ・フォレ",
       "name_default": "Milly-la-Forêt",
@@ -1997,24 +2033,6 @@
       "country_code": "FR",
       "state_code": "91",
       "state_id": 5059,
-      "country_id": 75
-    },
-    {
-      "id": 47302,
-      "name": "トルフー",
-      "name_default": "Torfou",
-      "native": "Torfou",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2023,
-      "latitude": "47.03682000",
-      "longitude": "-1.11635000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q569131",
-      "country_code": "FR",
-      "state_code": "91",
-      "state_id": 5017,
       "country_id": 75
     },
     {

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": 548331,
     "latitude": "52.02692620",
     "longitude": "54.72766470",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yekaterinburg",
     "wikiDataId": "Q5338",
     "country_code": "RU"
   },
@@ -261,6 +261,24 @@
       "longitude": "59.93960000",
       "timezone": "Asia/Yekaterinburg",
       "wikiDataId": "Q31869162",
+      "country_code": "RU",
+      "state_code": "ORE",
+      "state_id": 1886,
+      "country_id": 182
+    },
+    {
+      "id": 165486,
+      "name": "Akbulak",
+      "name_default": "Akbulak",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.00132000",
+      "longitude": "55.61967000",
+      "timezone": "Asia/Yekaterinburg",
+      "wikiDataId": "Q416867",
       "country_code": "RU",
       "state_code": "ORE",
       "state_id": 1886,

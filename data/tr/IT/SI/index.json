@@ -46,7 +46,7 @@
     "native": "Siena",
     "type": "province",
     "level": "2",
-    "parent_id": "1764",
+    "parent_id": "1664",
     "population": 52991,
     "latitude": "43.31855360",
     "longitude": "11.33165330",
@@ -575,24 +575,6 @@
       "country_code": "IT",
       "state_code": "SI",
       "state_id": 1734,
-      "country_id": 107
-    },
-    {
-      "id": 58286,
-      "name": "Chianti'deki Panzano",
-      "name_default": "Panzano in Chianti",
-      "native": "Panzano in Chianti",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1161,
-      "latitude": "43.54422000",
-      "longitude": "11.31438000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q3893502",
-      "country_code": "IT",
-      "state_code": "SI",
-      "state_id": 5630,
       "country_id": 107
     },
     {

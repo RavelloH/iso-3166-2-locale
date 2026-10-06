@@ -92,6 +92,24 @@
       "country_id": 232
     },
     {
+      "id": 48589,
+      "name": "Bolton-upon-Dearne",
+      "name_default": "Bolton upon Dearne",
+      "native": "Bolton upon Dearne",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13236,
+      "latitude": "53.51667000",
+      "longitude": "-1.31667000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q4940256",
+      "country_code": "GB",
+      "state_code": "BNS",
+      "state_id": 2499,
+      "country_id": 232
+    },
+    {
       "id": 48899,
       "name": "Cawthorne",
       "name_default": "Cawthorne",
@@ -107,24 +125,6 @@
       "country_code": "GB",
       "state_code": "BNS",
       "state_id": 2499,
-      "country_id": 232
-    },
-    {
-      "id": 49023,
-      "name": "Clayton Ouest",
-      "name_default": "Clayton West",
-      "native": "Clayton West",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 8109,
-      "latitude": "53.59501000",
-      "longitude": "-1.61107000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q5130366",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2371,
       "country_id": 232
     },
     {
@@ -236,24 +236,6 @@
       "country_id": 232
     },
     {
-      "id": 49899,
-      "name": "Hemsworth",
-      "name_default": "Hemsworth",
-      "native": "Hemsworth",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 9246,
-      "latitude": "53.61267000",
-      "longitude": "-1.35424000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2556975",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2465,
-      "country_id": 232
-    },
-    {
       "id": 50016,
       "name": "Hoyland Nether",
       "name_default": "Hoyland Nether",
@@ -269,24 +251,6 @@
       "country_code": "GB",
       "state_code": "BNS",
       "state_id": 2499,
-      "country_id": 232
-    },
-    {
-      "id": 50788,
-      "name": "Notton",
-      "name_default": "Notton",
-      "native": "Notton",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 479,
-      "latitude": "53.61267000",
-      "longitude": "-1.47234000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q962234",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2465,
       "country_id": 232
     },
     {
@@ -359,24 +323,6 @@
       "country_code": "GB",
       "state_code": "BNS",
       "state_id": 2499,
-      "country_id": 232
-    },
-    {
-      "id": 51981,
-      "name": "Woolley",
-      "name_default": "Woolley",
-      "native": "Woolley",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 365,
-      "latitude": "53.61339000",
-      "longitude": "-1.51457000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q4355527",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2465,
       "country_id": 232
     }
   ]

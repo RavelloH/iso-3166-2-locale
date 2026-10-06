@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -135,7 +135,7 @@
     {
       "id": 68010,
       "name": "아발라",
-      "name_default": "Abala",
+      "name_default": "Abalá",
       "native": "Ocupado",
       "type": "adm2",
       "level": null,
@@ -675,7 +675,7 @@
     {
       "id": 69098,
       "name": "초콜라",
-      "name_default": "Chochola",
+      "name_default": "Chocholá",
       "native": "Cascano",
       "type": "adm2",
       "level": null,
@@ -1089,7 +1089,7 @@
     {
       "id": 69749,
       "name": "주눈칸",
-      "name_default": "Dzununcan",
+      "name_default": "Dzununcán",
       "native": "Dzununcan",
       "type": "city",
       "level": null,
@@ -1197,7 +1197,7 @@
     {
       "id": 70378,
       "name": "이안",
-      "name_default": "Euan",
+      "name_default": "Euán",
       "native": "Euan",
       "type": "city",
       "level": null,
@@ -1269,7 +1269,7 @@
     {
       "id": 70703,
       "name": "홀카",
-      "name_default": "Holca",
+      "name_default": "Holcá",
       "native": "Holca",
       "type": "city",
       "level": null,
@@ -1611,7 +1611,7 @@
     {
       "id": 71166,
       "name": "코포마",
-      "name_default": "Kopoma",
+      "name_default": "Kopomá",
       "native": "Tierra",
       "type": "adm2",
       "level": null,
@@ -1809,7 +1809,7 @@
     {
       "id": 72174,
       "name": "모코차",
-      "name_default": "Mococha",
+      "name_default": "Mocochá",
       "native": "Mococha",
       "type": "adm2",
       "level": null,
@@ -1935,7 +1935,7 @@
     {
       "id": 72511,
       "name": "오피첸",
-      "name_default": "Opichen",
+      "name_default": "Opichén",
       "native": "Opicén",
       "type": "adm2",
       "level": null,
@@ -2617,24 +2617,6 @@
       "country_id": 142
     },
     {
-      "id": 75148,
-      "name": "Suma de Hidalgo",
-      "name_default": "Suma de Hidalgo",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "21.08643000",
-      "longitude": "-89.14766000",
-      "timezone": "America/Merida",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "YUC",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 75168,
       "name": "타지비첸",
       "name_default": "Tahdzibichen",
@@ -3285,7 +3267,7 @@
     {
       "id": 75591,
       "name": "틱스페우알",
-      "name_default": "Tixpehual",
+      "name_default": "Tixpéhual",
       "native": "Tixpehual",
       "type": "adm2",
       "level": null,
@@ -3321,7 +3303,7 @@
     {
       "id": 75810,
       "name": "툰카스",
-      "name_default": "Tunkas",
+      "name_default": "Tunkás",
       "native": "Astuto",
       "type": "city",
       "level": null,
@@ -3429,7 +3411,7 @@
     {
       "id": 75866,
       "name": "우만",
-      "name_default": "Uman",
+      "name_default": "Umán",
       "native": "UMAN",
       "type": "adm2",
       "level": null,

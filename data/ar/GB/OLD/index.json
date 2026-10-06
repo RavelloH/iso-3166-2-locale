@@ -74,6 +74,24 @@
       "country_id": 232
     },
     {
+      "id": 164724,
+      "name": "Chadderton",
+      "name_default": "Chadderton",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37602,
+      "latitude": "53.54480000",
+      "longitude": "-2.13984000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2199102",
+      "country_code": "GB",
+      "state_code": "OLD",
+      "state_id": 2477,
+      "country_id": 232
+    },
+    {
       "id": 49258,
       "name": "ديلف",
       "name_default": "Delph",
@@ -125,24 +143,6 @@
       "country_code": "GB",
       "state_code": "OLD",
       "state_id": 2477,
-      "country_id": 232
-    },
-    {
-      "id": 50573,
-      "name": "ميدلتون",
-      "name_default": "Middleton",
-      "native": "Middleton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 45589,
-      "latitude": "53.55000000",
-      "longitude": "-2.20000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2560244",
-      "country_code": "GB",
-      "state_code": "OLD",
-      "state_id": 2327,
       "country_id": 232
     },
     {

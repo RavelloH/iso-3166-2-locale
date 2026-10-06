@@ -74,6 +74,24 @@
       "country_id": 232
     },
     {
+      "id": 48520,
+      "name": "伯肯黑德",
+      "name_default": "Birkenhead",
+      "native": "Birkenhead",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 325264,
+      "latitude": "53.39337000",
+      "longitude": "-3.01479000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q746718",
+      "country_code": "GB",
+      "state_code": "WRL",
+      "state_id": 2408,
+      "country_id": 232
+    },
+    {
       "id": 48718,
       "name": "布罗姆伯勒",
       "name_default": "Bromborough",
@@ -89,24 +107,6 @@
       "country_code": "GB",
       "state_code": "WRL",
       "state_id": 2408,
-      "country_id": 232
-    },
-    {
-      "id": 49456,
-      "name": "埃尔斯米尔港",
-      "name_default": "Ellesmere Port",
-      "native": "Ellesmere Port",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 61090,
-      "latitude": "53.27875000",
-      "longitude": "-2.90134000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1011600",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2442,
       "country_id": 232
     },
     {
@@ -254,21 +254,21 @@
       "country_id": 232
     },
     {
-      "id": 51201,
-      "name": "索格尔",
-      "name_default": "Saughall",
-      "native": "Saughall",
-      "type": "city",
+      "id": 51732,
+      "name": "沃拉西",
+      "name_default": "Wallasey",
+      "native": "Wallasey",
+      "type": "adm2",
       "level": null,
       "parent_id": null,
-      "population": 3009,
-      "latitude": "53.22618000",
-      "longitude": "-2.95649000",
+      "population": 60284,
+      "latitude": "53.42324000",
+      "longitude": "-3.06497000",
       "timezone": "Europe/London",
-      "wikiDataId": "Q2134251",
+      "wikiDataId": "Q780923",
       "country_code": "GB",
       "state_code": "WRL",
-      "state_id": 2442,
+      "state_id": 2408,
       "country_id": 232
     },
     {
@@ -287,24 +287,6 @@
       "country_code": "GB",
       "state_code": "WRL",
       "state_id": 2408,
-      "country_id": 232
-    },
-    {
-      "id": 51905,
-      "name": "威拉斯顿",
-      "name_default": "Willaston",
-      "native": "Willaston",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2813,
-      "latitude": "53.29550000",
-      "longitude": "-2.99732000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q8003516",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2442,
       "country_id": 232
     }
   ]

@@ -48,10 +48,10 @@
     "level": "2",
     "parent_id": "4798",
     "population": null,
-    "latitude": "47.61507310",
-    "longitude": "-0.97843910",
+    "latitude": "45.75388889",
+    "longitude": "4.22472222",
     "timezone": "Europe/Paris",
-    "wikiDataId": "Q16994",
+    "wikiDataId": "Q12569",
     "country_code": "FR"
   },
   "cities": [
@@ -215,24 +215,6 @@
       "country_code": "FR",
       "state_code": "42",
       "state_id": 5010,
-      "country_id": 75
-    },
-    {
-      "id": 40192,
-      "name": "Bourg-de-Thizy",
-      "name_default": "Bourg-de-Thizy",
-      "native": "Bourg-de-Thizy",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2863,
-      "latitude": "46.03371000",
-      "longitude": "4.29904000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q1364098",
-      "country_code": "FR",
-      "state_code": "42",
-      "state_id": 5037,
       "country_id": 75
     },
     {
@@ -467,24 +449,6 @@
       "country_code": "FR",
       "state_code": "42",
       "state_id": 5010,
-      "country_id": 75
-    },
-    {
-      "id": 41262,
-      "name": "Cours-la-Ville",
-      "name_default": "Cours-la-Ville",
-      "native": "Cours-la-Ville",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 4501,
-      "latitude": "46.10000000",
-      "longitude": "4.31667000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q1617140",
-      "country_code": "FR",
-      "state_code": "42",
-      "state_id": 5037,
       "country_id": 75
     },
     {
@@ -1061,24 +1025,6 @@
       "country_code": "FR",
       "state_code": "42",
       "state_id": 5010,
-      "country_id": 75
-    },
-    {
-      "id": 44853,
-      "name": "Parigny",
-      "name_default": "Parigny",
-      "native": "Parigny",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1751,
-      "latitude": "48.59450000",
-      "longitude": "-1.07925000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q1062309",
-      "country_code": "FR",
-      "state_code": "42",
-      "state_id": 5018,
       "country_id": 75
     },
     {

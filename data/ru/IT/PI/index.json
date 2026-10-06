@@ -46,7 +46,7 @@
     "native": "Pisa",
     "type": "province",
     "level": "2",
-    "parent_id": "1764",
+    "parent_id": "1664",
     "population": 98778,
     "latitude": "43.72283150",
     "longitude": "10.40171940",
@@ -830,6 +830,24 @@
       "country_id": 107
     },
     {
+      "id": 140947,
+      "name": "Орентано",
+      "name_default": "Orentano",
+      "native": "Orentano",
+      "type": "locality",
+      "level": null,
+      "parent_id": null,
+      "population": 1676,
+      "latitude": "43.77907000",
+      "longitude": "10.65939000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q3885522",
+      "country_code": "IT",
+      "state_code": "PI",
+      "state_id": 1685,
+      "country_id": 107
+    },
+    {
       "id": 140996,
       "name": "Орциньяно",
       "name_default": "Orzignano",
@@ -1100,24 +1118,6 @@
       "country_id": 107
     },
     {
-      "id": 60166,
-      "name": "Сан-Пьерино",
-      "name_default": "San Pierino",
-      "native": "San Pierino",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1881,
-      "latitude": "43.71423000",
-      "longitude": "10.81374000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18487365",
-      "country_code": "IT",
-      "state_code": "PI",
-      "state_id": 5630,
-      "country_id": 107
-    },
-    {
       "id": 60175,
       "name": "Сан-Пьетро-Бельведер",
       "name_default": "San Pietro Belvedere",
@@ -1313,24 +1313,6 @@
       "country_code": "IT",
       "state_code": "PI",
       "state_id": 1685,
-      "country_id": 107
-    },
-    {
-      "id": 61910,
-      "name": "Викарелло",
-      "name_default": "Vicarello",
-      "native": "VICarello",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3106,
-      "latitude": "43.61238000",
-      "longitude": "10.46515000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q2090626",
-      "country_code": "IT",
-      "state_code": "PI",
-      "state_id": 1745,
       "country_id": 107
     },
     {

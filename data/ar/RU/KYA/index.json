@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -531,6 +531,24 @@
       "longitude": "90.75000000",
       "timezone": "Asia/Krasnoyarsk",
       "wikiDataId": "Q40243",
+      "country_code": "RU",
+      "state_code": "KYA",
+      "state_id": 1840,
+      "country_id": 182
+    },
+    {
+      "id": 165493,
+      "name": "Bol’shoy Uluy",
+      "name_default": "Bol’shoy Uluy",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "56.65885000",
+      "longitude": "90.58374000",
+      "timezone": "Asia/Krasnoyarsk",
+      "wikiDataId": "Q13640127",
       "country_code": "RU",
       "state_code": "KYA",
       "state_id": 1840,

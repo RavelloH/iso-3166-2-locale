@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165131,
+      "name": "Kakuma",
+      "name_default": "Kakuma",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22984,
+      "latitude": "3.71363000",
+      "longitude": "34.85720000",
+      "timezone": "Africa/Nairobi",
+      "wikiDataId": "Q1186085",
+      "country_code": "KE",
+      "state_code": "43",
+      "state_id": 206,
+      "country_id": 113
+    },
+    {
       "id": 64819,
       "name": "लोदवार",
       "name_default": "Lodwar",

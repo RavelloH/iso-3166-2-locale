@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48296,
-      "name": "Ashton en Makerfield",
-      "name_default": "Ashton in Makerfield",
-      "native": "Ashton in Makerfield",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 29039,
-      "latitude": "53.48700000",
-      "longitude": "-2.64100000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2557991",
-      "country_code": "GB",
-      "state_code": "SHN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 48505,
       "name": "Billinge",
       "name_default": "Billinge",
@@ -89,24 +71,6 @@
       "country_code": "GB",
       "state_code": "SHN",
       "state_id": 2290,
-      "country_id": 232
-    },
-    {
-      "id": 48795,
-      "name": "Burtonwood",
-      "name_default": "Burtonwood",
-      "native": "Burtonwood",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3361,
-      "latitude": "53.42948000",
-      "longitude": "-2.65852000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q995213",
-      "country_code": "GB",
-      "state_code": "SHN",
-      "state_id": 2420,
       "country_id": 232
     },
     {

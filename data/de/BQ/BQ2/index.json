@@ -13,7 +13,7 @@
     "currency": "USD",
     "currency_name": "United States dollar",
     "currency_symbol": "$",
-    "tld": ".an",
+    "tld": ".bq",
     "population": 26552,
     "gdp": null,
     "region": "Americas",
@@ -39,7 +39,7 @@
     "id": 5087,
     "code": "BQ2",
     "iso2": "BQ2",
-    "iso3166_2": "BQ-BQ2",
+    "iso3166_2": "BQ-SA",
     "fips_code": "10",
     "name": "Saba",
     "name_default": "Saba",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q25528",
     "country_code": "BQ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 150063,
+      "name": "Der Boden",
+      "name_default": "The Bottom",
+      "native": "De onderkant",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 488,
+      "latitude": "17.62611111",
+      "longitude": "-63.24916667",
+      "timezone": "America/Kralendijk",
+      "wikiDataId": "Q475718",
+      "country_code": "BQ",
+      "state_code": "BQ2",
+      "state_id": 5087,
+      "country_id": 155
+    },
+    {
+      "id": 150064,
+      "name": "Windwardside",
+      "name_default": "Windwardside",
+      "native": "Windwardside",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "17.62864000",
+      "longitude": "-63.23136000",
+      "timezone": "America/Kralendijk",
+      "wikiDataId": "Q2983401",
+      "country_code": "BQ",
+      "state_code": "BQ2",
+      "state_id": 5087,
+      "country_id": 155
+    }
+  ]
 }

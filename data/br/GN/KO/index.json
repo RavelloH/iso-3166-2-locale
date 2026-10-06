@@ -54,5 +54,24 @@
     "wikiDataId": "Q1471573",
     "country_code": "GN"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164776,
+      "name": "Douako",
+      "name_default": "Douako",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23416,
+      "latitude": "9.73333000",
+      "longitude": "-10.18333000",
+      "timezone": "Africa/Conakry",
+      "wikiDataId": "Q5299542",
+      "country_code": "GN",
+      "state_code": "KO",
+      "state_id": 2695,
+      "country_id": 92
+    }
+  ]
 }

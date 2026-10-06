@@ -63,6 +63,24 @@
   },
   "cities": [
     {
+      "id": 164631,
+      "name": "La Concordia",
+      "name_default": "La Concordia",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "0.00801000",
+      "longitude": "-79.39462000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q16587384",
+      "country_code": "EC",
+      "state_code": "SD",
+      "state_id": 2919,
+      "country_id": 64
+    },
+    {
       "id": 31577,
       "name": "サント ドミンゴ デ ロス コロラドス",
       "name_default": "Santo Domingo de los Colorados",

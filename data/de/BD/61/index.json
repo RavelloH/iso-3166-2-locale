@@ -51,10 +51,28 @@
     "latitude": "25.06580000",
     "longitude": "91.39500000",
     "timezone": "Asia/Dhaka",
-    "wikiDataId": null,
+    "wikiDataId": "Q2093388",
     "country_code": "BD"
   },
   "cities": [
+    {
+      "id": 164487,
+      "name": "Chhātak",
+      "name_default": "Chhātak",
+      "native": null,
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 39218,
+      "latitude": "25.03852000",
+      "longitude": "91.66958000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q4518434",
+      "country_code": "BD",
+      "state_code": "61",
+      "state_id": 5533,
+      "country_id": 19
+    },
     {
       "id": 153908,
       "name": "Sunamganj",

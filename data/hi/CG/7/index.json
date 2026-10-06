@@ -10,9 +10,9 @@
     "native": "République du Congo",
     "capital": "Brazzaville",
     "phonecode": "242",
-    "currency": "CDF",
-    "currency_name": "Congolese Franc",
-    "currency_symbol": "FC",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
     "tld": ".cg",
     "population": 6142180,
     "gdp": 15281,
@@ -55,6 +55,24 @@
     "country_code": "CG"
   },
   "cities": [
+    {
+      "id": 164554,
+      "name": "Bétou",
+      "name_default": "Bétou",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "3.05500000",
+      "longitude": "18.51722000",
+      "timezone": "Africa/Brazzaville",
+      "wikiDataId": "Q5005068",
+      "country_code": "CG",
+      "state_code": "7",
+      "state_id": 2865,
+      "country_id": 50
+    },
     {
       "id": 17344,
       "name": "इम्फोंडो",

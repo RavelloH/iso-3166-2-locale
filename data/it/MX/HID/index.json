@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -125,8 +125,8 @@
     "level": null,
     "parent_id": null,
     "population": null,
-    "latitude": "24.16855450",
-    "longitude": "-99.38737290",
+    "latitude": "20.47833333",
+    "longitude": "-98.86361111",
     "timezone": "America/Mexico_City",
     "wikiDataId": "Q80903",
     "country_code": "MX"
@@ -853,24 +853,6 @@
       "country_id": 142
     },
     {
-      "id": 68948,
-      "name": "Chachahuantla",
-      "name_default": "Chachahuantla",
-      "native": "Chachahuantla",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1140,
-      "latitude": "20.20182000",
-      "longitude": "-98.13261000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q8344456",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3476,
-      "country_id": 142
-    },
-    {
       "id": 68954,
       "name": "Chalahuiyapa",
       "name_default": "Chalahuiyapa",
@@ -922,24 +904,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 68987,
-      "name": "Chapulhuacanito",
-      "name_default": "Chapulhuacanito",
-      "native": "Chapulhuacanito",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3445,
-      "latitude": "21.20911000",
-      "longitude": "-98.67016000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61298500",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3461,
       "country_id": 142
     },
     {
@@ -1336,24 +1300,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 69523,
-      "name": "Coyotillos",
-      "name_default": "Coyotillos",
-      "native": "Coyotillos",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3084,
-      "latitude": "19.99980000",
-      "longitude": "-99.15817000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q5790467",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
       "country_id": 142
     },
     {
@@ -1858,24 +1804,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 70094,
-      "name": "El Paredón",
-      "name_default": "El Paredón",
-      "native": "El Paredón",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2413,
-      "latitude": "19.86686000",
-      "longitude": "-98.25224000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61296650",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3476,
       "country_id": 142
     },
     {
@@ -3517,6 +3445,24 @@
       "country_id": 142
     },
     {
+      "id": 165254,
+      "name": "Mineral del Chico",
+      "name_default": "Mineral del Chico",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "20.21498000",
+      "longitude": "-98.73097000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q3844631",
+      "country_code": "MX",
+      "state_code": "HID",
+      "state_id": 3470,
+      "country_id": 142
+    },
+    {
       "id": 72149,
       "name": "Mineral del Monte",
       "name_default": "Mineral del Monte",
@@ -3637,6 +3583,24 @@
       "longitude": "-99.36856000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q50013888",
+      "country_code": "MX",
+      "state_code": "HID",
+      "state_id": 3470,
+      "country_id": 142
+    },
+    {
+      "id": 165257,
+      "name": "Nicolás Flores",
+      "name_default": "Nicolás Flores",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "20.76795000",
+      "longitude": "-99.15067000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q612504",
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
@@ -4435,24 +4399,6 @@
       "country_id": 142
     },
     {
-      "id": 73219,
-      "name": "Salitrillo",
-      "name_default": "Salitrillo",
-      "native": "Salitrillo",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 6231,
-      "latitude": "19.82937000",
-      "longitude": "-99.21594000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61248120",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
-      "country_id": 142
-    },
-    {
       "id": 73255,
       "name": "San Agustín Tlaxiaca",
       "name_default": "San Agustín Tlaxiaca",
@@ -4921,24 +4867,6 @@
       "country_id": 142
     },
     {
-      "id": 73760,
-      "name": "San José Corral Blanco",
-      "name_default": "San José Corral Blanco",
-      "native": "San José Corral Blanco",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1099,
-      "latitude": "19.90884000",
-      "longitude": "-98.17811000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61296583",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3476,
-      "country_id": 142
-    },
-    {
       "id": 73777,
       "name": "Ocotillos di San José",
       "name_default": "San José Ocotillos",
@@ -5119,24 +5047,6 @@
       "country_id": 142
     },
     {
-      "id": 74055,
-      "name": "San Luis Tecuhautitlán",
-      "name_default": "San Luis Tecuhautitlán",
-      "native": "San Luis Tecuhautitlán",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 5694,
-      "latitude": "19.76736000",
-      "longitude": "-98.88868000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
-      "country_id": 142
-    },
-    {
       "id": 74064,
       "name": "San Marcos",
       "name_default": "San Marcos",
@@ -5152,24 +5062,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 74071,
-      "name": "San Marcos Guaquilpan",
-      "name_default": "San Marcos Guaquilpan",
-      "native": "San Marcos Guaquilpan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1788,
-      "latitude": "19.59853000",
-      "longitude": "-98.62866000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61276353",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3458,
       "country_id": 142
     },
     {
@@ -5293,6 +5185,24 @@
       "longitude": "-98.15999000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q50012811",
+      "country_code": "MX",
+      "state_code": "HID",
+      "state_id": 3470,
+      "country_id": 142
+    },
+    {
+      "id": 74339,
+      "name": "San Pedro Huaquilpan",
+      "name_default": "San Pedro Huaquilpan",
+      "native": "San Pedro Huaquilpan",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4459,
+      "latitude": "19.98840000",
+      "longitude": "-98.86777000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q50031422",
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
@@ -5461,24 +5371,6 @@
       "country_id": 142
     },
     {
-      "id": 74545,
-      "name": "Santa Ana Tlachiahualpa",
-      "name_default": "Santa Ana Tlachiahualpa",
-      "native": "Santa ana tlachiiahualpa",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 5781,
-      "latitude": "19.76869000",
-      "longitude": "-98.90885000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
-      "country_id": 142
-    },
-    {
       "id": 74548,
       "name": "Santa Ana Tzacuala",
       "name_default": "Santa Ana Tzacuala",
@@ -5587,24 +5479,6 @@
       "country_id": 142
     },
     {
-      "id": 74706,
-      "name": "Santa María Actipac",
-      "name_default": "Santa María Actipac",
-      "native": "Santa María Actipac",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3592,
-      "latitude": "19.85547000",
-      "longitude": "-98.74561000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61249595",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
-      "country_id": 142
-    },
-    {
       "id": 74711,
       "name": "Santa María Amajac",
       "name_default": "Santa María Amajac",
@@ -5638,24 +5512,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 74712,
-      "name": "Santa María Apaxco",
-      "name_default": "Santa María Apaxco",
-      "native": "Santa María Apaxco",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3747,
-      "latitude": "19.95524000",
-      "longitude": "-99.18680000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q6120538",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
       "country_id": 142
     },
     {
@@ -5893,24 +5749,6 @@
       "country_id": 142
     },
     {
-      "id": 74896,
-      "name": "Santiago Cuaula",
-      "name_default": "Santiago Cuaula",
-      "native": "Santiago Cuaula",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2614,
-      "latitude": "19.60136000",
-      "longitude": "-98.64941000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61276328",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3458,
-      "country_id": 142
-    },
-    {
       "id": 74982,
       "name": "Santiago de Anaya",
       "name_default": "Santiago de Anaya",
@@ -6127,24 +5965,6 @@
       "country_id": 142
     },
     {
-      "id": 75203,
-      "name": "Tancazahuela",
-      "name_default": "Tancazahuela",
-      "native": "Tancazahuela",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1315,
-      "latitude": "21.18300000",
-      "longitude": "-98.43483000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61257824",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3464,
-      "country_id": 142
-    },
-    {
       "id": 75236,
       "name": "Tasquillo",
       "name_default": "Tasquillo",
@@ -6178,24 +5998,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 75253,
-      "name": "Teacalco",
-      "name_default": "Teacalco",
-      "native": "Teacalco",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2970,
-      "latitude": "19.80561000",
-      "longitude": "-98.85209000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3450,
       "country_id": 142
     },
     {
@@ -6628,24 +6430,6 @@
       "country_code": "MX",
       "state_code": "HID",
       "state_id": 3470,
-      "country_id": 142
-    },
-    {
-      "id": 75523,
-      "name": "Tezapotla",
-      "name_default": "Tezapotla",
-      "native": "Tesapot",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2912,
-      "latitude": "21.17381000",
-      "longitude": "-98.81242000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61298601",
-      "country_code": "MX",
-      "state_code": "HID",
-      "state_id": 3461,
       "country_id": 142
     },
     {
@@ -7551,7 +7335,7 @@
     {
       "id": 76336,
       "name": "Zimapan",
-      "name_default": "Zimapan",
+      "name_default": "Zimapán",
       "native": "Empamal",
       "type": "adm2",
       "level": null,

@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 135371,
-      "name": "Albiano Magra",
-      "name_default": "Albiano Magra",
-      "native": "Albiano Magra",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1907,
-      "latitude": "44.17574000",
-      "longitude": "9.91619000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q3608754",
-      "country_code": "IT",
-      "state_code": "SP",
-      "state_id": 1759,
-      "country_id": 107
-    },
-    {
       "id": 135467,
       "name": "Ameglia",
       "name_default": "Ameglia",
@@ -182,24 +164,6 @@
       "country_id": 107
     },
     {
-      "id": 136164,
-      "name": "Borghetto-Melara",
-      "name_default": "Borghetto-Melara",
-      "native": "Borghetto-Melara",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1868,
-      "latitude": "44.09852000",
-      "longitude": "9.99073000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18489303",
-      "country_code": "IT",
-      "state_code": "SP",
-      "state_id": 1759,
-      "country_id": 107
-    },
-    {
       "id": 136364,
       "name": "Brugnato",
       "name_default": "Brugnato",
@@ -305,24 +269,6 @@
       "country_code": "IT",
       "state_code": "SP",
       "state_id": 1791,
-      "country_id": 107
-    },
-    {
-      "id": 137339,
-      "name": "Castiglione",
-      "name_default": "Castiglione",
-      "native": "Castiglione",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 466,
-      "latitude": "44.27539000",
-      "longitude": "9.51687000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18457021",
-      "country_code": "IT",
-      "state_code": "SP",
-      "state_id": 5631,
       "country_id": 107
     },
     {
@@ -485,24 +431,6 @@
       "country_code": "IT",
       "state_code": "SP",
       "state_id": 1791,
-      "country_id": 107
-    },
-    {
-      "id": 139881,
-      "name": "Marina di Carrara",
-      "name_default": "Marina di Carrara",
-      "native": "Marina di Carrara",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 25000,
-      "latitude": "44.03837000",
-      "longitude": "10.04142000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q16965",
-      "country_code": "IT",
-      "state_code": "SP",
-      "state_id": 1759,
       "country_id": 107
     },
     {

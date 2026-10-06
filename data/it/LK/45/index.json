@@ -54,5 +54,24 @@
     "wikiDataId": "Q1587508",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165177,
+      "name": "Mullaittivu",
+      "name_default": "Mullaittivu",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 28973,
+      "latitude": "9.26800000",
+      "longitude": "80.81500000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q507144",
+      "country_code": "LK",
+      "state_code": "45",
+      "state_id": 2814,
+      "country_id": 208
+    }
+  ]
 }

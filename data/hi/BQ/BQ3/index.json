@@ -13,7 +13,7 @@
     "currency": "USD",
     "currency_name": "United States dollar",
     "currency_symbol": "$",
-    "tld": ".an",
+    "tld": ".bq",
     "population": 26552,
     "gdp": null,
     "region": "Americas",
@@ -39,7 +39,7 @@
     "id": 5088,
     "code": "BQ3",
     "iso2": "BQ3",
-    "iso3166_2": "BQ-BQ3",
+    "iso3166_2": "BQ-SE",
     "fips_code": "05",
     "name": "सिंट यूस्टेटियस",
     "name_default": "Sint Eustatius",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q26180",
     "country_code": "BQ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 150060,
+      "name": "ओरांजेस्टेड",
+      "name_default": "Oranjestad",
+      "native": "Oranjestad",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1097,
+      "latitude": "17.48333333",
+      "longitude": "-62.98333333",
+      "timezone": "America/Kralendijk",
+      "wikiDataId": "Q217610",
+      "country_code": "BQ",
+      "state_code": "BQ3",
+      "state_id": 5088,
+      "country_id": 155
+    }
+  ]
 }

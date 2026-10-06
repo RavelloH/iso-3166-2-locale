@@ -54,5 +54,24 @@
     "wikiDataId": "Q1755961",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66710,
+      "name": "شيدوفا",
+      "name_default": "Šeduva",
+      "native": "Sheduva",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3321,
+      "latitude": "55.74930000",
+      "longitude": "23.75610000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2356396",
+      "country_code": "LT",
+      "state_code": "37",
+      "state_id": 1568,
+      "country_id": 126
+    }
+  ]
 }

@@ -51,7 +51,7 @@
     "latitude": "44.41149100",
     "longitude": "8.93285900",
     "timezone": "Europe/Rome",
-    "wikiDataId": "Q18288197",
+    "wikiDataId": "Q18288152",
     "country_code": "IT"
   },
   "cities": [
@@ -320,6 +320,24 @@
       "longitude": "9.00080000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q265574",
+      "country_code": "IT",
+      "state_code": "GE",
+      "state_id": 5631,
+      "country_id": 107
+    },
+    {
+      "id": 137339,
+      "name": "郎世宁",
+      "name_default": "Castiglione",
+      "native": "Castiglione",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 466,
+      "latitude": "44.27539000",
+      "longitude": "9.51687000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18457021",
       "country_code": "IT",
       "state_code": "GE",
       "state_id": 5631,

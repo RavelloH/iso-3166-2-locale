@@ -81,6 +81,24 @@
       "country_id": 171
     },
     {
+      "id": 165440,
+      "name": "Buka",
+      "name_default": "Buka",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-5.43261000",
+      "longitude": "154.67098000",
+      "timezone": "Pacific/Bougainville",
+      "wikiDataId": "Q2482800",
+      "country_code": "PG",
+      "state_code": "NSB",
+      "state_id": 4831,
+      "country_id": 171
+    },
+    {
       "id": 81033,
       "name": "وسط بوغانفيل",
       "name_default": "Central Bougainville",
@@ -157,7 +175,7 @@
       "name": "جنوب بوغانفيل",
       "name_default": "South Bougainville",
       "native": "South Bougainville",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 60584,

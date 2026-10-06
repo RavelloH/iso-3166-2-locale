@@ -74,6 +74,24 @@
       "country_id": 195
     },
     {
+      "id": 165553,
+      "name": "Fatick",
+      "name_default": "Fatick",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 39361,
+      "latitude": "14.33236000",
+      "longitude": "-16.40513000",
+      "timezone": "Africa/Dakar",
+      "wikiDataId": "Q430470",
+      "country_code": "SN",
+      "state_code": "FK",
+      "state_id": 479,
+      "country_id": 195
+    },
+    {
       "id": 104710,
       "name": "Departamento Fatick",
       "name_default": "Fatick Department",
@@ -110,27 +128,9 @@
       "country_id": 195
     },
     {
-      "id": 104715,
-      "name": "Guinguineo",
-      "name_default": "Guinguinéo",
-      "native": "Guinguinéo",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 20340,
-      "latitude": "14.26667000",
-      "longitude": "-15.95000000",
-      "timezone": "Africa/Dakar",
-      "wikiDataId": "Q3100518",
-      "country_code": "SN",
-      "state_code": "FK",
-      "state_id": 483,
-      "country_id": 195
-    },
-    {
       "id": 104747,
       "name": "Passi",
-      "name_default": "Passi",
+      "name_default": "Passy",
       "native": "Mesures",
       "type": "city",
       "level": null,

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 48537,
+      "name": "Bishopton",
+      "name_default": "Bishopton",
+      "native": "Bishopton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4640,
+      "latitude": "55.90969000",
+      "longitude": "-4.50560000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2098147",
+      "country_code": "GB",
+      "state_code": "RFW",
+      "state_id": 2443,
+      "country_id": 232
+    },
+    {
       "id": 48682,
       "name": "Pont de Weir",
       "name_default": "Bridge of Weir",
@@ -294,7 +312,7 @@
       "name": "Renfrewshire",
       "name_default": "Renfrewshire",
       "native": "Renfrewshire",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 179100,

@@ -94,8 +94,8 @@
     {
       "id": 135901,
       "name": "Bastia gölgesi",
-      "name_default": "Bastia umbra",
-      "native": "Bastia umbra",
+      "name_default": "Bastia Umbra",
+      "native": "Bastia Umbra",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1709,24 +1709,6 @@
       "country_code": "IT",
       "state_code": "PG",
       "state_id": 1691,
-      "country_id": 107
-    },
-    {
-      "id": 61234,
-      "name": "Terontola",
-      "name_default": "Terontola",
-      "native": "Terontola",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1608,
-      "latitude": "43.21009000",
-      "longitude": "12.01113000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q1124819",
-      "country_code": "IT",
-      "state_code": "PG",
-      "state_id": 1761,
       "country_id": 107
     },
     {

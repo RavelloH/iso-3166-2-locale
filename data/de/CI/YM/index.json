@@ -54,5 +54,24 @@
     "wikiDataId": "Q3768",
     "country_code": "CI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 18942,
+      "name": "Yamoussoukro",
+      "name_default": "Yamoussoukro",
+      "native": "Yamoussoukro",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 340234,
+      "latitude": "6.82055000",
+      "longitude": "-5.27674000",
+      "timezone": "Africa/Abidjan",
+      "wikiDataId": "Q3768",
+      "country_code": "CI",
+      "state_code": "YM",
+      "state_id": 2653,
+      "country_id": 54
+    }
+  ]
 }

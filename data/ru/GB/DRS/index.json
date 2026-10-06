@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48354,
-      "name": "Балликелли",
-      "name_default": "Ballykelly",
-      "native": "Ballykelly",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1735,
-      "latitude": "55.04425000",
-      "longitude": "-7.01855000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q575071",
-      "country_code": "GB",
-      "state_code": "DRS",
-      "state_id": 2316,
-      "country_id": 232
-    },
-    {
       "id": 48882,
       "name": "Каслдерг",
       "name_default": "Castlederg",
@@ -132,7 +114,7 @@
       "name": "Дерри-Сити и Страбейн",
       "name_default": "Derry City and Strabane",
       "native": "Derry City and Strabane",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 150679,

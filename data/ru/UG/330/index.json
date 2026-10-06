@@ -54,5 +54,24 @@
     "wikiDataId": "Q3539730",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165678,
+      "name": "Zombo",
+      "name_default": "Zombo",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "2.51355000",
+      "longitude": "30.90909000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6697604",
+      "country_code": "UG",
+      "state_code": "330",
+      "state_id": 379,
+      "country_id": 229
+    }
+  ]
 }

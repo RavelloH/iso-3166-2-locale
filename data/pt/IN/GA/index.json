@@ -164,6 +164,24 @@
       "country_id": 101
     },
     {
+      "id": 131764,
+      "name": "Bicholim",
+      "name_default": "Bicholim",
+      "native": "डिचोली",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 16986,
+      "latitude": "15.59319000",
+      "longitude": "73.94571000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q796819",
+      "country_code": "IN",
+      "state_code": "GA",
+      "state_id": 4009,
+      "country_id": 101
+    },
+    {
       "id": 58165,
       "name": "Calangute",
       "name_default": "Calangute",
@@ -398,24 +416,6 @@
       "country_id": 101
     },
     {
-      "id": 131764,
-      "name": "Dicholi",
-      "name_default": "Dicholi",
-      "native": "डिचोली",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 16986,
-      "latitude": "15.59319000",
-      "longitude": "73.94571000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q796819",
-      "country_code": "IN",
-      "state_code": "GA",
-      "state_id": 4009,
-      "country_id": 101
-    },
-    {
       "id": 131960,
       "name": "Goa Velha",
       "name_default": "Goa Velha",
@@ -508,7 +508,7 @@
     {
       "id": 133086,
       "name": "Mapuca",
-      "name_default": "Mapuca",
+      "name_default": "Mapusa",
       "native": "मापुका",
       "type": "city",
       "level": null,
@@ -852,7 +852,7 @@
       "name": "Goa do Sul",
       "name_default": "South Goa",
       "native": "दक्षिण गोवा",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 640537,
@@ -903,8 +903,8 @@
     },
     {
       "id": 134321,
-      "name": "Valpoy",
-      "name_default": "Valpoy",
+      "name": "Valpoi",
+      "name_default": "Valpoi",
       "native": "वालपोय",
       "type": "city",
       "level": null,

@@ -54,5 +54,24 @@
     "wikiDataId": "Q80021",
     "country_code": "LV"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66891,
+      "name": "دوجافبيلس",
+      "name_default": "Daugavpils",
+      "native": "Daugavpils",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 77799,
+      "latitude": "55.88333000",
+      "longitude": "26.53333000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q80021",
+      "country_code": "LV",
+      "state_code": "DGV",
+      "state_id": 4463,
+      "country_id": 120
+    }
+  ]
 }

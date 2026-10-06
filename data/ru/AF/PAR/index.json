@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164337,
+      "name": "Bagrām",
+      "name_default": "Bagrām",
+      "native": "بگرام",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 113173,
+      "latitude": "34.96694000",
+      "longitude": "69.26500000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q814388",
+      "country_code": "AF",
+      "state_code": "PAR",
+      "state_id": 3895,
+      "country_id": 1
+    },
+    {
       "id": 61,
       "name": "Чарикар",
       "name_default": "Charikar",

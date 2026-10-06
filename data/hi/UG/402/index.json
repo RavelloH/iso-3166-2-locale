@@ -54,5 +54,24 @@
     "wikiDataId": "Q1229797",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165667,
+      "name": "Bushenyi",
+      "name_default": "Bushenyi",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-0.53695000",
+      "longitude": "30.18579000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2463008",
+      "country_code": "UG",
+      "state_code": "402",
+      "state_id": 386,
+      "country_id": 229
+    }
+  ]
 }

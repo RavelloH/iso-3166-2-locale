@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": null,
     "latitude": "48.56016130",
     "longitude": "132.27756620",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Vladivostok",
     "wikiDataId": "Q7730",
     "country_code": "RU"
   },
@@ -441,6 +441,24 @@
       "longitude": "131.99142000",
       "timezone": "Asia/Vladivostok",
       "wikiDataId": "Q1868873",
+      "country_code": "RU",
+      "state_code": "YEV",
+      "state_id": 1835,
+      "country_id": 182
+    },
+    {
+      "id": 165477,
+      "name": "Obluch’ye",
+      "name_default": "Obluch’ye",
+      "native": "Облучье",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "49.01603000",
+      "longitude": "131.05450000",
+      "timezone": "Asia/Vladivostok",
+      "wikiDataId": "Q175617",
       "country_code": "RU",
       "state_code": "YEV",
       "state_id": 1835,

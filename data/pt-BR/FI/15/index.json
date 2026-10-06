@@ -54,5 +54,42 @@
     "wikiDataId": "Q5706",
     "country_code": "FI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164713,
+      "name": "Kuopio",
+      "name_default": "Kuopio",
+      "native": "Kuopio",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 125462,
+      "latitude": "62.89238000",
+      "longitude": "27.67703000",
+      "timezone": "Europe/Helsinki",
+      "wikiDataId": "Q162279",
+      "country_code": "FI",
+      "state_code": "15",
+      "state_id": 1503,
+      "country_id": 74
+    },
+    {
+      "id": 164716,
+      "name": "Varkaus",
+      "name_default": "Varkaus",
+      "native": null,
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 19603,
+      "latitude": "62.31533000",
+      "longitude": "27.87300000",
+      "timezone": "Europe/Helsinki",
+      "wikiDataId": "Q683525",
+      "country_code": "FI",
+      "state_code": "15",
+      "state_id": 1503,
+      "country_id": 74
+    }
+  ]
 }

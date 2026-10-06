@@ -45,7 +45,7 @@
     "name_default": "Sanmatenga",
     "native": "Sanmatenga",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3127",
     "population": null,
     "latitude": "13.24054480",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1142039",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164499,
+      "name": "Pissila",
+      "name_default": "Pissila",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23420,
+      "latitude": "13.16417000",
+      "longitude": "-0.82250000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q1484279",
+      "country_code": "BF",
+      "state_code": "SMT",
+      "state_id": 3126,
+      "country_id": 35
+    }
+  ]
 }

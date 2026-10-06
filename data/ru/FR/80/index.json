@@ -488,24 +488,6 @@
       "country_id": 75
     },
     {
-      "id": 41311,
-      "name": "Крез",
-      "name_default": "Creuse",
-      "native": "Creuse",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 115529,
-      "latitude": "46.07523000",
-      "longitude": "2.05476000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q3353",
-      "country_code": "FR",
-      "state_code": "80",
-      "state_id": 5048,
-      "country_id": 75
-    },
-    {
       "id": 41433,
       "name": "Даргни",
       "name_default": "Dargnies",
@@ -1464,7 +1446,7 @@
       "name": "Сомма",
       "name_default": "Somme",
       "native": "Somme",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 565540,

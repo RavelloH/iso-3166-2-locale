@@ -54,5 +54,24 @@
     "wikiDataId": "Q2089777",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66597,
+      "name": "Électricité",
+      "name_default": "Elektrėnai",
+      "native": "Elektrėnai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11753,
+      "latitude": "54.78544000",
+      "longitude": "24.66302000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q286554",
+      "country_code": "LT",
+      "state_code": "08",
+      "state_id": 1559,
+      "country_id": 126
+    }
+  ]
 }

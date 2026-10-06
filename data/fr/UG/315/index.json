@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318822",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165664,
+      "name": "Amolatar",
+      "name_default": "Amolatar",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.61556000",
+      "longitude": "32.83972000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4747501",
+      "country_code": "UG",
+      "state_code": "315",
+      "state_id": 416,
+      "country_id": 229
+    }
+  ]
 }

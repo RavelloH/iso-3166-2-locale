@@ -54,5 +54,24 @@
     "wikiDataId": "Q1461987",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66612,
+      "name": "Kalvarija",
+      "name_default": "Kalvarija",
+      "native": "Kalvarija",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4025,
+      "latitude": "54.41700000",
+      "longitude": "23.22300000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1004298",
+      "country_code": "LT",
+      "state_code": "14",
+      "state_id": 1591,
+      "country_id": 126
+    }
+  ]
 }

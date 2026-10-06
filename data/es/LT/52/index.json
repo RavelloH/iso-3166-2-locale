@@ -54,5 +54,60 @@
     "wikiDataId": "Q1987743",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66585,
+      "name": "Aukstadvaris",
+      "name_default": "Aukstadvaris",
+      "native": "Šalta",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 861,
+      "latitude": "54.57946000",
+      "longitude": "24.52683000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2667459",
+      "country_code": "LT",
+      "state_code": "52",
+      "state_id": 1593,
+      "country_id": 126
+    },
+    {
+      "id": 66671,
+      "name": "Rūdiškės",
+      "name_default": "Rūdiškės",
+      "native": "Rūdiškės",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1943,
+      "latitude": "54.51609000",
+      "longitude": "24.83084000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q58790",
+      "country_code": "LT",
+      "state_code": "52",
+      "state_id": 1593,
+      "country_id": 126
+    },
+    {
+      "id": 66687,
+      "name": "Trakai",
+      "name_default": "Trakai",
+      "native": "Trakai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5912,
+      "latitude": "54.63783000",
+      "longitude": "24.93433000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q191015",
+      "country_code": "LT",
+      "state_code": "52",
+      "state_id": 1593,
+      "country_id": 126
+    }
+  ]
 }

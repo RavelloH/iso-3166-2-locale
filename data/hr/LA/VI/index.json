@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165163,
+      "name": "Muang Kasi",
+      "name_default": "Muang Kasi",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "19.22926000",
+      "longitude": "102.25319000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q6930706",
+      "country_code": "LA",
+      "state_code": "VI",
+      "state_id": 980,
+      "country_id": 119
+    },
+    {
       "id": 65892,
       "name": "Muang Phôn-Hông",
       "name_default": "Muang Phôn-Hông",
@@ -75,8 +93,8 @@
     },
     {
       "id": 65926,
-      "name": "Vangviang",
-      "name_default": "Vangviang",
+      "name": "Vang Vieng",
+      "name_default": "Vang Vieng",
       "native": "ວັງວຽງ",
       "type": "city",
       "level": null,

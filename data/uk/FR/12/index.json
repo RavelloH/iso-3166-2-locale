@@ -202,7 +202,7 @@
     {
       "id": 41296,
       "name": "Крансак",
-      "name_default": "Cransac",
+      "name_default": "Cransac-les-Thermes",
       "native": "Cransac",
       "type": "city",
       "level": null,
@@ -611,24 +611,6 @@
       "country_code": "FR",
       "state_code": "12",
       "state_id": 4978,
-      "country_id": 75
-    },
-    {
-      "id": 44400,
-      "name": "Муре",
-      "name_default": "Mouret",
-      "native": "Mouret",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 1645,
-      "latitude": "43.36126000",
-      "longitude": "5.43006000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q3233960",
-      "country_code": "FR",
-      "state_code": "12",
-      "state_id": 4979,
       "country_id": 75
     },
     {

@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -149,24 +149,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149670,
-      "name": "Agualeguas Nuevo León",
-      "name_default": "Agualeguas Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "26.31083333",
-      "longitude": "-99.53916667",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 149671,
@@ -241,24 +223,6 @@
       "country_id": 142
     },
     {
-      "id": 149674,
-      "name": "Allende",
-      "name_default": "Allende",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.28333333",
-      "longitude": "-100.01666667",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 149675,
       "name": "Altamira",
       "name_default": "Altamira",
@@ -311,24 +275,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149677,
-      "name": "Apodaca",
-      "name_default": "Apodaca",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.78166667",
-      "longitude": "-100.18861111",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 149678,
@@ -1195,24 +1141,6 @@
       "country_id": 142
     },
     {
-      "id": 149702,
-      "name": "Doctor Coss Nuevo León",
-      "name_default": "Doctor Coss Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.92589722",
-      "longitude": "-99.18437222",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 69696,
       "name": "Doutor González",
       "name_default": "Doctor González",
@@ -1337,24 +1265,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149709,
-      "name": "El Carmen Nuevo León",
-      "name_default": "El Carmen Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.93222778",
-      "longitude": "-100.36412222",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 149710,
@@ -1951,24 +1861,6 @@
       "country_id": 142
     },
     {
-      "id": 149735,
-      "name": "General Escobedo",
-      "name_default": "General Escobedo",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.80833333",
-      "longitude": "-100.32666667",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 149736,
       "name": "General Tapia",
       "name_default": "General Tapia",
@@ -1985,24 +1877,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149737,
-      "name": "General Terán Nuevo León",
-      "name_default": "General Terán Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.26666667",
-      "longitude": "-99.68333333",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 149738,
@@ -2275,42 +2149,6 @@
       "country_id": 142
     },
     {
-      "id": 149747,
-      "name": "Iturbide Nuevo León",
-      "name_default": "Iturbide Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "24.72527778",
-      "longitude": "-99.90000000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
-      "id": 149748,
-      "name": "Jardines de la Silla",
-      "name_default": "Jardines de la Silla",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.62926700",
-      "longitude": "-100.18667790",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 71005,
       "name": "Jardines de la Silla (Jardines de la Silla)",
       "name_default": "Jardines de la Silla (Jardines)",
@@ -2417,24 +2255,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149753,
-      "name": "Juárez Nuevo León",
-      "name_default": "Juárez Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "25.65000000",
-      "longitude": "-100.08333333",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 149755,
@@ -3247,24 +3067,6 @@
       "country_id": 142
     },
     {
-      "id": 149795,
-      "name": "Linares Nuevo León",
-      "name_default": "Linares Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "24.85965278",
-      "longitude": "-99.56786944",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 71740,
       "name": "Loma la Paz",
       "name_default": "Loma la Paz",
@@ -3769,24 +3571,6 @@
       "country_id": 142
     },
     {
-      "id": 149810,
-      "name": "Parás Nuevo León",
-      "name_default": "Parás Nuevo León",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "26.49888889",
-      "longitude": "-99.52250000",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 72657,
       "name": "Parque Industrial Cidade Mitras",
       "name_default": "Parque Industrial Ciudad Mitras",
@@ -4019,24 +3803,6 @@
       "state_code": "NLE",
       "state_id": 3452,
       "country_id": 142
-    },
-    {
-      "id": 149814,
-      "name": "Sabinas Hidalgo",
-      "name_default": "Sabinas Hidalgo",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "26.49833333",
-      "longitude": "-100.18111111",
-      "timezone": "America/Monterrey",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "NLE",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 73215,

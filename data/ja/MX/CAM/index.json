@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -349,24 +349,6 @@
       "country_id": 142
     },
     {
-      "id": 68827,
-      "name": "カルメン",
-      "name_default": "Carmen",
-      "native": "Carmen",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 191238,
-      "latitude": "18.63000000",
-      "longitude": "-91.83000000",
-      "timezone": "America/Merida",
-      "wikiDataId": "Q991435",
-      "country_code": "MX",
-      "state_code": "CAM",
-      "state_id": 3475,
-      "country_id": 142
-    },
-    {
       "id": 68838,
       "name": "カリジョ・プエルト",
       "name_default": "Carrillo Puerto",
@@ -475,22 +457,22 @@
       "country_id": 142
     },
     {
-      "id": 69195,
-      "name": "Ciudad del Carmen",
+      "id": 68827,
+      "name": "カルメン",
       "name_default": "Ciudad del Carmen",
-      "native": null,
-      "type": null,
+      "native": "Carmen",
+      "type": "city",
       "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "18.64592000",
-      "longitude": "-91.82991000",
+      "population": 191238,
+      "latitude": "18.63000000",
+      "longitude": "-91.83000000",
       "timezone": "America/Merida",
-      "wikiDataId": null,
+      "wikiDataId": "Q991435",
       "country_code": "MX",
       "state_code": "CAM",
-      "state_id": null,
-      "country_id": null
+      "state_id": 3475,
+      "country_id": 142
     },
     {
       "id": 69294,
@@ -775,24 +757,6 @@
       "longitude": "-91.49277000",
       "timezone": "America/Merida",
       "wikiDataId": "Q20258362",
-      "country_code": "MX",
-      "state_code": "CAM",
-      "state_id": 3475,
-      "country_id": 142
-    },
-    {
-      "id": 70892,
-      "name": "イトゥルビデ",
-      "name_default": "Iturbide",
-      "native": "Iturbide",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3198,
-      "latitude": "19.57903000",
-      "longitude": "-89.60222000",
-      "timezone": "America/Merida",
-      "wikiDataId": "Q49902689",
       "country_code": "MX",
       "state_code": "CAM",
       "state_id": 3475,
@@ -1351,6 +1315,24 @@
       "longitude": "-89.33529000",
       "timezone": "America/Merida",
       "wikiDataId": "Q49955882",
+      "country_code": "MX",
+      "state_code": "CAM",
+      "state_id": 3475,
+      "country_id": 142
+    },
+    {
+      "id": 70892,
+      "name": "イトゥルビデ",
+      "name_default": "Vicente Guerrero",
+      "native": "Iturbide",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3198,
+      "latitude": "19.57903000",
+      "longitude": "-89.60222000",
+      "timezone": "America/Merida",
+      "wikiDataId": "Q49902689",
       "country_code": "MX",
       "state_code": "CAM",
       "state_id": 3475,

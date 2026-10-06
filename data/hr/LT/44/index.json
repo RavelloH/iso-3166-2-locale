@@ -51,8 +51,27 @@
     "latitude": "55.93408230",
     "longitude": "23.31577750",
     "timezone": "Europe/Vilnius",
-    "wikiDataId": "Q4993831",
+    "wikiDataId": "Q1417346",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66627,
+      "name": "Kuršenai",
+      "name_default": "Kuršėnai",
+      "native": "Kuršėnai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10651,
+      "latitude": "56.00318000",
+      "longitude": "22.93662000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q835856",
+      "country_code": "LT",
+      "state_code": "44",
+      "state_id": 5724,
+      "country_id": 126
+    }
+  ]
 }

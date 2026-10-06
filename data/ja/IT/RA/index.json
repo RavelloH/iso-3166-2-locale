@@ -146,24 +146,6 @@
       "country_id": 107
     },
     {
-      "id": 136381,
-      "name": "ブバーノ",
-      "name_default": "Bubano",
-      "native": "BUBANO",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1450,
-      "latitude": "44.41341000",
-      "longitude": "11.78231000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18438069",
-      "country_code": "IT",
-      "state_code": "RA",
-      "state_id": 5627,
-      "country_id": 107
-    },
-    {
       "id": 137078,
       "name": "カソラ・ヴァルセニオ",
       "name_default": "Casola Valsenio",
@@ -632,6 +614,24 @@
       "country_id": 107
     },
     {
+      "id": 58710,
+      "name": "ピシニャーノ",
+      "name_default": "Pisignano",
+      "native": "Pisignano",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1208,
+      "latitude": "44.23787000",
+      "longitude": "12.26841000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18446170",
+      "country_code": "IT",
+      "state_code": "RA",
+      "state_id": 1707,
+      "country_id": 107
+    },
+    {
       "id": 58927,
       "name": "ポルト・コルシーニ",
       "name_default": "Porto Corsini",
@@ -881,24 +881,6 @@
       "country_code": "IT",
       "state_code": "RA",
       "state_id": 1707,
-      "country_id": 107
-    },
-    {
-      "id": 60798,
-      "name": "セスト・イモレーゼ",
-      "name_default": "Sesto Imolese",
-      "native": "Sesto Imolese",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1513,
-      "latitude": "44.45952000",
-      "longitude": "11.72919000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18438720",
-      "country_code": "IT",
-      "state_code": "RA",
-      "state_id": 5627,
       "country_id": 107
     },
     {

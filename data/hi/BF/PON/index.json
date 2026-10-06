@@ -45,7 +45,7 @@
     "name_default": "Poni",
     "native": "Violet",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3140",
     "population": null,
     "latitude": "10.30859430",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q953657",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164493,
+      "name": "Gaoua",
+      "name_default": "Gaoua",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 45284,
+      "latitude": "10.33137000",
+      "longitude": "-3.18202000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q1011882",
+      "country_code": "BF",
+      "state_code": "PON",
+      "state_id": 3163,
+      "country_id": 35
+    }
+  ]
 }

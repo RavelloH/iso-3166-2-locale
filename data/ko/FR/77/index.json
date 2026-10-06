@@ -1190,6 +1190,24 @@
       "country_id": 75
     },
     {
+      "id": 48054,
+      "name": "에쿠엘레스",
+      "name_default": "Écuelles",
+      "native": "Écuelles",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2815,
+      "latitude": "48.35636000",
+      "longitude": "2.82335000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q274816",
+      "country_code": "FR",
+      "state_code": "77",
+      "state_id": 5045,
+      "country_id": 75
+    },
+    {
       "id": 48059,
       "name": "에그레빌",
       "name_default": "Égreville",
@@ -2054,24 +2072,6 @@
       "country_id": 75
     },
     {
-      "id": 43756,
-      "name": "말레셰르브",
-      "name_default": "Malesherbes",
-      "native": "Malesherbes",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 6335,
-      "latitude": "48.29566000",
-      "longitude": "2.40935000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q838311",
-      "country_code": "FR",
-      "state_code": "77",
-      "state_id": 5013,
-      "country_id": 75
-    },
-    {
       "id": 43827,
       "name": "마뢰이-레-모",
       "name_default": "Mareuil-lès-Meaux",
@@ -2339,24 +2339,6 @@
       "country_code": "FR",
       "state_code": "77",
       "state_id": 5045,
-      "country_id": 75
-    },
-    {
-      "id": 44296,
-      "name": "몽톨리베",
-      "name_default": "Montolivet",
-      "native": "Montolivet",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 12310,
-      "latitude": "43.31715000",
-      "longitude": "5.42350000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q966489",
-      "country_code": "FR",
-      "state_code": "77",
-      "state_id": 4979,
       "country_id": 75
     },
     {

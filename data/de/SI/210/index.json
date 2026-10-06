@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165543,
+      "name": "Jurovski Dol",
+      "name_default": "Jurovski Dol",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "46.60667000",
+      "longitude": "15.78464000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2643657",
+      "country_code": "SI",
+      "state_code": "210",
+      "state_id": 4328,
+      "country_id": 201
+    },
+    {
       "id": 104291,
       "name": "Sveti Jurij ob Ščavnici",
       "name_default": "Sveti Jurij ob Ščavnici",

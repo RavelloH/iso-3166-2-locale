@@ -54,5 +54,24 @@
     "wikiDataId": "Q165536",
     "country_code": "BW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164517,
+      "name": "Kasane",
+      "name_default": "Kasane",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-17.80165000",
+      "longitude": "25.16024000",
+      "timezone": "Africa/Gaborone",
+      "wikiDataId": "Q170715",
+      "country_code": "BW",
+      "state_code": "CH",
+      "state_id": 5710,
+      "country_id": 29
+    }
+  ]
 }

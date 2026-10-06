@@ -722,6 +722,24 @@
       "country_id": 107
     },
     {
+      "id": 140512,
+      "name": "Монтерадо",
+      "name_default": "Monterado",
+      "native": "Monterado",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 525,
+      "latitude": "43.69686000",
+      "longitude": "13.09056000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q124393",
+      "country_code": "IT",
+      "state_code": "AN",
+      "state_id": 1672,
+      "country_id": 107
+    },
+    {
       "id": 140573,
       "name": "Монтіньяно-Марцокка",
       "name_default": "Montignano-Marzocca",
@@ -1259,24 +1277,6 @@
       "country_code": "IT",
       "state_code": "AN",
       "state_id": 1672,
-      "country_id": 107
-    },
-    {
-      "id": 61084,
-      "name": "Страда",
-      "name_default": "Strada",
-      "native": "Strada",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1547,
-      "latitude": "43.40337000",
-      "longitude": "13.22077000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18497912",
-      "country_code": "IT",
-      "state_code": "AN",
-      "state_id": 1750,
       "country_id": 107
     },
     {

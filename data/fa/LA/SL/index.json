@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165160,
+      "name": "Ban Laongam",
+      "name_default": "Ban Laongam",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21304,
+      "latitude": "15.46549000",
+      "longitude": "106.16682000",
+      "timezone": "Asia/Vientiane",
+      "wikiDataId": "Q6487783",
+      "country_code": "LA",
+      "state_code": "SL",
+      "state_id": 981,
+      "country_id": 119
+    },
+    {
       "id": 65875,
       "name": "موانگ خونگخدون",
       "name_default": "Muang Khôngxédôn",

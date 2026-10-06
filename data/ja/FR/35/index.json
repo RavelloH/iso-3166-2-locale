@@ -2216,6 +2216,24 @@
       "country_id": 75
     },
     {
+      "id": 44791,
+      "name": "オセ",
+      "name_default": "Ossé",
+      "native": "Ossé",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1013,
+      "latitude": "48.05542000",
+      "longitude": "-1.45029000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q624139",
+      "country_code": "FR",
+      "state_code": "35",
+      "state_id": 5003,
+      "country_id": 75
+    },
+    {
       "id": 44825,
       "name": "ペース",
       "name_default": "Pacé",
@@ -3154,7 +3172,7 @@
     {
       "id": 46477,
       "name": "サン・ペール",
-      "name_default": "Saint-Père",
+      "name_default": "Saint-Père-Marc-en-Poulet",
       "native": "Saint-Père",
       "type": "city",
       "level": null,

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -333,6 +333,24 @@
       "longitude": "49.94550000",
       "timezone": "Europe/Samara",
       "wikiDataId": "Q3266993",
+      "country_code": "RU",
+      "state_code": "SAM",
+      "state_id": 1862,
+      "country_id": 182
+    },
+    {
+      "id": 165490,
+      "name": "Bol’shaya Chernigovka",
+      "name_default": "Bol’shaya Chernigovka",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.09287000",
+      "longitude": "50.86829000",
+      "timezone": "Europe/Samara",
+      "wikiDataId": "Q13640261",
       "country_code": "RU",
       "state_code": "SAM",
       "state_id": 1862,
@@ -1041,6 +1059,24 @@
       "country_id": 182
     },
     {
+      "id": 165505,
+      "name": "Privolzh’ye",
+      "name_default": "Privolzh’ye",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.85873000",
+      "longitude": "48.59827000",
+      "timezone": "Europe/Samara",
+      "wikiDataId": "Q4377904",
+      "country_code": "RU",
+      "state_code": "SAM",
+      "state_id": 1862,
+      "country_id": 182
+    },
+    {
       "id": 100996,
       "name": "罗辛斯基",
       "name_default": "Roschinskiy",
@@ -1089,6 +1125,24 @@
       "longitude": "50.15000000",
       "timezone": "Europe/Samara",
       "wikiDataId": "Q894",
+      "country_code": "RU",
+      "state_code": "SAM",
+      "state_id": 1862,
+      "country_id": 182
+    },
+    {
+      "id": 165508,
+      "name": "Sergiyevsk",
+      "name_default": "Sergiyevsk",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "53.94310000",
+      "longitude": "51.16853000",
+      "timezone": "Europe/Samara",
+      "wikiDataId": "Q4417053",
       "country_code": "RU",
       "state_code": "SAM",
       "state_id": 1862,

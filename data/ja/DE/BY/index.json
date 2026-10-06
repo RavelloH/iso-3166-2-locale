@@ -18081,6 +18081,24 @@
       "country_id": 82
     },
     {
+      "id": 164611,
+      "name": "Neusäß",
+      "name_default": "Neusäß",
+      "native": "Neusäß",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22904,
+      "latitude": "48.39249000",
+      "longitude": "10.83333000",
+      "timezone": "Europe/Berlin",
+      "wikiDataId": "Q503208",
+      "country_code": "DE",
+      "state_code": "BY",
+      "state_id": 3009,
+      "country_id": 82
+    },
+    {
       "id": 27789,
       "name": "ノイシェーナウ",
       "name_default": "Neuschönau",
@@ -23465,7 +23483,7 @@
     {
       "id": 28821,
       "name": "ザクセン",
-      "name_default": "Sachsen",
+      "name_default": "Sachsen bei Ansbach",
       "native": "Sachsen",
       "type": "city",
       "level": null,

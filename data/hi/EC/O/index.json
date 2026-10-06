@@ -63,6 +63,24 @@
   },
   "cities": [
     {
+      "id": 164619,
+      "name": "Guabo",
+      "name_default": "Guabo",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26635,
+      "latitude": "-3.24401000",
+      "longitude": "-79.82874000",
+      "timezone": "America/Guayaquil",
+      "wikiDataId": "Q5351356",
+      "country_code": "EC",
+      "state_code": "O",
+      "state_id": 2924,
+      "country_id": 64
+    },
+    {
       "id": 31512,
       "name": "हुआक़ुईल्लस",
       "name_default": "Huaquillas",

@@ -36,23 +36,42 @@
     "emojiU": "U+1F1E9 U+1F1FF"
   },
   "state": {
-    "id": 4909,
+    "id": 4913,
     "code": "53",
     "iso2": "53",
     "iso3166_2": "DZ-53",
     "fips_code": null,
-    "name": "贝尼·阿巴斯",
-    "name_default": "Béni Abbès",
-    "native": "بني عباس",
+    "name": "在萨拉赫",
+    "name_default": "In Salah",
+    "native": "في صلاح",
     "type": "province",
     "level": null,
     "parent_id": null,
-    "population": 11416,
-    "latitude": "30.10892100",
-    "longitude": "-2.46225480",
+    "population": 32518,
+    "latitude": "27.19503310",
+    "longitude": "2.48261320",
     "timezone": "Africa/Algiers",
-    "wikiDataId": "Q21606902",
+    "wikiDataId": "Q76593022",
     "country_code": "DZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31356,
+      "name": "因萨拉赫",
+      "name_default": "In Salah",
+      "native": "إن صلاح",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "27.19351000",
+      "longitude": "2.46069000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q32061388",
+      "country_code": "DZ",
+      "state_code": "53",
+      "state_id": 4913,
+      "country_id": 4
+    }
+  ]
 }

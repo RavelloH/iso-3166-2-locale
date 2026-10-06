@@ -26,8 +26,8 @@
         "zoneName": "Africa/Khartoum",
         "gmtOffset": 7200,
         "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EAT",
-        "tzName": "Eastern African Time"
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "15.00000000",
@@ -55,6 +55,24 @@
     "country_code": "SD"
   },
   "cities": [
+    {
+      "id": 102944,
+      "name": "Ad-Damir",
+      "name_default": "Ad-Damir",
+      "native": "إد دامر",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 103941,
+      "latitude": "17.59898000",
+      "longitude": "33.97205000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q311312",
+      "country_code": "SD",
+      "state_code": "NR",
+      "state_id": 891,
+      "country_id": 209
+    },
     {
       "id": 102938,
       "name": "Atbara",
@@ -86,24 +104,6 @@
       "longitude": "33.98299000",
       "timezone": "Africa/Khartoum",
       "wikiDataId": "Q375935",
-      "country_code": "SD",
-      "state_code": "NR",
-      "state_id": 891,
-      "country_id": 209
-    },
-    {
-      "id": 102944,
-      "name": "Ed Damer",
-      "name_default": "Ed Damer",
-      "native": "إد دامر",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 103941,
-      "latitude": "17.59898000",
-      "longitude": "33.97205000",
-      "timezone": "Africa/Khartoum",
-      "wikiDataId": "Q311312",
       "country_code": "SD",
       "state_code": "NR",
       "state_id": 891,

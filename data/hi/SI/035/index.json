@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165540,
+      "name": "Hrpelje",
+      "name_default": "Hrpelje",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "45.60722000",
+      "longitude": "13.94278000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q556358",
+      "country_code": "SI",
+      "state_code": "035",
+      "state_id": 4321,
+      "country_id": 201
+    },
+    {
       "id": 104147,
       "name": "कोज़िना",
       "name_default": "Kozina",

@@ -51,7 +51,7 @@
     "latitude": "-12.04640000",
     "longitude": "-77.04280000",
     "timezone": "America/Lima",
-    "wikiDataId": "Q2868",
+    "wikiDataId": "Q579240",
     "country_code": "PE"
   },
   "cities": [
@@ -104,6 +104,24 @@
       "longitude": "-76.93510000",
       "timezone": "America/Lima",
       "wikiDataId": "Q1016388",
+      "country_code": "PE",
+      "state_code": "LMA",
+      "state_id": 5687,
+      "country_id": 173
+    },
+    {
+      "id": 80701,
+      "name": "Лима",
+      "name_default": "Lima",
+      "native": "Lima",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 7737002,
+      "latitude": "-12.04318000",
+      "longitude": "-77.02824000",
+      "timezone": "America/Lima",
+      "wikiDataId": "Q2868",
       "country_code": "PE",
       "state_code": "LMA",
       "state_id": 5687,

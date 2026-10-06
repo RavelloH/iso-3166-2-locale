@@ -544,8 +544,8 @@
     {
       "id": 137407,
       "name": "カヴァリオ・ダゴーニャ",
-      "name_default": "Cavaglio D'Agogna",
-      "native": "Cavaglio D'Agogna",
+      "name_default": "Cavaglio d'Agogna",
+      "native": "Cavaglio d'Agogna",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -935,24 +935,6 @@
       "country_code": "IT",
       "state_code": "NO",
       "state_id": 1774,
-      "country_id": 107
-    },
-    {
-      "id": 139536,
-      "name": "リサンザ",
-      "name_default": "Lisanza",
-      "native": "Lisanza",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1068,
-      "latitude": "45.73926000",
-      "longitude": "8.59852000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q3833372",
-      "country_code": "IT",
-      "state_code": "NO",
-      "state_id": 1765,
       "country_id": 107
     },
     {

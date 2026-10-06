@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164735,
+      "name": "Chokhatauri",
+      "name_default": "Chokhatauri",
+      "native": "ჩოხატაური",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "42.01896000",
+      "longitude": "42.23945000",
+      "timezone": "Asia/Tbilisi",
+      "wikiDataId": "Q2304503",
+      "country_code": "GE",
+      "state_code": "GU",
+      "state_id": 907,
+      "country_id": 81
+    },
+    {
       "id": 52091,
       "name": "ランチクティ",
       "name_default": "Lanchkhuti",

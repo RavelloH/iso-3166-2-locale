@@ -1100,6 +1100,24 @@
       "country_id": 75
     },
     {
+      "id": 44066,
+      "name": "Мезель",
+      "name_default": "Mezel",
+      "native": "Mezel",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1560,
+      "latitude": "45.75508000",
+      "longitude": "3.24225000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q608101",
+      "country_code": "FR",
+      "state_code": "63",
+      "state_id": 5031,
+      "country_id": 75
+    },
+    {
       "id": 44095,
       "name": "Мірфлерс",
       "name_default": "Mirefleurs",
@@ -1676,24 +1694,6 @@
       "country_id": 75
     },
     {
-      "id": 46392,
-      "name": "Сен-Парду",
-      "name_default": "Saint-Pardoux",
-      "native": "Saint-Pardoux",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1337,
-      "latitude": "46.57155000",
-      "longitude": "-0.30542000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q948006",
-      "country_code": "FR",
-      "state_code": "63",
-      "state_id": 5047,
-      "country_id": 75
-    },
-    {
       "id": 46516,
       "name": "Сен-Ремі-сюр-Дюроль",
       "name_default": "Saint-Rémy-sur-Durolle",
@@ -1781,24 +1781,6 @@
       "country_code": "FR",
       "state_code": "63",
       "state_id": 5031,
-      "country_id": 75
-    },
-    {
-      "id": 47228,
-      "name": "Тьєр",
-      "name_default": "Thiers",
-      "native": "Thiers",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 5314,
-      "latitude": "43.29748000",
-      "longitude": "5.38198000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q2420951",
-      "country_code": "FR",
-      "state_code": "63",
-      "state_id": 4979,
       "country_id": 75
     },
     {

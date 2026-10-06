@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -243,6 +243,24 @@
       "longitude": "44.22000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q4071009",
+      "country_code": "RU",
+      "state_code": "KL",
+      "state_id": 1883,
+      "country_id": 182
+    },
+    {
+      "id": 165492,
+      "name": "Bol’shoy Tsaryn",
+      "name_default": "Bol’shoy Tsaryn",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.84982000",
+      "longitude": "45.42722000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4092934",
       "country_code": "RU",
       "state_code": "KL",
       "state_id": 1883,
@@ -357,6 +375,24 @@
       "country_id": 182
     },
     {
+      "id": 101516,
+      "name": "سوفيتسكوي",
+      "name_default": "Ketchenery",
+      "native": "Советское",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2816,
+      "latitude": "47.30868000",
+      "longitude": "44.52162000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q37957269",
+      "country_code": "RU",
+      "state_code": "KL",
+      "state_id": 1883,
+      "country_id": 182
+    },
+    {
       "id": 99174,
       "name": "كومسومولسكي",
       "name_default": "Komsomol’skiy",
@@ -447,24 +483,6 @@
       "country_id": 182
     },
     {
-      "id": 101516,
-      "name": "سوفيتسكوي",
-      "name_default": "Sovetskoye",
-      "native": "Советское",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2816,
-      "latitude": "47.30868000",
-      "longitude": "44.52162000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q37957269",
-      "country_code": "RU",
-      "state_code": "KL",
-      "state_id": 1883,
-      "country_id": 182
-    },
-    {
       "id": 101921,
       "name": "ترويتسكوي",
       "name_default": "Troitskoye",
@@ -523,7 +541,7 @@
       "name": "ياشالتينسكي رايون",
       "name_default": "Yashaltinskiy Rayon",
       "native": "Яшалтинский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,

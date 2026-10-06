@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -447,6 +447,24 @@
       "country_id": 182
     },
     {
+      "id": 165496,
+      "name": "Fokino",
+      "name_default": "Fokino",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "53.45472000",
+      "longitude": "34.41345000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q197382",
+      "country_code": "RU",
+      "state_code": "BRY",
+      "state_id": 1867,
+      "country_id": 182
+    },
+    {
       "id": 98498,
       "name": "Glinishchevo",
       "name_default": "Glinishchevo",
@@ -667,7 +685,7 @@
       "name": "Klintsovskiy Rayonu",
       "name_default": "Klintsovskiy Rayon",
       "native": "Клинцовский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -1063,7 +1081,7 @@
       "name": "Pochepskiy Rayonu",
       "name_default": "Pochepskiy Rayon",
       "native": "Почепский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -1477,7 +1495,7 @@
       "name": "Trubchevskiy Rayonu",
       "name_default": "Trubchevskiy Rayon",
       "native": "Трубчевский район",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -1549,7 +1567,7 @@
       "name": "Vygonichskiy Rayonu",
       "name_default": "Vygonichskiy Rayon",
       "native": "Выгоничский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,

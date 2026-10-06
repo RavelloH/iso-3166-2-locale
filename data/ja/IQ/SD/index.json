@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165094,
+      "name": "Ad Dawr",
+      "name_default": "Ad Dawr",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "34.45597000",
+      "longitude": "43.79341000",
+      "timezone": "Asia/Baghdad",
+      "wikiDataId": "Q1029552",
+      "country_code": "IQ",
+      "state_code": "SD",
+      "state_id": 3961,
+      "country_id": 104
+    },
+    {
       "id": 134475,
       "name": "アド・デュジャイル",
       "name_default": "Ad Dujayl",

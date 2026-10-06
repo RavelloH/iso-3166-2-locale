@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -200,24 +200,6 @@
       "longitude": "69.82709000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q2509316",
-      "country_code": "KZ",
-      "state_code": "61",
-      "state_id": 149,
-      "country_id": 112
-    },
-    {
-      "id": 65659,
-      "name": "チャルダラ",
-      "name_default": "Chardara",
-      "native": "Чардара",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "41.25832000",
-      "longitude": "67.96991000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q1047741",
       "country_code": "KZ",
       "state_code": "61",
       "state_id": 149,
@@ -458,6 +440,24 @@
       "country_id": 112
     },
     {
+      "id": 65659,
+      "name": "チャルダラ",
+      "name_default": "Shardara",
+      "native": "Чардара",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "41.25832000",
+      "longitude": "67.96991000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1047741",
+      "country_code": "KZ",
+      "state_code": "61",
+      "state_id": 149,
+      "country_id": 112
+    },
+    {
       "id": 65795,
       "name": "ソザク・アウダニー",
       "name_default": "Sozaq Aūdany",
@@ -514,7 +514,7 @@
     {
       "id": 65819,
       "name": "トルキスタン",
-      "name_default": "Turkestan",
+      "name_default": "Turkistan",
       "native": "Түркістан",
       "type": "adm1",
       "level": null,
@@ -560,6 +560,24 @@
       "longitude": "70.47841000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q1881641",
+      "country_code": "KZ",
+      "state_code": "61",
+      "state_id": 149,
+      "country_id": 112
+    },
+    {
+      "id": 165150,
+      "name": "Zhetysay",
+      "name_default": "Zhetysay",
+      "native": "Жетісай",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 36494,
+      "latitude": "40.77631000",
+      "longitude": "68.32774000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q2378055",
       "country_code": "KZ",
       "state_code": "61",
       "state_id": 149,

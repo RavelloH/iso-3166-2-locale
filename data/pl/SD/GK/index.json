@@ -26,8 +26,8 @@
         "zoneName": "Africa/Khartoum",
         "gmtOffset": 7200,
         "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EAT",
-        "tzName": "Eastern African Time"
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "15.00000000",
@@ -122,6 +122,24 @@
       "longitude": "28.43333000",
       "timezone": "Africa/Khartoum",
       "wikiDataId": "Q287343",
+      "country_code": "SD",
+      "state_code": "GK",
+      "state_id": 889,
+      "country_id": 209
+    },
+    {
+      "id": 165529,
+      "name": "Babanūsah",
+      "name_default": "Babanūsah",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 32759,
+      "latitude": "11.33333000",
+      "longitude": "27.80000000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q4116057",
       "country_code": "SD",
       "state_code": "GK",
       "state_id": 889,

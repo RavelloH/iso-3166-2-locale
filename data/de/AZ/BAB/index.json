@@ -46,7 +46,7 @@
     "native": "Babek",
     "type": "district",
     "level": null,
-    "parent_id": null,
+    "parent_id": "562",
     "population": null,
     "latitude": "39.15076130",
     "longitude": "45.44853680",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q643895",
     "country_code": "AZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164470,
+      "name": "Nehram",
+      "name_default": "Nehram",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "39.11597000",
+      "longitude": "45.46168000",
+      "timezone": "Asia/Baku",
+      "wikiDataId": "Q4620212",
+      "country_code": "AZ",
+      "state_code": "BAB",
+      "state_id": 575,
+      "country_id": 16
+    }
+  ]
 }

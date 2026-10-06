@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164739,
+      "name": "Jirapa",
+      "name_default": "Jirapa",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 91279,
+      "latitude": "10.53689000",
+      "longitude": "-2.70155000",
+      "timezone": "Africa/Accra",
+      "wikiDataId": "Q6202983",
+      "country_code": "GH",
+      "state_code": "UW",
+      "state_id": 57,
+      "country_id": 83
+    },
+    {
       "id": 52213,
       "name": "Washington",
       "name_default": "Wa",

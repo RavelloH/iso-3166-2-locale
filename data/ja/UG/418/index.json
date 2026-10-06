@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318887",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165647,
+      "name": "Isingiro",
+      "name_default": "Isingiro",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 34300,
+      "latitude": "-0.86864000",
+      "longitude": "30.83019000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6081116",
+      "country_code": "UG",
+      "state_code": "418",
+      "state_id": 383,
+      "country_id": 229
+    }
+  ]
 }

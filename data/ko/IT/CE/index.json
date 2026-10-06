@@ -200,6 +200,24 @@
       "country_id": 107
     },
     {
+      "id": 136071,
+      "name": "비비오 모르톨라",
+      "name_default": "Bivio Mortola",
+      "native": "Bivio Mortola",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 567,
+      "latitude": "41.39557000",
+      "longitude": "13.89663000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18436450",
+      "country_code": "IT",
+      "state_code": "CE",
+      "state_id": 1731,
+      "country_id": 107
+    },
+    {
       "id": 136322,
       "name": "브레자",
       "name_default": "Brezza",
@@ -1714,8 +1732,8 @@
     {
       "id": 59908,
       "name": "산 펠리체 아 칸셀로",
-      "name_default": "San Felice A Cancello",
-      "native": "San Felice A Cancello",
+      "name_default": "San Felice a Cancello",
+      "native": "San Felice a Cancello",
       "type": "adm3",
       "level": null,
       "parent_id": null,

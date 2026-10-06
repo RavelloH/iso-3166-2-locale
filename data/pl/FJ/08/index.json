@@ -45,7 +45,7 @@
     "name_default": "Nadroga-Navosa",
     "native": "Grahoga-navos",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "1923",
     "population": 58931,
     "latitude": "-17.98652780",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q952528",
     "country_code": "FJ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164719,
+      "name": "Sigatoka",
+      "name_default": "Sigatoka",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-18.14307000",
+      "longitude": "177.50691000",
+      "timezone": "Pacific/Fiji",
+      "wikiDataId": "Q26720",
+      "country_code": "FJ",
+      "state_code": "08",
+      "state_id": 1919,
+      "country_id": 73
+    }
+  ]
 }

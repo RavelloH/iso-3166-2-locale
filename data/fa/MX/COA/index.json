@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -199,6 +199,24 @@
       "longitude": "-103.19472000",
       "timezone": "America/Monterrey",
       "wikiDataId": "Q20134196",
+      "country_code": "MX",
+      "state_code": "COA",
+      "state_id": 3471,
+      "country_id": 142
+    },
+    {
+      "id": 165242,
+      "name": "Allende",
+      "name_default": "Allende",
+      "native": "Allende",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 20694,
+      "latitude": "28.34124000",
+      "longitude": "-100.85111000",
+      "timezone": "America/Matamoros",
+      "wikiDataId": "Q2448272",
       "country_code": "MX",
       "state_code": "COA",
       "state_id": 3471,
@@ -619,6 +637,24 @@
       "country_id": 142
     },
     {
+      "id": 165253,
+      "name": "Escobedo",
+      "name_default": "Escobedo",
+      "native": "Escobedo",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "27.23372000",
+      "longitude": "-101.41314000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q5272866",
+      "country_code": "MX",
+      "state_code": "COA",
+      "state_id": 3471,
+      "country_id": 142
+    },
+    {
       "id": 70321,
       "name": "اسکوادرون دوسینتوس اونو",
       "name_default": "Escuadrón Doscientos Uno",
@@ -814,24 +850,6 @@
       "country_code": "MX",
       "state_code": "COA",
       "state_id": 3471,
-      "country_id": 142
-    },
-    {
-      "id": 70802,
-      "name": "هویترون",
-      "name_default": "Huitrón",
-      "native": "Huitrón",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1511,
-      "latitude": "25.85748000",
-      "longitude": "-103.34825000",
-      "timezone": "America/Monterrey",
-      "wikiDataId": "Q49950102",
-      "country_code": "MX",
-      "state_code": "COA",
-      "state_id": 3453,
       "country_id": 142
     },
     {
@@ -1215,7 +1233,7 @@
     {
       "id": 72035,
       "name": "مایران",
-      "name_default": "Mayran",
+      "name_default": "Mayrán",
       "native": "Mayran",
       "type": "city",
       "level": null,
@@ -1261,6 +1279,24 @@
       "longitude": "-101.42056000",
       "timezone": "America/Monterrey",
       "wikiDataId": "Q990007",
+      "country_code": "MX",
+      "state_code": "COA",
+      "state_id": 3471,
+      "country_id": 142
+    },
+    {
+      "id": 165246,
+      "name": "Morelos",
+      "name_default": "Morelos",
+      "native": "Morelos",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "28.40676000",
+      "longitude": "-100.88854000",
+      "timezone": "America/Matamoros",
+      "wikiDataId": "Q10794737",
       "country_code": "MX",
       "state_code": "COA",
       "state_id": 3471,
@@ -1377,7 +1413,7 @@
     {
       "id": 72581,
       "name": "پالائو",
-      "name_default": "Palau",
+      "name_default": "Palaú",
       "native": "Palau",
       "type": "city",
       "level": null,

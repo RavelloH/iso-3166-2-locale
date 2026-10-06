@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,60 @@
     "wikiDataId": "Q491138",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165569,
+      "name": "Gogrial",
+      "name_default": "Gogrial",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 44600,
+      "latitude": "8.53324000",
+      "longitude": "28.10037000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1534350",
+      "country_code": "SS",
+      "state_code": "WR",
+      "state_id": 2087,
+      "country_id": 206
+    },
+    {
+      "id": 165567,
+      "name": "Kuacjok",
+      "name_default": "Kuacjok",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 78000,
+      "latitude": "8.30278000",
+      "longitude": "27.98000000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1010287",
+      "country_code": "SS",
+      "state_code": "WR",
+      "state_id": 2087,
+      "country_id": 206
+    },
+    {
+      "id": 165574,
+      "name": "Tonj",
+      "name_default": "Tonj",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "7.27389000",
+      "longitude": "28.67750000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1371016",
+      "country_code": "SS",
+      "state_code": "WR",
+      "state_id": 2087,
+      "country_id": 206
+    }
+  ]
 }

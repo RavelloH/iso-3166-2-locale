@@ -198,6 +198,24 @@
       "state_code": "62",
       "state_id": 2192,
       "country_id": 225
+    },
+    {
+      "id": 165615,
+      "name": "Tunceli",
+      "name_default": "Tunceli",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 35161,
+      "latitude": "39.09921000",
+      "longitude": "39.54351000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q202195",
+      "country_code": "TR",
+      "state_code": "62",
+      "state_id": 2192,
+      "country_id": 225
     }
   ]
 }

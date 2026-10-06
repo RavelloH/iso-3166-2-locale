@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164749,
+      "name": "Bimbila",
+      "name_default": "Bimbila",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 34262,
+      "latitude": "8.85488000",
+      "longitude": "0.05922000",
+      "timezone": "Africa/Accra",
+      "wikiDataId": "Q4913712",
+      "country_code": "GH",
+      "state_code": "NP",
+      "state_id": 51,
+      "country_id": 83
+    },
+    {
       "id": 52186,
       "name": "كبانداي",
       "name_default": "Kpandae",

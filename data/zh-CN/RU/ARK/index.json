@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -243,6 +243,24 @@
       "longitude": "40.54330000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1851",
+      "country_code": "RU",
+      "state_code": "ARK",
+      "state_id": 1849,
+      "country_id": 182
+    },
+    {
+      "id": 165481,
+      "name": "Belush’ya Guba",
+      "name_default": "Belush’ya Guba",
+      "native": "Белушья Губа",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "71.54048000",
+      "longitude": "52.33338000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q26324",
       "country_code": "RU",
       "state_code": "ARK",
       "state_id": 1849,
@@ -873,6 +891,24 @@
       "longitude": "39.89845000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q200984",
+      "country_code": "RU",
+      "state_code": "ARK",
+      "state_id": 1849,
+      "country_id": 182
+    },
+    {
+      "id": 165475,
+      "name": "Oktyabr’skiy",
+      "name_default": "Oktyabr’skiy",
+      "native": "Октябрьский",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "61.08934000",
+      "longitude": "43.17177000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q25745",
       "country_code": "RU",
       "state_code": "ARK",
       "state_id": 1849,

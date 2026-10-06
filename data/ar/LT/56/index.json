@@ -54,5 +54,42 @@
     "wikiDataId": "Q2021318",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66628,
+      "name": "كيبارتاي",
+      "name_default": "Kybartai",
+      "native": "Kybartai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5631,
+      "latitude": "54.63858000",
+      "longitude": "22.76316000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1004295",
+      "country_code": "LT",
+      "state_code": "56",
+      "state_id": 1620,
+      "country_id": 126
+    },
+    {
+      "id": 66705,
+      "name": "فيرباليس",
+      "name_default": "Virbalis",
+      "native": "Virbalis",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 870,
+      "latitude": "54.62858000",
+      "longitude": "22.82272000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1024673",
+      "country_code": "LT",
+      "state_code": "56",
+      "state_id": 1620,
+      "country_id": 126
+    }
+  ]
 }

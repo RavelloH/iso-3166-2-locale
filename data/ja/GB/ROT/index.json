@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48589,
-      "name": "ボルトン・アポン・ディアーン",
-      "name_default": "Bolton upon Dearne",
-      "native": "Bolton upon Dearne",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13236,
-      "latitude": "53.51667000",
-      "longitude": "-1.31667000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q4940256",
-      "country_code": "GB",
-      "state_code": "ROT",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
       "id": 48889,
       "name": "キャットクリフ",
       "name_default": "Catcliffe",
@@ -89,24 +71,6 @@
       "country_code": "GB",
       "state_code": "ROT",
       "state_id": 2308,
-      "country_id": 232
-    },
-    {
-      "id": 48918,
-      "name": "チャペルタウン",
-      "name_default": "Chapeltown",
-      "native": "Chapeltown",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 23056,
-      "latitude": "53.46506000",
-      "longitude": "-1.47217000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q3666269",
-      "country_code": "GB",
-      "state_code": "ROT",
-      "state_id": 2295,
       "country_id": 232
     },
     {
@@ -197,24 +161,6 @@
       "country_code": "GB",
       "state_code": "ROT",
       "state_id": 2308,
-      "country_id": 232
-    },
-    {
-      "id": 50563,
-      "name": "メクスボロー",
-      "name_default": "Mexborough",
-      "native": "Mexborough",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15079,
-      "latitude": "53.49389000",
-      "longitude": "-1.29243000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q284348",
-      "country_code": "GB",
-      "state_code": "ROT",
-      "state_id": 2364,
       "country_id": 232
     },
     {
@@ -341,24 +287,6 @@
       "country_code": "GB",
       "state_code": "ROT",
       "state_id": 2308,
-      "country_id": 232
-    },
-    {
-      "id": 51885,
-      "name": "ウィットウェル",
-      "name_default": "Whitwell",
-      "native": "Whitwell",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3846,
-      "latitude": "53.28333000",
-      "longitude": "-1.21667000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2137106",
-      "country_code": "GB",
-      "state_code": "ROT",
-      "state_id": 2403,
       "country_id": 232
     },
     {

@@ -362,24 +362,6 @@
       "country_id": 75
     },
     {
-      "id": 40109,
-      "name": "بون سيكور",
-      "name_default": "Bon-Secours",
-      "native": "Bon-Secours",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 11318,
-      "latitude": "43.31923000",
-      "longitude": "5.38426000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q2909806",
-      "country_code": "FR",
-      "state_code": "76",
-      "state_id": 4979,
-      "country_id": 75
-    },
-    {
       "id": 40134,
       "name": "صيحات الاستهجان",
       "name_default": "Boos",
@@ -2038,7 +2020,7 @@
     {
       "id": 44728,
       "name": "أويسل",
-      "name_default": "Oissel",
+      "name_default": "Oissel-sur-Seine",
       "native": "Oissel",
       "type": "city",
       "level": null,

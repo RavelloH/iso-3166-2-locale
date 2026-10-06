@@ -54,5 +54,24 @@
     "wikiDataId": "Q3539151",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165671,
+      "name": "Kole",
+      "name_default": "Kole",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "2.40015000",
+      "longitude": "32.80034000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6427154",
+      "country_code": "UG",
+      "state_code": "325",
+      "state_id": 401,
+      "country_id": 229
+    }
+  ]
 }

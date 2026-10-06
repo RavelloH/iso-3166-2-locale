@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -217,6 +217,24 @@
       "longitude": "-99.16204000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q984797",
+      "country_code": "MX",
+      "state_code": "CMX",
+      "state_id": 3473,
+      "country_id": 142
+    },
+    {
+      "id": 69322,
+      "name": "Kolonia Lindavista",
+      "name_default": "Colonia Lindavista",
+      "native": "Colonia Lindavista",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 100000,
+      "latitude": "19.49156000",
+      "longitude": "-99.12475000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q20276409",
       "country_code": "MX",
       "state_code": "CMX",
       "state_id": 3473,

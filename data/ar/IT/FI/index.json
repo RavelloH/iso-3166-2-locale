@@ -51,7 +51,7 @@
     "latitude": "43.76923100",
     "longitude": "11.25588400",
     "timezone": "Europe/Rome",
-    "wikiDataId": "Q18288162",
+    "wikiDataId": "Q18288148",
     "country_code": "IT"
   },
   "cities": [
@@ -866,6 +866,24 @@
       "country_id": 107
     },
     {
+      "id": 58286,
+      "name": "بانزانو في شيانتي",
+      "name_default": "Panzano in Chianti",
+      "native": "Panzano in Chianti",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1161,
+      "latitude": "43.54422000",
+      "longitude": "11.31438000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q3893502",
+      "country_code": "IT",
+      "state_code": "FI",
+      "state_id": 5630,
+      "country_id": 107
+    },
+    {
       "id": 58390,
       "name": "بيلاجو",
       "name_default": "Pelago",
@@ -1184,6 +1202,24 @@
       "longitude": "11.12499000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q18487359",
+      "country_code": "IT",
+      "state_code": "FI",
+      "state_id": 5630,
+      "country_id": 107
+    },
+    {
+      "id": 60166,
+      "name": "سان بيرينو",
+      "name_default": "San Pierino",
+      "native": "San Pierino",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1881,
+      "latitude": "43.71423000",
+      "longitude": "10.81374000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q18487365",
       "country_code": "IT",
       "state_code": "FI",
       "state_id": 5630,

@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -55,6 +55,24 @@
     "country_code": "SS"
   },
   "cities": [
+    {
+      "id": 165571,
+      "name": "Rumbek",
+      "name_default": "Rumbek",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 32083,
+      "latitude": "6.80619000",
+      "longitude": "29.67742000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q607336",
+      "country_code": "SS",
+      "state_code": "LK",
+      "state_id": 2090,
+      "country_id": 206
+    },
     {
       "id": 104834,
       "name": "이롤",

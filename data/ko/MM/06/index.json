@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165212,
+      "name": "Hlegu",
+      "name_default": "Hlegu",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 38757,
+      "latitude": "17.09567000",
+      "longitude": "96.22056000",
+      "timezone": "Asia/Yangon",
+      "wikiDataId": "Q1621427",
+      "country_code": "MM",
+      "state_code": "06",
+      "state_id": 2135,
+      "country_id": 151
+    },
+    {
       "id": 67641,
       "name": "칸베",
       "name_default": "Kanbe",

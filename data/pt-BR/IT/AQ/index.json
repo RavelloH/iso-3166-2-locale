@@ -1460,24 +1460,6 @@
       "country_id": 107
     },
     {
-      "id": 58900,
-      "name": "Popoli",
-      "name_default": "Popoli",
-      "native": "Popoli",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 5394,
-      "latitude": "42.16866000",
-      "longitude": "13.82997000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "AQ",
-      "state_id": 1694,
-      "country_id": 107
-    },
-    {
       "id": 59015,
       "name": "Prata d'Ansidonia",
       "name_default": "Prata d'Ansidonia",
@@ -1804,8 +1786,8 @@
     {
       "id": 59892,
       "name": "São Demétrio Ne' Vestini",
-      "name_default": "San Demetrio Ne' Vestini",
-      "native": "San Demetrio Ne' Vestini",
+      "name_default": "San Demetrio ne' Vestini",
+      "native": "San Demetrio ne' Vestini",
       "type": "adm3",
       "level": null,
       "parent_id": null,

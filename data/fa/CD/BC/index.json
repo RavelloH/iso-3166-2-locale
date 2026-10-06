@@ -58,7 +58,7 @@
     "latitude": "-5.17784830",
     "longitude": "14.39099350",
     "timezone": "Africa/Kinshasa",
-    "wikiDataId": "Q130588",
+    "wikiDataId": "Q1043494",
     "country_code": "CD"
   },
   "cities": [
@@ -93,6 +93,24 @@
       "longitude": "15.16554000",
       "timezone": "Africa/Kinshasa",
       "wikiDataId": "Q3193663",
+      "country_code": "CD",
+      "state_code": "BC",
+      "state_id": 2746,
+      "country_id": 51
+    },
+    {
+      "id": 164538,
+      "name": "Kimpese",
+      "name_default": "Kimpese",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 79539,
+      "latitude": "-5.56150000",
+      "longitude": "14.43159000",
+      "timezone": "Africa/Kinshasa",
+      "wikiDataId": "Q2589060",
       "country_code": "CD",
       "state_code": "BC",
       "state_id": 2746,

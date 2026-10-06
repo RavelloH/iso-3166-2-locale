@@ -54,5 +54,24 @@
     "wikiDataId": "Q1396210",
     "country_code": "GN"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164773,
+      "name": "Faranah",
+      "name_default": "Faranah",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 70181,
+      "latitude": "10.04036000",
+      "longitude": "-10.74343000",
+      "timezone": "Africa/Conakry",
+      "wikiDataId": "Q597843",
+      "country_code": "GN",
+      "state_code": "FA",
+      "state_id": 2682,
+      "country_id": 92
+    }
+  ]
 }

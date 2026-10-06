@@ -51,8 +51,27 @@
     "latitude": "55.70329430",
     "longitude": "21.14427950",
     "timezone": "Europe/Vilnius",
-    "wikiDataId": "Q928918",
+    "wikiDataId": "Q16456513",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66620,
+      "name": "Klaipeda",
+      "name_default": "Klaipėda",
+      "native": "Klaipėda",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 158420,
+      "latitude": "55.71667000",
+      "longitude": "21.11667000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q776965",
+      "country_code": "LT",
+      "state_code": "20",
+      "state_id": 5720,
+      "country_id": 126
+    }
+  ]
 }

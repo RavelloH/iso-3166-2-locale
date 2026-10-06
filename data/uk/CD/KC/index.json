@@ -57,9 +57,28 @@
     "population": null,
     "latitude": "-5.90468960",
     "longitude": "21.43344170",
-    "timezone": "Africa/Kinshasa",
+    "timezone": "Africa/Lubumbashi",
     "wikiDataId": "Q6702952",
     "country_code": "CD"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164529,
+      "name": "Kananga",
+      "name_default": "Kananga",
+      "native": "Kananga",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1271704,
+      "latitude": "-5.89624000",
+      "longitude": "22.41659000",
+      "timezone": "Africa/Lubumbashi",
+      "wikiDataId": "Q205327",
+      "country_code": "CD",
+      "state_code": "KC",
+      "state_id": 2742,
+      "country_id": 51
+    }
+  ]
 }

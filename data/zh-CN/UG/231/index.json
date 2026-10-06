@@ -54,5 +54,24 @@
     "wikiDataId": "Q1114903",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165661,
+      "name": "Ngora",
+      "name_default": "Ngora",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.43139000",
+      "longitude": "33.77722000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6693037",
+      "country_code": "UG",
+      "state_code": "231",
+      "state_id": 424,
+      "country_id": 229
+    }
+  ]
 }

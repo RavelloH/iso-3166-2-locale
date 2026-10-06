@@ -54,5 +54,24 @@
     "wikiDataId": "Q3539277",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165673,
+      "name": "Lamwo",
+      "name_default": "Lamwo",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "3.52972000",
+      "longitude": "32.80160000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6482752",
+      "country_code": "UG",
+      "state_code": "326",
+      "state_id": 411,
+      "country_id": 229
+    }
+  ]
 }

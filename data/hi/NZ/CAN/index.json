@@ -24,15 +24,15 @@
     "timezones": [
       {
         "zoneName": "Pacific/Auckland",
-        "gmtOffset": 46800,
-        "gmtOffsetName": "UTC+13:00",
-        "abbreviation": "NZDT",
-        "tzName": "New Zealand Daylight Time"
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NZST",
+        "tzName": "New Zealand Standard Time"
       },
       {
         "zoneName": "Pacific/Chatham",
-        "gmtOffset": 49500,
-        "gmtOffsetName": "UTC+13:45",
+        "gmtOffset": 45900,
+        "gmtOffsetName": "UTC+12:45",
         "abbreviation": "CHAST",
         "tzName": "Chatham Standard Time"
       }
@@ -345,6 +345,24 @@
       "longitude": "172.01667000",
       "timezone": "Pacific/Auckland",
       "wikiDataId": "Q1015735",
+      "country_code": "NZ",
+      "state_code": "CAN",
+      "state_id": 4066,
+      "country_id": 158
+    },
+    {
+      "id": 165431,
+      "name": "Rangiora",
+      "name_default": "Rangiora",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-43.30437000",
+      "longitude": "172.58356000",
+      "timezone": "Pacific/Auckland",
+      "wikiDataId": "Q2034575",
       "country_code": "NZ",
       "state_code": "CAN",
       "state_id": 4066,

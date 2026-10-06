@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165606,
+      "name": "Adıyaman",
+      "name_default": "Adıyaman",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 290883,
+      "latitude": "37.76441000",
+      "longitude": "38.27629000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q168197",
+      "country_code": "TR",
+      "state_code": "02",
+      "state_id": 2155,
+      "country_id": 225
+    },
+    {
       "id": 107332,
       "name": "बेस्नी",
       "name_default": "Besni",

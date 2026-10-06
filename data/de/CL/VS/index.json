@@ -31,17 +31,17 @@
       },
       {
         "zoneName": "America/Santiago",
-        "gmtOffset": -10800,
-        "gmtOffsetName": "UTC-03:00",
-        "abbreviation": "CLST",
-        "tzName": "Chile Summer Time"
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "CLT",
+        "tzName": "Chile Standard Time"
       },
       {
         "zoneName": "Pacific/Easter",
-        "gmtOffset": -18000,
-        "gmtOffsetName": "UTC-05:00",
-        "abbreviation": "EASST",
-        "tzName": "Easter Island Summer Time"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "EAST",
+        "tzName": "Easter Island Standard Time"
       },
       {
         "zoneName": "America/Coyhaique",
@@ -233,6 +233,24 @@
       "longitude": "-71.66666667",
       "timezone": "America/Santiago",
       "wikiDataId": "Q13041",
+      "country_code": "CL",
+      "state_code": "VS",
+      "state_id": 2830,
+      "country_id": 44
+    },
+    {
+      "id": 164570,
+      "name": "Hanga Roa",
+      "name_default": "Hanga Roa",
+      "native": "Hanga Roa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-27.15253000",
+      "longitude": "-109.42438000",
+      "timezone": "Pacific/Easter",
+      "wikiDataId": "Q233369",
       "country_code": "CL",
       "state_code": "VS",
       "state_id": 2830,

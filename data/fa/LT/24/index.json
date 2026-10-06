@@ -54,5 +54,24 @@
     "wikiDataId": "Q2069342",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66695,
+      "name": "ویسیجی",
+      "name_default": "Veisiejai",
+      "native": "Veisiejai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1654,
+      "latitude": "54.10110000",
+      "longitude": "23.69614000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2044626",
+      "country_code": "LT",
+      "state_code": "24",
+      "state_id": 1611,
+      "country_id": 126
+    }
+  ]
 }

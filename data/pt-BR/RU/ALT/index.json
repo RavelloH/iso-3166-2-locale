@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -223,9 +223,9 @@
     "level": "2",
     "parent_id": null,
     "population": null,
-    "latitude": "50.71141010",
-    "longitude": "86.85721860",
-    "timezone": "Europe/Moscow",
+    "latitude": "52.76666667",
+    "longitude": "82.61666667",
+    "timezone": "Asia/Barnaul",
     "wikiDataId": "Q5942",
     "country_code": "RU"
   },
@@ -987,6 +987,24 @@
       "country_id": 182
     },
     {
+      "id": 165499,
+      "name": "Kur’ya",
+      "name_default": "Kur’ya",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.60139000",
+      "longitude": "82.28913000",
+      "timezone": "Asia/Barnaul",
+      "wikiDataId": "Q1982087",
+      "country_code": "RU",
+      "state_code": "ALT",
+      "state_id": 1911,
+      "country_id": 182
+    },
+    {
       "id": 99484,
       "name": "Kusak",
       "name_default": "Kusak",
@@ -1413,6 +1431,24 @@
       "longitude": "84.90890000",
       "timezone": "Asia/Barnaul",
       "wikiDataId": "Q24728114",
+      "country_code": "RU",
+      "state_code": "ALT",
+      "state_id": 1911,
+      "country_id": 182
+    },
+    {
+      "id": 165502,
+      "name": "Novoyegor’yevskoye",
+      "name_default": "Novoyegor’yevskoye",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.75842000",
+      "longitude": "80.89540000",
+      "timezone": "Asia/Barnaul",
+      "wikiDataId": "Q4323926",
       "country_code": "RU",
       "state_code": "ALT",
       "state_id": 1911,
@@ -2627,7 +2663,7 @@
     {
       "id": 102233,
       "name": "Verkh-Suetka",
-      "name_default": "Verkh-Suetka",
+      "name_default": "Verkh-Suyetka",
       "native": "Верх-Суетка",
       "type": "adm2",
       "level": null,
@@ -2769,11 +2805,29 @@
       "country_id": 182
     },
     {
+      "id": 165516,
+      "name": "Yel’tsovka",
+      "name_default": "Yel’tsovka",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "53.25473000",
+      "longitude": "86.26395000",
+      "timezone": "Asia/Barnaul",
+      "wikiDataId": "Q4119296",
+      "country_code": "RU",
+      "state_code": "ALT",
+      "state_id": 1911,
+      "country_id": 182
+    },
+    {
       "id": 102552,
       "name": "Rayon de Yel'tsovskiy",
       "name_default": "Yel’tsovskiy Rayon",
       "native": "Ельцовский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,

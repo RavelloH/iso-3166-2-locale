@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": 4091423,
     "latitude": "54.47475530",
     "longitude": "55.97845820",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yekaterinburg",
     "wikiDataId": "Q5710",
     "country_code": "RU"
   },
@@ -285,24 +285,6 @@
       "country_id": 182
     },
     {
-      "id": 97552,
-      "name": "Ak”yar",
-      "name_default": "Ak”yar",
-      "native": "Акъяр",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 5549,
-      "latitude": "51.85905000",
-      "longitude": "58.22136000",
-      "timezone": "Asia/Yekaterinburg",
-      "wikiDataId": "Q3792494",
-      "country_code": "RU",
-      "state_code": "BA",
-      "state_id": 1854,
-      "country_id": 182
-    },
-    {
       "id": 97535,
       "name": "Akhunovo",
       "name_default": "Akhunovo",
@@ -333,6 +315,24 @@
       "longitude": "54.15000000",
       "timezone": "Asia/Yekaterinburg",
       "wikiDataId": "Q1053669",
+      "country_code": "RU",
+      "state_code": "BA",
+      "state_id": 1854,
+      "country_id": 182
+    },
+    {
+      "id": 97552,
+      "name": "Ak”yar",
+      "name_default": "Akyar",
+      "native": "Акъяр",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5549,
+      "latitude": "51.85905000",
+      "longitude": "58.22136000",
+      "timezone": "Asia/Yekaterinburg",
+      "wikiDataId": "Q3792494",
       "country_code": "RU",
       "state_code": "BA",
       "state_id": 1854,

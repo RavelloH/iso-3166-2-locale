@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": null,
     "latitude": "52.80323680",
     "longitude": "128.43729500",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yakutsk",
     "wikiDataId": "Q6886",
     "country_code": "RU"
   },
@@ -591,6 +591,24 @@
       "country_id": 182
     },
     {
+      "id": 165501,
+      "name": "Novokiyevskiy Uval",
+      "name_default": "Novokiyevskiy Uval",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.65994000",
+      "longitude": "128.91946000",
+      "timezone": "Asia/Yakutsk",
+      "wikiDataId": "Q12015671",
+      "country_code": "RU",
+      "state_code": "AMU",
+      "state_id": 1858,
+      "country_id": 182
+    },
+    {
       "id": 100287,
       "name": "Novoraytchikhinsk",
       "name_default": "Novoraychikhinsk",
@@ -657,6 +675,24 @@
       "longitude": "128.65352000",
       "timezone": "Asia/Yakutsk",
       "wikiDataId": "Q4375705",
+      "country_code": "RU",
+      "state_code": "AMU",
+      "state_id": 1858,
+      "country_id": 182
+    },
+    {
+      "id": 165473,
+      "name": "Progress",
+      "name_default": "Progress",
+      "native": "Прогресс",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "49.74529000",
+      "longitude": "129.67217000",
+      "timezone": "Asia/Yakutsk",
+      "wikiDataId": "Q2003829",
       "country_code": "RU",
       "state_code": "AMU",
       "state_id": 1858,

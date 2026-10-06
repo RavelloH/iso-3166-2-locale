@@ -10,9 +10,9 @@
     "native": "République du Congo",
     "capital": "Brazzaville",
     "phonecode": "242",
-    "currency": "CDF",
-    "currency_name": "Congolese Franc",
-    "currency_symbol": "FC",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
     "tld": ".cg",
     "population": 6142180,
     "gdp": 15281,
@@ -54,5 +54,24 @@
     "wikiDataId": "Q855327",
     "country_code": "CG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164555,
+      "name": "Loango",
+      "name_default": "Loango",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-4.65602000",
+      "longitude": "11.81032000",
+      "timezone": "Africa/Brazzaville",
+      "wikiDataId": "Q48989691",
+      "country_code": "CG",
+      "state_code": "5",
+      "state_id": 2867,
+      "country_id": 50
+    }
+  ]
 }

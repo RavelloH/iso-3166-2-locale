@@ -54,5 +54,24 @@
     "wikiDataId": "Q1808143",
     "country_code": "SI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 104180,
+      "name": "माकोले",
+      "name_default": "Makole",
+      "native": "Makole",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 216,
+      "latitude": "46.31722000",
+      "longitude": "15.66722000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2230682",
+      "country_code": "SI",
+      "state_code": "198",
+      "state_id": 4224,
+      "country_id": 201
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q57071",
     "country_code": "HR"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164778,
+      "name": "Karlovac",
+      "name_default": "Karlovac",
+      "native": "Karlovac",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 41869,
+      "latitude": "45.49167000",
+      "longitude": "15.55000000",
+      "timezone": "Europe/Zagreb",
+      "wikiDataId": "Q3617",
+      "country_code": "HR",
+      "state_code": "04",
+      "state_id": 5069,
+      "country_id": 55
+    }
+  ]
 }

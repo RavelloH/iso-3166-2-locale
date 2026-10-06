@@ -54,5 +54,24 @@
     "wikiDataId": "Q3539495",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165676,
+      "name": "Napak",
+      "name_default": "Napak",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "2.25139000",
+      "longitude": "34.25012000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6696571",
+      "country_code": "UG",
+      "state_code": "327",
+      "state_id": 430,
+      "country_id": 229
+    }
+  ]
 }

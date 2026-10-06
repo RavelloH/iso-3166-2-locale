@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q319965",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165575,
+      "name": "Bentiu",
+      "name_default": "Bentiu",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "9.25722000",
+      "longitude": "29.79833000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q818284",
+      "country_code": "SS",
+      "state_code": "UY",
+      "state_id": 2085,
+      "country_id": 206
+    },
+    {
+      "id": 165573,
+      "name": "Leer",
+      "name_default": "Leer",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17827,
+      "latitude": "8.30306000",
+      "longitude": "30.14056000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q3228987",
+      "country_code": "SS",
+      "state_code": "UY",
+      "state_id": 2085,
+      "country_id": 206
+    }
+  ]
 }

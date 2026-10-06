@@ -54,5 +54,24 @@
     "wikiDataId": "Q1515842",
     "country_code": "SI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 104190,
+      "name": "ミルナ",
+      "name_default": "Mirna",
+      "native": "MiRNA",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1332,
+      "latitude": "45.95528000",
+      "longitude": "15.06194000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2219904",
+      "country_code": "SI",
+      "state_code": "212",
+      "state_id": 4298,
+      "country_id": 201
+    }
+  ]
 }

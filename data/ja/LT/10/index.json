@@ -54,5 +54,24 @@
     "wikiDataId": "Q1351768",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66606,
+      "name": "ジョナバ",
+      "name_default": "Jonava",
+      "native": "Jonava",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 27134,
+      "latitude": "55.08333000",
+      "longitude": "24.28333000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1351768",
+      "country_code": "LT",
+      "state_code": "10",
+      "state_id": 1567,
+      "country_id": 126
+    }
+  ]
 }

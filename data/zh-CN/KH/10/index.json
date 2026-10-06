@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165143,
+      "name": "Chhloung",
+      "name_default": "Chhloung",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "12.25610000",
+      "longitude": "105.97004000",
+      "timezone": "Asia/Phnom_Penh",
+      "wikiDataId": "Q14206584",
+      "country_code": "KH",
+      "state_code": "10",
+      "state_id": 3986,
+      "country_id": 37
+    },
+    {
       "id": 64958,
       "name": "克拉奇",
       "name_default": "Kracheh",

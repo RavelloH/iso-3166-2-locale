@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318857",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165645,
+      "name": "Koboko",
+      "name_default": "Koboko",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 64500,
+      "latitude": "3.41364000",
+      "longitude": "30.95994000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2391998",
+      "country_code": "UG",
+      "state_code": "319",
+      "state_id": 345,
+      "country_id": 229
+    }
+  ]
 }

@@ -54,24 +54,5 @@
     "wikiDataId": "Q691220",
     "country_code": "MT"
   },
-  "cities": [
-    {
-      "id": 67784,
-      "name": "مارسا",
-      "name_default": "Marsa",
-      "native": "Marsa",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 4401,
-      "latitude": "35.87917000",
-      "longitude": "14.49528000",
-      "timezone": "Europe/Malta",
-      "wikiDataId": "Q267431",
-      "country_code": "MT",
-      "state_code": "31",
-      "state_id": 109,
-      "country_id": 135
-    }
-  ]
+  "cities": []
 }

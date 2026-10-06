@@ -54,5 +54,24 @@
     "wikiDataId": "Q1364817",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165649,
+      "name": "Bombo",
+      "name_default": "Bombo",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 29600,
+      "latitude": "0.57387000",
+      "longitude": "32.51545000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4940747",
+      "country_code": "UG",
+      "state_code": "104",
+      "state_id": 433,
+      "country_id": 229
+    }
+  ]
 }

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165605,
+      "name": "Batman",
+      "name_default": "Batman",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 452157,
+      "latitude": "37.88738000",
+      "longitude": "41.13221000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q159835",
+      "country_code": "TR",
+      "state_code": "72",
+      "state_id": 2194,
+      "country_id": 225
+    },
+    {
       "id": 107350,
       "name": "بشیری",
       "name_default": "Beşiri",

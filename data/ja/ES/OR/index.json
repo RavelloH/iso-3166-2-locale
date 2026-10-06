@@ -59,7 +59,7 @@
     "name_default": "Ourense",
     "native": "Nuestro",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "5334",
     "population": 104891,
     "latitude": "42.34389320",
@@ -646,6 +646,24 @@
       "country_id": 207
     },
     {
+      "id": 164331,
+      "name": "Fondevila",
+      "name_default": "Fondevila",
+      "native": "Fondevila",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "41.90363192",
+      "longitude": "-8.08322416",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": "Q20546326",
+      "country_code": "ES",
+      "state_code": "OR",
+      "state_id": 5091,
+      "country_id": 207
+    },
+    {
       "id": 151108,
       "name": "ゴメセンデ",
       "name_default": "Gomesende",
@@ -769,24 +787,6 @@
       "country_code": "ES",
       "state_code": "OR",
       "state_id": 5091,
-      "country_id": 207
-    },
-    {
-      "id": 35095,
-      "name": "ロビオス",
-      "name_default": "Lobios",
-      "native": "Lobo",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2512,
-      "latitude": "42.40746000",
-      "longitude": "-7.53164000",
-      "timezone": "Europe/Madrid",
-      "wikiDataId": "Q1639598",
-      "country_code": "ES",
-      "state_code": "OR",
-      "state_id": 5090,
       "country_id": 207
     },
     {

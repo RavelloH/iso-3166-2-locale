@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Damascus",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "35.00000000",
@@ -346,7 +346,7 @@
     {
       "id": 105046,
       "name": "サラキブ",
-      "name_default": "Sarāqib",
+      "name_default": "Saraqib",
       "native": "سراقب",
       "type": "adm3",
       "level": null,

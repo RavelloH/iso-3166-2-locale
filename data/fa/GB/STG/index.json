@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 48344,
+      "name": "بالفرون",
+      "name_default": "Balfron",
+      "native": "Balfron",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2100,
+      "latitude": "56.06809000",
+      "longitude": "-4.33559000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1010220",
+      "country_code": "GB",
+      "state_code": "STG",
+      "state_id": 2488,
+      "country_id": 232
+    },
+    {
       "id": 48376,
       "name": "بنوکبرن",
       "name_default": "Bannockburn",
@@ -182,6 +200,24 @@
       "country_id": 232
     },
     {
+      "id": 50147,
+      "name": "کیلرن",
+      "name_default": "Killearn",
+      "native": "Killearn",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1690,
+      "latitude": "56.04239000",
+      "longitude": "-4.36840000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1010543",
+      "country_code": "GB",
+      "state_code": "STG",
+      "state_id": 2488,
+      "country_id": 232
+    },
+    {
       "id": 50192,
       "name": "کیپن",
       "name_default": "Kippen",
@@ -197,24 +233,6 @@
       "country_code": "GB",
       "state_code": "STG",
       "state_id": 2488,
-      "country_id": 232
-    },
-    {
-      "id": 50548,
-      "name": "قاعدگی",
-      "name_default": "Menstrie",
-      "native": "Menstrie",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2870,
-      "latitude": "56.15138000",
-      "longitude": "-3.85466000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1010052",
-      "country_code": "GB",
-      "state_code": "STG",
-      "state_id": 2450,
       "country_id": 232
     },
     {

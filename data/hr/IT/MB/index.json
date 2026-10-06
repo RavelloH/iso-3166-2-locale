@@ -344,24 +344,6 @@
       "country_id": 107
     },
     {
-      "id": 136653,
-      "name": "Campofiorenzo-Kalifornija",
-      "name_default": "Campofiorenzo-California",
-      "native": "Campofiorenzo-California",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1306,
-      "latitude": "45.66768000",
-      "longitude": "9.31708000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18488916",
-      "country_code": "IT",
-      "state_code": "MB",
-      "state_id": 1677,
-      "country_id": 107
-    },
-    {
       "id": 136729,
       "name": "Kanonika",
       "name_default": "Canonica",
@@ -866,6 +848,24 @@
       "country_id": 107
     },
     {
+      "id": 58941,
+      "name": "Porto d'Adda",
+      "name_default": "Porto d'Adda",
+      "native": "Porto d'Adda",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1052,
+      "latitude": "45.66241000",
+      "longitude": "9.47563000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": "Q3909190",
+      "country_code": "IT",
+      "state_code": "MB",
+      "state_id": 1769,
+      "country_id": 107
+    },
+    {
       "id": 59330,
       "name": "Renata",
       "name_default": "Renate",
@@ -1010,24 +1010,6 @@
       "country_id": 107
     },
     {
-      "id": 61345,
-      "name": "Torrazza dei Mandelli",
-      "name_default": "Torrazza dei Mandelli",
-      "native": "Torrazza dei Mandelli",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1046,
-      "latitude": "45.56629000",
-      "longitude": "9.39921000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18491765",
-      "country_code": "IT",
-      "state_code": "MB",
-      "state_id": 5633,
-      "country_id": 107
-    },
-    {
       "id": 61471,
       "name": "Tregasio",
       "name_default": "Tregasio",
@@ -1119,9 +1101,9 @@
     },
     {
       "id": 61793,
-      "name": "Veduggio Con Colzano",
-      "name_default": "Veduggio Con Colzano",
-      "native": "Veduggio Con Colzano",
+      "name": "Veduggio con Colzano",
+      "name_default": "Veduggio con Colzano",
+      "native": "Veduggio con Colzano",
       "type": "adm3",
       "level": null,
       "parent_id": null,

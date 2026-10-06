@@ -218,6 +218,24 @@
       "country_id": 75
     },
     {
+      "id": 40778,
+      "name": "シャントーム",
+      "name_default": "Chantôme",
+      "native": "Chantôme",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1372,
+      "latitude": "46.41067000",
+      "longitude": "1.55590000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q34791904",
+      "country_code": "FR",
+      "state_code": "36",
+      "state_id": 5004,
+      "country_id": 75
+    },
+    {
       "id": 40978,
       "name": "シャトールー",
       "name_default": "Châteauroux",
@@ -359,24 +377,6 @@
       "country_code": "FR",
       "state_code": "36",
       "state_id": 5004,
-      "country_id": 75
-    },
-    {
-      "id": 41925,
-      "name": "フージェロール",
-      "name_default": "Fougerolles",
-      "native": "Fougerolles",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 4242,
-      "latitude": "47.88542000",
-      "longitude": "6.40454000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q922794",
-      "country_code": "FR",
-      "state_code": "36",
-      "state_id": 5039,
       "country_id": 75
     },
     {

@@ -54,5 +54,24 @@
     "wikiDataId": "Q867219",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165668,
+      "name": "Kalangala",
+      "name_default": "Kalangala",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-0.30889000",
+      "longitude": "32.22500000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q742655",
+      "country_code": "UG",
+      "state_code": "101",
+      "state_id": 405,
+      "country_id": 229
+    }
+  ]
 }

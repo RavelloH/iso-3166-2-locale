@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Damascus",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "35.00000000",
@@ -158,6 +158,24 @@
       "longitude": "36.48256000",
       "timezone": "Asia/Damascus",
       "wikiDataId": "Q272680",
+      "country_code": "SY",
+      "state_code": "DR",
+      "state_id": 2945,
+      "country_id": 215
+    },
+    {
+      "id": 165578,
+      "name": "Dā‘il",
+      "name_default": "Dā‘il",
+      "native": "داعل",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 29408,
+      "latitude": "32.75355000",
+      "longitude": "36.13076000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q1026328",
       "country_code": "SY",
       "state_code": "DR",
       "state_id": 2945,

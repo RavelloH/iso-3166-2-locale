@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -747,6 +747,24 @@
       "longitude": "39.09773000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2376441",
+      "country_code": "RU",
+      "state_code": "AD",
+      "state_id": 1852,
+      "country_id": 182
+    },
+    {
+      "id": 165510,
+      "name": "Tul’skiy",
+      "name_default": "Tul’skiy",
+      "native": "Тульский",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "44.51665000",
+      "longitude": "40.17725000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q1021756",
       "country_code": "RU",
       "state_code": "AD",
       "state_id": 1852,

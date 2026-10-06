@@ -54,5 +54,24 @@
     "wikiDataId": "Q534203",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165672,
+      "name": "Kyankwanzi",
+      "name_default": "Kyankwanzi",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.20061000",
+      "longitude": "31.80063000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6450730",
+      "country_code": "UG",
+      "state_code": "123",
+      "state_id": 325,
+      "country_id": 229
+    }
+  ]
 }

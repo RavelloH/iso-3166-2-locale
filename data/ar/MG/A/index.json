@@ -54,5 +54,42 @@
     "wikiDataId": "Q639418",
     "country_code": "MG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67382,
+      "name": "تواماسينا",
+      "name_default": "Toamasina",
+      "native": "Toamasina",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 345107,
+      "latitude": "-18.14920000",
+      "longitude": "49.40234000",
+      "timezone": "Indian/Antananarivo",
+      "wikiDataId": "Q178067",
+      "country_code": "MG",
+      "state_code": "A",
+      "state_id": 2952,
+      "country_id": 130
+    },
+    {
+      "id": 67384,
+      "name": "تواماسينا الثاني",
+      "name_default": "Toamasina II",
+      "native": "Happinion II",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 168388,
+      "latitude": "-17.94053000",
+      "longitude": "49.14608000",
+      "timezone": "Indian/Antananarivo",
+      "wikiDataId": "Q3031893",
+      "country_code": "MG",
+      "state_code": "A",
+      "state_id": 2952,
+      "country_id": 130
+    }
+  ]
 }

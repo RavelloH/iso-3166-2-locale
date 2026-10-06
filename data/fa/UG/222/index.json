@@ -54,5 +54,24 @@
     "wikiDataId": "Q1375859",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165659,
+      "name": "Kaliro",
+      "name_default": "Kaliro",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 20500,
+      "latitude": "0.89444000",
+      "longitude": "33.49944000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q3526895",
+      "country_code": "UG",
+      "state_code": "222",
+      "state_id": 398,
+      "country_id": 229
+    }
+  ]
 }

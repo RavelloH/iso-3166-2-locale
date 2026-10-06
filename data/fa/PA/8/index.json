@@ -330,7 +330,7 @@
       "name": "توزیع‌کننده چپو",
       "name_default": "Distrito de Chepo",
       "native": "Distrito de Chepo",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 60345,
@@ -578,24 +578,6 @@
       "country_id": 170
     },
     {
-      "id": 80345,
-      "name": "لیدیس",
-      "name_default": "Lídice",
-      "native": "Ledice",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 4245,
-      "latitude": "8.74869000",
-      "longitude": "-79.90974000",
-      "timezone": "America/Panama",
-      "wikiDataId": "Q931897",
-      "country_code": "PA",
-      "state_code": "8",
-      "state_id": 1394,
-      "country_id": 170
-    },
-    {
       "id": 80337,
       "name": "لوس لوتس",
       "name_default": "Los Lotes",
@@ -670,7 +652,7 @@
     {
       "id": 80394,
       "name": "پاناما",
-      "name_default": "Panamá",
+      "name_default": "Panama City",
       "native": "Panamá",
       "type": "capital",
       "level": null,

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -387,6 +387,24 @@
       "longitude": "41.83060000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2038862",
+      "country_code": "RU",
+      "state_code": "ROS",
+      "state_id": 1837,
+      "country_id": 182
+    },
+    {
+      "id": 165491,
+      "name": "Bol’shaya Martynovka",
+      "name_default": "Bol’shaya Martynovka",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.27366000",
+      "longitude": "41.66721000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4091488",
       "country_code": "RU",
       "state_code": "ROS",
       "state_id": 1837,
@@ -683,7 +701,7 @@
     {
       "id": 98819,
       "name": "कमेंस्क-शाख्तिंस्की",
-      "name_default": "Kamensk-Shakhtinskiy",
+      "name_default": "Kamensk-Shakhtinsky",
       "native": "Каменск-Шахтинский",
       "type": "adm2",
       "level": null,
@@ -1601,7 +1619,7 @@
     {
       "id": 101007,
       "name": "रोस्तोव-na-Donu",
-      "name_default": "Rostov-na-Donu",
+      "name_default": "Rostov-on-Don",
       "native": "Ростов-на-Дону",
       "type": "adm1",
       "level": null,

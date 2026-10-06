@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164340,
+      "name": "Barakī",
+      "name_default": "Barakī",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "33.93949000",
+      "longitude": "68.92201000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q4858275",
+      "country_code": "AF",
+      "state_code": "LOG",
+      "state_id": 3897,
+      "country_id": 1
+    },
+    {
       "id": 56,
       "name": "Баракі Барак",
       "name_default": "Baraki Barak",

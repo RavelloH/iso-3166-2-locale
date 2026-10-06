@@ -54,5 +54,24 @@
     "wikiDataId": "Q1114977",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165674,
+      "name": "Luuka Town",
+      "name_default": "Luuka Town",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "0.70076000",
+      "longitude": "33.30020000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6692420",
+      "country_code": "UG",
+      "state_code": "229",
+      "state_id": 445,
+      "country_id": 229
+    }
+  ]
 }

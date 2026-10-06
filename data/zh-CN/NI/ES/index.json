@@ -144,6 +144,24 @@
       "state_code": "ES",
       "state_id": 945,
       "country_id": 159
+    },
+    {
+      "id": 165333,
+      "name": "San Nicolás",
+      "name_default": "San Nicolás",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "12.93236000",
+      "longitude": "-86.34805000",
+      "timezone": "America/Managua",
+      "wikiDataId": "Q22237659",
+      "country_code": "NI",
+      "state_code": "ES",
+      "state_id": 945,
+      "country_id": 159
     }
   ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q594852",
     "country_code": "SI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 104227,
+      "name": "Полйчане",
+      "name_default": "Poljčane",
+      "native": "Poljčane",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1126,
+      "latitude": "46.31194000",
+      "longitude": "15.57917000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q4589815",
+      "country_code": "SI",
+      "state_code": "200",
+      "state_id": 4239,
+      "country_id": 201
+    }
+  ]
 }

@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Amman",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "31.00000000",
@@ -194,6 +194,24 @@
       "longitude": "35.76204000",
       "timezone": "Asia/Amman",
       "wikiDataId": "Q31565",
+      "country_code": "JO",
+      "state_code": "KA",
+      "state_id": 956,
+      "country_id": 111
+    },
+    {
+      "id": 63177,
+      "name": "키르 모아브",
+      "name_default": "Qīr Moāv",
+      "native": "قير موآف",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22581,
+      "latitude": "31.18248000",
+      "longitude": "35.69999000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q31572",
       "country_code": "JO",
       "state_code": "KA",
       "state_id": 956,

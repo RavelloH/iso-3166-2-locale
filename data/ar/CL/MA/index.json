@@ -31,17 +31,17 @@
       },
       {
         "zoneName": "America/Santiago",
-        "gmtOffset": -10800,
-        "gmtOffsetName": "UTC-03:00",
-        "abbreviation": "CLST",
-        "tzName": "Chile Summer Time"
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "CLT",
+        "tzName": "Chile Standard Time"
       },
       {
         "zoneName": "Pacific/Easter",
-        "gmtOffset": -18000,
-        "gmtOffsetName": "UTC-05:00",
-        "abbreviation": "EASST",
-        "tzName": "Easter Island Summer Time"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "EAST",
+        "tzName": "Easter Island Standard Time"
       },
       {
         "zoneName": "America/Coyhaique",
@@ -179,6 +179,24 @@
       "longitude": "-69.25000000",
       "timezone": "America/Punta_Arenas",
       "wikiDataId": "Q51586",
+      "country_code": "CL",
+      "state_code": "MA",
+      "state_id": 2836,
+      "country_id": 44
+    },
+    {
+      "id": 164571,
+      "name": "Puerto Williams",
+      "name_default": "Puerto Williams",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-54.93355000",
+      "longitude": "-67.60963000",
+      "timezone": "America/Punta_Arenas",
+      "wikiDataId": "Q1251087",
       "country_code": "CL",
       "state_code": "MA",
       "state_id": 2836,

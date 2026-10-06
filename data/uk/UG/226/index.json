@@ -54,5 +54,24 @@
     "wikiDataId": "Q1114938",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165648,
+      "name": "Buyende",
+      "name_default": "Buyende",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 29700,
+      "latitude": "1.15167000",
+      "longitude": "33.15500000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q5003357",
+      "country_code": "UG",
+      "state_code": "226",
+      "state_id": 380,
+      "country_id": 229
+    }
+  ]
 }

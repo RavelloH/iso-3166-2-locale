@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165178,
+      "name": "Harbel",
+      "name_default": "Harbel",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 38208,
+      "latitude": "6.24683000",
+      "longitude": "-10.35642000",
+      "timezone": "Africa/Monrovia",
+      "wikiDataId": "Q600607",
+      "country_code": "LR",
+      "state_code": "MG",
+      "state_id": 3043,
+      "country_id": 123
+    },
+    {
       "id": 66556,
       "name": "卡卡塔",
       "name_default": "Kakata",

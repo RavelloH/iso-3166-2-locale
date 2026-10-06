@@ -54,5 +54,60 @@
     "wikiDataId": "Q313132",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66637,
+      "name": "مازييكياي",
+      "name_default": "Mazeikiai",
+      "native": "Mazeikiai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33249,
+      "latitude": "56.31667000",
+      "longitude": "22.33333000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q27484102",
+      "country_code": "LT",
+      "state_code": "26",
+      "state_id": 1557,
+      "country_id": 126
+    },
+    {
+      "id": 66675,
+      "name": "سيدا",
+      "name_default": "Seda",
+      "native": "Tai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1224,
+      "latitude": "56.16854000",
+      "longitude": "22.09071000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q394756",
+      "country_code": "LT",
+      "state_code": "26",
+      "state_id": 1557,
+      "country_id": 126
+    },
+    {
+      "id": 66697,
+      "name": "فيكسنياي",
+      "name_default": "Viekšniai",
+      "native": "Viekšniai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2180,
+      "latitude": "56.23598000",
+      "longitude": "22.51667000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q379669",
+      "country_code": "LT",
+      "state_code": "26",
+      "state_id": 1557,
+      "country_id": 126
+    }
+  ]
 }

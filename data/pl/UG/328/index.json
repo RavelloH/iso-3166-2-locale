@@ -54,5 +54,42 @@
     "wikiDataId": "Q3539572",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165653,
+      "name": "Anaka",
+      "name_default": "Anaka",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 24000,
+      "latitude": "2.60114000",
+      "longitude": "31.94749000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q4750961",
+      "country_code": "UG",
+      "state_code": "328",
+      "state_id": 378,
+      "country_id": 229
+    },
+    {
+      "id": 165677,
+      "name": "Nwoya",
+      "name_default": "Nwoya",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "2.63422000",
+      "longitude": "32.00106000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6696771",
+      "country_code": "UG",
+      "state_code": "328",
+      "state_id": 378,
+      "country_id": 229
+    }
+  ]
 }

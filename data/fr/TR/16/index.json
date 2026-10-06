@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165600,
+      "name": "Bursa",
+      "name_default": "Bursa",
+      "native": "Bursa",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 3101833,
+      "latitude": "40.19559000",
+      "longitude": "29.06013000",
+      "timezone": "Europe/Istanbul",
+      "wikiDataId": "Q40738",
+      "country_code": "TR",
+      "state_code": "16",
+      "state_id": 2163,
+      "country_id": 225
+    },
+    {
       "id": 107419,
       "name": "Büyükorhan",
       "name_default": "Büyükorhan",

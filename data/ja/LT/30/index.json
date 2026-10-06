@@ -54,5 +54,24 @@
     "wikiDataId": "Q1657116",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66633,
+      "name": "リンクヴァ",
+      "name_default": "Linkuva",
+      "native": "Susieta",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1719,
+      "latitude": "56.08596000",
+      "longitude": "23.97061000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1656462",
+      "country_code": "LT",
+      "state_code": "30",
+      "state_id": 1595,
+      "country_id": 126
+    }
+  ]
 }

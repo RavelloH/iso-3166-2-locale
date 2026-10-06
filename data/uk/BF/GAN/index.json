@@ -45,7 +45,7 @@
     "name_default": "Ganzourgou",
     "native": "Ganzourgou",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3125",
     "population": null,
     "latitude": "12.28991540",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q182889",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164498,
+      "name": "Mogtédo",
+      "name_default": "Mogtédo",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 25699,
+      "latitude": "12.28444000",
+      "longitude": "-0.83722000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q8273596",
+      "country_code": "BF",
+      "state_code": "GAN",
+      "state_id": 3148,
+      "country_id": 35
+    }
+  ]
 }

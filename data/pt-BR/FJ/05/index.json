@@ -45,14 +45,33 @@
     "name_default": "Lau",
     "native": "Lau",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "1932",
     "population": null,
-    "latitude": "31.66870150",
-    "longitude": "-106.39557630",
+    "latitude": "-18.33333333",
+    "longitude": "-178.50000000",
     "timezone": "Pacific/Fiji",
     "wikiDataId": "Q513104",
     "country_code": "FJ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164720,
+      "name": "Tubou",
+      "name_default": "Tubou",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-18.23652000",
+      "longitude": "-178.81232000",
+      "timezone": "Pacific/Fiji",
+      "wikiDataId": "Q1809825",
+      "country_code": "FJ",
+      "state_code": "05",
+      "state_id": 1933,
+      "country_id": 73
+    }
+  ]
 }

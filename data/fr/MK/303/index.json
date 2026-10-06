@@ -51,8 +51,27 @@
     "latitude": "41.52306550",
     "longitude": "20.52383890",
     "timezone": "Europe/Skopje",
-    "wikiDataId": null,
+    "wikiDataId": "Q1344996",
     "country_code": "MK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165192,
+      "name": "Debar",
+      "name_default": "Debar",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "41.52286000",
+      "longitude": "20.52198000",
+      "timezone": "Europe/Skopje",
+      "wikiDataId": "Q689820",
+      "country_code": "MK",
+      "state_code": "303",
+      "state_id": 5726,
+      "country_id": 129
+    }
+  ]
 }

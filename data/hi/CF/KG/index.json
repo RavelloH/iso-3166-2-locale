@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164546,
+      "name": "Dekoa",
+      "name_default": "Dekoa",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 19639,
+      "latitude": "6.32229000",
+      "longitude": "19.07922000",
+      "timezone": "Africa/Bangui",
+      "wikiDataId": "Q1771468",
+      "country_code": "CF",
+      "state_code": "KG",
+      "state_id": 1263,
+      "country_id": 42
+    },
+    {
       "id": 17337,
       "name": "सिबुत",
       "name_default": "Sibut",

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -503,7 +503,7 @@
     {
       "id": 99204,
       "name": "科列涅沃",
-      "name_default": "Korenëvo",
+      "name_default": "Korenevo",
       "native": "Коренёво",
       "type": "adm2",
       "level": null,
@@ -649,7 +649,7 @@
       "name": "梅德文斯基区",
       "name_default": "Medvenskiy Rayon",
       "native": "Медвенский район",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": null,
@@ -747,6 +747,24 @@
       "longitude": "35.05520000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q37959197",
+      "country_code": "RU",
+      "state_code": "KRS",
+      "state_id": 1855,
+      "country_id": 182
+    },
+    {
+      "id": 165504,
+      "name": "Ponyri",
+      "name_default": "Ponyri",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "52.31839000",
+      "longitude": "36.29766000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4372105",
       "country_code": "RU",
       "state_code": "KRS",
       "state_id": 1855,

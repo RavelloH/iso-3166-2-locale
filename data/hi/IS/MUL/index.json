@@ -51,10 +51,28 @@
     "latitude": "65.25000000",
     "longitude": "-14.55000000",
     "timezone": "Atlantic/Reykjavik",
-    "wikiDataId": "Q2063295",
+    "wikiDataId": "Q96776922",
     "country_code": "IS"
   },
   "cities": [
+    {
+      "id": 135172,
+      "name": "एगिल्स्टादिर",
+      "name_default": "Egilsstaðir",
+      "native": "Egilsstaðir",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2572,
+      "latitude": "65.26687000",
+      "longitude": "-14.39485000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q14453",
+      "country_code": "IS",
+      "state_code": "MUL",
+      "state_id": 5587,
+      "country_id": 100
+    },
     {
       "id": 135179,
       "name": "फ्लजोत्सडाल्शेराड",

@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Damascus",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "35.00000000",
@@ -68,6 +68,24 @@
       "longitude": "36.11198000",
       "timezone": "Asia/Damascus",
       "wikiDataId": "Q2278356",
+      "country_code": "SY",
+      "state_code": "LA",
+      "state_id": 2938,
+      "country_id": 215
+    },
+    {
+      "id": 165577,
+      "name": "Burj Islām",
+      "name_default": "Burj Islām",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "35.67396000",
+      "longitude": "35.80259000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q4998886",
       "country_code": "SY",
       "state_code": "LA",
       "state_id": 2938,

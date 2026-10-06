@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165127,
+      "name": "Habaswein",
+      "name_default": "Habaswein",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 49599,
+      "latitude": "1.01659000",
+      "longitude": "39.49122000",
+      "timezone": "Africa/Nairobi",
+      "wikiDataId": "Q5636639",
+      "country_code": "KE",
+      "state_code": "46",
+      "state_id": 182,
+      "country_id": 113
+    },
+    {
       "id": 64876,
       "name": "واجير",
       "name_default": "Wajir",

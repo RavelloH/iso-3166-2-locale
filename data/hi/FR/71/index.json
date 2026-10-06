@@ -506,24 +506,6 @@
       "country_id": 75
     },
     {
-      "id": 48054,
-      "name": "एक्यूएल्स",
-      "name_default": "Écuelles",
-      "native": "Écuelles",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2815,
-      "latitude": "48.35636000",
-      "longitude": "2.82335000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q274816",
-      "country_code": "FR",
-      "state_code": "71",
-      "state_id": 5045,
-      "country_id": 75
-    },
-    {
       "id": 48055,
       "name": "एक्यूइसेस",
       "name_default": "Écuisses",
@@ -1280,6 +1262,24 @@
       "country_id": 75
     },
     {
+      "id": 164721,
+      "name": "Saint-Leu",
+      "name_default": "Saint-Leu",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "46.73060000",
+      "longitude": "4.50083000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q49365845",
+      "country_code": "FR",
+      "state_code": "71",
+      "state_id": 5040,
+      "country_id": 75
+    },
+    {
       "id": 46259,
       "name": "सेंट-मार्टिन-बेले-रोश",
       "name_default": "Saint-Martin-Belle-Roche",
@@ -1601,24 +1601,6 @@
       "country_code": "FR",
       "state_code": "71",
       "state_id": 5040,
-      "country_id": 75
-    },
-    {
-      "id": 47857,
-      "name": "वीर",
-      "name_default": "Vire",
-      "native": "Vire",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 14603,
-      "latitude": "48.83849000",
-      "longitude": "-0.88929000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q220684",
-      "country_code": "FR",
-      "state_code": "71",
-      "state_id": 4981,
       "country_id": 75
     },
     {

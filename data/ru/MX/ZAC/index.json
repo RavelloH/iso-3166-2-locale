@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -2367,7 +2367,7 @@
     {
       "id": 73139,
       "name": "Рио-де-Медина",
-      "name_default": "Rio de Medina",
+      "name_default": "Río de Medina",
       "native": "Río de Medina",
       "type": "city",
       "level": null,
@@ -2833,6 +2833,24 @@
       "country_id": 142
     },
     {
+      "id": 165241,
+      "name": "Sombrerete",
+      "name_default": "Sombrerete",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 21702,
+      "latitude": "23.63138000",
+      "longitude": "-103.64134000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q2599043",
+      "country_code": "MX",
+      "state_code": "ZAC",
+      "state_id": 3462,
+      "country_id": 142
+    },
+    {
       "id": 75151,
       "name": "Сустикакан",
       "name_default": "Susticacán",
@@ -3267,7 +3285,7 @@
     {
       "id": 76370,
       "name": "Зоките",
-      "name_default": "Zoquite",
+      "name_default": "Zóquite",
       "native": "Zoquite",
       "type": "city",
       "level": null,

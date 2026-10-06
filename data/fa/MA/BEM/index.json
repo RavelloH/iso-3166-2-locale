@@ -24,17 +24,17 @@
     "timezones": [
       {
         "zoneName": "Africa/Casablanca",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western European Summer Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       },
       {
         "zoneName": "Africa/El_Aaiun",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western Sahara Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       }
     ],
     "latitude": "32.00000000",
@@ -52,7 +52,7 @@
     "name_default": "Béni Mellal",
     "native": "بني ملال",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3278",
     "population": null,
     "latitude": "32.33419300",
@@ -61,5 +61,60 @@
     "wikiDataId": "Q1019461",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67077,
+      "name": "بنی ملال",
+      "name_default": "Beni Mellal",
+      "native": "بني ملال",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 209594,
+      "latitude": "32.33725000",
+      "longitude": "-6.34983000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q817279",
+      "country_code": "MA",
+      "state_code": "BEM",
+      "state_id": 3272,
+      "country_id": 149
+    },
+    {
+      "id": 67143,
+      "name": "کاسبا تادلا",
+      "name_default": "Kasba Tadla",
+      "native": "قصبة تادلة",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 48172,
+      "latitude": "32.59770000",
+      "longitude": "-6.26844000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q1734833",
+      "country_code": "MA",
+      "state_code": "BEM",
+      "state_id": 3272,
+      "country_id": 149
+    },
+    {
+      "id": 67210,
+      "name": "سیدی جابر",
+      "name_default": "Sidi Jaber",
+      "native": "سيدي جابر",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 5100,
+      "latitude": "32.38952000",
+      "longitude": "-6.42095000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q3483238",
+      "country_code": "MA",
+      "state_code": "BEM",
+      "state_id": 3272,
+      "country_id": 149
+    }
+  ]
 }

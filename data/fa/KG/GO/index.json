@@ -54,5 +54,24 @@
     "wikiDataId": "Q47282",
     "country_code": "KG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 64920,
+      "name": "اوش",
+      "name_default": "Osh",
+      "native": "Ош",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 322164,
+      "latitude": "40.52828000",
+      "longitude": "72.79850000",
+      "timezone": "Asia/Bishkek",
+      "wikiDataId": "Q47282",
+      "country_code": "KG",
+      "state_code": "GO",
+      "state_id": 1003,
+      "country_id": 118
+    }
+  ]
 }

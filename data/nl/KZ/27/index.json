@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -152,42 +152,6 @@
       "country_id": 112
     },
     {
-      "id": 65662,
-      "name": "Chingirlau",
-      "name_default": "Chingirlau",
-      "native": "Шыңғырлау",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "51.09878000",
-      "longitude": "54.08426000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q4516058",
-      "country_code": "KZ",
-      "state_code": "27",
-      "state_id": 148,
-      "country_id": 112
-    },
-    {
-      "id": 65670,
-      "name": "Dzhambeyty",
-      "name_default": "Dzhambeyty",
-      "native": "Жамбылы",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "50.25676000",
-      "longitude": "52.59895000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q4737934",
-      "country_code": "KZ",
-      "state_code": "27",
-      "state_id": 148,
-      "country_id": 112
-    },
-    {
       "id": 65677,
       "name": "Fedorovka",
       "name_default": "Fedorovka",
@@ -200,6 +164,24 @@
       "longitude": "51.95723000",
       "timezone": "Asia/Oral",
       "wikiDataId": "Q1238323",
+      "country_code": "KZ",
+      "state_code": "27",
+      "state_id": 148,
+      "country_id": 112
+    },
+    {
+      "id": 165156,
+      "name": "Karatobe",
+      "name_default": "Karatobe",
+      "native": "Қаратөбе",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "49.68914000",
+      "longitude": "53.51005000",
+      "timezone": "Asia/Oral",
+      "wikiDataId": "Q4214344",
       "country_code": "KZ",
       "state_code": "27",
       "state_id": 148,
@@ -296,6 +278,24 @@
       "country_id": 112
     },
     {
+      "id": 65662,
+      "name": "Shyngyrlau",
+      "name_default": "Shyngyrlau",
+      "native": "Шыңғырлау",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.09878000",
+      "longitude": "54.08426000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q4516058",
+      "country_code": "KZ",
+      "state_code": "27",
+      "state_id": 148,
+      "country_id": 112
+    },
+    {
       "id": 65805,
       "name": "Tasqala",
       "name_default": "Tasqala",
@@ -326,6 +326,24 @@
       "longitude": "46.84705000",
       "timezone": "Asia/Oral",
       "wikiDataId": "Q141468",
+      "country_code": "KZ",
+      "state_code": "27",
+      "state_id": 148,
+      "country_id": 112
+    },
+    {
+      "id": 65670,
+      "name": "Zhympity",
+      "name_default": "Zhympity",
+      "native": "Жамбылы",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "50.25676000",
+      "longitude": "52.59895000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q4737934",
       "country_code": "KZ",
       "state_code": "27",
       "state_id": 148,

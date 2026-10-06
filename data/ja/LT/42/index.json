@@ -54,5 +54,24 @@
     "wikiDataId": "Q1799182",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66596,
+      "name": "エイシケス",
+      "name_default": "Eišiškės",
+      "native": "Eišiškės",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2822,
+      "latitude": "54.17414000",
+      "longitude": "24.99917000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q58880",
+      "country_code": "LT",
+      "state_code": "42",
+      "state_id": 1577,
+      "country_id": 126
+    }
+  ]
 }

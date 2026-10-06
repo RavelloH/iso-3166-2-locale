@@ -54,5 +54,24 @@
     "wikiDataId": "Q15630696",
     "country_code": "ME"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165191,
+      "name": "Petnjica",
+      "name_default": "Petnjica",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "42.90966000",
+      "longitude": "19.96364000",
+      "timezone": "Europe/Podgorica",
+      "wikiDataId": "Q1700305",
+      "country_code": "ME",
+      "state_code": "23",
+      "state_id": 12,
+      "country_id": 147
+    }
+  ]
 }

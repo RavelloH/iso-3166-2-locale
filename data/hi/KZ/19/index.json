@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Almaty",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "ALMT",
-        "tzName": "Alma-Ata Time[1"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Aqtau",
@@ -47,8 +47,8 @@
         "zoneName": "Asia/Atyrau",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "MSD+1",
-        "tzName": "Moscow Daylight Time+1"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Oral",
@@ -59,17 +59,17 @@
       },
       {
         "zoneName": "Asia/Qostanay",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
-        "abbreviation": "QYZST",
-        "tzName": "Qyzylorda Summer Time"
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       },
       {
         "zoneName": "Asia/Qyzylorda",
         "gmtOffset": 18000,
         "gmtOffsetName": "UTC+05:00",
-        "abbreviation": "QYZT",
-        "tzName": "Qyzylorda Summer Time"
+        "abbreviation": "KZT",
+        "tzName": "Kazakhstan Time"
       }
     ],
     "latitude": "48.00000000",
@@ -116,24 +116,6 @@
       "country_id": 112
     },
     {
-      "id": 65633,
-      "name": "बाल्पिक बी",
-      "name_default": "Balpyk Bī",
-      "native": "Балпық би",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 11810,
-      "latitude": "44.90225000",
-      "longitude": "78.23157000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q4076856",
-      "country_code": "KZ",
-      "state_code": "19",
-      "state_id": 143,
-      "country_id": 112
-    },
-    {
       "id": 65656,
       "name": "बुरुंडे",
       "name_default": "Burunday",
@@ -170,18 +152,18 @@
       "country_id": 112
     },
     {
-      "id": 65668,
-      "name": "द्रुज़्बा",
-      "name_default": "Druzhba",
-      "native": "Дружба",
-      "type": "city",
+      "id": 165155,
+      "name": "Chundzha",
+      "name_default": "Chundzha",
+      "native": "Шонжы",
+      "type": "adm2",
       "level": null,
       "parent_id": null,
-      "population": 2930,
-      "latitude": "45.25332000",
-      "longitude": "82.48044000",
+      "population": null,
+      "latitude": "43.53813000",
+      "longitude": "79.46582000",
       "timezone": "Asia/Almaty",
-      "wikiDataId": "Q1251114",
+      "wikiDataId": "Q1977617",
       "country_code": "KZ",
       "state_code": "19",
       "state_id": 143,
@@ -244,7 +226,7 @@
     {
       "id": 65715,
       "name": "कुष्ठ रोग",
-      "name_default": "Lepsy",
+      "name_default": "Lepsi",
       "native": "Лепси",
       "type": "city",
       "level": null,
@@ -272,6 +254,24 @@
       "longitude": "78.71806000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q4282692",
+      "country_code": "KZ",
+      "state_code": "19",
+      "state_id": 143,
+      "country_id": 112
+    },
+    {
+      "id": 165153,
+      "name": "Narynkol",
+      "name_default": "Narynkol",
+      "native": "Нарынқол",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "42.72636000",
+      "longitude": "80.17495000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q4506751",
       "country_code": "KZ",
       "state_code": "19",
       "state_id": 143,
@@ -314,24 +314,6 @@
       "country_id": 112
     },
     {
-      "id": 65763,
-      "name": "Sarķand",
-      "name_default": "Sarkand",
-      "native": "Сарқанд",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 76919,
-      "latitude": "45.41126000",
-      "longitude": "79.91545000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q1340535",
-      "country_code": "KZ",
-      "state_code": "19",
-      "state_id": 143,
-      "country_id": 112
-    },
-    {
       "id": 65767,
       "name": "सरयोज़ेक",
       "name_default": "Saryozek",
@@ -350,18 +332,18 @@
       "country_id": 112
     },
     {
-      "id": 65800,
-      "name": "अल्माटी",
-      "name_default": "Taldykorgan",
-      "native": "Талдықорған",
-      "type": "adm1",
+      "id": 165151,
+      "name": "Shelek",
+      "name_default": "Shelek",
+      "native": "Шелек",
+      "type": "city",
       "level": null,
       "parent_id": null,
-      "population": 116558,
-      "latitude": "45.01556000",
-      "longitude": "78.37389000",
+      "population": 29032,
+      "latitude": "43.59623000",
+      "longitude": "78.25745000",
       "timezone": "Asia/Almaty",
-      "wikiDataId": "Q491102",
+      "wikiDataId": "Q3403059",
       "country_code": "KZ",
       "state_code": "19",
       "state_id": 143,
@@ -442,7 +424,7 @@
     {
       "id": 65823,
       "name": "उश-ट्यूबे",
-      "name_default": "Ush-Tyube",
+      "name_default": "Ushtobe",
       "native": "Үш-Төбе",
       "type": "adm2",
       "level": null,
@@ -452,24 +434,6 @@
       "longitude": "77.98007000",
       "timezone": "Asia/Almaty",
       "wikiDataId": "Q254928",
-      "country_code": "KZ",
-      "state_code": "19",
-      "state_id": 143,
-      "country_id": 112
-    },
-    {
-      "id": 65841,
-      "name": "झारकेंट",
-      "name_default": "Zharkent",
-      "native": "Жаркент",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 34422,
-      "latitude": "44.16660000",
-      "longitude": "80.00655000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q2231416",
       "country_code": "KZ",
       "state_code": "19",
       "state_id": 143,

@@ -45,7 +45,7 @@
     "name_default": "Zoundwéogo",
     "native": "Zoundwéogo",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3149",
     "population": null,
     "latitude": "11.55258950",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q227059",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164503,
+      "name": "Gomboussougou",
+      "name_default": "Gomboussougou",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "11.42611000",
+      "longitude": "-0.77278000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q18345235",
+      "country_code": "BF",
+      "state_code": "ZOU",
+      "state_id": 3118,
+      "country_id": 35
+    }
+  ]
 }

@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q487709",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165564,
+      "name": "Yei",
+      "name_default": "Yei",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 260720,
+      "latitude": "4.09444000",
+      "longitude": "30.67639000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1561403",
+      "country_code": "SS",
+      "state_code": "EC",
+      "state_id": 2092,
+      "country_id": 206
+    }
+  ]
 }

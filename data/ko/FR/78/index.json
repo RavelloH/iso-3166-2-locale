@@ -2036,6 +2036,24 @@
       "country_id": 75
     },
     {
+      "id": 45552,
+      "name": "로켄쿠르",
+      "name_default": "Rocquencourt",
+      "native": "Rocquencourt",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3389,
+      "latitude": "48.83783000",
+      "longitude": "2.10228000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q1418760",
+      "country_code": "FR",
+      "state_code": "78",
+      "state_id": 5046,
+      "country_id": 75
+    },
+    {
       "id": 45607,
       "name": "로즈니쉬르센",
       "name_default": "Rosny-sur-Seine",
@@ -2452,8 +2470,8 @@
     {
       "id": 47825,
       "name": "빌리에-생-프레데릭",
-      "name_default": "Villiers-Saint-Fréderic",
-      "native": "Villiers-Saint-Fréderic",
+      "name_default": "Villiers-Saint-Frédéric",
+      "native": "Villiers-Saint-Frédéric",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -51,8 +51,45 @@
     "latitude": "54.68704580",
     "longitude": "25.28291110",
     "timezone": "Europe/Vilnius",
-    "wikiDataId": "Q928917",
+    "wikiDataId": "Q118903",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66643,
+      "name": "ネメンチネ",
+      "name_default": "Nemenčinė",
+      "native": "Nemenčinė",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4582,
+      "latitude": "54.84776000",
+      "longitude": "25.46992000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q118910",
+      "country_code": "LT",
+      "state_code": "58",
+      "state_id": 5725,
+      "country_id": 126
+    },
+    {
+      "id": 66680,
+      "name": "スカイディシュケス",
+      "name_default": "Skaidiškės",
+      "native": "Skaidiškės",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4051,
+      "latitude": "54.61398000",
+      "longitude": "25.39573000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q5247193",
+      "country_code": "LT",
+      "state_code": "58",
+      "state_id": 5725,
+      "country_id": 126
+    }
+  ]
 }

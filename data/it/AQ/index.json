@@ -24,8 +24,8 @@
     "timezones": [
       {
         "zoneName": "Antarctica/Casey",
-        "gmtOffset": 39600,
-        "gmtOffsetName": "UTC+11:00",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
         "abbreviation": "AWST",
         "tzName": "Australian Western Standard Time"
       },
@@ -52,10 +52,10 @@
       },
       {
         "zoneName": "Antarctica/McMurdo",
-        "gmtOffset": 46800,
-        "gmtOffsetName": "UTC+13:00",
-        "abbreviation": "NZDT",
-        "tzName": "New Zealand Daylight Time"
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NZST",
+        "tzName": "New Zealand Standard Time"
       },
       {
         "zoneName": "Antarctica/Palmer",
@@ -87,8 +87,8 @@
       },
       {
         "zoneName": "Antarctica/Vostok",
-        "gmtOffset": 21600,
-        "gmtOffsetName": "UTC+06:00",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
         "abbreviation": "VOST",
         "tzName": "Vostok Station Time"
       }

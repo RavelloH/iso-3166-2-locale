@@ -54,5 +54,42 @@
     "wikiDataId": "Q156560",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66622,
+      "name": "विनियस",
+      "name_default": "Kretinga",
+      "native": "Kretinga",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 17207,
+      "latitude": "55.88880000",
+      "longitude": "21.24448000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1788115",
+      "country_code": "LT",
+      "state_code": "22",
+      "state_id": 1571,
+      "country_id": 126
+    },
+    {
+      "id": 66673,
+      "name": "सलंताई",
+      "name_default": "Salantai",
+      "native": "Salantai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1829,
+      "latitude": "56.05650000",
+      "longitude": "21.56890000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q157516",
+      "country_code": "LT",
+      "state_code": "22",
+      "state_id": 1571,
+      "country_id": 126
+    }
+  ]
 }

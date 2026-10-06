@@ -54,5 +54,24 @@
     "wikiDataId": "Q501696",
     "country_code": "BD"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164480,
+      "name": "Uttar Char Fasson",
+      "name_default": "Uttar Char Fasson",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 48305,
+      "latitude": "22.22647000",
+      "longitude": "90.71275000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q21747725",
+      "country_code": "BD",
+      "state_code": "D",
+      "state_id": 775,
+      "country_id": 19
+    }
+  ]
 }

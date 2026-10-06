@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Africa/Juba",
-        "gmtOffset": 10800,
-        "gmtOffsetName": "UTC+03:00",
-        "abbreviation": "EAT",
-        "tzName": "East Africa Time"
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "7.00000000",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q488519",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165568,
+      "name": "Pajok",
+      "name_default": "Pajok",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 49000,
+      "latitude": "3.86512000",
+      "longitude": "32.48212000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q7137581",
+      "country_code": "SS",
+      "state_code": "EE",
+      "state_id": 2093,
+      "country_id": 206
+    },
+    {
+      "id": 165572,
+      "name": "Torit",
+      "name_default": "Torit",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 20048,
+      "latitude": "4.41177000",
+      "longitude": "32.57046000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1010278",
+      "country_code": "SS",
+      "state_code": "EE",
+      "state_id": 2093,
+      "country_id": 206
+    }
+  ]
 }

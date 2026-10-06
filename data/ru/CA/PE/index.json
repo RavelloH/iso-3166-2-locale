@@ -66,10 +66,10 @@
       },
       {
         "zoneName": "America/Edmonton",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Fort_Nelson",
@@ -101,10 +101,10 @@
       },
       {
         "zoneName": "America/Inuvik",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Iqaluit",
@@ -192,10 +192,10 @@
       },
       {
         "zoneName": "America/Vancouver",
-        "gmtOffset": -28800,
-        "gmtOffsetName": "UTC-08:00",
-        "abbreviation": "PST",
-        "tzName": "Pacific Standard Time (North America)"
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
       },
       {
         "zoneName": "America/Whitehorse",
@@ -213,10 +213,10 @@
       },
       {
         "zoneName": "America/Yellowknife",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       }
     ],
     "latitude": "60.00000000",
@@ -240,7 +240,7 @@
     "latitude": "46.50368070",
     "longitude": "-63.59541100",
     "timezone": "America/Halifax",
-    "wikiDataId": "Q1979",
+    "wikiDataId": "Q1978",
     "country_code": "CA"
   },
   "cities": [
@@ -314,24 +314,6 @@
       "country_code": "CA",
       "state_code": "PE",
       "state_id": 871,
-      "country_id": 39
-    },
-    {
-      "id": 16417,
-      "name": "Фоллингбрук",
-      "name_default": "Fallingbrook",
-      "native": "Fallingbrook",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 25000,
-      "latitude": "45.47558000",
-      "longitude": "-75.48401000",
-      "timezone": "America/Toronto",
-      "wikiDataId": "Q1744221",
-      "country_code": "CA",
-      "state_code": "PE",
-      "state_id": 866,
       "country_id": 39
     },
     {

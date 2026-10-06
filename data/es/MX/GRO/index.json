@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -314,8 +314,8 @@
     },
     {
       "id": 68077,
-      "name": "Acuitlapan",
-      "name_default": "Acuitlapan",
+      "name": "Acuitlapán",
+      "name_default": "Acuitlapán",
       "native": "Acuito",
       "type": "city",
       "level": null,
@@ -2617,24 +2617,6 @@
       "country_id": 142
     },
     {
-      "id": 70004,
-      "name": "El Jicaral",
-      "name_default": "El Jicaral",
-      "native": "El Jicaral",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1089,
-      "latitude": "17.12617000",
-      "longitude": "-98.19697000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q20230841",
-      "country_code": "MX",
-      "state_code": "GRO",
-      "state_id": 3448,
-      "country_id": 142
-    },
-    {
       "id": 70017,
       "name": "El Limón",
       "name_default": "El Limón",
@@ -3316,24 +3298,6 @@
       "country_code": "MX",
       "state_code": "GRO",
       "state_id": 3459,
-      "country_id": 142
-    },
-    {
-      "id": 70897,
-      "name": "Ixcamilpa",
-      "name_default": "Ixcamilpa",
-      "native": "Ixcamilpa",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 1354,
-      "latitude": "18.02769000",
-      "longitude": "-98.69643000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q12814736",
-      "country_code": "MX",
-      "state_code": "GRO",
-      "state_id": 3476,
       "country_id": 142
     },
     {
@@ -6265,6 +6229,24 @@
       "longitude": "-100.61178000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q50003271",
+      "country_code": "MX",
+      "state_code": "GRO",
+      "state_id": 3459,
+      "country_id": 142
+    },
+    {
+      "id": 165240,
+      "name": "Taxco de Alarcón",
+      "name_default": "Taxco de Alarcón",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 50399,
+      "latitude": "18.55708000",
+      "longitude": "-99.60512000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q990095",
       "country_code": "MX",
       "state_code": "GRO",
       "state_id": 3459,

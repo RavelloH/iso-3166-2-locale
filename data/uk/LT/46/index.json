@@ -54,5 +54,24 @@
     "wikiDataId": "Q282098",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66677,
+      "name": "Силут",
+      "name_default": "Silute",
+      "native": "Silute",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16200,
+      "latitude": "55.34889000",
+      "longitude": "21.48306000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q391626",
+      "country_code": "LT",
+      "state_code": "46",
+      "state_id": 1607,
+      "country_id": 126
+    }
+  ]
 }

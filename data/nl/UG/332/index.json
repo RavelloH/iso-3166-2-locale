@@ -54,5 +54,24 @@
     "wikiDataId": "Q38249567",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165650,
+      "name": "Pakwach",
+      "name_default": "Pakwach",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 28700,
+      "latitude": "2.46335000",
+      "longitude": "31.49832000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q451589",
+      "country_code": "UG",
+      "state_code": "332",
+      "state_id": 357,
+      "country_id": 229
+    }
+  ]
 }

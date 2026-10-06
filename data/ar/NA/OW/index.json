@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165300,
+      "name": "Eenhana",
+      "name_default": "Eenhana",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-17.48535000",
+      "longitude": "16.32940000",
+      "timezone": "Africa/Windhoek",
+      "wikiDataId": "Q774264",
+      "country_code": "NA",
+      "state_code": "OW",
+      "state_id": 40,
+      "country_id": 152
+    },
+    {
       "id": 76657,
       "name": "أوشيكانغو",
       "name_default": "Oshikango",

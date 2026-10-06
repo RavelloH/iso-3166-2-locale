@@ -54,5 +54,24 @@
     "wikiDataId": "Q983748",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165646,
+      "name": "Kakira",
+      "name_default": "Kakira",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 35800,
+      "latitude": "0.50833000",
+      "longitude": "33.28778000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6349469",
+      "country_code": "UG",
+      "state_code": "204",
+      "state_id": 367,
+      "country_id": 229
+    }
+  ]
 }

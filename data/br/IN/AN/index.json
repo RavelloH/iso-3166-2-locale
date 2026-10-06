@@ -74,6 +74,24 @@
       "country_id": 101
     },
     {
+      "id": 164881,
+      "name": "Diglipur",
+      "name_default": "Diglipur",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 42877,
+      "latitude": "13.26667000",
+      "longitude": "93.00000000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q5276296",
+      "country_code": "IN",
+      "state_code": "AN",
+      "state_id": 4023,
+      "country_id": 101
+    },
+    {
       "id": 133213,
       "name": "Nikobar",
       "name_default": "Nicobar",
@@ -114,7 +132,7 @@
       "name": "Su Andaman",
       "name_default": "South Andaman",
       "native": "दक्षिण अंडमान",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 238142,

@@ -54,5 +54,42 @@
     "wikiDataId": "Q3321614",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165669,
+      "name": "Kalungu",
+      "name_default": "Kalungu",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-0.16969000",
+      "longitude": "31.75847000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6354619",
+      "country_code": "UG",
+      "state_code": "122",
+      "state_id": 394,
+      "country_id": 229
+    },
+    {
+      "id": 165652,
+      "name": "Lukaya",
+      "name_default": "Lukaya",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 25600,
+      "latitude": "-0.11306000",
+      "longitude": "31.85389000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6701734",
+      "country_code": "UG",
+      "state_code": "122",
+      "state_id": 394,
+      "country_id": 229
+    }
+  ]
 }

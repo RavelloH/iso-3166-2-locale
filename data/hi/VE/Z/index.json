@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165819,
+      "name": "La Esmeralda",
+      "name_default": "La Esmeralda",
+      "native": "La Esmeralda",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "3.17453000",
+      "longitude": "-65.54517000",
+      "timezone": "America/Caracas",
+      "wikiDataId": "Q430374",
+      "country_code": "VE",
+      "state_code": "Z",
+      "state_id": 2044,
+      "country_id": 239
+    },
+    {
       "id": 130106,
       "name": "मारोआ",
       "name_default": "Maroa",

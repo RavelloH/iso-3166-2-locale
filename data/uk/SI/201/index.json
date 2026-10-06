@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165541,
+      "name": "Bukovica",
+      "name_default": "Bukovica",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "45.90083000",
+      "longitude": "13.66722000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q2355438",
+      "country_code": "SI",
+      "state_code": "201",
+      "state_id": 4253,
+      "country_id": 201
+    },
+    {
       "id": 104253,
       "name": "Ренче",
       "name_default": "Renče",

@@ -45,7 +45,7 @@
     "name_default": "Comoé",
     "native": "Comoé",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3153",
     "population": null,
     "latitude": "10.24198970",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1074496",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164495,
+      "name": "Niangoloko",
+      "name_default": "Niangoloko",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33292,
+      "latitude": "10.28333000",
+      "longitude": "-4.91667000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q1016827",
+      "country_code": "BF",
+      "state_code": "COM",
+      "state_id": 3167,
+      "country_id": 35
+    }
+  ]
 }

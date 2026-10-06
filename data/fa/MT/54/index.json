@@ -54,5 +54,24 @@
     "wikiDataId": "Q585420",
     "country_code": "MT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67808,
+      "name": "سانتا ونرا",
+      "name_default": "Santa Venera",
+      "native": "Santa Venera",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6932,
+      "latitude": "35.89083000",
+      "longitude": "14.47417000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q585420",
+      "country_code": "MT",
+      "state_code": "54",
+      "state_id": 90,
+      "country_id": 135
+    }
+  ]
 }

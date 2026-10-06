@@ -54,5 +54,24 @@
     "wikiDataId": "Q766969",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66608,
+      "name": "جودوپه",
+      "name_default": "Juodupė",
+      "native": "Juodupė",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1989,
+      "latitude": "56.08700000",
+      "longitude": "25.60700000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q6314474",
+      "country_code": "LT",
+      "state_code": "40",
+      "state_id": 1615,
+      "country_id": 126
+    }
+  ]
 }

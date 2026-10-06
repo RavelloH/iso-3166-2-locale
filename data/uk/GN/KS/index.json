@@ -54,5 +54,24 @@
     "wikiDataId": "Q1470920",
     "country_code": "GN"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164772,
+      "name": "Kissidougou",
+      "name_default": "Kissidougou",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 116019,
+      "latitude": "9.18480000",
+      "longitude": "-10.09987000",
+      "timezone": "Africa/Conakry",
+      "wikiDataId": "Q1358885",
+      "country_code": "GN",
+      "state_code": "KS",
+      "state_id": 2691,
+      "country_id": 92
+    }
+  ]
 }

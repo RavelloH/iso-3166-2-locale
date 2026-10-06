@@ -54,24 +54,5 @@
     "wikiDataId": "Q179243",
     "country_code": "MT"
   },
-  "cities": [
-    {
-      "id": 67773,
-      "name": "Хаж-Жеббуґ",
-      "name_default": "Ħaż-Żebbuġ",
-      "native": "Ħaż-Żebbuġ",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 11079,
-      "latitude": "35.87194000",
-      "longitude": "14.44111000",
-      "timezone": "Europe/Malta",
-      "wikiDataId": "Q44573",
-      "country_code": "MT",
-      "state_code": "65",
-      "state_id": 85,
-      "country_id": 135
-    }
-  ]
+  "cities": []
 }

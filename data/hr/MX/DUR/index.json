@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -403,24 +403,6 @@
       "country_id": 142
     },
     {
-      "id": 69158,
-      "name": "Ciudad Guadalupe Victoria",
-      "name_default": "Ciudad Guadalupe Victoria",
-      "native": "Ciudad Guadalupe Victoria",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 16506,
-      "latitude": "24.44401000",
-      "longitude": "-104.12156000",
-      "timezone": "America/Monterrey",
-      "wikiDataId": "Q5124149",
-      "country_code": "MX",
-      "state_code": "DUR",
-      "state_id": 3453,
-      "country_id": 142
-    },
-    {
       "id": 69163,
       "name": "Ciudad Lerdo",
       "name_default": "Ciudad Lerdo",
@@ -441,7 +423,7 @@
     {
       "id": 69575,
       "name": "Cuauhtemoc",
-      "name_default": "Cuauhtemoc",
+      "name_default": "Cuauhtémoc",
       "native": "Cuauhtemoc",
       "type": "city",
       "level": null,
@@ -817,6 +799,24 @@
       "country_id": 142
     },
     {
+      "id": 165250,
+      "name": "General Simón Bolívar",
+      "name_default": "General Simón Bolívar",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "24.68771000",
+      "longitude": "-103.22572000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q2914091",
+      "country_code": "MX",
+      "state_code": "DUR",
+      "state_id": 3453,
+      "country_id": 142
+    },
+    {
       "id": 70646,
       "name": "Gómez Palacio",
       "name_default": "Gómez Palacio",
@@ -829,6 +829,24 @@
       "longitude": "-103.49588000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q1775128",
+      "country_code": "MX",
+      "state_code": "DUR",
+      "state_id": 3453,
+      "country_id": 142
+    },
+    {
+      "id": 69158,
+      "name": "Ciudad Guadalupe Victoria",
+      "name_default": "Guadalupe Victoria",
+      "native": "Ciudad Guadalupe Victoria",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 16506,
+      "latitude": "24.44401000",
+      "longitude": "-104.12156000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q5124149",
       "country_code": "MX",
       "state_code": "DUR",
       "state_id": 3453,
@@ -883,6 +901,24 @@
       "longitude": "-104.82823000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q2123554",
+      "country_code": "MX",
+      "state_code": "DUR",
+      "state_id": 3453,
+      "country_id": 142
+    },
+    {
+      "id": 70802,
+      "name": "Huitrón",
+      "name_default": "Huitrón",
+      "native": "Huitrón",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1511,
+      "latitude": "25.85748000",
+      "longitude": "-103.34825000",
+      "timezone": "America/Monterrey",
+      "wikiDataId": "Q49950102",
       "country_code": "MX",
       "state_code": "DUR",
       "state_id": 3453,
@@ -1287,7 +1323,7 @@
     {
       "id": 71769,
       "name": "Los Angeles",
-      "name_default": "Los Angeles",
+      "name_default": "Los Ángeles",
       "native": "Los Angeles",
       "type": "city",
       "level": null,

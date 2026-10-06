@@ -45,7 +45,7 @@
     "name_default": "Yagha",
     "native": "Yagha",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3114",
     "population": null,
     "latitude": "13.42694450",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1074466",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164505,
+      "name": "Sebba",
+      "name_default": "Sebba",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.43641000",
+      "longitude": "0.53044000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q614566",
+      "country_code": "BF",
+      "state_code": "YAG",
+      "state_id": 3124,
+      "country_id": 35
+    }
+  ]
 }

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165726,
+      "name": "Calliaqua",
+      "name_default": "Calliaqua",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.12867000",
+      "longitude": "-61.19178000",
+      "timezone": "America/St_Vincent",
+      "wikiDataId": "Q5021973",
+      "country_code": "VC",
+      "state_code": "04",
+      "state_id": 3384,
+      "country_id": 188
+    },
+    {
       "id": 130034,
       "name": "Кингстаун",
       "name_default": "Kingstown",

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 67773,
+      "name": "Haz-जेबग",
+      "name_default": "Ħaż-Żebbuġ",
+      "native": "Ħaż-Żebbuġ",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 11079,
+      "latitude": "35.87194000",
+      "longitude": "14.44111000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q44573",
+      "country_code": "MT",
+      "state_code": "66",
+      "state_id": 80,
+      "country_id": 135
+    },
+    {
       "id": 67823,
       "name": "जेबग",
       "name_default": "Żebbuġ",

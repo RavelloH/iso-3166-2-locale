@@ -54,24 +54,5 @@
     "wikiDataId": "Q1017339",
     "country_code": "MT"
   },
-  "cities": [
-    {
-      "id": 67767,
-      "name": "Gudža",
-      "name_default": "Gudja",
-      "native": "Gudja",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 2997,
-      "latitude": "35.84917000",
-      "longitude": "14.50306000",
-      "timezone": "Europe/Malta",
-      "wikiDataId": "Q1018153",
-      "country_code": "MT",
-      "state_code": "16",
-      "state_id": 106,
-      "country_id": 135
-    }
-  ]
+  "cities": []
 }

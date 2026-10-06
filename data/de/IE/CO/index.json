@@ -54,5 +54,24 @@
     "wikiDataId": "Q162475",
     "country_code": "IE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164827,
+      "name": "Ballincollig",
+      "name_default": "Ballincollig",
+      "native": "Baile an Chollaigh",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "51.88333000",
+      "longitude": "-8.58333000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q2528844",
+      "country_code": "IE",
+      "state_code": "CO",
+      "state_id": 1074,
+      "country_id": 105
+    }
+  ]
 }

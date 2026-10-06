@@ -51,10 +51,28 @@
     "latitude": "23.01330000",
     "longitude": "91.40390000",
     "timezone": "Asia/Dhaka",
-    "wikiDataId": null,
+    "wikiDataId": "Q1404741",
     "country_code": "BD"
   },
   "cities": [
+    {
+      "id": 164486,
+      "name": "Chhāgalnāiya",
+      "name_default": "Chhāgalnāiya",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 39335,
+      "latitude": "23.02475000",
+      "longitude": "91.51091000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q4518421",
+      "country_code": "BD",
+      "state_code": "16",
+      "state_id": 5489,
+      "country_id": 19
+    },
     {
       "id": 8492,
       "name": "फेनी",

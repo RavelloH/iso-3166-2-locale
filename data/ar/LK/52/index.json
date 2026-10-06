@@ -54,5 +54,24 @@
     "wikiDataId": "Q474395",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165175,
+      "name": "Pottuvil",
+      "name_default": "Pottuvil",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 45727,
+      "latitude": "6.87620000",
+      "longitude": "81.82670000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q3533398",
+      "country_code": "LK",
+      "state_code": "52",
+      "state_id": 2799,
+      "country_id": 208
+    }
+  ]
 }

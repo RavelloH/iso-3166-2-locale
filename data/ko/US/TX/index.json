@@ -11772,6 +11772,24 @@
       "country_id": 233
     },
     {
+      "id": 165689,
+      "name": "New Caney",
+      "name_default": "New Caney",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 20000,
+      "latitude": "30.15522000",
+      "longitude": "-95.21132000",
+      "timezone": "America/Chicago",
+      "wikiDataId": "Q7006363",
+      "country_code": "US",
+      "state_code": "TX",
+      "state_id": 1407,
+      "country_id": 233
+    },
+    {
       "id": 122784,
       "name": "뉴 서머필드",
       "name_default": "New Summerfield",
@@ -13646,7 +13664,7 @@
     {
       "id": 124718,
       "name": "섭리",
-      "name_default": "Providence",
+      "name_default": "Providence Village",
       "native": "Providence",
       "type": "city",
       "level": null,

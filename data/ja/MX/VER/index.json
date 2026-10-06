@@ -38,10 +38,10 @@
       },
       {
         "zoneName": "America/Chihuahua",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Hermosillo",
@@ -87,10 +87,10 @@
       },
       {
         "zoneName": "America/Ojinaga",
-        "gmtOffset": -25200,
-        "gmtOffsetName": "UTC-07:00",
-        "abbreviation": "MST",
-        "tzName": "Mountain Standard Time (North America)"
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
       },
       {
         "zoneName": "America/Tijuana",
@@ -3010,24 +3010,6 @@
       "country_code": "MX",
       "state_code": "VER",
       "state_id": 3464,
-      "country_id": 142
-    },
-    {
-      "id": 69503,
-      "name": "コソラパ",
-      "name_default": "Cosolapa",
-      "native": "Cosolapa",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 8320,
-      "latitude": "18.60055000",
-      "longitude": "-96.68524000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q20265355",
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": 3448,
       "country_id": 142
     },
     {
@@ -6019,6 +6001,24 @@
       "country_id": 142
     },
     {
+      "id": 71301,
+      "name": "ラ・グロリア",
+      "name_default": "La Gloria",
+      "native": "La Gloria",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2510,
+      "latitude": "19.39561000",
+      "longitude": "-97.28246000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q2427917",
+      "country_code": "MX",
+      "state_code": "VER",
+      "state_id": 3464,
+      "country_id": 142
+    },
+    {
       "id": 71311,
       "name": "ラ・グアダルーペ",
       "name_default": "La Guadalupe",
@@ -6160,24 +6160,6 @@
       "country_code": "MX",
       "state_code": "VER",
       "state_id": 3464,
-      "country_id": 142
-    },
-    {
-      "id": 71335,
-      "name": "ラ・フンタ",
-      "name_default": "La Junta",
-      "native": "La Junta",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1014,
-      "latitude": "18.49136000",
-      "longitude": "-96.65720000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61285847",
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": 3448,
       "country_id": 142
     },
     {
@@ -7351,6 +7333,24 @@
       "country_id": 142
     },
     {
+      "id": 71953,
+      "name": "マナンティアレス",
+      "name_default": "Manantiales",
+      "native": "Manantiales",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1070,
+      "latitude": "20.17316000",
+      "longitude": "-97.11064000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61253618",
+      "country_code": "MX",
+      "state_code": "VER",
+      "state_id": 3464,
+      "country_id": 142
+    },
+    {
       "id": 71962,
       "name": "マヌエル・レオン",
       "name_default": "Manuel León",
@@ -8091,7 +8091,7 @@
     {
       "id": 72278,
       "name": "ナオリンコ",
-      "name_default": "Naolinco",
+      "name_default": "Naolinco de Victoria",
       "native": "Naolinco",
       "type": "adm2",
       "level": null,
@@ -8105,24 +8105,6 @@
       "state_code": "VER",
       "state_id": 3464,
       "country_id": 142
-    },
-    {
-      "id": 72279,
-      "name": "Naolinco de Victoria",
-      "name_default": "Naolinco de Victoria",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "19.65474000",
-      "longitude": "-96.87320000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": null,
-      "country_id": null
     },
     {
       "id": 72281,
@@ -9238,24 +9220,6 @@
       "country_code": "MX",
       "state_code": "VER",
       "state_id": 3464,
-      "country_id": 142
-    },
-    {
-      "id": 72802,
-      "name": "イグアラ計画",
-      "name_default": "Plan de Iguala",
-      "native": "Plan de Iguala",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1596,
-      "latitude": "22.03638000",
-      "longitude": "-98.46457000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q61312081",
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": 3461,
       "country_id": 142
     },
     {
@@ -10699,24 +10663,6 @@
       "country_id": 142
     },
     {
-      "id": 74387,
-      "name": "サン・ペドロ・トラニスコ",
-      "name_default": "San Pedro Tlanixco",
-      "native": "San Pedro Tlanixco",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 5307,
-      "latitude": "19.06259000",
-      "longitude": "-99.65237000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q6119568",
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": 3450,
-      "country_id": 142
-    },
-    {
       "id": 74389,
       "name": "サン・ペドロ・トラパコヤン",
       "name_default": "San Pedro Tlapacoyan",
@@ -11359,6 +11305,24 @@
       "longitude": "-97.80184000",
       "timezone": "America/Mexico_City",
       "wikiDataId": "Q3846850",
+      "country_code": "MX",
+      "state_code": "VER",
+      "state_id": 3464,
+      "country_id": 142
+    },
+    {
+      "id": 75203,
+      "name": "タンカサウエラ",
+      "name_default": "Tancazahuela",
+      "native": "Tancazahuela",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1315,
+      "latitude": "21.18300000",
+      "longitude": "-98.43483000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q61257824",
       "country_code": "MX",
       "state_code": "VER",
       "state_id": 3464,
@@ -12877,27 +12841,9 @@
       "country_id": 142
     },
     {
-      "id": 75857,
-      "name": "Túxpam de Rodríguez Cano",
-      "name_default": "Túxpam de Rodríguez Cano",
-      "native": null,
-      "type": null,
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "20.95777000",
-      "longitude": "-97.40805000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": null,
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": null,
-      "country_id": null
-    },
-    {
       "id": 75821,
       "name": "トゥクスパン",
-      "name_default": "Tuxpan",
+      "name_default": "Túxpam de Rodríguez Cano",
       "native": "Esmoquin",
       "type": "adm2",
       "level": null,
@@ -13324,24 +13270,6 @@
       "country_code": "MX",
       "state_code": "VER",
       "state_id": 3464,
-      "country_id": 142
-    },
-    {
-      "id": 76028,
-      "name": "ビジャ・ラサロ・カルデナス",
-      "name_default": "Villa Lázaro Cárdenas",
-      "native": "Villa Lázaro Cárdenas",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 12253,
-      "latitude": "20.46193000",
-      "longitude": "-97.70024000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q49901639",
-      "country_code": "MX",
-      "state_code": "VER",
-      "state_id": 3476,
       "country_id": 142
     },
     {

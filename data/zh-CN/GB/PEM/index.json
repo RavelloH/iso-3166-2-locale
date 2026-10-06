@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48855,
-      "name": "开襟衫",
-      "name_default": "Cardigan",
-      "native": "Cardigan",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 5301,
-      "latitude": "52.08373000",
-      "longitude": "-4.66228000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q779813",
-      "country_code": "GB",
-      "state_code": "PEM",
-      "state_id": 2509,
-      "country_id": 232
-    },
-    {
       "id": 49191,
       "name": "克里米奇",
       "name_default": "Crymych",
@@ -503,24 +485,6 @@
       "country_code": "GB",
       "state_code": "PEM",
       "state_id": 2486,
-      "country_id": 232
-    },
-    {
-      "id": 51877,
-      "name": "惠特兰",
-      "name_default": "Whitland",
-      "native": "Whitland",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 1514,
-      "latitude": "51.81889000",
-      "longitude": "-4.61528000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1996667",
-      "country_code": "GB",
-      "state_code": "PEM",
-      "state_id": 2484,
       "country_id": 232
     }
   ]

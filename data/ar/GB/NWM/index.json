@@ -54,42 +54,5 @@
     "wikiDataId": "Q208139",
     "country_code": "GB"
   },
-  "cities": [
-    {
-      "id": 48386,
-      "name": "نباح",
-      "name_default": "Barking",
-      "native": "Barking",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 61000,
-      "latitude": "51.53333000",
-      "longitude": "0.08333000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q377720",
-      "country_code": "GB",
-      "state_code": "NWM",
-      "state_id": 2418,
-      "country_id": 232
-    },
-    {
-      "id": 48842,
-      "name": "كاناري وارف",
-      "name_default": "Canary Wharf",
-      "native": "Canary Wharf",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 73390,
-      "latitude": "51.50519000",
-      "longitude": "-0.02085000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q124377",
-      "country_code": "GB",
-      "state_code": "NWM",
-      "state_id": 2418,
-      "country_id": 232
-    }
-  ]
+  "cities": []
 }

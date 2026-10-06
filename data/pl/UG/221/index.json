@@ -54,5 +54,24 @@
     "wikiDataId": "Q1375755",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165654,
+      "name": "Butaleja",
+      "name_default": "Butaleja",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 24000,
+      "latitude": "0.91194000",
+      "longitude": "33.95111000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q5002346",
+      "country_code": "UG",
+      "state_code": "221",
+      "state_id": 365,
+      "country_id": 229
+    }
+  ]
 }

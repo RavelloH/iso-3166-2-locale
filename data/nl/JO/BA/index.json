@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Amman",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "31.00000000",
@@ -86,6 +86,42 @@
       "longitude": "35.72722000",
       "timezone": "Asia/Amman",
       "wikiDataId": "Q867586",
+      "country_code": "JO",
+      "state_code": "BA",
+      "state_id": 961,
+      "country_id": 111
+    },
+    {
+      "id": 165108,
+      "name": "Dayr ‘Allā",
+      "name_default": "Dayr ‘Allā",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "32.19571000",
+      "longitude": "35.62161000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q4166525",
+      "country_code": "JO",
+      "state_code": "BA",
+      "state_id": 961,
+      "country_id": 111
+    },
+    {
+      "id": 165106,
+      "name": "Māḩiş",
+      "name_default": "Māḩiş",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "31.98646000",
+      "longitude": "35.76987000",
+      "timezone": "Asia/Amman",
+      "wikiDataId": "Q2068805",
       "country_code": "JO",
       "state_code": "BA",
       "state_id": 961,

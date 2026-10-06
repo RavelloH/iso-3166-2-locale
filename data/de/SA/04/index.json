@@ -362,6 +362,24 @@
       "country_id": 194
     },
     {
+      "id": 148825,
+      "name": "Al-Jafr",
+      "name_default": "Al-Jafr",
+      "native": "الجفر",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "25.41666667",
+      "longitude": "49.61666667",
+      "timezone": "Asia/Riyadh",
+      "wikiDataId": "Q4702579",
+      "country_code": "SA",
+      "state_code": "04",
+      "state_id": 2856,
+      "country_id": 194
+    },
+    {
       "id": 102843,
       "name": "As Saffānīyah",
       "name_default": "As Saffānīyah",
@@ -449,24 +467,6 @@
       "country_code": "SA",
       "state_code": "04",
       "state_id": 2856,
-      "country_id": 194
-    },
-    {
-      "id": 148564,
-      "name": "Hagel",
-      "name_default": "Ha'il",
-      "native": "يشيد ",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 310897,
-      "latitude": "27.51666667",
-      "longitude": "41.68333333",
-      "timezone": "Asia/Riyadh",
-      "wikiDataId": "Q675568",
-      "country_code": "SA",
-      "state_code": "04",
-      "state_id": 2855,
       "country_id": 194
     },
     {

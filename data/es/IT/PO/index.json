@@ -46,7 +46,7 @@
     "native": "Prato",
     "type": "province",
     "level": "2",
-    "parent_id": "1764",
+    "parent_id": "1664",
     "population": 198326,
     "latitude": "43.93571810",
     "longitude": "11.09414730",
@@ -89,24 +89,6 @@
       "country_code": "IT",
       "state_code": "PO",
       "state_id": 1700,
-      "country_id": 107
-    },
-    {
-      "id": 137393,
-      "name": "Cadena",
-      "name_default": "Catena",
-      "native": "Catena",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1542,
-      "latitude": "43.84254000",
-      "longitude": "11.01658000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": "Q18490788",
-      "country_code": "IT",
-      "state_code": "PO",
-      "state_id": 1687,
       "country_id": 107
     },
     {

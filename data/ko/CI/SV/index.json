@@ -51,7 +51,7 @@
     "latitude": "9.63735270",
     "longitude": "-6.70071860",
     "timezone": "Africa/Abidjan",
-    "wikiDataId": "Q853460",
+    "wikiDataId": "Q21002161",
     "country_code": "CI"
   },
   "cities": [
@@ -104,6 +104,24 @@
       "longitude": "-5.19611000",
       "timezone": "Africa/Abidjan",
       "wikiDataId": "Q849717",
+      "country_code": "CI",
+      "state_code": "SV",
+      "state_id": 2625,
+      "country_id": 54
+    },
+    {
+      "id": 164560,
+      "name": "Kaouara",
+      "name_default": "Kaouara",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26142,
+      "latitude": "10.09085000",
+      "longitude": "-5.19482000",
+      "timezone": "Africa/Abidjan",
+      "wikiDataId": "Q3192832",
       "country_code": "CI",
       "state_code": "SV",
       "state_id": 2625,

@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -225,7 +225,7 @@
     "population": null,
     "latitude": "58.59516030",
     "longitude": "56.31595460",
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Yekaterinburg",
     "wikiDataId": "Q5400",
     "country_code": "RU"
   },
@@ -603,6 +603,24 @@
       "longitude": "57.55325000",
       "timezone": "Asia/Yekaterinburg",
       "wikiDataId": "Q134670",
+      "country_code": "RU",
+      "state_code": "PER",
+      "state_id": 1871,
+      "country_id": 182
+    },
+    {
+      "id": 165497,
+      "name": "Il’inskiy",
+      "name_default": "Il’inskiy",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.56993000",
+      "longitude": "55.69503000",
+      "timezone": "Asia/Yekaterinburg",
+      "wikiDataId": "Q2949953",
       "country_code": "RU",
       "state_code": "PER",
       "state_id": 1871,

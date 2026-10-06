@@ -27,7 +27,7 @@
         "gmtOffset": 43200,
         "gmtOffsetName": "UTC+12:00",
         "abbreviation": "ANAT",
-        "tzName": "Anadyr Time[4"
+        "tzName": "Anadyr Time"
       },
       {
         "zoneName": "Asia/Barnaul",
@@ -199,8 +199,8 @@
       },
       {
         "zoneName": "Europe/Volgograd",
-        "gmtOffset": 14400,
-        "gmtOffsetName": "UTC+04:00",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
         "abbreviation": "MSK",
         "tzName": "Moscow Standard Time"
       }
@@ -441,6 +441,24 @@
       "longitude": "45.00000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1653265",
+      "country_code": "RU",
+      "state_code": "PNZ",
+      "state_id": 1909,
+      "country_id": 182
+    },
+    {
+      "id": 165469,
+      "name": "Kamenka",
+      "name_default": "Kamenka",
+      "native": "Каменка",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33060,
+      "latitude": "53.18139000",
+      "longitude": "44.04944000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q143839",
       "country_code": "RU",
       "state_code": "PNZ",
       "state_id": 1909,

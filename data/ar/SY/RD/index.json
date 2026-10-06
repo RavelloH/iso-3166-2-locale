@@ -24,10 +24,10 @@
     "timezones": [
       {
         "zoneName": "Asia/Damascus",
-        "gmtOffset": 7200,
-        "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EET",
-        "tzName": "Eastern European Time"
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
       }
     ],
     "latitude": "35.00000000",
@@ -362,6 +362,24 @@
       "country_id": 215
     },
     {
+      "id": 165576,
+      "name": "Şaḩnāyā",
+      "name_default": "Şaḩnāyā",
+      "native": null,
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 30519,
+      "latitude": "33.42531000",
+      "longitude": "36.22552000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q7399701",
+      "country_code": "SY",
+      "state_code": "RD",
+      "state_id": 2935,
+      "country_id": 215
+    },
+    {
       "id": 105070,
       "name": "سايدنايا",
       "name_default": "Şaydnāyā",
@@ -392,6 +410,24 @@
       "longitude": "36.65729000",
       "timezone": "Asia/Damascus",
       "wikiDataId": "Q172251",
+      "country_code": "SY",
+      "state_code": "RD",
+      "state_id": 2935,
+      "country_id": 215
+    },
+    {
+      "id": 165579,
+      "name": "Zākīyah",
+      "name_default": "Zākīyah",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "33.33406000",
+      "longitude": "36.15880000",
+      "timezone": "Asia/Damascus",
+      "wikiDataId": "Q12214191",
       "country_code": "SY",
       "state_code": "RD",
       "state_id": 2935,

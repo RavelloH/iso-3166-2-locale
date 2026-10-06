@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165617,
+      "name": "Diego Martin",
+      "name_default": "Diego Martin",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 25370,
+      "latitude": "10.72081000",
+      "longitude": "-61.56616000",
+      "timezone": "America/Port_of_Spain",
+      "wikiDataId": "Q1220518",
+      "country_code": "TT",
+      "state_code": "DMN",
+      "state_id": 3367,
+      "country_id": 223
+    },
+    {
       "id": 108978,
       "name": "Петіт-Веллі",
       "name_default": "Petit Valley",

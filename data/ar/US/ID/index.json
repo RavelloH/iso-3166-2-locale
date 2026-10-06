@@ -540,6 +540,24 @@
       "country_id": 233
     },
     {
+      "id": 165687,
+      "name": "Conda",
+      "name_default": "Conda",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21260,
+      "latitude": "42.72825000",
+      "longitude": "-111.53245000",
+      "timezone": "America/Boise",
+      "wikiDataId": "Q5159128",
+      "country_code": "US",
+      "state_code": "ID",
+      "state_id": 1460,
+      "country_id": 233
+    },
+    {
       "id": 114711,
       "name": "مجلس",
       "name_default": "Council",

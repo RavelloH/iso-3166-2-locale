@@ -133,6 +133,24 @@
   },
   "cities": [
     {
+      "id": 164447,
+      "name": "Algarrobo del Águila",
+      "name_default": "Algarrobo del Águila",
+      "native": null,
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-36.40053000",
+      "longitude": "-67.14457000",
+      "timezone": "America/Argentina/Salta",
+      "wikiDataId": "Q2386731",
+      "country_code": "AR",
+      "state_code": "L",
+      "state_id": 3655,
+      "country_id": 11
+    },
+    {
       "id": 652,
       "name": "ألباتشيري",
       "name_default": "Alpachiri",

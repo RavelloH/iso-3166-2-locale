@@ -45,7 +45,7 @@
     "name_default": "Bam",
     "native": "Bam",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3127",
     "population": null,
     "latitude": "13.46811500",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q620710",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164497,
+      "name": "Bourzanga",
+      "name_default": "Bourzanga",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 27213,
+      "latitude": "13.67806000",
+      "longitude": "-1.54611000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q4950372",
+      "country_code": "BF",
+      "state_code": "BAM",
+      "state_id": 3155,
+      "country_id": 35
+    },
+    {
+      "id": 164501,
+      "name": "Kouka",
+      "name_default": "Kouka",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.43450000",
+      "longitude": "-1.61361000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q10909174",
+      "country_code": "BF",
+      "state_code": "BAM",
+      "state_id": 3155,
+      "country_id": 35
+    }
+  ]
 }

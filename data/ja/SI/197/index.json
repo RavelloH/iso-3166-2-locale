@@ -54,5 +54,24 @@
     "wikiDataId": "Q12062190",
     "country_code": "SI"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 104144,
+      "name": "コスタニェヴィツァ・ナ・クルキ",
+      "name_default": "Kostanjevica na Krki",
+      "native": "Kostanjevica na Krki",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 689,
+      "latitude": "45.84611000",
+      "longitude": "15.42222000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q15885",
+      "country_code": "SI",
+      "state_code": "197",
+      "state_id": 4254,
+      "country_id": 201
+    }
+  ]
 }

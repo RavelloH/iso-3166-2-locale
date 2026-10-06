@@ -54,5 +54,24 @@
     "wikiDataId": "Q2089791",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66625,
+      "name": "كوبيسكيس",
+      "name_default": "Kupiskis",
+      "native": "Rankogalį",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 8263,
+      "latitude": "55.84027000",
+      "longitude": "24.97976000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q27484028",
+      "country_code": "LT",
+      "state_code": "23",
+      "state_id": 1585,
+      "country_id": 126
+    }
+  ]
 }

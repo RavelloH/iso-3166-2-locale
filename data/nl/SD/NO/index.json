@@ -26,8 +26,8 @@
         "zoneName": "Africa/Khartoum",
         "gmtOffset": 7200,
         "gmtOffsetName": "UTC+02:00",
-        "abbreviation": "EAT",
-        "tzName": "Eastern African Time"
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
       }
     ],
     "latitude": "15.00000000",
@@ -158,6 +158,24 @@
       "longitude": "31.81126000",
       "timezone": "Africa/Khartoum",
       "wikiDataId": "Q2784541",
+      "country_code": "SD",
+      "state_code": "NO",
+      "state_id": 895,
+      "country_id": 209
+    },
+    {
+      "id": 165530,
+      "name": "Wadi Halfa",
+      "name_default": "Wadi Halfa",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "21.79577000",
+      "longitude": "31.37129000",
+      "timezone": "Africa/Khartoum",
+      "wikiDataId": "Q740865",
       "country_code": "SD",
       "state_code": "NO",
       "state_id": 895,

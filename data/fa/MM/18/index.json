@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165218,
+      "name": "Lewe",
+      "name_default": "Lewe",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 30208,
+      "latitude": "19.63606000",
+      "longitude": "96.10998000",
+      "timezone": "Asia/Yangon",
+      "wikiDataId": "Q6536109",
+      "country_code": "MM",
+      "state_code": "18",
+      "state_id": 2146,
+      "country_id": 151
+    },
+    {
       "id": 67672,
       "name": "نای پی تاو",
       "name_default": "Nay Pyi Taw",

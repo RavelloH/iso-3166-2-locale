@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165542,
+      "name": "Breznica",
+      "name_default": "Breznica",
+      "native": null,
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "46.39385000",
+      "longitude": "14.15409000",
+      "timezone": "Europe/Ljubljana",
+      "wikiDataId": "Q1265463",
+      "country_code": "SI",
+      "state_code": "192",
+      "state_id": 4276,
+      "country_id": 201
+    },
+    {
       "id": 104368,
       "name": "ज़िरोव्निका",
       "name_default": "Žirovnica",

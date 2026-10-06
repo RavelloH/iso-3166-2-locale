@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 164492,
+      "name": "Anderlecht",
+      "name_default": "Anderlecht",
+      "native": null,
+      "type": "adm4",
+      "level": null,
+      "parent_id": null,
+      "population": 160553,
+      "latitude": "50.83619000",
+      "longitude": "4.31454000",
+      "timezone": "Europe/Brussels",
+      "wikiDataId": "Q12886",
+      "country_code": "BE",
+      "state_code": "BRU",
+      "state_id": 1376,
+      "country_id": 22
+    },
+    {
       "id": 8693,
       "name": "Brusel",
       "name_default": "Brussels",

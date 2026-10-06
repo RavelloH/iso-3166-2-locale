@@ -45,7 +45,7 @@
     "name_default": "Boulgou",
     "native": "Boulgou",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3162",
     "population": null,
     "latitude": "11.46462500",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q895097",
     "country_code": "BF"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164496,
+      "name": "Bittou",
+      "name_default": "Bittou",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 31210,
+      "latitude": "11.25806000",
+      "longitude": "-0.30611000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q999177",
+      "country_code": "BF",
+      "state_code": "BLG",
+      "state_id": 3131,
+      "country_id": 35
+    },
+    {
+      "id": 164500,
+      "name": "Zabré",
+      "name_default": "Zabré",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21726,
+      "latitude": "11.18250000",
+      "longitude": "-0.63222000",
+      "timezone": "Africa/Ouagadougou",
+      "wikiDataId": "Q3574468",
+      "country_code": "BF",
+      "state_code": "BLG",
+      "state_id": 3131,
+      "country_id": 35
+    }
+  ]
 }

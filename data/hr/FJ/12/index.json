@@ -45,14 +45,33 @@
     "name_default": "Rewa",
     "native": "Rewa",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "1929",
     "population": null,
-    "latitude": "34.79235170",
-    "longitude": "-82.36092640",
+    "latitude": "-18.08333333",
+    "longitude": "178.33333333",
     "timezone": "Pacific/Fiji",
     "wikiDataId": "Q1365257",
     "country_code": "FJ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 164718,
+      "name": "Lami",
+      "name_default": "Lami",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 24639,
+      "latitude": "-18.11094000",
+      "longitude": "178.40943000",
+      "timezone": "Pacific/Fiji",
+      "wikiDataId": "Q26703",
+      "country_code": "FJ",
+      "state_code": "12",
+      "state_id": 1920,
+      "country_id": 73
+    }
+  ]
 }

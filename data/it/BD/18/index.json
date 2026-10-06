@@ -51,7 +51,7 @@
     "latitude": "24.09580000",
     "longitude": "90.41250000",
     "timezone": "Asia/Dhaka",
-    "wikiDataId": null,
+    "wikiDataId": "Q2094101",
     "country_code": "BD"
   },
   "cities": [
@@ -68,6 +68,24 @@
       "longitude": "90.09596140",
       "timezone": "Asia/Dhaka",
       "wikiDataId": "Q2094101",
+      "country_code": "BD",
+      "state_code": "18",
+      "state_id": 5491,
+      "country_id": 19
+    },
+    {
+      "id": 164477,
+      "name": "Tungi",
+      "name_default": "Tungi",
+      "native": "টঙ্গী",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 337579,
+      "latitude": "23.89154000",
+      "longitude": "90.40232000",
+      "timezone": "Asia/Dhaka",
+      "wikiDataId": "Q1756617",
       "country_code": "BD",
       "state_code": "18",
       "state_id": 5491,

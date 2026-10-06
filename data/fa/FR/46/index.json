@@ -254,6 +254,24 @@
       "country_id": 75
     },
     {
+      "id": 43334,
+      "name": "لو ویگان",
+      "name_default": "Le Vigan",
+      "native": "Le Vigan",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1276,
+      "latitude": "44.74075000",
+      "longitude": "1.43963000",
+      "timezone": "Europe/Paris",
+      "wikiDataId": "Q1383446",
+      "country_code": "FR",
+      "state_code": "46",
+      "state_id": 5014,
+      "country_id": 75
+    },
+    {
       "id": 43456,
       "name": "لیمه",
       "name_default": "Leyme",
@@ -276,7 +294,7 @@
       "name": "لات",
       "name_default": "Lot",
       "native": "Lot",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 175620,
@@ -341,24 +359,6 @@
       "country_code": "FR",
       "state_code": "46",
       "state_id": 5014,
-      "country_id": 75
-    },
-    {
-      "id": 44304,
-      "name": "مونتریدون",
-      "name_default": "Montredon",
-      "native": "Montredon",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 4905,
-      "latitude": "43.24016000",
-      "longitude": "5.36629000",
-      "timezone": "Europe/Paris",
-      "wikiDataId": "Q3322932",
-      "country_code": "FR",
-      "state_code": "46",
-      "state_id": 4979,
       "country_id": 75
     },
     {

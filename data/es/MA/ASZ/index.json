@@ -24,17 +24,17 @@
     "timezones": [
       {
         "zoneName": "Africa/Casablanca",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western European Summer Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       },
       {
         "zoneName": "Africa/El_Aaiun",
-        "gmtOffset": 3600,
-        "gmtOffsetName": "UTC+01:00",
-        "abbreviation": "WEST",
-        "tzName": "Western Sahara Time"
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
       }
     ],
     "latitude": "32.00000000",
@@ -52,7 +52,7 @@
     "name_default": "Assa-Zag (EH-partial)",
     "native": "Assa-Zag (EH-جزئي)",
     "type": "province",
-    "level": "1",
+    "level": "2",
     "parent_id": "3305",
     "population": null,
     "latitude": "28.14023950",
@@ -62,24 +62,6 @@
     "country_code": "MA"
   },
   "cities": [
-    {
-      "id": 67046,
-      "name": "Agadir",
-      "name_default": "Agadir",
-      "native": "أكادير",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 698310,
-      "latitude": "30.42018000",
-      "longitude": "-9.59815000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q170525",
-      "country_code": "MA",
-      "state_code": "ASZ",
-      "state_id": 3297,
-      "country_id": 149
-    },
     {
       "id": 67047,
       "name": "Agadir Melloul",
@@ -225,24 +207,6 @@
       "country_id": 149
     },
     {
-      "id": 67136,
-      "name": "Inezgane",
-      "name_default": "Inezgane",
-      "native": "إنزكان",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 137512,
-      "latitude": "30.35535000",
-      "longitude": "-9.53639000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q2736030",
-      "country_code": "MA",
-      "state_code": "ASZ",
-      "state_id": 3297,
-      "country_id": 149
-    },
-    {
       "id": 67137,
       "name": "Inezgane-Ait Melloul",
       "name_default": "Inezgane-Ait Melloul",
@@ -279,24 +243,6 @@
       "country_id": 149
     },
     {
-      "id": 67190,
-      "name": "Oulad Teima",
-      "name_default": "Oulad Teïma",
-      "native": "أولاد تايمة",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 100284,
-      "latitude": "30.39467000",
-      "longitude": "-9.20897000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q785945",
-      "country_code": "MA",
-      "state_code": "ASZ",
-      "state_id": 3297,
-      "country_id": 149
-    },
-    {
       "id": 67194,
       "name": "Reggada",
       "name_default": "Reggada",
@@ -309,24 +255,6 @@
       "longitude": "-9.70086000",
       "timezone": "Africa/Casablanca",
       "wikiDataId": "Q3423400",
-      "country_code": "MA",
-      "state_code": "ASZ",
-      "state_id": 3297,
-      "country_id": 149
-    },
-    {
-      "id": 67208,
-      "name": "Sidi Ifni",
-      "name_default": "Sidi Ifni",
-      "native": "سيدي إفني",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 22696,
-      "latitude": "29.37975000",
-      "longitude": "-10.17299000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q632361",
       "country_code": "MA",
       "state_code": "ASZ",
       "state_id": 3297,
@@ -453,24 +381,6 @@
       "longitude": "-8.41667000",
       "timezone": "Africa/Casablanca",
       "wikiDataId": "Q2092298",
-      "country_code": "MA",
-      "state_code": "ASZ",
-      "state_id": 3297,
-      "country_id": 149
-    },
-    {
-      "id": 67242,
-      "name": "Tarudant",
-      "name_default": "Taroudant",
-      "native": "تارودانت",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 83496,
-      "latitude": "30.47028000",
-      "longitude": "-8.87695000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q762727",
       "country_code": "MA",
       "state_code": "ASZ",
       "state_id": 3297,

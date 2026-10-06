@@ -74,24 +74,6 @@
       "country_id": 232
     },
     {
-      "id": 48890,
-      "name": "케이터햄",
-      "name_default": "Caterham",
-      "native": "Caterham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21030,
-      "latitude": "51.28230000",
-      "longitude": "-0.07889000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1996975",
-      "country_code": "GB",
-      "state_code": "CRY",
-      "state_id": 2512,
-      "country_id": 232
-    },
-    {
       "id": 49186,
       "name": "크로이던",
       "name_default": "Croydon",
@@ -107,24 +89,6 @@
       "country_code": "GB",
       "state_code": "CRY",
       "state_id": 2512,
-      "country_id": 232
-    },
-    {
-      "id": 49673,
-      "name": "갓스톤",
-      "name_default": "Godstone",
-      "native": "Freight",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 2564,
-      "latitude": "51.24779000",
-      "longitude": "-0.06914000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2954373",
-      "country_code": "GB",
-      "state_code": "CRY",
-      "state_id": 2526,
       "country_id": 232
     },
     {
@@ -215,42 +179,6 @@
       "country_code": "GB",
       "state_code": "CRY",
       "state_id": 2512,
-      "country_id": 232
-    },
-    {
-      "id": 51887,
-      "name": "화이틀리프",
-      "name_default": "Whyteleafe",
-      "native": "Whyteleafe",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 3315,
-      "latitude": "51.30808000",
-      "longitude": "-0.08429000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1610387",
-      "country_code": "GB",
-      "state_code": "CRY",
-      "state_id": 2526,
-      "country_id": 232
-    },
-    {
-      "id": 51959,
-      "name": "울딩엄",
-      "name_default": "Woldingham",
-      "native": "Woldingham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 1502,
-      "latitude": "51.28527000",
-      "longitude": "-0.03372000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2679683",
-      "country_code": "GB",
-      "state_code": "CRY",
-      "state_id": 2526,
       "country_id": 232
     }
   ]

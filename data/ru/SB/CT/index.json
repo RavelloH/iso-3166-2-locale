@@ -54,5 +54,24 @@
     "wikiDataId": "Q40921",
     "country_code": "SB"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 102902,
+      "name": "Хониара",
+      "name_default": "Honiara",
+      "native": "Honeycomb",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 56298,
+      "latitude": "-9.43333000",
+      "longitude": "159.95000000",
+      "timezone": "Pacific/Guadalcanal",
+      "wikiDataId": "Q40921",
+      "country_code": "SB",
+      "state_code": "CT",
+      "state_id": 4778,
+      "country_id": 202
+    }
+  ]
 }
