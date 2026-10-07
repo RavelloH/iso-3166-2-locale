@@ -75,9 +75,9 @@
     },
     {
       "id": 65969,
-      "name": "Op Tabor",
+      "name": "Au Tabor",
       "name_default": "Au Tabor",
-      "native": "I'm Bator",
+      "native": "Au Tabor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 66019,
       "name": "Bois D'Inde",
       "name_default": "Bois D'Inde",
-      "native": "India wood",
+      "native": "Bois D'Inde",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 66037,
-      "name": "Caico/Gierst",
+      "name": "Caico/Millet",
       "name_default": "Caico/Millet",
       "native": "Caico/Millet",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66040,
-      "name": "Kanaries",
+      "name": "Canaries",
       "name_default": "Canaries",
       "native": "Canaries",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 66064,
-      "name": "Champen Landgoed",
+      "name": "Champen Estate",
       "name_default": "Champen Estate",
       "native": "Champen Estate",
       "type": "adm1",
@@ -273,7 +273,7 @@
     },
     {
       "id": 66231,
-      "name": "De Trielle",
+      "name": "La Trielle",
       "name_default": "La Trielle",
       "native": "The trielle",
       "type": "section",
@@ -291,7 +291,7 @@
     },
     {
       "id": 66260,
-      "name": "Bloedbad",
+      "name": "Massacre",
       "name_default": "Massacre",
       "native": "Massacre",
       "type": "capital",
@@ -309,7 +309,7 @@
     },
     {
       "id": 66266,
-      "name": "Gierst",
+      "name": "Millet",
       "name_default": "Millet",
       "native": "Millet",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 66294,
       "name": "Morne Ciseaux",
       "name_default": "Morne Ciseaux",
-      "native": "Grine scissors",
+      "native": "Morne Ciseaux",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 66365,
-      "name": "Roseau-vallei",
+      "name": "Roseau Valley",
       "name_default": "Roseau Valley",
       "native": "Roseau Valley",
       "type": "adm1",
@@ -381,7 +381,7 @@
     },
     {
       "id": 66381,
-      "name": "Sint-Laurens",
+      "name": "St Lawrence",
       "name_default": "St Lawrence",
       "native": "St Lawrence",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 66382,
-      "name": "Landgoed St. Lawrence",
+      "name": "St Lawrence Estate",
       "name_default": "St Lawrence Estate",
       "native": "St Lawrence Estate",
       "type": "city",
@@ -419,7 +419,7 @@
       "id": 66392,
       "name": "Tete Chemin",
       "name_default": "Tete Chemin",
-      "native": "Head",
+      "native": "Tete Chemin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 66427,
-      "name": "Dorp",
+      "name": "Village",
       "name_default": "Village",
       "native": "Village",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 66429,
-      "name": "Dorp/Petite Bourgh",
+      "name": "Village/Petite Bourgh",
       "name_default": "Village/Petite Bourgh",
       "native": "Village/Petite Bourgh",
       "type": "city",

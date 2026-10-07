@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48339,
-      "name": "贝克韦尔",
+      "name": "贝克威尔",
       "name_default": "Bakewell",
       "native": "Bakewell",
       "type": "city",
@@ -110,6 +110,24 @@
       "country_id": 232
     },
     {
+      "id": 51313,
+      "name": "辛芬",
+      "name_default": "Sinfin",
+      "native": "Sinfin",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15128,
+      "latitude": "52.88157000",
+      "longitude": "-1.48681000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q3474744",
+      "country_code": "GB",
+      "state_code": "DER",
+      "state_id": 2485,
+      "country_id": 232
+    },
+    {
       "id": 51621,
       "name": "泰兹韦尔",
       "name_default": "Tideswell",
@@ -147,7 +165,7 @@
     },
     {
       "id": 51930,
-      "name": "温格沃思",
+      "name": "灵亚沃斯",
       "name_default": "Wingerworth",
       "native": "Wingerworth",
       "type": "city",

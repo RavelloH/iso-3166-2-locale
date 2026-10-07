@@ -93,7 +93,7 @@
     },
     {
       "id": 48515,
-      "name": "ビングリー",
+      "name": "ビングリ―",
       "name_default": "Bingley",
       "native": "Bingley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48771,
-      "name": "ワーフデールのバーリー",
+      "name": "バーリー・イン・ワーフデール",
       "name_default": "Burley in Wharfedale",
       "native": "Burley in Wharfedale",
       "type": "city",
@@ -272,24 +272,6 @@
       "country_id": 232
     },
     {
-      "id": 51001,
-      "name": "パドシー",
-      "name_default": "Pudsey",
-      "native": "Pudsey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33109,
-      "latitude": "53.79538000",
-      "longitude": "-1.66134000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1009290",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51011,
       "name": "クイーンズベリー",
       "name_default": "Queensbury",
@@ -327,7 +309,7 @@
     },
     {
       "id": 51307,
-      "name": "シルズデン",
+      "name": "シルスデン",
       "name_default": "Silsden",
       "native": "Silsden",
       "type": "city",
@@ -344,28 +326,10 @@
       "country_id": 232
     },
     {
-      "id": 51326,
-      "name": "スキップトン",
-      "name_default": "Skipton",
-      "native": "Skipton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15369,
-      "latitude": "53.96144000",
-      "longitude": "-2.01676000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q516131",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51437,
       "name": "スティトン",
       "name_default": "Steeton",
-      "native": "Uninteotive",
+      "native": "Steeton",
       "type": "city",
       "level": null,
       "parent_id": null,

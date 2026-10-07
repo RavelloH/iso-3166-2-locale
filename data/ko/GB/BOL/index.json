@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48480,
-      "name": "베릭어폰트위드",
-      "name_default": "Berwick-Upon-Tweed",
-      "native": "Berwick-Upon-Tweed",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11630,
-      "latitude": "55.76536000",
-      "longitude": "-2.01186000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q504678",
-      "country_code": "GB",
-      "state_code": "BOL",
-      "state_id": 2504,
-      "country_id": 232
-    },
-    {
       "id": 48587,
       "name": "볼턴",
       "name_default": "Bolton",
@@ -111,7 +93,7 @@
     },
     {
       "id": 50003,
-      "name": "호리치",
+      "name": "호위치",
       "name_default": "Horwich",
       "native": "Horwich",
       "type": "city",
@@ -146,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 50330,
+      "name": "리틀 레버",
+      "name_default": "Little Lever",
+      "native": "Little Lever",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11329,
+      "latitude": "53.56346000",
+      "longitude": "-2.37803000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q3835039",
+      "country_code": "GB",
+      "state_code": "BOL",
+      "state_id": 2504,
+      "country_id": 232
+    },
+    {
       "id": 51844,
-      "name": "웨스트호튼",
+      "name": "웨스트트루톤",
       "name_default": "Westhoughton",
       "native": "Westhoughton",
       "type": "city",

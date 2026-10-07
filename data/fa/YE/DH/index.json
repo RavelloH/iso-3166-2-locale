@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "آنس",
+      "name": "ناحیه عنس",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -93,10 +93,10 @@
     },
     {
       "id": 130718,
-      "name": "المنار",
+      "name": "ناحیه المنار",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -165,7 +165,7 @@
     },
     {
       "id": 130873,
-      "name": "جبل الشرق",
+      "name": "ناحیه جبل الشرق",
       "name_default": "Jabal Ash sharq",
       "native": "جبل الشرق",
       "type": "area",
@@ -183,7 +183,7 @@
     },
     {
       "id": 130878,
-      "name": "جهران",
+      "name": "ناحیه جهران",
       "name_default": "Jahran",
       "native": "جهران",
       "type": "area",
@@ -273,7 +273,7 @@
     },
     {
       "id": 131001,
-      "name": "وصاب آس سافیل",
+      "name": "وصاب",
       "name_default": "Wusab As Safil",
       "native": "وصاب السافل",
       "type": "area",

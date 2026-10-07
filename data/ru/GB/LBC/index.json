@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48253,
-      "name": "Аннахилт",
+      "name": "Аннаилт",
       "name_default": "Annahilt",
       "native": "Annahilt",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48873,
-      "name": "Кэрридафф",
+      "name": "Карридафф",
       "name_default": "Carryduff",
       "native": "Carryduff",
       "type": "city",
@@ -140,6 +140,24 @@
       "longitude": "-5.76061000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2656965",
+      "country_code": "GB",
+      "state_code": "LBC",
+      "state_id": 2460,
+      "country_id": 232
+    },
+    {
+      "id": 49348,
+      "name": "Дундональд",
+      "name_default": "Dundonald",
+      "native": "Dundonald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13985,
+      "latitude": "54.59196000",
+      "longitude": "-5.79803000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q116756",
       "country_code": "GB",
       "state_code": "LBC",
       "state_id": 2460,
@@ -183,7 +201,7 @@
     },
     {
       "id": 50148,
-      "name": "Киллили",
+      "name": "Киллилей",
       "name_default": "Killyleagh",
       "native": "Killyleagh",
       "type": "city",
@@ -255,7 +273,7 @@
     },
     {
       "id": 51178,
-      "name": "Сентфилд",
+      "name": "Сэнтфильд",
       "name_default": "Saintfield",
       "native": "Saintfield",
       "type": "city",

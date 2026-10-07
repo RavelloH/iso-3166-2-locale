@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48247,
-      "name": "安普希尔",
+      "name": "安特希尔",
       "name_default": "Ampthill",
       "native": "Ampthill",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48275,
-      "name": "阿尔斯利",
+      "name": "阿勒斯",
       "name_default": "Arlesey",
       "native": "Arlesey",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48501,
-      "name": "比格尔斯韦德",
+      "name": "比格尔斯威德",
       "name_default": "Biggleswade",
       "native": "Biggleswade",
       "type": "city",
@@ -185,7 +185,7 @@
       "id": 48913,
       "name": "查尔顿",
       "name_default": "Chalton",
-      "native": "Chalfon",
+      "native": "Chalton",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 49575,
-      "name": "弗立维克",
+      "name": "菲力韦克",
       "name_default": "Flitwick",
       "native": "Flitwick",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49906,
-      "name": "亨洛",
+      "name": "艮鲁伊",
       "name_default": "Henlow",
       "native": "Henlow",
       "type": "adm3",
@@ -428,24 +428,6 @@
       "longitude": "-0.28599000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1520180",
-      "country_code": "GB",
-      "state_code": "CBF",
-      "state_id": 2303,
-      "country_id": 232
-    },
-    {
-      "id": 49952,
-      "name": "希钦",
-      "name_default": "Hitchin",
-      "native": "Hitchin",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 34266,
-      "latitude": "51.94924000",
-      "longitude": "-0.28496000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q19798",
       "country_code": "GB",
       "state_code": "CBF",
       "state_id": 2303,
@@ -489,7 +471,7 @@
     },
     {
       "id": 50034,
-      "name": "赫斯伯恩·克劳利",
+      "name": "赫斯博恩克劳雷",
       "name_default": "Husborne Crawley",
       "native": "Husborne Crawley",
       "type": "adm3",
@@ -579,7 +561,7 @@
     },
     {
       "id": 50520,
-      "name": "马斯顿·莫雷坦",
+      "name": "马斯顿莫尔汀",
       "name_default": "Marston Moretaine",
       "native": "Marston Moretaine",
       "type": "adm3",
@@ -597,7 +579,7 @@
     },
     {
       "id": 50529,
-      "name": "莫尔登",
+      "name": "牟登",
       "name_default": "Maulden",
       "native": "Maulden",
       "type": "adm3",
@@ -686,8 +668,26 @@
       "country_id": 232
     },
     {
+      "id": 51198,
+      "name": "珊迪",
+      "name_default": "Sandy",
+      "native": "Sandy",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 12172,
+      "latitude": "52.12927000",
+      "longitude": "-0.28925000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1750378",
+      "country_code": "GB",
+      "state_code": "CBF",
+      "state_id": 2303,
+      "country_id": 232
+    },
+    {
       "id": 51256,
-      "name": "谢福德",
+      "name": "设福德",
       "name_default": "Shefford",
       "native": "Shefford",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 51481,
-      "name": "斯托特福尔德",
+      "name": "斯拓佛特",
       "name_default": "Stotfold",
       "native": "Stotfold",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 51635,
-      "name": "托丁顿",
+      "name": "拓丁顿",
       "name_default": "Toddington",
       "native": "Toddington",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 51848,
-      "name": "韦斯顿",
+      "name": "威斯通宁",
       "name_default": "Westoning",
       "native": "Westoning",
       "type": "adm3",

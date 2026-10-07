@@ -397,7 +397,7 @@
     },
     {
       "id": 111239,
-      "name": "Alt",
+      "name": "Alto",
       "name_default": "Alto",
       "native": "Alto",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111274,
-      "name": "Amerikaan",
+      "name": "Americus",
       "name_default": "Americus",
       "native": "Americus",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 111409,
-      "name": "Aragón",
+      "name": "Aragon",
       "name_default": "Aragon",
       "native": "Aragon",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111418,
-      "name": "Speelhal",
+      "name": "Arcade",
       "name_default": "Arcade",
       "native": "Arcade",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 111573,
-      "name": "Athene",
+      "name": "Athens",
       "name_default": "Athens",
       "native": "Athens",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 111619,
-      "name": "Kastanjebruin",
+      "name": "Auburn",
       "name_default": "Auburn",
       "native": "Auburn",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 111752,
-      "name": "Boudewijn",
+      "name": "Baldwin",
       "name_default": "Baldwin",
       "native": "Baldwin",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 111769,
-      "name": "Balveld",
+      "name": "Ball Ground",
       "name_default": "Ball Ground",
       "native": "Ball Ground",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 112227,
-      "name": "Berkeleymeer",
+      "name": "Berkeley Lake",
       "name_default": "Berkeley Lake",
       "native": "Berkeley Lake",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 112391,
-      "name": "Zwartshear",
+      "name": "Blackshear",
       "name_default": "Blackshear",
       "native": "Blackshear",
       "type": "city",
@@ -777,7 +777,7 @@
       "id": 112412,
       "name": "Blairsville",
       "name_default": "Blairsville",
-      "native": "Blairville",
+      "native": "Blairsville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -829,7 +829,7 @@
     },
     {
       "id": 112475,
-      "name": "Blauwe Heuvel",
+      "name": "Blue Ridge",
       "name_default": "Blue Ridge",
       "native": "Blue Ridge",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 112530,
       "name": "Bonanza",
       "name_default": "Bonanza",
-      "native": "Blind",
+      "native": "Bonanza",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,9 +973,9 @@
     },
     {
       "id": 122966,
-      "name": "Noord-Atlanta",
+      "name": "North Atlanta",
       "name_default": "Brookhaven",
-      "native": "North Atlanta",
+      "native": "Brookhaven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -991,7 +991,7 @@
     },
     {
       "id": 112866,
-      "name": "Beekje",
+      "name": "Brooklet",
       "name_default": "Brooklet",
       "native": "Brooklet",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 112947,
-      "name": "Brunswijk",
+      "name": "Brunswick",
       "name_default": "Brunswick",
       "native": "Brunswick",
       "type": "city",
@@ -1063,9 +1063,9 @@
     },
     {
       "id": 113000,
-      "name": "Goed uitzicht",
+      "name": "Buena Vista",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 113339,
-      "name": "Kanton",
+      "name": "Canton",
       "name_default": "Canton",
       "native": "Canton",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 113587,
-      "name": "Grotbron",
+      "name": "Cave Spring",
       "name_default": "Cave Spring",
       "native": "Cave Spring",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 113812,
-      "name": "Chattanooga-vallei",
+      "name": "Chattanooga Valley",
       "name_default": "Chattanooga Valley",
       "native": "Chattanooga Valley",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 114198,
-      "name": "Kleiton",
+      "name": "Clayton",
       "name_default": "Clayton",
       "native": "Clayton",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 114519,
-      "name": "Hoek",
+      "name": "Comer",
       "name_default": "Comer",
       "native": "Comer",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 114522,
-      "name": "Handel",
+      "name": "Commerce",
       "name_default": "Commerce",
       "native": "Commerce",
       "type": "city",
@@ -1677,7 +1677,7 @@
       "id": 114635,
       "name": "Cordele",
       "name_default": "Cordele",
-      "native": "Cord",
+      "native": "Cordele",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 114716,
-      "name": "Country Club Landgoederen",
+      "name": "Country Club Estates",
       "name_default": "Country Club Estates",
       "native": "Country Club Estates",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 114923,
-      "name": "Klaarkomen",
+      "name": "Cumming",
       "name_default": "Cumming",
       "native": "Cumming",
       "type": "city",
@@ -1839,7 +1839,7 @@
       "id": 114971,
       "name": "Dahlonega",
       "name_default": "Dahlonega",
-      "native": "DAHLONGAGA",
+      "native": "Dahlonega",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 115372,
-      "name": "Dok kruising",
+      "name": "Dock Junction",
       "name_default": "Dock Junction",
       "native": "Dock Junction",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 115480,
-      "name": "Druïdenheuvels",
+      "name": "Druid Hills",
       "name_default": "Druid Hills",
       "native": "Druid Hills",
       "type": "city",
@@ -2197,7 +2197,7 @@
     },
     {
       "id": 115651,
-      "name": "Oost-Dublin",
+      "name": "East Dublin",
       "name_default": "East Dublin",
       "native": "East Dublin",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 115675,
-      "name": "Oost Griffin",
+      "name": "East Griffin",
       "name_default": "East Griffin",
       "native": "East Griffin",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 115721,
-      "name": "Oost-Newnan",
+      "name": "East Newnan",
       "name_default": "East Newnan",
       "native": "East Newnan",
       "type": "city",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 115737,
-      "name": "Oostpunt",
+      "name": "East Point",
       "name_default": "East Point",
       "native": "East Point",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 116139,
-      "name": "Raadsel",
+      "name": "Enigma",
       "name_default": "Enigma",
       "native": "Enigma",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 116522,
-      "name": "Schietbaan",
+      "name": "Firing Range",
       "name_default": "Firing Range",
       "native": "Firing Range",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 116602,
-      "name": "Bloeiende tak",
+      "name": "Flowery Branch",
       "name_default": "Flowery Branch",
       "native": "Flowery Branch",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 116664,
-      "name": "Bospark",
+      "name": "Forest Park",
       "name_default": "Forest Park",
       "native": "Forest Park",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 116757,
-      "name": "Fortvallei",
+      "name": "Fort Valley",
       "name_default": "Fort Valley",
       "native": "Fort Valley",
       "type": "city",
@@ -2773,7 +2773,7 @@
     },
     {
       "id": 117054,
-      "name": "Tuin-stad",
+      "name": "Garden City",
       "name_default": "Garden City",
       "native": "Garden City",
       "type": "city",
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 117550,
-      "name": "Grijs",
+      "name": "Gray",
       "name_default": "Gray",
       "native": "Gray",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 117731,
-      "name": "Griffioen",
+      "name": "Griffin",
       "name_default": "Griffin",
       "native": "Griffin",
       "type": "city",
@@ -3045,7 +3045,7 @@
       "id": 117839,
       "name": "Hahira",
       "name_default": "Hahira",
-      "native": "Hara",
+      "native": "Hahira",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3153,7 +3153,7 @@
       "id": 118022,
       "name": "Harlem",
       "name_default": "Harlem",
-      "native": "Harl",
+      "native": "Harlem",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 118592,
-      "name": "Homerus",
+      "name": "Homer",
       "name_default": "Homer",
       "native": "Homer",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 119030,
-      "name": "Eiland van Hoop",
+      "name": "Isle of Hope",
       "name_default": "Isle of Hope",
       "native": "Isle of Hope",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 119597,
-      "name": "Kings Bay-basis",
+      "name": "Kings Bay Base",
       "name_default": "Kings Bay Base",
       "native": "Kings Bay Base",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 119799,
-      "name": "LaFayette",
+      "name": "La Fayette",
       "name_default": "LaFayette",
       "native": "LaFayette",
       "type": "city",
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 120037,
-      "name": "Uitzicht op het meer",
+      "name": "Lakeview",
       "name_default": "Lakeview",
       "native": "Lakeview",
       "type": "city",
@@ -3801,7 +3801,7 @@
       "id": 120220,
       "name": "Lavonia",
       "name_default": "Lavonia",
-      "native": "Lake",
+      "native": "Lavonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 120765,
-      "name": "Uitkijkberg",
+      "name": "Lookout Mountain",
       "name_default": "Lookout Mountain",
       "native": "Lookout Mountain",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 120821,
-      "name": "Liefdesvreugde",
+      "name": "Lovejoy",
       "name_default": "Lovejoy",
       "native": "Lovejoy",
       "type": "city",
@@ -4087,7 +4087,7 @@
     },
     {
       "id": 120878,
-      "name": "Houtstad",
+      "name": "Lumber City",
       "name_default": "Lumber City",
       "native": "Lumber City",
       "type": "city",
@@ -4123,7 +4123,7 @@
     },
     {
       "id": 120940,
-      "name": "Lyon",
+      "name": "Lyons",
       "name_default": "Lyons",
       "native": "Lyons",
       "type": "city",
@@ -4359,7 +4359,7 @@
       "id": 121737,
       "name": "Metter",
       "name_default": "Metter",
-      "native": "Put",
+      "native": "Metter",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4375,7 +4375,7 @@
     },
     {
       "id": 121813,
-      "name": "Halverwege",
+      "name": "Midway",
       "name_default": "Midway",
       "native": "Midway",
       "type": "city",
@@ -4537,7 +4537,7 @@
     },
     {
       "id": 122289,
-      "name": "Morgen",
+      "name": "Morrow",
       "name_default": "Morrow",
       "native": "Morrow",
       "type": "city",
@@ -4573,7 +4573,7 @@
     },
     {
       "id": 122329,
-      "name": "Berg Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -4591,7 +4591,7 @@
     },
     {
       "id": 122395,
-      "name": "Berg Vernon",
+      "name": "Mount Vernon",
       "name_default": "Mount Vernon",
       "native": "Mount Vernon",
       "type": "city",
@@ -4609,7 +4609,7 @@
     },
     {
       "id": 122408,
-      "name": "Berg Sion",
+      "name": "Mount Zion",
       "name_default": "Mount Zion",
       "native": "Mount Zion",
       "type": "city",
@@ -4627,7 +4627,7 @@
     },
     {
       "id": 122411,
-      "name": "Bergstad",
+      "name": "Mountain City",
       "name_default": "Mountain City",
       "native": "Mountain City",
       "type": "city",
@@ -4645,7 +4645,7 @@
     },
     {
       "id": 122424,
-      "name": "Bergpark",
+      "name": "Mountain Park",
       "name_default": "Mountain Park",
       "native": "Mountain Park",
       "type": "city",
@@ -4807,7 +4807,7 @@
     },
     {
       "id": 123014,
-      "name": "Noord-Decatur",
+      "name": "North Decatur",
       "name_default": "North Decatur",
       "native": "North Decatur",
       "type": "city",
@@ -4825,7 +4825,7 @@
     },
     {
       "id": 123015,
-      "name": "Noord Druid Hills",
+      "name": "North Druid Hills",
       "name_default": "North Druid Hills",
       "native": "North Druid Hills",
       "type": "city",
@@ -4843,7 +4843,7 @@
     },
     {
       "id": 123308,
-      "name": "Eikenhout",
+      "name": "Oakwood",
       "name_default": "Oakwood",
       "native": "Oakwood",
       "type": "city",
@@ -5025,7 +5025,7 @@
       "id": 123989,
       "name": "Pelham",
       "name_default": "Pelham",
-      "native": "Pillar",
+      "native": "Pelham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5077,7 +5077,7 @@
     },
     {
       "id": 124238,
-      "name": "Pijnboomberg",
+      "name": "Pine Mountain",
       "name_default": "Pine Mountain",
       "native": "Pine Mountain",
       "type": "city",
@@ -5097,7 +5097,7 @@
       "id": 124479,
       "name": "Pooler",
       "name_default": "Pooler",
-      "native": "Pools",
+      "native": "Pooler",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 124542,
-      "name": "Haven Wentworth",
+      "name": "Port Wentworth",
       "name_default": "Port Wentworth",
       "native": "Port Wentworth",
       "type": "city",
@@ -5149,7 +5149,7 @@
     },
     {
       "id": 124608,
-      "name": "Poederveren",
+      "name": "Powder Springs",
       "name_default": "Powder Springs",
       "native": "Powder Springs",
       "type": "city",
@@ -5259,7 +5259,7 @@
       "id": 124964,
       "name": "Redan",
       "name_default": "Redan",
-      "native": "Already",
+      "native": "Redan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5275,7 +5275,7 @@
     },
     {
       "id": 124992,
-      "name": "Rietkreek",
+      "name": "Reed Creek",
       "name_default": "Reed Creek",
       "native": "Reed Creek",
       "type": "city",
@@ -5383,7 +5383,7 @@
     },
     {
       "id": 125139,
-      "name": "Rincón",
+      "name": "Rincon",
       "name_default": "Rincon",
       "native": "Rincon",
       "type": "city",
@@ -5401,7 +5401,7 @@
     },
     {
       "id": 125141,
-      "name": "Ringgoud",
+      "name": "Ringgold",
       "name_default": "Ringgold",
       "native": "Ringgold",
       "type": "city",
@@ -5437,7 +5437,7 @@
     },
     {
       "id": 125252,
-      "name": "Robins Luchtmachtbasis",
+      "name": "Robins Air Force Base",
       "name_default": "Robins Air Force Base",
       "native": "Robins Air Force Base",
       "type": "city",
@@ -5583,7 +5583,7 @@
       "id": 125560,
       "name": "Rydal",
       "name_default": "Rydal",
-      "native": "Rusty",
+      "native": "Rydal",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5617,7 +5617,7 @@
     },
     {
       "id": 125715,
-      "name": "Saint Simons-eiland",
+      "name": "Saint Simons Island",
       "name_default": "Saint Simons Island",
       "native": "Saint Simons Island",
       "type": "city",
@@ -5761,7 +5761,7 @@
     },
     {
       "id": 126479,
-      "name": "Skidaway-eiland",
+      "name": "Skidaway Island",
       "name_default": "Skidaway Island",
       "native": "Skidaway Island",
       "type": "city",
@@ -5815,7 +5815,7 @@
     },
     {
       "id": 126555,
-      "name": "Sociale kring",
+      "name": "Social Circle",
       "name_default": "Social Circle",
       "native": "Social Circle",
       "type": "city",
@@ -5851,7 +5851,7 @@
     },
     {
       "id": 126803,
-      "name": "Vonken",
+      "name": "Sparks",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -5905,7 +5905,7 @@
     },
     {
       "id": 126929,
-      "name": "Sint-Maria's",
+      "name": "St. Marys",
       "name_default": "St. Marys",
       "native": "St. Marys",
       "type": "city",
@@ -5995,7 +5995,7 @@
     },
     {
       "id": 127083,
-      "name": "Stenen Berg",
+      "name": "Stone Mountain",
       "name_default": "Stone Mountain",
       "native": "Stone Mountain",
       "type": "city",
@@ -6013,7 +6013,7 @@
     },
     {
       "id": 127087,
-      "name": "Steenhaan",
+      "name": "Stonecrest",
       "name_default": "Stonecrest",
       "native": "Stonecrest",
       "type": "city",
@@ -6031,7 +6031,7 @@
     },
     {
       "id": 127172,
-      "name": "Suikerheuvel",
+      "name": "Sugar Hill",
       "name_default": "Sugar Hill",
       "native": "Sugar Hill",
       "type": "city",
@@ -6049,7 +6049,7 @@
     },
     {
       "id": 127209,
-      "name": "Zomerstad",
+      "name": "Summerville",
       "name_default": "Summerville",
       "native": "Summerville",
       "type": "city",
@@ -6177,7 +6177,7 @@
       "id": 127393,
       "name": "Tallapoosa",
       "name_default": "Tallapoosa",
-      "native": "Talos",
+      "native": "Tallapoosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6193,7 +6193,7 @@
     },
     {
       "id": 127497,
-      "name": "Tempel",
+      "name": "Temple",
       "name_default": "Temple",
       "native": "Temple",
       "type": "city",
@@ -6213,7 +6213,7 @@
       "id": 127511,
       "name": "Tennille",
       "name_default": "Tennille",
-      "native": "For a tenn",
+      "native": "Tennille",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6283,7 +6283,7 @@
     },
     {
       "id": 127627,
-      "name": "Bliksemschicht",
+      "name": "Thunderbolt",
       "name_default": "Thunderbolt",
       "native": "Thunderbolt",
       "type": "city",
@@ -6357,7 +6357,7 @@
       "id": 127830,
       "name": "Trion",
       "name_default": "Trion",
-      "native": "The trio",
+      "native": "Trion",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6391,7 +6391,7 @@
     },
     {
       "id": 127923,
-      "name": "Tweelingstad",
+      "name": "Twin City",
       "name_default": "Twin City",
       "native": "Twin City",
       "type": "city",
@@ -6409,7 +6409,7 @@
     },
     {
       "id": 127937,
-      "name": "Tybee-eiland",
+      "name": "Tybee Island",
       "name_default": "Tybee Island",
       "native": "Tybee Island",
       "type": "city",
@@ -6463,7 +6463,7 @@
     },
     {
       "id": 127980,
-      "name": "Uniestad",
+      "name": "Union City",
       "name_default": "Union City",
       "native": "Union City",
       "type": "city",
@@ -6537,7 +6537,7 @@
       "id": 128155,
       "name": "Varnell",
       "name_default": "Varnell",
-      "native": "The frog",
+      "native": "Varnell",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 128230,
-      "name": "Wenen",
+      "name": "Vienna",
       "name_default": "Vienna",
       "native": "Vienna",
       "type": "city",
@@ -6607,7 +6607,7 @@
     },
     {
       "id": 128276,
-      "name": "Wijnranken",
+      "name": "Vinings",
       "name_default": "Vinings",
       "native": "Vinings",
       "type": "city",
@@ -6643,7 +6643,7 @@
     },
     {
       "id": 128417,
-      "name": "Walnotenbos",
+      "name": "Walnut Grove",
       "name_default": "Walnut Grove",
       "native": "Walnut Grove",
       "type": "city",
@@ -6787,7 +6787,7 @@
     },
     {
       "id": 128958,
-      "name": "Westpunt",
+      "name": "West Point",
       "name_default": "West Point",
       "native": "West Point",
       "type": "city",
@@ -6823,7 +6823,7 @@
     },
     {
       "id": 129178,
-      "name": "Whitemarsh-eiland",
+      "name": "Whitemarsh Island",
       "name_default": "Whitemarsh Island",
       "native": "Whitemarsh Island",
       "type": "city",
@@ -6859,7 +6859,7 @@
     },
     {
       "id": 129325,
-      "name": "Wilmington-eiland",
+      "name": "Wilmington Island",
       "name_default": "Wilmington Island",
       "native": "Wilmington Island",
       "type": "city",
@@ -6913,7 +6913,7 @@
     },
     {
       "id": 129494,
-      "name": "Houtkluit",
+      "name": "Woodbine",
       "name_default": "Woodbine",
       "native": "Woodbine",
       "type": "city",
@@ -6949,7 +6949,7 @@
     },
     {
       "id": 129603,
-      "name": "Winterkoninkjes",
+      "name": "Wrens",
       "name_default": "Wrens",
       "native": "Wrens",
       "type": "city",
@@ -6985,7 +6985,7 @@
     },
     {
       "id": 129715,
-      "name": "Jonge Harris",
+      "name": "Young Harris",
       "name_default": "Young Harris",
       "native": "Young Harris",
       "type": "city",

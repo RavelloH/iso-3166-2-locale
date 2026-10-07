@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48284,
-      "name": "آسکوت",
+      "name": "اسکات",
       "name_default": "Ascot",
       "native": "Ascot",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 49244,
-      "name": "داتچت",
+      "name": "داچت",
       "name_default": "Datchet",
       "native": "Datchet",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49488,
-      "name": "ایتون",
+      "name": "اتون",
       "name_default": "Eton",
       "native": "Eton",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50805,
-      "name": "ویندزور قدیمی",
+      "name": "اولد ویندزور",
       "name_default": "Old Windsor",
       "native": "Old Windsor",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 51129,
-      "name": "منطقه سلطنتی ویندزور و میدنهد",
+      "name": "شهر سلطنتی ویندسور و میدنهد",
       "name_default": "Royal Borough of Windsor and Maidenhead",
       "native": "Royal Borough of Windsor and Maidenhead",
       "type": "area",
@@ -219,7 +219,7 @@
     },
     {
       "id": 51870,
-      "name": "وایت والتام",
+      "name": "وایت والثام",
       "name_default": "White Waltham",
       "native": "White Waltham",
       "type": "adm3",
@@ -230,6 +230,24 @@
       "longitude": "-0.77239000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2011783",
+      "country_code": "GB",
+      "state_code": "WNM",
+      "state_id": 2482,
+      "country_id": 232
+    },
+    {
+      "id": 51925,
+      "name": "ویندسور",
+      "name_default": "Windsor",
+      "native": "Windsor",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26885,
+      "latitude": "51.48333000",
+      "longitude": "-0.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q464955",
       "country_code": "GB",
       "state_code": "WNM",
       "state_id": 2482,

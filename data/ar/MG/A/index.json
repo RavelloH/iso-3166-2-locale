@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 67378,
+      "name": "أندوفرانتو",
+      "name_default": "Andovoranto",
+      "native": "Andovaranto",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10429,
+      "latitude": "-18.95443000",
+      "longitude": "49.10940000",
+      "timezone": "Indian/Antananarivo",
+      "wikiDataId": "Q13105654",
+      "country_code": "MG",
+      "state_code": "A",
+      "state_id": 2952,
+      "country_id": 130
+    },
+    {
       "id": 67382,
       "name": "تواماسينا",
       "name_default": "Toamasina",
@@ -77,7 +95,7 @@
       "id": 67384,
       "name": "تواماسينا الثاني",
       "name_default": "Toamasina II",
-      "native": "Happinion II",
+      "native": "Toamasina II",
       "type": "city",
       "level": null,
       "parent_id": null,

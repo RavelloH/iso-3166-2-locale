@@ -93,9 +93,9 @@
     },
     {
       "id": 55191,
-      "name": "Otpadništvo",
+      "name": "Štagara",
       "name_default": "Apostag",
-      "native": "Hitehagyás",
+      "native": "Apostag",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 55287,
-      "name": "Bácsalmás",
+      "name": "Aljmaš",
       "name_default": "Bácsalmás",
       "native": "Bácsalmás",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 55289,
-      "name": "Bácsbokód",
+      "name": "Bikić",
       "name_default": "Bácsbokod",
       "native": "Bácsbokod",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 55295,
-      "name": "Bátya",
+      "name": "Baćino",
       "name_default": "Bátya",
       "native": "Bátya",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55347,
-      "name": "Čarobni čarolije",
+      "name": "Tetiš",
       "name_default": "Császártöltés",
       "native": "Császártöltés",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 55348,
-      "name": "Csávoly",
+      "name": "Čavolj",
       "name_default": "Csávoly",
       "native": "Csávoly",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 55331,
-      "name": "Csengőd",
+      "name": "Čengid",
       "name_default": "Csengőd",
       "native": "Csengőd",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 55386,
-      "name": "Dávod",
+      "name": "Dautovo",
       "name_default": "Dávod",
       "native": "Dávod",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 55377,
       "name": "Dunapataj",
       "name_default": "Dunapataj",
-      "native": "Dunded",
+      "native": "Dunapataj",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 55381,
-      "name": "Dunavecse",
+      "name": "Večica",
       "name_default": "Dunavecse",
       "native": "Dunavece",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 56147,
-      "name": "Érsekcsanád",
+      "name": "Čenad",
       "name_default": "Érsekcsanád",
       "native": "Érsekcsanád",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 55424,
-      "name": "Felsőszentiván",
+      "name": "Gornji Sveti Ivan",
       "name_default": "Felsőszentiván",
       "native": "Felsőszentiván",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 55446,
       "name": "Gara",
       "name_default": "Gara",
-      "native": "Mi vagyunk",
+      "native": "Gara",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 55493,
-      "name": "Hajós",
+      "name": "Ajoš",
       "name_default": "Hajós",
       "native": "Hajós",
       "type": "city",
@@ -489,9 +489,9 @@
     },
     {
       "id": 55499,
-      "name": "Harta",
+      "name": "Hartava",
       "name_default": "Harta",
-      "native": "Eszközök",
+      "native": "Harta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -507,9 +507,9 @@
     },
     {
       "id": 55504,
-      "name": "Helvécija",
+      "name": "Helvécia",
       "name_default": "Helvécia",
-      "native": "Javak",
+      "native": "Helvécia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -525,7 +525,7 @@
     },
     {
       "id": 55505,
-      "name": "Hercegszántó",
+      "name": "Santovo",
       "name_default": "Hercegszántó",
       "native": "Hercegszántó",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 55535,
-      "name": "Jánoshalma",
+      "name": "Jankovac",
       "name_default": "Jánoshalma",
       "native": "Jánoshalma",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 55574,
-      "name": "Katymár",
+      "name": "Kaćmar",
       "name_default": "Katymár",
       "native": "Katymár",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 55578,
-      "name": "Kecel",
+      "name": "Kecelj",
       "name_default": "Kecel",
       "native": "Kecel",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 55579,
-      "name": "Kecskemét",
+      "name": "Kečkemet",
       "name_default": "Kecskemét",
       "native": "Kecskemét",
       "type": "adm1",
@@ -759,7 +759,7 @@
     },
     {
       "id": 55602,
-      "name": "Kiskőrös",
+      "name": "Kireš",
       "name_default": "Kiskőrös",
       "native": "Kiskőrös",
       "type": "adm2",
@@ -831,7 +831,7 @@
     },
     {
       "id": 55596,
-      "name": "Kiškunhalaš",
+      "name": "Halaš",
       "name_default": "Kiskunhalas",
       "native": "Kiskunhalas",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 55608,
-      "name": "Kisszállás",
+      "name": "Salašica",
       "name_default": "Kisszállás",
       "native": "Kisszállás",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 55626,
-      "name": "Kunfehértó",
+      "name": "Fertov",
       "name_default": "Kunfehértó",
       "native": "Kunfehértó",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 55672,
-      "name": "Madaras",
+      "name": "Madaraš",
       "name_default": "Madaras",
       "native": "Madaras",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 55731,
-      "name": "Mélykút",
+      "name": "Miljkut",
       "name_default": "Mélykút",
       "native": "Mélykút",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 55741,
-      "name": "Nagybaracska",
+      "name": "Baračka",
       "name_default": "Nagybaracska",
       "native": "Nagybaracska",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 55765,
-      "name": "Nemesnádudvár",
+      "name": "Dudvar",
       "name_default": "Nemesnádudvar",
       "native": "Nemesnádudvar",
       "type": "city",
@@ -1103,7 +1103,7 @@
       "id": 55799,
       "name": "Orgovány",
       "name_default": "Orgovány",
-      "native": "Szerv",
+      "native": "Orgovány",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 55840,
-      "name": "Palmonostora",
+      "name": "Pálmonostora",
       "name_default": "Pálmonostora",
       "native": "Pálmonostora",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 55903,
-      "name": "Solt",
+      "name": "Šolta",
       "name_default": "Solt",
       "native": "Solt",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 55904,
-      "name": "Soltvadkert",
+      "name": "Vakier",
       "name_default": "Soltvadkert",
       "native": "Soltvadkert",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 55997,
-      "name": "Sükösd",
+      "name": "Čikuzda",
       "name_default": "Sükösd",
       "native": "Sükösd",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 55919,
-      "name": "Šank",
+      "name": "Szank",
       "name_default": "Szank",
       "native": "Szank",
       "type": "city",
@@ -1263,9 +1263,9 @@
     },
     {
       "id": 56016,
-      "name": "TASS",
+      "name": "Tass",
       "name_default": "Tass",
-      "native": "Bukás",
+      "native": "Tass",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 56091,
-      "name": "Vaskút",
+      "name": "Baškut",
       "name_default": "Vaskút",
       "native": "Vaskút",
       "type": "city",

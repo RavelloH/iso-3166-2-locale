@@ -59,7 +59,7 @@
       "id": 153,
       "name": "Banaj",
       "name_default": "Banaj",
-      "native": "Banane",
+      "native": "Banaj",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 180,
-      "name": "Policía de Bashkia",
+      "name": "Bashkia Poliçan",
       "name_default": "Bashkia Poliçan",
       "native": "Bashkia Poliçan",
       "type": "municipality",
@@ -149,7 +149,7 @@
       "id": 191,
       "name": "Berat",
       "name_default": "Berat",
-      "native": "I rëndë",
+      "native": "Berat",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 219,
-      "name": "Kuçovë",
+      "name": "Kuçova",
       "name_default": "Kuçovë",
       "native": "Kuçovë",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 238,
-      "name": "Policía",
+      "name": "Poliçan",
       "name_default": "Poliçan",
       "native": "Poliçan",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 242,
-      "name": "Rrethi y Beratit",
+      "name": "Rrethi i Beratit",
       "name_default": "Rrethi i Beratit",
       "native": "Rrethi i Beratit",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 253,
-      "name": "Rrethi y Kuçovës",
+      "name": "Rrethi i Kuçovës",
       "name_default": "Rrethi i Kuçovës",
       "native": "Rrethi i Kuçovës",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 258,
-      "name": "Rrethi y Skraparit",
+      "name": "Rrethi i Skraparit",
       "name_default": "Rrethi i Skraparit",
       "native": "Rrethi i Skraparit",
       "type": "adm3",

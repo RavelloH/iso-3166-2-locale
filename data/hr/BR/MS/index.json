@@ -234,7 +234,7 @@
     },
     {
       "id": 10239,
-      "name": "Anaurilándia",
+      "name": "Anaurilândia",
       "name_default": "Anaurilândia",
       "native": "Anaurilândia",
       "type": "city",
@@ -252,7 +252,7 @@
     },
     {
       "id": 10259,
-      "name": "Angelica",
+      "name": "Angélica",
       "name_default": "Angélica",
       "native": "Angélica",
       "type": "adm2",
@@ -377,24 +377,6 @@
       "country_id": 31
     },
     {
-      "id": 10580,
-      "name": "Bataiporã",
-      "name_default": "Bataiporã",
-      "native": "Breakbong quebrado",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10712,
-      "latitude": "-22.29528000",
-      "longitude": "-53.27111000",
-      "timezone": "America/Campo_Grande",
-      "wikiDataId": "Q1796657",
-      "country_code": "BR",
-      "state_code": "MS",
-      "state_id": 2010,
-      "country_id": 31
-    },
-    {
       "id": 10584,
       "name": "Batayporã",
       "name_default": "Batayporã",
@@ -407,6 +389,24 @@
       "longitude": "-53.17683000",
       "timezone": "America/Campo_Grande",
       "wikiDataId": "Q650500",
+      "country_code": "BR",
+      "state_code": "MS",
+      "state_id": 2010,
+      "country_id": 31
+    },
+    {
+      "id": 10580,
+      "name": "Batayporã",
+      "name_default": "Batayporã",
+      "native": "Batayporã",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10712,
+      "latitude": "-22.29528000",
+      "longitude": "-53.27111000",
+      "timezone": "America/Campo_Grande",
+      "wikiDataId": "Q1796657",
       "country_code": "BR",
       "state_code": "MS",
       "state_id": 2010,
@@ -468,7 +468,7 @@
     },
     {
       "id": 10770,
-      "name": "Brazilija",
+      "name": "Brasilândia",
       "name_default": "Brasilândia",
       "native": "Brasilândia",
       "type": "city",
@@ -558,9 +558,9 @@
     },
     {
       "id": 11102,
-      "name": "Karakol",
+      "name": "Caracol",
       "name_default": "Caracol",
-      "native": "Lesma",
+      "native": "Caracol",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -576,7 +576,7 @@
     },
     {
       "id": 11183,
-      "name": "Kasilandija",
+      "name": "Cassilândia",
       "name_default": "Cassilândia",
       "native": "Cassilândia",
       "type": "city",
@@ -630,7 +630,7 @@
     },
     {
       "id": 11429,
-      "name": "Pukovnik Sapucaia",
+      "name": "Coronel Sapucaia",
       "name_default": "Coronel Sapucaia",
       "native": "Coronel Sapucaia",
       "type": "city",
@@ -666,7 +666,7 @@
     },
     {
       "id": 11449,
-      "name": "Kostarika",
+      "name": "Costa Rica",
       "name_default": "Costa Rica",
       "native": "Costa Rica",
       "type": "city",
@@ -720,7 +720,7 @@
     },
     {
       "id": 11616,
-      "name": "Dva Irmãos do Buriti",
+      "name": "Dois Irmãos do Buriti",
       "name_default": "Dois Irmãos do Buriti",
       "native": "Dois Irmãos do Buriti",
       "type": "city",
@@ -846,7 +846,7 @@
     },
     {
       "id": 12079,
-      "name": "Guía Lopes da Laguna",
+      "name": "Guia Lopes da Laguna",
       "name_default": "Guia Lopes da Laguna",
       "native": "Guia Lopes da Laguna",
       "type": "city",
@@ -882,7 +882,7 @@
     },
     {
       "id": 12255,
-      "name": "Nevinost",
+      "name": "Inocência",
       "name_default": "Inocência",
       "native": "Inocência",
       "type": "city",
@@ -990,7 +990,7 @@
     },
     {
       "id": 12583,
-      "name": "Žardim",
+      "name": "Jardim",
       "name_default": "Jardim",
       "native": "Jardim",
       "type": "city",
@@ -1028,7 +1028,7 @@
       "id": 12711,
       "name": "Juti",
       "name_default": "Juti",
-      "native": "Vem.",
+      "native": "Juti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 14123,
-      "name": "Porto Barra do Ivinheima",
+      "name": "Pôrto Barra do Ivinheima",
       "name_default": "Pôrto Barra do Ivinheima",
       "native": "Pôrto Barra do Ivinheima",
       "type": "city",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": 14301,
-      "name": "Río Verde de Mato Grosso",
+      "name": "Rio Verde de Mato Grosso",
       "name_default": "Rio Verde de Mato Grosso",
       "native": "Rio Verde de Mato Grosso",
       "type": "city",

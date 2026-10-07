@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80007,
-      "name": "Goed uitzicht",
+      "name": "Buena Vista",
       "name_default": "Buena Vista",
       "native": "Buena Vista",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 80035,
-      "name": "Cativa",
+      "name": "Cativá",
       "name_default": "Cativá",
       "native": "Capiva",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 80073,
-      "name": "Dubbele punt",
+      "name": "Colón",
       "name_default": "Colón",
       "native": "Colon",
       "type": "adm1",
@@ -150,7 +150,7 @@
       "name": "Distrito de Chagres",
       "name_default": "Distrito de Chagres",
       "native": "Distrito de Chagres",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11342,
@@ -186,7 +186,7 @@
       "name": "Distrito de Donoso",
       "name_default": "Distrito de Donoso",
       "native": "Distrito de Donoso",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14798,
@@ -255,7 +255,7 @@
     },
     {
       "id": 80175,
-      "name": "De Guabo",
+      "name": "El Guabo",
       "name_default": "El Guabo",
       "native": "El Guabo",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 80206,
-      "name": "De Vallei van de Unie",
+      "name": "El Valle de la Unión",
       "name_default": "El Valle de la Unión",
       "native": "El Valle de la Unión",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 80214,
       "name": "Gatún",
       "name_default": "Gatún",
-      "native": "Gatthe",
+      "native": "Gatún",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 80350,
-      "name": "Maria Chiquita",
+      "name": "María Chiquita",
       "name_default": "María Chiquita",
       "native": "María Chiquita",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80368,
-      "name": "Naam van God",
+      "name": "Nombre de Dios",
       "name_default": "Nombre de Dios",
       "native": "Nombre de Dios",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80376,
-      "name": "Nieuwe Chagres",
+      "name": "Nuevo Chagres",
       "name_default": "Nuevo Chagres",
       "native": "Nuevo Chagres",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80379,
-      "name": "Nieuw San Juan",
+      "name": "Nuevo San Juan",
       "name_default": "Nuevo San Juan",
       "native": "Nuevo San Juan",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80457,
-      "name": "Rio Alejandro",
+      "name": "Río Alejandro",
       "name_default": "Río Alejandro",
       "native": "Río Alejandro",
       "type": "section",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80502,
-      "name": "Sint Isabel",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80541,
-      "name": "Viento Frio",
+      "name": "Viento Frío",
       "name_default": "Viento Frío",
       "native": "Viento Frío",
       "type": "adm3",

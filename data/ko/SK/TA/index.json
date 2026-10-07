@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104387,
-      "name": "두나이스카 스트레다",
+      "name": "두나이스카스트레다",
       "name_default": "Dunajská Streda",
       "native": "Dunajská Streda",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 104390,
       "name": "갈란타",
       "name_default": "Galanta",
-      "native": "Galantný",
+      "native": "Galanta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 104460,
-      "name": "오크레스 두나이스카 스트레다",
+      "name": "두나이스카스트레다구",
       "name_default": "Okres Dunajská Streda",
       "native": "Okres Dunajská Streda",
       "type": "area",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104461,
-      "name": "오크레스 갈란타",
+      "name": "갈란타구",
       "name_default": "Okres Galanta",
       "native": "Okres Galanta",
       "type": "area",
@@ -219,10 +219,10 @@
     },
     {
       "id": 104463,
-      "name": "오크레스 흘로호베츠",
+      "name": "흘로호베츠구",
       "name_default": "Okres Hlohovec",
       "native": "Okres Hlohovec",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 42762,
@@ -237,7 +237,7 @@
     },
     {
       "id": 104486,
-      "name": "오크레스 피에슈타니",
+      "name": "피에슈탸니구",
       "name_default": "Okres Piešťany",
       "native": "Okres Piešťany",
       "type": "area",
@@ -309,7 +309,7 @@
     },
     {
       "id": 104525,
-      "name": "피에슈타니",
+      "name": "피에슈탸니",
       "name_default": "Piešťany",
       "native": "Piešťany",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104544,
-      "name": "슬라드코비초보",
+      "name": "슬라트코비초보",
       "name_default": "Sládkovičovo",
       "native": "Sládkovičovo",
       "type": "city",

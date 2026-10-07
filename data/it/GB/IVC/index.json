@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48274,
-      "name": "Argyll e Bute",
+      "name": "Argyll and Bute",
       "name_default": "Argyll and Bute",
       "native": "Argyll and Bute",
       "type": "area",
@@ -146,24 +146,6 @@
       "country_id": 232
     },
     {
-      "id": 49888,
-      "name": "Helensburgh",
-      "name_default": "Helensburgh",
-      "native": "Helensburgh",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13640,
-      "latitude": "56.00614000",
-      "longitude": "-4.72648000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1007088",
-      "country_code": "GB",
-      "state_code": "IVC",
-      "state_id": 2388,
-      "country_id": 232
-    },
-    {
       "id": 50059,
       "name": "Inverclyde",
       "name_default": "Inverclyde",
@@ -185,7 +167,7 @@
       "id": 50063,
       "name": "Inverkip",
       "name_default": "Inverkip",
-      "native": "Influence",
+      "native": "Inverkip",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +183,7 @@
     },
     {
       "id": 50076,
-      "name": "Isola di Bute",
+      "name": "Isle of Bute",
       "name_default": "Isle of Bute",
       "native": "Isle of Bute",
       "type": "locality",
@@ -255,9 +237,9 @@
     },
     {
       "id": 50952,
-      "name": "Porto Bannatyne",
+      "name": "Port Bannatyne",
       "name_default": "Port Bannatyne",
-      "native": "Bonane",
+      "native": "Port Bannatyne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +255,7 @@
     },
     {
       "id": 50954,
-      "name": "Porto Glasgow",
+      "name": "Port Glasgow",
       "name_default": "Port Glasgow",
       "native": "Port Glasgow",
       "type": "city",
@@ -327,9 +309,9 @@
     },
     {
       "id": 51192,
-      "name": "Banco di sabbia",
+      "name": "Sandbank",
       "name_default": "Sandbank",
-      "native": "Sandbar",
+      "native": "Sandbank",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +327,7 @@
     },
     {
       "id": 51800,
-      "name": "Baia di Wemyss",
+      "name": "Wemyss Bay",
       "name_default": "Wemyss Bay",
       "native": "Wemyss Bay",
       "type": "city",

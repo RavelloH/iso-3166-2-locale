@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104400,
-      "name": "Hurbanowo",
+      "name": "Hurbanovo",
       "name_default": "Hurbanovo",
       "native": "Hurbanovo",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104407,
-      "name": "Komarno",
+      "name": "Komárno",
       "name_default": "Komárno",
       "native": "Komárno",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 104445,
-      "name": "Nowe Zamki",
+      "name": "Nové Zámky",
       "name_default": "Nové Zámky",
       "native": "Nové Zámky",
       "type": "city",
@@ -183,9 +183,9 @@
     },
     {
       "id": 104471,
-      "name": "Okres Levice",
+      "name": "Powiat Levice",
       "name_default": "Okres Levice",
-      "native": "Vľavo",
+      "native": "Okres Levice",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 104481,
-      "name": "Okres Nitra",
+      "name": "Powiat Nitra",
       "name_default": "Okres Nitra",
       "native": "Okres Nitra",
       "type": "area",
@@ -453,7 +453,7 @@
     },
     {
       "id": 104584,
-      "name": "Złote Morawce",
+      "name": "Zlaté Moravce",
       "name_default": "Zlaté Moravce",
       "native": "Zlaté Moravce",
       "type": "adm2",

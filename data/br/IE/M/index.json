@@ -113,7 +113,7 @@
       "id": 57067,
       "name": "An Clár",
       "name_default": "An Clár",
-      "native": "Program",
+      "native": "An Clár",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 57103,
-      "name": "Ballybunnion",
+      "name": "Baile an Bhuinneánaigh",
       "name_default": "Ballybunnion",
       "native": "Ballybunnion",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57119,
-      "name": "Bantry",
+      "name": "Beanntraí",
       "name_default": "Bantry",
       "native": "Bantry",
       "type": "city",
@@ -275,7 +275,7 @@
       "id": 57139,
       "name": "Caherconlish",
       "name_default": "Caherconlish",
-      "native": "Cherconish",
+      "native": "Caherconlish",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 57140,
-      "name": "Cahersiveen",
+      "name": "Cathair Saidhbhín",
       "name_default": "Cahersiveen",
       "native": "Cahersiveen",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 57141,
-      "name": "Cahir",
+      "name": "An Chathair",
       "name_default": "Cahir",
       "native": "Cahir",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 57148,
-      "name": "Carrick-on-Suir",
+      "name": "Carraig na Siúire",
       "name_default": "Carrick-on-Suir",
       "native": "Carrick-on-Suir",
       "type": "city",
@@ -347,7 +347,7 @@
       "id": 57150,
       "name": "Carrigaline",
       "name_default": "Carrigaline",
-      "native": "Invaria",
+      "native": "Carrigaline",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 57160,
-      "name": "Enez-Kastell",
+      "name": "Castleisland",
       "name_default": "Castleisland",
       "native": "Castleisland",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 57162,
-      "name": "Merzher Kastell",
+      "name": "Castlemartyr",
       "name_default": "Castlemartyr",
       "native": "Castlemartyr",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 57388,
       "name": "Ráth Luirc",
       "name_default": "Charleville",
-      "native": "Rathluck",
+      "native": "Charleville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 57180,
-      "name": "Klonakilted",
+      "name": "Cloich na Coillte",
       "name_default": "Clonakilty",
       "native": "Clonakilty",
       "type": "city",
@@ -527,7 +527,7 @@
       "id": 57185,
       "name": "Cluain Meala",
       "name_default": "Cluain Meala",
-      "native": "Oil honey",
+      "native": "Cluain Meala",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -543,9 +543,9 @@
     },
     {
       "id": 57186,
-      "name": "Cobh",
+      "name": "An Cóbh",
       "name_default": "Cobh",
-      "native": "Cob",
+      "native": "Cobh",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 57192,
-      "name": "Kork",
+      "name": "Korkig",
       "name_default": "Cork",
       "native": "Cork",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57195,
-      "name": "Kontelezh Cork",
+      "name": "County Cork",
       "name_default": "County Cork",
       "native": "County Cork",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57200,
-      "name": "Kontelezh Tipperary",
+      "name": "Kontelezh Tiobraid Árann",
       "name_default": "County Tipperary",
       "native": "County Tipperary",
       "type": "area",
@@ -615,7 +615,7 @@
     },
     {
       "id": 57202,
-      "name": "Troom",
+      "name": "Croom",
       "name_default": "Croom",
       "native": "Croom",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 57212,
-      "name": "Dingle",
+      "name": "An Daingean",
       "name_default": "Dingle",
       "native": "Dingle",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 57229,
-      "name": "Dungarvan",
+      "name": "Dún Garbhán",
       "name_default": "Dungarvan",
       "native": "Dungarvan",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 57233,
-      "name": "Dunmanway",
+      "name": "Dún Mánmhaí",
       "name_default": "Dunmanway",
       "native": "Dunmanway",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 57242,
-      "name": "Ennis",
+      "name": "Inis",
       "name_default": "Ennis",
       "native": "Ennis",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 57247,
-      "name": "Fermoy",
+      "name": "Mainistir Fhear Maigh",
       "name_default": "Fermoy",
       "native": "Fermoy",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 57270,
-      "name": "Kantourk",
+      "name": "Ceann Toirc",
       "name_default": "Kanturk",
       "native": "Kanturk",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 57283,
-      "name": "Killorglin",
+      "name": "Cill Orglan",
       "name_default": "Killorglin",
       "native": "Killorglin",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 57287,
-      "name": "Kilmallock",
+      "name": "Cill Mocheallóg",
       "name_default": "Kilmallock",
       "native": "Kilmallock",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 57290,
-      "name": "Kilrush",
+      "name": "Cill Rois",
       "name_default": "Kilrush",
       "native": "Kilrush",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 57295,
-      "name": "Kinsale",
+      "name": "Cionn tSáile",
       "name_default": "Kinsale",
       "native": "Kinsale",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 57312,
-      "name": "Limerick",
+      "name": "Luimneach",
       "name_default": "Limerick",
       "native": "Limerick",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 57315,
-      "name": "Makroal",
+      "name": "Maigh Chromtha",
       "name_default": "Macroom",
       "native": "Macroom",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 57317,
-      "name": "Malv",
+      "name": "Mala",
       "name_default": "Mallow",
       "native": "Mallow",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 57323,
-      "name": "Straed ar milin",
+      "name": "Sráid an Mhuilinn",
       "name_default": "Millstreet",
       "native": "Millstreet",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 57325,
-      "name": "Mitchelstown",
+      "name": "Baile Mhistéala",
       "name_default": "Mitchelstown",
       "native": "Mitchelstown",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 57344,
-      "name": "Pont Nenagh",
+      "name": "Nenagh Bridge",
       "name_default": "Nenagh Bridge",
       "native": "Nenagh Bridge",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 57347,
-      "name": "Kastell-Nevez ar C'hornôg",
+      "name": "Newcastle West",
       "name_default": "Newcastle West",
       "native": "Newcastle West",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 57348,
-      "name": "Marc'had nevez war Fergus",
+      "name": "Newmarket on Fergus",
       "name_default": "Newmarket on Fergus",
       "native": "Newmarket on Fergus",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 57359,
-      "name": "Tremen ar C'hornôg",
+      "name": "Passage West",
       "name_default": "Passage West",
       "native": "Passage West",
       "type": "city",
@@ -1281,9 +1281,9 @@
     },
     {
       "id": 57386,
-      "name": "Roscrea",
+      "name": "Ros Cré",
       "name_default": "Roscrea",
-      "native": "Roscorea",
+      "native": "Roscrea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 57395,
-      "name": "Shannon",
+      "name": "Sionainn",
       "name_default": "Shannon",
       "native": "Shannon",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 57396,
-      "name": "Pont c'hwec'h milmor",
+      "name": "Sixmilebridge",
       "name_default": "Sixmilebridge",
       "native": "Sixmilebridge",
       "type": "city",
@@ -1337,7 +1337,7 @@
       "id": 57398,
       "name": "Skibbereen",
       "name_default": "Skibbereen",
-      "native": "Shust",
+      "native": "Skibbereen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 57415,
-      "name": "Tipperary",
+      "name": "Tiobraid Árann",
       "name_default": "Tipperary",
       "native": "Tipperary",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 57417,
-      "name": "Tour",
+      "name": "Tower",
       "name_default": "Tower",
       "native": "Tower",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 57420,
       "name": "Trá Mhór",
       "name_default": "Trá Mhór",
-      "native": "Great Beach",
+      "native": "Trá Mhór",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 57418,
-      "name": "Tralee",
+      "name": "Trá Lí",
       "name_default": "Tralee",
       "native": "Tralee",
       "type": "adm2",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 57428,
-      "name": "Waterford",
+      "name": "Port Láirge",
       "name_default": "Waterford",
       "native": "Waterford",
       "type": "adm2",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 57429,
-      "name": "Geot-dour",
+      "name": "Watergrasshill",
       "name_default": "Watergrasshill",
       "native": "Watergrasshill",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 57433,
-      "name": "Youghal",
+      "name": "Eochaill",
       "name_default": "Youghal",
       "native": "Youghal",
       "type": "city",

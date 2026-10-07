@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135416,
-      "name": "Аллейн",
+      "name": "Аллен",
       "name_default": "Allein",
       "native": "Allein",
       "type": "adm3",
@@ -77,7 +77,7 @@
       "id": 135511,
       "name": "Антагнод",
       "name_default": "Antagnod",
-      "native": "Amministrazione",
+      "native": "Antagnod",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 135618,
-      "name": "Арнад",
+      "name": "Арна",
       "name_default": "Arnad",
       "native": "Arnad",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 135712,
-      "name": "Авісе",
+      "name": "Авіз",
       "name_default": "Avise",
       "native": "Avise",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 135717,
-      "name": "Аймавільс",
+      "name": "Емавіль",
       "name_default": "Aymavilles",
       "native": "Aymavilles",
       "type": "adm3",
@@ -239,7 +239,7 @@
       "id": 135997,
       "name": "Берріат",
       "name_default": "Berriat",
-      "native": "Nuovo",
+      "native": "Berriat",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 136055,
-      "name": "Біоназ",
+      "name": "Бйона",
       "name_default": "Bionaz",
       "native": "Bionaz",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 137627,
-      "name": "Шалланд-Сен-Ансельм",
+      "name": "Шаллан-Сент-Ансельм",
       "name_default": "Challand-Saint-Anselme",
       "native": "Challand-Saint-Anselme",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137628,
-      "name": "Шалланд-Сен-Віктор",
+      "name": "Шаллан-Сен-Віктор",
       "name_default": "Challand-Saint-Victor",
       "native": "Challand-Saint-Victor",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137629,
-      "name": "Чамбаве",
+      "name": "Шамбав",
       "name_default": "Chambave",
       "native": "Chambave",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 137630,
-      "name": "Замша",
+      "name": "Chamois",
       "name_default": "Chamois",
       "native": "Chamois",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137631,
-      "name": "Шампдепра",
+      "name": "Шамдепра",
       "name_default": "Champdepraz",
       "native": "Champdepraz",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137633,
-      "name": "Чарвенсод",
+      "name": "Шарвансо",
       "name_default": "Charvensod",
       "native": "Charvensod",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 138321,
-      "name": "Дуес",
+      "name": "Дуе",
       "name_default": "Doues",
       "native": "Doues",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 138388,
-      "name": "Проблеми",
+      "name": "Etroubles",
       "name_default": "Etroubles",
       "native": "Etroubles",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 139211,
-      "name": "Вступ",
+      "name": "Ентро",
       "name_default": "Introd",
       "native": "Introd",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 139262,
-      "name": "Іссіме",
+      "name": "Іссім",
       "name_default": "Issime",
       "native": "Issime",
       "type": "adm3",
@@ -797,7 +797,7 @@
       "id": 139290,
       "name": "Ла-Кретаз-Руазан",
       "name_default": "La Cretaz-Roisan",
-      "native": "La Crertaz-Roisan",
+      "native": "La Cretaz-Roisan",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 139294,
-      "name": "Ла Магдалена",
+      "name": "Ла-Мадлен",
       "name_default": "La Magdeleine",
       "native": "La Magdeleine",
       "type": "adm3",
@@ -833,7 +833,7 @@
       "id": 139299,
       "name": "Ла Плейс",
       "name_default": "La Place",
-      "native": "Da posizionare",
+      "native": "La Place",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 139303,
-      "name": "Ла Саль",
+      "name": "Ла-Саль",
       "name_default": "La Salle",
       "native": "La Salle",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 139514,
-      "name": "Ліліанес",
+      "name": "Лілльян",
       "name_default": "Lillianes",
       "native": "Lillianes",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 140613,
-      "name": "Моржекс",
+      "name": "Морже",
       "name_default": "Morgex",
       "native": "Morgex",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 140907,
-      "name": "Олломонт",
+      "name": "Олломон",
       "name_default": "Ollomont",
       "native": "Ollomont",
       "type": "adm3",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 141060,
-      "name": "Ойас",
+      "name": "Ояс",
       "name_default": "Oyace",
       "native": "Oyace",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 58430,
-      "name": "Перлоз",
+      "name": "Перло",
       "name_default": "Perloz",
       "native": "Perloz",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 58476,
       "name": "Петі Феніс",
       "name_default": "Petit Fenis",
-      "native": "Chiede un fieno",
+      "native": "Petit Fenis",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1101,9 +1101,9 @@
     },
     {
       "id": 58732,
-      "name": "План введення",
+      "name": "Plan d'Introd",
       "name_default": "Plan d'Introd",
-      "native": "Piano d'Intro",
+      "native": "Plan d'Introd",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 58796,
-      "name": "Полеїн",
+      "name": "Поллен",
       "name_default": "Pollein",
       "native": "Pollein",
       "type": "adm3",
@@ -1139,7 +1139,7 @@
       "id": 58827,
       "name": "Пон-Бозе",
       "name_default": "Pont-Bozet",
-      "native": "Punto",
+      "native": "Pont-Bozet",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 58881,
-      "name": "Понтей",
+      "name": "Понте",
       "name_default": "Pontey",
       "native": "Pontey",
       "type": "adm3",
@@ -1193,7 +1193,7 @@
       "id": 59193,
       "name": "Пре-Сен-Дідьє",
       "name_default": "Prè Saint Didier",
-      "native": "Prestito di Saint Didier",
+      "native": "Prè Saint Didier",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 59729,
-      "name": "Сен-Крістоф",
+      "name": "Сен-Кристоф",
       "name_default": "Saint-Christophe",
       "native": "Saint-Christophe",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 59732,
-      "name": "Сент-Уайєн",
+      "name": "Сент-Уаєн",
       "name_default": "Saint-Oyen",
       "native": "Saint-Oyen",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 59735,
-      "name": "Сен-Вінсент",
+      "name": "Сен-Венсан",
       "name_default": "Saint-Vincent",
       "native": "Saint-Vincent",
       "type": "adm3",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 61328,
-      "name": "Торньон",
+      "name": "Торньйон",
       "name_default": "Torgnon",
       "native": "Torgnon",
       "type": "adm3",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 61677,
-      "name": "Вальгрісенче",
+      "name": "Вальгризанш",
       "name_default": "Valgrisenche",
       "native": "Valgrisenche",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 61738,
-      "name": "Вальсаваренш",
+      "name": "Вальсаваранш",
       "name_default": "Valsavarenche",
       "native": "Valsavarenche",
       "type": "adm3",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 61865,
-      "name": "Веррайєс",
+      "name": "Веррей",
       "name_default": "Verrayes",
       "native": "Verrayes",
       "type": "adm3",
@@ -1625,7 +1625,7 @@
       "id": 62074,
       "name": "Віллер-Амерік",
       "name_default": "Villair-Amerique",
-      "native": "Villair-American",
+      "native": "Villair-Amerique",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1643,7 +1643,7 @@
       "id": 62147,
       "name": "Віль-сюр-Сарр",
       "name_default": "Ville Sur Sarre",
-      "native": "Sarre City",
+      "native": "Ville Sur Sarre",
       "type": "adm3",
       "level": null,
       "parent_id": null,

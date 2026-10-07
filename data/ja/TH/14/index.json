@@ -193,7 +193,7 @@
       "latitude": "13.99904000",
       "longitude": "100.54962000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q4784166",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "14",
       "state_id": 3494,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105213,
-      "name": "バンプレーク地区",
+      "name": "バーンプレーク郡",
       "name_default": "Ban Phraek",
       "native": "อำเภอบ้านแพรก",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105235,
-      "name": "バンパハン地区",
+      "name": "バーンパハン郡",
       "name_default": "Bang Pahan",
       "native": "อำเภอบางปะหัน",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105242,
-      "name": "バンサイ地区",
+      "name": "バーンサイ郡",
       "name_default": "Bang Sai",
       "native": "อำเภอบางไทร",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105487,
-      "name": "ラット・ブア・ルアン地区",
+      "name": "ラートブワルワン郡",
       "name_default": "Lat Bua Luang",
       "native": "อำเภอลาดบัวหลวง",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105521,
-      "name": "マハラット郡",
+      "name": "マハーラート郡",
       "name_default": "Maha Rat",
       "native": "อำเภอมหาราช",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105717,
-      "name": "パチ地区",
+      "name": "パーチー郡",
       "name_default": "Phachi",
       "native": "อำเภอภาชี",
       "type": "district",
@@ -381,7 +381,7 @@
     },
     {
       "id": 106644,
-      "name": "プラナコーン・シー・アユタヤ",
+      "name": "プラナコーンシーアユッタヤー",
       "name_default": "Phra Nakhon Si Ayutthaya",
       "native": "พระนครศรีอยุธยา",
       "type": "adm1",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106207,
-      "name": "セナ郡",
+      "name": "セーナー郡",
       "name_default": "Sena",
       "native": "อำเภอเสนา",
       "type": "district",

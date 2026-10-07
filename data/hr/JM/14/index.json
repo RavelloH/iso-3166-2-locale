@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62292,
-      "name": "Iznad stijena",
+      "name": "Above Rocks",
       "name_default": "Above Rocks",
       "native": "Above Rocks",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 62348,
-      "name": "Bellasova vrata",
+      "name": "Bellas Gate",
       "name_default": "Bellas Gate",
       "native": "Bellas Gate",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 62369,
-      "name": "Šetnja po močvari",
+      "name": "Bog Walk",
       "name_default": "Bog Walk",
       "native": "Bog Walk",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62436,
-      "name": "Kajmanski otoci",
+      "name": "Caymanas",
       "name_default": "Caymanas",
       "native": "Caymanas",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 62441,
-      "name": "Središnje selo",
+      "name": "Central Village",
       "name_default": "Central Village",
       "native": "Central Village",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 62488,
-      "name": "Polumjesec",
+      "name": "Crescent",
       "name_default": "Crescent",
       "native": "Crescent",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 62490,
       "name": "Cromarty",
       "name_default": "Cromarty",
-      "native": "Cromatyy",
+      "native": "Cromarty",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -293,7 +293,7 @@
       "id": 62540,
       "name": "Ensom",
       "name_default": "Ensom",
-      "native": "Lonely",
+      "native": "Ensom",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 62591,
-      "name": "Zlatna jutra",
+      "name": "Golden Acres",
       "name_default": "Golden Acres",
       "native": "Golden Acres",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62609,
-      "name": "Veliki Portmore",
+      "name": "Greater Portmore",
       "name_default": "Greater Portmore",
       "native": "Greater Portmore",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62660,
-      "name": "Grad neovisnosti",
+      "name": "Independence City",
       "name_default": "Independence City",
       "native": "Independence City",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62689,
-      "name": "Ključni kamen",
+      "name": "Keystone",
       "name_default": "Keystone",
       "native": "Keystone",
       "type": "city",
@@ -579,9 +579,9 @@
     },
     {
       "id": 62722,
-      "name": "Dolina Lluidas",
+      "name": "Lluidas Vale",
       "name_default": "Lluidas Vale",
-      "native": "Lluidas is worth",
+      "native": "Lluidas Vale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -615,7 +615,7 @@
     },
     {
       "id": 62838,
-      "name": "Stara luka",
+      "name": "Old Harbour",
       "name_default": "Old Harbour",
       "native": "Old Harbour",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 62839,
-      "name": "Zaljev Stare luke",
+      "name": "Old Harbour Bay",
       "name_default": "Old Harbour Bay",
       "native": "Old Harbour Bay",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 62840,
-      "name": "Stara luka",
+      "name": "Old Harbour Road",
       "name_default": "Old Harbour Road",
       "native": "Old Harbour Road",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62860,
-      "name": "Dio Guys Hilla",
+      "name": "Part of Guys Hill",
       "name_default": "Part of Guys Hill",
       "native": "Part of Guys Hill",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 62862,
-      "name": "Dio Keystonea",
+      "name": "Part of Keystone",
       "name_default": "Part of Keystone",
       "native": "Part of Keystone",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 62863,
-      "name": "Dio Rock Halla",
+      "name": "Part of Rock Hall",
       "name_default": "Part of Rock Hall",
       "native": "Part of Rock Hall",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 62865,
-      "name": "Prolazna tvrđava",
+      "name": "Passage Fort",
       "name_default": "Passage Fort",
-      "native": "Loud passage",
+      "native": "Passage Fort",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 62870,
-      "name": "Krušarski gaj",
+      "name": "Pear Tree Grove",
       "name_default": "Pear Tree Grove",
       "native": "Pear Tree Grove",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62920,
-      "name": "Sekvoja",
+      "name": "Redwood",
       "name_default": "Redwood",
       "native": "Redwood",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 63007,
-      "name": "Španjolski grad",
+      "name": "Spanish Town",
       "name_default": "Spanish Town",
       "native": "Spanish Town",
       "type": "adm1",
@@ -867,7 +867,7 @@
     },
     {
       "id": 63008,
-      "name": "Središnji španjolski grad",
+      "name": "Spanish Town Central",
       "name_default": "Spanish Town Central",
       "native": "Spanish Town Central",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 63021,
-      "name": "Istočni St. John",
+      "name": "St. John's East",
       "name_default": "St. John's East",
       "native": "St. John's East",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 63022,
-      "name": "Zapadni dio St. Johna",
+      "name": "St. John's West",
       "name_default": "St. John's West",
       "native": "St. John's West",
       "type": "city",
@@ -923,7 +923,7 @@
       "id": 63066,
       "name": "Troja",
       "name_default": "Troja",
-      "native": "Troy",
+      "native": "Troja",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 63091,
-      "name": "Vodena montaža",
+      "name": "Watermount",
       "name_default": "Watermount",
       "native": "Watermount",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 63095,
-      "name": "Zapadni Cumberland",
+      "name": "West Cumberland",
       "name_default": "West Cumberland",
       "native": "West Cumberland",
       "type": "city",

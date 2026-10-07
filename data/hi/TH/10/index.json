@@ -237,7 +237,7 @@
     },
     {
       "id": 106448,
-      "name": "बैंकाक",
+      "name": "बैंकॉक",
       "name_default": "Bangkok",
       "native": "กรุงเทพฯ",
       "type": "capital",
@@ -690,7 +690,7 @@
       "name": "पोम प्रैप सत्त्रु फाई",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "चूहा बुराना",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",

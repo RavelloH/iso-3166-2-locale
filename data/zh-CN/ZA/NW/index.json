@@ -75,7 +75,7 @@
     },
     {
       "id": 131041,
-      "name": "博亚纳拉白金区市政厅",
+      "name": "博扎纳拉区自治市",
       "name_default": "Bojanala Platinum",
       "native": "Bojanala Platinum District Municipality",
       "type": "municipality",
@@ -93,7 +93,7 @@
     },
     {
       "id": 131050,
-      "name": "英国人",
+      "name": "布里茨",
       "name_default": "Brits",
       "native": "Brits",
       "type": "adm3",
@@ -218,24 +218,6 @@
       "country_id": 204
     },
     {
-      "id": 131134,
-      "name": "简·肯普多普",
-      "name_default": "Jan Kempdorp",
-      "native": "Jan Kempdorp",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13485,
-      "latitude": "-27.92246000",
-      "longitude": "24.83051000",
-      "timezone": "Africa/Johannesburg",
-      "wikiDataId": "Q2539888",
-      "country_code": "ZA",
-      "state_code": "NW",
-      "state_id": 934,
-      "country_id": 204
-    },
-    {
       "id": 131142,
       "name": "克莱克斯多普",
       "name_default": "Klerksdorp",
@@ -255,7 +237,7 @@
     },
     {
       "id": 131147,
-      "name": "科斯特",
+      "name": "科斯特尔",
       "name_default": "Koster",
       "native": "Koster",
       "type": "adm3",
@@ -291,7 +273,7 @@
     },
     {
       "id": 131162,
-      "name": "利希滕堡",
+      "name": "利赫滕堡",
       "name_default": "Lichtenburg",
       "native": "Lichtenburg",
       "type": "adm3",
@@ -309,7 +291,7 @@
     },
     {
       "id": 131167,
-      "name": "玛希肯",
+      "name": "梅富根",
       "name_default": "Mahikeng",
       "native": "Mahikeng",
       "type": "adm1",
@@ -417,7 +399,7 @@
     },
     {
       "id": 131209,
-      "name": "奥克尼群岛",
+      "name": "奥克尼",
       "name_default": "Orkney",
       "native": "Orkney",
       "type": "city",
@@ -471,7 +453,7 @@
     },
     {
       "id": 131247,
-      "name": "鲁斯滕堡",
+      "name": "勒斯滕堡",
       "name_default": "Rustenburg",
       "native": "Rustenburg",
       "type": "adm3",
@@ -489,9 +471,9 @@
     },
     {
       "id": 131250,
-      "name": "施魏策尔-雷内克",
+      "name": "施韦策尔雷内克",
       "name_default": "Schweizer-Reneke",
-      "native": "Swiss Renke",
+      "native": "Schweizer-Reneke",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -507,7 +489,7 @@
     },
     {
       "id": 131265,
-      "name": "斯蒂尔方丹",
+      "name": "史蒂尔方丹",
       "name_default": "Stilfontein",
       "native": "Stilfontein",
       "type": "city",
@@ -543,9 +525,9 @@
     },
     {
       "id": 131296,
-      "name": "弗里堡",
+      "name": "弗雷堡",
       "name_default": "Vryburg",
-      "native": "Freeburg",
+      "native": "Vryburg",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -561,7 +543,7 @@
     },
     {
       "id": 131312,
-      "name": "沃尔马兰斯塔德",
+      "name": "沃尔马朗斯塔德",
       "name_default": "Wolmaransstad",
       "native": "Wolmaransstad",
       "type": "adm3",
@@ -579,7 +561,7 @@
     },
     {
       "id": 131316,
-      "name": "泽鲁斯特",
+      "name": "济勒斯特",
       "name_default": "Zeerust",
       "native": "Zeerust",
       "type": "adm3",

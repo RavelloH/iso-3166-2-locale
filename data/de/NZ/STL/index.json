@@ -82,7 +82,7 @@
     },
     {
       "id": 79797,
-      "name": "Blut",
+      "name": "Gore",
       "name_default": "Gore",
       "native": "Gore",
       "type": "city",
@@ -118,7 +118,7 @@
     },
     {
       "id": 79871,
-      "name": "Riverton",
+      "name": "Riverton/Aparima",
       "name_default": "Riverton",
       "native": "Riverton",
       "type": "city",
@@ -136,9 +136,9 @@
     },
     {
       "id": 79881,
-      "name": "Southland-Bezirk",
+      "name": "Southland",
       "name_default": "Southland",
-      "native": "Southland District",
+      "native": "Southland",
       "type": "district",
       "level": null,
       "parent_id": null,

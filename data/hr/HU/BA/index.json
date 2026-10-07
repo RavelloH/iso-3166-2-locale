@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 55238,
-      "name": "Beremend",
+      "name": "Breme",
       "name_default": "Beremend",
-      "native": "Bujkás",
+      "native": "Beremend",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 55304,
-      "name": "Bóly",
+      "name": "Boja",
       "name_default": "Bóly",
       "native": "Bóly",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 55310,
-      "name": "Bükkösd",
+      "name": "Bikeš",
       "name_default": "Bükkösd",
       "native": "Bükkösd",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 55378,
-      "name": "Dunaszekcső",
+      "name": "Sečuv",
       "name_default": "Dunaszekcső",
       "native": "Dunaszekcső",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 55497,
-      "name": "Harkány",
+      "name": "Harkanj",
       "name_default": "Harkány",
       "native": "Harkány",
       "type": "city",
@@ -183,9 +183,9 @@
     },
     {
       "id": 55512,
-      "name": "Hidas",
+      "name": "Idoš",
       "name_default": "Hidas",
-      "native": "Lassú",
+      "native": "Hidas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 55516,
-      "name": "Hosszúhetény",
+      "name": "Hetinj",
       "name_default": "Hosszúhetény",
       "native": "Hosszúhetény",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 55618,
-      "name": "Komló",
+      "name": "Komlov",
       "name_default": "Komló",
       "native": "Komló",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55625,
-      "name": "Kozármisleny",
+      "name": "Mišljen",
       "name_default": "Kozármisleny",
       "native": "Kozármisleny",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 55667,
-      "name": "Lánycsók",
+      "name": "Lančug",
       "name_default": "Lánycsók",
       "native": "Lánycsók",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 55719,
-      "name": "Mágocs",
+      "name": "Magoč",
       "name_default": "Mágocs",
       "native": "Mágocs",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 55684,
-      "name": "Mecseknádasd",
+      "name": "Nadoš",
       "name_default": "Mecseknádasd",
       "native": "Mecseknádasd",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 55709,
-      "name": "Moháčski Járás",
+      "name": "Mohácsi Járás",
       "name_default": "Mohácsi Járás",
       "native": "Mohácsi Járás",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 55852,
-      "name": "Pecsvárad",
+      "name": "Pečvar",
       "name_default": "Pécsvárad",
       "native": "Pécsvárad",
       "type": "city",
@@ -435,9 +435,9 @@
     },
     {
       "id": 55812,
-      "name": "Pellérd",
+      "name": "Pelir",
       "name_default": "Pellérd",
-      "native": "Pelé az",
+      "native": "Pellérd",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 55894,
-      "name": "Sellye",
+      "name": "Šeljin",
       "name_default": "Sellye",
       "native": "Sellye",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 55898,
-      "name": "Járás u Šiklósiju",
+      "name": "Siklósi Járás",
       "name_default": "Siklósi Járás",
       "native": "Siklósi Járás",
       "type": "area",
@@ -561,7 +561,7 @@
     },
     {
       "id": 55944,
-      "name": "Szentlőrinc",
+      "name": "Selurinac",
       "name_default": "Szentlőrinc",
       "native": "Szentlőrinc",
       "type": "adm2",
@@ -615,7 +615,7 @@
     },
     {
       "id": 55955,
-      "name": "Járás iz Szigetvárija",
+      "name": "Szigetvári Járás",
       "name_default": "Szigetvári Járás",
       "native": "Szigetvári Járás",
       "type": "area",
@@ -633,7 +633,7 @@
     },
     {
       "id": 56089,
-      "name": "Vajszló",
+      "name": "Vajslovo",
       "name_default": "Vajszló",
       "native": "Vajszló",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 56102,
-      "name": "Villány",
+      "name": "Viljan",
       "name_default": "Villány",
       "native": "Villány",
       "type": "city",

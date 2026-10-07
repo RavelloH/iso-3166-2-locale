@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "गुएरेरो नीग्रो",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "हैसिंडा टेकेटे",
       "name_default": "Hacienda Tecate",
@@ -1072,7 +1054,7 @@
       "id": 73165,
       "name": "रुमोरोसा",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1574,7 +1556,7 @@
     },
     {
       "id": 73510,
-      "name": "सैन फ़ेलिप",
+      "name": "सैन फेलिप",
       "name_default": "San Felipe",
       "native": "San Felipe",
       "type": "city",

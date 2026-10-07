@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48505,
-      "name": "比林格",
+      "name": "比灵格",
       "name_default": "Billinge",
       "native": "Billinge",
       "type": "city",
@@ -92,8 +92,26 @@
       "country_id": 232
     },
     {
+      "id": 50734,
+      "name": "牛顿勒威洛斯",
+      "name_default": "Newton-le-Willows",
+      "native": "Newton-le-Willows",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21782,
+      "latitude": "53.45000000",
+      "longitude": "-2.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q750000",
+      "country_code": "GB",
+      "state_code": "SHN",
+      "state_id": 2290,
+      "country_id": 232
+    },
+    {
       "id": 51023,
-      "name": "雷恩福德",
+      "name": "雷恩福特",
       "name_default": "Rainford",
       "native": "Rainford",
       "type": "city",
@@ -111,7 +129,7 @@
     },
     {
       "id": 51397,
-      "name": "圣海伦斯",
+      "name": "圣海伦",
       "name_default": "St Helens",
       "native": "St Helens",
       "type": "adm2",

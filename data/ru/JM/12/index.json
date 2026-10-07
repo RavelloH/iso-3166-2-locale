@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62304,
-      "name": "Пруд с аллигаторами",
+      "name": "Аллигатор-Понд",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62303,
-      "name": "Пруд с аллигаторами",
+      "name": "Аллигатор-Понд",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 62321,
       "name": "Азия/Пратвиль",
       "name_default": "Asia/Pratville",
-      "native": "Thing/pratville",
+      "native": "Asia/Pratville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 62323,
       "name": "Охтембедди",
       "name_default": "Auchtembeddie",
-      "native": "AUREGEMBERY",
+      "native": "Auchtembeddie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 62366,
-      "name": "Голубая гора",
+      "name": "Blue Mountain",
       "name_default": "Blue Mountain",
       "native": "Blue Mountain",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62543,
-      "name": "Вечнозеленый",
+      "name": "Evergreen",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62581,
-      "name": "Долина Святого Георгия",
+      "name": "George's Valley",
       "name_default": "George's Valley",
       "native": "George's Valley",
       "type": "city",
@@ -563,7 +563,7 @@
       "id": 62613,
       "name": "Гринвейл",
       "name_default": "Greenvale",
-      "native": "GREENVAL",
+      "native": "Greenvale",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 62745,
-      "name": "Мандевиль",
+      "name": "Мандевилл",
       "name_default": "Mandeville",
       "native": "Mandeville",
       "type": "adm1",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62837,
-      "name": "Старая Англия",
+      "name": "Old England",
       "name_default": "Old England",
       "native": "Old England",
       "type": "adm1",
@@ -1103,7 +1103,7 @@
       "id": 62900,
       "name": "Порус",
       "name_default": "Porus",
-      "native": "Pores",
+      "native": "Porus",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 67066,
-      "name": "Arbaua",
+      "name": "Arbaoua",
       "name_default": "Arbaoua",
       "native": "أرباوا",
       "type": "adm3",
@@ -118,7 +118,7 @@
     },
     {
       "id": 67147,
-      "name": "Provincia de Kenitra",
+      "name": "Kenitra Province",
       "name_default": "Kenitra Province",
       "native": "إقليم القنيطرة",
       "type": "province",
@@ -136,7 +136,7 @@
     },
     {
       "id": 67149,
-      "name": "Jemisset",
+      "name": "Khemisset",
       "name_default": "Khemisset",
       "native": "الخميسات",
       "type": "city",
@@ -147,24 +147,6 @@
       "longitude": "-6.25000000",
       "timezone": "Africa/Casablanca",
       "wikiDataId": "Q1740735",
-      "country_code": "MA",
-      "state_code": "KEN",
-      "state_id": 3308,
-      "country_id": 149
-    },
-    {
-      "id": 67161,
-      "name": "Mechraa Bel Ksiri",
-      "name_default": "Mechraa Bel Ksiri",
-      "native": "مشرع بلقصيري",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 34393,
-      "latitude": "34.57373000",
-      "longitude": "-5.95585000",
-      "timezone": "Africa/Casablanca",
-      "wikiDataId": "Q2626632",
       "country_code": "MA",
       "state_code": "KEN",
       "state_id": 3308,
@@ -226,7 +208,7 @@
     },
     {
       "id": 67217,
-      "name": "Sidi Kacém",
+      "name": "Sidi-Kacem",
       "name_default": "Sidi-Kacem",
       "native": "سيدي قاسم",
       "type": "city",
@@ -262,7 +244,7 @@
     },
     {
       "id": 67222,
-      "name": "Zoco Larb’a al Gharb",
+      "name": "Souq Larb’a al Gharb",
       "name_default": "Souq Larb’a al Gharb",
       "native": "سوق الأربعاء الغرب",
       "type": "adm3",

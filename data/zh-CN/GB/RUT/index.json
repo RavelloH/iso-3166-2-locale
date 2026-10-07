@@ -218,26 +218,8 @@
       "country_id": 232
     },
     {
-      "id": 49699,
-      "name": "格兰瑟姆",
-      "name_default": "Grantham",
-      "native": "Grantham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 43833,
-      "latitude": "52.91149000",
-      "longitude": "-0.64184000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q846683",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 49748,
-      "name": "格里瑟姆",
+      "name": "格利特汉姆",
       "name_default": "Greetham",
       "native": "Greetham",
       "type": "adm3",
@@ -273,7 +255,7 @@
     },
     {
       "id": 50241,
-      "name": "朗廷酒店",
+      "name": "朗咸",
       "name_default": "Langham",
       "native": "Langham",
       "type": "adm3",
@@ -326,24 +308,6 @@
       "country_id": 232
     },
     {
-      "id": 50544,
-      "name": "梅尔顿莫布雷",
-      "name_default": "Melton Mowbray",
-      "native": "Melton Mowbray",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 27158,
-      "latitude": "52.76588000",
-      "longitude": "-0.88693000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1018423",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 50625,
       "name": "莫尔科特",
       "name_default": "Morcott",
@@ -363,7 +327,7 @@
     },
     {
       "id": 50759,
-      "name": "北拉芬汉姆",
+      "name": "North Luffenham",
       "name_default": "North Luffenham",
       "native": "North Luffenham",
       "type": "adm3",
@@ -381,7 +345,7 @@
     },
     {
       "id": 50792,
-      "name": "奥克汉姆",
+      "name": "奥克姆",
       "name_default": "Oakham",
       "native": "Oakham",
       "type": "adm2",
@@ -435,7 +399,7 @@
     },
     {
       "id": 51359,
-      "name": "南拉芬汉姆",
+      "name": "South Luffenham",
       "name_default": "South Luffenham",
       "native": "South Luffenham",
       "type": "adm3",
@@ -453,7 +417,7 @@
     },
     {
       "id": 51368,
-      "name": "南威瑟姆",
+      "name": "South Witham",
       "name_default": "South Witham",
       "native": "South Witham",
       "type": "city",

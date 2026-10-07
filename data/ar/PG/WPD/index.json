@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 81035,
-      "name": "دارو",
+      "name": "ريف دارو",
       "name_default": "Daru",
       "native": "Daru",
       "type": "adm1",
@@ -84,7 +84,7 @@
       "id": 81067,
       "name": "كيونجا",
       "name_default": "Kiunga",
-      "native": "SUGGESTION",
+      "native": "Kiunga",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -157,7 +157,7 @@
       "name": "ذبابة الجنوب",
       "name_default": "South Fly",
       "native": "South Fly",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 46537,

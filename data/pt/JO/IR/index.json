@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -165,7 +165,7 @@
     },
     {
       "id": 63154,
-      "name": "Bayt Yafa",
+      "name": "Bayt Yāfā",
       "name_default": "Bayt Yāfā",
       "native": "بيت يافا",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63158,
-      "name": "Dayr Yusuf",
+      "name": "Dayr Yūsuf",
       "name_default": "Dayr Yūsuf",
       "native": "دير يوسف",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 63163,
-      "name": "Kafr Abil",
+      "name": "Kafr Abīl",
       "name_default": "Kafr Abīl",
       "native": "كفر أبييل",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63167,
-      "name": "Kharja",
+      "name": "Kharjā",
       "name_default": "Kharjā",
       "native": "خرجا",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63186,
-      "name": "Sal",
+      "name": "Sāl",
       "name_default": "Sāl",
       "native": "سال",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 63189,
-      "name": "Tibna",
+      "name": "Tibnah",
       "name_default": "Tibnah",
       "native": "تبنة",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 63190,
-      "name": "Umm Qays",
+      "name": "Umm Qais",
       "name_default": "Umm Qays",
       "native": "أم قيس",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 63197,
-      "name": "Zahar",
+      "name": "Zaḩar",
       "name_default": "Zaḩar",
       "native": "زهار",
       "type": "city",

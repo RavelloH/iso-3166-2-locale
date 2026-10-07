@@ -129,7 +129,7 @@
     },
     {
       "id": 131030,
-      "name": "Beaufort Batısı",
+      "name": "Beaufort West",
       "name_default": "Beaufort West",
       "native": "Beaufort West",
       "type": "adm2",
@@ -149,7 +149,7 @@
       "id": 131034,
       "name": "Bergvliet",
       "name_default": "Bergvliet",
-      "native": "Mountain flight",
+      "native": "Bergvliet",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 131056,
-      "name": "Kaledon",
+      "name": "Caledon",
       "name_default": "Caledon",
       "native": "Caledon",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 131059,
-      "name": "Cape Town",
+      "name": "Kap Şehri",
       "name_default": "Cape Town",
       "native": "Cape Town",
       "type": "adm1",
@@ -237,7 +237,7 @@
     },
     {
       "id": 131060,
-      "name": "Cape Winelands Bölge Belediyesi",
+      "name": "Cape Winelands",
       "name_default": "Cape Winelands",
       "native": "Cape Winelands District Municipality",
       "type": "municipality",
@@ -255,7 +255,7 @@
     },
     {
       "id": 131065,
-      "name": "Merkez Karoo İlçe Belediyesi",
+      "name": "Central Karoo",
       "name_default": "Central Karoo",
       "native": "Central Karoo District Municipality",
       "type": "municipality",
@@ -291,7 +291,7 @@
     },
     {
       "id": 131070,
-      "name": "Cape Town Şehri",
+      "name": "City of Cape Town",
       "name_default": "City of Cape Town",
       "native": "City of Cape Town",
       "type": "adm1",
@@ -309,7 +309,7 @@
     },
     {
       "id": 131073,
-      "name": "Klanwilliam",
+      "name": "Clanwilliam",
       "name_default": "Clanwilliam",
       "native": "Clanwilliam",
       "type": "adm3",
@@ -365,7 +365,7 @@
       "id": 131082,
       "name": "De Rust",
       "name_default": "De Rust",
-      "native": "Tranquility",
+      "native": "De Rust",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 131188,
-      "name": "Mossel Körfezi",
+      "name": "Mossel Bay",
       "name_default": "Mossel Bay",
       "native": "Mossel Bay",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 131211,
-      "name": "Overberg İlçe Belediyesi",
+      "name": "Overberg",
       "name_default": "Overberg",
       "native": "Overberg District Municipality",
       "type": "municipality",
@@ -777,7 +777,7 @@
     },
     {
       "id": 131221,
-      "name": "Plettenberg Körfezi",
+      "name": "Plettenberg Bay",
       "name_default": "Plettenberg Bay",
       "native": "Plettenberg Bay",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 131232,
-      "name": "Redingot",
+      "name": "Prince Albert",
       "name_default": "Prince Albert",
       "native": "Prince Albert",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 131238,
-      "name": "Geri çekilme",
+      "name": "Retreat",
       "name_default": "Retreat",
       "native": "Retreat",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 131246,
-      "name": "Gülbank",
+      "name": "Rosebank",
       "name_default": "Rosebank",
       "native": "Rose bank",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 131268,
-      "name": "Gün Batımı Plajı",
+      "name": "Sunset Beach",
       "name_default": "Sunset Beach",
       "native": "Sunset Beach",
       "type": "section",
@@ -995,7 +995,7 @@
       "id": 131295,
       "name": "Vredendal",
       "name_default": "Vredendal",
-      "native": "Peace",
+      "native": "Vredendal",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 131304,
-      "name": "Batı Yakası Bölge Belediyesi",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast District Municipality",
       "type": "municipality",
@@ -1067,7 +1067,7 @@
       "id": 131317,
       "name": "Zoar",
       "name_default": "Zoar",
-      "native": "Joke",
+      "native": "Zoar",
       "type": "city",
       "level": null,
       "parent_id": null,

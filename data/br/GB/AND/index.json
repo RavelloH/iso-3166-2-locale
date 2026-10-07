@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48273,
-      "name": "Ards ha North Down",
+      "name": "Ards and North Down",
       "name_default": "Ards and North Down",
       "native": "Ards and North Down",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48359,
-      "name": "Ballywalter",
+      "name": "Baile Bháltair",
       "name_default": "Ballywalter",
       "native": "Ballywalter",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48371,
-      "name": "Bangor",
+      "name": "Beannchar",
       "name_default": "Bangor",
       "native": "Bangor",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49751,
-      "name": "Abati Greya",
+      "name": "Greyabbey",
       "name_default": "Greyabbey",
       "native": "Greyabbey",
       "type": "city",
@@ -158,6 +158,24 @@
       "longitude": "-5.56028000",
       "timezone": "Europe/London",
       "wikiDataId": "Q135049",
+      "country_code": "GB",
+      "state_code": "AND",
+      "state_id": 2523,
+      "country_id": 232
+    },
+    {
+      "id": 49975,
+      "name": "Holywood",
+      "name_default": "Holywood",
+      "native": "Holywood",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13109,
+      "latitude": "54.63863000",
+      "longitude": "-5.82473000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1625366",
       "country_code": "GB",
       "state_code": "AND",
       "state_id": 2523,
@@ -201,7 +219,7 @@
     },
     {
       "id": 50740,
-      "name": "Kêr-Nevez",
+      "name": "Newtownards",
       "name_default": "Newtownards",
       "native": "Newtownards",
       "type": "adm2",
@@ -219,7 +237,7 @@
     },
     {
       "id": 50957,
-      "name": "Portaferry",
+      "name": "Port an Pheire",
       "name_default": "Portaferry",
       "native": "Portaferry",
       "type": "city",
@@ -239,7 +257,7 @@
       "id": 50958,
       "name": "Portavogie",
       "name_default": "Portavogie",
-      "native": "Spoiled",
+      "native": "Portavogie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +273,7 @@
     },
     {
       "id": 51874,
-      "name": "Penn-wenn",
+      "name": "Whitehead",
       "name_default": "Whitehead",
       "native": "Whitehead",
       "type": "city",

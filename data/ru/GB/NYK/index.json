@@ -93,7 +93,7 @@
     },
     {
       "id": 48611,
-      "name": "Бороубридж",
+      "name": "Боробридж",
       "name_default": "Boroughbridge",
       "native": "Boroughbridge",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48667,
-      "name": "Брайтон",
+      "name": "Брэйтон",
       "name_default": "Brayton",
       "native": "Brayton",
       "type": "city",
@@ -218,6 +218,24 @@
       "country_id": 232
     },
     {
+      "id": 48895,
+      "name": "Каттерик Гаррисон",
+      "name_default": "Catterick Garrison",
+      "native": "Catterick Garrison",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 11804,
+      "latitude": "54.37748000",
+      "longitude": "-1.72232000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q386087",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
       "id": 48994,
       "name": "Черч Фентон",
       "name_default": "Church Fenton",
@@ -291,7 +309,7 @@
     },
     {
       "id": 49665,
-      "name": "Глусберн",
+      "name": "Гласберн",
       "name_default": "Glusburn",
       "native": "Glusburn",
       "type": "city",
@@ -345,7 +363,7 @@
     },
     {
       "id": 49816,
-      "name": "Харрогейт",
+      "name": "Харрогит",
       "name_default": "Harrogate",
       "native": "Harrogate",
       "type": "city",
@@ -471,7 +489,7 @@
     },
     {
       "id": 50525,
-      "name": "Машам",
+      "name": "Машем",
       "name_default": "Masham",
       "native": "Masham",
       "type": "city",
@@ -507,7 +525,7 @@
     },
     {
       "id": 50770,
-      "name": "Северный Йоркшир",
+      "name": "North Yorkshire",
       "name_default": "North Yorkshire",
       "native": "North Yorkshire",
       "type": "city",
@@ -545,7 +563,7 @@
       "id": 50850,
       "name": "Паннал",
       "name_default": "Pannal",
-      "native": "Panel",
+      "native": "Pannal",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +579,7 @@
     },
     {
       "id": 50858,
-      "name": "Мост Пейтели",
+      "name": "Патели-Бридж",
       "name_default": "Pateley Bridge",
       "native": "Pateley Bridge",
       "type": "city",
@@ -669,7 +687,7 @@
     },
     {
       "id": 51238,
-      "name": "Решить",
+      "name": "Сетл",
       "name_default": "Settle",
       "native": "Settle",
       "type": "city",
@@ -687,7 +705,7 @@
     },
     {
       "id": 51269,
-      "name": "Шерберн в Элмете",
+      "name": "Шерберн-ин-Элмет",
       "name_default": "Sherburn in Elmet",
       "native": "Sherburn in Elmet",
       "type": "city",
@@ -722,6 +740,24 @@
       "country_id": 232
     },
     {
+      "id": 51326,
+      "name": "Скиптон",
+      "name_default": "Skipton",
+      "native": "Skipton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15369,
+      "latitude": "53.96144000",
+      "longitude": "-2.01676000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q516131",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
       "id": 51330,
       "name": "Ловкости",
       "name_default": "Sleights",
@@ -741,7 +777,7 @@
     },
     {
       "id": 51360,
-      "name": "Южный Милфорд",
+      "name": "Саус-Милфорд",
       "name_default": "South Milford",
       "native": "South Milford",
       "type": "city",
@@ -824,6 +860,24 @@
       "longitude": "-0.72016000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2422014",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
+      "id": 51868,
+      "name": "Уитби",
+      "name_default": "Whitby",
+      "native": "Whitby",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13130,
+      "latitude": "54.48774000",
+      "longitude": "-0.61498000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q852778",
       "country_code": "GB",
       "state_code": "NYK",
       "state_id": 2522,

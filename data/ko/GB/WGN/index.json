@@ -129,7 +129,7 @@
     },
     {
       "id": 48309,
-      "name": "애서튼",
+      "name": "애서턴",
       "name_default": "Atherton",
       "native": "Atherton",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 49100,
       "name": "코풀",
       "name_default": "Coppull",
-      "native": "COPLL",
+      "native": "Coppull",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 50047,
-      "name": "인스인메이커필드",
+      "name": "인스",
       "name_default": "Ince-in-Makerfield",
       "native": "Ince-in-Makerfield",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 50276,
-      "name": "리",
+      "name": "레이",
       "name_default": "Leigh",
       "native": "Leigh",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51320,
-      "name": "스켈머스데일",
-      "name_default": "Skelmersdale",
-      "native": "Saccompan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38944,
-      "latitude": "53.55024000",
-      "longitude": "-2.77348000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668237",
-      "country_code": "GB",
-      "state_code": "WGN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 51685,
-      "name": "타일드슬리",
+      "name": "타이드슬레이",
       "name_default": "Tyldesley",
       "native": "Tyldesley",
       "type": "city",

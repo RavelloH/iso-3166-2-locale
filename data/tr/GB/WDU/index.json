@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48216,
-      "name": "İskenderiye",
+      "name": "Alexandria",
       "name_default": "Alexandria",
       "native": "Alexandria",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48350,
-      "name": "Baloch",
+      "name": "Balloch",
       "name_default": "Balloch",
       "native": "Balloch",
       "type": "city",
@@ -122,6 +122,24 @@
       "longitude": "-4.65316000",
       "timezone": "Europe/London",
       "wikiDataId": "Q212088",
+      "country_code": "GB",
+      "state_code": "WDU",
+      "state_id": 2440,
+      "country_id": 232
+    },
+    {
+      "id": 49043,
+      "name": "Clydebank",
+      "name_default": "Clydebank",
+      "native": "Clydebank",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26320,
+      "latitude": "55.90137000",
+      "longitude": "-4.40570000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q996502",
       "country_code": "GB",
       "state_code": "WDU",
       "state_id": 2440,
@@ -183,7 +201,7 @@
     },
     {
       "id": 50803,
-      "name": "Eski Kilpatrick",
+      "name": "Old Kilpatrick",
       "name_default": "Old Kilpatrick",
       "native": "Old Kilpatrick",
       "type": "city",
@@ -219,9 +237,9 @@
     },
     {
       "id": 51713,
-      "name": "Leven Vadisi",
+      "name": "Vale of Leven",
       "name_default": "Vale of Leven",
-      "native": "Pale or life",
+      "native": "Vale of Leven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +255,7 @@
     },
     {
       "id": 51815,
-      "name": "Batı Dunbartonshire",
+      "name": "West Dunbartonshire",
       "name_default": "West Dunbartonshire",
       "native": "West Dunbartonshire",
       "type": "area",

@@ -224,7 +224,7 @@
     },
     {
       "id": 819,
-      "name": "Departement Hoofdstad",
+      "name": "Departamento Capital",
       "name_default": "Departamento Capital",
       "native": "Departamento Capital",
       "type": "city",
@@ -281,7 +281,7 @@
       "name": "Departamento de Chicoana",
       "name_default": "Departamento de Chicoana",
       "native": "Departamento de Chicoana",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24729,
@@ -386,7 +386,7 @@
     },
     {
       "id": 931,
-      "name": "Departement van Los Andes",
+      "name": "Departamento de Los Andes",
       "name_default": "Departamento de Los Andes",
       "native": "Departamento de Los Andes",
       "type": "city",
@@ -407,7 +407,7 @@
       "name": "Departamento de Metán",
       "name_default": "Departamento de Metán",
       "native": "Departamento de Metán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 48245,
@@ -476,7 +476,7 @@
     },
     {
       "id": 982,
-      "name": "Departement van San Carlos",
+      "name": "Departamento de San Carlos",
       "name_default": "Departamento de San Carlos",
       "native": "Departamento de San Carlos",
       "type": "city",
@@ -548,9 +548,9 @@
     },
     {
       "id": 1067,
-      "name": "Inscheping",
+      "name": "Embarcación",
       "name_default": "Embarcación",
-      "native": "Vergüenza",
+      "native": "Embarcación",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -584,7 +584,7 @@
     },
     {
       "id": 1101,
-      "name": "Generaal Enrique Mosconi",
+      "name": "General Mosconi",
       "name_default": "General Mosconi",
       "native": "General Enrique Mosconi",
       "type": "city",
@@ -602,7 +602,7 @@
     },
     {
       "id": 1168,
-      "name": "Joaquín V. González",
+      "name": "Joaquín Víctor González",
       "name_default": "Joaquín V. González",
       "native": "Joaquín V. González",
       "type": "city",
@@ -620,7 +620,7 @@
     },
     {
       "id": 1177,
-      "name": "De Caldera",
+      "name": "La Caldera",
       "name_default": "La Caldera",
       "native": "La Caldera",
       "type": "adm2",

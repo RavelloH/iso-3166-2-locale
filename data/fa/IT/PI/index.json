@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 135696,
-      "name": "آوانه",
+      "name": "اوانه",
       "name_default": "Avane",
-      "native": "Aprire",
+      "native": "Avane",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 136503,
-      "name": "کلسی",
+      "name": "کالچی",
       "name_default": "Calci",
       "native": "Calci",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 136505,
-      "name": "کلسینیا",
+      "name": "کالچینایا",
       "name_default": "Calcinaia",
       "native": "Calcinaia",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 136977,
-      "name": "کاساله ماریتیمو",
+      "name": "کازاله ماریتیمو",
       "name_default": "Casale Marittimo",
       "native": "Casale Marittimo",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 137047,
-      "name": "کاسیانا ترمه",
+      "name": "کاششانا ترمه",
       "name_default": "Casciana Terme",
       "native": "Casciana Terme",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137200,
-      "name": "کاستلفرانکو دی سوتو",
+      "name": "کاستل فرانکو دی سوتو",
       "name_default": "Castelfranco di Sotto",
       "native": "Castelfranco di Sotto",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137486,
-      "name": "سینایا",
+      "name": "چنایا",
       "name_default": "Cenaia",
       "native": "Cenaia",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137646,
-      "name": "چیانی",
+      "name": "کیانی",
       "name_default": "Chianni",
       "native": "Chianni",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 138456,
-      "name": "فاگلیا",
+      "name": "فاولیا",
       "name_default": "Fauglia",
       "native": "Fauglia",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138528,
-      "name": "فیله",
+      "name": "فیلیتوله",
       "name_default": "Filettole",
       "native": "Filettole",
       "type": "city",
@@ -419,7 +419,7 @@
       "id": 138622,
       "name": "فورکولی",
       "name_default": "Forcoli",
-      "native": "Forcolo",
+      "native": "Forcoli",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 138890,
-      "name": "گلو",
+      "name": "جیلو",
       "name_default": "Gello",
       "native": "Gello",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 139166,
-      "name": "گاردیستالو",
+      "name": "گواردیستالو",
       "name_default": "Guardistallo",
       "native": "Guardistallo",
       "type": "adm3",
@@ -563,7 +563,7 @@
       "id": 139374,
       "name": "لاری",
       "name_default": "Lari",
-      "native": "Correre",
+      "native": "Lari",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 139607,
-      "name": "لورنزانا",
+      "name": "لورنتزانا",
       "name_default": "Lorenzana",
       "native": "Lorenzana",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 139711,
-      "name": "مدونا دل آکوا",
+      "name": "مدونا دل آکویا",
       "name_default": "Madonna dell'Acqua",
       "native": "Madonna dell'Acqua",
       "type": "city",
@@ -653,7 +653,7 @@
       "id": 139892,
       "name": "مارینا دی پیزا-تیرنیا-کالامبرون",
       "name_default": "Marina di Pisa-Tirrenia-Calambrone",
-      "native": "Meteo in Marina-Tirrenia-Calampbrone",
+      "native": "Marina di Pisa-Tirrenia-Calambrone",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 140405,
-      "name": "مونتکاتینی وال دی چچینا",
+      "name": "مونته‌کاتینی وال دی چچینا",
       "name_default": "Montecatini Val di Cecina",
       "native": "Montecatini Val di Cecina",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 140537,
-      "name": "مونتسکودایو",
+      "name": "مونته‌سودایو",
       "name_default": "Montescudaio",
       "native": "Montescudaio",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 140943,
-      "name": "اورسیانو پیسانو",
+      "name": "اورچیانو پیسانو",
       "name_default": "Orciano Pisano",
       "native": "Orciano Pisano",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 58367,
-      "name": "پکیولی",
+      "name": "پچیولی",
       "name_default": "Peccioli",
       "native": "Peccioli",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 58808,
-      "name": "پومارانس",
+      "name": "پومارانچه",
       "name_default": "Pomarance",
       "native": "Pomarance",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 58825,
-      "name": "پونساکو",
+      "name": "پونساچو",
       "name_default": "Ponsacco",
       "native": "Ponsacco",
       "type": "adm3",
@@ -957,9 +957,9 @@
     },
     {
       "id": 58830,
-      "name": "پونتاسرکیو",
+      "name": "پونتاسرچیو",
       "name_default": "Pontasserchio",
-      "native": "Pontaserchio",
+      "native": "Pontasserchio",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1031,7 +1031,7 @@
       "id": 59770,
       "name": "سالین",
       "name_default": "Saline",
-      "native": "Salino",
+      "native": "Saline",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 60005,
-      "name": "سن جولیانو ترمه",
+      "name": "سان جیولیانو ترمه",
       "name_default": "San Giuliano Terme",
       "native": "San Giuliano Terme",
       "type": "adm3",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 60430,
-      "name": "سانتا کروچه سول آرنو",
+      "name": "سانتا کروچه سول‌آرنو",
       "name_default": "Santa Croce sull'Arno",
       "native": "Santa Croce sull'Arno",
       "type": "adm3",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 60443,
-      "name": "سانتا لوس",
+      "name": "سانتا لوچه",
       "name_default": "Santa Luce",
       "native": "Santa Luce",
       "type": "adm3",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 60470,
-      "name": "سانتا ماریا آ مونته",
+      "name": "سانتا ماریا ا مونته",
       "name_default": "Santa Maria a Monte",
       "native": "Santa Maria a Monte",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 60709,
-      "name": "سلواتل",
+      "name": "سلواتیلا",
       "name_default": "Selvatelle",
       "native": "Selvatelle",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 61251,
-      "name": "تریچیولا",
+      "name": "تریچولا",
       "name_default": "Terricciola",
       "native": "Terricciola",
       "type": "adm3",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 61925,
-      "name": "ویکوپیزانو",
+      "name": "ویکوپیسانو",
       "name_default": "Vicopisano",
       "native": "Vicopisano",
       "type": "adm3",

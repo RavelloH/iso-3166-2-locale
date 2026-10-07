@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 55177,
-      "name": "阿贾克",
+      "name": "奥尧克",
       "name_default": "Ajak",
-      "native": "Hoz",
+      "native": "Ajak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 55187,
-      "name": "阿纳克",
+      "name": "奥瑙尔奇",
       "name_default": "Anarcs",
       "native": "Anarcs",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 55189,
-      "name": "阿帕吉",
+      "name": "奥保吉",
       "name_default": "Apagy",
-      "native": "Ablaktábla",
+      "native": "Apagy",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 55193,
-      "name": "阿兰约萨帕蒂",
+      "name": "奥劳纽绍帕蒂",
       "name_default": "Aranyosapáti",
       "native": "Aranyosapáti",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 55208,
-      "name": "巴克塔洛兰萨扎",
+      "name": "包克陶洛兰特哈佐",
       "name_default": "Baktalórántháza",
       "native": "Baktalórántháza",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 55224,
-      "name": "巴尔卡尼",
+      "name": "鲍尔卡尼",
       "name_default": "Balkány",
       "native": "Balkány",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 55307,
-      "name": "博科尼",
+      "name": "伯克尼",
       "name_default": "Bököny",
       "native": "Bököny",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 55285,
-      "name": "布杰",
+      "name": "布伊",
       "name_default": "Buj",
       "native": "Buj",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 55329,
-      "name": "琴格",
+      "name": "琴盖尔",
       "name_default": "Csenger",
       "native": "Csenger",
       "type": "adm2",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55356,
-      "name": "德梅切尔",
+      "name": "代迈切尔",
       "name_default": "Demecser",
       "native": "Demecser",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 55391,
-      "name": "道格",
+      "name": "德盖",
       "name_default": "Döge",
       "native": "Dózse",
       "type": "city",
@@ -291,9 +291,9 @@
     },
     {
       "id": 55367,
-      "name": "多姆布拉德",
+      "name": "栋布拉德",
       "name_default": "Dombrád",
-      "native": "Domb",
+      "native": "Dombrád",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 55406,
-      "name": "恩森克斯",
+      "name": "恩琴奇",
       "name_default": "Encsencs",
       "native": "Encsencs",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 55420,
-      "name": "葬礼",
+      "name": "费黑尔焦尔毛特",
       "name_default": "Fehérgyarmat",
       "native": "Fehérgyarmat",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 55435,
-      "name": "费涅斯利特克",
+      "name": "费涅什利特凯",
       "name_default": "Fényeslitke",
       "native": "Fényeslitke",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 55454,
-      "name": "久拉哈扎",
+      "name": "久洛哈佐",
       "name_default": "Gyulaháza",
       "native": "Gyulaháza",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 55636,
-      "name": "卡洛塞姆延",
+      "name": "卡洛谢姆延",
       "name_default": "Kállósemjén",
       "native": "Kállósemjén",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 55637,
-      "name": "卡尔曼哈扎",
+      "name": "卡尔曼哈佐",
       "name_default": "Kálmánháza",
       "native": "Kálmánháza",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 55639,
-      "name": "坎托尔雅诺西",
+      "name": "坎托尔亚诺希",
       "name_default": "Kántorjánosi",
       "native": "Kántorjánosi",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 55582,
-      "name": "凯梅切",
+      "name": "凯迈切",
       "name_default": "Kemecse",
       "native": "Kemecse",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 55605,
-      "name": "基斯莱塔",
+      "name": "小莱陶",
       "name_default": "Kisléta",
       "native": "Kisléta",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 55612,
-      "name": "小什瓦尔达",
+      "name": "小瓦尔道",
       "name_default": "Kisvárda",
       "native": "Kisvárda",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 55616,
-      "name": "科克索德",
+      "name": "科乔尔德",
       "name_default": "Kocsord",
       "native": "Kocsord",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 55646,
-      "name": "科塔伊",
+      "name": "科陶伊",
       "name_default": "Kótaj",
       "native": "Kótaj",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 55728,
-      "name": "马泰斯萨尔卡",
+      "name": "马泰绍尔考",
       "name_default": "Mátészalka",
       "native": "Mátészalka",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 55732,
-      "name": "默克",
+      "name": "梅尔克",
       "name_default": "Mérk",
       "native": "Mérk",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 55744,
-      "name": "纳吉多博斯",
+      "name": "瑙吉多博什",
       "name_default": "Nagydobos",
       "native": "Nagydobos",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 55746,
-      "name": "纳吉切德",
+      "name": "瑙吉埃切德",
       "name_default": "Nagyecsed",
       "native": "Nagyecsed",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 55747,
-      "name": "纳吉哈拉斯",
+      "name": "瑙吉豪拉斯",
       "name_default": "Nagyhalász",
       "native": "Nagyhalász",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 55764,
-      "name": "纳普科尔",
+      "name": "瑙普科尔",
       "name_default": "Napkor",
       "native": "Napkor",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 55778,
-      "name": "尼奥尔萨圣",
+      "name": "尼尔乔霍伊",
       "name_default": "Nyírcsaholy",
       "native": "Nyírcsaholy",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 55781,
-      "name": "尼尔久拉吉",
+      "name": "尼尔久洛伊",
       "name_default": "Nyírgyulaj",
       "native": "Nyírgyulaj",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 55782,
-      "name": "尼卡拉什",
+      "name": "尼尔考拉斯",
       "name_default": "Nyírkarász",
       "native": "Nyírkarász",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 55783,
-      "name": "尼尔卢戈斯",
+      "name": "尼尔卢戈什",
       "name_default": "Nyírlugos",
       "native": "Nyírlugos",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 55784,
-      "name": "尼尔玛达",
+      "name": "尼尔毛道",
       "name_default": "Nyírmada",
       "native": "Nyírmada",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 55785,
-      "name": "尼尔梅杰斯",
+      "name": "尼尔迈格杰什",
       "name_default": "Nyírmeggyes",
       "native": "Nyírmeggyes",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 55786,
-      "name": "尼尔米哈莉迪",
+      "name": "尼尔米哈伊迪",
       "name_default": "Nyírmihálydi",
       "native": "Nyírmihálydi",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 55788,
-      "name": "尼尔帕佐尼",
+      "name": "尼尔保佐尼",
       "name_default": "Nyírpazony",
       "native": "Nyirpazonok",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 55789,
-      "name": "尼尔塔斯",
+      "name": "尼尔陶什什",
       "name_default": "Nyírtass",
       "native": "Nyírtass",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 55791,
-      "name": "尼瓦斯瓦里",
+      "name": "尼尔沃什瓦里",
       "name_default": "Nyírvasvári",
       "native": "Nyírvasvári",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 56150,
-      "name": "奥费埃托",
+      "name": "欧费海尔托",
       "name_default": "Ófehértó",
       "native": "Ófehértó",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 56153,
-      "name": "奥帕利",
+      "name": "欧帕伊",
       "name_default": "Ópályi",
       "native": "Ópályi",
       "type": "city",
@@ -1281,9 +1281,9 @@
     },
     {
       "id": 55846,
-      "name": "帕特罗哈",
+      "name": "帕特罗豪",
       "name_default": "Pátroha",
-      "native": "Keresés",
+      "native": "Pátroha",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 55815,
-      "name": "佩特内哈扎",
+      "name": "派特奈哈佐",
       "name_default": "Petneháza",
       "native": "Petneháza",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 55830,
-      "name": "波奇萨尔马",
+      "name": "波尔乔尔毛",
       "name_default": "Porcsalma",
       "native": "Porcsalma",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 55862,
-      "name": "拉卡马兹",
+      "name": "劳考毛兹",
       "name_default": "Rakamaz",
       "native": "Rakamaz",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 55916,
-      "name": "绍科利",
+      "name": "索科伊",
       "name_default": "Szakoly",
       "native": "Szakoly",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 55918,
-      "name": "沙莫塞格",
+      "name": "绍莫什塞格",
       "name_default": "Szamosszeg",
       "native": "Szamosszeg",
       "type": "city",
@@ -1389,9 +1389,9 @@
     },
     {
       "id": 56015,
-      "name": "塔尔帕",
+      "name": "陶尔保",
       "name_default": "Tarpa",
-      "native": "Ponyva",
+      "native": "Tarpa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 56022,
-      "name": "蒂萨贝尔切尔",
+      "name": "蒂绍拜尔采尔",
       "name_default": "Tiszabercel",
       "native": "Tiszabercel",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 56023,
-      "name": "蒂萨贝兹德",
+      "name": "蒂绍拜兹代德",
       "name_default": "Tiszabezdéd",
       "native": "Tiszabezdéd",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 56027,
-      "name": "蒂萨达达",
+      "name": "蒂萨道道",
       "name_default": "Tiszadada",
       "native": "Tiszadada",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 56029,
-      "name": "蒂萨埃斯拉尔",
+      "name": "蒂绍艾斯拉尔",
       "name_default": "Tiszaeszlár",
       "native": "Tiszaeszlár",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 56037,
-      "name": "蒂扎勒克",
+      "name": "蒂萨勒克",
       "name_default": "Tiszalök",
       "native": "Tiszalök",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 56039,
-      "name": "蒂萨纳吉法卢",
+      "name": "蒂绍瑙吉福卢",
       "name_default": "Tiszanagyfalu",
       "native": "Tiszanagyfalu",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 56046,
-      "name": "蒂萨瓦斯瓦里",
+      "name": "蒂萨铁堡",
       "name_default": "Tiszavasvári",
       "native": "Tiszavasvári",
       "type": "adm2",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 56056,
-      "name": "托尔尼奥斯帕尔卡",
+      "name": "托尔纽什帕尔曹",
       "name_default": "Tornyospálca",
       "native": "Tornyospálca",
       "type": "city",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 56057,
-      "name": "通尤格马托尔克斯",
+      "name": "图纽格毛托尔奇",
       "name_default": "Tunyogmatolcs",
       "native": "Tunyogmatolcs",
       "type": "city",
@@ -1605,9 +1605,9 @@
     },
     {
       "id": 56059,
-      "name": "图泽尔",
+      "name": "图热尔",
       "name_default": "Tuzsér",
-      "native": "Háztartási",
+      "native": "Tuzsér",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 56060,
-      "name": "特尤科德",
+      "name": "久科德",
       "name_default": "Tyukod",
       "native": "Tyukod",
       "type": "city",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 56160,
-      "name": "乌伊费赫托",
+      "name": "新费黑尔托",
       "name_default": "Újfehértó",
       "native": "Újfehértó",
       "type": "city",
@@ -1659,9 +1659,9 @@
     },
     {
       "id": 56088,
-      "name": "瓦贾",
+      "name": "沃尧",
       "name_default": "Vaja",
-      "native": "Igény",
+      "native": "Vaja",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 56114,
-      "name": "瓦罗斯纳姆",
+      "name": "瓦沙罗什瑙梅尼",
       "name_default": "Vásárosnamény",
       "native": "Vásárosnamény",
       "type": "adm2",
@@ -1715,7 +1715,7 @@
       "id": 56134,
       "name": "扎霍尼",
       "name_default": "Záhony",
-      "native": "Virágágyás",
+      "native": "Záhony",
       "type": "adm2",
       "level": null,
       "parent_id": null,

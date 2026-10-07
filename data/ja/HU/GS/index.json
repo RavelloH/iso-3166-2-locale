@@ -75,7 +75,7 @@
     },
     {
       "id": 56142,
-      "name": "アグファルヴァ",
+      "name": "アークファルヴァ",
       "name_default": "Ágfalva",
       "native": "Ágfalva",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 56144,
-      "name": "アスヴァニラロ",
+      "name": "アーシュヴァーニャーロー",
       "name_default": "Ásványráró",
       "native": "Ásványráró",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 55206,
-      "name": "バコニーセントラースロー",
+      "name": "バコニセントラースロー",
       "name_default": "Bakonyszentlászló",
       "native": "Bakonyszentlászló",
       "type": "city",
@@ -131,7 +131,7 @@
       "id": 55236,
       "name": "ベレド",
       "name_default": "Beled",
-      "native": "Bottik",
+      "native": "Beled",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 55312,
-      "name": "ボニ",
+      "name": "ベーニ",
       "name_default": "Bőny",
       "native": "Bőny",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 55313,
-      "name": "ボサールカニ",
+      "name": "ベーシャールカーニ",
       "name_default": "Bősárkány",
       "native": "Bősárkány",
       "type": "city",
@@ -219,9 +219,9 @@
     },
     {
       "id": 55418,
-      "name": "ファラド",
+      "name": "ファラード",
       "name_default": "Farád",
-      "native": "Gyakorlat",
+      "native": "Farád",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 55427,
-      "name": "フェルトッド",
+      "name": "フェルテード",
       "name_default": "Fertőd",
       "native": "Fertőd",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55428,
-      "name": "フェルテラコス",
+      "name": "フェルテーラーコシュ",
       "name_default": "Fertőrákos",
       "native": "Fertőrákos",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 55539,
-      "name": "ヤノソモルジャ",
+      "name": "ヤーノシュショモルヤ",
       "name_default": "Jánossomorja",
       "native": "Jánossomorja",
       "type": "city",
@@ -453,9 +453,9 @@
     },
     {
       "id": 55645,
-      "name": "コニー",
+      "name": "コーニ",
       "name_default": "Kóny",
-      "native": "Kúp",
+      "native": "Kóny",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 55668,
-      "name": "レベニー",
+      "name": "レーベーニ",
       "name_default": "Lébény",
       "native": "Lébény",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 55702,
-      "name": "ミハイ",
+      "name": "ミハーイ",
       "name_default": "Mihályi",
       "native": "Mihályi",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 55714,
-      "name": "モションマジャロヴァール",
+      "name": "モションマジャローヴァール",
       "name_default": "Mosonmagyaróvár",
       "native": "Mosonmagyaróvár",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 55716,
-      "name": "モソンセントミクローシュ",
+      "name": "モションセントミクローシュ",
       "name_default": "Mosonszentmiklós",
       "native": "Mosonszentmiklós",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 55742,
-      "name": "ナジチェンク",
+      "name": "ナッツェンク",
       "name_default": "Nagycenk",
       "native": "Nagycenk",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 56159,
-      "name": "オッテヴェニー",
+      "name": "エッテヴェーニ",
       "name_default": "Öttevény",
       "native": "Öttevény",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 55854,
-      "name": "ペル",
+      "name": "ペール",
       "name_default": "Pér",
       "native": "Pé",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 55861,
-      "name": "ラジカ",
+      "name": "ライカ",
       "name_default": "Rajka",
       "native": "Rajka",
       "type": "city",
@@ -741,9 +741,9 @@
     },
     {
       "id": 55920,
-      "name": "サニー",
+      "name": "サニ",
       "name_default": "Szany",
-      "native": "Szar",
+      "native": "Szany",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 56074,
-      "name": "テット",
+      "name": "テート",
       "name_default": "Tét",
       "native": "Tét",
       "type": "adm2",

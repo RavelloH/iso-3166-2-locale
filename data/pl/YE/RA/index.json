@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130701,
-      "name": "Al-Dżabin",
+      "name": "Al Jabin",
       "name_default": "Al Jabin",
       "native": "الجبين",
       "type": "area",
@@ -75,7 +75,7 @@
     },
     {
       "id": 130702,
-      "name": "Al-Dżafarija",
+      "name": "Al Jafariyah",
       "name_default": "Al Jafariyah",
       "native": "الجعفرية",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130776,
-      "name": "Jako Salafiyah",
+      "name": "As Salafiyah",
       "name_default": "As Salafiyah",
       "native": "السلفية",
       "type": "area",
@@ -114,7 +114,7 @@
       "name": "Bilad At Ta'am",
       "name_default": "Bilad At Ta'am",
       "native": "بلاد الطعام",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 31143,

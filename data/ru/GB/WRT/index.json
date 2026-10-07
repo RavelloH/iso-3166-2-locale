@@ -75,7 +75,7 @@
     },
     {
       "id": 48601,
-      "name": "Городок Халтон",
+      "name": "Халтон",
       "name_default": "Borough of Halton",
       "native": "Borough of Halton",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48795,
-      "name": "Бертонвуд",
+      "name": "Бартонвуд",
       "name_default": "Burtonwood",
       "native": "Burtonwood",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49197,
-      "name": "Калчет",
+      "name": "Калчеф",
       "name_default": "Culcheth",
       "native": "Culcheth",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49701,
-      "name": "Грэппенхолл",
+      "name": "Грейпенхол",
       "name_default": "Grappenhall",
       "native": "Grappenhall",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49731,
-      "name": "Грейт-Сэнки",
+      "name": "Грейт-Санки",
       "name_default": "Great Sankey",
       "native": "Great Sankey",
       "type": "city",
@@ -182,26 +182,8 @@
       "country_id": 232
     },
     {
-      "id": 50734,
-      "name": "Ньютон-ле-Уиллоус",
-      "name_default": "Newton-le-Willows",
-      "native": "Newton-le-Willows",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21782,
-      "latitude": "53.45000000",
-      "longitude": "-2.60000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q750000",
-      "country_code": "GB",
-      "state_code": "WRT",
-      "state_id": 2420,
-      "country_id": 232
-    },
-    {
       "id": 51459,
-      "name": "Стоктон-Хит",
+      "name": "Стоктон-Хиф",
       "name_default": "Stockton Heath",
       "native": "Stockton Heath",
       "type": "adm3",

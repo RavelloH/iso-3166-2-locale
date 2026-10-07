@@ -63,6 +63,24 @@
   },
   "cities": [
     {
+      "id": 67090,
+      "name": "Бужниба",
+      "name_default": "Boujniba",
+      "native": "بوجنيبة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14722,
+      "latitude": "32.90046000",
+      "longitude": "-6.77464000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2921654",
+      "country_code": "MA",
+      "state_code": "KHO",
+      "state_id": 3326,
+      "country_id": 149
+    },
+    {
       "id": 67151,
       "name": "Хурибга",
       "name_default": "Khouribga",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62289,
-      "name": "Calle 12",
+      "name": "12th Street",
       "name_default": "12th Street",
       "native": "12th Street",
       "type": "adm1",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62310,
-      "name": "Amistad",
+      "name": "Amity",
       "name_default": "Amity",
       "native": "Amity",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62340,
-      "name": "Baño",
+      "name": "Bath",
       "name_default": "Bath",
       "native": "Bath",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 62341,
-      "name": "Montaña de Bath",
+      "name": "Bath Mountain",
       "name_default": "Bath Mountain",
       "native": "Bath Mountain",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62346,
-      "name": "Primavera de Beeston",
+      "name": "Beeston Spring",
       "name_default": "Beeston Spring",
       "native": "Beeston Spring",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 62359,
-      "name": "Gran puente",
+      "name": "Big Bridge",
       "name_default": "Big Bridge",
       "native": "Big Bridge",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62368,
-      "name": "Pantano",
+      "name": "Bog",
       "name_default": "Bog",
       "native": "Bog",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62404,
-      "name": "Sabana quemada",
+      "name": "Burnt Savannah",
       "name_default": "Burnt Savannah",
       "native": "Burnt Savannah",
       "type": "city",
@@ -347,7 +347,7 @@
       "id": 62411,
       "name": "Cairn Curran",
       "name_default": "Cairn Curran",
-      "native": "Cairns Coe",
+      "native": "Cairn Curran",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 62434,
-      "name": "Cueva",
+      "name": "Cave",
       "name_default": "Cave",
       "native": "Cave",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 62475,
-      "name": "Contenido",
+      "name": "Content",
       "name_default": "Content",
       "native": "Content",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62482,
-      "name": "Montaña de Cornualles",
+      "name": "Cornwall Mountian",
       "name_default": "Cornwall Mountian",
       "native": "Cornwall Mountian",
       "type": "city",
@@ -509,7 +509,7 @@
       "id": 62513,
       "name": "Dillion Bigwoods",
       "name_default": "Dillion Bigwoods",
-      "native": "BIGHEION BIGwoods",
+      "native": "Dillion Bigwoods",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 62564,
-      "name": "Fuerte Williams",
+      "name": "Fort Williams",
       "name_default": "Fort Williams",
       "native": "Fort Williams",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 62574,
-      "name": "Desde",
+      "name": "Frome",
       "name_default": "Frome",
       "native": "Frome",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 62596,
-      "name": "Río Gooden",
+      "name": "Gooden's River",
       "name_default": "Gooden's River",
       "native": "Gooden's River",
       "type": "adm1",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62600,
-      "name": "Granja",
+      "name": "Grange",
       "name_default": "Grange",
       "native": "Grange",
       "type": "city",
@@ -707,7 +707,7 @@
       "id": 62621,
       "name": "Haddo",
       "name_default": "Haddo",
-      "native": "Vow",
+      "native": "Haddo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 62634,
-      "name": "Ciudad de la armonía",
+      "name": "Harmony Town",
       "name_default": "Harmony Town",
       "native": "Harmony Town",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 62673,
-      "name": "Jerusalén",
+      "name": "Jerusalem",
       "name_default": "Jerusalem",
       "native": "Jerusalem",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62700,
-      "name": "Río Lambs",
+      "name": "Lambs River",
       "name_default": "Lambs River",
       "native": "Lambs River",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 62718,
-      "name": "Pequeño Londres",
+      "name": "Little London",
       "name_default": "Little London",
       "native": "Little London",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62792,
-      "name": "Monte Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62802,
-      "name": "Monte Stewart",
+      "name": "Mount Stewart",
       "name_default": "Mount Stewart",
       "native": "Mount Stewart",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62819,
-      "name": "Nuevo óvalo del mercado",
+      "name": "New Market Oval",
       "name_default": "New Market Oval",
       "native": "New Market Oval",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62821,
-      "name": "Nuevos caminos",
+      "name": "New Roads",
       "name_default": "New Roads",
       "native": "New Roads",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62822,
-      "name": "Nuevas obras",
+      "name": "New Works",
       "name_default": "New Works",
       "native": "New Works",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62845,
-      "name": "Colina naranja",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62868,
-      "name": "Isla Paul",
+      "name": "Paul Island",
       "name_default": "Paul Island",
       "native": "Paul Island",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 62896,
-      "name": "Montaña de los porteadores",
+      "name": "Porters Mountain",
       "name_default": "Porters Mountain",
       "native": "Porters Mountain",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62916,
-      "name": "Colinas rojas",
+      "name": "Red Hills",
       "name_default": "Red Hills",
       "native": "Red Hills",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62927,
-      "name": "Renacimiento",
+      "name": "Revival",
       "name_default": "Revival",
       "native": "Revival",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62939,
-      "name": "Río rugiente",
+      "name": "Roaring River",
       "name_default": "Roaring River",
       "native": "Roaring River",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62961,
-      "name": "Rusia",
+      "name": "Russia",
       "name_default": "Russia",
       "native": "Russia",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 62974,
-      "name": "Distrito comercial de Savannah-la-mar",
+      "name": "Savannah-la-mar Business Dist.",
       "name_default": "Savannah-la-mar Business Dist.",
       "native": "Savannah-la-mar Business Dist.",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62979,
-      "name": "Ciudad de Seaford",
+      "name": "Seaford Town",
       "name_default": "Seaford Town",
       "native": "Seaford Town",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62991,
-      "name": "Gruta de Shoalin",
+      "name": "Shoalin Grotto",
       "name_default": "Shoalin Grotto",
       "native": "Shoalin Grotto",
       "type": "adm1",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 63023,
-      "name": "San Leonardo",
+      "name": "St. Leonards",
       "name_default": "St. Leonards",
       "native": "St. Leonards",
       "type": "city",
@@ -1355,7 +1355,7 @@
       "id": 63034,
       "name": "Strathbogie",
       "name_default": "Strathbogie",
-      "native": "Strathboogie",
+      "native": "Strathbogie",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 63035,
-      "name": "Fresa",
+      "name": "Strawberry",
       "name_default": "Strawberry",
       "native": "Strawberry",
       "type": "city",
@@ -1391,7 +1391,7 @@
       "id": 63036,
       "name": "Struie",
       "name_default": "Struie",
-      "native": "Scatter",
+      "native": "Struie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 63050,
-      "name": "Río de tres millas",
+      "name": "Three Mile River",
       "name_default": "Three Mile River",
       "native": "Three Mile River",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 63058,
-      "name": "Cabecera de la ciudad",
+      "name": "Town Head",
       "name_default": "Town Head",
       "native": "Town Head",
       "type": "city",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 63088,
-      "name": "Obras hidráulicas",
+      "name": "Water Works",
       "name_default": "Water Works",
       "native": "Water Works",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63103,
-      "name": "Casa Blanca",
+      "name": "Whitehouse",
       "name_default": "Whitehouse",
       "native": "Whitehouse",
       "type": "city",

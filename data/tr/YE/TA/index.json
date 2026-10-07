@@ -93,7 +93,7 @@
     },
     {
       "id": 130734,
-      "name": "El Misrakh",
+      "name": "Al Misrakh",
       "name_default": "Al Misrakh",
       "native": "المسراخ",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 130736,
-      "name": "El Mudhaffar",
+      "name": "Al Mudhaffar",
       "name_default": "Al Mudhaffar",
       "native": "المظفر",
       "type": "area",
@@ -129,7 +129,7 @@
     },
     {
       "id": 130739,
-      "name": "El Mukhā’",
+      "name": "Al Mukhā’",
       "name_default": "Al Mukhā’",
       "native": "المخاء",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130747,
-      "name": "El Kahire",
+      "name": "Al Qahirah",
       "name_default": "Al Qahirah",
       "native": "القاهرة",
       "type": "adm1",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130753,
-      "name": "El Veziyye",
+      "name": "Al Wazi'iyah",
       "name_default": "Al Wazi'iyah",
       "native": "الوازعية",
       "type": "city",
@@ -183,9 +183,9 @@
     },
     {
       "id": 130783,
-      "name": "Silw olarak",
+      "name": "As Silw",
       "name_default": "As Silw",
-      "native": "كما سيلو",
+      "native": "مديرية الصلو",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 130798,
-      "name": "Ta‘izzīyah'ta",
+      "name": "At Ta‘izzīyah",
       "name_default": "At Ta‘izzīyah",
-      "native": "في التعزية",
+      "native": "مديرية التعزية",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 130874,
-      "name": "Cebel Habeş",
+      "name": "Jabal Habashy",
       "name_default": "Jabal Habashy",
       "native": "جبل حبشي",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 130911,
-      "name": "Makbanah",
+      "name": "Maqbanah",
       "name_default": "Maqbanah",
       "native": "مقبانة",
       "type": "area",
@@ -438,7 +438,7 @@
       "name": "Sama",
       "name_default": "Sama",
       "native": "ساما",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41464,
@@ -453,7 +453,7 @@
     },
     {
       "id": 130976,
-      "name": "Şera'b Ar Rawnah",
+      "name": "Shara'b Ar Rawnah",
       "name_default": "Shara'b Ar Rawnah",
       "native": "شراب الرونة",
       "type": "area",
@@ -471,7 +471,7 @@
     },
     {
       "id": 130977,
-      "name": "Şer'ab-üs Selam",
+      "name": "Shara'b As Salam",
       "name_default": "Shara'b As Salam",
       "native": "شراب السلام",
       "type": "area",
@@ -489,7 +489,7 @@
     },
     {
       "id": 130988,
-      "name": "Ta'izz",
+      "name": "Ta‘izz",
       "name_default": "Ta‘izz",
       "native": "تعز",
       "type": "adm1",
@@ -507,7 +507,7 @@
     },
     {
       "id": 130995,
-      "name": "Alamrah Köyü",
+      "name": "Village of Alamrah",
       "name_default": "Village of Alamrah",
       "native": "قرية علمرة",
       "type": "village",

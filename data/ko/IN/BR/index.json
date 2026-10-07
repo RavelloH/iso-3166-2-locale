@@ -1154,6 +1154,24 @@
       "country_id": 101
     },
     {
+      "id": 132258,
+      "name": "자이나가르",
+      "name_default": "Jainagar",
+      "native": "जयनगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21782,
+      "latitude": "26.59048000",
+      "longitude": "86.13791000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": null,
+      "country_code": "IN",
+      "state_code": "BR",
+      "state_id": 4037,
+      "country_id": 101
+    },
+    {
       "id": 132234,
       "name": "자말푸르",
       "name_default": "Jamalpur",
@@ -1190,24 +1208,6 @@
       "country_id": 101
     },
     {
-      "id": 132258,
-      "name": "자이나가르",
-      "name_default": "Jaynagar",
-      "native": "जयनगर",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21782,
-      "latitude": "26.59048000",
-      "longitude": "86.13791000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q2317504",
-      "country_code": "IN",
-      "state_code": "BR",
-      "state_id": 4037,
-      "country_id": 101
-    },
-    {
       "id": 132259,
       "name": "제하나바드",
       "name_default": "Jehanabad",
@@ -1228,7 +1228,7 @@
     {
       "id": 132274,
       "name": "자자",
-      "name_default": "Jha-Jha",
+      "name_default": "Jhajha",
       "native": "झा-झा",
       "type": "city",
       "level": null,
@@ -1237,7 +1237,7 @@
       "latitude": "24.77107000",
       "longitude": "86.37888000",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q1006350",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "BR",
       "state_id": 4037,
@@ -1732,8 +1732,8 @@
     {
       "id": 132984,
       "name": "모히우디 나가르",
-      "name_default": "Mohiuddi nagar",
-      "native": "मोहिउद्दी नगर",
+      "name_default": "Mohiuddinagar",
+      "native": "मोहिउद्दीन नगर",
       "type": "city",
       "level": null,
       "parent_id": null,

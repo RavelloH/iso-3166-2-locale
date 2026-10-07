@@ -111,7 +111,7 @@
     },
     {
       "id": 106426,
-      "name": "بانج كين",
+      "name": "بانج خان",
       "name_default": "Bang Khen",
       "native": "บางเขน",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 106456,
-      "name": "بوينغ كوم",
+      "name": "بونق كوم",
       "name_default": "Bueng Kum",
       "native": "บึงกุ่ม",
       "type": "section",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106480,
-      "name": "تشوم ثونغ",
+      "name": "كوم ثونغ",
       "name_default": "Chom Thong",
       "native": "จอมทอง",
       "type": "section",
@@ -363,7 +363,7 @@
     },
     {
       "id": 106492,
-      "name": "دون موينج",
+      "name": "دون موينغ",
       "name_default": "Don Mueang",
       "native": "ดอนเมือง",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106500,
-      "name": "هواي خوانج",
+      "name": "هواي هوانج",
       "name_default": "Huai Khwang",
       "native": "ห้วยขวาง",
       "type": "section",
@@ -435,7 +435,7 @@
     },
     {
       "id": 106525,
-      "name": "كلونج سام وا",
+      "name": "خلونج سام وا",
       "name_default": "Khlong Sam Wa",
       "native": "คลองสามวา",
       "type": "section",
@@ -453,7 +453,7 @@
     },
     {
       "id": 106526,
-      "name": "كلونج سان",
+      "name": "خلونج سان",
       "name_default": "Khlong San",
       "native": "คลองสาน",
       "type": "section",
@@ -471,7 +471,7 @@
     },
     {
       "id": 106527,
-      "name": "كلونج توي",
+      "name": "خلونج توي",
       "name_default": "Khlong Toei",
       "native": "คลองเตย",
       "type": "section",
@@ -489,7 +489,7 @@
     },
     {
       "id": 106548,
-      "name": "لاك سي",
+      "name": "لاك ساي",
       "name_default": "Lak Si",
       "native": "หลักสี่",
       "type": "section",
@@ -507,7 +507,7 @@
     },
     {
       "id": 106554,
-      "name": "لات كرابانج",
+      "name": "ليت كرابانج",
       "name_default": "Lat Krabang",
       "native": "ลาดกระบัง",
       "type": "section",
@@ -525,7 +525,7 @@
     },
     {
       "id": 106555,
-      "name": "لات فراو",
+      "name": "لات فري",
       "name_default": "Lat Phrao",
       "native": "ลาดพร้าว",
       "type": "section",
@@ -579,7 +579,7 @@
     },
     {
       "id": 106599,
-      "name": "نونغ خايم",
+      "name": "نونغ كيم",
       "name_default": "Nong Khaem",
       "native": "หนองแขม",
       "type": "section",
@@ -615,7 +615,7 @@
     },
     {
       "id": 106625,
-      "name": "فاسي تشاروين",
+      "name": "باسي تشاروين",
       "name_default": "Phasi Charoen",
       "native": "ภาษีเจริญ",
       "type": "section",
@@ -651,7 +651,7 @@
     },
     {
       "id": 106642,
-      "name": "فرا خانونغ",
+      "name": "فراي كانونج",
       "name_default": "Phra Khanong",
       "native": "พระโขนง",
       "type": "section",
@@ -669,7 +669,7 @@
     },
     {
       "id": 106643,
-      "name": "فرا ناخون",
+      "name": "فراي ناخون",
       "name_default": "Phra Nakhon",
       "native": "พระนคร",
       "type": "capital",
@@ -687,10 +687,10 @@
     },
     {
       "id": 106651,
-      "name": "بوم براب ساترو فاي",
+      "name": "بوم برأب سترو فا",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "رات بورانا",
+      "name": "ريت برينان",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 106674,
-      "name": "ساي ماي",
+      "name": "ماي ساي",
       "name_default": "Sai Mai",
       "native": "สายไหม",
       "type": "section",
@@ -777,7 +777,7 @@
     },
     {
       "id": 106679,
-      "name": "سامفانثاونغ",
+      "name": "سامفانثاونج",
       "name_default": "Samphanthawong",
       "native": "สัมพันธวงศ์",
       "type": "area",
@@ -795,7 +795,7 @@
     },
     {
       "id": 106687,
-      "name": "سافان سونغ",
+      "name": "سعفان سونغ",
       "name_default": "Saphan Sung",
       "native": "สะพานสูง",
       "type": "section",
@@ -813,7 +813,7 @@
     },
     {
       "id": 106689,
-      "name": "ساثون",
+      "name": "ستون",
       "name_default": "Sathon",
       "native": "สาธร",
       "type": "section",
@@ -849,7 +849,7 @@
     },
     {
       "id": 106716,
-      "name": "تالينغ تشان",
+      "name": "تالينج تشان",
       "name_default": "Taling Chan",
       "native": "ตลิ่งชัน",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 106730,
-      "name": "ثاوي واتثانا",
+      "name": "تأوي واتانا",
       "name_default": "Thawi Watthana",
       "native": "ทวี วัฒนา",
       "type": "section",
@@ -903,7 +903,7 @@
     },
     {
       "id": 106734,
-      "name": "ثونغ خرو",
+      "name": "ثونج كرو",
       "name_default": "Thung khru",
       "native": "ทุ่งครุ",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 106741,
-      "name": "فادهانا",
+      "name": "واتانا",
       "name_default": "Vadhana",
       "native": "วัฒนา",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "يان نا وا",
+      "name": "يان نوى",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

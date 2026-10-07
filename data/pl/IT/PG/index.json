@@ -75,7 +75,7 @@
     },
     {
       "id": 135898,
-      "name": "Bękart",
+      "name": "Bastardo",
       "name_default": "Bastardo",
       "native": "Bastardo",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 136772,
-      "name": "Kapitan Loreto",
+      "name": "Capitan Loreto",
       "name_default": "Capitan Loreto",
       "native": "Capitano Loreto",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 136951,
-      "name": "Dom Diabła",
+      "name": "Casa del Diavolo",
       "name_default": "Casa del Diavolo",
       "native": "Casa del Diavolo",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137147,
-      "name": "Zamek Ritaldi",
+      "name": "Castel Ritaldi",
       "name_default": "Castel Ritaldi",
       "native": "Castel Ritaldi",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137774,
-      "name": "Miasto Castello",
+      "name": "Città di Castello",
       "name_default": "Città di Castello",
       "native": "Città di Castello",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 137920,
-      "name": "Kolumbella",
+      "name": "Colombella",
       "name_default": "Colombella",
       "native": "Colombella",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 139974,
-      "name": "Masa Martana",
+      "name": "Massa Martana",
       "name_default": "Massa Martana",
       "native": "Massa Martana",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 140380,
-      "name": "Góra Santa Maria Tiberina",
+      "name": "Monte Santa Maria Tiberina",
       "name_default": "Monte Santa Maria Tiberina",
       "native": "Monte Santa Maria Tiberina",
       "type": "adm3",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 58227,
-      "name": "Pałac",
+      "name": "Palazzo",
       "name_default": "Palazzo",
       "native": "Palazzo",
       "type": "city",
@@ -1085,7 +1085,7 @@
       "id": 58283,
       "name": "Pantalla",
       "name_default": "Pantalla",
-      "native": "Schermo",
+      "native": "Pantalla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 58325,
-      "name": "Przejście",
+      "name": "Passaggio",
       "name_default": "Passaggio",
       "native": "Passaggio",
       "type": "city",
@@ -1157,7 +1157,7 @@
       "id": 58482,
       "name": "Petrignano",
       "name_default": "Petrignano",
-      "native": "PetFrannano",
+      "native": "Petrignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 58666,
-      "name": "Piła",
+      "name": "Pila",
       "name_default": "Pila",
       "native": "Pila",
       "type": "city",
@@ -1229,7 +1229,7 @@
       "id": 58715,
       "name": "Pistrino",
       "name_default": "Pistrino",
-      "native": "Forno",
+      "native": "Pistrino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 58839,
-      "name": "Most Felcino",
+      "name": "Ponte Felcino",
       "name_default": "Ponte Felcino",
       "native": "Ponte Felcino",
       "type": "city",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 58845,
-      "name": "Most Pattoli",
+      "name": "Ponte Pattoli",
       "name_default": "Ponte Pattoli",
       "native": "Ponte Pattoli",
       "type": "city",
@@ -1355,7 +1355,7 @@
       "id": 59444,
       "name": "Rivotorto",
       "name_default": "Rivotorto",
-      "native": "Rivototo",
+      "native": "Rivotorto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 61056,
-      "name": "Stacja Padule",
+      "name": "Stazione di Padule",
       "name_default": "Stazione di Padule",
       "native": "Stazione di Padule",
       "type": "city",
@@ -1857,9 +1857,9 @@
     },
     {
       "id": 61898,
-      "name": "Przez Lippię",
+      "name": "Via Lippia",
       "name_default": "Via Lippia",
-      "native": "Via Lia Cudi",
+      "native": "Via Lippia",
       "type": "city",
       "level": null,
       "parent_id": null,

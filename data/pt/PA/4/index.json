@@ -59,7 +59,7 @@
       "id": 79959,
       "name": "Alanje",
       "name_default": "Alanje",
-      "native": "Celoso",
+      "native": "Alanje",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 79979,
-      "name": "Baixo Boquete",
+      "name": "Bajo Boquete",
       "name_default": "Bajo Boquete",
       "native": "Bajo Boquete",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 79985,
-      "name": "Bairro Guadalupe",
+      "name": "Barrio Guadalupe",
       "name_default": "Barrio Guadalupe",
       "native": "Barrio guadalupe",
       "type": "city",
@@ -185,7 +185,7 @@
       "id": 79992,
       "name": "Bijagual",
       "name_default": "Bijagual",
-      "native": "Biblagüe",
+      "native": "Bijagual",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 80003,
       "name": "Boquete",
       "name_default": "Boquete",
-      "native": "Mamada",
+      "native": "Boquete",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 80023,
-      "name": "Caldeira",
+      "name": "Caldera",
       "name_default": "Caldera",
       "native": "Caldera",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80075,
-      "name": "Cordilheira",
+      "name": "Cordillera",
       "name_default": "Cordillera",
       "native": "Cordillera",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 80082,
-      "name": "Davi",
+      "name": "David",
       "name_default": "David",
       "native": "David",
       "type": "adm1",
@@ -510,7 +510,7 @@
       "name": "Distrito de Alanje",
       "name_default": "Distrito de Alanje",
       "native": "Distrito de Alanje",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16508,
@@ -543,7 +543,7 @@
     },
     {
       "id": 80093,
-      "name": "Distrito de Boquerón",
+      "name": "Boquerón",
       "name_default": "Distrito de Boquerón",
       "native": "Distrito de Boquerón",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80132,
-      "name": "Distrito de Remédios",
+      "name": "Distrito de Remedios",
       "name_default": "Distrito de Remedios",
       "native": "Distrito de Remedios",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80133,
-      "name": "Distrito de Renascimento",
+      "name": "Distrito de Renacimiento",
       "name_default": "Distrito de Renacimiento",
       "native": "Distrito de Renacimiento",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80148,
-      "name": "Distrito de Dolega",
+      "name": "Dolega",
       "name_default": "Dolega",
       "native": "Distrito dolega",
       "type": "district",
@@ -777,7 +777,7 @@
     },
     {
       "id": 80185,
-      "name": "O Nancito",
+      "name": "El Nancito",
       "name_default": "El Nancito",
       "native": "El Nancito",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 80192,
-      "name": "O Porvenir",
+      "name": "El Porvenir",
       "name_default": "El Porvenir",
       "native": "El Porvenir",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80247,
-      "name": "A Conceição",
+      "name": "La Concepción",
       "name_default": "La Concepción",
       "native": "La Concepción",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 80252,
-      "name": "A Esperança",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "La Esperanza",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80254,
-      "name": "A Estrela",
+      "name": "La Estrella",
       "name_default": "La Estrella",
       "native": "La Estrella",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 80311,
-      "name": "Limões",
+      "name": "Limones",
       "name_default": "Limones",
       "native": "Limones",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 80328,
-      "name": "Os Anastácios",
+      "name": "Los Anastacios",
       "name_default": "Los Anastacios",
       "native": "Los Anastacios",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80343,
-      "name": "Los Angeles",
+      "name": "Los Ángeles",
       "name_default": "Los Ángeles",
       "native": "Los Ángeles",
       "type": "adm3",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 80348,
-      "name": "Manacá Norte",
+      "name": "Manaca Norte",
       "name_default": "Manaca Norte",
       "native": "Manaca Norte",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 80360,
-      "name": "Monte Lírio",
+      "name": "Monte Lirio",
       "name_default": "Monte Lirio",
       "native": "Monte Lirio",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80378,
-      "name": "Novo San Carlitos",
+      "name": "Nuevo San Carlitos",
       "name_default": "Nuevo San Carlitos",
       "native": "Nuevo San Carlitos",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 80387,
-      "name": "Pijama de Sombrero",
+      "name": "Paja de Sombrero",
       "name_default": "Paja de Sombrero",
       "native": "Paja de Sombrero",
       "type": "adm3",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 80418,
-      "name": "Praça de Caisán",
+      "name": "Plaza de Caisán",
       "name_default": "Plaza de Caisán",
       "native": "Plaza de Caisán",
       "type": "adm3",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 80428,
-      "name": "Progresso",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 80450,
-      "name": "Quintenho",
+      "name": "Quinteño",
       "name_default": "Quinteño",
       "native": "Quinteño",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 80451,
-      "name": "Remédios",
+      "name": "Remedios",
       "name_default": "Remedios",
       "native": "Remedios",
       "type": "adm2",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 80465,
-      "name": "Rio Sereno",
+      "name": "Río Sereno",
       "name_default": "Río Sereno",
       "native": "Río Sereno",
       "type": "adm2",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 80478,
-      "name": "São Félix",
+      "name": "San Félix",
       "name_default": "San Félix",
       "native": "San Félix",
       "type": "adm3",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 80480,
-      "name": "São Isidro",
+      "name": "San Isidro",
       "name_default": "San Isidro",
       "native": "San Isidro",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 80487,
-      "name": "São Lourenço",
+      "name": "San Lorenzo",
       "name_default": "San Lorenzo",
       "native": "San Lorenzo",
       "type": "adm3",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 80491,
-      "name": "São Paulo Novo Abajo",
+      "name": "San Pablo Nuevo Abajo",
       "name_default": "San Pablo Nuevo Abajo",
       "native": "San Pablo Nuevo Abajo",
       "type": "adm3",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 80492,
-      "name": "São Paulo Velho Abajo",
+      "name": "San Pablo Viejo Abajo",
       "name_default": "San Pablo Viejo Abajo",
       "native": "San Pablo Viejo Abajo",
       "type": "adm3",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 80550,
-      "name": "Vulcão",
+      "name": "Volcán",
       "name_default": "Volcán",
       "native": "Volcán",
       "type": "adm3",

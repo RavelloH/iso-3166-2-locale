@@ -111,7 +111,7 @@
     },
     {
       "id": 131020,
-      "name": "عليوال نورث",
+      "name": "أليوال نورث",
       "name_default": "Aliwal North",
       "native": "Aliwal North",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 131078,
-      "name": "كرادوك",
+      "name": "كاردوك",
       "name_default": "Cradock",
       "native": "Cradock",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 131093,
-      "name": "شرق لندن",
+      "name": "إيست لندن",
       "name_default": "East London",
       "native": "East London",
       "type": "adm2",
@@ -344,26 +344,8 @@
       "country_id": 204
     },
     {
-      "id": 131103,
-      "name": "إليوت",
-      "name_default": "Elliot",
-      "native": "Elliot",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 17224,
-      "latitude": "-31.33333000",
-      "longitude": "27.85000000",
-      "timezone": "Africa/Johannesburg",
-      "wikiDataId": "Q1880498",
-      "country_code": "ZA",
-      "state_code": "EC",
-      "state_id": 938,
-      "country_id": 204
-    },
-    {
       "id": 131109,
-      "name": "حصن بوفورت",
+      "name": "Fort Beaufort",
       "name_default": "Fort Beaufort",
       "native": "Fort Beaufort",
       "type": "adm3",
@@ -417,7 +399,7 @@
     },
     {
       "id": 131119,
-      "name": "غراف-رينيت",
+      "name": "جراف رينيت",
       "name_default": "Graaff-Reinet",
       "native": "Graaff-Reinet",
       "type": "adm3",
@@ -435,7 +417,7 @@
     },
     {
       "id": 131121,
-      "name": "جراهامستاون",
+      "name": "غراهامستاون",
       "name_default": "Grahamstown",
       "native": "Grahamstown",
       "type": "adm3",
@@ -473,7 +455,7 @@
       "id": 131133,
       "name": "إيلينج",
       "name_default": "Ilinge",
-      "native": "It's a challenge",
+      "native": "Ilinge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -524,6 +506,24 @@
       "country_id": 204
     },
     {
+      "id": 131103,
+      "name": "Khowa",
+      "name_default": "Khowa",
+      "native": "Khowa",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17224,
+      "latitude": "-31.33333000",
+      "longitude": "27.85000000",
+      "timezone": "Africa/Johannesburg",
+      "wikiDataId": "Q1880498",
+      "country_code": "ZA",
+      "state_code": "EC",
+      "state_id": 938,
+      "country_id": 204
+    },
+    {
       "id": 131141,
       "name": "كيركوود",
       "name_default": "Kirkwood",
@@ -545,7 +545,7 @@
       "id": 131152,
       "name": "كرويسفونتين",
       "name_default": "Kruisfontein",
-      "native": "Crossfontein",
+      "native": "Kruisfontein",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 131174,
-      "name": "ميدلبورغ",
+      "name": "ميدلبيرغ",
       "name_default": "Middelburg",
       "native": "Middelburg",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 131191,
-      "name": "مثاثا",
+      "name": "مثاتا",
       "name_default": "Mthatha",
       "native": "Mthatha",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 131224,
-      "name": "بورت ألفريد",
+      "name": "ميناء بورت ألفريد",
       "name_default": "Port Alfred",
       "native": "Port Alfred",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 131259,
-      "name": "سومرست الشرقية",
+      "name": "Somerset East",
       "name_default": "Somerset East",
       "native": "Somerset East",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 131279,
-      "name": "يوتينهاج",
+      "name": "يوتينهاغ",
       "name_default": "Uitenhage",
       "native": "Uitenhage",
       "type": "city",

@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79776,
-      "name": "Bluffer",
+      "name": "Bluff",
       "name_default": "Bluff",
       "native": "Bluff",
       "type": "city",
@@ -82,7 +82,7 @@
     },
     {
       "id": 79797,
-      "name": "Sang",
+      "name": "Gore",
       "name_default": "Gore",
       "native": "Gore",
       "type": "city",
@@ -136,9 +136,9 @@
     },
     {
       "id": 79881,
-      "name": "District de Southland",
+      "name": "Southland",
       "name_default": "Southland",
-      "native": "Southland District",
+      "native": "Southland",
       "type": "district",
       "level": null,
       "parent_id": null,

@@ -136,9 +136,9 @@
     },
     {
       "id": 79044,
-      "name": "بپرسید",
+      "name": "آسک",
       "name_default": "Ask",
-      "native": "Spørre",
+      "native": "Ask",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -154,7 +154,7 @@
     },
     {
       "id": 79045,
-      "name": "پرسکر",
+      "name": "آسکر",
       "name_default": "Asker",
       "native": "Asker",
       "type": "adm2",
@@ -174,7 +174,7 @@
       "id": 79051,
       "name": "آولی",
       "name_default": "Auli",
-      "native": "Auditorium",
+      "native": "Auli",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -262,7 +262,7 @@
     },
     {
       "id": 79078,
-      "name": "بیورکلانگن",
+      "name": "بیوریکلامین",
       "name_default": "Bjørkelangen",
       "native": "Bjørkelangen",
       "type": "adm2",
@@ -298,7 +298,7 @@
     },
     {
       "id": 79106,
-      "name": "دروباک",
+      "name": "دراباک",
       "name_default": "Drøbak",
       "native": "Drøbak",
       "type": "adm2",
@@ -478,7 +478,7 @@
     },
     {
       "id": 79178,
-      "name": "گِردروم",
+      "name": "گجدروم",
       "name_default": "Gjerdrum",
       "native": "Gjerdrum",
       "type": "city",
@@ -514,7 +514,7 @@
     },
     {
       "id": 79240,
-      "name": "هوروم",
+      "name": "هاروم",
       "name_default": "Hurum",
       "native": "Hurum",
       "type": "city",
@@ -532,7 +532,7 @@
     },
     {
       "id": 79256,
-      "name": "جشایم",
+      "name": "جسهایم",
       "name_default": "Jessheim",
       "native": "Jessheim",
       "type": "adm2",
@@ -766,7 +766,7 @@
     },
     {
       "id": 79394,
-      "name": "نسودن",
+      "name": "نسوددن",
       "name_default": "Nesodden",
       "native": "Nesodden",
       "type": "adm2",
@@ -856,7 +856,7 @@
     },
     {
       "id": 79465,
-      "name": "رالینگن",
+      "name": "رولینگن",
       "name_default": "Rælingen",
       "native": "Rælingen",
       "type": "adm2",
@@ -910,7 +910,7 @@
     },
     {
       "id": 79471,
-      "name": "رویکن",
+      "name": "روایکن",
       "name_default": "Røyken",
       "native": "Røyken",
       "type": "city",
@@ -1002,7 +1002,7 @@
       "id": 79522,
       "name": "اسکویی",
       "name_default": "Skui",
-      "native": "Riste",
+      "native": "Skui",
       "type": "city",
       "level": null,
       "parent_id": null,

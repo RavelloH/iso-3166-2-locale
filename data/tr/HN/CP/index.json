@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 53839,
-      "name": "Sıcak Su",
+      "name": "Agua Caliente",
       "name_default": "Agua Caliente",
       "native": "Agua Caliente",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 53878,
-      "name": "Kulübeler",
+      "name": "Cabañas",
       "name_default": "Cabañas",
       "native": "Cabañas",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 53911,
-      "name": "Konsept",
+      "name": "Concepción",
       "name_default": "Concepción",
       "native": "Concepción",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 53937,
-      "name": "Tatlı İsim",
+      "name": "Dulce Nombre",
       "name_default": "Dulce Nombre",
       "native": "Dulce Nombre",
       "type": "city",
@@ -283,7 +283,7 @@
       "latitude": "14.70000000",
       "longitude": "-88.91667000",
       "timezone": "America/Tegucigalpa",
-      "wikiDataId": "Q2090091",
+      "wikiDataId": null,
       "country_code": "HN",
       "state_code": "CP",
       "state_id": 4049,
@@ -345,7 +345,7 @@
     },
     {
       "id": 54052,
-      "name": "Giriş",
+      "name": "La Entrada",
       "name_default": "La Entrada",
       "native": "La Entrada",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 54074,
-      "name": "Playona",
+      "name": "La Playona",
       "name_default": "La Playona",
       "native": "La Playona",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 54083,
-      "name": "Birlik",
+      "name": "La Unión",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54144,
-      "name": "Yeni Arkadya",
+      "name": "Nueva Arcadia",
       "name_default": "Nueva Arcadia",
       "native": "Nueva Arcadia",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 54156,
-      "name": "Su Gözleri",
+      "name": "Ojos de Agua",
       "name_default": "Ojos de Agua",
       "native": "Ojos de Agua",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 54181,
-      "name": "Yeni Kasaba",
+      "name": "Pueblo Nuevo",
       "name_default": "Pueblo Nuevo",
       "native": "Pueblo Nuevo",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 54209,
-      "name": "San Agustin",
+      "name": "San Agustín",
       "name_default": "San Agustín",
       "native": "San Agustín",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 54245,
-      "name": "San Jose",
+      "name": "San José",
       "name_default": "San José",
       "native": "San José",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 54279,
-      "name": "San Nicolas",
+      "name": "San Nicolás",
       "name_default": "San Nicolás",
       "native": "San Nicolás",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 54313,
-      "name": "Santa Rosa de Copán",
+      "name": "Santa Rosa de Copan",
       "name_default": "Santa Rosa de Copán",
       "native": "Santa Rosa de Copán",
       "type": "adm1",

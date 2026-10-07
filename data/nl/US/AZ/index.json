@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111065,
-      "name": "Uitlopers van Ahwatukee",
+      "name": "Ahwatukee Foothills",
       "name_default": "Ahwatukee Foothills",
       "native": "Ahwatukee Foothills",
       "type": "section",
@@ -273,7 +273,7 @@
       "id": 111075,
       "name": "Ajo",
       "name_default": "Ajo",
-      "native": "it",
+      "native": "Ajo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -307,7 +307,7 @@
     },
     {
       "id": 111367,
-      "name": "Volkslied",
+      "name": "Anthem",
       "name_default": "Anthem",
       "native": "Anthem",
       "type": "section",
@@ -379,7 +379,7 @@
     },
     {
       "id": 111679,
-      "name": "Laan B en C",
+      "name": "Avenue B and C",
       "name_default": "Avenue B and C",
       "native": "Avenue B and C",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111705,
-      "name": "Avra-vallei",
+      "name": "Avra Valley",
       "name_default": "Avra Valley",
       "native": "Avra Valley",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 112002,
-      "name": "Beverdam",
+      "name": "Beaver Dam",
       "name_default": "Beaver Dam",
       "native": "Beaver Dam",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 112327,
-      "name": "Groot Park",
+      "name": "Big Park",
       "name_default": "Big Park",
       "native": "Big Park",
       "type": "city",
@@ -507,7 +507,7 @@
       "id": 112360,
       "name": "Bisbee",
       "name_default": "Bisbee",
-      "native": "Tombe",
+      "native": "Bisbee",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -523,7 +523,7 @@
     },
     {
       "id": 112371,
-      "name": "Zwarte Canyon Stad",
+      "name": "Black Canyon City",
       "name_default": "Black Canyon City",
       "native": "Black Canyon City",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 112395,
-      "name": "Zwartwater",
+      "name": "Blackwater",
       "name_default": "Blackwater",
       "native": "Blackwater",
       "type": "city",
@@ -597,7 +597,7 @@
       "id": 113136,
       "name": "Bylas",
       "name_default": "Bylas",
-      "native": "Cases",
+      "native": "Bylas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -631,7 +631,7 @@
     },
     {
       "id": 113295,
-      "name": "Kamp Verde",
+      "name": "Camp Verde",
       "name_default": "Camp Verde",
       "native": "Camp Verde",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 113357,
-      "name": "Canyon Dag",
+      "name": "Canyon Day",
       "name_default": "Canyon Day",
       "native": "Canyon Day",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 113392,
-      "name": "Zorgeloos",
+      "name": "Carefree",
       "name_default": "Carefree",
       "native": "Carefree",
       "type": "city",
@@ -685,9 +685,9 @@
     },
     {
       "id": 113508,
-      "name": "Huis Blanca",
+      "name": "Casa Blanca",
       "name_default": "Casa Blanca",
-      "native": "White House",
+      "native": "Casa Blanca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -703,9 +703,9 @@
     },
     {
       "id": 113510,
-      "name": "Groot huis",
+      "name": "Casa Grande",
       "name_default": "Casa Grande",
-      "native": "Large house",
+      "native": "Casa Grande",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
       "id": 113512,
       "name": "Casas Adobes",
       "name_default": "Casas Adobes",
-      "native": "Adobes houses",
+      "native": "Casas Adobes",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -775,7 +775,7 @@
     },
     {
       "id": 113585,
-      "name": "Grotkreek",
+      "name": "Cave Creek",
       "name_default": "Cave Creek",
       "native": "Cave Creek",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 113672,
-      "name": "Centrale stad",
+      "name": "Central City",
       "name_default": "Central City",
       "native": "Central City",
       "type": "section",
@@ -883,7 +883,7 @@
     },
     {
       "id": 113970,
-      "name": "Chino-vallei",
+      "name": "Chino Valley",
       "name_default": "Chino Valley",
       "native": "Chino Valley",
       "type": "city",
@@ -903,7 +903,7 @@
       "id": 114016,
       "name": "Cibecue",
       "name_default": "Cibecue",
-      "native": "Cbecue",
+      "native": "Cibecue",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -921,7 +921,7 @@
       "id": 114021,
       "name": "Cienega Springs",
       "name_default": "Cienega Springs",
-      "native": "Dear Springs",
+      "native": "Cienega Springs",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -937,7 +937,7 @@
     },
     {
       "id": 114040,
-      "name": "Citruspark",
+      "name": "Citrus Park",
       "name_default": "Citrus Park",
       "native": "Citrus Park",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 114193,
-      "name": "Kleipoel",
+      "name": "Claypool",
       "name_default": "Claypool",
       "native": "Claypool",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 114454,
-      "name": "Colorado-stad",
+      "name": "Colorado City",
       "name_default": "Colorado City",
       "native": "Colorado City",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 114558,
-      "name": "Congres",
+      "name": "Congress",
       "name_default": "Congress",
       "native": "Congress",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 114637,
-      "name": "Cordes Meren",
+      "name": "Cordes Lakes",
       "name_default": "Cordes Lakes",
       "native": "Cordes Lakes",
       "type": "city",
@@ -1101,7 +1101,7 @@
       "id": 114663,
       "name": "Corona de Tucson",
       "name_default": "Corona de Tucson",
-      "native": "Crown of Tucson",
+      "native": "Corona de Tucson",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 114701,
-      "name": "Populier",
+      "name": "Cottonwood",
       "name_default": "Cottonwood",
       "native": "Cottonwood",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 115180,
-      "name": "Hertenvallei",
+      "name": "Deer Valley",
       "name_default": "Deer Valley",
       "native": "Deer Valley",
       "type": "section",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 115281,
-      "name": "Woestijnheuvels",
+      "name": "Desert Hills",
       "name_default": "Desert Hills",
       "native": "Desert Hills",
       "type": "city",
@@ -1191,7 +1191,7 @@
       "id": 115338,
       "name": "Dilkon",
       "name_default": "Dilkon",
-      "native": "Sleekman",
+      "native": "Dilkon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1281,7 +1281,7 @@
       "id": 115594,
       "name": "Eagar",
       "name_default": "Eagar",
-      "native": "Edit",
+      "native": "Eagar",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 115753,
-      "name": "Oost-Sahuarita",
+      "name": "East Sahuarita",
       "name_default": "East Sahuarita",
       "native": "East Sahuarita",
       "type": "city",
@@ -1333,9 +1333,9 @@
     },
     {
       "id": 115927,
-      "name": "De Mirage",
+      "name": "El Mirage",
       "name_default": "El Mirage",
-      "native": "The Mirage",
+      "native": "El Mirage",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
       "id": 116116,
       "name": "Encanto",
       "name_default": "Encanto",
-      "native": "Charm",
+      "native": "Encanto",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 116523,
-      "name": "Eerste Mesa",
+      "name": "First Mesa",
       "name_default": "First Mesa",
       "native": "First Mesa",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 116546,
-      "name": "Vlaggenmast",
+      "name": "Flagstaff",
       "name_default": "Flagstaff",
       "native": "Flagstaff",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 116603,
-      "name": "Stromende bronnen",
+      "name": "Flowing Wells",
       "name_default": "Flowing Wells",
       "native": "Flowing Wells",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 116782,
-      "name": "Fonteinheuvels",
+      "name": "Fountain Hills",
       "name_default": "Fountain Hills",
       "native": "Fountain Hills",
       "type": "city",
@@ -1533,7 +1533,7 @@
       "id": 117048,
       "name": "Ganado",
       "name_default": "Ganado",
-      "native": "Cattle",
+      "native": "Ganado",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1551,7 +1551,7 @@
       "id": 117200,
       "name": "Gila Bend",
       "name_default": "Gila Bend",
-      "native": "Crazy bend",
+      "native": "Gila Bend",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 117321,
-      "name": "Bol",
+      "name": "Globe",
       "name_default": "Globe",
       "native": "Globe",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 117341,
-      "name": "Goudkamp",
+      "name": "Gold Camp",
       "name_default": "Gold Camp",
       "native": "Gold Camp",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 117342,
-      "name": "Goudkloof",
+      "name": "Gold Canyon",
       "name_default": "Gold Canyon",
       "native": "Gold Canyon",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 117353,
-      "name": "Gouden Kusten",
+      "name": "Golden Shores",
       "name_default": "Golden Shores",
       "native": "Golden Shores",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 117356,
-      "name": "Gouden Vallei",
+      "name": "Golden Valley",
       "name_default": "Golden Valley",
       "native": "Golden Valley",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 117452,
-      "name": "Grote Canyon",
+      "name": "Grand Canyon",
       "name_default": "Grand Canyon",
       "native": "Grand Canyon",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 117610,
-      "name": "Groene Vallei",
+      "name": "Green Valley",
       "name_default": "Green Valley",
       "native": "Green Valley",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 118729,
-      "name": "Huachuca-stad",
+      "name": "Huachuca City",
       "name_default": "Huachuca City",
       "native": "Huachuca City",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 119349,
-      "name": "Kachina Dorp",
+      "name": "Kachina Village",
       "name_default": "Kachina Village",
       "native": "Kachina Village",
       "type": "city",
@@ -1893,7 +1893,7 @@
       "id": 119402,
       "name": "Kayenta",
       "name_default": "Kayenta",
-      "native": "Her kitchen",
+      "native": "Kayenta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 119946,
-      "name": "Meer Montezuma",
+      "name": "Lake Montezuma",
       "name_default": "Lake Montezuma",
       "native": "Lake Montezuma",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 120007,
-      "name": "Meer van het Bos",
+      "name": "Lake of the Woods",
       "name_default": "Lake of the Woods",
       "native": "Lake of the Woods",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 120266,
-      "name": "LeChee",
+      "name": "Lechee",
       "name_default": "LeChee",
       "native": "LeChee",
       "type": "city",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 120565,
-      "name": "Linde",
+      "name": "Linden",
       "name_default": "Linden",
       "native": "Linden",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 121076,
-      "name": "Mammoet",
+      "name": "Mammoth",
       "name_default": "Mammoth",
       "native": "Mammoth",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 121164,
-      "name": "Veel boerderijen",
+      "name": "Many Farms",
       "name_default": "Many Farms",
       "native": "Many Farms",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 121720,
-      "name": "Tafel",
+      "name": "Mesa",
       "name_default": "Mesa",
       "native": "Mesa",
       "type": "city",
@@ -2235,7 +2235,7 @@
       "id": 121723,
       "name": "Mescal",
       "name_default": "Mescal",
-      "native": "Iscar",
+      "native": "Mescal",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 122020,
-      "name": "Mohave-vallei",
+      "name": "Mohave Valley",
       "name_default": "Mohave Valley",
       "native": "Mohave Valley",
       "type": "city",
@@ -2289,7 +2289,7 @@
       "id": 122230,
       "name": "Morenci",
       "name_default": "Morenci",
-      "native": "Morencit",
+      "native": "Morenci",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 122436,
-      "name": "Bergachtige",
+      "name": "Mountainaire",
       "name_default": "Mountainaire",
       "native": "Mountainaire",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 122736,
-      "name": "Nieuwe Kingman-Butler",
+      "name": "New Kingman-Butler",
       "name_default": "New Kingman-Butler",
       "native": "New Kingman-Butler",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 122771,
-      "name": "Nieuwe rivier",
+      "name": "New River",
       "name_default": "New River",
       "native": "New River",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 123027,
-      "name": "Noordvork",
+      "name": "North Fork",
       "name_default": "North Fork",
       "native": "North Fork",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 123502,
-      "name": "Orakel",
+      "name": "Oracle",
       "name_default": "Oracle",
       "native": "Oracle",
       "type": "city",
@@ -2431,7 +2431,7 @@
     },
     {
       "id": 123571,
-      "name": "Oro Vallei",
+      "name": "Oro Valley",
       "name_default": "Oro Valley",
       "native": "Oro Valley",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 123717,
-      "name": "Pagina",
+      "name": "Page",
       "name_default": "Page",
       "native": "Page",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 123822,
-      "name": "Paradijsvallei",
+      "name": "Paradise Valley",
       "name_default": "Paradise Valley",
       "native": "Paradise Valley",
       "type": "city",
@@ -2503,7 +2503,7 @@
     },
     {
       "id": 123873,
-      "name": "Parken",
+      "name": "Parks",
       "name_default": "Parks",
       "native": "Parks",
       "type": "city",
@@ -2557,7 +2557,7 @@
     },
     {
       "id": 123958,
-      "name": "Perzikbronnen",
+      "name": "Peach Springs",
       "name_default": "Peach Springs",
       "native": "Peach Springs",
       "type": "city",
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 124060,
-      "name": "Peridoot",
+      "name": "Peridot",
       "name_default": "Peridot",
       "native": "Peridot",
       "type": "city",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 124163,
-      "name": "Fotorotsen",
+      "name": "Picture Rocks",
       "name_default": "Picture Rocks",
       "native": "Picture Rocks",
       "type": "city",
@@ -2665,7 +2665,7 @@
     },
     {
       "id": 124212,
-      "name": "Pijnboom",
+      "name": "Pine",
       "name_default": "Pine",
       "native": "Pine",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 124645,
-      "name": "Prescottvallei",
+      "name": "Prescott Valley",
       "name_default": "Prescott Valley",
       "native": "Prescott Valley",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 124783,
-      "name": "Kwartssite",
+      "name": "Quartzsite",
       "name_default": "Quartzsite",
       "native": "Quartzsite",
       "type": "city",
@@ -2773,7 +2773,7 @@
     },
     {
       "id": 124788,
-      "name": "Koningin Kreek",
+      "name": "Queen Creek",
       "name_default": "Queen Creek",
       "native": "Queen Creek",
       "type": "city",
@@ -2793,7 +2793,7 @@
       "id": 125159,
       "name": "Rio Rico",
       "name_default": "Rio Rico",
-      "native": "Rich river",
+      "native": "Rio Rico",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 125580,
-      "name": "Zadel Brooke",
+      "name": "Saddle Brooke",
       "name_default": "Saddle Brooke",
       "native": "Saddle Brooke",
       "type": "city",
@@ -2855,7 +2855,7 @@
       "latitude": "32.53472000",
       "longitude": "-110.87361000",
       "timezone": "America/Phoenix",
-      "wikiDataId": "Q108131",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "AZ",
       "state_id": 1434,
@@ -2883,7 +2883,7 @@
       "id": 125593,
       "name": "Sahuarita",
       "name_default": "Sahuarita",
-      "native": "Sapata",
+      "native": "Sahuarita",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 125630,
-      "name": "Sint David",
+      "name": "St. David",
       "name_default": "Saint David",
       "native": "Saint David",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 125666,
-      "name": "Sint Jan",
+      "name": "St. Johns",
       "name_default": "Saint Johns",
       "native": "Saint Johns",
       "type": "city",
@@ -2935,7 +2935,7 @@
     },
     {
       "id": 125699,
-      "name": "Sint-Michaël",
+      "name": "St. Michaels",
       "name_default": "Saint Michaels",
       "native": "Saint Michaels",
       "type": "city",
@@ -3025,9 +3025,9 @@
     },
     {
       "id": 125850,
-      "name": "San Tan-vallei",
+      "name": "San Tan Valley",
       "name_default": "San Tan Valley",
-      "native": "San Valley",
+      "native": "San Tan Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 125999,
-      "name": "Toneel",
+      "name": "Scenic",
       "name_default": "Scenic",
       "native": "Scenic",
       "type": "city",
@@ -3081,7 +3081,7 @@
       "id": 126121,
       "name": "Sedona",
       "name_default": "Sedona",
-      "native": "Sedon",
+      "native": "Sedona",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 126137,
-      "name": "Verkoopt",
+      "name": "Sells",
       "name_default": "Sells",
       "native": "Sells",
       "type": "city",
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 126381,
-      "name": "Laag weergeven",
+      "name": "Show Low",
       "name_default": "Show Low",
       "native": "Show Low",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 126407,
-      "name": "Sierra Vista Zuidoost",
+      "name": "Sierra Vista Southeast",
       "name_default": "Sierra Vista Southeast",
       "native": "Sierra Vista Southeast",
       "type": "city",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 126472,
-      "name": "Zes Schutters Canyon",
+      "name": "Six Shooter Canyon",
       "name_default": "Six Shooter Canyon",
       "native": "Six Shooter Canyon",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 126547,
-      "name": "Sneeuwvlok",
+      "name": "Snowflake",
       "name_default": "Snowflake",
       "native": "Snowflake",
       "type": "city",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": 126737,
-      "name": "Zuid-Tucson",
+      "name": "South Tucson",
       "name_default": "South Tucson",
       "native": "South Tucson",
       "type": "city",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 126878,
-      "name": "Lentevallei",
+      "name": "Spring Valley",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 126981,
-      "name": "Sterrenvallei",
+      "name": "Star Valley",
       "name_default": "Star Valley",
       "native": "Star Valley",
       "type": "city",
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 127214,
-      "name": "Bijeenkomst",
+      "name": "Summit",
       "name_default": "Summit",
       "native": "Summit",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 127232,
-      "name": "Zonnestad",
+      "name": "Sun City",
       "name_default": "Sun City",
       "native": "Sun City",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 127236,
-      "name": "Zonnemeren",
+      "name": "Sun Lakes",
       "name_default": "Sun Lakes",
       "native": "Sun Lakes",
       "type": "city",
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 127240,
-      "name": "Zonnevallei",
+      "name": "Sun Valley",
       "name_default": "Sun Valley",
       "native": "Sun Valley",
       "type": "city",
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 127280,
-      "name": "Superieur",
+      "name": "Superior",
       "name_default": "Superior",
       "native": "Superior",
       "type": "city",
@@ -3403,7 +3403,7 @@
     },
     {
       "id": 127290,
-      "name": "Verrassing",
+      "name": "Surprise",
       "name_default": "Surprise",
       "native": "Surprise",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 127346,
-      "name": "Swift Trail-kruising",
+      "name": "Swift Trail Junction",
       "name_default": "Swift Trail Junction",
       "native": "Swift Trail Junction",
       "type": "city",
@@ -3439,9 +3439,9 @@
     },
     {
       "id": 127420,
-      "name": "Tank Verde",
+      "name": "Tanque Verde",
       "name_default": "Tanque Verde",
-      "native": "Green tank",
+      "native": "Tanque Verde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 127616,
-      "name": "Drie punten",
+      "name": "Three Points",
       "name_default": "Three Points",
       "native": "Three Points",
       "type": "city",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 127711,
-      "name": "Grafsteen",
+      "name": "Tombstone",
       "name_default": "Tombstone",
       "native": "Tombstone",
       "type": "city",
@@ -3583,7 +3583,7 @@
     },
     {
       "id": 127724,
-      "name": "Tonto-bekken",
+      "name": "Tonto Basin",
       "name_default": "Tonto Basin",
       "native": "Tonto Basin",
       "type": "city",
@@ -3603,7 +3603,7 @@
       "id": 127746,
       "name": "Tortolita",
       "name_default": "Tortolita",
-      "native": "Toilet",
+      "native": "Tortolita",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 127866,
-      "name": "Tuba Stad",
+      "name": "Tuba City",
       "name_default": "Tuba City",
       "native": "Tuba City",
       "type": "city",
@@ -3747,7 +3747,7 @@
       "id": 128095,
       "name": "Valle Vista",
       "name_default": "Valle Vista",
-      "native": "VIEW VALLEY",
+      "native": "Valle Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 128179,
-      "name": "Verde Village",
+      "name": "Cottonwood-Verde Village",
       "name_default": "Verde Village",
       "native": "Verde Village",
       "type": "city",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 128253,
-      "name": "Dorp Oak Creek (Big Park)",
+      "name": "Village of Oak Creek (Big Park)",
       "name_default": "Village of Oak Creek (Big Park)",
       "native": "Village of Oak Creek (Big Park)",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 128978,
-      "name": "West-Sedona",
+      "name": "West Sedona",
       "name_default": "West Sedona",
       "native": "West Sedona",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 129122,
-      "name": "Wetsteen",
+      "name": "Whetstone",
       "name_default": "Whetstone",
       "native": "Whetstone",
       "type": "city",
@@ -3853,7 +3853,7 @@
     },
     {
       "id": 129147,
-      "name": "Wit Bergmeer",
+      "name": "White Mountain Lake",
       "name_default": "White Mountain Lake",
       "native": "White Mountain Lake",
       "type": "city",
@@ -3961,7 +3961,7 @@
     },
     {
       "id": 129312,
-      "name": "Wilgenvallei",
+      "name": "Willow Valley",
       "name_default": "Willow Valley",
       "native": "Willow Valley",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 129376,
-      "name": "Vensterrots",
+      "name": "Window Rock",
       "name_default": "Window Rock",
       "native": "Window Rock",
       "type": "city",

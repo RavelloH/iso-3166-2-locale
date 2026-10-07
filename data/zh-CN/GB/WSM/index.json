@@ -74,6 +74,24 @@
       "country_id": 232
     },
     {
+      "id": 48435,
+      "name": "贝斯沃特",
+      "name_default": "Bayswater",
+      "native": "Bayswater",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 17500,
+      "latitude": "51.51116000",
+      "longitude": "-0.18426000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q41890",
+      "country_code": "GB",
+      "state_code": "WSM",
+      "state_id": 2357,
+      "country_id": 232
+    },
+    {
       "id": 49012,
       "name": "威斯敏斯特市",
       "name_default": "City of Westminster",
@@ -111,7 +129,7 @@
     },
     {
       "id": 51817,
-      "name": "伦敦西区",
+      "name": "West End of London",
       "name_default": "West End of London",
       "native": "West End of London",
       "type": "section",

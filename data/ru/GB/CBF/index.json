@@ -75,7 +75,7 @@
     },
     {
       "id": 48275,
-      "name": "Арлси",
+      "name": "Арлеси",
       "name_default": "Arlesey",
       "native": "Arlesey",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48417,
-      "name": "Бартон-ле-Клей",
+      "name": "Бартон-ли-Клей",
       "name_default": "Barton-le-Clay",
       "native": "Barton-le-Clay",
       "type": "adm3",
@@ -185,7 +185,7 @@
       "id": 48913,
       "name": "Чалтон",
       "name_default": "Chalton",
-      "native": "Chalfon",
+      "native": "Chalton",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 49143,
-      "name": "Крэнфилд",
+      "name": "Кранфилд",
       "name_default": "Cranfield",
       "native": "Cranfield",
       "type": "adm3",
@@ -434,24 +434,6 @@
       "country_id": 232
     },
     {
-      "id": 49952,
-      "name": "Хитчин",
-      "name_default": "Hitchin",
-      "native": "Hitchin",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 34266,
-      "latitude": "51.94924000",
-      "longitude": "-0.28496000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q19798",
-      "country_code": "GB",
-      "state_code": "CBF",
-      "state_id": 2303,
-      "country_id": 232
-    },
-    {
       "id": 49955,
       "name": "Хоклифф",
       "name_default": "Hockliffe",
@@ -489,7 +471,7 @@
     },
     {
       "id": 50034,
-      "name": "Хасборн Кроули",
+      "name": "Хасборн-Кроули",
       "name_default": "Husborne Crawley",
       "native": "Husborne Crawley",
       "type": "adm3",
@@ -525,7 +507,7 @@
     },
     {
       "id": 50277,
-      "name": "Лейтон Баззард",
+      "name": "Лей­тон-Баз­зар­д",
       "name_default": "Leighton Buzzard",
       "native": "Leighton Buzzard",
       "type": "city",
@@ -579,7 +561,7 @@
     },
     {
       "id": 50520,
-      "name": "Марстон Моретейн",
+      "name": "Марстон-Мортейн",
       "name_default": "Marston Moretaine",
       "native": "Marston Moretaine",
       "type": "adm3",
@@ -597,7 +579,7 @@
     },
     {
       "id": 50529,
-      "name": "Молден",
+      "name": "Молдэн",
       "name_default": "Maulden",
       "native": "Maulden",
       "type": "adm3",
@@ -633,7 +615,7 @@
     },
     {
       "id": 50584,
-      "name": "Миллбрук",
+      "name": "Милбрук",
       "name_default": "Millbrook",
       "native": "Millbrook",
       "type": "adm3",
@@ -686,8 +668,26 @@
       "country_id": 232
     },
     {
+      "id": 51198,
+      "name": "Сэнди",
+      "name_default": "Sandy",
+      "native": "Sandy",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 12172,
+      "latitude": "52.12927000",
+      "longitude": "-0.28925000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1750378",
+      "country_code": "GB",
+      "state_code": "CBF",
+      "state_id": 2303,
+      "country_id": 232
+    },
+    {
       "id": 51256,
-      "name": "Шеффорд",
+      "name": "Шефорд",
       "name_default": "Shefford",
       "native": "Shefford",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 51848,
-      "name": "Уэстонинг",
+      "name": "Вестонинг",
       "name_default": "Westoning",
       "native": "Westoning",
       "type": "adm3",

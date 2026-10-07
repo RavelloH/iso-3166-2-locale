@@ -183,7 +183,7 @@
     },
     {
       "id": 106441,
-      "name": "Explosión Phlat",
+      "name": "Bang Phlat",
       "name_default": "Bang Phlat",
       "native": "บางพลัด",
       "type": "section",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106480,
-      "name": "Tanga Chom",
+      "name": "Chom Thong",
       "name_default": "Chom Thong",
       "native": "จอมทอง",
       "type": "section",
@@ -363,7 +363,7 @@
     },
     {
       "id": 106492,
-      "name": "Don Mueang",
+      "name": "Donmueang",
       "name_default": "Don Mueang",
       "native": "ดอนเมือง",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 106569,
-      "name": "Minburi",
+      "name": "Min Buri",
       "name_default": "Min Buri",
       "native": "มีนบุรี",
       "type": "section",
@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Rata Burana",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 106689,
-      "name": "Satón",
+      "name": "Sathon",
       "name_default": "Sathon",
       "native": "สาธร",
       "type": "section",
@@ -831,7 +831,7 @@
     },
     {
       "id": 106706,
-      "name": "Suan Luang",
+      "name": "Suanluang",
       "name_default": "Suanluang",
       "native": "สวนหลวง",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 106732,
-      "name": "Thon Buri",
+      "name": "Thon buri",
       "name_default": "Thon buri",
       "native": "ธนบุรี",
       "type": "section",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

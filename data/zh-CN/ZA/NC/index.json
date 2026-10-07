@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131029,
-      "name": "巴克利·韦斯特",
+      "name": "西巴克利",
       "name_default": "Barkly West",
       "native": "Barkly West",
       "type": "adm3",
@@ -147,9 +147,9 @@
     },
     {
       "id": 131080,
-      "name": "丹尼尔斯库尔",
+      "name": "丹尼尔斯凯尔",
       "name_default": "Daniëlskuil",
-      "native": "Daniel's shelter",
+      "native": "Daniëlskuil",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -167,7 +167,7 @@
       "id": 131081,
       "name": "德阿尔",
       "name_default": "De Aar",
-      "native": "The Aar",
+      "native": "De Aar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -218,10 +218,28 @@
       "country_id": 204
     },
     {
+      "id": 131134,
+      "name": "简·肯普多普",
+      "name_default": "Jan Kempdorp",
+      "native": "Jan Kempdorp",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13485,
+      "latitude": "-27.92246000",
+      "longitude": "24.83051000",
+      "timezone": "Africa/Johannesburg",
+      "wikiDataId": "Q2539888",
+      "country_code": "ZA",
+      "state_code": "NC",
+      "state_id": 931,
+      "country_id": 204
+    },
+    {
       "id": 131137,
       "name": "约翰·陶洛·盖瑟维区市",
       "name_default": "John Taolo Gaetsewe",
-      "native": "JOHN'S GOOD IS GOOD",
+      "native": "John Taolo Gaetsewe",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -345,7 +363,7 @@
     },
     {
       "id": 131208,
-      "name": "奥拉尼亚",
+      "name": "奥瑞尼亚",
       "name_default": "Orania",
       "native": "Orania",
       "type": "city",
@@ -399,9 +417,9 @@
     },
     {
       "id": 131222,
-      "name": "波法德",
+      "name": "波法德尔",
       "name_default": "Pofadder",
-      "native": "Puff adder",
+      "native": "Pofadder",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -489,7 +507,7 @@
     },
     {
       "id": 131261,
-      "name": "跳羚",
+      "name": "斯普林博克",
       "name_default": "Springbok",
       "native": "Springbok",
       "type": "adm2",
@@ -507,7 +525,7 @@
     },
     {
       "id": 131281,
-      "name": "阿平顿",
+      "name": "乌平通",
       "name_default": "Upington",
       "native": "Upington",
       "type": "adm2",

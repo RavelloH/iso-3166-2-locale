@@ -399,7 +399,7 @@
     },
     {
       "id": 55561,
-      "name": "كابوسفار",
+      "name": "كابوشفار",
       "name_default": "Kaposvár",
       "native": "Kaposvár",
       "type": "adm1",
@@ -543,7 +543,7 @@
     },
     {
       "id": 55738,
-      "name": "ناجياتاد",
+      "name": "ناجاتاد",
       "name_default": "Nagyatád",
       "native": "Nagyatád",
       "type": "city",
@@ -599,7 +599,7 @@
       "id": 55893,
       "name": "سيغيسد",
       "name_default": "Segesd",
-      "native": "Szegély",
+      "native": "Segesd",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,9 +669,9 @@
     },
     {
       "id": 56001,
-      "name": "فاتورة غير مدفوعة",
+      "name": "Tab",
       "name_default": "Tab",
-      "native": "Füllemez",
+      "native": "Tab",
       "type": "adm2",
       "level": null,
       "parent_id": null,

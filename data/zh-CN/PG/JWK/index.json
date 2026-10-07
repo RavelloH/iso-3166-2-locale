@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 81028,
-      "name": "南瓦吉安加林普",
+      "name": "Angalimp South Wahgi",
       "name_default": "Angalimp South Wahgi",
       "native": "Angalimp South Wahgi",
       "type": "city",
@@ -85,7 +85,7 @@
       "name": "吉米",
       "name_default": "Jimi",
       "native": "Jimi",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37385,
@@ -100,7 +100,7 @@
     },
     {
       "id": 81093,
-      "name": "北瓦吉",
+      "name": "North Wahgi",
       "name_default": "North Wahgi",
       "native": "North Wahgi",
       "type": "area",

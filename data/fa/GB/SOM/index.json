@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48322,
-      "name": "آکسبریج",
+      "name": "اکسریج",
       "name_default": "Axbridge",
       "native": "Axbridge",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48528,
-      "name": "اسقف‌های لیدار",
+      "name": "بیشاپس لایدرد",
       "name_default": "Bishops Lydeard",
       "native": "Bishops Lydeard",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48776,
-      "name": "برنهام-آن-سی",
+      "name": "برنهام آن سی",
       "name_default": "Burnham-on-Sea",
       "native": "Burnham-on-Sea",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48876,
-      "name": "قلعه کری",
+      "name": "کستل کری",
       "name_default": "Castle Cary",
       "native": "Castle Cary",
       "type": "city",
@@ -257,7 +257,7 @@
       "id": 49155,
       "name": "کروکرن",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 49652,
-      "name": "گلاستونبری",
+      "name": "گلاستونبوری",
       "name_default": "Glastonbury",
       "native": "Glastonbury",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "هونیتون",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "هانتسپیل",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -455,7 +437,7 @@
       "id": 50044,
       "name": "ایلمینستر",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -543,7 +525,7 @@
     },
     {
       "id": 50598,
-      "name": "ماین‌هد",
+      "name": "مینهید",
       "name_default": "Minehead",
       "native": "Minehead",
       "type": "city",
@@ -561,7 +543,7 @@
     },
     {
       "id": 50679,
-      "name": "ندر استوی",
+      "name": "ندر استووی",
       "name_default": "Nether Stowey",
       "native": "Nether Stowey",
       "type": "city",
@@ -615,7 +597,7 @@
     },
     {
       "id": 51005,
-      "name": "پوریتون",
+      "name": "پیوریتان",
       "name_default": "Puriton",
       "native": "Puriton",
       "type": "city",
@@ -687,7 +669,7 @@
     },
     {
       "id": 51469,
-      "name": "استوک-ساب-هامدون",
+      "name": "استوک ساب همدون",
       "name_default": "Stoke-sub-Hamdon",
       "native": "Stoke-sub-hamdon",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "خیابان",
+      "name": "استریت",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -723,7 +705,7 @@
     },
     {
       "id": 51564,
-      "name": "تانتون",
+      "name": "تاونتون",
       "name_default": "Taunton",
       "native": "Taunton",
       "type": "adm2",
@@ -741,7 +723,7 @@
     },
     {
       "id": 51571,
-      "name": "تمپل‌کومب",
+      "name": "تمپلکومب",
       "name_default": "Templecombe",
       "native": "Templecombe",
       "type": "city",
@@ -759,7 +741,7 @@
     },
     {
       "id": 51765,
-      "name": "ساعت",
+      "name": "واتچت",
       "name_default": "Watchet",
       "native": "Watchet",
       "type": "city",
@@ -885,7 +867,7 @@
     },
     {
       "id": 51951,
-      "name": "ویولیسکومب",
+      "name": "ویلزکم",
       "name_default": "Wiveliscombe",
       "native": "Wiveliscombe",
       "type": "city",
@@ -903,7 +885,7 @@
     },
     {
       "id": 51979,
-      "name": "وولاوینگتون",
+      "name": "ولاوینگتون",
       "name_default": "Woolavington",
       "native": "Woolavington",
       "type": "city",

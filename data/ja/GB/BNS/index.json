@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48402,
-      "name": "バーンズリー",
+      "name": "メトロポリタン・バラ・オブ・バーンズリー",
       "name_default": "Barnsley",
       "native": "Barnsley",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49195,
-      "name": "カドワース",
+      "name": "カッドワース",
       "name_default": "Cudworth",
       "native": "Cudworth",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49752,
-      "name": "グリムソープ",
+      "name": "グライムソープ",
       "name_default": "Grimethorpe",
       "native": "Grimethorpe",
       "type": "city",
@@ -290,26 +290,8 @@
       "country_id": 232
     },
     {
-      "id": 51456,
-      "name": "ストックスブリッジ",
-      "name_default": "Stocksbridge",
-      "native": "Stocksbridge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13301,
-      "latitude": "53.48249000",
-      "longitude": "-1.59373000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1813994",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
       "id": 51966,
-      "name": "ウォンブウェル",
+      "name": "ウムウェル",
       "name_default": "Wombwell",
       "native": "Wombwell",
       "type": "city",

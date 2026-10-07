@@ -93,7 +93,7 @@
     },
     {
       "id": 31286,
-      "name": "布杜瓦乌",
+      "name": "布杜奥",
       "name_default": "Boudouaou",
       "native": "بودواو",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 31314,
-      "name": "德利斯",
+      "name": "代利斯",
       "name_default": "Dellys",
       "native": "ديليس",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 31362,
-      "name": "赫米斯·埃尔·赫奇纳",
+      "name": "海米斯海什纳",
       "name_default": "Khemis el Khechna",
       "native": "خميس الخشنة",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 31393,
-      "name": "纳西里亚",
+      "name": "纳西里耶",
       "name_default": "Naciria",
       "native": "الناصرية",
       "type": "city",
@@ -218,26 +218,8 @@
       "country_id": 4
     },
     {
-      "id": 31441,
-      "name": "塔德迈特",
-      "name_default": "Tadmaït",
-      "native": "تادميت",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22838,
-      "latitude": "36.74413000",
-      "longitude": "3.90045000",
-      "timezone": "Africa/Algiers",
-      "wikiDataId": "Q3513734",
-      "country_code": "DZ",
-      "state_code": "35",
-      "state_id": 1125,
-      "country_id": 4
-    },
-    {
       "id": 31447,
-      "name": "忒尼亚",
+      "name": "塞尼耶",
       "name_default": "Thenia",
       "native": "ثينيا",
       "type": "city",

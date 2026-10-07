@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111225,
-      "name": "高山",
+      "name": "アルパイン",
       "name_default": "Alpine",
       "native": "Alpine",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111273,
-      "name": "アメリカンフォーク",
+      "name": "アメリカン・フォーク",
       "name_default": "American Fork",
       "native": "American Fork",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111995,
-      "name": "ビーバー",
+      "name": "ビーヴァー",
       "name_default": "Beaver",
       "native": "Beaver",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 112610,
-      "name": "豊かな",
+      "name": "バウンティフル",
       "name_default": "Bountiful",
       "native": "Bountiful",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112784,
-      "name": "ブリガムシティ",
+      "name": "ブリガム・シティ",
       "name_default": "Brigham City",
       "native": "Brigham City",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 113543,
-      "name": "キャッスル・デール",
+      "name": "キャッスル・デイル",
       "name_default": "Castle Dale",
       "native": "Castle Dale",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 113616,
-      "name": "シーダーヒルズ",
+      "name": "シーダー・ヒルズ",
       "name_default": "Cedar Hills",
       "native": "Cedar Hills",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 113662,
-      "name": "センタービル",
+      "name": "センターヴィル",
       "name_default": "Centerville",
       "native": "Centerville",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 115502,
-      "name": "デュシェーヌ",
+      "name": "ドゥーシェイン",
       "name_default": "Duchesne",
       "native": "Duchesne",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 116142,
-      "name": "エノク",
+      "name": "イーノック",
       "name_default": "Enoch",
       "native": "Enoch",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 116151,
-      "name": "企業",
+      "name": "エンタープライズ",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 116162,
       "name": "エルダ",
       "name_default": "Erda",
-      "native": "On the ground",
+      "native": "Erda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 116428,
-      "name": "ファーウェスト",
+      "name": "ファー・ウェスト",
       "name_default": "Farr West",
       "native": "Farr West",
       "type": "city",
@@ -939,7 +939,7 @@
       "id": 116496,
       "name": "フェロン",
       "name_default": "Ferron",
-      "native": "Iron",
+      "native": "Ferron",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 116780,
-      "name": "ファウンテングリーン",
+      "name": "ファウンテイン・グリーン",
       "name_default": "Fountain Green",
       "native": "Fountain Green",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 116967,
-      "name": "フルーツハイツ",
+      "name": "フルート・ハイツ",
       "name_default": "Fruit Heights",
       "native": "Fruit Heights",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 118077,
-      "name": "ハリスビル",
+      "name": "ハリスヴィル",
       "name_default": "Harrisville",
       "native": "Harrisville",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 118338,
       "name": "ヘリマン",
       "name_default": "Herriman",
-      "native": "Faculation",
+      "native": "Herriman",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
       "id": 119807,
       "name": "ラバーキン",
       "name_default": "LaVerkin",
-      "native": "Staple",
+      "native": "LaVerkin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 120468,
-      "name": "自由",
+      "name": "Liberty",
       "name_default": "Liberty",
       "native": "Liberty",
       "type": "city",
@@ -1605,7 +1605,7 @@
       "id": 120668,
       "name": "ロア",
       "name_default": "Loa",
-      "native": "Very well",
+      "native": "Loa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 121297,
-      "name": "マリオット・スレイタービル",
+      "name": "マリオット＝スレイターヴィル",
       "name_default": "Marriott-Slaterville",
       "native": "Marriott-Slaterville",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 122262,
-      "name": "モロナイ",
+      "name": "モローナイ",
       "name_default": "Moroni",
       "native": "Moroni",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 122372,
-      "name": "オリンポス山",
+      "name": "Mount Olympus",
       "name_default": "Mount Olympus",
       "native": "Mount Olympus",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 122492,
-      "name": "マレー",
+      "name": "マリ",
       "name_default": "Murray",
       "native": "Murray",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 123074,
-      "name": "ノースオグデン",
+      "name": "ノース・オグデン",
       "name_default": "North Ogden",
       "native": "North Ogden",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 123099,
-      "name": "ノースソルトレイク",
+      "name": "ノース・ソルト・レイク",
       "name_default": "North Salt Lake",
       "native": "North Salt Lake",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 123501,
-      "name": "オキル",
+      "name": "オーカー",
       "name_default": "Oquirrh",
       "native": "Oquirrh",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 123800,
-      "name": "パンギッチ",
+      "name": "パングイッチ",
       "name_default": "Panguitch",
       "native": "Panguitch",
       "type": "city",
@@ -2271,7 +2271,7 @@
       "id": 123888,
       "name": "パロワン",
       "name_default": "Parowan",
-      "native": "Evaporating",
+      "native": "Parowan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 124315,
-      "name": "平原の街",
+      "name": "プレーン・シティ",
       "name_default": "Plain City",
       "native": "Plain City",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 124367,
-      "name": "プレザントグローブ",
+      "name": "プレザントグロウブ",
       "name_default": "Pleasant Grove",
       "native": "Pleasant Grove",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 124381,
-      "name": "心地よい景色",
+      "name": "プレザント・ヴュー",
       "name_default": "Pleasant View",
       "native": "Pleasant View",
       "type": "city",
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 124663,
-      "name": "価格",
+      "name": "プライス",
       "name_default": "Price",
       "native": "Price",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 124721,
-      "name": "プロボ",
+      "name": "プロヴォ",
       "name_default": "Provo",
       "native": "Provo",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 125392,
-      "name": "ルーズベルト",
+      "name": "ローズヴェルト",
       "name_default": "Roosevelt",
       "native": "Roosevelt",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 125644,
-      "name": "聖ジョージ",
+      "name": "セイント・ジョージ",
       "name_default": "Saint George",
       "native": "Saint George",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 125746,
-      "name": "サリナ",
+      "name": "サライナ",
       "name_default": "Salina",
       "native": "Salina",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 126722,
-      "name": "サウスソルトレイク",
+      "name": "サウス・ソルトレイク",
       "name_default": "South Salt Lake",
       "native": "South Salt Lake",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 126798,
-      "name": "スペインフォーク",
+      "name": "スパニッシュフォーク",
       "name_default": "Spanish Fork",
       "native": "Spanish Fork",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 126918,
-      "name": "スプリングビル",
+      "name": "スプリングビル市",
       "name_default": "Springville",
       "native": "Springville",
       "type": "city",
@@ -3007,7 +3007,7 @@
     },
     {
       "id": 127273,
-      "name": "日没",
+      "name": "サンセット",
       "name_default": "Sunset",
       "native": "Sunset",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 127725,
-      "name": "トゥーエル",
+      "name": "トゥーイル",
       "name_default": "Tooele",
       "native": "Tooele",
       "type": "city",
@@ -3117,7 +3117,7 @@
       "id": 127956,
       "name": "ユインタ",
       "name_default": "Uintah",
-      "native": "Government",
+      "native": "Uintah",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3133,7 +3133,7 @@
     },
     {
       "id": 128187,
-      "name": "バーナル",
+      "name": "ヴァーナル",
       "name_default": "Vernal",
       "native": "Vernal",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 128888,
-      "name": "ウェストヘブン",
+      "name": "ウェスト・ヘイヴン",
       "name_default": "West Haven",
       "native": "West Haven",
       "type": "city",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 128963,
-      "name": "ウェストポイント",
+      "name": "ウェスト・ポイント",
       "name_default": "West Point",
       "native": "West Point",
       "type": "city",
@@ -3439,7 +3439,7 @@
     },
     {
       "id": 129551,
-      "name": "ウッズクロス",
+      "name": "ウッズ・クロス",
       "name_default": "Woods Cross",
       "native": "Woods Cross",
       "type": "city",

@@ -132,7 +132,7 @@
     },
     {
       "id": 109376,
-      "name": "Berehove Rayonu",
+      "name": "Berehove Raion",
       "name_default": "Berehove Raion",
       "native": "Берегівський район",
       "type": "district",
@@ -188,7 +188,7 @@
       "id": 109398,
       "name": "Bilky",
       "name_default": "Bilky",
-      "native": "Білкі",
+      "native": "Білки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -240,7 +240,7 @@
     },
     {
       "id": 109464,
-      "name": "Bushtyno",
+      "name": "Buştina",
       "name_default": "Bushtyno",
       "native": "Буштино",
       "type": "city",
@@ -258,7 +258,7 @@
     },
     {
       "id": 109508,
-      "name": "Kesmek",
+      "name": "Çop",
       "name_default": "Chop",
       "native": "Чоп",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109525,
-      "name": "Çynadiyovo",
+      "name": "Chynadiyovo",
       "name_default": "Chynadiyovo",
       "native": "Чинадійово",
       "type": "city",
@@ -294,7 +294,7 @@
     },
     {
       "id": 109573,
-      "name": "Güvercin",
+      "name": "Dovhe",
       "name_default": "Dovhe",
       "native": "Довге",
       "type": "city",
@@ -366,7 +366,7 @@
     },
     {
       "id": 109674,
-      "name": "İrşava",
+      "name": "Irshava",
       "name_default": "Irshava",
       "native": "Іршава",
       "type": "city",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109675,
-      "name": "Irshava Rayonu",
+      "name": "Irshava Raion",
       "name_default": "Irshava Raion",
       "native": "Іршавський район",
       "type": "district",
@@ -402,7 +402,7 @@
     },
     {
       "id": 109686,
-      "name": "İza",
+      "name": "Iza",
       "name_default": "Iza",
       "native": "Іза",
       "type": "city",
@@ -420,7 +420,7 @@
     },
     {
       "id": 109706,
-      "name": "Kaliny",
+      "name": "Kalyny",
       "name_default": "Kalyny",
       "native": "Калини",
       "type": "city",
@@ -438,7 +438,7 @@
     },
     {
       "id": 109711,
-      "name": "Kamianytsia",
+      "name": "Kam'yanytsya",
       "name_default": "Kamianytsia",
       "native": "Кам'яниця",
       "type": "city",
@@ -456,7 +456,7 @@
     },
     {
       "id": 109742,
-      "name": "Kust",
+      "name": "Hust",
       "name_default": "Khust",
       "native": "Хуст",
       "type": "adm2",
@@ -510,7 +510,7 @@
     },
     {
       "id": 109772,
-      "name": "Kolochava",
+      "name": "Koloçava",
       "name_default": "Kolochava",
       "native": "Колочава",
       "type": "city",
@@ -564,7 +564,7 @@
     },
     {
       "id": 109810,
-      "name": "Koson'",
+      "name": "Koson’",
       "name_default": "Koson’",
       "native": "Косонь",
       "type": "city",
@@ -582,7 +582,7 @@
     },
     {
       "id": 109873,
-      "name": "Kriva",
+      "name": "Kryva",
       "name_default": "Kryva",
       "native": "Крива",
       "type": "city",
@@ -600,7 +600,7 @@
     },
     {
       "id": 109891,
-      "name": "Kuşnytsya",
+      "name": "Kushnytsya",
       "name_default": "Kushnytsya",
       "native": "Кушниця",
       "type": "city",
@@ -618,7 +618,7 @@
     },
     {
       "id": 109896,
-      "name": "Kvasy",
+      "name": "Kvasi",
       "name_default": "Kvasy",
       "native": "Кваси",
       "type": "city",
@@ -636,7 +636,7 @@
     },
     {
       "id": 109905,
-      "name": "Lazeşçina",
+      "name": "Lazeshchyna",
       "name_default": "Lazeshchyna",
       "native": "Лазещина",
       "type": "city",
@@ -690,7 +690,7 @@
     },
     {
       "id": 109954,
-      "name": "Lypcha",
+      "name": "Lipça",
       "name_default": "Lypcha",
       "native": "Липча",
       "type": "city",
@@ -708,7 +708,7 @@
     },
     {
       "id": 109961,
-      "name": "Lisiçovo",
+      "name": "Lysyçovo",
       "name_default": "Lysychovo",
       "native": "Лисичово",
       "type": "city",
@@ -726,7 +726,7 @@
     },
     {
       "id": 110039,
-      "name": "Mijhirya",
+      "name": "Mizhhirya",
       "name_default": "Mizhhirya",
       "native": "Міжгір'я",
       "type": "city",
@@ -780,7 +780,7 @@
     },
     {
       "id": 110059,
-      "name": "Mukachevo Rayonu",
+      "name": "Mukachevo",
       "name_default": "Mukachevo",
       "native": "Мукачівський район",
       "type": "district",
@@ -816,9 +816,9 @@
     },
     {
       "id": 110074,
-      "name": "Mynay",
+      "name": "Minai",
       "name_default": "Mynay",
-      "native": "Майней",
+      "native": "Минай",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -834,7 +834,7 @@
     },
     {
       "id": 110090,
-      "name": "Nelipino",
+      "name": "Nelipyno",
       "name_default": "Nelipyno",
       "native": "Неліпино",
       "type": "city",
@@ -870,7 +870,7 @@
     },
     {
       "id": 110094,
-      "name": "Nevyts'ke",
+      "name": "Nevyts’ke",
       "name_default": "Nevyts’ke",
       "native": "Невицьке",
       "type": "city",
@@ -888,7 +888,7 @@
     },
     {
       "id": 110111,
-      "name": "Yeni Davydkovo",
+      "name": "Nove Davydkovo",
       "name_default": "Nove Davydkovo",
       "native": "Нове Давидково",
       "type": "city",
@@ -906,7 +906,7 @@
     },
     {
       "id": 110168,
-      "name": "Nyzhnye Selyshche",
+      "name": "Nijnie Selişçe",
       "name_default": "Nyzhnye Selyshche",
       "native": "Нижнє Селище",
       "type": "city",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 110340,
-      "name": "Rakhiv",
+      "name": "Rahiv",
       "name_default": "Rakhiv",
       "native": "Рахів",
       "type": "adm2",
@@ -1124,7 +1124,7 @@
       "id": 110423,
       "name": "Serednie Vodiane",
       "name_default": "Serednie Vodiane",
-      "native": "Середні Водяні",
+      "native": "Середнє Водяне",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1158,7 +1158,7 @@
     },
     {
       "id": 110513,
-      "name": "Solovyno",
+      "name": "Solotvyno",
       "name_default": "Solotvyno",
       "native": "Солотвино",
       "type": "city",
@@ -1176,7 +1176,7 @@
     },
     {
       "id": 110554,
-      "name": "Storozhnytsya",
+      "name": "Storojnytsia",
       "name_default": "Storozhnytsia",
       "native": "Сторожниця",
       "type": "city",
@@ -1194,7 +1194,7 @@
     },
     {
       "id": 110555,
-      "name": "Strabychovo",
+      "name": "Strabyçovo",
       "name_default": "Strabychovo",
       "native": "Страбичово",
       "type": "city",
@@ -1212,7 +1212,7 @@
     },
     {
       "id": 110569,
-      "name": "Svaliava Raion",
+      "name": "Svaliava",
       "name_default": "Svaliava",
       "native": "Свалявський район",
       "type": "district",
@@ -1248,7 +1248,7 @@
     },
     {
       "id": 110584,
-      "name": "Sinevyr",
+      "name": "Synevyr",
       "name_default": "Synevyr",
       "native": "Синевир",
       "type": "city",
@@ -1356,9 +1356,9 @@
     },
     {
       "id": 110674,
-      "name": "Çeşitli",
+      "name": "Vari",
       "name_default": "Vary",
-      "native": "Змінюватися",
+      "native": "Вари",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1500,7 +1500,7 @@
     },
     {
       "id": 110758,
-      "name": "Vynohradiv Rayonu",
+      "name": "Vynohradiv Raion",
       "name_default": "Vynohradiv Raion",
       "native": "Виноградівський район",
       "type": "district",

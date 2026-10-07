@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 55184,
-      "name": "Algyő",
+      "name": "Đeva",
       "name_default": "Algyő",
       "native": "Algyő",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 55192,
-      "name": "Apátfalva",
+      "name": "Patvalva",
       "name_default": "Apátfalva",
       "native": "Apátfalva",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 56143,
-      "name": "Ásotthalom",
+      "name": "Zlatara",
       "name_default": "Ásotthalom",
       "native": "Ásotthalom",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 55207,
-      "name": "Peciva",
+      "name": "Baks",
       "name_default": "Baks",
-      "native": "Boka",
+      "native": "Baks",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 55326,
-      "name": "Čanadpalota",
+      "name": "Csanádpalota",
       "name_default": "Csanádpalota",
       "native": "Csanádpalota",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 55324,
-      "name": "Csánytelek",
+      "name": "Csanytelek",
       "name_default": "Csanytelek",
       "native": "Csanytelek",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 55337,
-      "name": "Čongrad",
+      "name": "Csongrád",
       "name_default": "Csongrád",
       "native": "Csongrád",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 55338,
-      "name": "Járás Csongrádi",
+      "name": "Csongrádi Járás",
       "name_default": "Csongrádi Járás",
       "native": "Csongrádi Járás",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55359,
-      "name": "Deszk",
+      "name": "Deska",
       "name_default": "Deszk",
       "native": "Deszk",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 55521,
-      "name": "Hódmezővásárhely",
+      "name": "Vašrelj",
       "name_default": "Hódmezővásárhely",
       "native": "Hódmezővásárhely",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 55522,
-      "name": "Járás u Hódmezővásárhelyiu",
+      "name": "Hódmezővásárhelyi Járás",
       "name_default": "Hódmezővásárhelyi Járás",
       "native": "Hódmezővásárhelyi Járás",
       "type": "area",
@@ -435,7 +435,7 @@
     },
     {
       "id": 55677,
-      "name": "Makó",
+      "name": "Makovo",
       "name_default": "Makó",
       "native": "Makó",
       "type": "adm2",
@@ -473,7 +473,7 @@
       "id": 55681,
       "name": "Maroslele",
       "name_default": "Maroslele",
-      "native": "A tégla",
+      "native": "Maroslele",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 55704,
-      "name": "Mindszent",
+      "name": "Micenta",
       "name_default": "Mindszent",
       "native": "Mindszent",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 55735,
-      "name": "Mórahalom",
+      "name": "Ralma",
       "name_default": "Mórahalom",
       "native": "Mórahalom",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 55881,
-      "name": "Röszke",
+      "name": "Riska",
       "name_default": "Röszke",
       "native": "Röszke",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 55923,
-      "name": "Šatymáz",
+      "name": "Satumaz",
       "name_default": "Szatymaz",
       "native": "Szatymaz",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 55926,
-      "name": "Segedinski Járás",
+      "name": "Szegedi Járás",
       "name_default": "Szegedi Járás",
       "native": "Szegedi Járás",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 55929,
-      "name": "Segvár",
+      "name": "Szegvár",
       "name_default": "Szegvár",
       "native": "Szegvár",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 55976,
-      "name": "Sekutas",
+      "name": "Székkutas",
       "name_default": "Székkutas",
       "native": "Székkutas",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 55936,
-      "name": "Senteš",
+      "name": "Szentes",
       "name_default": "Szentes",
       "native": "Szentes",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 56167,
-      "name": "Üllés",
+      "name": "Jileš",
       "name_default": "Üllés",
       "native": "Üllés",
       "type": "city",

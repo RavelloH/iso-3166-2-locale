@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 50925,
-      "name": "Plymouth",
+      "name": "City of Plymouth",
       "name_default": "Plymouth",
       "native": "Plymouth",
       "type": "adm2",
@@ -104,24 +104,6 @@
       "longitude": "-4.09049000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2099884",
-      "country_code": "GB",
-      "state_code": "PLY",
-      "state_id": 2514,
-      "country_id": 232
-    },
-    {
-      "id": 51565,
-      "name": "Tavistock",
-      "name_default": "Tavistock",
-      "native": "Tavistock",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 12677,
-      "latitude": "50.54944000",
-      "longitude": "-4.14418000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668262",
       "country_code": "GB",
       "state_code": "PLY",
       "state_id": 2514,

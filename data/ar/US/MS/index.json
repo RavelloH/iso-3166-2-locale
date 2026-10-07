@@ -343,9 +343,9 @@
     },
     {
       "id": 111766,
-      "name": "بالدوين",
+      "name": "بلادوين",
       "name_default": "Baldwyn",
-      "native": "Bald Wine",
+      "native": "Baldwyn",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -379,7 +379,7 @@
     },
     {
       "id": 111933,
-      "name": "خليج سانت لويس",
+      "name": "باي سانت لويس",
       "name_default": "Bay Saint Louis",
       "native": "Bay Saint Louis",
       "type": "city",
@@ -451,9 +451,9 @@
     },
     {
       "id": 112158,
-      "name": "بيلزوني",
+      "name": "بلزوني",
       "name_default": "Belzoni",
-      "native": "Belzonia",
+      "native": "Belzoni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
       "id": 112347,
       "name": "بيلوكسي",
       "name_default": "Biloxi",
-      "native": "Bilox",
+      "native": "Biloxi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
       "id": 112995,
       "name": "بود",
       "name_default": "Bude",
-      "native": "Will",
+      "native": "Bude",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -649,7 +649,7 @@
     },
     {
       "id": 113199,
-      "name": "مدينة كالهون",
+      "name": "كالهون سيتي",
       "name_default": "Calhoun City",
       "native": "Calhoun City",
       "type": "city",
@@ -687,7 +687,7 @@
       "id": 113445,
       "name": "كاريير",
       "name_default": "Carriere",
-      "native": "Career",
+      "native": "Carriere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -847,7 +847,7 @@
     },
     {
       "id": 114393,
-      "name": "المياه الباردة",
+      "name": "كولدووتر",
       "name_default": "Coldwater",
       "native": "Coldwater",
       "type": "city",
@@ -957,7 +957,7 @@
       "id": 114527,
       "name": "كومو",
       "name_default": "Como",
-      "native": "As",
+      "native": "Como",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 114551,
-      "name": "كونيهاتا",
+      "name": "كونهاتا",
       "name_default": "Conehatta",
       "native": "Conehatta",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 114643,
-      "name": "كورنثوس",
+      "name": "كورينث",
       "name_default": "Corinth",
       "native": "Corinth",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 114961,
-      "name": "دي إيبرفيل",
+      "name": "دلبرفيل",
       "name_default": "D'Iberville",
       "native": "D'Iberville",
       "type": "city",
@@ -1047,7 +1047,7 @@
       "id": 115106,
       "name": "دي كالب",
       "name_default": "De Kalb",
-      "native": "The heart",
+      "native": "De Kalb",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1065,7 +1065,7 @@
       "id": 115111,
       "name": "دي ليسلي",
       "name_default": "De Lisle",
-      "native": "Lisle",
+      "native": "De Lisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 115317,
-      "name": "دايموند هيد",
+      "name": "داياموندهيد",
       "name_default": "Diamondhead",
       "native": "Diamondhead",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 115504,
-      "name": "تل البط",
+      "name": "داك هيل",
       "name_default": "Duck Hill",
       "native": "Duck Hill",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 115566,
-      "name": "ديورانت",
+      "name": "دورانت",
       "name_default": "Durant",
       "native": "Durant",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 116035,
-      "name": "إليسفيل",
+      "name": "إلسفيل",
       "name_default": "Ellisville",
       "native": "Ellisville",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 116414,
-      "name": "فارمنجتون",
+      "name": "فارمنغتون",
       "name_default": "Farmington",
       "native": "Farmington",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 116440,
-      "name": "فاييت",
+      "name": "فايت",
       "name_default": "Fayette",
       "native": "Fayette",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 116571,
-      "name": "النباتات",
+      "name": "فلورا",
       "name_default": "Flora",
       "native": "Flora",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 116579,
-      "name": "فلورنسا",
+      "name": "فلورنس",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 116643,
-      "name": "غابة",
+      "name": "فورست",
       "name_default": "Forest",
       "native": "Forest",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 116942,
-      "name": "نقطة الرهبان",
+      "name": "فريرز بوينت",
       "name_default": "Friars Point",
       "native": "Friars Point",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 117126,
-      "name": "غوتييه",
+      "name": "غوتير",
       "name_default": "Gautier",
       "native": "Gautier",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 117388,
-      "name": "جودمان",
+      "name": "غودمان",
       "name_default": "Goodman",
       "native": "Goodman",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 117686,
-      "name": "جرينفيل",
+      "name": "غرينفيل",
       "name_default": "Greenville",
       "native": "Greenville",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 117720,
-      "name": "غرينادا",
+      "name": "غرناطة",
       "name_default": "Grenada",
       "native": "Grenada",
       "type": "city",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 117793,
-      "name": "تلال الخليج",
+      "name": "Gulf Hills",
       "name_default": "Gulf Hills",
       "native": "Gulf Hills",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 117797,
-      "name": "جولفبورت",
+      "name": "غولفبورت",
       "name_default": "Gulfport",
       "native": "Gulfport",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 118212,
-      "name": "هازلهيرست",
+      "name": "هازلهورست",
       "name_default": "Hazlehurst",
       "native": "Hazlehurst",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 118381,
-      "name": "بحيرة هايد-أ-واي",
+      "name": "Hide-A-Way Lake",
       "name_default": "Hide-A-Way Lake",
       "native": "Hide-A-Way Lake",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 118541,
-      "name": "هولانديل",
+      "name": "هولنديل",
       "name_default": "Hollandale",
       "native": "Hollandale",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 118666,
-      "name": "بحيرة هورن",
+      "name": "هورن ليك",
       "name_default": "Horn Lake",
       "native": "Horn Lake",
       "type": "city",
@@ -1839,7 +1839,7 @@
       "id": 119046,
       "name": "إيوكا",
       "name_default": "Iuka",
-      "native": "Tema",
+      "native": "Iuka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 119410,
-      "name": "حديقة كيرني",
+      "name": "Kearney Park",
       "name_default": "Kearney Park",
       "native": "Kearney Park",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 119564,
-      "name": "فرن",
+      "name": "كيلن",
       "name_default": "Kiln",
       "native": "Kiln",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 120190,
-      "name": "الغار",
+      "name": "لاوريل",
       "name_default": "Laurel",
       "native": "Laurel",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 120463,
-      "name": "الحرية",
+      "name": "ليبرتي",
       "name_default": "Liberty",
       "native": "Liberty",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 120914,
-      "name": "لينشبورغ",
+      "name": "لينشبرغ",
       "name_default": "Lynchburg",
       "native": "Lynchburg",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 121032,
-      "name": "ماجي",
+      "name": "ماغي",
       "name_default": "Magee",
       "native": "Magee",
       "type": "city",
@@ -2253,7 +2253,7 @@
       "id": 121153,
       "name": "مانتاشي",
       "name_default": "Mantachie",
-      "native": "Mantle",
+      "native": "Mantachie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2287,7 +2287,7 @@
     },
     {
       "id": 121272,
-      "name": "العلامات",
+      "name": "ماركس",
       "name_default": "Marks",
       "native": "Marks",
       "type": "city",
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 121690,
-      "name": "خط الزوال",
+      "name": "ميريديان",
       "name_default": "Meridian",
       "native": "Meridian",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 121697,
-      "name": "محطة ميريديان",
+      "name": "ميريديان ستيشن",
       "name_default": "Meridian Station",
       "native": "Meridian Station",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 122163,
-      "name": "مونتيسيلو",
+      "name": "مونتايسلو",
       "name_default": "Monticello",
       "native": "Monticello",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 122211,
-      "name": "مورهد",
+      "name": "مورهيد",
       "name_default": "Moorhead",
       "native": "Moorhead",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 122319,
-      "name": "ماوند بايو",
+      "name": "موند بايو",
       "name_default": "Mound Bayou",
       "native": "Mound Bayou",
       "type": "city",
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 122646,
-      "name": "نيتلتون",
+      "name": "نيتليتون",
       "name_default": "Nettleton",
       "native": "Nettleton",
       "type": "city",
@@ -2631,7 +2631,7 @@
       "id": 122657,
       "name": "نيو أوغوستا",
       "name_default": "New Augusta",
-      "native": "New August",
+      "native": "New Augusta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 122724,
-      "name": "أمل جديد",
+      "name": "نيو هوب",
       "name_default": "New Hope",
       "native": "New Hope",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 123116,
-      "name": "شمال تونيكا",
+      "name": "نورث تونسا",
       "name_default": "North Tunica",
       "native": "North Tunica",
       "type": "city",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 123337,
-      "name": "ينابيع المحيط",
+      "name": "أوشن سبرينغز",
       "name_default": "Ocean Springs",
       "native": "Ocean Springs",
       "type": "city",
@@ -2739,7 +2739,7 @@
       "id": 123409,
       "name": "أوكولونا",
       "name_default": "Okolona",
-      "native": "You’ll plant",
+      "native": "Okolona",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 123439,
-      "name": "غصن الزيتون",
+      "name": "أوليف برانش",
       "name_default": "Olive Branch",
       "native": "Olive Branch",
       "type": "city",
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 123900,
-      "name": "باسكاجولا",
+      "name": "باسكاغولا",
       "name_default": "Pascagoula",
       "native": "Pascagoula",
       "type": "city",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": 123906,
-      "name": "تمريرة مسيحية",
+      "name": "باس كريستيان",
       "name_default": "Pass Christian",
       "native": "Pass Christian",
       "type": "city",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 123963,
-      "name": "لؤلؤة",
+      "name": "بيارل",
       "name_default": "Pearl",
       "native": "Pearl",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 123967,
-      "name": "نهر اللؤلؤ",
+      "name": "بيرل ريفر",
       "name_default": "Pearl River",
       "native": "Pearl River",
       "type": "city",
@@ -2883,7 +2883,7 @@
       "id": 123987,
       "name": "بيلاهاتشي",
       "name_default": "Pelahatchie",
-      "native": "Pelatchie",
+      "native": "Pelahatchie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 124100,
-      "name": "بتلة",
+      "name": "بيتال",
       "name_default": "Petal",
       "native": "Petal",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 124154,
-      "name": "بيكينز",
+      "name": "بيكنز",
       "name_default": "Pickens",
       "native": "Pickens",
       "type": "city",
@@ -3009,7 +3009,7 @@
       "id": 124476,
       "name": "بونتوتوك",
       "name_default": "Pontotoc",
-      "native": "Pontoc",
+      "native": "Pontotoc",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3133,7 +3133,7 @@
     },
     {
       "id": 124914,
-      "name": "ينابيع راولز",
+      "name": "Rawls Springs",
       "name_default": "Rawls Springs",
       "native": "Rawls Springs",
       "type": "city",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 125365,
-      "name": "شوكة متدحرجة",
+      "name": "رولينغ فورك",
       "name_default": "Rolling Fork",
       "native": "Rolling Fork",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 125417,
-      "name": "روزديل",
+      "name": "روسدل",
       "name_default": "Rosedale",
       "native": "Rosedale",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 125769,
-      "name": "ساليتيلو",
+      "name": "سالتيلو",
       "name_default": "Saltillo",
       "native": "Saltillo",
       "type": "city",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 125948,
-      "name": "سارديس",
+      "name": "ساردس",
       "name_default": "Sardis",
       "native": "Sardis",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 125958,
-      "name": "صلصة",
+      "name": "ساوسير",
       "name_default": "Saucier",
       "native": "Saucier",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 126244,
-      "name": "شو",
+      "name": "شاو",
       "name_default": "Shaw",
       "native": "Shaw",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 127211,
-      "name": "قمة",
+      "name": "سوميت",
       "name_default": "Summit",
       "native": "Summit",
       "type": "city",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 127251,
-      "name": "عباد الشمس",
+      "name": "صنفلور",
       "name_default": "Sunflower",
       "native": "Sunflower",
       "type": "city",
@@ -3585,7 +3585,7 @@
       "id": 127472,
       "name": "تشولا",
       "name_default": "Tchula",
-      "native": "Spell",
+      "native": "Tchula",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 127944,
-      "name": "تايلرتاون",
+      "name": "تيلرتاون",
       "name_default": "Tylertown",
       "native": "Tylertown",
       "type": "city",
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 127972,
-      "name": "الاتحاد",
+      "name": "يونيون",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -3765,7 +3765,7 @@
       "id": 128154,
       "name": "فاردامان",
       "name_default": "Vardaman",
-      "native": "Wallmanman",
+      "native": "Vardaman",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 128412,
-      "name": "الجدران",
+      "name": "وولز",
       "name_default": "Walls",
       "native": "Walls",
       "type": "city",
@@ -3853,7 +3853,7 @@
     },
     {
       "id": 128418,
-      "name": "بستان الجوز",
+      "name": "ولنوت غروف",
       "name_default": "Walnut Grove",
       "native": "Walnut Grove",
       "type": "city",
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 128600,
-      "name": "وادي الماء",
+      "name": "ووتر فالي",
       "name_default": "Water Valley",
       "native": "Water Valley",
       "type": "city",
@@ -3925,7 +3925,7 @@
     },
     {
       "id": 128706,
-      "name": "واينسبورو",
+      "name": "واينيسبورو",
       "name_default": "Waynesboro",
       "native": "Waynesboro",
       "type": "city",
@@ -3961,7 +3961,7 @@
     },
     {
       "id": 128882,
-      "name": "غرب جولفبورت",
+      "name": "West Gulfport",
       "name_default": "West Gulfport",
       "native": "West Gulfport",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 128886,
-      "name": "غرب هاتيسبرج",
+      "name": "ويست هاتيسبورغ",
       "name_default": "West Hattiesburg",
       "native": "West Hattiesburg",
       "type": "city",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 129223,
-      "name": "ويجينز",
+      "name": "ويغينز",
       "name_default": "Wiggins",
       "native": "Wiggins",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 129673,
-      "name": "مدينة يازو",
+      "name": "يازو سيتي",
       "name_default": "Yazoo City",
       "native": "Yazoo City",
       "type": "city",

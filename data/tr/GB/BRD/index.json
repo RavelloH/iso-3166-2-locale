@@ -129,7 +129,7 @@
     },
     {
       "id": 48771,
-      "name": "Wharfedale'deki Burley",
+      "name": "Burley in Wharfedale",
       "name_default": "Burley in Wharfedale",
       "native": "Burley in Wharfedale",
       "type": "city",
@@ -272,24 +272,6 @@
       "country_id": 232
     },
     {
-      "id": 51001,
-      "name": "Pudsey",
-      "name_default": "Pudsey",
-      "native": "Pudsey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33109,
-      "latitude": "53.79538000",
-      "longitude": "-1.66134000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1009290",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51011,
       "name": "Queensbury",
       "name_default": "Queensbury",
@@ -344,28 +326,10 @@
       "country_id": 232
     },
     {
-      "id": 51326,
-      "name": "Skipton",
-      "name_default": "Skipton",
-      "native": "Skipton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15369,
-      "latitude": "53.96144000",
-      "longitude": "-2.01676000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q516131",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51437,
       "name": "Steeton",
       "name_default": "Steeton",
-      "native": "Uninteotive",
+      "native": "Steeton",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135666,
-      "name": "آسیسی",
+      "name": "آسیزی",
       "name_default": "Assisi",
       "native": "Assisi",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 135901,
-      "name": "باستیا سایه",
+      "name": "باستیا اومبرا",
       "name_default": "Bastia Umbra",
       "native": "Bastia Umbra",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 136024,
-      "name": "بوانا",
+      "name": "بواگنا",
       "name_default": "Bevagna",
       "native": "Bevagna",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 137045,
-      "name": "کاسیا",
+      "name": "کاسچیا",
       "name_default": "Cascia",
       "native": "Cascia",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137147,
-      "name": "قلعه ریتالدی",
+      "name": "کاستل ریتالدی",
       "name_default": "Castel Ritaldi",
       "native": "Castel Ritaldi",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137569,
-      "name": "سرتو دی اسپولتو",
+      "name": "چرتو دی سپولتو",
       "name_default": "Cerreto di Spoleto",
       "native": "Cerreto di Spoleto",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137683,
-      "name": "کیوگیانا-لا کامندا",
+      "name": "کیوجانا-لا کومندا",
       "name_default": "Chiugiana-La Commenda",
       "native": "Chiugiana-La Commenda",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137764,
-      "name": "سیترنا",
+      "name": "چیترنا",
       "name_default": "Citerna",
       "native": "Citerna",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137773,
-      "name": "شهر پیوه",
+      "name": "چیتا دلا پیوه",
       "name_default": "Città della Pieve",
       "native": "Città della Pieve",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137774,
-      "name": "شهر کاستلو",
+      "name": "چیتا دی کاستلو",
       "name_default": "Città di Castello",
       "native": "Città di Castello",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 137858,
-      "name": "کولازون",
+      "name": "کولاتزون",
       "name_default": "Collazzone",
       "native": "Collazzone",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 138103,
-      "name": "کاستاچارو",
+      "name": "کوستاچیارو",
       "name_default": "Costacciaro",
       "native": "Costacciaro",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 138943,
-      "name": "جیانو دل اومبریا",
+      "name": "جیانو دلاومبریا",
       "name_default": "Giano dell'Umbria",
       "native": "Giano dell'Umbria",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 139539,
-      "name": "لیسیانو نیکونه",
+      "name": "لیسچیانو نیکونه",
       "name_default": "Lisciano Niccone",
       "native": "Lisciano Niccone",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 139809,
-      "name": "مانتیگنانا",
+      "name": "مانتیجنانا",
       "name_default": "Mantignana",
       "native": "Mantignana",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 139920,
-      "name": "مارسیانو",
+      "name": "مارسچیانو",
       "name_default": "Marsciano",
       "native": "Marsciano",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 140354,
-      "name": "مونت کاستلو دی ویبیو",
+      "name": "مونته کاستلو دی ویبیو",
       "name_default": "Monte Castello di Vibio",
       "native": "Monte Castello di Vibio",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 140786,
-      "name": "نوسرا اومبرا",
+      "name": "نوکرا اومبرا",
       "name_default": "Nocera Umbra",
       "native": "Nocera Umbra",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 140807,
-      "name": "نورسیا",
+      "name": "نورکیا",
       "name_default": "Norcia",
       "native": "Norcia",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 58278,
-      "name": "پانیکال",
+      "name": "پانیکاله",
       "name_default": "Panicale",
       "native": "Panicale",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 58283,
       "name": "پانتالا",
       "name_default": "Pantalla",
-      "native": "Schermo",
+      "native": "Pantalla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 58328,
-      "name": "پاسیگنانو سول تراسیمن",
+      "name": "پسینیانو سول تراسیمینو",
       "name_default": "Passignano sul Trasimeno",
       "native": "Passignano sul Trasimeno",
       "type": "adm3",
@@ -1155,9 +1155,9 @@
     },
     {
       "id": 58482,
-      "name": "پتریگنانو",
+      "name": "پترینیانو",
       "name_default": "Petrignano",
-      "native": "PetFrannano",
+      "native": "Petrignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 58615,
-      "name": "پیترالونگا",
+      "name": "پیترالونجا",
       "name_default": "Pietralunga",
       "native": "Pietralunga",
       "type": "adm3",
@@ -1229,7 +1229,7 @@
       "id": 58715,
       "name": "پیسترینو",
       "name_default": "Pistrino",
-      "native": "Forno",
+      "native": "Pistrino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 59042,
-      "name": "پرسی",
+      "name": "پرچی",
       "name_default": "Preci",
       "native": "Preci",
       "type": "adm3",
@@ -1355,7 +1355,7 @@
       "id": 59444,
       "name": "ریوتورتو",
       "name_default": "Rivotorto",
-      "native": "Rivototo",
+      "native": "Rivotorto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 60015,
-      "name": "سن جیوستینو",
+      "name": "سان جیوستینو",
       "name_default": "San Giustino",
       "native": "San Giustino",
       "type": "adm3",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 60133,
-      "name": "سن نیکولو دی سله",
+      "name": "سن نیکولو دی سلو",
       "name_default": "San Niccolò di Celle",
       "native": "San Niccolò di Celle",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 60341,
-      "name": "سنت آناتولی دی نارکو",
+      "name": "سانت‌آناتولیا دی نارکو",
       "name_default": "Sant'Anatolia di Narco",
       "native": "Sant'Anatolia di Narco",
       "type": "adm3",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 60471,
-      "name": "سانتا ماریا دگلی آنجلی",
+      "name": "سانتا ماریا دگلی آنجلو",
       "name_default": "Santa Maria degli Angeli",
       "native": "Santa Maria degli Angeli",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 60642,
-      "name": "شگینو",
+      "name": "اسکجینو",
       "name_default": "Scheggino",
       "native": "Scheggino",
       "type": "adm3",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 60845,
-      "name": "سیگیلو",
+      "name": "سیجیلو",
       "name_default": "Sigillo",
       "native": "Sigillo",
       "type": "adm3",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 61499,
-      "name": "ترستینا",
+      "name": "تریستینا",
       "name_default": "Trestina",
       "native": "Trestina",
       "type": "city",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 61569,
-      "name": "تورو سول تراسیمنو",
+      "name": "تورو سول ترازیمنو",
       "name_default": "Tuoro sul Trasimeno",
       "native": "Tuoro sul Trasimeno",
       "type": "adm3",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 61597,
-      "name": "اومبرتید",
+      "name": "اومبرتیده",
       "name_default": "Umbertide",
       "native": "Umbertide",
       "type": "adm3",
@@ -1857,9 +1857,9 @@
     },
     {
       "id": 61898,
-      "name": "از طریق لیپیا",
+      "name": "Via Lippia",
       "name_default": "Via Lippia",
-      "native": "Via Lia Cudi",
+      "native": "Via Lippia",
       "type": "city",
       "level": null,
       "parent_id": null,

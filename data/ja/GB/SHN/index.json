@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48505,
-      "name": "ビリンゲ",
+      "name": "ビリンジ・チャペル・エンド",
       "name_default": "Billinge",
       "native": "Billinge",
       "type": "city",
@@ -92,6 +92,24 @@
       "country_id": 232
     },
     {
+      "id": 50734,
+      "name": "ニュートン・ル・ウィローズ",
+      "name_default": "Newton-le-Willows",
+      "native": "Newton-le-Willows",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21782,
+      "latitude": "53.45000000",
+      "longitude": "-2.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q750000",
+      "country_code": "GB",
+      "state_code": "SHN",
+      "state_id": 2290,
+      "country_id": 232
+    },
+    {
       "id": 51023,
       "name": "レインフォード",
       "name_default": "Rainford",
@@ -111,7 +129,7 @@
     },
     {
       "id": 51397,
-      "name": "セントヘレンズ",
+      "name": "セント・ヘレンズ",
       "name_default": "St Helens",
       "native": "St Helens",
       "type": "adm2",

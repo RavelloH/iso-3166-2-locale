@@ -75,7 +75,7 @@
     },
     {
       "id": 1963,
-      "name": "karetañ",
+      "name": "Favoriten",
       "name_default": "Favoriten",
       "native": "Favoriten",
       "type": "section",
@@ -111,9 +111,9 @@
     },
     {
       "id": 2272,
-      "name": "Hernaloù",
+      "name": "Hernals",
       "name_default": "Hernals",
-      "native": "Hernalen",
+      "native": "Hernals",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -201,9 +201,9 @@
     },
     {
       "id": 3461,
-      "name": "O boazhañ",
+      "name": "Simmering",
       "name_default": "Simmering",
-      "native": "Köcheln lassen",
+      "native": "Simmering",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 3681,
-      "name": "Wened",
+      "name": "Vienna",
       "name_default": "Vienna",
       "native": "Wien",
       "type": "capital",

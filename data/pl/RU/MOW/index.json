@@ -322,7 +322,7 @@
     },
     {
       "id": 97924,
-      "name": "Bibirewo",
+      "name": "Bibirevo",
       "name_default": "Bibirevo",
       "native": "Бибирево",
       "type": "section",
@@ -412,7 +412,7 @@
     },
     {
       "id": 98190,
-      "name": "Czeremuszki",
+      "name": "Cherëmushki",
       "name_default": "Cherëmushki",
       "native": "Черемушки",
       "type": "adm3",
@@ -466,7 +466,7 @@
     },
     {
       "id": 98320,
-      "name": "Dorogomilowo",
+      "name": "Dorogomilovo",
       "name_default": "Dorogomilovo",
       "native": "Дорогомилово",
       "type": "section",
@@ -574,7 +574,7 @@
     },
     {
       "id": 98754,
-      "name": "Izmajłowo",
+      "name": "Izmaylovo",
       "name_default": "Izmaylovo",
       "native": "Измайлово",
       "type": "section",
@@ -610,7 +610,7 @@
     },
     {
       "id": 99008,
-      "name": "Khoroshevo-Mnevniki",
+      "name": "Khoroshëvo-Mnevniki",
       "name_default": "Khoroshëvo-Mnevniki",
       "native": "Хорошёво-Мневники",
       "type": "section",
@@ -700,7 +700,7 @@
     },
     {
       "id": 99248,
-      "name": "Kotłowka",
+      "name": "Kotlovka",
       "name_default": "Kotlovka",
       "native": "Котловка",
       "type": "section",
@@ -808,7 +808,7 @@
     },
     {
       "id": 99561,
-      "name": "Lefortowo",
+      "name": "Lefortovo",
       "name_default": "Lefortovo",
       "native": "Лефортово",
       "type": "section",
@@ -819,6 +819,24 @@
       "longitude": "37.70000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1382617",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
+      "id": 99575,
+      "name": "Leninskiye Gory",
+      "name_default": "Leninskiye Gory",
+      "native": "Ленинские горы",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.70000000",
+      "longitude": "37.56667000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOW",
       "state_id": 1901,
@@ -862,7 +880,7 @@
     },
     {
       "id": 99621,
-      "name": "Lianozowo",
+      "name": "Lianozovo",
       "name_default": "Lianozovo",
       "native": "Лианозово",
       "type": "section",
@@ -880,7 +898,7 @@
     },
     {
       "id": 99622,
-      "name": "Lichobory",
+      "name": "Likhobory",
       "name_default": "Likhobory",
       "native": "Лихоборы",
       "type": "section",
@@ -916,7 +934,7 @@
     },
     {
       "id": 99696,
-      "name": "Łużniki",
+      "name": "Luzhniki",
       "name_default": "Luzhniki",
       "native": "Лужники",
       "type": "section",
@@ -970,7 +988,7 @@
     },
     {
       "id": 99817,
-      "name": "Matwiejewskie",
+      "name": "Matveyevskoye",
       "name_default": "Matveyevskoye",
       "native": "Матвеевское",
       "type": "section",
@@ -1042,7 +1060,7 @@
     },
     {
       "id": 99977,
-      "name": "Moskiewski",
+      "name": "Moskowskij",
       "name_default": "Moskovskiy",
       "native": "Московский",
       "type": "city",
@@ -1060,7 +1078,7 @@
     },
     {
       "id": 99980,
-      "name": "Mosrentgen",
+      "name": "Posiołok zawoda Mosrientgien",
       "name_default": "Mosrentgen",
       "native": "Мосрентген",
       "type": "city",
@@ -1096,7 +1114,7 @@
     },
     {
       "id": 100091,
-      "name": "Niekrasowka",
+      "name": "Nekrasovka",
       "name_default": "Nekrasovka",
       "native": "Некрасовка",
       "type": "section",
@@ -1150,7 +1168,7 @@
     },
     {
       "id": 100219,
-      "name": "Nowo-Peredelkino",
+      "name": "Novo-Peredelkino",
       "name_default": "Novo-Peredelkino",
       "native": "Ново-Переделкино",
       "type": "city",
@@ -1276,7 +1294,7 @@
     },
     {
       "id": 100395,
-      "name": "Oczakowo-Matwiejewskie",
+      "name": "Ochakovo-Matveyevskoye",
       "name_default": "Ochakovo-Matveyevskoye",
       "native": "Очаково-Матвеевское",
       "type": "section",
@@ -1492,7 +1510,7 @@
     },
     {
       "id": 101206,
-      "name": "Siewiernyj",
+      "name": "Severnyy",
       "name_default": "Severnyy",
       "native": "Северный",
       "type": "section",
@@ -1528,7 +1546,7 @@
     },
     {
       "id": 101279,
-      "name": "Szczukino",
+      "name": "Shchukino",
       "name_default": "Shchukino",
       "native": "Щукино",
       "type": "section",
@@ -1708,7 +1726,7 @@
     },
     {
       "id": 101879,
-      "name": "Tołstopalcewo",
+      "name": "Tolstopal’tsevo",
       "name_default": "Tolstopal’tsevo",
       "native": "Толстопальцево",
       "type": "section",
@@ -1780,7 +1798,7 @@
     },
     {
       "id": 101945,
-      "name": "Tsentral'nyy Administrativnyy Okrug",
+      "name": "Tsentral’nyy Administrativnyy Okrug",
       "name_default": "Tsentral’nyy Administrativnyy Okrug",
       "native": "Центральный административный округ",
       "type": "section",
@@ -1924,7 +1942,7 @@
     },
     {
       "id": 102395,
-      "name": "Wostocznoje Degunino",
+      "name": "Vostochnoe Degunino",
       "name_default": "Vostochnoe Degunino",
       "native": "Восточное Дегунино",
       "type": "adm3",
@@ -1959,8 +1977,26 @@
       "country_id": 182
     },
     {
+      "id": 102402,
+      "name": "Vostryakovo",
+      "name_default": "Vostryakovo",
+      "native": "Востряково",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.66667000",
+      "longitude": "37.45000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4126688",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
       "id": 102432,
-      "name": "Wychino-Żulebino",
+      "name": "Vykhino-Zhulebino",
       "name_default": "Vykhino-Zhulebino",
       "native": "Выхино-Жулебино",
       "type": "section",
@@ -1996,7 +2032,7 @@
     },
     {
       "id": 102506,
-      "name": "Jasieniewo",
+      "name": "Yasenevo",
       "name_default": "Yasenevo",
       "native": "Ясенево",
       "type": "section",

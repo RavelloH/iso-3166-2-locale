@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 89871,
-      "name": "1 Aralık",
+      "name": "1 Decembrie",
       "name_default": "1 Decembrie",
       "native": "1 Decembrie",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 90391,
-      "name": "Büfe",
+      "name": "Buftea",
       "name_default": "Buftea",
       "native": "Buftea",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 90684,
-      "name": "Çitila",
+      "name": "Chitila",
       "name_default": "Chitila",
       "native": "Chitila",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 90961,
-      "name": "Berceni Mahallesi",
+      "name": "Comuna Berceni",
       "name_default": "Comuna Berceni",
       "native": "Comuna Berceni",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 91293,
-      "name": "Komuna Cernica",
+      "name": "Comuna Cernica",
       "name_default": "Comuna Cernica",
       "native": "Comuna Cernica",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 91311,
-      "name": "Chiajna Mahallesi",
+      "name": "Comuna Chiajna",
       "name_default": "Comuna Chiajna",
       "native": "Comuna Chiajna",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 91350,
-      "name": "Ciolpani Mahallesi",
+      "name": "Comuna Ciolpani",
       "name_default": "Comuna Ciolpani",
       "native": "Comuna Ciolpani",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 91423,
-      "name": "Corbeanca Mahallesi",
+      "name": "Comuna Corbeanca",
       "name_default": "Comuna Corbeanca",
       "native": "Comuna Corbeanca",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 91880,
-      "name": "Glina Mahallesi",
+      "name": "Comuna Glina",
       "name_default": "Comuna Glina",
       "native": "Comuna Glina",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91931,
-      "name": "Topluluk Gruiu",
+      "name": "Comuna Gruiu",
       "name_default": "Comuna Gruiu",
       "native": "Comuna Gruiu",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 92123,
-      "name": "Jilava Mahallesi",
+      "name": "Comuna Jilava",
       "name_default": "Comuna Jilava",
       "native": "Comuna Jilava",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 92967,
-      "name": "Snagov Belediyesi",
+      "name": "Comuna Snagov",
       "name_default": "Comuna Snagov",
       "native": "Comuna Snagov",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 93355,
-      "name": "Vidra Mahallesi",
+      "name": "Comuna Vidra",
       "name_default": "Comuna Vidra",
       "native": "Comuna Vidra",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 93633,
-      "name": "Kornetu",
+      "name": "Cornetu",
       "name_default": "Cornetu",
       "native": "Cornetu",
       "type": "adm2",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 93714,
-      "name": "Crețeşti",
+      "name": "Crețești",
       "name_default": "Crețești",
       "native": "Crețești",
       "type": "city",
@@ -1265,7 +1265,7 @@
       "id": 94358,
       "name": "Glina",
       "name_default": "Glina",
-      "native": "Lut",
+      "native": "Glina",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1355,7 +1355,7 @@
       "id": 94800,
       "name": "Lipia",
       "name_default": "Lipia",
-      "native": "Plată",
+      "native": "Lipia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 95243,
-      "name": "Magurele",
+      "name": "Măgurele",
       "name_default": "Măgurele",
       "native": "Măgurele",
       "type": "adm2",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 95361,
-      "name": "Çekirdek",
+      "name": "Nuci",
       "name_default": "Nuci",
       "native": "Nuci",
       "type": "adm2",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 95912,
-      "name": "Popeşti-Leordeni",
+      "name": "Popești-Leordeni",
       "name_default": "Popeşti-Leordeni",
       "native": "Popeşti-Leordeni",
       "type": "adm2",
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 96142,
-      "name": "Roşu",
+      "name": "Roșu",
       "name_default": "Roșu",
       "native": "Roșu",
       "type": "city",
@@ -1733,7 +1733,7 @@
       "id": 96146,
       "name": "Rudeni",
       "name_default": "Rudeni",
-      "native": "Toamnă",
+      "native": "Rudeni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 96345,
-      "name": "Siliştea Snagovului",
+      "name": "Siliștea Snagovului",
       "name_default": "Siliștea Snagovului",
       "native": "Siliștea Snagovului",
       "type": "city",
@@ -1839,9 +1839,9 @@
     },
     {
       "id": 96578,
-      "name": "Tanganu",
+      "name": "Tânganu",
       "name_default": "Tânganu",
-      "native": "TRENU",
+      "native": "Tânganu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 96889,
-      "name": "Gönüllüler",
+      "name": "Voluntari",
       "name_default": "Voluntari",
       "native": "Voluntari",
       "type": "adm2",

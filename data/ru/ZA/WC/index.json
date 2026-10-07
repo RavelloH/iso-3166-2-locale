@@ -111,7 +111,7 @@
     },
     {
       "id": 131025,
-      "name": "Атлантида",
+      "name": "Атлантис",
       "name_default": "Atlantis",
       "native": "Atlantis",
       "type": "city",
@@ -149,7 +149,7 @@
       "id": 131034,
       "name": "Бергвлиет",
       "name_default": "Bergvliet",
-      "native": "Mountain flight",
+      "native": "Bergvliet",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 131067,
-      "name": "Церера",
+      "name": "Сирес",
       "name_default": "Ceres",
       "native": "Ceres",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 131073,
-      "name": "Кланвильям",
+      "name": "Клануильям",
       "name_default": "Clanwilliam",
       "native": "Clanwilliam",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 131074,
-      "name": "Клермонт",
+      "name": "Клэрмонт",
       "name_default": "Claremont",
       "native": "Claremont",
       "type": "city",
@@ -363,9 +363,9 @@
     },
     {
       "id": 131082,
-      "name": "Де Руст",
+      "name": "Де-Рюст",
       "name_default": "De Rust",
-      "native": "Tranquility",
+      "native": "De Rust",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 131120,
-      "name": "Грабов",
+      "name": "Грабоу",
       "name_default": "Grabouw",
       "native": "Grabouw",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 131143,
-      "name": "Книсна",
+      "name": "Найсне",
       "name_default": "Knysna",
       "native": "Knysna",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 131186,
-      "name": "Муррисберг",
+      "name": "Муррисбург",
       "name_default": "Moorreesburg",
       "native": "Moorreesburg",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 131188,
-      "name": "Моссел-Бей",
+      "name": "Моссел Бей",
       "name_default": "Mossel Bay",
       "native": "Mossel Bay",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 131210,
-      "name": "Оудсхорн",
+      "name": "Оудсхурн",
       "name_default": "Oudtshoorn",
       "native": "Oudtshoorn",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 131219,
-      "name": "Пикетберг",
+      "name": "Пикетберх",
       "name_default": "Piketberg",
       "native": "Piketberg",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 131238,
-      "name": "Отступление",
+      "name": "Retreat",
       "name_default": "Retreat",
       "native": "Retreat",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 131264,
-      "name": "Стелленбош",
+      "name": "Стелленбос",
       "name_default": "Stellenbosch",
       "native": "Stellenbosch",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 131294,
-      "name": "Вреденбург",
+      "name": "Фриденбург",
       "name_default": "Vredenburg",
       "native": "Vredenburg",
       "type": "adm3",
@@ -993,9 +993,9 @@
     },
     {
       "id": 131295,
-      "name": "Вредендаль",
+      "name": "Фридендал",
       "name_default": "Vredendal",
-      "native": "Peace",
+      "native": "Vredendal",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 131304,
-      "name": "Муниципалитет округа Западное побережье",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast District Municipality",
       "type": "municipality",
@@ -1067,7 +1067,7 @@
       "id": 131317,
       "name": "Зоар",
       "name_default": "Zoar",
-      "native": "Joke",
+      "native": "Zoar",
       "type": "city",
       "level": null,
       "parent_id": null,

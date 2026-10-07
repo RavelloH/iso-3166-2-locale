@@ -289,7 +289,7 @@
     },
     {
       "id": 141100,
-      "name": "Aliança",
+      "name": "Alliance",
       "name_default": "Alliance",
       "native": "Alliance",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 141102,
-      "name": "Amélia",
+      "name": "Amelia",
       "name_default": "Amelia",
       "native": "Amelia",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 141105,
-      "name": "Ana",
+      "name": "Anna",
       "name_default": "Anna",
       "native": "Anna",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 141107,
-      "name": "Antuérpia",
+      "name": "Antwerp",
       "name_default": "Antwerp",
       "native": "Antwerp",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 141108,
-      "name": "Riacho Apple",
+      "name": "Apple Creek",
       "name_default": "Apple Creek",
       "native": "Apple Creek",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 141109,
-      "name": "Vale da Maçã",
+      "name": "Apple Valley",
       "name_default": "Apple Valley",
       "native": "Apple Valley",
       "type": "city",
@@ -469,9 +469,9 @@
     },
     {
       "id": 141110,
-      "name": "Arcano",
+      "name": "Arcanum",
       "name_default": "Arcanum",
-      "native": "Secret",
+      "native": "Arcanum",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -595,7 +595,7 @@
     },
     {
       "id": 141119,
-      "name": "Atenas",
+      "name": "Athens",
       "name_default": "Athens",
       "native": "Athens",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 141122,
-      "name": "aurora",
+      "name": "Aurora",
       "name_default": "Aurora",
       "native": "Aurora",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 141125,
-      "name": "Centro Avon",
+      "name": "Avon Center",
       "name_default": "Avon Center",
       "native": "Avon Center",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 141126,
-      "name": "Lago Avon",
+      "name": "Avon Lake",
       "name_default": "Avon Lake",
       "native": "Avon Lake",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 141132,
-      "name": "Batávia",
+      "name": "Batavia",
       "name_default": "Batavia",
       "native": "Batavia",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 141133,
-      "name": "Vila da Baía",
+      "name": "Bay Village",
       "name_default": "Bay Village",
       "native": "Bay Village",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 141134,
-      "name": "Cidade da Praia",
+      "name": "Beach City",
       "name_default": "Beach City",
       "native": "Beach City",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 141137,
-      "name": "Cume Beckett",
+      "name": "Beckett Ridge",
       "name_default": "Beckett Ridge",
       "native": "Beckett Ridge",
       "type": "city",
@@ -919,7 +919,7 @@
     },
     {
       "id": 141139,
-      "name": "Alturas de Bedford",
+      "name": "Bedford Heights",
       "name_default": "Bedford Heights",
       "native": "Bedford Heights",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 141140,
-      "name": "Trilhas Beechwood",
+      "name": "Beechwood Trails",
       "name_default": "Beechwood Trails",
       "native": "Beechwood Trails",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 141148,
-      "name": "Bereia",
+      "name": "Berea",
       "name_default": "Berea",
       "native": "Berea",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 141149,
-      "name": "Betel",
+      "name": "Bethel",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 141153,
-      "name": "Propriedades Blacklick",
+      "name": "Blacklick Estates",
       "name_default": "Blacklick Estates",
       "native": "Blacklick Estates",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 141154,
       "name": "Blanchester",
       "name_default": "Blanchester",
-      "native": "White",
+      "native": "Blanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 141155,
-      "name": "Cinza Azul",
+      "name": "Blue Ash",
       "name_default": "Blue Ash",
       "native": "Blue Ash",
       "type": "city",
@@ -1353,7 +1353,7 @@
       "id": 141164,
       "name": "Bratenahl",
       "name_default": "Bratenahl",
-      "native": "Roast",
+      "native": "Bratenahl",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 141170,
-      "name": "Brilhante",
+      "name": "Brilliant",
       "name_default": "Brilliant",
       "native": "Brilliant",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 141174,
-      "name": "Centro Brookfield",
+      "name": "Brookfield Center",
       "name_default": "Brookfield Center",
       "native": "Brookfield Center",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 141176,
-      "name": "Alturas do Brooklyn",
+      "name": "Brooklyn Heights",
       "name_default": "Brooklyn Heights",
       "native": "Brooklyn Heights",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 141181,
-      "name": "Lago Buckeye",
+      "name": "Buckeye Lake",
       "name_default": "Buckeye Lake",
       "native": "Buckeye Lake",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 141187,
-      "name": "Cádiz",
+      "name": "Cadiz",
       "name_default": "Cadiz",
       "native": "Cadiz",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 141188,
-      "name": "Calcutá",
+      "name": "Calcutta",
       "name_default": "Calcutta",
       "native": "Calcutta",
       "type": "city",
@@ -1803,7 +1803,7 @@
       "id": 141191,
       "name": "Camden",
       "name_default": "Camden",
-      "native": "Cam",
+      "native": "Camden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 141196,
-      "name": "Cantão",
+      "name": "Canton",
       "name_default": "Canton",
       "native": "Canton",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 141206,
-      "name": "Cachoeira Chagrin",
+      "name": "Chagrin Falls",
       "name_default": "Chagrin Falls",
       "native": "Chagrin Falls",
       "type": "city",
@@ -2071,7 +2071,7 @@
     },
     {
       "id": 141208,
-      "name": "Alturas dos Campeões",
+      "name": "Champion Heights",
       "name_default": "Champion Heights",
       "native": "Champion Heights",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 141211,
-      "name": "Bosque de Cerejeiras",
+      "name": "Cherry Grove",
       "name_default": "Cherry Grove",
       "native": "Cherry Grove",
       "type": "city",
@@ -2197,7 +2197,7 @@
     },
     {
       "id": 141215,
-      "name": "Lago Choctaw",
+      "name": "Choctaw Lake",
       "name_default": "Choctaw Lake",
       "native": "Choctaw Lake",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 141229,
-      "name": "Bosque de carvão",
+      "name": "Coal Grove",
       "name_default": "Coal Grove",
       "native": "Coal Grove",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 141230,
-      "name": "Água fria",
+      "name": "Coldwater",
       "name_default": "Coldwater",
       "native": "Coldwater",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 141232,
-      "name": "Colombiana",
+      "name": "Columbiana",
       "name_default": "Columbiana",
       "native": "Columbiana",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 141234,
-      "name": "Colombo",
+      "name": "Columbus",
       "name_default": "Columbus",
       "native": "Columbus",
       "type": "city",
@@ -2503,7 +2503,7 @@
     },
     {
       "id": 141236,
-      "name": "Ponto Comercial",
+      "name": "Commercial Point",
       "name_default": "Commercial Point",
       "native": "Commercial Point",
       "type": "city",
@@ -2557,7 +2557,7 @@
     },
     {
       "id": 141239,
-      "name": "Comboio",
+      "name": "Convoy",
       "name_default": "Convoy",
       "native": "Convoy",
       "type": "city",
@@ -2665,7 +2665,7 @@
     },
     {
       "id": 141246,
-      "name": "Praia de Craig",
+      "name": "Craig Beach",
       "name_default": "Craig Beach",
       "native": "Craig Beach",
       "type": "city",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": 141248,
-      "name": "Linha da crista",
+      "name": "Crestline",
       "name_default": "Crestline",
       "native": "Crestline",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 141252,
-      "name": "Lagos de Cristal",
+      "name": "Crystal Lakes",
       "name_default": "Crystal Lakes",
       "native": "Crystal Lakes",
       "type": "city",
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 141255,
-      "name": "Cataratas de Cuyahoga",
+      "name": "Cuyahoga Falls",
       "name_default": "Cuyahoga Falls",
       "native": "Cuyahoga Falls",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 141259,
-      "name": "Alturas do dia",
+      "name": "Day Heights",
       "name_default": "Day Heights",
       "native": "Day Heights",
       "type": "city",
@@ -2883,7 +2883,7 @@
       "id": 141261,
       "name": "De Graff",
       "name_default": "De Graff",
-      "native": "The rough",
+      "native": "De Graff",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 141262,
-      "name": "Parque dos Veados",
+      "name": "Deer Park",
       "name_default": "Deer Park",
       "native": "Deer Park",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 141263,
-      "name": "Desafio",
+      "name": "Defiance",
       "name_default": "Defiance",
       "native": "Defiance",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 141267,
-      "name": "Colinas de Delhi",
+      "name": "Delhi Hills",
       "name_default": "Delhi Hills",
       "native": "Delhi Hills",
       "type": "city",
@@ -2971,9 +2971,9 @@
     },
     {
       "id": 141268,
-      "name": "Delfos",
+      "name": "Delphos",
       "name_default": "Delphos",
-      "native": "DELPH",
+      "native": "Delphos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 141271,
-      "name": "Dente",
+      "name": "Dent",
       "name_default": "Dent",
       "native": "Dent",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 141280,
-      "name": "Cume Seco",
+      "name": "Dry Ridge",
       "name_default": "Dry Ridge",
       "native": "Dry Ridge",
       "type": "city",
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 141281,
-      "name": "Teste de simulação",
+      "name": "Dry Run",
       "name_default": "Dry Run",
       "native": "Dry Run",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 141284,
-      "name": "Cantão Oriental",
+      "name": "East Canton",
       "name_default": "East Canton",
       "native": "East Canton",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 141285,
-      "name": "Leste de Cleveland",
+      "name": "East Cleveland",
       "name_default": "East Cleveland",
       "native": "East Cleveland",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 141287,
-      "name": "Palestina Oriental",
+      "name": "East Palestine",
       "name_default": "East Palestine",
       "native": "East Palestine",
       "type": "city",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 141288,
-      "name": "Lago Leste",
+      "name": "Eastlake",
       "name_default": "Eastlake",
       "native": "Eastlake",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 141296,
-      "name": "Elíria",
+      "name": "Elyria",
       "name_default": "Elyria",
       "native": "Elyria",
       "type": "city",
@@ -3513,7 +3513,7 @@
       "id": 141298,
       "name": "Enon",
       "name_default": "Enon",
-      "native": "Uncle",
+      "native": "Enon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 141301,
-      "name": "Euclides",
+      "name": "Euclid",
       "name_default": "Euclid",
       "native": "Euclid",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 141306,
-      "name": "Praia de Fairfield",
+      "name": "Fairfield Beach",
       "name_default": "Fairfield Beach",
       "native": "Fairfield Beach",
       "type": "city",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 141309,
-      "name": "Porto de Fairport",
+      "name": "Fairport Harbor",
       "name_default": "Fairport Harbor",
       "native": "Fairport Harbor",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 141310,
-      "name": "Parque Fairview",
+      "name": "Fairview Park",
       "name_default": "Fairview Park",
       "native": "Fairview Park",
       "type": "city",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 141316,
-      "name": "Cinco Pontos",
+      "name": "Five Points",
       "name_default": "Five Points",
       "native": "Five Points",
       "type": "city",
@@ -3799,7 +3799,7 @@
     },
     {
       "id": 141317,
-      "name": "Floresta",
+      "name": "Forest",
       "name_default": "Forest",
       "native": "Forest",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 141318,
-      "name": "Parque Florestal",
+      "name": "Forest Park",
       "name_default": "Forest Park",
       "native": "Forest Park",
       "type": "city",
@@ -3853,9 +3853,9 @@
     },
     {
       "id": 141320,
-      "name": "Forte Loramie",
+      "name": "Fort Loramie",
       "name_default": "Fort Loramie",
-      "native": "Strong loram",
+      "native": "Fort Loramie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 141321,
-      "name": "Forte McKinley",
+      "name": "Fort McKinley",
       "name_default": "Fort McKinley",
       "native": "Fort McKinley",
       "type": "city",
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 141322,
-      "name": "Recuperação do Forte",
+      "name": "Fort Recovery",
       "name_default": "Fort Recovery",
       "native": "Fort Recovery",
       "type": "city",
@@ -3907,7 +3907,7 @@
     },
     {
       "id": 141323,
-      "name": "Forte Shawnee",
+      "name": "Fort Shawnee",
       "name_default": "Fort Shawnee",
       "native": "Fort Shawnee",
       "type": "city",
@@ -3943,7 +3943,7 @@
     },
     {
       "id": 141325,
-      "name": "Frankfurt",
+      "name": "Frankfort",
       "name_default": "Frankfort",
       "native": "Frankfort",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 141328,
-      "name": "Fornalha Franklin",
+      "name": "Franklin Furnace",
       "name_default": "Franklin Furnace",
       "native": "Franklin Furnace",
       "type": "city",
@@ -4051,7 +4051,7 @@
     },
     {
       "id": 141332,
-      "name": "Morro das Frutas",
+      "name": "Fruit Hill",
       "name_default": "Fruit Hill",
       "native": "Fruit Hill",
       "type": "city",
@@ -4087,9 +4087,9 @@
     },
     {
       "id": 141335,
-      "name": "Galião",
+      "name": "Galion",
       "name_default": "Galion",
-      "native": "Galleon",
+      "native": "Galion",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4105,7 +4105,7 @@
     },
     {
       "id": 141337,
-      "name": "Galípolis",
+      "name": "Gallipolis",
       "name_default": "Gallipolis",
       "native": "Gallipolis",
       "type": "city",
@@ -4195,7 +4195,7 @@
     },
     {
       "id": 141343,
-      "name": "Genebra",
+      "name": "Geneva",
       "name_default": "Geneva",
       "native": "Geneva",
       "type": "city",
@@ -4213,7 +4213,7 @@
     },
     {
       "id": 141344,
-      "name": "Genebra-no-Lago",
+      "name": "Geneva-on-the-Lake",
       "name_default": "Geneva-on-the-Lake",
       "native": "Geneva-on-the-Lake",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 141345,
-      "name": "Gênova",
+      "name": "Genoa",
       "name_default": "Genoa",
       "native": "Genoa",
       "type": "city",
@@ -4413,7 +4413,7 @@
       "id": 141355,
       "name": "Gnadenhutten",
       "name_default": "Gnadenhutten",
-      "native": "Mercy",
+      "native": "Gnadenhutten",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4429,7 +4429,7 @@
     },
     {
       "id": 141356,
-      "name": "Mansão de golfe",
+      "name": "Golf Manor",
       "name_default": "Golf Manor",
       "native": "Golf Manor",
       "type": "city",
@@ -4447,7 +4447,7 @@
     },
     {
       "id": 141357,
-      "name": "Gósen",
+      "name": "Goshen",
       "name_default": "Goshen",
       "native": "Goshen",
       "type": "city",
@@ -4537,7 +4537,7 @@
     },
     {
       "id": 141362,
-      "name": "Granville Sul",
+      "name": "Granville South",
       "name_default": "Granville South",
       "native": "Granville South",
       "type": "city",
@@ -4555,7 +4555,7 @@
     },
     {
       "id": 141363,
-      "name": "Verde",
+      "name": "Green",
       "name_default": "Green",
       "native": "Green",
       "type": "city",
@@ -4573,7 +4573,7 @@
     },
     {
       "id": 141364,
-      "name": "Prados Verdes",
+      "name": "Green Meadows",
       "name_default": "Green Meadows",
       "native": "Green Meadows",
       "type": "city",
@@ -4609,7 +4609,7 @@
     },
     {
       "id": 141367,
-      "name": "Campo Verde",
+      "name": "Greenfield",
       "name_default": "Greenfield",
       "native": "Greenfield",
       "type": "city",
@@ -4627,7 +4627,7 @@
     },
     {
       "id": 141368,
-      "name": "Colinas Verdes",
+      "name": "Greenhills",
       "name_default": "Greenhills",
       "native": "Greenhills",
       "type": "city",
@@ -4663,7 +4663,7 @@
     },
     {
       "id": 141370,
-      "name": "Cidade Verde",
+      "name": "Greentown",
       "name_default": "Greentown",
       "native": "Greentown",
       "type": "city",
@@ -4735,7 +4735,7 @@
     },
     {
       "id": 141374,
-      "name": "Cidade Grove",
+      "name": "Grove City",
       "name_default": "Grove City",
       "native": "Grove City",
       "type": "city",
@@ -4807,7 +4807,7 @@
     },
     {
       "id": 141381,
-      "name": "Colinas do Porto",
+      "name": "Harbor Hills",
       "name_default": "Harbor Hills",
       "native": "Harbor Hills",
       "type": "city",
@@ -4879,7 +4879,7 @@
     },
     {
       "id": 141387,
-      "name": "Charneca",
+      "name": "Heath",
       "name_default": "Heath",
       "native": "Heath",
       "type": "city",
@@ -4933,7 +4933,7 @@
     },
     {
       "id": 141392,
-      "name": "Alturas das Terras Altas",
+      "name": "Highland Heights",
       "name_default": "Highland Heights",
       "native": "Highland Heights",
       "type": "city",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 141393,
-      "name": "Ponto alto",
+      "name": "Highpoint",
       "name_default": "Highpoint",
       "native": "Highpoint",
       "type": "city",
@@ -5041,7 +5041,7 @@
     },
     {
       "id": 141399,
-      "name": "Vale de Férias",
+      "name": "Holiday Valley",
       "name_default": "Holiday Valley",
       "native": "Holiday Valley",
       "type": "city",
@@ -5059,7 +5059,7 @@
     },
     {
       "id": 141400,
-      "name": "Holanda",
+      "name": "Holland",
       "name_default": "Holland",
       "native": "Holland",
       "type": "city",
@@ -5095,7 +5095,7 @@
     },
     {
       "id": 141403,
-      "name": "Centro Howland",
+      "name": "Howland Center",
       "name_default": "Howland Center",
       "native": "Howland Center",
       "type": "city",
@@ -5131,7 +5131,7 @@
     },
     {
       "id": 141405,
-      "name": "Alturas de Huber",
+      "name": "Huber Heights",
       "name_default": "Huber Heights",
       "native": "Huber Heights",
       "type": "city",
@@ -5185,7 +5185,7 @@
     },
     {
       "id": 141408,
-      "name": "Caçador",
+      "name": "Hunter",
       "name_default": "Hunter",
       "native": "Hunter",
       "type": "city",
@@ -5221,7 +5221,7 @@
     },
     {
       "id": 141411,
-      "name": "Independência",
+      "name": "Independence",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -5275,7 +5275,7 @@
     },
     {
       "id": 141414,
-      "name": "Centro Jackson",
+      "name": "Jackson Center",
       "name_default": "Jackson Center",
       "native": "Jackson Center",
       "type": "city",
@@ -5367,7 +5367,7 @@
       "id": 141421,
       "name": "Kalida",
       "name_default": "Kalida",
-      "native": "Dictator",
+      "native": "Kalida",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5455,7 +5455,7 @@
     },
     {
       "id": 141426,
-      "name": "Moinhos do Rei",
+      "name": "Kings Mills",
       "name_default": "Kings Mills",
       "native": "Kings Mills",
       "type": "city",
@@ -5545,7 +5545,7 @@
     },
     {
       "id": 141433,
-      "name": "Lago Darby",
+      "name": "Lake Darby",
       "name_default": "Lake Darby",
       "native": "Lake Darby",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 141434,
-      "name": "Lago Lakengren",
+      "name": "Lake Lakengren",
       "name_default": "Lake Lakengren",
       "native": "Lake Lakengren",
       "type": "city",
@@ -5581,7 +5581,7 @@
     },
     {
       "id": 141435,
-      "name": "Lago Mohawk",
+      "name": "Lake Mohawk",
       "name_default": "Lake Mohawk",
       "native": "Lake Mohawk",
       "type": "city",
@@ -5617,7 +5617,7 @@
     },
     {
       "id": 141437,
-      "name": "Vista para o lago",
+      "name": "Lakeview",
       "name_default": "Lakeview",
       "native": "Lakeview",
       "type": "city",
@@ -5671,9 +5671,9 @@
     },
     {
       "id": 141440,
-      "name": "Terras",
+      "name": "Landen",
       "name_default": "Landen",
-      "native": "To land",
+      "native": "Landen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5707,7 +5707,7 @@
     },
     {
       "id": 141443,
-      "name": "Líbano",
+      "name": "Lebanon",
       "name_default": "Lebanon",
       "native": "Lebanon",
       "type": "city",
@@ -5743,9 +5743,9 @@
     },
     {
       "id": 141445,
-      "name": "Leetônia",
+      "name": "Leetonia",
       "name_default": "Leetonia",
-      "native": "Testing",
+      "native": "Leetonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5761,7 +5761,7 @@
     },
     {
       "id": 141446,
-      "name": "Leipzig",
+      "name": "Leipsic",
       "name_default": "Leipsic",
       "native": "Leipsic",
       "type": "city",
@@ -5779,7 +5779,7 @@
     },
     {
       "id": 141447,
-      "name": "Centro Lewis",
+      "name": "Lewis Center",
       "name_default": "Lewis Center",
       "native": "Lewis Center",
       "type": "city",
@@ -5833,7 +5833,7 @@
     },
     {
       "id": 141450,
-      "name": "Centro da Liberdade",
+      "name": "Liberty Center",
       "name_default": "Liberty Center",
       "native": "Liberty Center",
       "type": "city",
@@ -5887,7 +5887,7 @@
     },
     {
       "id": 141454,
-      "name": "Vila Lincoln",
+      "name": "Lincoln Village",
       "name_default": "Lincoln Village",
       "native": "Lincoln Village",
       "type": "city",
@@ -5905,7 +5905,7 @@
     },
     {
       "id": 141455,
-      "name": "Lisboa",
+      "name": "Lisbon",
       "name_default": "Lisbon",
       "native": "Lisbon",
       "type": "city",
@@ -5923,7 +5923,7 @@
     },
     {
       "id": 141456,
-      "name": "Litópolis",
+      "name": "Lithopolis",
       "name_default": "Lithopolis",
       "native": "Lithopolis",
       "type": "city",
@@ -5995,7 +5995,7 @@
     },
     {
       "id": 141461,
-      "name": "Vila Logan Elm",
+      "name": "Logan Elm Village",
       "name_default": "Logan Elm Village",
       "native": "Logan Elm Village",
       "type": "city",
@@ -6013,7 +6013,7 @@
     },
     {
       "id": 141462,
-      "name": "Londres",
+      "name": "London",
       "name_default": "London",
       "native": "London",
       "type": "city",
@@ -6103,7 +6103,7 @@
     },
     {
       "id": 141468,
-      "name": "Terra do Amor",
+      "name": "Loveland",
       "name_default": "Loveland",
       "native": "Loveland",
       "type": "city",
@@ -6121,7 +6121,7 @@
     },
     {
       "id": 141469,
-      "name": "Parque Loveland",
+      "name": "Loveland Park",
       "name_default": "Loveland Park",
       "native": "Loveland Park",
       "type": "city",
@@ -6175,7 +6175,7 @@
     },
     {
       "id": 141473,
-      "name": "Sorte",
+      "name": "Luckey",
       "name_default": "Luckey",
       "native": "Luckey",
       "type": "city",
@@ -6229,7 +6229,7 @@
     },
     {
       "id": 141476,
-      "name": "Macedônia",
+      "name": "Macedonia",
       "name_default": "Macedonia",
       "native": "Macedonia",
       "type": "city",
@@ -6355,7 +6355,7 @@
     },
     {
       "id": 141485,
-      "name": "Mântua",
+      "name": "Mantua",
       "name_default": "Mantua",
       "native": "Mantua",
       "type": "city",
@@ -6373,7 +6373,7 @@
     },
     {
       "id": 141486,
-      "name": "Alturas de Maple",
+      "name": "Maple Heights",
       "name_default": "Maple Heights",
       "native": "Maple Heights",
       "type": "city",
@@ -6409,7 +6409,7 @@
     },
     {
       "id": 141488,
-      "name": "Marieta",
+      "name": "Marietta",
       "name_default": "Marietta",
       "native": "Marietta",
       "type": "city",
@@ -6445,7 +6445,7 @@
     },
     {
       "id": 141491,
-      "name": "Balsa de Martins",
+      "name": "Martins Ferry",
       "name_default": "Martins Ferry",
       "native": "Martins Ferry",
       "type": "city",
@@ -6481,7 +6481,7 @@
     },
     {
       "id": 141493,
-      "name": "Pedreiro",
+      "name": "Mason",
       "name_default": "Mason",
       "native": "Mason",
       "type": "city",
@@ -6517,7 +6517,7 @@
     },
     {
       "id": 141495,
-      "name": "Masúria",
+      "name": "Masury",
       "name_default": "Masury",
       "native": "Masury",
       "type": "city",
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 141498,
-      "name": "Alturas de Mayfield",
+      "name": "Mayfield Heights",
       "name_default": "Mayfield Heights",
       "native": "Mayfield Heights",
       "type": "city",
@@ -6661,7 +6661,7 @@
     },
     {
       "id": 141503,
-      "name": "Alturas de McKinley",
+      "name": "McKinley Heights",
       "name_default": "McKinley Heights",
       "native": "McKinley Heights",
       "type": "city",
@@ -6733,7 +6733,7 @@
     },
     {
       "id": 141509,
-      "name": "Mentor-no-Lago",
+      "name": "Mentor-on-the-Lake",
       "name_default": "Mentor-on-the-Lake",
       "native": "Mentor-on-the-Lake",
       "type": "city",
@@ -6751,7 +6751,7 @@
     },
     {
       "id": 141512,
-      "name": "Alturas de Miami",
+      "name": "Miami Heights",
       "name_default": "Miami Heights",
       "native": "Miami Heights",
       "type": "city",
@@ -6805,7 +6805,7 @@
     },
     {
       "id": 141515,
-      "name": "Alturas de Middleburg",
+      "name": "Middleburg Heights",
       "name_default": "Middleburg Heights",
       "native": "Middleburg Heights",
       "type": "city",
@@ -6823,7 +6823,7 @@
     },
     {
       "id": 141516,
-      "name": "Meio-campo",
+      "name": "Middlefield",
       "name_default": "Middlefield",
       "native": "Middlefield",
       "type": "city",
@@ -6877,7 +6877,7 @@
     },
     {
       "id": 141519,
-      "name": "Milão",
+      "name": "Milan",
       "name_default": "Milan",
       "native": "Milan",
       "type": "city",
@@ -6967,7 +6967,7 @@
     },
     {
       "id": 141524,
-      "name": "Cume Mineral",
+      "name": "Mineral Ridge",
       "name_default": "Mineral Ridge",
       "native": "Mineral Ridge",
       "type": "city",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": 141526,
-      "name": "Parque Minerva",
+      "name": "Minerva Park",
       "name_default": "Minerva Park",
       "native": "Minerva Park",
       "type": "city",
@@ -7021,7 +7021,7 @@
     },
     {
       "id": 141527,
-      "name": "Junção Mingo",
+      "name": "Mingo Junction",
       "name_default": "Mingo Junction",
       "native": "Mingo Junction",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 141528,
-      "name": "Catedral",
+      "name": "Minster",
       "name_default": "Minster",
       "native": "Minster",
       "type": "city",
@@ -7075,7 +7075,7 @@
     },
     {
       "id": 141530,
-      "name": "Alturas de Monfort",
+      "name": "Monfort Heights",
       "name_default": "Monfort Heights",
       "native": "Monfort Heights",
       "type": "city",
@@ -7183,7 +7183,7 @@
     },
     {
       "id": 141538,
-      "name": "Morena",
+      "name": "Moraine",
       "name_default": "Moraine",
       "native": "Moraine",
       "type": "city",
@@ -7201,7 +7201,7 @@
     },
     {
       "id": 141539,
-      "name": "Colinas Moreland",
+      "name": "Moreland Hills",
       "name_default": "Moreland Hills",
       "native": "Moreland Hills",
       "type": "city",
@@ -7237,7 +7237,7 @@
     },
     {
       "id": 141542,
-      "name": "Amanhã",
+      "name": "Morrow",
       "name_default": "Morrow",
       "native": "Morrow",
       "type": "city",
@@ -7255,7 +7255,7 @@
     },
     {
       "id": 141544,
-      "name": "Monte Carmelo",
+      "name": "Mount Carmel",
       "name_default": "Mount Carmel",
       "native": "Mount Carmel",
       "type": "city",
@@ -7273,7 +7273,7 @@
     },
     {
       "id": 141545,
-      "name": "Monte Gileade",
+      "name": "Mount Gilead",
       "name_default": "Mount Gilead",
       "native": "Mount Gilead",
       "type": "city",
@@ -7291,7 +7291,7 @@
     },
     {
       "id": 141546,
-      "name": "Monte Saudável",
+      "name": "Mount Healthy",
       "name_default": "Mount Healthy",
       "native": "Mount Healthy",
       "type": "city",
@@ -7309,7 +7309,7 @@
     },
     {
       "id": 141547,
-      "name": "Monte Healthy Heights",
+      "name": "Mount Healthy Heights",
       "name_default": "Mount Healthy Heights",
       "native": "Mount Healthy Heights",
       "type": "city",
@@ -7327,7 +7327,7 @@
     },
     {
       "id": 141548,
-      "name": "Monte Orab",
+      "name": "Mount Orab",
       "name_default": "Mount Orab",
       "native": "Mount Orab",
       "type": "city",
@@ -7345,7 +7345,7 @@
     },
     {
       "id": 141549,
-      "name": "Monte Repouso",
+      "name": "Mount Repose",
       "name_default": "Mount Repose",
       "native": "Mount Repose",
       "type": "city",
@@ -7363,7 +7363,7 @@
     },
     {
       "id": 141550,
-      "name": "Monte Sterling",
+      "name": "Mount Sterling",
       "name_default": "Mount Sterling",
       "native": "Mount Sterling",
       "type": "city",
@@ -7381,7 +7381,7 @@
     },
     {
       "id": 141551,
-      "name": "Monte Vernon",
+      "name": "Mount Vernon",
       "name_default": "Mount Vernon",
       "native": "Mount Vernon",
       "type": "city",
@@ -7399,7 +7399,7 @@
     },
     {
       "id": 141552,
-      "name": "Amoreira",
+      "name": "Mulberry",
       "name_default": "Mulberry",
       "native": "Mulberry",
       "type": "city",
@@ -7417,7 +7417,7 @@
     },
     {
       "id": 141553,
-      "name": "Cataratas de Munroe",
+      "name": "Munroe Falls",
       "name_default": "Munroe Falls",
       "native": "Munroe Falls",
       "type": "city",
@@ -7435,7 +7435,7 @@
     },
     {
       "id": 141555,
-      "name": "Napoleão",
+      "name": "Napoleon",
       "name_default": "Napoleon",
       "native": "Napoleon",
       "type": "city",
@@ -7453,7 +7453,7 @@
     },
     {
       "id": 141556,
-      "name": "Navarra",
+      "name": "Navarre",
       "name_default": "Navarre",
       "native": "Navarre",
       "type": "city",
@@ -7489,7 +7489,7 @@
     },
     {
       "id": 141558,
-      "name": "Nova Albany",
+      "name": "New Albany",
       "name_default": "New Albany",
       "native": "New Albany",
       "type": "city",
@@ -7507,7 +7507,7 @@
     },
     {
       "id": 141559,
-      "name": "Nova Boston",
+      "name": "New Boston",
       "name_default": "New Boston",
       "native": "New Boston",
       "type": "city",
@@ -7525,7 +7525,7 @@
     },
     {
       "id": 141560,
-      "name": "Nova Bremen",
+      "name": "New Bremen",
       "name_default": "New Bremen",
       "native": "New Bremen",
       "type": "city",
@@ -7543,7 +7543,7 @@
     },
     {
       "id": 141561,
-      "name": "Nova Burlington",
+      "name": "New Burlington",
       "name_default": "New Burlington",
       "native": "New Burlington",
       "type": "city",
@@ -7561,7 +7561,7 @@
     },
     {
       "id": 141562,
-      "name": "Nova Califórnia",
+      "name": "New California",
       "name_default": "New California",
       "native": "New California",
       "type": "city",
@@ -7579,7 +7579,7 @@
     },
     {
       "id": 141563,
-      "name": "Nova Carlisle",
+      "name": "New Carlisle",
       "name_default": "New Carlisle",
       "native": "New Carlisle",
       "type": "city",
@@ -7597,7 +7597,7 @@
     },
     {
       "id": 141564,
-      "name": "Nova Concord",
+      "name": "New Concord",
       "name_default": "New Concord",
       "native": "New Concord",
       "type": "city",
@@ -7615,7 +7615,7 @@
     },
     {
       "id": 141565,
-      "name": "Novo Franklin",
+      "name": "New Franklin",
       "name_default": "New Franklin",
       "native": "New Franklin",
       "type": "city",
@@ -7633,7 +7633,7 @@
     },
     {
       "id": 141566,
-      "name": "Novo Líbano",
+      "name": "New Lebanon",
       "name_default": "New Lebanon",
       "native": "New Lebanon",
       "type": "city",
@@ -7651,7 +7651,7 @@
     },
     {
       "id": 141567,
-      "name": "Nova Lexington",
+      "name": "New Lexington",
       "name_default": "New Lexington",
       "native": "New Lexington",
       "type": "city",
@@ -7669,7 +7669,7 @@
     },
     {
       "id": 141568,
-      "name": "Nova Londres",
+      "name": "New London",
       "name_default": "New London",
       "native": "New London",
       "type": "city",
@@ -7687,7 +7687,7 @@
     },
     {
       "id": 141569,
-      "name": "Novas Matamoras",
+      "name": "New Matamoras",
       "name_default": "New Matamoras",
       "native": "New MataMoras",
       "type": "city",
@@ -7705,7 +7705,7 @@
     },
     {
       "id": 141570,
-      "name": "Nova Miami",
+      "name": "New Miami",
       "name_default": "New Miami",
       "native": "New Miami",
       "type": "city",
@@ -7723,7 +7723,7 @@
     },
     {
       "id": 141571,
-      "name": "Nova Middletown",
+      "name": "New Middletown",
       "name_default": "New Middletown",
       "native": "New Middletown",
       "type": "city",
@@ -7741,7 +7741,7 @@
     },
     {
       "id": 141572,
-      "name": "Nova Paris",
+      "name": "New Paris",
       "name_default": "New Paris",
       "native": "New Paris",
       "type": "city",
@@ -7759,7 +7759,7 @@
     },
     {
       "id": 141573,
-      "name": "Nova Filadélfia",
+      "name": "New Philadelphia",
       "name_default": "New Philadelphia",
       "native": "New Philadelphia",
       "type": "city",
@@ -7777,7 +7777,7 @@
     },
     {
       "id": 141574,
-      "name": "Novo Richmond",
+      "name": "New Richmond",
       "name_default": "New Richmond",
       "native": "New Richmond",
       "type": "city",
@@ -7795,7 +7795,7 @@
     },
     {
       "id": 141575,
-      "name": "Nova Viena",
+      "name": "New Vienna",
       "name_default": "New Vienna",
       "native": "New Vienna",
       "type": "city",
@@ -7813,7 +7813,7 @@
     },
     {
       "id": 141576,
-      "name": "Nova Waterford",
+      "name": "New Waterford",
       "name_default": "New Waterford",
       "native": "New Waterford",
       "type": "city",
@@ -7867,7 +7867,7 @@
     },
     {
       "id": 141579,
-      "name": "Cidade dos recém-chegados",
+      "name": "Newcomerstown",
       "name_default": "Newcomerstown",
       "native": "Newcomerstown",
       "type": "city",
@@ -7921,7 +7921,7 @@
     },
     {
       "id": 141582,
-      "name": "Nova cidade",
+      "name": "Newtown",
       "name_default": "Newtown",
       "native": "Newtown",
       "type": "city",
@@ -7957,7 +7957,7 @@
     },
     {
       "id": 141585,
-      "name": "Norte de Baltimore",
+      "name": "North Baltimore",
       "name_default": "North Baltimore",
       "native": "North Baltimore",
       "type": "city",
@@ -7975,7 +7975,7 @@
     },
     {
       "id": 141586,
-      "name": "Cantão do Norte",
+      "name": "North Canton",
       "name_default": "North Canton",
       "native": "North Canton",
       "type": "city",
@@ -7993,7 +7993,7 @@
     },
     {
       "id": 141587,
-      "name": "Colina do Colégio Norte",
+      "name": "North College Hill",
       "name_default": "North College Hill",
       "native": "North College Hill",
       "type": "city",
@@ -8011,7 +8011,7 @@
     },
     {
       "id": 141588,
-      "name": "Vila North Fork",
+      "name": "North Fork Village",
       "name_default": "North Fork Village",
       "native": "North Fork Village",
       "type": "city",
@@ -8029,7 +8029,7 @@
     },
     {
       "id": 141589,
-      "name": "Norte de Kingsville",
+      "name": "North Kingsville",
       "name_default": "North Kingsville",
       "native": "North Kingsville",
       "type": "city",
@@ -8047,7 +8047,7 @@
     },
     {
       "id": 141590,
-      "name": "Norte de Lewisburg",
+      "name": "North Lewisburg",
       "name_default": "North Lewisburg",
       "native": "North Lewisburg",
       "type": "city",
@@ -8065,7 +8065,7 @@
     },
     {
       "id": 141591,
-      "name": "Madison do Norte",
+      "name": "North Madison",
       "name_default": "North Madison",
       "native": "North Madison",
       "type": "city",
@@ -8083,7 +8083,7 @@
     },
     {
       "id": 141592,
-      "name": "Olmsted Norte",
+      "name": "North Olmsted",
       "name_default": "North Olmsted",
       "native": "North Olmsted",
       "type": "city",
@@ -8101,7 +8101,7 @@
     },
     {
       "id": 141593,
-      "name": "Randall do Norte",
+      "name": "North Randall",
       "name_default": "North Randall",
       "native": "North Randall",
       "type": "city",
@@ -8119,7 +8119,7 @@
     },
     {
       "id": 141594,
-      "name": "Ridgeville Norte",
+      "name": "North Ridgeville",
       "name_default": "North Ridgeville",
       "native": "North Ridgeville",
       "type": "city",
@@ -8155,7 +8155,7 @@
     },
     {
       "id": 141596,
-      "name": "Zanesville do Norte",
+      "name": "North Zanesville",
       "name_default": "North Zanesville",
       "native": "North Zanesville",
       "type": "city",
@@ -8209,7 +8209,7 @@
     },
     {
       "id": 141599,
-      "name": "Portão Norte",
+      "name": "Northgate",
       "name_default": "Northgate",
       "native": "Northgate",
       "type": "city",
@@ -8353,7 +8353,7 @@
     },
     {
       "id": 141607,
-      "name": "Madeira de carvalho",
+      "name": "Oakwood",
       "name_default": "Oakwood",
       "native": "Oakwood",
       "type": "city",
@@ -8407,7 +8407,7 @@
     },
     {
       "id": 141610,
-      "name": "Cataratas de Olmsted",
+      "name": "Olmsted Falls",
       "name_default": "Olmsted Falls",
       "native": "Olmsted Falls",
       "type": "city",
@@ -8425,7 +8425,7 @@
     },
     {
       "id": 141611,
-      "name": "Ontário",
+      "name": "Ontario",
       "name_default": "Ontario",
       "native": "Ontario",
       "type": "city",
@@ -8443,7 +8443,7 @@
     },
     {
       "id": 141612,
-      "name": "Laranja",
+      "name": "Orange",
       "name_default": "Orange",
       "native": "Orange",
       "type": "city",
@@ -8533,7 +8533,7 @@
     },
     {
       "id": 141618,
-      "name": "Colinas de Ottawa",
+      "name": "Ottawa Hills",
       "name_default": "Ottawa Hills",
       "native": "Ottawa Hills",
       "type": "city",
@@ -8605,7 +8605,7 @@
     },
     {
       "id": 141622,
-      "name": "Parque Layne",
+      "name": "Park Layne",
       "name_default": "Park Layne",
       "native": "Park Layne",
       "type": "city",
@@ -8661,7 +8661,7 @@
       "id": 141625,
       "name": "Pataskala",
       "name_default": "Pataskala",
-      "native": "Patasal",
+      "native": "Pataskala",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -8749,7 +8749,7 @@
     },
     {
       "id": 141631,
-      "name": "Lúcio-pimenta",
+      "name": "Pepper Pike",
       "name_default": "Pepper Pike",
       "native": "Pepper Pike",
       "type": "city",
@@ -8767,7 +8767,7 @@
     },
     {
       "id": 141632,
-      "name": "Perada",
+      "name": "Perry",
       "name_default": "Perry",
       "native": "Perry",
       "type": "city",
@@ -8857,7 +8857,7 @@
     },
     {
       "id": 141640,
-      "name": "Pioneiro",
+      "name": "Pioneer",
       "name_default": "Pioneer",
       "native": "Pioneer",
       "type": "city",
@@ -8893,7 +8893,7 @@
     },
     {
       "id": 141642,
-      "name": "Cidade Simples",
+      "name": "Plain City",
       "name_default": "Plain City",
       "native": "Plain City",
       "type": "city",
@@ -8911,7 +8911,7 @@
     },
     {
       "id": 141643,
-      "name": "Bosque Agradável",
+      "name": "Pleasant Grove",
       "name_default": "Pleasant Grove",
       "native": "Pleasant Grove",
       "type": "city",
@@ -8947,7 +8947,7 @@
     },
     {
       "id": 141645,
-      "name": "Corrida Agradável",
+      "name": "Pleasant Run",
       "name_default": "Pleasant Run",
       "native": "Pleasant Run",
       "type": "city",
@@ -8965,7 +8965,7 @@
     },
     {
       "id": 141646,
-      "name": "Fazenda Pleasant Run",
+      "name": "Pleasant Run Farm",
       "name_default": "Pleasant Run Farm",
       "native": "Pleasant Run Farm",
       "type": "city",
@@ -9001,7 +9001,7 @@
     },
     {
       "id": 141648,
-      "name": "Polônia",
+      "name": "Poland",
       "name_default": "Poland",
       "native": "Poland",
       "type": "city",
@@ -9037,7 +9037,7 @@
     },
     {
       "id": 141650,
-      "name": "Porto Clinton",
+      "name": "Port Clinton",
       "name_default": "Port Clinton",
       "native": "Port Clinton",
       "type": "city",
@@ -9055,7 +9055,7 @@
     },
     {
       "id": 141652,
-      "name": "Lagos Portage",
+      "name": "Portage Lakes",
       "name_default": "Portage Lakes",
       "native": "Portage Lakes",
       "type": "city",
@@ -9109,7 +9109,7 @@
     },
     {
       "id": 141655,
-      "name": "Ponto Powhatan",
+      "name": "Powhatan Point",
       "name_default": "Powhatan Point",
       "native": "Powhatan Point",
       "type": "city",
@@ -9145,7 +9145,7 @@
     },
     {
       "id": 141659,
-      "name": "Ravena",
+      "name": "Ravenna",
       "name_default": "Ravenna",
       "native": "Ravenna",
       "type": "city",
@@ -9163,7 +9163,7 @@
     },
     {
       "id": 141660,
-      "name": "Leitura",
+      "name": "Reading",
       "name_default": "Reading",
       "native": "Reading",
       "type": "city",
@@ -9181,7 +9181,7 @@
     },
     {
       "id": 141661,
-      "name": "Lembreteville",
+      "name": "Reminderville",
       "name_default": "Reminderville",
       "native": "Reminderville",
       "type": "city",
@@ -9343,7 +9343,7 @@
     },
     {
       "id": 141671,
-      "name": "Beira-rio",
+      "name": "Riverside",
       "name_default": "Riverside",
       "native": "Riverside",
       "type": "city",
@@ -9361,7 +9361,7 @@
     },
     {
       "id": 141672,
-      "name": "Praias itinerantes",
+      "name": "Roaming Shores",
       "name_default": "Roaming Shores",
       "native": "Roaming Shores",
       "type": "city",
@@ -9397,7 +9397,7 @@
     },
     {
       "id": 141674,
-      "name": "Rio Rochoso",
+      "name": "Rocky River",
       "name_default": "Rocky River",
       "native": "Rocky River",
       "type": "city",
@@ -9541,7 +9541,7 @@
     },
     {
       "id": 141683,
-      "name": "São Bernardo",
+      "name": "St. Bernard",
       "name_default": "Saint Bernard",
       "native": "Saint Bernard",
       "type": "city",
@@ -9559,9 +9559,9 @@
     },
     {
       "id": 141684,
-      "name": "Saint Clairsville",
+      "name": "St. Clairsville",
       "name_default": "Saint Clairsville",
-      "native": "Saint Luirsville",
+      "native": "Saint Clairsville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -9577,7 +9577,7 @@
     },
     {
       "id": 141685,
-      "name": "Santo Henrique",
+      "name": "St. Henry",
       "name_default": "Saint Henry",
       "native": "Saint Henry",
       "type": "city",
@@ -9595,7 +9595,7 @@
     },
     {
       "id": 141686,
-      "name": "Santas Marias",
+      "name": "St. Marys",
       "name_default": "Saint Marys",
       "native": "Saint Marys",
       "type": "city",
@@ -9613,7 +9613,7 @@
     },
     {
       "id": 141687,
-      "name": "São Paris",
+      "name": "St. Paris",
       "name_default": "Saint Paris",
       "native": "Saint paris",
       "type": "city",
@@ -9631,7 +9631,7 @@
     },
     {
       "id": 141688,
-      "name": "Salém",
+      "name": "Salem",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -9649,7 +9649,7 @@
     },
     {
       "id": 141689,
-      "name": "Alturas de Salem",
+      "name": "Salem Heights",
       "name_default": "Salem Heights",
       "native": "Salem Heights",
       "type": "city",
@@ -9757,7 +9757,7 @@
     },
     {
       "id": 141698,
-      "name": "Sete Colinas",
+      "name": "Seven Hills",
       "name_default": "Seven Hills",
       "native": "Seven Hills",
       "type": "city",
@@ -9775,7 +9775,7 @@
     },
     {
       "id": 141699,
-      "name": "Sevilha",
+      "name": "Seville",
       "name_default": "Seville",
       "native": "Seville",
       "type": "city",
@@ -9793,7 +9793,7 @@
     },
     {
       "id": 141700,
-      "name": "Lado sombrio",
+      "name": "Shadyside",
       "name_default": "Shadyside",
       "native": "Shadyside",
       "type": "city",
@@ -9811,7 +9811,7 @@
     },
     {
       "id": 141701,
-      "name": "Alturas de Shaker",
+      "name": "Shaker Heights",
       "name_default": "Shaker Heights",
       "native": "Shaker Heights",
       "type": "city",
@@ -9847,7 +9847,7 @@
     },
     {
       "id": 141703,
-      "name": "Colinas Shawnee",
+      "name": "Shawnee Hills",
       "name_default": "Shawnee Hills",
       "native": "Shawnee Hills",
       "type": "city",
@@ -9883,7 +9883,7 @@
     },
     {
       "id": 141705,
-      "name": "Lago Sheffield",
+      "name": "Sheffield Lake",
       "name_default": "Sheffield Lake",
       "native": "Sheffield Lake",
       "type": "city",
@@ -9937,7 +9937,7 @@
     },
     {
       "id": 141709,
-      "name": "Siló",
+      "name": "Shiloh",
       "name_default": "Shiloh",
       "native": "Shiloh",
       "type": "city",
@@ -9991,7 +9991,7 @@
     },
     {
       "id": 141712,
-      "name": "Lago de Prata",
+      "name": "Silver Lake",
       "name_default": "Silver Lake",
       "native": "Silver Lake",
       "type": "city",
@@ -10027,7 +10027,7 @@
     },
     {
       "id": 141714,
-      "name": "Dezesseis milhas de suporte",
+      "name": "Sixteen Mile Stand",
       "name_default": "Sixteen Mile Stand",
       "native": "Sixteen Mile Stand",
       "type": "city",
@@ -10081,7 +10081,7 @@
     },
     {
       "id": 141717,
-      "name": "Sólon",
+      "name": "Solon",
       "name_default": "Solon",
       "native": "Solon",
       "type": "city",
@@ -10117,7 +10117,7 @@
     },
     {
       "id": 141719,
-      "name": "Amherst do Sul",
+      "name": "South Amherst",
       "name_default": "South Amherst",
       "native": "South Amherst",
       "type": "city",
@@ -10135,7 +10135,7 @@
     },
     {
       "id": 141720,
-      "name": "Bloomfield Sul",
+      "name": "South Bloomfield",
       "name_default": "South Bloomfield",
       "native": "South Bloomfield",
       "type": "city",
@@ -10153,7 +10153,7 @@
     },
     {
       "id": 141721,
-      "name": "Canal Sul",
+      "name": "South Canal",
       "name_default": "South Canal",
       "native": "South Canal",
       "type": "city",
@@ -10171,7 +10171,7 @@
     },
     {
       "id": 141722,
-      "name": "Charleston do Sul",
+      "name": "South Charleston",
       "name_default": "South Charleston",
       "native": "South Charleston",
       "type": "city",
@@ -10189,7 +10189,7 @@
     },
     {
       "id": 141723,
-      "name": "Euclides do Sul",
+      "name": "South Euclid",
       "name_default": "South Euclid",
       "native": "South Euclid",
       "type": "city",
@@ -10207,7 +10207,7 @@
     },
     {
       "id": 141724,
-      "name": "Sul do Líbano",
+      "name": "South Lebanon",
       "name_default": "South Lebanon",
       "native": "South Lebanon",
       "type": "city",
@@ -10225,7 +10225,7 @@
     },
     {
       "id": 141725,
-      "name": "Ponto Sul",
+      "name": "South Point",
       "name_default": "South Point",
       "native": "South Point",
       "type": "city",
@@ -10243,7 +10243,7 @@
     },
     {
       "id": 141726,
-      "name": "Russell do Sul",
+      "name": "South Russell",
       "name_default": "South Russell",
       "native": "South Russell",
       "type": "city",
@@ -10261,7 +10261,7 @@
     },
     {
       "id": 141727,
-      "name": "Zanesville do Sul",
+      "name": "South Zanesville",
       "name_default": "South Zanesville",
       "native": "South Zanesville",
       "type": "city",
@@ -10369,7 +10369,7 @@
     },
     {
       "id": 141734,
-      "name": "Pradaria Pedregosa",
+      "name": "Stony Prairie",
       "name_default": "Stony Prairie",
       "native": "Stony Prairie",
       "type": "city",
@@ -10387,7 +10387,7 @@
     },
     {
       "id": 141735,
-      "name": "Arrumar",
+      "name": "Stow",
       "name_default": "Stow",
       "native": "Stow",
       "type": "city",
@@ -10405,7 +10405,7 @@
     },
     {
       "id": 141736,
-      "name": "Estrasburgo",
+      "name": "Strasburg",
       "name_default": "Strasburg",
       "native": "Strasburg",
       "type": "city",
@@ -10495,7 +10495,7 @@
     },
     {
       "id": 141741,
-      "name": "Riacho Açucarado",
+      "name": "Sugarcreek",
       "name_default": "Sugarcreek",
       "native": "Sugarcreek",
       "type": "city",
@@ -10513,7 +10513,7 @@
     },
     {
       "id": 141742,
-      "name": "Departamento de Polícia de Sugarcreek",
+      "name": "Sugarcreek Police Dept",
       "name_default": "Sugarcreek Police Dept",
       "native": "Sugarcreek Police Dept",
       "type": "locality",
@@ -10585,7 +10585,7 @@
     },
     {
       "id": 141747,
-      "name": "Silvânia",
+      "name": "Sylvania",
       "name_default": "Sylvania",
       "native": "Sylvania",
       "type": "city",
@@ -10621,7 +10621,7 @@
     },
     {
       "id": 141749,
-      "name": "Parque do Terraço",
+      "name": "Terrace Park",
       "name_default": "Terrace Park",
       "native": "Terrace Park",
       "type": "city",
@@ -10639,7 +10639,7 @@
     },
     {
       "id": 141750,
-      "name": "As Planícies",
+      "name": "The Plains",
       "name_default": "The Plains",
       "native": "The Plains",
       "type": "city",
@@ -10657,7 +10657,7 @@
     },
     {
       "id": 141751,
-      "name": "A Vila de Indian Hill",
+      "name": "The Village of Indian Hill",
       "name_default": "The Village of Indian Hill",
       "native": "The Village of Indian Hill",
       "type": "city",
@@ -10729,7 +10729,7 @@
     },
     {
       "id": 141755,
-      "name": "Cidade de Tipp",
+      "name": "Tipp City",
       "name_default": "Tipp City",
       "native": "Tipp City",
       "type": "city",
@@ -10819,7 +10819,7 @@
     },
     {
       "id": 141760,
-      "name": "Tróia",
+      "name": "Troy",
       "name_default": "Troy",
       "native": "Troy",
       "type": "city",
@@ -10837,7 +10837,7 @@
     },
     {
       "id": 141762,
-      "name": "Colinas Turpin",
+      "name": "Turpin Hills",
       "name_default": "Turpin Hills",
       "native": "Turpin Hills",
       "type": "city",
@@ -10909,7 +10909,7 @@
     },
     {
       "id": 141767,
-      "name": "União",
+      "name": "Union",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -10945,7 +10945,7 @@
     },
     {
       "id": 141771,
-      "name": "Alturas da Universidade",
+      "name": "University Heights",
       "name_default": "University Heights",
       "native": "University Heights",
       "type": "city",
@@ -10981,7 +10981,7 @@
     },
     {
       "id": 141773,
-      "name": "Sandusky Superior",
+      "name": "Upper Sandusky",
       "name_default": "Upper Sandusky",
       "native": "Upper Sandusky",
       "type": "city",
@@ -11053,7 +11053,7 @@
     },
     {
       "id": 141777,
-      "name": "Vista do Vale",
+      "name": "Valley View",
       "name_default": "Valley View",
       "native": "Valley View",
       "type": "city",
@@ -11073,7 +11073,7 @@
       "id": 141778,
       "name": "Van Wert",
       "name_default": "Van Wert",
-      "native": "Have wert",
+      "native": "Van Wert",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -11089,7 +11089,7 @@
     },
     {
       "id": 141780,
-      "name": "Vandália",
+      "name": "Vandalia",
       "name_default": "Vandalia",
       "native": "Vandalia",
       "type": "city",
@@ -11107,7 +11107,7 @@
     },
     {
       "id": 141781,
-      "name": "Vermelhão",
+      "name": "Vermilion",
       "name_default": "Vermilion",
       "native": "Vermilion",
       "type": "city",
@@ -11143,7 +11143,7 @@
     },
     {
       "id": 141783,
-      "name": "Versalhes",
+      "name": "Versailles",
       "name_default": "Versailles",
       "native": "Versailles",
       "type": "city",
@@ -11235,7 +11235,7 @@
       "id": 141789,
       "name": "Wapakoneta",
       "name_default": "Wapakoneta",
-      "native": "Hepieces",
+      "native": "Wapakoneta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -11253,7 +11253,7 @@
       "id": 141790,
       "name": "Warren",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -11287,7 +11287,7 @@
     },
     {
       "id": 141794,
-      "name": "Tribunal de Washington",
+      "name": "Washington",
       "name_default": "Washington Court House",
       "native": "Washington Court House",
       "type": "city",
@@ -11325,7 +11325,7 @@
       "id": 141796,
       "name": "Wauseon",
       "name_default": "Wauseon",
-      "native": "WOUNEON",
+      "native": "Wauseon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -11341,7 +11341,7 @@
     },
     {
       "id": 141797,
-      "name": "Waverly",
+      "name": "Waverly City",
       "name_default": "Waverly",
       "native": "Waverly",
       "type": "city",
@@ -11431,7 +11431,7 @@
     },
     {
       "id": 141803,
-      "name": "Alexandria Ocidental",
+      "name": "West Alexandria",
       "name_default": "West Alexandria",
       "native": "West Alexandria",
       "type": "city",
@@ -11449,7 +11449,7 @@
     },
     {
       "id": 141804,
-      "name": "Cidade de West Carrollton",
+      "name": "West Carrollton City",
       "name_default": "West Carrollton City",
       "native": "West Carrollton City",
       "type": "city",
@@ -11467,7 +11467,7 @@
     },
     {
       "id": 141805,
-      "name": "Colina Oeste",
+      "name": "West Hill",
       "name_default": "West Hill",
       "native": "West Hill",
       "type": "city",
@@ -11485,7 +11485,7 @@
     },
     {
       "id": 141806,
-      "name": "Oeste Jefferson",
+      "name": "West Jefferson",
       "name_default": "West Jefferson",
       "native": "West Jefferson",
       "type": "city",
@@ -11503,7 +11503,7 @@
     },
     {
       "id": 141807,
-      "name": "Oeste Lafayette",
+      "name": "West Lafayette",
       "name_default": "West Lafayette",
       "native": "West Lafayette",
       "type": "city",
@@ -11557,7 +11557,7 @@
     },
     {
       "id": 141810,
-      "name": "Portsmouth Ocidental",
+      "name": "West Portsmouth",
       "name_default": "West Portsmouth",
       "native": "West Portsmouth",
       "type": "city",
@@ -11593,7 +11593,7 @@
     },
     {
       "id": 141812,
-      "name": "União Ocidental",
+      "name": "West Union",
       "name_default": "West Union",
       "native": "West Union",
       "type": "city",
@@ -11611,7 +11611,7 @@
     },
     {
       "id": 141813,
-      "name": "Unidade Ocidental",
+      "name": "West Unity",
       "name_default": "West Unity",
       "native": "West Unity",
       "type": "city",
@@ -11665,7 +11665,7 @@
     },
     {
       "id": 141816,
-      "name": "Lago Oeste",
+      "name": "Westlake",
       "name_default": "Westlake",
       "native": "Westlake",
       "type": "city",
@@ -11737,7 +11737,7 @@
     },
     {
       "id": 141820,
-      "name": "Carvalho branco",
+      "name": "White Oak",
       "name_default": "White Oak",
       "native": "White Oak",
       "type": "city",
@@ -11773,7 +11773,7 @@
     },
     {
       "id": 141822,
-      "name": "Casa Branca",
+      "name": "Whitehouse",
       "name_default": "Whitehouse",
       "native": "Whitehouse",
       "type": "city",
@@ -11899,7 +11899,7 @@
     },
     {
       "id": 141830,
-      "name": "Colinas de Willoughby",
+      "name": "Willoughby Hills",
       "name_default": "Willoughby Hills",
       "native": "Willoughby Hills",
       "type": "city",
@@ -12133,7 +12133,7 @@
     },
     {
       "id": 141844,
-      "name": "Base Aérea Wright-Patterson",
+      "name": "Wright-Patterson AFB",
       "name_default": "Wright-Patterson AFB",
       "native": "Wright-Patterson AFB",
       "type": "city",
@@ -12169,7 +12169,7 @@
     },
     {
       "id": 141847,
-      "name": "Xênia",
+      "name": "Xenia",
       "name_default": "Xenia",
       "native": "Xenia",
       "type": "city",

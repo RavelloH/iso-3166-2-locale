@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "گررو نگرو",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "هاسیندا تکاته",
       "name_default": "Hacienda Tecate",
@@ -1072,7 +1054,7 @@
       "id": 73165,
       "name": "روموروسا",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1538,7 +1520,7 @@
     },
     {
       "id": 73164,
-      "name": "روزاریتو",
+      "name": "روساریتو بیچ",
       "name_default": "Rosarito",
       "native": "Rosarito",
       "type": "city",
@@ -1610,7 +1592,7 @@
     },
     {
       "id": 74421,
-      "name": "سن کوئینتین",
+      "name": "سان کوئنتین",
       "name_default": "San Quintín",
       "native": "San Quintín",
       "type": "city",
@@ -1700,7 +1682,7 @@
     },
     {
       "id": 75267,
-      "name": "تکات",
+      "name": "تکت",
       "name_default": "Tecate",
       "native": "Tecate",
       "type": "adm2",

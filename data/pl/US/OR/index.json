@@ -307,7 +307,7 @@
     },
     {
       "id": 111290,
-      "name": "Przyjaźń",
+      "name": "Amity",
       "name_default": "Amity",
       "native": "Amity",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 111572,
-      "name": "Atena",
+      "name": "Athena",
       "name_default": "Athena",
       "native": "Athena",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 111797,
-      "name": "Banki",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111923,
-      "name": "Miasto Zatoki",
+      "name": "Bay City",
       "name_default": "Bay City",
       "native": "Bay City",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 112166,
-      "name": "Schylać się",
+      "name": "Bend",
       "name_default": "Bend",
       "native": "Bend",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 112489,
-      "name": "Członek zarządu",
+      "name": "Boardman",
       "name_default": "Boardman",
       "native": "Boardman",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 113087,
-      "name": "Oparzenia",
+      "name": "Burns",
       "name_default": "Burns",
       "native": "Burns",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 113355,
-      "name": "Miasto Kanionu",
+      "name": "Canyon City",
       "name_default": "Canyon City",
       "native": "Canyon City",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113516,
-      "name": "Śluzy kaskadowe",
+      "name": "Cascade Locks",
       "name_default": "Cascade Locks",
       "native": "Cascade Locks",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 113615,
-      "name": "Wzgórza Cedrowe",
+      "name": "Cedar Hills",
       "name_default": "Cedar Hills",
       "native": "Cedar Hills",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 113618,
-      "name": "Młyn Cedrowy",
+      "name": "Cedar Mill",
       "name_default": "Cedar Mill",
       "native": "Cedar Mill",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 113680,
-      "name": "Punkt Centralny",
+      "name": "Central Point",
       "name_default": "Central Point",
       "native": "Central Point",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 114348,
-      "name": "Koburg",
+      "name": "Coburg",
       "name_default": "Coburg",
       "native": "Coburg",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 114476,
-      "name": "Miasto Columbia",
+      "name": "Columbia City",
       "name_default": "Columbia City",
       "native": "Columbia City",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 114610,
-      "name": "Zatoka Coos",
+      "name": "Coos Bay",
       "name_default": "Coos Bay",
       "native": "Coos Bay",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 114623,
-      "name": "Kokuła",
+      "name": "Coquille",
       "name_default": "Coquille",
-      "native": "Shell",
+      "native": "Coquille",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 114648,
-      "name": "Korneliusz",
+      "name": "Cornelius",
       "name_default": "Cornelius",
       "native": "Cornelius",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 115010,
-      "name": "Damaszek",
+      "name": "Damascus",
       "name_default": "Damascus",
       "native": "Damascus",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 115257,
-      "name": "Zatoka Depoe",
+      "name": "Depoe Bay",
       "name_default": "Depoe Bay",
       "native": "Depoe Bay",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 115278,
-      "name": "Lasy nad rzeką Deschutes",
+      "name": "Deschutes River Woods",
       "name_default": "Deschutes River Woods",
       "native": "Deschutes River Woods",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 115467,
-      "name": "Odpływ",
+      "name": "Drain",
       "name_default": "Drain",
       "native": "Drain",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 115536,
-      "name": "Miasto Wydm",
+      "name": "Dunes City",
       "name_default": "Dunes City",
       "native": "Dunes City",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 116150,
-      "name": "Przedsiębiorstwo",
+      "name": "Enterprise",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -1317,7 +1317,7 @@
       "id": 116202,
       "name": "Estacada",
       "name_default": "Estacada",
-      "native": "Lurch",
+      "native": "Estacada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 116226,
-      "name": "Eugeniusz",
+      "name": "Eugene",
       "name_default": "Eugene",
       "native": "Eugene",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 116586,
-      "name": "Florencja",
+      "name": "Florence",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 116653,
-      "name": "Leśny Gaj",
+      "name": "Forest Grove",
       "name_default": "Forest Grove",
       "native": "Forest Grove",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 116772,
-      "name": "Skamieniałość",
+      "name": "Fossil",
       "name_default": "Fossil",
       "native": "Fossil",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 116789,
-      "name": "Cztery rogi",
+      "name": "Four Corners",
       "name_default": "Four Corners",
       "native": "Four Corners",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 117066,
-      "name": "Dom Ogrodowy-Whitford",
+      "name": "Garden Home-Whitford",
       "name_default": "Garden Home-Whitford",
       "native": "Garden Home-Whitford",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 117320,
-      "name": "Poślizg",
+      "name": "Glide",
       "name_default": "Glide",
       "native": "Glide",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 117340,
-      "name": "Złota Plaża",
+      "name": "Gold Beach",
       "name_default": "Gold Beach",
       "native": "Gold Beach",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 117343,
-      "name": "Złote Wzgórze",
+      "name": "Gold Hill",
       "name_default": "Gold Hill",
       "native": "Gold Hill",
       "type": "city",
@@ -1587,7 +1587,7 @@
       "id": 117474,
       "name": "Grand Ronde",
       "name_default": "Grand Ronde",
-      "native": "Grand round",
+      "native": "Grand Ronde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 117589,
-      "name": "Zielony",
+      "name": "Green",
       "name_default": "Green",
       "native": "Green",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 117983,
-      "name": "Szczęśliwa Dolina",
+      "name": "Happy Valley",
       "name_default": "Happy Valley",
       "native": "Happy Valley",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 117987,
-      "name": "Port",
+      "name": "Harbor",
       "name_default": "Harbor",
       "native": "Harbor",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 118897,
-      "name": "Niezależność",
+      "name": "Independence",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 119023,
-      "name": "Miasto wyspiarskie",
+      "name": "Island City",
       "name_default": "Island City",
       "native": "Island City",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 119318,
-      "name": "Józef",
+      "name": "Joseph",
       "name_default": "Joseph",
       "native": "Joseph",
       "type": "city",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 119580,
-      "name": "Miasto Królewskie",
+      "name": "King City",
       "name_default": "King City",
       "native": "King City",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 119671,
-      "name": "Wodospady Klamath",
+      "name": "Klamath Falls",
       "name_default": "Klamath Falls",
       "native": "Klamath Falls",
       "type": "city",
@@ -2073,7 +2073,7 @@
       "id": 119748,
       "name": "La Grande",
       "name_default": "La Grande",
-      "native": "The big one",
+      "native": "La Grande",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2091,7 +2091,7 @@
       "id": 119772,
       "name": "La Pine",
       "name_default": "La Pine",
-      "native": "Pine",
+      "native": "La Pine",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 119955,
-      "name": "Jezioro Oswego",
+      "name": "Lake Oswego",
       "name_default": "Lake Oswego",
       "native": "Lake Oswego",
       "type": "city",
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 120034,
-      "name": "Nad jeziorem",
+      "name": "Lakeside",
       "name_default": "Lakeside",
       "native": "Lakeside",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 120041,
-      "name": "Widok na jezioro",
+      "name": "Lakeview",
       "name_default": "Lakeview",
       "native": "Lakeview",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 120294,
-      "name": "Liban",
+      "name": "Lebanon",
       "name_default": "Lebanon",
       "native": "Lebanon",
       "type": "city",
@@ -2197,9 +2197,9 @@
     },
     {
       "id": 120377,
-      "name": "Soczewki",
+      "name": "Lents",
       "name_default": "Lents",
-      "native": "Lens",
+      "native": "Lents",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 120514,
-      "name": "Plaża Lincolna",
+      "name": "Lincoln Beach",
       "name_default": "Lincoln Beach",
       "native": "Lincoln Beach",
       "type": "city",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 120944,
-      "name": "Lyon",
+      "name": "Lyons",
       "name_default": "Lyons",
       "native": "Lyons",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 121981,
-      "name": "Misja",
+      "name": "Mission",
       "name_default": "Mission",
       "native": "Mission",
       "type": "city",
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 122332,
-      "name": "Góra Anioła",
+      "name": "Mt. Angel",
       "name_default": "Mount Angel",
       "native": "Mount Angel",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 122352,
-      "name": "Wioska Mount Hood",
+      "name": "Mount Hood Village",
       "name_default": "Mount Hood Village",
       "native": "Mount Hood Village",
       "type": "city",
@@ -2559,7 +2559,7 @@
       "id": 122458,
       "name": "Mulino",
       "name_default": "Mulino",
-      "native": "Mill",
+      "native": "Mulino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 122728,
-      "name": "Nowa nadzieja",
+      "name": "New Hope",
       "name_default": "New Hope",
       "native": "New Hope",
       "type": "city",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": 123081,
-      "name": "Równiny Północne",
+      "name": "North Plains",
       "name_default": "North Plains",
       "native": "North Plains",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 123086,
-      "name": "Północny Portland",
+      "name": "North Portland",
       "name_default": "North Portland",
       "native": "North Portland",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 123240,
-      "name": "Dębowy Gaj",
+      "name": "Oak Grove",
       "name_default": "Oak Grove",
       "native": "Oak Grove",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 123249,
-      "name": "Wzgórza Dębowe",
+      "name": "Oak Hills",
       "name_default": "Oak Hills",
       "native": "Oak Hills",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 123708,
-      "name": "Miasto Pacyfiku",
+      "name": "Pacific City",
       "name_default": "Pacific City",
       "native": "Pacific City",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 124144,
-      "name": "Filomata",
+      "name": "Philomath",
       "name_default": "Philomath",
       "native": "Philomath",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 124149,
-      "name": "Feniks",
+      "name": "Phoenix",
       "name_default": "Phoenix",
       "native": "Phoenix",
       "type": "city",
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 124833,
-      "name": "Wzgórza Raleigh",
+      "name": "Raleigh Hills",
       "name_default": "Raleigh Hills",
       "native": "Raleigh Hills",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 124985,
-      "name": "Sekwoja",
+      "name": "Redwood",
       "name_default": "Redwood",
       "native": "Redwood",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 125113,
-      "name": "Zagadka",
+      "name": "Riddle",
       "name_default": "Riddle",
       "native": "Riddle",
       "type": "city",
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 125290,
-      "name": "Plaża Rockaway",
+      "name": "Rockaway Beach",
       "name_default": "Rockaway Beach",
       "native": "Rockaway Beach",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 125357,
-      "name": "Rzeka Rogue",
+      "name": "Rogue River",
       "name_default": "Rogue River",
       "native": "Rogue River",
       "type": "city",
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 125415,
-      "name": "Roseburg Północ",
+      "name": "Roseburg North",
       "name_default": "Roseburg North",
       "native": "Roseburg North",
       "type": "city",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": 125649,
-      "name": "Święta Helena",
+      "name": "St. Helens",
       "name_default": "Saint Helens",
       "native": "Saint Helens",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 125880,
-      "name": "Piaszczysty",
+      "name": "Sandy",
       "name_default": "Sandy",
       "native": "Sandy",
       "type": "city",
@@ -3279,7 +3279,7 @@
       "id": 125996,
       "name": "Scappoose",
       "name_default": "Scappoose",
-      "native": "Lash",
+      "native": "Scappoose",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 126100,
-      "name": "Nadmorski",
+      "name": "Seaside",
       "name_default": "Seaside",
       "native": "Seaside",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 126203,
-      "name": "Zacieniona Zatoka",
+      "name": "Shady Cove",
       "name_default": "Shady Cove",
       "native": "Shady Cove",
       "type": "city",
@@ -3333,7 +3333,7 @@
       "id": 126322,
       "name": "Sheridan",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3403,7 +3403,7 @@
     },
     {
       "id": 126468,
-      "name": "Siostry",
+      "name": "Sisters",
       "name_default": "Sisters",
       "native": "Sisters",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 126688,
-      "name": "Południowy Liban",
+      "name": "South Lebanon",
       "name_default": "South Lebanon",
       "native": "South Lebanon",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 127159,
-      "name": "Wzniosłość",
+      "name": "Sublimity",
       "name_default": "Sublimity",
       "native": "Sublimity",
       "type": "city",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 127337,
-      "name": "Słodki dom",
+      "name": "Sweet Home",
       "name_default": "Sweet Home",
       "native": "Sweet Home",
       "type": "city",
@@ -3601,7 +3601,7 @@
     },
     {
       "id": 127413,
-      "name": "Tangens",
+      "name": "Tangent",
       "name_default": "Tangent",
       "native": "Tangent",
       "type": "city",
@@ -3655,7 +3655,7 @@
     },
     {
       "id": 127621,
-      "name": "Trzy Rzeki",
+      "name": "Three Rivers",
       "name_default": "Three Rivers",
       "native": "Three Rivers",
       "type": "city",
@@ -3727,7 +3727,7 @@
     },
     {
       "id": 127816,
-      "name": "Trójmiasto",
+      "name": "Tri-City",
       "name_default": "Tri-City",
       "native": "Tri-City",
       "type": "city",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 127902,
-      "name": "Tokarz",
+      "name": "Turner",
       "name_default": "Turner",
       "native": "Turner",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 127978,
-      "name": "Unia",
+      "name": "Union",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 128086,
-      "name": "Dolina",
+      "name": "Vale",
       "name_default": "Vale",
       "native": "Vale",
       "type": "city",
@@ -3907,7 +3907,7 @@
     },
     {
       "id": 128471,
-      "name": "Ciepłe Źródła",
+      "name": "Warm Springs",
       "name_default": "Warm Springs",
       "native": "Warm Springs",
       "type": "city",
@@ -3925,9 +3925,9 @@
     },
     {
       "id": 128485,
-      "name": "Królikarnia",
+      "name": "Warren",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 128919,
-      "name": "Zachodni Linn",
+      "name": "West Linn",
       "name_default": "West Linn",
       "native": "West Linn",
       "type": "city",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 128983,
-      "name": "Zachodnie zbocze",
+      "name": "West Slope",
       "name_default": "West Slope",
       "native": "West Slope",
       "type": "section",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 129131,
-      "name": "Białe Miasto",
+      "name": "White City",
       "name_default": "White City",
       "native": "White City",
       "type": "city",
@@ -4123,7 +4123,7 @@
     },
     {
       "id": 129490,
-      "name": "Wioska Drewna",
+      "name": "Wood Village",
       "name_default": "Wood Village",
       "native": "Wood Village",
       "type": "city",

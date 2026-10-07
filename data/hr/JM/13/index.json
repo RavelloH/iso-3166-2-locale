@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Grad Aenon",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62302,
-      "name": "Aleja",
+      "name": "Alley",
       "name_default": "Alley",
       "native": "Alley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Banke",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 62406,
-      "name": "Grmovit park",
+      "name": "Bushy Park",
       "name_default": "Bushy Park",
       "native": "Bushy Park",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Zamak",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62462,
-      "name": "Kokpit",
+      "name": "Cockpit",
       "name_default": "Cockpit",
       "native": "Cockpit",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Komad kave",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62466,
-      "name": "Pukovnikov greben",
+      "name": "Colonels Ridge",
       "name_default": "Colonels Ridge",
       "native": "Colonels Ridge",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Kormilar",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Kriva rijeka",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Četiri puta",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Daj mi malo",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Opasnost",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -687,9 +687,9 @@
     },
     {
       "id": 62683,
-      "name": "Kelliti",
+      "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 62712,
-      "name": "Ograničiti",
+      "name": "Limit",
       "name_default": "Limit",
       "native": "Limit",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Svibanj Pen",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62765,
-      "name": "Svibanj Pen Proper",
+      "name": "May Pen Proper",
       "name_default": "May Pen Proper",
       "native": "May Pen Proper",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Mliječna rijeka",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 62777,
-      "name": "Mineralne visine",
+      "name": "Mineral Heights",
       "name_default": "Mineral Heights",
       "native": "Mineral Heights",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Morganova šuma",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 62791,
-      "name": "Morganov prolaz",
+      "name": "Morgans Pass",
       "name_default": "Morgans Pass",
       "native": "Morgans Pass",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 62793,
-      "name": "Planina Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Novi Denbigh",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62817,
-      "name": "Novi Longsville",
+      "name": "New Longsville",
       "name_default": "New Longsville",
       "native": "New Longsville",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Stari Denbigh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62846,
-      "name": "Narančasto brdo",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62848,
-      "name": "Paisley uzor",
+      "name": "Paisley",
       "name_default": "Paisley",
       "native": "Paisley",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62849,
-      "name": "Palmersov križ",
+      "name": "Palmers Cross",
       "name_default": "Palmers Cross",
       "native": "Palmers Cross",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Dio banane",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Dio dvorca Douglas",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Dio Kellitsa",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Zastavice",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62886,
-      "name": "Ugodna dolina",
+      "name": "Pleasant Valley",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62897,
-      "name": "Vikendica u Portlandu",
+      "name": "Portland Cottage",
       "name_default": "Portland Cottage",
       "native": "Portland Cottage",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Trkalište",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Stijena",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Slana rijeka",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 62969,
-      "name": "Pješčani zaljev",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62992,
-      "name": "Tihi brdo",
+      "name": "Silent Hill",
       "name_default": "Silent Hill",
       "native": "Silent Hill",
       "type": "city",
@@ -1461,9 +1461,9 @@
     },
     {
       "id": 63053,
-      "name": "Rampa",
+      "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Svjetlo na treadu",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 63067,
-      "name": "Dvorana pastrva",
+      "name": "Trout Hall",
       "name_default": "Trout Hall",
       "native": "Trout Hall",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Turneri",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 63087,
-      "name": "Vodena staza",
+      "name": "Water Lane",
       "name_default": "Water Lane",
       "native": "Water Lane",
       "type": "city",

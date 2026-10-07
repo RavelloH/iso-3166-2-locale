@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 52040,
-      "name": "Achaldaba",
+      "name": "Akhaldaba",
       "name_default": "Akhaldaba",
       "native": "დამალვა",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 52081,
-      "name": "Chelwatschauri",
+      "name": "Khelvachauri",
       "name_default": "Khelvachauri",
       "native": "ხევაჩაური",
       "type": "adm2",
@@ -147,9 +147,9 @@
     },
     {
       "id": 52084,
-      "name": "Khulo",
+      "name": "Chulo",
       "name_default": "Khulo",
-      "native": "განსაზღვრული არ",
+      "native": "ხულო",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 52119,
-      "name": "Schuachevi",
+      "name": "Schuachewi",
       "name_default": "Shuakhevi",
       "native": "შუახევი",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 52134,
-      "name": "Zichisdsiri",
+      "name": "Tsikhisdziri",
       "name_default": "Tsikhisdziri",
       "native": "სულელი",
       "type": "city",

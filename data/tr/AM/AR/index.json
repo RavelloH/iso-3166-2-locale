@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 282,
-      "name": "Abovyan",
+      "name": "Eller",
       "name_default": "Abovyan",
       "native": "Աբովյան",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 307,
-      "name": "Aralez",
+      "name": "Karalar",
       "name_default": "Aralez",
       "native": "Արալեզ",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 311,
-      "name": "Arbat'",
+      "name": "Arbat’",
       "name_default": "Arbat’",
       "native": "Արբատ",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 314,
-      "name": "Arevabuyr",
+      "name": "Halatlı",
       "name_default": "Arevabuyr",
       "native": "Արևաբույր",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 319,
-      "name": "Arevşat",
+      "name": "Aşağı Ağbaş",
       "name_default": "Arevshat",
       "native": "Արևշատ",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 324,
-      "name": "Armash",
+      "name": "Armaş",
       "name_default": "Armash",
       "native": "Արմաշ",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 328,
-      "name": "Artaşat",
+      "name": "Artashat",
       "name_default": "Artashat",
       "native": "Արտաշատ",
       "type": "adm1",
@@ -219,7 +219,7 @@
     },
     {
       "id": 338,
-      "name": "Aygavan",
+      "name": "Reyhanlı",
       "name_default": "Aygavan",
       "native": "Այգավան",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 341,
-      "name": "Aygepat",
+      "name": "Mesimli",
       "name_default": "Aygepat",
       "native": "Այգեպատ",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 343,
-      "name": "Aygestan",
+      "name": "Ayaslı",
       "name_default": "Aygestan",
       "native": "Այգեստան",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 344,
-      "name": "Aygezard",
+      "name": "Dargalı",
       "name_default": "Aygezard",
       "native": "Այգեզարդ",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 351,
-      "name": "Bardzrashen",
+      "name": "Bitlice",
       "name_default": "Bardzrashen",
       "native": "Բարձրաշեն",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 356,
-      "name": "Berk'anush",
+      "name": "Berk’anush",
       "name_default": "Berk’anush",
       "native": "Բերկանուշ",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 359,
-      "name": "Burastan",
+      "name": "Karahamzalı",
       "name_default": "Burastan",
       "native": "Բուրաստան",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 362,
-      "name": "Byuravan",
+      "name": "Yukarı Köylüsar",
       "name_default": "Byuravan",
       "native": "Բյուրավան",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 366,
-      "name": "Dalar",
+      "name": "Deliler",
       "name_default": "Dalar",
       "native": "Դալար",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 368,
-      "name": "Darakert",
+      "name": "Hacı Elez",
       "name_default": "Darakert",
       "native": "Դարակերտ",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 370,
-      "name": "Daştavan",
+      "name": "Taştavan",
       "name_default": "Dashtavan",
       "native": "Դաշտավան",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 373,
-      "name": "Dimitrov",
+      "name": "Aşağı Kulaşar",
       "name_default": "Dimitrov",
       "native": "Դիմիտրով",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 377,
-      "name": "Dvin",
+      "name": "Aşağı Düğün",
       "name_default": "Dvin",
       "native": "Դվին",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 392,
-      "name": "Geghanist",
+      "name": "Göykümbət",
       "name_default": "Geghanist",
       "native": "Գեղանիստ",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 395,
-      "name": "Getazat",
+      "name": "Ağcakışla",
       "name_default": "Getazat",
       "native": "Գետազատ",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 396,
-      "name": "Gukasavan",
+      "name": "Kalara",
       "name_default": "Ghukasavan",
       "native": "Ղուկասավան",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 401,
-      "name": "Goravan",
+      "name": "Gorkent",
       "name_default": "Goravan",
       "native": "Գորավան",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 409,
-      "name": "Hayanist",
+      "name": "Karakışla",
       "name_default": "Hayanist",
       "native": "Հայանիստ",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 415,
-      "name": "Hovtaşat",
+      "name": "Şöllü Mehmender",
       "name_default": "Hovtashat",
       "native": "Հովտաշատ",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 416,
-      "name": "Hovtaşen",
+      "name": "Muğanlı",
       "name_default": "Hovtashen",
       "native": "Հովտաշեն",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 421,
-      "name": "Jrahovit",
+      "name": "Cebeçilli",
       "name_default": "Jrahovit",
       "native": "Ջրահովիտ",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 455,
-      "name": "Marmaraşen",
+      "name": "Ağhamzalı",
       "name_default": "Marmarashen",
       "native": "Մարմարաշեն",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 472,
-      "name": "Mrganush",
+      "name": "Zehraplı",
       "name_default": "Mrganush",
       "native": "Մրգանուշ",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 475,
-      "name": "Mrgavan",
+      "name": "Gödekli",
       "name_default": "Mrgavan",
       "native": "Մրգավան",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 476,
-      "name": "Bay Gavet",
+      "name": "Karadağlı",
       "name_default": "Mrgavet",
       "native": "Մրգավետ",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 482,
-      "name": "Nizami",
+      "name": "Yukarı Necili",
       "name_default": "Nizami",
       "native": "Նիզամի",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 487,
-      "name": "Norabats'ın",
+      "name": "Norabats’",
       "name_default": "Norabats’",
       "native": "Նորաբաց",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 491,
-      "name": "Noraşen",
+      "name": "Kürkkenti",
       "name_default": "Norashen",
       "native": "Նորաշեն",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 493,
-      "name": "Noyakert",
+      "name": "Halısa",
       "name_default": "Noyakert",
       "native": "Նոյակերտ",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 495,
-      "name": "Nşavan",
+      "name": "Alpova",
       "name_default": "Nshavan",
       "native": "Նշավան",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 516,
-      "name": "Şahumyan",
+      "name": "Yuvan",
       "name_default": "Shahumyan",
       "native": "Շահումյան",
       "type": "city",
@@ -867,9 +867,9 @@
     },
     {
       "id": 525,
-      "name": "Abla",
+      "name": "Sarvanlar",
       "name_default": "Sis",
-      "native": "Քույր",
+      "native": "Սիս",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
     },
     {
       "id": 526,
-      "name": "Sisavan",
+      "name": "Yengice",
       "name_default": "Sisavan",
       "native": "Սիսավան",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 561,
-      "name": "Verin Artaşat",
+      "name": "Verin Artashat",
       "name_default": "Verin Artashat",
       "native": "Վերին Արտաշատ",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 568,
-      "name": "Vosketap'",
+      "name": "Vosketap’",
       "name_default": "Vosketap’",
       "native": "Վոսկետապ",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 571,
-      "name": "Vostan",
+      "name": "Beceyazlı",
       "name_default": "Vostan",
       "native": "Ոստան",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 574,
-      "name": "Yeghegnavan",
+      "name": "Şitli",
       "name_default": "Yeghegnavan",
       "native": "Եղեգնավան",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 582,
-      "name": "Zangakatun",
+      "name": "Çanakçı",
       "name_default": "Zangakatun",
       "native": "Զանգակատուն",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 585,
-      "name": "Zorak",
+      "name": "Zengiler",
       "name_default": "Zorak",
       "native": "Զորակ",
       "type": "city",

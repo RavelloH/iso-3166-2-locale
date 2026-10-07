@@ -129,7 +129,7 @@
     },
     {
       "id": 66631,
-      "name": "Лаздинай",
+      "name": "Лаздинайське староство",
       "name_default": "Lazdynai",
       "native": "Lazdynai",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66632,
-      "name": "Лентваріс",
+      "name": "Лентварис",
       "name_default": "Lentvaris",
       "native": "Lentvaris",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 66676,
-      "name": "Сеньєї Тракай",
+      "name": "Сенєй Тракай",
       "name_default": "Senieji Trakai",
       "native": "Senieji Trakai",
       "type": "city",
@@ -326,26 +326,8 @@
       "country_id": 126
     },
     {
-      "id": 66689,
-      "name": "Укмерге",
-      "name_default": "Ukmerge",
-      "native": "Ukmerge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21048,
-      "latitude": "55.25000000",
-      "longitude": "24.75000000",
-      "timezone": "Europe/Vilnius",
-      "wikiDataId": "Q213127",
-      "country_code": "LT",
-      "state_code": "57",
-      "state_id": 1606,
-      "country_id": 126
-    },
-    {
       "id": 66698,
-      "name": "Вієвіс",
+      "name": "Єв’є",
       "name_default": "Vievis",
       "native": "Vievis",
       "type": "city",

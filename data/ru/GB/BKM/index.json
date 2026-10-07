@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48242,
-      "name": "Амершам",
+      "name": "Амершем",
       "name_default": "Amersham",
       "native": "Amersham",
       "type": "city",
@@ -74,8 +74,26 @@
       "country_id": 232
     },
     {
+      "id": 48243,
+      "name": "Амершем-он-те-Хилл",
+      "name_default": "Amersham on the Hill",
+      "native": "Amersham on the Hill",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17719,
+      "latitude": "51.67468000",
+      "longitude": "-0.60742000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q470188",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 48305,
-      "name": "Астон Клинтон",
+      "name": "Астон-Клинтон",
       "name_default": "Aston Clinton",
       "native": "Aston Clinton",
       "type": "city",
@@ -104,6 +122,24 @@
       "longitude": "-0.81458000",
       "timezone": "Europe/London",
       "wikiDataId": "Q213474",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
+      "id": 48436,
+      "name": "Беконсфилд",
+      "name_default": "Beaconsfield",
+      "native": "Beaconsfield",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 12235,
+      "latitude": "51.61219000",
+      "longitude": "-0.64732000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q812906",
       "country_code": "GB",
       "state_code": "BKM",
       "state_id": 2405,
@@ -146,6 +182,24 @@
       "country_id": 232
     },
     {
+      "id": 48748,
+      "name": "Букингем",
+      "name_default": "Buckingham",
+      "native": "Buckingham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14294,
+      "latitude": "51.99968000",
+      "longitude": "-0.98779000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q195955",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 48749,
       "name": "Бакингемшир",
       "name_default": "Buckinghamshire",
@@ -165,7 +219,7 @@
     },
     {
       "id": 48909,
-      "name": "Чалфонт Сент-Питер",
+      "name": "Чалфонт-Сент-Питер",
       "name_default": "Chalfont Saint Peter",
       "native": "Chalfont Saint Peter",
       "type": "city",
@@ -183,7 +237,7 @@
     },
     {
       "id": 48910,
-      "name": "Чалфонт Сент-Джайлс",
+      "name": "Чалфонт-Сент-Джайлс",
       "name_default": "Chalfont St Giles",
       "native": "Chalfont St Giles",
       "type": "city",
@@ -218,6 +272,24 @@
       "country_id": 232
     },
     {
+      "id": 48951,
+      "name": "Чешем",
+      "name_default": "Chesham",
+      "native": "Chesham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23097,
+      "latitude": "51.70000000",
+      "longitude": "-0.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q962767",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 49262,
       "name": "Денхэм",
       "name_default": "Denham",
@@ -237,7 +309,7 @@
     },
     {
       "id": 49638,
-      "name": "Джеррардс Кросс",
+      "name": "Джерадс-Кросс",
       "name_default": "Gerrards Cross",
       "native": "Gerrards Cross",
       "type": "city",
@@ -273,7 +345,7 @@
     },
     {
       "id": 49771,
-      "name": "Хадденхэм",
+      "name": "Хадденхем",
       "name_default": "Haddenham",
       "native": "Haddenham",
       "type": "city",
@@ -363,7 +435,7 @@
     },
     {
       "id": 50324,
-      "name": "Литл Чалфонт",
+      "name": "Литл-Чалфонт",
       "name_default": "Little Chalfont",
       "native": "Little Chalfont",
       "type": "city",
@@ -381,7 +453,7 @@
     },
     {
       "id": 50394,
-      "name": "Лонг-Крендон",
+      "name": "Лонг Крендон",
       "name_default": "Long Crendon",
       "native": "Long Crendon",
       "type": "city",
@@ -435,7 +507,7 @@
     },
     {
       "id": 50992,
-      "name": "Принсес Рисборо",
+      "name": "Принцес-Рисборо",
       "name_default": "Princes Risborough",
       "native": "Princes Risborough",
       "type": "city",
@@ -507,9 +579,9 @@
     },
     {
       "id": 51470,
-      "name": "Стокенчерч",
+      "name": "Стоукенчерч",
       "name_default": "Stokenchurch",
-      "native": "Heating church",
+      "native": "Stokenchurch",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -524,26 +596,8 @@
       "country_id": 232
     },
     {
-      "id": 51584,
-      "name": "Тейм",
-      "name_default": "Thame",
-      "native": "Thame",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13269,
-      "latitude": "51.74840000",
-      "longitude": "-0.97624000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2094727",
-      "country_code": "GB",
-      "state_code": "BKM",
-      "state_id": 2405,
-      "country_id": 232
-    },
-    {
       "id": 51720,
-      "name": "Уоддесдон",
+      "name": "Уодестон",
       "name_default": "Waddesdon",
       "native": "Waddesdon",
       "type": "city",
@@ -579,7 +633,7 @@
     },
     {
       "id": 51801,
-      "name": "Вендовер",
+      "name": "Уэндовер",
       "name_default": "Wendover",
       "native": "Wendover",
       "type": "city",
@@ -597,7 +651,7 @@
     },
     {
       "id": 51846,
-      "name": "Уэстон Тервилл",
+      "name": "Вестон-Тернвил",
       "name_default": "Weston Turville",
       "native": "Weston Turville",
       "type": "city",

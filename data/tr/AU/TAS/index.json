@@ -141,7 +141,7 @@
   "cities": [
     {
       "id": 3916,
-      "name": "Acton Parkı",
+      "name": "Acton Park",
       "name_default": "Acton Park",
       "native": "Acton Park",
       "type": "section",
@@ -159,7 +159,7 @@
     },
     {
       "id": 4047,
-      "name": "Austins Feribotu",
+      "name": "Austins Ferry",
       "name_default": "Austins Ferry",
       "native": "Austins Ferry",
       "type": "city",
@@ -177,7 +177,7 @@
     },
     {
       "id": 4062,
-      "name": "Bağdat",
+      "name": "Bagdad",
       "name_default": "Bagdad",
       "native": "Bagdad",
       "type": "city",
@@ -195,7 +195,7 @@
     },
     {
       "id": 4145,
-      "name": "Pil Noktası",
+      "name": "Battery Point",
       "name_default": "Battery Point",
       "native": "Battery Point",
       "type": "section",
@@ -231,7 +231,7 @@
     },
     {
       "id": 4170,
-      "name": "Güzellik Noktası",
+      "name": "Beauty Point",
       "name_default": "Beauty Point",
       "native": "Beauty Point",
       "type": "city",
@@ -285,7 +285,7 @@
     },
     {
       "id": 4289,
-      "name": "Blackmans Körfezi",
+      "name": "Blackmans Bay",
       "name_default": "Blackmans Bay",
       "native": "Blackmans Bay",
       "type": "section",
@@ -321,7 +321,7 @@
     },
     {
       "id": 4387,
-      "name": "Günün Tatili",
+      "name": "Break O'Day",
       "name_default": "Break O'Day",
       "native": "Break O'Day",
       "type": "city",
@@ -429,7 +429,7 @@
     },
     {
       "id": 4649,
-      "name": "Orta Sahil",
+      "name": "Central Coast",
       "name_default": "Central Coast",
       "native": "Central Coast",
       "type": "city",
@@ -447,7 +447,7 @@
     },
     {
       "id": 4653,
-      "name": "Orta Yaylalar",
+      "name": "Central Highlands",
       "name_default": "Central Highlands",
       "native": "Central Highlands",
       "type": "city",
@@ -483,7 +483,7 @@
     },
     {
       "id": 4707,
-      "name": "Dairesel Baş",
+      "name": "Circular Head",
       "name_default": "Circular Head",
       "native": "Circular Head",
       "type": "city",
@@ -591,7 +591,7 @@
     },
     {
       "id": 4917,
-      "name": "Kuğu yavrusu",
+      "name": "Cygnet",
       "name_default": "Cygnet",
       "native": "Cygnet",
       "type": "city",
@@ -627,7 +627,7 @@
     },
     {
       "id": 4981,
-      "name": "Derwent Vadisi",
+      "name": "Derwent Valley",
       "name_default": "Derwent Valley",
       "native": "Derwent Valley",
       "type": "city",
@@ -663,7 +663,7 @@
     },
     {
       "id": 4999,
-      "name": "Dodges Feribotu",
+      "name": "Dodges Ferry",
       "name_default": "Dodges Ferry",
       "native": "Dodges Ferry",
       "type": "section",
@@ -701,7 +701,7 @@
       "id": 5052,
       "name": "Dynnyrne",
       "name_default": "Dynnyrne",
-      "native": "Tight",
+      "native": "Dynnyrne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -717,7 +717,7 @@
     },
     {
       "id": 5073,
-      "name": "Doğu Devonport",
+      "name": "East Devonport",
       "name_default": "East Devonport",
       "native": "East Devonport",
       "type": "city",
@@ -735,7 +735,7 @@
     },
     {
       "id": 5085,
-      "name": "Doğu Launceston",
+      "name": "East Launceston",
       "name_default": "East Launceston",
       "native": "East Launceston",
       "type": "section",
@@ -771,7 +771,7 @@
     },
     {
       "id": 5250,
-      "name": "Çakmak taşı",
+      "name": "Flinders",
       "name_default": "Flinders",
       "native": "Flinders",
       "type": "city",
@@ -843,7 +843,7 @@
     },
     {
       "id": 5320,
-      "name": "Geilston Körfezi",
+      "name": "Geilston Bay",
       "name_default": "Geilston Bay",
       "native": "Geilston Bay",
       "type": "section",
@@ -953,7 +953,7 @@
       "id": 5503,
       "name": "Hadspen",
       "name_default": "Hadspen",
-      "native": "Had -pear",
+      "native": "Hadspen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -969,7 +969,7 @@
     },
     {
       "id": 5582,
-      "name": "Herdsmans Koyu",
+      "name": "Herdsmans Cove",
       "name_default": "Herdsmans Cove",
       "native": "Herdsmans Cove",
       "type": "section",
@@ -987,7 +987,7 @@
     },
     {
       "id": 5609,
-      "name": "Tepe tepesi",
+      "name": "Hillcrest",
       "name_default": "Hillcrest",
       "native": "Hillcrest",
       "type": "section",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": 5622,
-      "name": "Hobart şehir merkezi",
+      "name": "Hobart city centre",
       "name_default": "Hobart city centre",
       "native": "Hobart city centre",
       "type": "section",
@@ -1059,9 +1059,9 @@
     },
     {
       "id": 5673,
-      "name": "Huon Vadisi",
+      "name": "Huon Valley",
       "name_default": "Huon Valley",
-      "native": "Eat Valley",
+      "native": "Huon Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1079,7 +1079,7 @@
       "id": 5674,
       "name": "Huonville",
       "name_default": "Huonville",
-      "native": "Badly",
+      "native": "Huonville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1131,7 +1131,7 @@
     },
     {
       "id": 5865,
-      "name": "Kral Adası",
+      "name": "King Island",
       "name_default": "King Island",
       "native": "King Island",
       "type": "city",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": 5887,
-      "name": "Kingston Plajı",
+      "name": "Kingston Beach",
       "name_default": "Kingston Beach",
       "native": "Kingston Beach",
       "type": "section",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": 5986,
-      "name": "Launceston şehir merkezi",
+      "name": "Launceston city centre",
       "name_default": "Launceston city centre",
       "native": "Launceston city centre",
       "type": "section",
@@ -1295,7 +1295,7 @@
       "id": 6000,
       "name": "Legana",
       "name_default": "Legana",
-      "native": "relieved",
+      "native": "Legana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1311,7 +1311,7 @@
     },
     {
       "id": 6005,
-      "name": "Lenah Vadisi",
+      "name": "Lenah Valley",
       "name_default": "Lenah Valley",
       "native": "Lenah Valley",
       "type": "section",
@@ -1419,7 +1419,7 @@
     },
     {
       "id": 6229,
-      "name": "Meander Vadisi",
+      "name": "Meander Valley",
       "name_default": "Meander Valley",
       "native": "Meander Valley",
       "type": "city",
@@ -1439,7 +1439,7 @@
       "id": 6268,
       "name": "Miandetta",
       "name_default": "Miandetta",
-      "native": "Mianadet",
+      "native": "Miandetta",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1455,7 +1455,7 @@
     },
     {
       "id": 6282,
-      "name": "Midway Noktası",
+      "name": "Midway Point",
       "name_default": "Midway Point",
       "native": "Midway Point",
       "type": "city",
@@ -1545,7 +1545,7 @@
     },
     {
       "id": 6446,
-      "name": "Nelson Dağı",
+      "name": "Mount Nelson",
       "name_default": "Mount Nelson",
       "native": "Mount Nelson",
       "type": "section",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": 6459,
-      "name": "Stuart Dağı",
+      "name": "Mount Stuart",
       "name_default": "Mount Stuart",
       "native": "Mount Stuart",
       "type": "section",
@@ -1599,7 +1599,7 @@
     },
     {
       "id": 6560,
-      "name": "Yeni Norfolk",
+      "name": "New Norfolk",
       "name_default": "New Norfolk",
       "native": "New Norfolk",
       "type": "city",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": 6561,
-      "name": "Yeni Şehir",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "section",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": 6632,
-      "name": "Kuzey Hobart",
+      "name": "North Hobart",
       "name_default": "North Hobart",
       "native": "North Hobart",
       "type": "section",
@@ -1689,7 +1689,7 @@
     },
     {
       "id": 6668,
-      "name": "Kuzey Midlands",
+      "name": "Northern Midlands",
       "name_default": "Northern Midlands",
       "native": "Northern Midlands",
       "type": "city",
@@ -1743,7 +1743,7 @@
     },
     {
       "id": 6715,
-      "name": "Eski Plaj",
+      "name": "Old Beach",
       "name_default": "Old Beach",
       "native": "Old Beach",
       "type": "section",
@@ -1761,7 +1761,7 @@
     },
     {
       "id": 6787,
-      "name": "Park Korusu",
+      "name": "Park Grove",
       "name_default": "Park Grove",
       "native": "Park Grove",
       "type": "section",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 6828,
-      "name": "Penguen",
+      "name": "Penguin",
       "name_default": "Penguin",
       "native": "Penguin",
       "type": "city",
@@ -1941,7 +1941,7 @@
     },
     {
       "id": 7024,
-      "name": "Nehir kenarı",
+      "name": "Riverside",
       "name_default": "Riverside",
       "native": "Riverside",
       "type": "section",
@@ -1979,7 +1979,7 @@
       "id": 7050,
       "name": "Rokeby",
       "name_default": "Rokeby",
-      "native": "Rake",
+      "native": "Rokeby",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2031,7 +2031,7 @@
     },
     {
       "id": 7115,
-      "name": "Aziz Leonards",
+      "name": "Saint Leonards",
       "name_default": "Saint Leonards",
       "native": "Saint Leonards",
       "type": "section",
@@ -2067,7 +2067,7 @@
     },
     {
       "id": 7141,
-      "name": "Sandy Körfezi",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "section",
@@ -2103,7 +2103,7 @@
     },
     {
       "id": 7185,
-      "name": "Yedi Mil Plajı",
+      "name": "Seven Mile Beach",
       "name_default": "Seven Mile Beach",
       "native": "Seven Mile Beach",
       "type": "city",
@@ -2121,7 +2121,7 @@
     },
     {
       "id": 7194,
-      "name": "Fırtına kuşu",
+      "name": "Shearwater",
       "name_default": "Shearwater",
       "native": "Shearwater",
       "type": "section",
@@ -2157,7 +2157,7 @@
     },
     {
       "id": 7209,
-      "name": "Shorewell Parkı",
+      "name": "Shorewell Park",
       "name_default": "Shorewell Park",
       "native": "Shorewell Park",
       "type": "section",
@@ -2193,7 +2193,7 @@
     },
     {
       "id": 7234,
-      "name": "Rahat",
+      "name": "Snug",
       "name_default": "Snug",
       "native": "Snug",
       "type": "city",
@@ -2231,7 +2231,7 @@
       "id": 7246,
       "name": "Sorell",
       "name_default": "Sorell",
-      "native": "Sore",
+      "native": "Sorell",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2247,7 +2247,7 @@
     },
     {
       "id": 7265,
-      "name": "Güney Hobart",
+      "name": "South Hobart",
       "name_default": "South Hobart",
       "native": "South Hobart",
       "type": "section",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": 7272,
-      "name": "Güney Launceston",
+      "name": "South Launceston",
       "name_default": "South Launceston",
       "native": "South Launceston",
       "type": "section",
@@ -2283,7 +2283,7 @@
     },
     {
       "id": 7296,
-      "name": "Güney Midlands",
+      "name": "Southern Midlands",
       "name_default": "Southern Midlands",
       "native": "Southern Midlands",
       "type": "city",
@@ -2303,7 +2303,7 @@
       "id": 7306,
       "name": "Spreyton",
       "name_default": "Spreyton",
-      "native": "Spray",
+      "native": "Spreyton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2337,7 +2337,7 @@
     },
     {
       "id": 7375,
-      "name": "Yaz Tepesi",
+      "name": "Summerhill",
       "name_default": "Summerhill",
       "native": "Summerhill",
       "type": "section",
@@ -2373,7 +2373,7 @@
     },
     {
       "id": 7446,
-      "name": "Tasman Yarımadası",
+      "name": "Tasman Peninsula",
       "name_default": "Tasman Peninsula",
       "native": "Tasman Peninsula",
       "type": "city",
@@ -2427,7 +2427,7 @@
     },
     {
       "id": 7583,
-      "name": "Turners Plajı",
+      "name": "Turners Beach",
       "name_default": "Turners Beach",
       "native": "Turners Beach",
       "type": "city",
@@ -2463,7 +2463,7 @@
     },
     {
       "id": 7606,
-      "name": "Yukarı Burnie",
+      "name": "Upper Burnie",
       "name_default": "Upper Burnie",
       "native": "Upper Burnie",
       "type": "section",
@@ -2535,7 +2535,7 @@
     },
     {
       "id": 7782,
-      "name": "Batı Yakası",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast",
       "type": "city",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": 7790,
-      "name": "Batı Hobart",
+      "name": "West Hobart",
       "name_default": "West Hobart",
       "native": "West Hobart",
       "type": "section",
@@ -2571,7 +2571,7 @@
     },
     {
       "id": 7796,
-      "name": "Batı Launceston",
+      "name": "West Launceston",
       "name_default": "West Launceston",
       "native": "West Launceston",
       "type": "section",
@@ -2589,7 +2589,7 @@
     },
     {
       "id": 7800,
-      "name": "Batı Moonah",
+      "name": "West Moonah",
       "name_default": "West Moonah",
       "native": "West Moonah",
       "type": "section",
@@ -2607,7 +2607,7 @@
     },
     {
       "id": 7807,
-      "name": "Batı Tamar",
+      "name": "West Tamar",
       "name_default": "West Tamar",
       "native": "West Tamar",
       "type": "area",
@@ -2625,7 +2625,7 @@
     },
     {
       "id": 7809,
-      "name": "Batı Ulverstone",
+      "name": "West Ulverstone",
       "name_default": "West Ulverstone",
       "native": "West Ulverstone",
       "type": "section",
@@ -2663,7 +2663,7 @@
       "id": 7975,
       "name": "Wynyard",
       "name_default": "Wynyard",
-      "native": "White",
+      "native": "Wynyard",
       "type": "city",
       "level": null,
       "parent_id": null,

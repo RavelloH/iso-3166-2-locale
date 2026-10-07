@@ -152,7 +152,7 @@
     },
     {
       "id": 711,
-      "name": "カレタ・オリビア",
+      "name": "カルテナ・オリビア",
       "name_default": "Caleta Olivia",
       "native": "Caleta Olivia",
       "type": "city",
@@ -227,7 +227,7 @@
       "name": "アルヘンティーノ湖県",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "マガリャネス県",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "ゴベルナドール・グレゴレス",
+      "name": "ゴベルナドル・グレゴレス",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",
@@ -314,7 +314,7 @@
     },
     {
       "id": 1220,
-      "name": "ラス・ヘラス",
+      "name": "ラス・エラス",
       "name_default": "Las Heras",
       "native": "Las Heras",
       "type": "city",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1326,
-      "name": "ペリト・モレノ",
+      "name": "ペリート・モレーノ",
       "name_default": "Perito Moreno",
       "native": "Perito Moreno",
       "type": "adm2",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48442,
-      "name": "ベビントン",
+      "name": "ベディントン",
       "name_default": "Bebington",
       "native": "Bebington",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48718,
-      "name": "ブロムボロー",
+      "name": "ブロムバラ",
       "name_default": "Bromborough",
       "native": "Bromborough",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49915,
-      "name": "ヘスウォール",
+      "name": "ヘズウォ―ル",
       "name_default": "Heswall",
       "native": "Heswall",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 50015,
-      "name": "ホイレイク",
+      "name": "ホイレーク",
       "name_default": "Hoylake",
       "native": "Hoylake",
       "type": "city",
@@ -200,24 +200,6 @@
       "country_id": 232
     },
     {
-      "id": 50676,
-      "name": "ネストン",
-      "name_default": "Neston",
-      "native": "Nest",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 15352,
-      "latitude": "53.28333000",
-      "longitude": "-3.05000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q925760",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2408,
-      "country_id": 232
-    },
-    {
       "id": 50688,
       "name": "ニューフェリー",
       "name_default": "New Ferry",
@@ -255,7 +237,7 @@
     },
     {
       "id": 51732,
-      "name": "ウォラジー",
+      "name": "ワラジー",
       "name_default": "Wallasey",
       "native": "Wallasey",
       "type": "adm2",
@@ -273,7 +255,7 @@
     },
     {
       "id": 51824,
-      "name": "ウェストカービー",
+      "name": "西カービー",
       "name_default": "West Kirby",
       "native": "West Kirby",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Miasto Aenon",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62302,
-      "name": "Aleja",
+      "name": "Alley",
       "name_default": "Alley",
       "native": "Alley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Banki",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62391,
-      "name": "Wzgórze Brixton",
+      "name": "Brixton Hill",
       "name_default": "Brixton Hill",
       "native": "Brixton Hill",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Pałac",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62462,
-      "name": "Kabina pilota",
+      "name": "Cockpit",
       "name_default": "Cockpit",
       "native": "Cockpit",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Kawałek kawy",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62466,
-      "name": "Grzbiet pułkowników",
+      "name": "Colonels Ridge",
       "name_default": "Colonels Ridge",
       "native": "Colonels Ridge",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Sternik",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Krzywa Rzeka",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 62497,
-      "name": "Wzgórze Curatoe",
+      "name": "Curatoe Hill",
       "name_default": "Curatoe Hill",
       "native": "Curatoe Hill",
       "type": "adm1",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Cztery ścieżki",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62570,
-      "name": "Wolne miasto",
+      "name": "Freetown",
       "name_default": "Freetown",
       "native": "Freetown",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Daj mi kawałek",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 62606,
-      "name": "Żwirowe Wzgórze",
+      "name": "Gravel Hill",
       "name_default": "Gravel Hill",
       "native": "Gravel Hill",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Zaryzykować",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -689,7 +689,7 @@
       "id": 62683,
       "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 62715,
-      "name": "Miasto Lionel",
+      "name": "Lionel Town",
       "name_default": "Lionel Town",
       "native": "Lionel Town",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 62727,
-      "name": "Park Longville",
+      "name": "Longville Park",
       "name_default": "Longville Park",
       "native": "Longville Park",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Majowy długopis",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62765,
-      "name": "Może Pen Właściwy",
+      "name": "May Pen Proper",
       "name_default": "May Pen Proper",
       "native": "May Pen Proper",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Rzeka Mleczna",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Las Morgana",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 62791,
-      "name": "Przełęcz Morgana",
+      "name": "Morgans Pass",
       "name_default": "Morgans Pass",
       "native": "Morgans Pass",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 62793,
-      "name": "Góra Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Nowy Denbigh",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62817,
-      "name": "Nowy Longsville",
+      "name": "New Longsville",
       "name_default": "New Longsville",
       "native": "New Longsville",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Stary Denbigh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62846,
-      "name": "Pomarańczowe Wzgórze",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62847,
-      "name": "Sklep Osbourne",
+      "name": "Osbourne Store",
       "name_default": "Osbourne Store",
       "native": "Osbourne Store",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Część ziemi bananowej",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Część zamku Douglas",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Część Kellits",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Chorągiewki",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Tor wyścigowy",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Głaz",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62944,
-      "name": "Rzeka Skalna",
+      "name": "Rock River",
       "name_default": "Rock River",
       "native": "Rock River",
       "type": "adm1",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Rzeka Słona",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 62970,
-      "name": "Krwawy",
+      "name": "Sanguinetti",
       "name_default": "Sanguinetti",
       "native": "Sanguinetti",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62992,
-      "name": "Ciche Wzgórze",
+      "name": "Silent Hill",
       "name_default": "Silent Hill",
       "native": "Silent Hill",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 63048,
-      "name": "Miasto Thompson",
+      "name": "Thompson Town",
       "name_default": "Thompson Town",
       "native": "Thompson Town",
       "type": "city",
@@ -1461,9 +1461,9 @@
     },
     {
       "id": 63053,
-      "name": "Myto",
+      "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Światło stopu",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 63067,
-      "name": "Pstrągowa Hala",
+      "name": "Trout Hall",
       "name_default": "Trout Hall",
       "native": "Trout Hall",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Tokarze",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 63127,
-      "name": "Miasto York",
+      "name": "York Town",
       "name_default": "York Town",
       "native": "York Town",
       "type": "city",

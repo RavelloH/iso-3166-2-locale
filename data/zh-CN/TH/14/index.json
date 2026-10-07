@@ -193,7 +193,7 @@
       "latitude": "13.99904000",
       "longitude": "100.54962000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q4784166",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "14",
       "state_id": 3494,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105213,
-      "name": "Ban Phraek区",
+      "name": "班佩县",
       "name_default": "Ban Phraek",
       "native": "อำเภอบ้านแพรก",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105235,
-      "name": "邦巴罕县",
+      "name": "邦巴汉县",
       "name_default": "Bang Pahan",
       "native": "อำเภอบางปะหัน",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105487,
-      "name": "拉布阿銮县",
+      "name": "拉磨銮县",
       "name_default": "Lat Bua Luang",
       "native": "อำเภอลาดบัวหลวง",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105521,
-      "name": "玛哈叻县",
+      "name": "马哈叻县",
       "name_default": "Maha Rat",
       "native": "อำเภอมหาราช",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105717,
-      "name": "帕奇县",
+      "name": "帕栖县",
       "name_default": "Phachi",
       "native": "อำเภอภาชี",
       "type": "district",
@@ -381,7 +381,7 @@
     },
     {
       "id": 106644,
-      "name": "大城府",
+      "name": "阿瑜陀耶",
       "name_default": "Phra Nakhon Si Ayutthaya",
       "native": "พระนครศรีอยุธยา",
       "type": "adm1",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106207,
-      "name": "塞纳县",
+      "name": "色那县",
       "name_default": "Sena",
       "native": "อำเภอเสนา",
       "type": "district",

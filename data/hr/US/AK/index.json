@@ -255,7 +255,7 @@
       "id": 111081,
       "name": "Akutan",
       "name_default": "Akutan",
-      "native": "Acute",
+      "native": "Akutan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -271,7 +271,7 @@
     },
     {
       "id": 111303,
-      "name": "Sidrišna točka",
+      "name": "Anchor Point",
       "name_default": "Anchor Point",
       "native": "Anchor Point",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111305,
-      "name": "Sidrište",
+      "name": "Anchorage",
       "name_default": "Anchorage",
       "native": "Anchorage",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 111724,
-      "name": "Jazavac",
+      "name": "Badger",
       "name_default": "Badger",
       "native": "Badger",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111976,
-      "name": "Medvjeđi potok",
+      "name": "Bear Creek",
       "name_default": "Bear Creek",
       "native": "Bear Creek",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112281,
-      "name": "Betel",
+      "name": "Bethel",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 112325,
-      "name": "Veliko jezero",
+      "name": "Big Lake",
       "name_default": "Big Lake",
       "native": "Big Lake",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 113917,
-      "name": "Čevak",
+      "name": "Chevak",
       "name_default": "Chevak",
       "native": "Chevak",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 114412,
-      "name": "Koledž",
+      "name": "College",
       "name_default": "College",
       "native": "College",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 114640,
-      "name": "Kordoba",
+      "name": "Cordova",
       "name_default": "Cordova",
       "native": "Cordova",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115315,
-      "name": "Dijamantni greben",
+      "name": "Diamond Ridge",
       "name_default": "Diamond Ridge",
       "native": "Diamond Ridge",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 115578,
-      "name": "Nizozemska luka",
+      "name": "Dutch Harbor",
       "name_default": "Dutch Harbor",
       "native": "Dutch Harbor",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 115612,
-      "name": "Rijeka Orao",
+      "name": "Eagle River",
       "name_default": "Eagle River",
       "native": "Eagle River",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 115909,
-      "name": "Zračna baza Eielson",
+      "name": "Eielson Air Force Base",
       "name_default": "Eielson Air Force Base",
       "native": "Eielson Air Force Base",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 116049,
-      "name": "Zračna baza Elmendorf",
+      "name": "Elmendorf Air Force Base",
       "name_default": "Elmendorf Air Force Base",
       "native": "Elmendorf Air Force Base",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 116401,
-      "name": "Poljoprivredna petlja",
+      "name": "Farm Loop",
       "name_default": "Farm Loop",
       "native": "Farm Loop",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 116404,
-      "name": "Poljoprivredna petlja",
+      "name": "Farmers Loop",
       "name_default": "Farmers Loop",
       "native": "Farmers Loop",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 116531,
-      "name": "Udica za ribu",
+      "name": "Fishhook",
       "name_default": "Fishhook",
       "native": "Fishhook",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 117124,
-      "name": "Pristupnik",
+      "name": "Gateway",
       "name_default": "Gateway",
       "native": "Gateway",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 118634,
-      "name": "Hooperov zaljev",
+      "name": "Hooper Bay",
       "name_default": "Hooper Bay",
       "native": "Hooper Bay",
       "type": "city",
@@ -865,9 +865,9 @@
     },
     {
       "id": 119364,
-      "name": "Kalifornijski",
+      "name": "Kalifornsky",
       "name_default": "Kalifornsky",
-      "native": "California",
+      "native": "Kalifornsky",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
       "id": 119698,
       "name": "Kodiak",
       "name_default": "Kodiak",
-      "native": "Kodiac",
+      "native": "Kodiak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 119700,
-      "name": "Stanica Kodiak",
+      "name": "Kodiak Station",
       "name_default": "Kodiak Station",
       "native": "Kodiak Station",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 120024,
-      "name": "Jezera",
+      "name": "Lakes",
       "name_default": "Lakes",
       "native": "Lakes",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 120256,
-      "name": "Lijena planina",
+      "name": "Lazy Mountain",
       "name_default": "Lazy Mountain",
       "native": "Lazy Mountain",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 121561,
-      "name": "Livadska jezera",
+      "name": "Meadow Lakes",
       "name_default": "Meadow Lakes",
       "native": "Meadow Lakes",
       "type": "city",
@@ -1083,7 +1083,7 @@
       "id": 121735,
       "name": "Metlakatla",
       "name_default": "Metlakatla",
-      "native": "Mastakatla",
+      "native": "Metlakatla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
       "id": 122898,
       "name": "Nikiski",
       "name_default": "Nikiski",
-      "native": "Nichisko",
+      "native": "Nikiski",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
       "id": 122934,
       "name": "Nome",
       "name_default": "Nome",
-      "native": "Name",
+      "native": "Nome",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 123084,
-      "name": "Sjeverni pol",
+      "name": "North Pole",
       "name_default": "North Pole",
       "native": "North Pole",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 124724,
-      "name": "Zaljev Prudhoe",
+      "name": "Prudhoe Bay",
       "name_default": "Prudhoe Bay",
       "native": "Prudhoe bay",
       "type": "city",
@@ -1297,9 +1297,9 @@
     },
     {
       "id": 126475,
-      "name": "Općina Skagway",
+      "name": "Skagway",
       "name_default": "Skagway",
-      "native": "Skagway Municipality",
+      "native": "Skagway",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -1423,9 +1423,9 @@
     },
     {
       "id": 111852,
-      "name": "Barrow",
+      "name": "Utqiagvik",
       "name_default": "Utqiagvik",
-      "native": "Barrow",
+      "native": "Utqiagvik",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1459,9 +1459,9 @@
     },
     {
       "id": 128593,
-      "name": "Vasila",
+      "name": "Wasilla",
       "name_default": "Wasilla",
-      "native": "Wasil",
+      "native": "Wasilla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 129304,
-      "name": "Vrba",
+      "name": "Willow",
       "name_default": "Willow",
       "native": "Willow",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 129652,
-      "name": "Grad i općina Yakutat",
+      "name": "Yakutat City and Borough",
       "name_default": "Yakutat City and Borough",
       "native": "Yakutat City and Borough",
       "type": "city",

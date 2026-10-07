@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62292,
-      "name": "Acima das Rochas",
+      "name": "Above Rocks",
       "name_default": "Above Rocks",
       "native": "Above Rocks",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 62348,
-      "name": "Portão de Bellas",
+      "name": "Bellas Gate",
       "name_default": "Bellas Gate",
       "native": "Bellas Gate",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 62369,
-      "name": "Caminhada no pântano",
+      "name": "Bog Walk",
       "name_default": "Bog Walk",
       "native": "Bog Walk",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62436,
-      "name": "Ilhas Cayman",
+      "name": "Caymanas",
       "name_default": "Caymanas",
       "native": "Caymanas",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 62441,
-      "name": "Vila Central",
+      "name": "Central Village",
       "name_default": "Central Village",
       "native": "Central Village",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 62488,
-      "name": "Crescente",
+      "name": "Crescent",
       "name_default": "Crescent",
       "native": "Crescent",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 62490,
       "name": "Cromarty",
       "name_default": "Cromarty",
-      "native": "Cromatyy",
+      "native": "Cromarty",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -293,7 +293,7 @@
       "id": 62540,
       "name": "Ensom",
       "name_default": "Ensom",
-      "native": "Lonely",
+      "native": "Ensom",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 62591,
-      "name": "Acres Dourados",
+      "name": "Golden Acres",
       "name_default": "Golden Acres",
       "native": "Golden Acres",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62609,
-      "name": "Grande Portmore",
+      "name": "Greater Portmore",
       "name_default": "Greater Portmore",
       "native": "Greater Portmore",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 62616,
-      "name": "Parque Gregory",
+      "name": "Gregory Park",
       "name_default": "Gregory Park",
       "native": "Gregory Park",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62660,
-      "name": "Cidade da Independência",
+      "name": "Independence City",
       "name_default": "Independence City",
       "native": "Independence City",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62689,
-      "name": "Pedra angular",
+      "name": "Keystone",
       "name_default": "Keystone",
       "native": "Keystone",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 62696,
-      "name": "Cidade de Kitson",
+      "name": "Kitson Town",
       "name_default": "Kitson Town",
       "native": "Kitson Town",
       "type": "city",
@@ -581,7 +581,7 @@
       "id": 62722,
       "name": "Lluidas Vale",
       "name_default": "Lluidas Vale",
-      "native": "Lluidas is worth",
+      "native": "Lluidas Vale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 62808,
-      "name": "Cabeça de Naggo",
+      "name": "Naggo Head",
       "name_default": "Naggo Head",
       "native": "Naggo head",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62838,
-      "name": "Porto Velho",
+      "name": "Old Harbour",
       "name_default": "Old Harbour",
       "native": "Old Harbour",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 62839,
-      "name": "Baía do Porto Velho",
+      "name": "Old Harbour Bay",
       "name_default": "Old Harbour Bay",
       "native": "Old Harbour Bay",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 62840,
-      "name": "Estrada do Porto Velho",
+      "name": "Old Harbour Road",
       "name_default": "Old Harbour Road",
       "native": "Old Harbour Road",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62860,
-      "name": "Parte de Guys Hill",
+      "name": "Part of Guys Hill",
       "name_default": "Part of Guys Hill",
       "native": "Part of Guys Hill",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 62862,
-      "name": "Parte da Keystone",
+      "name": "Part of Keystone",
       "name_default": "Part of Keystone",
       "native": "Part of Keystone",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 62863,
-      "name": "Parte do Rock Hall",
+      "name": "Part of Rock Hall",
       "name_default": "Part of Rock Hall",
       "native": "Part of Rock Hall",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 62865,
-      "name": "Forte da Passagem",
+      "name": "Passage Fort",
       "name_default": "Passage Fort",
-      "native": "Loud passage",
+      "native": "Passage Fort",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 62870,
-      "name": "Bosque de Pereiras",
+      "name": "Pear Tree Grove",
       "name_default": "Pear Tree Grove",
       "native": "Pear Tree Grove",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62920,
-      "name": "Sequoia",
+      "name": "Redwood",
       "name_default": "Redwood",
       "native": "Redwood",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 63007,
-      "name": "Cidade Espanhola",
+      "name": "Spanish Town",
       "name_default": "Spanish Town",
       "native": "Spanish Town",
       "type": "adm1",
@@ -867,7 +867,7 @@
     },
     {
       "id": 63008,
-      "name": "Centro da Cidade Espanhola",
+      "name": "Spanish Town Central",
       "name_default": "Spanish Town Central",
       "native": "Spanish Town Central",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 63021,
-      "name": "St. John's Leste",
+      "name": "St. John's East",
       "name_default": "St. John's East",
       "native": "St. John's East",
       "type": "city",
@@ -923,7 +923,7 @@
       "id": 63066,
       "name": "Troja",
       "name_default": "Troja",
-      "native": "Troy",
+      "native": "Troja",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 63091,
-      "name": "Monte d'água",
+      "name": "Watermount",
       "name_default": "Watermount",
       "native": "Watermount",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 63095,
-      "name": "Cumberland Ocidental",
+      "name": "West Cumberland",
       "name_default": "West Cumberland",
       "native": "West Cumberland",
       "type": "city",

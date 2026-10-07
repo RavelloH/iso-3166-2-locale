@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 148412,
-      "name": "阿尔托疗养院",
+      "name": "上霍斯皮西奥",
       "name_default": "Alto Hospicio",
       "native": "Alto Hospicio",
       "type": "adm2",
@@ -98,7 +98,7 @@
       "id": 148413,
       "name": "卡米尼亚",
       "name_default": "Camiña",
-      "native": "Caminar",
+      "native": "Camiña",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -114,9 +114,9 @@
     },
     {
       "id": 148414,
-      "name": "科尔查恩",
+      "name": "科尔查内",
       "name_default": "Colchane",
-      "native": "Colcha",
+      "native": "Colchane",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -134,7 +134,7 @@
       "id": 148415,
       "name": "瓦拉",
       "name_default": "Huara",
-      "native": "Puñalado",
+      "native": "Huara",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -168,7 +168,7 @@
     },
     {
       "id": 148416,
-      "name": "异食癖",
+      "name": "皮卡",
       "name_default": "Pica",
       "native": "Pica",
       "type": "adm3",

@@ -75,7 +75,7 @@
     },
     {
       "id": 48198,
-      "name": "آدلینگتون",
+      "name": "ادلینگتون",
       "name_default": "Adlington",
       "native": "Adlington",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48309,
-      "name": "آترتون",
+      "name": "آترتون گریتر منچستر",
       "name_default": "Atherton",
       "native": "Atherton",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 49100,
       "name": "کاپول",
       "name_default": "Coppull",
-      "native": "COPLL",
+      "native": "Coppull",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 49434,
-      "name": "اکلستون",
+      "name": "اکلزتون",
       "name_default": "Eccleston",
       "native": "Eccleston",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 50047,
-      "name": "اینس-این-میکِرفیلد",
+      "name": "اینس این میکرفیلد",
       "name_default": "Ince-in-Makerfield",
       "native": "Ince-in-Makerfield",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51320,
-      "name": "اسکلمرسدیل",
-      "name_default": "Skelmersdale",
-      "native": "Saccompan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38944,
-      "latitude": "53.55024000",
-      "longitude": "-2.77348000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668237",
-      "country_code": "GB",
-      "state_code": "WGN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 51685,
-      "name": "تیلدسلی",
+      "name": "تیلدزلی",
       "name_default": "Tyldesley",
       "native": "Tyldesley",
       "type": "city",

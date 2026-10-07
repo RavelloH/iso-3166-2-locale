@@ -206,7 +206,7 @@
     },
     {
       "id": 763,
-      "name": "Szympans",
+      "name": "Chimpay",
       "name_default": "Chimpay",
       "native": "Chimpancín",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 768,
-      "name": "Pięć Saltosów",
+      "name": "Cinco Saltos",
       "name_default": "Cinco Saltos",
       "native": "Cinco Saltos",
       "type": "city",
@@ -314,9 +314,9 @@
     },
     {
       "id": 798,
-      "name": "Koroner Belisle",
+      "name": "Coronel Belisle",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "Departamento de Avellaneda",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -440,7 +440,7 @@
     },
     {
       "id": 1099,
-      "name": "Generał Conesa",
+      "name": "General Conesa",
       "name_default": "General Conesa",
       "native": "General Conesa",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1100,
-      "name": "Generał Enrique Godoy",
+      "name": "General Enrique Godoy",
       "name_default": "General Enrique Godoy",
       "native": "General Enrique Godoy",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 1103,
-      "name": "Generał Fernández Oro",
+      "name": "General Fernández Oro",
       "name_default": "General Fernández Oro",
       "native": "General Fernández Oro",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1112,
-      "name": "Generał Roca",
+      "name": "General Roca",
       "name_default": "General Roca",
       "native": "General Roca",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1152,
-      "name": "Inżynier Jacobacci",
+      "name": "Ingeniero Jacobacci",
       "name_default": "Ingeniero Jacobacci",
       "native": "Ingeniero Jacobacci",
       "type": "city",
@@ -530,7 +530,7 @@
     },
     {
       "id": 1154,
-      "name": "Inżynier Luis A. Huergo",
+      "name": "Ingeniero Luis A. Huergo",
       "name_default": "Ingeniero Luis A. Huergo",
       "native": "Ingeniero Luis A. Huergo",
       "type": "city",
@@ -584,9 +584,9 @@
     },
     {
       "id": 1263,
-      "name": "Mainque",
+      "name": "Mainqué",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -620,7 +620,7 @@
     },
     {
       "id": 1599,
-      "name": "Ñorquinco",
+      "name": "Ñorquincó",
       "name_default": "Ñorquincó",
       "native": "Ñorquinco",
       "type": "adm2",
@@ -656,7 +656,7 @@
     },
     {
       "id": 1389,
-      "name": "Rio Kolorado",
+      "name": "Río Colorado",
       "name_default": "Río Colorado",
       "native": "Río Colorado",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1418,
-      "name": "San Carlos de Bariloche",
+      "name": "Bariloche",
       "name_default": "San Carlos de Bariloche",
       "native": "San Carlos de Bariloche",
       "type": "adm3",
@@ -710,7 +710,7 @@
     },
     {
       "id": 1486,
-      "name": "Sierra Kolorada",
+      "name": "Sierra Colorada",
       "name_default": "Sierra Colorada",
       "native": "Sierra Colorada",
       "type": "adm2",
@@ -782,7 +782,7 @@
     },
     {
       "id": 1574,
-      "name": "Willa Regina",
+      "name": "Villa Regina",
       "name_default": "Villa Regina",
       "native": "Villa regina",
       "type": "city",

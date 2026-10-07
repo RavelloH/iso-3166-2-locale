@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 67585,
-      "name": "Арауан",
+      "name": "Араван",
       "name_default": "Araouane",
       "native": "Araouane",
       "type": "city",
@@ -77,7 +77,7 @@
       "id": 67593,
       "name": "Серкль де Гундам",
       "name_default": "Cercle de Goundam",
-      "native": "Goundam Circle",
+      "native": "Cercle de Goundam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -95,7 +95,7 @@
       "id": 67596,
       "name": "Dire",
       "name_default": "Dire",
-      "native": "Terrible",
+      "native": "Dire",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 67603,
-      "name": "Гаундам",
+      "name": "Гундам",
       "name_default": "Goundam",
       "native": "Goundam",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 67604,
-      "name": "Гурма-Рарус Серкл",
+      "name": "Гурма-Рарус (округ)",
       "name_default": "Gourma-Rharous Cercle",
       "native": "Gourma-Rharous Cercle",
       "type": "area",
@@ -149,7 +149,7 @@
       "id": 67621,
       "name": "Ниафунке",
       "name_default": "Niafunké",
-      "native": "Niams",
+      "native": "Niafunké",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 67628,
-      "name": "Тимбукту",
+      "name": "Томбукту",
       "name_default": "Timbuktu",
       "native": "Timbuktu",
       "type": "adm1",

@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 110989,
-      "name": "阿布萨罗基",
+      "name": "阿布索罗基",
       "name_default": "Absarokee",
       "native": "Absarokee",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111296,
-      "name": "蟒蛇",
+      "name": "阿纳康达",
       "name_default": "Anaconda",
       "native": "Anaconda",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112338,
-      "name": "大木材",
+      "name": "大廷伯",
       "name_default": "Big Timber",
       "native": "Big Timber",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 112544,
-      "name": "邦纳西河滨",
+      "name": "邦纳-西里弗赛德",
       "name_default": "Bonner-West Riverside",
       "native": "Bonner-West Riverside",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112653,
-      "name": "博兹曼",
+      "name": "博兹曼市",
       "name_default": "Bozeman",
       "native": "Bozeman",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 112918,
-      "name": "勃朗宁",
+      "name": "布朗宁",
       "name_default": "Browning",
       "native": "Browning",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 114028,
-      "name": "圆圈",
+      "name": "瑟克尔",
       "name_default": "Circle",
       "native": "Circle",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 114860,
-      "name": "乌鸦机构",
+      "name": "克罗埃真西",
       "name_default": "Crow Agency",
       "native": "Crow Agency",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 115173,
-      "name": "鹿苑",
+      "name": "迪尔洛奇",
       "name_default": "Deer Lodge",
       "native": "Deer Lodge",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 115343,
-      "name": "狄龙",
+      "name": "迪龙",
       "name_default": "Dillon",
       "native": "Dillon",
       "type": "city",
@@ -811,9 +811,9 @@
     },
     {
       "id": 115910,
-      "name": "埃卡拉卡",
+      "name": "伊卡拉卡",
       "name_default": "Ekalaka",
-      "native": "Ekamaka",
+      "native": "Ekalaka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -847,7 +847,7 @@
     },
     {
       "id": 116264,
-      "name": "常绿",
+      "name": "埃弗格林",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -865,7 +865,7 @@
     },
     {
       "id": 116685,
-      "name": "福赛斯",
+      "name": "福塞斯",
       "name_default": "Forsyth",
       "native": "Forsyth",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 116690,
-      "name": "贝尔纳普堡机构",
+      "name": "贝尔纳普堡代理机构",
       "name_default": "Fort Belknap Agency",
       "native": "Fort Belknap Agency",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 116693,
-      "name": "本顿堡",
+      "name": "顿堡",
       "name_default": "Fort Benton",
       "native": "Fort Benton",
       "type": "city",
@@ -919,7 +919,7 @@
     },
     {
       "id": 116790,
-      "name": "《四角》",
+      "name": "福科纳斯",
       "name_default": "Four Corners",
       "native": "Four Corners",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 116935,
-      "name": "法国城",
+      "name": "弗伦奇敦",
       "name_default": "Frenchtown",
       "native": "Frenchtown",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 117894,
-      "name": "汉密尔顿",
+      "name": "哈密尔顿",
       "name_default": "Hamilton",
       "native": "Hamilton",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 118154,
-      "name": "勒阿弗尔",
+      "name": "哈佛",
       "name_default": "Havre",
       "native": "Havre",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 118251,
-      "name": "海伦娜",
+      "name": "赫勒拿",
       "name_default": "Helena",
       "native": "Helena",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 118252,
-      "name": "海伦娜谷东北部",
+      "name": "东北海伦娜瓦利",
       "name_default": "Helena Valley Northeast",
       "native": "Helena Valley Northeast",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 118253,
-      "name": "海伦娜谷西北",
+      "name": "西北海伦娜瓦利",
       "name_default": "Helena Valley Northwest",
       "native": "Helena Valley Northwest",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 118254,
-      "name": "海伦娜谷东南",
+      "name": "东南海伦娜瓦利",
       "name_default": "Helena Valley Southeast",
       "native": "Helena Valley Southeast",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 118255,
-      "name": "海伦娜谷西中部",
+      "name": "中西海伦娜瓦利",
       "name_default": "Helena Valley West Central",
       "native": "Helena Valley West Central",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 118256,
-      "name": "海伦娜西区",
+      "name": "西海伦娜",
       "name_default": "Helena West Side",
       "native": "Helena West Side",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 120033,
-      "name": "湖边",
+      "name": "莱克赛德",
       "name_default": "Lakeside",
       "native": "Lakeside",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 120070,
-      "name": "跛脚鹿",
+      "name": "莱姆迪尔",
       "name_default": "Lame Deer",
       "native": "Lame Deer",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 120193,
-      "name": "月桂树",
+      "name": "劳雷尔",
       "name_default": "Laurel",
       "native": "Laurel",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 123535,
-      "name": "果园家园",
+      "name": "奥查德霍姆斯",
       "name_default": "Orchard Homes",
       "native": "Orchard Homes",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 124132,
-      "name": "菲利普斯堡",
+      "name": "菲利普",
       "name_default": "Philipsburg",
       "native": "Philipsburg",
       "type": "city",
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 124326,
-      "name": "平原",
+      "name": "普莱恩斯",
       "name_default": "Plains",
       "native": "Plains",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 124390,
-      "name": "普伦蒂伍德",
+      "name": "坡兰特伍德",
       "name_default": "Plentywood",
       "native": "Plentywood",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 124954,
-      "name": "红色小屋",
+      "name": "雷德洛治",
       "name_default": "Red Lodge",
       "native": "Red Lodge",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 125474,
-      "name": "围捕",
+      "name": "朗达普",
       "name_default": "Roundup",
       "native": "Roundup",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 125564,
-      "name": "赖盖特",
+      "name": "拉伊盖特",
       "name_default": "Ryegate",
       "native": "Ryegate",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 126125,
-      "name": "西利湖",
+      "name": "Seeley Lake护林员站点",
       "name_default": "Seeley Lake",
       "native": "Seeley Lake",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 127049,
-      "name": "史蒂文斯维尔",
+      "name": "史蒂芬斯维尔",
       "name_default": "Stevensville",
       "native": "Stevensville",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 127238,
-      "name": "阳光草原",
+      "name": "森普雷里",
       "name_default": "Sun Prairie",
       "native": "Sun Prairie",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 127282,
-      "name": "优越的",
+      "name": "苏必利尔",
       "name_default": "Superior",
       "native": "Superior",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 127611,
-      "name": "三岔路口",
+      "name": "斯里福克斯",
       "name_default": "Three Forks",
       "native": "Three Forks",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 128470,
-      "name": "温泉",
+      "name": "沃姆斯普林斯",
       "name_default": "Warm Springs",
       "native": "Warm Springs",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 129166,
-      "name": "白鱼",
+      "name": "怀特菲什",
       "name_default": "Whitefish",
       "native": "Whitefish",
       "type": "city",
@@ -2071,7 +2071,7 @@
     },
     {
       "id": 129172,
-      "name": "白厅",
+      "name": "怀特霍尔",
       "name_default": "Whitehall",
       "native": "Whitehall",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 129213,
-      "name": "维博",
+      "name": "威博",
       "name_default": "Wibaux",
       "native": "Wibaux",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 129415,
-      "name": "温内特",
+      "name": "温纳特",
       "name_default": "Winnett",
       "native": "Winnett",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 129473,
-      "name": "狼点",
+      "name": "沃尔夫波因特",
       "name_default": "Wolf Point",
       "native": "Wolf Point",
       "type": "city",

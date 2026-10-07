@@ -255,7 +255,7 @@
       "id": 111081,
       "name": "Akutan",
       "name_default": "Akutan",
-      "native": "Acute",
+      "native": "Akutan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -271,7 +271,7 @@
     },
     {
       "id": 111303,
-      "name": "Punkt kotwiczenia",
+      "name": "Anchor Point",
       "name_default": "Anchor Point",
       "native": "Anchor Point",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111305,
-      "name": "Zamocowanie",
+      "name": "Anchorage",
       "name_default": "Anchorage",
       "native": "Anchorage",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 111724,
-      "name": "Borsuk",
+      "name": "Badger",
       "name_default": "Badger",
       "native": "Badger",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112281,
-      "name": "Betel",
+      "name": "Bethel",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 112325,
-      "name": "Duże Jezioro",
+      "name": "Big Lake",
       "name_default": "Big Lake",
       "native": "Big Lake",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 114412,
-      "name": "Kolegium",
+      "name": "College",
       "name_default": "College",
       "native": "College",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 114640,
-      "name": "Kordowa",
+      "name": "Cordova",
       "name_default": "Cordova",
       "native": "Cordova",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115315,
-      "name": "Diamentowy Grzbiet",
+      "name": "Diamond Ridge",
       "name_default": "Diamond Ridge",
       "native": "Diamond Ridge",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 115578,
-      "name": "Holenderski Port",
+      "name": "Dutch Harbor",
       "name_default": "Dutch Harbor",
       "native": "Dutch Harbor",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 115612,
-      "name": "Rzeka Eagle",
+      "name": "Eagle River",
       "name_default": "Eagle River",
       "native": "Eagle River",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 115909,
-      "name": "Baza Sił Powietrznych Eielson",
+      "name": "Eielson Air Force Base",
       "name_default": "Eielson Air Force Base",
       "native": "Eielson Air Force Base",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 116049,
-      "name": "Baza Sił Powietrznych Elmendorf",
+      "name": "Elmendorf Air Force Base",
       "name_default": "Elmendorf Air Force Base",
       "native": "Elmendorf Air Force Base",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 116401,
-      "name": "Pętla Farmy",
+      "name": "Farm Loop",
       "name_default": "Farm Loop",
       "native": "Farm Loop",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 116404,
-      "name": "Pętla Rolnicza",
+      "name": "Farmers Loop",
       "name_default": "Farmers Loop",
       "native": "Farmers Loop",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 116531,
-      "name": "Haczyk wędkarski",
+      "name": "Fishhook",
       "name_default": "Fishhook",
       "native": "Fishhook",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 117124,
-      "name": "Wejście",
+      "name": "Gateway",
       "name_default": "Gateway",
       "native": "Gateway",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 118634,
-      "name": "Zatoka Hoopera",
+      "name": "Hooper Bay",
       "name_default": "Hooper Bay",
       "native": "Hooper Bay",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 119364,
       "name": "Kalifornsky",
       "name_default": "Kalifornsky",
-      "native": "California",
+      "native": "Kalifornsky",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 119583,
-      "name": "Zatoka Królewska",
+      "name": "King Cove",
       "name_default": "King Cove",
       "native": "King Cove",
       "type": "city",
@@ -957,7 +957,7 @@
       "id": 119698,
       "name": "Kodiak",
       "name_default": "Kodiak",
-      "native": "Kodiac",
+      "native": "Kodiak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 119700,
-      "name": "Stacja Kodiak",
+      "name": "Kodiak Station",
       "name_default": "Kodiak Station",
       "native": "Kodiak Station",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 120024,
-      "name": "Jeziora",
+      "name": "Lakes",
       "name_default": "Lakes",
       "native": "Lakes",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 120256,
-      "name": "Leniwa Góra",
+      "name": "Lazy Mountain",
       "name_default": "Lazy Mountain",
       "native": "Lazy Mountain",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 153919,
-      "name": "Marszałek",
+      "name": "Marshall",
       "name_default": "Marshall",
       "native": "Marshall",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 121561,
-      "name": "Jeziora Łąkowe",
+      "name": "Meadow Lakes",
       "name_default": "Meadow Lakes",
       "native": "Meadow Lakes",
       "type": "city",
@@ -1083,7 +1083,7 @@
       "id": 121735,
       "name": "Metlakatla",
       "name_default": "Metlakatla",
-      "native": "Mastakatla",
+      "native": "Metlakatla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
       "id": 122898,
       "name": "Nikiski",
       "name_default": "Nikiski",
-      "native": "Nichisko",
+      "native": "Nikiski",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
       "id": 122934,
       "name": "Nome",
       "name_default": "Nome",
-      "native": "Name",
+      "native": "Nome",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 123084,
-      "name": "Biegun Północny",
+      "name": "North Pole",
       "name_default": "North Pole",
       "native": "North Pole",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 123760,
-      "name": "Pielgrzym z ziemi świętej",
+      "name": "Palmer",
       "name_default": "Palmer",
       "native": "Palmer",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 124724,
-      "name": "Zatoka Prudhoe",
+      "name": "Prudhoe Bay",
       "name_default": "Prudhoe Bay",
       "native": "Prudhoe bay",
       "type": "city",
@@ -1297,9 +1297,9 @@
     },
     {
       "id": 126475,
-      "name": "Gmina Skagway",
+      "name": "Skagway",
       "name_default": "Skagway",
-      "native": "Skagway Municipality",
+      "native": "Skagway",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 127031,
-      "name": "Szterling",
+      "name": "Sterling",
       "name_default": "Sterling",
       "native": "Sterling",
       "type": "city",
@@ -1423,9 +1423,9 @@
     },
     {
       "id": 111852,
-      "name": "Kurhan",
+      "name": "Barrow",
       "name_default": "Utqiagvik",
-      "native": "Barrow",
+      "native": "Utqiagvik",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
       "id": 128593,
       "name": "Wasilla",
       "name_default": "Wasilla",
-      "native": "Wasil",
+      "native": "Wasilla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 129304,
-      "name": "Wierzba",
+      "name": "Willow",
       "name_default": "Willow",
       "native": "Willow",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 129652,
-      "name": "Miasto i dzielnica Yakutat",
+      "name": "Yakutat City and Borough",
       "name_default": "Yakutat City and Borough",
       "native": "Yakutat City and Borough",
       "type": "city",

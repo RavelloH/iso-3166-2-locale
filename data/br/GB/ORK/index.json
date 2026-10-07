@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 50210,
-      "name": "Kirkwall",
+      "name": "Baile na h-Eaglaise",
       "name_default": "Kirkwall",
       "native": "Kirkwall",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 50812,
-      "name": "Orc'h",
+      "name": "Orkney",
       "name_default": "Orkney",
       "native": "Orkney",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 51501,
-      "name": "Kreñvder",
+      "name": "Stromness",
       "name_default": "Stromness",
       "native": "Stromness",
       "type": "city",
@@ -129,9 +129,9 @@
     },
     {
       "id": 51615,
-      "name": "Thurso",
+      "name": "Inbhir Theòrsa",
       "name_default": "Thurso",
-      "native": "Tos",
+      "native": "Thurso",
       "type": "city",
       "level": null,
       "parent_id": null,

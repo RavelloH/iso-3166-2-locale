@@ -271,7 +271,7 @@
     },
     {
       "id": 111048,
-      "name": "전진",
+      "name": "Advance",
       "name_default": "Advance",
       "native": "Advance",
       "type": "city",
@@ -291,7 +291,7 @@
       "id": 111051,
       "name": "애프턴",
       "name_default": "Affton",
-      "native": "Affinity",
+      "native": "Affton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -325,7 +325,7 @@
     },
     {
       "id": 111243,
-      "name": "올튼",
+      "name": "올턴",
       "name_default": "Alton",
       "native": "Alton",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 111398,
-      "name": "애플턴 시",
+      "name": "애플턴시티",
       "name_default": "Appleton City",
       "native": "Appleton City",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111484,
-      "name": "아놀드",
+      "name": "아널드",
       "name_default": "Arnold",
       "native": "Arnold",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 112078,
-      "name": "미인",
+      "name": "Belle",
       "name_default": "Belle",
       "native": "Belle",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 112195,
-      "name": "벤튼",
+      "name": "벤턴",
       "name_default": "Benton",
       "native": "Benton",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 112477,
-      "name": "블루 스프링스",
+      "name": "블루스프링스",
       "name_default": "Blue Springs",
       "native": "Blue Springs",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 112517,
-      "name": "볼리바르",
+      "name": "볼리바",
       "name_default": "Bolivar",
       "native": "Bolivar",
       "type": "city",
@@ -813,7 +813,7 @@
       "id": 112539,
       "name": "본 테르",
       "name_default": "Bonne Terre",
-      "native": "Good land",
+      "native": "Bonne Terre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 113108,
-      "name": "집사",
+      "name": "버틀러",
       "name_default": "Butler",
       "native": "Butler",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 113142,
-      "name": "번스 밀",
+      "name": "번스밀",
       "name_default": "Byrnes Mill",
       "native": "Byrnes Mill",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 113238,
-      "name": "칼버튼 공원",
+      "name": "Calverton Park",
       "name_default": "Calverton Park",
       "native": "Calverton Park",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 113348,
-      "name": "주",
+      "name": "Canton",
       "name_default": "Canton",
       "native": "Canton",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 113709,
-      "name": "채피",
+      "name": "체이피",
       "name_default": "Chaffee",
       "native": "Chaffee",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 113901,
-      "name": "침대 겸용 소파",
+      "name": "체스터필드",
       "name_default": "Chesterfield",
       "native": "Chesterfield",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 114147,
-      "name": "클락슨 밸리",
+      "name": "클라크슨밸리",
       "name_default": "Clarkson Valley",
       "native": "Clarkson Valley",
       "type": "city",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 114158,
-      "name": "클락턴",
+      "name": "클라크턴",
       "name_default": "Clarkton",
       "native": "Clarkton",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 114251,
-      "name": "영리한",
+      "name": "클레버",
       "name_default": "Clever",
       "native": "Clever",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 114535,
-      "name": "일치",
+      "name": "Concord",
       "name_default": "Concord",
       "native": "Concord",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 114597,
-      "name": "쿨 밸리",
+      "name": "쿨밸리",
       "name_default": "Cool Valley",
       "native": "Cool Valley",
       "type": "city",
@@ -1747,9 +1747,9 @@
     },
     {
       "id": 114816,
-      "name": "크리브 커",
+      "name": "크리브쿠어",
       "name_default": "Creve Coeur",
-      "native": "Shrimp",
+      "native": "Creve Coeur",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 114875,
-      "name": "크리스탈 시티",
+      "name": "크리스털시티",
       "name_default": "Crystal City",
       "native": "Crystal City",
       "type": "city",
@@ -1839,7 +1839,7 @@
       "id": 115117,
       "name": "데 소토",
       "name_default": "De Soto",
-      "native": "Of Soto",
+      "native": "De Soto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 115274,
-      "name": "데스 페레스",
+      "name": "더페어",
       "name_default": "Des Peres",
       "native": "DES Peres",
       "type": "city",
@@ -1893,7 +1893,7 @@
       "id": 115286,
       "name": "데슬로게",
       "name_default": "Desloge",
-      "native": "Darin",
+      "native": "Desloge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 115740,
-      "name": "이스트 프레리",
+      "name": "이스트프레리",
       "name_default": "East Prairie",
       "native": "East Prairie",
       "type": "city",
@@ -2055,7 +2055,7 @@
       "id": 115923,
       "name": "엘도라도 스프링스",
       "name_default": "El Dorado Springs",
-      "native": "The Golden Springs",
+      "native": "El Dorado Springs",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 116439,
-      "name": "파예트",
+      "name": "페이엣",
       "name_default": "Fayette",
       "native": "Fayette",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 116597,
-      "name": "플로리산트",
+      "name": "플로리선트",
       "name_default": "Florissant",
       "native": "Florissant",
       "type": "city",
@@ -2557,7 +2557,7 @@
     },
     {
       "id": 117196,
-      "name": "기드온",
+      "name": "기디언",
       "name_default": "Gideon",
       "native": "Gideon",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 117236,
-      "name": "글래드스턴",
+      "name": "글래드스톤",
       "name_default": "Gladstone",
       "native": "Gladstone",
       "type": "city",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 117423,
-      "name": "고워",
+      "name": "가워",
       "name_default": "Gower",
       "native": "Gower",
       "type": "city",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 117506,
-      "name": "그랜트 시티",
+      "name": "그랜트시티",
       "name_default": "Grant City",
       "native": "Grant City",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 117605,
-      "name": "그린 파크",
+      "name": "그린파크",
       "name_default": "Green Park",
       "native": "Green Park",
       "type": "city",
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 117965,
-      "name": "한니발",
+      "name": "해니벌",
       "name_default": "Hannibal",
       "native": "Hannibal",
       "type": "city",
@@ -2935,9 +2935,9 @@
     },
     {
       "id": 118194,
-      "name": "하이티",
+      "name": "헤이타이",
       "name_default": "Hayti",
-      "native": "Hasty",
+      "native": "Hayti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 118773,
-      "name": "휴먼스빌",
+      "name": "휴먼즈빌",
       "name_default": "Humansville",
       "native": "Humansville",
       "type": "city",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": 118892,
-      "name": "독립",
+      "name": "인디펜던스",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 119173,
-      "name": "제퍼슨 시티",
+      "name": "제퍼슨시티",
       "name_default": "Jefferson City",
       "native": "Jefferson City",
       "type": "city",
@@ -3333,7 +3333,7 @@
       "id": 119353,
       "name": "카호카",
       "name_default": "Kahoka",
-      "native": "Lock",
+      "native": "Kahoka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3439,7 +3439,7 @@
     },
     {
       "id": 119578,
-      "name": "킹 시티",
+      "name": "킹시티",
       "name_default": "King City",
       "native": "King City",
       "type": "city",
@@ -3549,7 +3549,7 @@
       "id": 119768,
       "name": "라 몬테",
       "name_default": "La Monte",
-      "native": "The mountain",
+      "native": "La Monte",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3619,7 +3619,7 @@
     },
     {
       "id": 119932,
-      "name": "로타와나 호수",
+      "name": "Lake Lotawana",
       "name_default": "Lake Lotawana",
       "native": "Lake Lotawana",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 119956,
-      "name": "오자크 호수",
+      "name": "Lake Ozark",
       "name_default": "Lake Ozark",
       "native": "Lake Ozark",
       "type": "city",
@@ -3655,7 +3655,7 @@
     },
     {
       "id": 119972,
-      "name": "세인트 루이스 호수",
+      "name": "레이크세인트루이스",
       "name_default": "Lake Saint Louis",
       "native": "Lake Saint Louis",
       "type": "city",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 119994,
-      "name": "위네바고 호수",
+      "name": "Lake Winnebago",
       "name_default": "Lake Winnebago",
       "native": "Lake Winnebago",
       "type": "city",
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 120059,
-      "name": "라마르",
+      "name": "라마",
       "name_default": "Lamar",
       "native": "Lamar",
       "type": "city",
@@ -3799,7 +3799,7 @@
     },
     {
       "id": 120286,
-      "name": "레바논",
+      "name": "레버넌",
       "name_default": "Lebanon",
       "native": "Lebanon",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 120461,
-      "name": "자유",
+      "name": "리버티",
       "name_default": "Liberty",
       "native": "Liberty",
       "type": "city",
@@ -4105,7 +4105,7 @@
     },
     {
       "id": 121188,
-      "name": "마블 힐",
+      "name": "마블힐",
       "name_default": "Marble Hill",
       "native": "Marble Hill",
       "type": "city",
@@ -4177,7 +4177,7 @@
     },
     {
       "id": 121303,
-      "name": "마샬",
+      "name": "마셜",
       "name_default": "Marshall",
       "native": "Marshall",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 121356,
-      "name": "메릴랜드 하이츠",
+      "name": "메릴랜드하이츠",
       "name_default": "Maryland Heights",
       "native": "Maryland Heights",
       "type": "city",
@@ -4267,7 +4267,7 @@
     },
     {
       "id": 121449,
-      "name": "메이스빌",
+      "name": "메이즈빌",
       "name_default": "Maysville",
       "native": "Maysville",
       "type": "city",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": 121839,
-      "name": "밀라노",
+      "name": "마일런",
       "name_default": "Milan",
       "native": "Milan",
       "type": "city",
@@ -4393,7 +4393,7 @@
     },
     {
       "id": 122028,
-      "name": "몰린 에이커스",
+      "name": "몰린에이커스",
       "name_default": "Moline Acres",
       "native": "Moline Acres",
       "type": "city",
@@ -4501,7 +4501,7 @@
     },
     {
       "id": 122322,
-      "name": "마운드 시티",
+      "name": "마운드 시",
       "name_default": "Mound City",
       "native": "Mound City",
       "type": "city",
@@ -4701,7 +4701,7 @@
       "id": 122912,
       "name": "닉사",
       "name_default": "Nixa",
-      "native": "Snowy",
+      "native": "Nixa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4753,7 +4753,7 @@
     },
     {
       "id": 123045,
-      "name": "노스 캔자스 시티",
+      "name": "노스캔자스시티",
       "name_default": "North Kansas City",
       "native": "North Kansas City",
       "type": "city",
@@ -4789,7 +4789,7 @@
     },
     {
       "id": 123227,
-      "name": "오팔론",
+      "name": "오팰런",
       "name_default": "O'Fallon",
       "native": "O'Fallon",
       "type": "city",
@@ -5079,7 +5079,7 @@
       "id": 123720,
       "name": "페이지데일",
       "name_default": "Pagedale",
-      "native": "To the escape",
+      "native": "Pagedale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 123832,
-      "name": "파리",
+      "name": "패리스",
       "name_default": "Paris",
       "native": "Paris",
       "type": "city",
@@ -5257,7 +5257,7 @@
     },
     {
       "id": 124234,
-      "name": "소나무 잔디밭",
+      "name": "파인론",
       "name_default": "Pine Lawn",
       "native": "Pine Lawn",
       "type": "city",
@@ -5293,7 +5293,7 @@
     },
     {
       "id": 124352,
-      "name": "플랫 시티",
+      "name": "플랫시티",
       "name_default": "Platte City",
       "native": "Platte City",
       "type": "city",
@@ -5329,7 +5329,7 @@
     },
     {
       "id": 124368,
-      "name": "플레전트 힐",
+      "name": "플레전트힐",
       "name_default": "Pleasant Hill",
       "native": "Pleasant Hill",
       "type": "city",
@@ -5347,7 +5347,7 @@
     },
     {
       "id": 124377,
-      "name": "플레전트 밸리",
+      "name": "플레전트밸리",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -5365,7 +5365,7 @@
     },
     {
       "id": 124484,
-      "name": "포플러 블러프",
+      "name": "포플러블러프",
       "name_default": "Poplar Bluff",
       "native": "Poplar Bluff",
       "type": "city",
@@ -5545,7 +5545,7 @@
     },
     {
       "id": 125086,
-      "name": "리치몬드",
+      "name": "리치먼드",
       "name_default": "Richmond",
       "native": "Richmond",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 125103,
-      "name": "리치먼드 하이츠",
+      "name": "리치먼드하이츠",
       "name_default": "Richmond Heights",
       "native": "Richmond Heights",
       "type": "city",
@@ -5581,7 +5581,7 @@
     },
     {
       "id": 125203,
-      "name": "강변",
+      "name": "리버사이드",
       "name_default": "Riverside",
       "native": "Riverside",
       "type": "city",
@@ -5689,7 +5689,7 @@
     },
     {
       "id": 125598,
-      "name": "세인트 앤",
+      "name": "세인트앤",
       "name_default": "Saint Ann",
       "native": "Saint Ann",
       "type": "city",
@@ -5707,7 +5707,7 @@
     },
     {
       "id": 125612,
-      "name": "세인트 찰스",
+      "name": "세인트찰스",
       "name_default": "Saint Charles",
       "native": "Saint Charles",
       "type": "city",
@@ -5725,9 +5725,9 @@
     },
     {
       "id": 125618,
-      "name": "세인트 클레어",
+      "name": "세인트클레어",
       "name_default": "Saint Clair",
-      "native": "Saint -light",
+      "native": "Saint Clair",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5815,7 +5815,7 @@
     },
     {
       "id": 125671,
-      "name": "성 요셉",
+      "name": "세인트조셉",
       "name_default": "Saint Joseph",
       "native": "Saint Joseph",
       "type": "city",
@@ -5851,7 +5851,7 @@
     },
     {
       "id": 125701,
-      "name": "세인트 폴",
+      "name": "세인트폴",
       "name_default": "Saint Paul",
       "native": "Saint Paul",
       "type": "city",
@@ -5869,7 +5869,7 @@
     },
     {
       "id": 125710,
-      "name": "세인트 피터스",
+      "name": "세인트피터스",
       "name_default": "Saint Peters",
       "native": "Saint Peters",
       "type": "city",
@@ -5923,7 +5923,7 @@
     },
     {
       "id": 125730,
-      "name": "살렘",
+      "name": "세일럼",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -6175,7 +6175,7 @@
     },
     {
       "id": 126414,
-      "name": "시케스톤",
+      "name": "사이크스턴",
       "name_default": "Sikeston",
       "native": "Sikeston",
       "type": "city",
@@ -6229,7 +6229,7 @@
     },
     {
       "id": 126800,
-      "name": "스페인 호수",
+      "name": "Spanish Lake",
       "name_default": "Spanish Lake",
       "native": "Spanish Lake",
       "type": "city",
@@ -6445,7 +6445,7 @@
     },
     {
       "id": 127275,
-      "name": "선셋 힐스",
+      "name": "선셋힐스",
       "name_default": "Sunset Hills",
       "native": "Sunset Hills",
       "type": "city",
@@ -6463,7 +6463,7 @@
     },
     {
       "id": 127338,
-      "name": "스위트 스프링스",
+      "name": "스위트스프링스",
       "name_default": "Sweet Springs",
       "native": "Sweet Springs",
       "type": "city",
@@ -6519,7 +6519,7 @@
       "id": 127523,
       "name": "테르 뒤 락",
       "name_default": "Terre du Lac",
-      "native": "Lake",
+      "native": "Terre du Lac",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6537,7 +6537,7 @@
       "id": 127521,
       "name": "테레 호트",
       "name_default": "Terre Haute",
-      "native": "High earth",
+      "native": "Terre Haute",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 127674,
-      "name": "티프턴",
+      "name": "팁턴",
       "name_default": "Tipton",
       "native": "Tipton",
       "type": "city",
@@ -6661,7 +6661,7 @@
     },
     {
       "id": 127973,
-      "name": "노동 조합",
+      "name": "유니언",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -6697,7 +6697,7 @@
     },
     {
       "id": 128027,
-      "name": "유니버시티 시티",
+      "name": "유니버시티시티",
       "name_default": "University City",
       "native": "University City",
       "type": "city",
@@ -6715,7 +6715,7 @@
     },
     {
       "id": 128114,
-      "name": "밸리 파크",
+      "name": "밸리파크",
       "name_default": "Valley Park",
       "native": "Valley Park",
       "type": "city",
@@ -6751,7 +6751,7 @@
     },
     {
       "id": 128146,
-      "name": "반달리아",
+      "name": "밴데일리아",
       "name_default": "Vandalia",
       "native": "Vandalia",
       "type": "city",
@@ -6769,7 +6769,7 @@
     },
     {
       "id": 128163,
-      "name": "벨다 마을",
+      "name": "벨다시티",
       "name_default": "Velda Village",
       "native": "Velda Village",
       "type": "city",
@@ -6805,7 +6805,7 @@
     },
     {
       "id": 128210,
-      "name": "베르사유",
+      "name": "버세일스",
       "name_default": "Versailles",
       "native": "Versailles",
       "type": "city",
@@ -6859,7 +6859,7 @@
     },
     {
       "id": 128278,
-      "name": "비니타 공원",
+      "name": "비니타파크",
       "name_default": "Vinita Park",
       "native": "Vinita Park",
       "type": "city",
@@ -6949,7 +6949,7 @@
     },
     {
       "id": 128522,
-      "name": "워슨 우즈",
+      "name": "워슨우즈",
       "name_default": "Warson Woods",
       "native": "Warson Woods",
       "type": "city",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": 128716,
-      "name": "웨더비 호수",
+      "name": "웨더비레이크",
       "name_default": "Weatherby Lake",
       "native": "Weatherby Lake",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 128743,
-      "name": "웹스터 그로브스",
+      "name": "웹스터그로브스",
       "name_default": "Webster Groves",
       "native": "Webster Groves",
       "type": "city",
@@ -7057,7 +7057,7 @@
     },
     {
       "id": 128771,
-      "name": "웰던 스프링",
+      "name": "웰던스프링스",
       "name_default": "Weldon Spring",
       "native": "Weldon Spring",
       "type": "city",
@@ -7129,7 +7129,7 @@
     },
     {
       "id": 128956,
-      "name": "웨스트 플레인스",
+      "name": "웨스트플레인스",
       "name_default": "West Plains",
       "native": "West Plains",
       "type": "city",
@@ -7309,7 +7309,7 @@
     },
     {
       "id": 129559,
-      "name": "우드슨 테라스",
+      "name": "우드슨테라스",
       "name_default": "Woodson Terrace",
       "native": "Woodson Terrace",
       "type": "city",

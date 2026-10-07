@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "Ar Ramtha",
+      "name": "Ar Ramthā",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 63151,
-      "name": "At Čajjiba",
+      "name": "Aţ Ţayyibah",
       "name_default": "Aţ Ţayyibah",
       "native": "Aţ Ţayyibah",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -111,7 +111,7 @@
     },
     {
       "id": 63152,
-      "name": "At Ţurrah",
+      "name": "Aţ Ţurrah",
       "name_default": "Aţ Ţurrah",
       "native": "عط طورة",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 63155,
-      "name": "Bayt Idis",
+      "name": "Bayt Īdis",
       "name_default": "Bayt Īdis",
       "native": "بيت إيديس",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 63154,
-      "name": "Bejt Jafa",
+      "name": "Bayt Yāfā",
       "name_default": "Bayt Yāfā",
       "native": "بيت يافا",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63158,
-      "name": "Dayr Yusuf",
+      "name": "Dayr Yūsuf",
       "name_default": "Dayr Yūsuf",
       "native": "دير يوسف",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 63201,
-      "name": "Hakama",
+      "name": "Ḩakamā",
       "name_default": "Ḩakamā",
       "native": "حَكاما",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63205,
-      "name": "Hatim",
+      "name": "Ḩātim",
       "name_default": "Ḩātim",
       "native": "حاتم",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 63163,
-      "name": "Kafr Abil",
+      "name": "Kafr Abīl",
       "name_default": "Kafr Abīl",
       "native": "كفر أبييل",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63167,
-      "name": "Kharja",
+      "name": "Kharjā",
       "name_default": "Kharjā",
       "native": "خرجا",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 63172,
-      "name": "Malka",
+      "name": "Malkā",
       "name_default": "Malkā",
       "native": "مالكا",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63176,
-      "name": "Kumajm",
+      "name": "Qumaym",
       "name_default": "Qumaym",
       "native": "قميم",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 63184,
-      "name": "Saham al-Kaffārāt",
+      "name": "Saḩam al Kaffārāt",
       "name_default": "Saḩam al Kaffārāt",
       "native": "سهم الكفارات",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63200,
-      "name": "Šamma",
+      "name": "Şammā",
       "name_default": "Şammā",
       "native": "شما",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 63189,
-      "name": "Tibna",
+      "name": "Tibnah",
       "name_default": "Tibnah",
       "native": "تبنة",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 63193,
-      "name": "Vakkaš",
+      "name": "Waqqāş",
       "name_default": "Waqqāş",
       "native": "وقاص",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 63197,
-      "name": "Zahar",
+      "name": "Zaḩar",
       "name_default": "Zaḩar",
       "native": "زهار",
       "type": "city",

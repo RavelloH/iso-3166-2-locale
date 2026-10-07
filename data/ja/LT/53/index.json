@@ -54,5 +54,24 @@
     "wikiDataId": "Q68929",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66689,
+      "name": "ウクメルゲ",
+      "name_default": "Ukmerge",
+      "native": "Ukmerge",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21048,
+      "latitude": "55.25000000",
+      "longitude": "24.75000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q213127",
+      "country_code": "LT",
+      "state_code": "53",
+      "state_id": 1596,
+      "country_id": 126
+    }
+  ]
 }

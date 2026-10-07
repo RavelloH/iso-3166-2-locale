@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57082,
-      "name": "Атенри",
+      "name": "Атенрай",
       "name_default": "Athenry",
       "native": "Athenry",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 57095,
-      "name": "Баллинаслоу",
+      "name": "Баллинасло",
       "name_default": "Ballinasloe",
       "native": "Ballinasloe",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 57121,
       "name": "Беарна",
       "name_default": "Bearna",
-      "native": "Gap",
+      "native": "Bearna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 57147,
-      "name": "Каррик-он-Шеннон",
+      "name": "Каррик-он-Шаннон",
       "name_default": "Carrick-on-Shannon",
       "native": "Carrick-on-Shannon",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 57164,
-      "name": "Каслри",
+      "name": "Каслрей",
       "name_default": "Castlerea",
       "native": "Castlerea",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 57176,
-      "name": "Клэрголвей",
+      "name": "Клэрголуэй",
       "name_default": "Claregalway",
       "native": "Claregalway",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 57197,
-      "name": "Графство Голуэй",
+      "name": "County Galway",
       "name_default": "County Galway",
       "native": "County Galway",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 57198,
-      "name": "Графство Литрим",
+      "name": "Литрим",
       "name_default": "County Leitrim",
       "native": "County Leitrim",
       "type": "city",
@@ -453,9 +453,9 @@
     },
     {
       "id": 57256,
-      "name": "Голуэй Сити",
+      "name": "Голуэй",
       "name_default": "Galway",
-      "native": "Galway City",
+      "native": "Galway",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 57255,
-      "name": "Гаиллимх",
+      "name": "Голуэй",
       "name_default": "Galway",
       "native": "Galway",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 57293,
-      "name": "Кинлоу",
+      "name": "Кинлох",
       "name_default": "Kinlough",
       "native": "Kinlough",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57310,
-      "name": "Лохрея",
+      "name": "Лохрей",
       "name_default": "Loughrea",
       "native": "Loughrea",
       "type": "city",
@@ -597,9 +597,9 @@
     },
     {
       "id": 57321,
-      "name": "Округ Мейо",
+      "name": "Мейо",
       "name_default": "Mayo",
-      "native": "Mayo County",
+      "native": "Mayo",
       "type": "county",
       "level": null,
       "parent_id": null,
@@ -615,7 +615,7 @@
     },
     {
       "id": 57337,
-      "name": "Мойкуллен",
+      "name": "Мойкаллен",
       "name_default": "Moycullen",
       "native": "Moycullen",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 57357,
-      "name": "Оттерард",
+      "name": "Утерард",
       "name_default": "Oughterard",
       "native": "Oughterard",
       "type": "city",
@@ -669,9 +669,9 @@
     },
     {
       "id": 57366,
-      "name": "Портумна",
+      "name": "Портамна",
       "name_default": "Portumna",
-      "native": "Porta",
+      "native": "Portumna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 57404,
-      "name": "Стрэндхилл",
+      "name": "Страндхилл",
       "name_default": "Strandhill",
       "native": "Strandhill",
       "type": "city",
@@ -779,7 +779,7 @@
       "id": 57421,
       "name": "Туам",
       "name_default": "Tuam",
-      "native": "Tool",
+      "native": "Tuam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 57430,
-      "name": "Вестпорт",
+      "name": "Уэстпорт",
       "name_default": "Westport",
       "native": "Westport",
       "type": "city",

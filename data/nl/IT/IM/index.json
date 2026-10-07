@@ -111,7 +111,7 @@
     },
     {
       "id": 135616,
-      "name": "Wapen",
+      "name": "Armo",
       "name_default": "Armo",
       "native": "Armo",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137160,
-      "name": "Kasteel Vittorio",
+      "name": "Castelvittorio",
       "name_default": "Castel Vittorio",
       "native": "Castel Vittorio",
       "type": "adm3",
@@ -689,7 +689,7 @@
       "id": 140219,
       "name": "Molini",
       "name_default": "Molini",
-      "native": "Bestiame",
+      "native": "Molini",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 140220,
-      "name": "Molino di Triora",
+      "name": "Molini di Triora",
       "name_default": "Molini di Triora",
       "native": "Molini di Triora",
       "type": "adm3",
@@ -1048,8 +1048,8 @@
     {
       "id": 60220,
       "name": "Sanremo",
-      "name_default": "San Remo",
-      "native": "San Remo",
+      "name_default": "Sanremo",
+      "native": "Sanremo",
       "type": "adm3",
       "level": null,
       "parent_id": null,

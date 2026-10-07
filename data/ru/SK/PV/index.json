@@ -75,7 +75,7 @@
     },
     {
       "id": 104380,
-      "name": "Хлмек",
+      "name": "Хлмец",
       "name_default": "Chlmec",
       "native": "Chlmec",
       "type": "city",
@@ -219,9 +219,9 @@
     },
     {
       "id": 104442,
-      "name": "Нова Лесна",
+      "name": "Нова-Лесна",
       "name_default": "Nová Lesná",
-      "native": "New Lesná",
+      "native": "Nová Lesná",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,10 +309,10 @@
     },
     {
       "id": 104477,
-      "name": "Окрес Медзилаборце",
+      "name": "Медзилаборце",
       "name_default": "Okres Medzilaborce",
       "native": "Okres Medzilaborce",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 10605,
@@ -327,7 +327,7 @@
     },
     {
       "id": 104488,
-      "name": "Окрес Попрад",
+      "name": "Попрад",
       "name_default": "Okres Poprad",
       "native": "Okres Poprad",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104496,
-      "name": "Окрес Сабинов",
+      "name": "Сабинов",
       "name_default": "Okres Sabinov",
       "native": "Okres Sabinov",
       "type": "area",
@@ -381,10 +381,10 @@
     },
     {
       "id": 104500,
-      "name": "Окрес Снина",
+      "name": "Снина",
       "name_default": "Okres Snina",
       "native": "Okres Snina",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 33792,
@@ -417,10 +417,10 @@
     },
     {
       "id": 104504,
-      "name": "Окрес Стропков",
+      "name": "Стропков",
       "name_default": "Okres Stropkov",
       "native": "Okres Stropkov",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 19414,
@@ -561,7 +561,7 @@
     },
     {
       "id": 104548,
-      "name": "Spišská Belá",
+      "name": "Спишска Бела",
       "name_default": "Spišská Belá",
       "native": "Spišská Belá",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 104552,
-      "name": "Stará Ľubovňa",
+      "name": "Стара Любовня",
       "name_default": "Stará Ľubovňa",
       "native": "Stará Ľubovňa",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 104577,
-      "name": "Vranov nad Topľou",
+      "name": "Вранов-над-Топлёу",
       "name_default": "Vranov nad Topľou",
       "native": "Vranov nad Topľou",
       "type": "adm2",
@@ -741,7 +741,7 @@
     },
     {
       "id": 104582,
-      "name": "Высокие Татры",
+      "name": "Высоке Татры",
       "name_default": "Vysoké Tatry",
       "native": "Vysoké Tatry",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 104598,
-      "name": "Ждиар",
+      "name": "Ждьяр",
       "name_default": "Ždiar",
       "native": "Ždiar",
       "type": "city",

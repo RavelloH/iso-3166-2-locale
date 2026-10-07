@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "Ar Ramtha",
+      "name": "Ar-Ramsa",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -165,7 +165,7 @@
     },
     {
       "id": 63154,
-      "name": "Bayt Yafā",
+      "name": "Bayt Yāfā",
       "name_default": "Bayt Yāfā",
       "native": "بيت يافا",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 63201,
-      "name": "Hakama",
+      "name": "Ḩakamā",
       "name_default": "Ḩakamā",
       "native": "حَكاما",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 63161,
-      "name": "Judyta",
+      "name": "Judita",
       "name_default": "Judita",
       "native": "جوديتا",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63167,
-      "name": "Chardża",
+      "name": "Kharjā",
       "name_default": "Kharjā",
       "native": "خرجا",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63169,
-      "name": "Kurajimah",
+      "name": "Kurayyimah",
       "name_default": "Kurayyimah",
       "native": "كريمة",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 63172,
-      "name": "Malkā",
+      "name": "Malka",
       "name_default": "Malkā",
       "native": "مالكا",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63186,
-      "name": "Sal",
+      "name": "Sāl",
       "name_default": "Sāl",
       "native": "سال",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63200,
-      "name": "Szammā",
+      "name": "Samma",
       "name_default": "Şammā",
       "native": "شما",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 63190,
-      "name": "Umm Qays",
+      "name": "Umm Qais",
       "name_default": "Umm Qays",
       "native": "أم قيس",
       "type": "city",

@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 649,
-      "name": "آلن",
+      "name": "الین",
       "name_default": "Allen",
       "native": "Allen",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 764,
-      "name": "چوئل چوئل",
+      "name": "چویله",
       "name_default": "Choele Choel",
       "native": "Choele Choel",
       "type": "adm2",
@@ -260,7 +260,7 @@
     },
     {
       "id": 770,
-      "name": "سیپولتی",
+      "name": "سیپویتی",
       "name_default": "Cipolletti",
       "native": "Cipolletti",
       "type": "city",
@@ -316,7 +316,7 @@
       "id": 798,
       "name": "کورونل بلیسل",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "بخش آوِلاندا",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -386,7 +386,7 @@
     },
     {
       "id": 1050,
-      "name": "ال بولسون",
+      "name": "البولسون",
       "name_default": "El Bolsón",
       "native": "El Bolsón",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1112,
-      "name": "ژنرال روکا",
+      "name": "خنرال روکا",
       "name_default": "General Roca",
       "native": "General Roca",
       "type": "city",
@@ -586,7 +586,7 @@
       "id": 1263,
       "name": "ماینکه",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -674,7 +674,7 @@
     },
     {
       "id": 1409,
-      "name": "سن آنتونیو اوسته",
+      "name": "سان آنتونیو اوست",
       "name_default": "San Antonio Oeste",
       "native": "San Antonio Oeste",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1418,
-      "name": "سن کارلوس د باریلوچه",
+      "name": "باریلوچه",
       "name_default": "San Carlos de Bariloche",
       "native": "San Carlos de Bariloche",
       "type": "adm3",

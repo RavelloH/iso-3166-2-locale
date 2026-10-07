@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 53836,
-      "name": "Mavi su",
+      "name": "Agua Azul",
       "name_default": "Agua Azul",
       "native": "Agua Azul",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 53837,
-      "name": "Agua Azul Çiftliği",
+      "name": "Agua Azul Rancho",
       "name_default": "Agua Azul Rancho",
       "native": "Agua Azul Rancho",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 53859,
       "name": "Armenta",
       "name_default": "Armenta",
-      "native": "Rebaños",
+      "native": "Armenta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 53889,
-      "name": "Quemada Evi",
+      "name": "Casa Quemada",
       "name_default": "Casa Quemada",
       "native": "Casa Quemada",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 53899,
       "name": "Chivana",
       "name_default": "Chivana",
-      "native": "Niños",
+      "native": "Chivana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 53900,
-      "name": "Koloma",
+      "name": "Choloma",
       "name_default": "Choloma",
       "native": "Coloma",
       "type": "city",
@@ -237,9 +237,9 @@
     },
     {
       "id": 53902,
-      "name": "Çotepe",
+      "name": "Chotepe",
       "name_default": "Chotepe",
-      "native": "Ardiente",
+      "native": "Chotepe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -615,7 +615,7 @@
     },
     {
       "id": 54152,
-      "name": "Yeni Bumelecón",
+      "name": "Nuevo Chamelecón",
       "name_default": "Nuevo Chamelecón",
       "native": "Nuevo Chamelecón",
       "type": "city",
@@ -635,7 +635,7 @@
       "id": 54159,
       "name": "Omoa",
       "name_default": "Omoa",
-      "native": "Oh Jacob",
+      "native": "Omoa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -651,7 +651,7 @@
     },
     {
       "id": 54164,
-      "name": "Oropendolas",
+      "name": "Oropéndolas",
       "name_default": "Oropéndolas",
       "native": "Oropendolas",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 54172,
-      "name": "Eski Pimienta",
+      "name": "Pimienta Vieja",
       "name_default": "Pimienta Vieja",
       "native": "Pimienta Vieja",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 54185,
-      "name": "Puerto Cortes",
+      "name": "Puerto Cortés",
       "name_default": "Puerto Cortés",
       "native": "Puerto Cortés",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 54199,
-      "name": "Rio Blanquito",
+      "name": "Río Blanquito",
       "name_default": "Río Blanquito",
       "native": "Río Blanquito",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 54201,
-      "name": "Rio Chiquito",
+      "name": "Río Chiquito",
       "name_default": "Río Chiquito",
       "native": "Río Chiquito",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 54203,
-      "name": "Rio Lindo",
+      "name": "Río Lindo",
       "name_default": "Río Lindo",
       "native": "Río Lindo",
       "type": "city",
@@ -1029,9 +1029,9 @@
     },
     {
       "id": 54344,
-      "name": "Yolculuk",
+      "name": "Travesía",
       "name_default": "Travesía",
-      "native": "Transfolio",
+      "native": "Travesía",
       "type": "city",
       "level": null,
       "parent_id": null,

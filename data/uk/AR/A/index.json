@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 664,
-      "name": "Аполінаріо Саравія",
+      "name": "Аполінаріо-Саравія",
       "name_default": "Apolinario Saravia",
       "native": "Apolinario Saravia",
       "type": "city",
@@ -188,7 +188,7 @@
     },
     {
       "id": 720,
-      "name": "Кампо Кіхано",
+      "name": "Кампо-Кіхано",
       "name_default": "Campo Quijano",
       "native": "Campo Quijano",
       "type": "city",
@@ -281,7 +281,7 @@
       "name": "Департамент Чікоана",
       "name_default": "Departamento de Chicoana",
       "native": "Departamento de Chicoana",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24729,
@@ -407,7 +407,7 @@
       "name": "Департамент Метан",
       "name_default": "Departamento de Metán",
       "native": "Departamento de Metán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 48245,
@@ -494,7 +494,7 @@
     },
     {
       "id": 1052,
-      "name": "Ель Карріль",
+      "name": "Ель-Карріль",
       "name_default": "El Carril",
       "native": "El Carril",
       "type": "city",
@@ -550,7 +550,7 @@
       "id": 1067,
       "name": "Ембаркасьйон",
       "name_default": "Embarcación",
-      "native": "Vergüenza",
+      "native": "Embarcación",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -584,7 +584,7 @@
     },
     {
       "id": 1101,
-      "name": "Генерал Енріке Москоні",
+      "name": "Хенераль-Москоні",
       "name_default": "General Mosconi",
       "native": "General Enrique Mosconi",
       "type": "city",
@@ -602,7 +602,7 @@
     },
     {
       "id": 1168,
-      "name": "Хоакін В. Гонсалес",
+      "name": "Хоакін-Віктор-Гонсалес",
       "name_default": "Joaquín V. González",
       "native": "Joaquín V. González",
       "type": "city",
@@ -800,7 +800,7 @@
     },
     {
       "id": 1498,
-      "name": "Тартагал",
+      "name": "Тартагаль",
       "name_default": "Tartagal",
       "native": "Tartagal",
       "type": "adm2",

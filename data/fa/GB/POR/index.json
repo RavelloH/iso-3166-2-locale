@@ -110,24 +110,6 @@
       "country_id": 232
     },
     {
-      "id": 49864,
-      "name": "جزیره هایلینگ",
-      "name_default": "Hayling Island",
-      "native": "Hayling Island",
-      "type": "locality",
-      "level": null,
-      "parent_id": null,
-      "population": 16887,
-      "latitude": "50.78380000",
-      "longitude": "-0.96869000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q41491293",
-      "country_code": "GB",
-      "state_code": "POR",
-      "state_id": 2305,
-      "country_id": 232
-    },
-    {
       "id": 50269,
       "name": "لی-آن-ده-سولنت",
       "name_default": "Lee-on-the-Solent",
@@ -164,26 +146,8 @@
       "country_id": 232
     },
     {
-      "id": 51236,
-      "name": "سلسی",
-      "name_default": "Selsey",
-      "native": "Selsey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10923,
-      "latitude": "50.73501000",
-      "longitude": "-0.78979000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2439624",
-      "country_code": "GB",
-      "state_code": "POR",
-      "state_id": 2305,
-      "country_id": 232
-    },
-    {
       "id": 51355,
-      "name": "هایلینگ جنوبی",
+      "name": "South Hayling",
       "name_default": "South Hayling",
       "native": "South Hayling",
       "type": "city",

@@ -348,7 +348,7 @@
     },
     {
       "id": 109340,
-      "name": "Bahçesaray Rayonu",
+      "name": "Bakhchysarai Raion",
       "name_default": "Bakhchysarai Raion",
       "native": "Бахчисарайський район",
       "type": "district",
@@ -366,7 +366,7 @@
     },
     {
       "id": 109356,
-      "name": "Batal'noye",
+      "name": "Batal’noye",
       "name_default": "Batal’noye",
       "native": "Батальне",
       "type": "adm3",
@@ -420,7 +420,7 @@
     },
     {
       "id": 109365,
-      "name": "Belogorskiy rayonu",
+      "name": "Belogorskiy rayon",
       "name_default": "Belogorskiy rayon",
       "native": "Білогірський район",
       "type": "area",
@@ -474,7 +474,7 @@
     },
     {
       "id": 109399,
-      "name": "Bilohirsk",
+      "name": "Karasubazar",
       "name_default": "Bilohirsk",
       "native": "Білогірськ",
       "type": "adm2",
@@ -485,6 +485,24 @@
       "longitude": "34.60185000",
       "timezone": "Europe/Kyiv",
       "wikiDataId": "Q863330",
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
+      "id": 110183,
+      "name": "Biyuk-Onlar",
+      "name_default": "Biyuk-Onlar",
+      "native": "Біюк-Онлар",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10244,
+      "latitude": "45.28866000",
+      "longitude": "34.13521000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -528,7 +546,7 @@
     },
     {
       "id": 109438,
-      "name": "Botanikçiler",
+      "name": "Botanicheskoye",
       "name_default": "Botanicheskoye",
       "native": "Ботанічне",
       "type": "adm3",
@@ -564,7 +582,7 @@
     },
     {
       "id": 109470,
-      "name": "Çapayevka",
+      "name": "Chapayevka",
       "name_default": "Chapayevka",
       "native": "Чапаєвка",
       "type": "adm3",
@@ -600,7 +618,7 @@
     },
     {
       "id": 109476,
-      "name": "Çelyadinovo",
+      "name": "Chelyadinovo",
       "name_default": "Chelyadinovo",
       "native": "Челядіново",
       "type": "adm3",
@@ -618,7 +636,7 @@
     },
     {
       "id": 109489,
-      "name": "Chernomorskiy rayonu",
+      "name": "Chernomorskiy rayon",
       "name_default": "Chernomorskiy rayon",
       "native": "Чорноморський район",
       "type": "adm3",
@@ -636,7 +654,7 @@
     },
     {
       "id": 109491,
-      "name": "Çernopolis",
+      "name": "Chernopolye",
       "name_default": "Chernopolye",
       "native": "Чорнопілля",
       "type": "adm3",
@@ -654,7 +672,7 @@
     },
     {
       "id": 109492,
-      "name": "Çernovo",
+      "name": "Chernovo",
       "name_default": "Chernovo",
       "native": "Черново",
       "type": "adm3",
@@ -672,7 +690,7 @@
     },
     {
       "id": 109493,
-      "name": "Çernozemnoye",
+      "name": "Chernozemnoye",
       "name_default": "Chernozemnoye",
       "native": "Чорноземне",
       "type": "adm3",
@@ -690,7 +708,7 @@
     },
     {
       "id": 109497,
-      "name": "Çernişevo",
+      "name": "Chernyshevo",
       "name_default": "Chernyshevo",
       "native": "Чернишево",
       "type": "adm3",
@@ -726,7 +744,7 @@
     },
     {
       "id": 109505,
-      "name": "Chisten'koye",
+      "name": "Chisten’koye",
       "name_default": "Chisten’koye",
       "native": "Чистеньке",
       "type": "adm3",
@@ -744,7 +762,7 @@
     },
     {
       "id": 109506,
-      "name": "Çistopolye",
+      "name": "Chistopolye",
       "name_default": "Chistopolye",
       "native": "Чистопілля",
       "type": "adm3",
@@ -762,7 +780,7 @@
     },
     {
       "id": 109507,
-      "name": "Çkalovo",
+      "name": "Chkalovo",
       "name_default": "Chkalovo",
       "native": "Чкалово",
       "type": "adm3",
@@ -780,7 +798,7 @@
     },
     {
       "id": 109490,
-      "name": "Çernomorskoye",
+      "name": "Chornomorske",
       "name_default": "Chornomorske",
       "native": "Чорноморське",
       "type": "city",
@@ -978,7 +996,7 @@
     },
     {
       "id": 109592,
-      "name": "Dzhanköy",
+      "name": "Dzhankoy",
       "name_default": "Dzhankoy",
       "native": "Джанкой",
       "type": "adm2",
@@ -996,7 +1014,7 @@
     },
     {
       "id": 109593,
-      "name": "Dzhankoyskiy rayonu",
+      "name": "Dzhankoyskiy rayon",
       "name_default": "Dzhankoyskiy rayon",
       "native": "Джанкойський район",
       "type": "adm3",
@@ -1014,7 +1032,7 @@
     },
     {
       "id": 109599,
-      "name": "Feodosya",
+      "name": "Kefe",
       "name_default": "Feodosiya",
       "native": "Феодосія",
       "type": "adm2",
@@ -1050,7 +1068,7 @@
     },
     {
       "id": 109602,
-      "name": "Çeşme",
+      "name": "Fontany",
       "name_default": "Fontany",
       "native": "Фонтані",
       "type": "city",
@@ -1266,7 +1284,7 @@
     },
     {
       "id": 109614,
-      "name": "Gorodskoy okrugu Krasnoperekopsk",
+      "name": "Gorodskoy okrug Krasnoperekopsk",
       "name_default": "Gorodskoy okrug Krasnoperekopsk",
       "native": "Городской округ Красноперекопск",
       "type": "city",
@@ -1392,7 +1410,7 @@
     },
     {
       "id": 109621,
-      "name": "Grişino",
+      "name": "Grishino",
       "name_default": "Grishino",
       "native": "Гришино",
       "type": "adm3",
@@ -1410,7 +1428,7 @@
     },
     {
       "id": 109622,
-      "name": "Gruşevka",
+      "name": "Grushevka",
       "name_default": "Grushevka",
       "native": "Грушівка",
       "type": "city",
@@ -1456,7 +1474,25 @@
       "latitude": "45.11692000",
       "longitude": "34.02188000",
       "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4153056",
+      "wikiDataId": null,
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
+      "id": 110517,
+      "name": "Ichki",
+      "name_default": "Ichki",
+      "native": "Ічкі",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 10410,
+      "latitude": "45.34267000",
+      "longitude": "34.92463000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -1464,7 +1500,7 @@
     },
     {
       "id": 109669,
-      "name": "İlyiçovo",
+      "name": "Ilychyovo",
       "name_default": "Ilychyovo",
       "native": "Іличово",
       "type": "adm3",
@@ -1482,7 +1518,7 @@
     },
     {
       "id": 109670,
-      "name": "İlyiçevo",
+      "name": "Ilyichevo",
       "name_default": "Ilyichevo",
       "native": "Іллічево",
       "type": "adm3",
@@ -1518,7 +1554,7 @@
     },
     {
       "id": 109676,
-      "name": "İşun'",
+      "name": "Ishun’",
       "name_default": "Ishun’",
       "native": "Ішунь",
       "type": "adm3",
@@ -1536,7 +1572,7 @@
     },
     {
       "id": 109685,
-      "name": "İvanovka",
+      "name": "Ivanovka",
       "name_default": "Ivanovka",
       "native": "Іванівка",
       "type": "adm3",
@@ -1590,7 +1626,7 @@
     },
     {
       "id": 109692,
-      "name": "İzyumovka",
+      "name": "Izyumovka",
       "name_default": "Izyumovka",
       "native": "Ізюмовка",
       "type": "city",
@@ -1662,7 +1698,7 @@
     },
     {
       "id": 109718,
-      "name": "Kaştanovoye",
+      "name": "Kashtanovoye",
       "name_default": "Kashtanovoye",
       "native": "Каштанове",
       "type": "city",
@@ -1680,7 +1716,7 @@
     },
     {
       "id": 109719,
-      "name": "Kaştany",
+      "name": "Kashtany",
       "name_default": "Kashtany",
       "native": "Каштани",
       "type": "adm3",
@@ -1734,7 +1770,7 @@
     },
     {
       "id": 109734,
-      "name": "Hommovka",
+      "name": "Kholmovka",
       "name_default": "Kholmovka",
       "native": "Холмовка",
       "type": "city",
@@ -1842,7 +1878,7 @@
     },
     {
       "id": 109780,
-      "name": "Kol'chugino",
+      "name": "Kol’chugino",
       "name_default": "Kol’chugino",
       "native": "Кольчугіно",
       "type": "adm3",
@@ -1860,7 +1896,7 @@
     },
     {
       "id": 109781,
-      "name": "Kol'tsovo",
+      "name": "Kol’tsovo",
       "name_default": "Kol’tsovo",
       "native": "Кольцово",
       "type": "adm3",
@@ -1914,7 +1950,7 @@
     },
     {
       "id": 109784,
-      "name": "Komsomol'skoye",
+      "name": "Komsomol’skoye",
       "name_default": "Komsomol’skoye",
       "native": "Комсомольське",
       "type": "city",
@@ -2004,7 +2040,7 @@
     },
     {
       "id": 109812,
-      "name": "Kostoçkovka",
+      "name": "Kostochkovka",
       "name_default": "Kostochkovka",
       "native": "Косточківка",
       "type": "adm3",
@@ -2022,7 +2058,7 @@
     },
     {
       "id": 109818,
-      "name": "Kotel'nikovo",
+      "name": "Kotel’nikovo",
       "name_default": "Kotel’nikovo",
       "native": "Котельниково",
       "type": "adm3",
@@ -2040,7 +2076,7 @@
     },
     {
       "id": 109822,
-      "name": "Kovyl'noye",
+      "name": "Kovyl’noye",
       "name_default": "Kovyl’noye",
       "native": "Ковильне",
       "type": "adm3",
@@ -2147,24 +2183,6 @@
       "country_id": 230
     },
     {
-      "id": 109837,
-      "name": "Krasnogvardeyskoye",
-      "name_default": "Krasnogvardeyskoye",
-      "native": "Красногвардійське",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 11134,
-      "latitude": "45.50271000",
-      "longitude": "34.30134000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4238632",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
       "id": 109839,
       "name": "Krasnohvardiiske Raion",
       "name_default": "Krasnohvardiiske",
@@ -2220,7 +2238,7 @@
     },
     {
       "id": 109845,
-      "name": "Krasnoperekops'k",
+      "name": "Krasnoperekops’k",
       "name_default": "Krasnoperekops’k",
       "native": "Красноперекопськ",
       "type": "adm3",
@@ -2346,7 +2364,7 @@
     },
     {
       "id": 109861,
-      "name": "Krest'yanovka",
+      "name": "Krest’yanovka",
       "name_default": "Krest’yanovka",
       "native": "Крест'янівка",
       "type": "adm3",
@@ -2382,7 +2400,7 @@
     },
     {
       "id": 109869,
-      "name": "Kırım",
+      "name": "Krymka",
       "name_default": "Krymka",
       "native": "Кримка",
       "type": "adm3",
@@ -2400,7 +2418,7 @@
     },
     {
       "id": 109870,
-      "name": "Kırım Roza",
+      "name": "Krymskaya Roza",
       "name_default": "Krymskaya Roza",
       "native": "Кримська Роза",
       "type": "adm3",
@@ -2418,7 +2436,7 @@
     },
     {
       "id": 109871,
-      "name": "Kırımköy",
+      "name": "Krymskoye",
       "name_default": "Krymskoye",
       "native": "Кримське",
       "type": "adm3",
@@ -2436,7 +2454,7 @@
     },
     {
       "id": 109881,
-      "name": "Kuybişevo",
+      "name": "Kuibyshevo",
       "name_default": "Kuibyshevo",
       "native": "Куйбишево",
       "type": "adm3",
@@ -2454,7 +2472,7 @@
     },
     {
       "id": 109882,
-      "name": "Kukuşkino",
+      "name": "Kukushkino",
       "name_default": "Kukushkino",
       "native": "Кукушкіно",
       "type": "adm3",
@@ -2465,6 +2483,24 @@
       "longitude": "33.39030000",
       "timezone": "Europe/Simferopol",
       "wikiDataId": "Q2391279",
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
+      "id": 109837,
+      "name": "Kurman",
+      "name_default": "Kurman",
+      "native": "Курман",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 11134,
+      "latitude": "45.50271000",
+      "longitude": "34.30134000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -2490,7 +2526,7 @@
     },
     {
       "id": 109968,
-      "name": "L'govskoye",
+      "name": "L’govskoye",
       "name_default": "L’govskoye",
       "native": "Льговське",
       "type": "adm3",
@@ -2652,7 +2688,7 @@
     },
     {
       "id": 109926,
-      "name": "Livadia",
+      "name": "Livadiya",
       "name_default": "Livadiya",
       "native": "Лівадія",
       "type": "city",
@@ -2760,7 +2796,7 @@
     },
     {
       "id": 109969,
-      "name": "Dergi",
+      "name": "Magazinka",
       "name_default": "Magazinka",
       "native": "Магазинка",
       "type": "adm3",
@@ -2778,7 +2814,7 @@
     },
     {
       "id": 109982,
-      "name": "Malen'koye",
+      "name": "Malen’koye",
       "name_default": "Malen’koye",
       "native": "Маленьке",
       "type": "city",
@@ -2832,7 +2868,7 @@
     },
     {
       "id": 110005,
-      "name": "Mar'yanovka",
+      "name": "Mar’yanovka",
       "name_default": "Mar’yanovka",
       "native": "Мар'янівка",
       "type": "adm3",
@@ -2994,7 +3030,7 @@
     },
     {
       "id": 110020,
-      "name": "Mel'nichnoye",
+      "name": "Mel’nichnoye",
       "name_default": "Mel’nichnoye",
       "native": "Мельничне",
       "type": "adm3",
@@ -3012,7 +3048,7 @@
     },
     {
       "id": 110026,
-      "name": "Mejvodnoye",
+      "name": "Mezhvodnoye",
       "name_default": "Mezhvodnoye",
       "native": "Міжводне",
       "type": "adm3",
@@ -3192,7 +3228,7 @@
     },
     {
       "id": 110053,
-      "name": "Morskoye",
+      "name": "Morske",
       "name_default": "Morske",
       "native": "Морське",
       "type": "city",
@@ -3264,7 +3300,7 @@
     },
     {
       "id": 110083,
-      "name": "Nasipnoe",
+      "name": "Nasypnoe",
       "name_default": "Nasypnoe",
       "native": "Насипне",
       "type": "city",
@@ -3338,7 +3374,7 @@
       "id": 110095,
       "name": "Nikita",
       "name_default": "Nikita",
-      "native": "Микита",
+      "native": "Нікіта",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3372,7 +3408,7 @@
     },
     {
       "id": 110099,
-      "name": "Nijnegorskiy",
+      "name": "Nizhnegorskiy",
       "name_default": "Nizhnegorskiy",
       "native": "Нижньогірський",
       "type": "adm2",
@@ -3390,7 +3426,7 @@
     },
     {
       "id": 110100,
-      "name": "Nizhnegorskiy rayonu",
+      "name": "Nizhnegorskiy rayon",
       "name_default": "Nizhnegorskiy rayon",
       "native": "Нижньогірський район",
       "type": "city",
@@ -3426,7 +3462,7 @@
     },
     {
       "id": 110124,
-      "name": "Yeni Estonya",
+      "name": "Novoestoniya",
       "name_default": "Novoestoniya",
       "native": "Новоестонія",
       "type": "city",
@@ -3588,7 +3624,7 @@
     },
     {
       "id": 110147,
-      "name": "Novosel'skoye",
+      "name": "Novosel’skoye",
       "name_default": "Novosel’skoye",
       "native": "Новосельське",
       "type": "adm3",
@@ -3714,7 +3750,7 @@
     },
     {
       "id": 110179,
-      "name": "Ohotskoye",
+      "name": "Okhotskoye",
       "name_default": "Okhotskoye",
       "native": "Охотське",
       "type": "adm3",
@@ -3741,24 +3777,6 @@
       "population": 1415,
       "latitude": "45.36215000",
       "longitude": "36.36803000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q1786696",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
-      "id": 110183,
-      "name": "Oktyabr’skoye",
-      "name_default": "Oktyabr’skoye",
-      "native": "Жовтневе",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 10244,
-      "latitude": "45.28866000",
-      "longitude": "34.13521000",
       "timezone": "Europe/Simferopol",
       "wikiDataId": "Q1786696",
       "country_code": "UA",
@@ -3822,9 +3840,9 @@
     },
     {
       "id": 110202,
-      "name": "Orekhovo",
+      "name": "Orikhove",
       "name_default": "Orikhove",
-      "native": "Орєхово",
+      "native": "Оріхове",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -4074,7 +4092,7 @@
     },
     {
       "id": 110272,
-      "name": "Öncüler",
+      "name": "Pionerskoye",
       "name_default": "Pionerskoye",
       "native": "Піонерське",
       "type": "city",
@@ -4164,7 +4182,7 @@
     },
     {
       "id": 110305,
-      "name": "Poştove",
+      "name": "Poshtove",
       "name_default": "Poshtove",
       "native": "Поштове",
       "type": "adm3",
@@ -4228,7 +4246,7 @@
       "latitude": "45.11904000",
       "longitude": "35.48025000",
       "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4377263",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -4254,7 +4272,7 @@
     },
     {
       "id": 110312,
-      "name": "Özel",
+      "name": "Privetnoye",
       "name_default": "Privetnoye",
       "native": "Привітне",
       "type": "adm3",
@@ -4326,7 +4344,7 @@
     },
     {
       "id": 110326,
-      "name": "Pşeniçnoye",
+      "name": "Pshenichnoye",
       "name_default": "Pshenichnoye",
       "native": "Пшеничне",
       "type": "adm3",
@@ -4344,7 +4362,7 @@
     },
     {
       "id": 110329,
-      "name": "Puşkino",
+      "name": "Pushkino",
       "name_default": "Pushkino",
       "native": "Пушкіно",
       "type": "adm3",
@@ -4398,7 +4416,7 @@
     },
     {
       "id": 110349,
-      "name": "Razdol'noye",
+      "name": "Razdol’noye",
       "name_default": "Razdol’noye",
       "native": "Роздольне",
       "type": "adm2",
@@ -4418,7 +4436,7 @@
       "id": 110358,
       "name": "Rodnikovo",
       "name_default": "Rodnikovo",
-      "native": "Родніково",
+      "native": "Родникове",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -4434,7 +4452,7 @@
     },
     {
       "id": 110367,
-      "name": "Romaşkino",
+      "name": "Romashkino",
       "name_default": "Romashkino",
       "native": "Ромашкіно",
       "type": "adm3",
@@ -4452,7 +4470,7 @@
     },
     {
       "id": 110371,
-      "name": "Roşçino",
+      "name": "Roshchino",
       "name_default": "Roshchino",
       "native": "Рощино",
       "type": "adm3",
@@ -4506,7 +4524,7 @@
     },
     {
       "id": 110389,
-      "name": "Ruch'i",
+      "name": "Ruch’i",
       "name_default": "Ruch’i",
       "native": "Ручі",
       "type": "adm3",
@@ -4578,7 +4596,7 @@
     },
     {
       "id": 110403,
-      "name": "Sakskiy rayonu",
+      "name": "Sakskiy rayon",
       "name_default": "Sakskiy rayon",
       "native": "Сакський район",
       "type": "city",
@@ -4596,9 +4614,9 @@
     },
     {
       "id": 110402,
-      "name": "Saki",
+      "name": "Sak",
       "name_default": "Saky",
-      "native": "Сакі",
+      "native": "Саки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4614,7 +4632,7 @@
     },
     {
       "id": 110409,
-      "name": "Sarı-Baş",
+      "name": "Sary-Bash",
       "name_default": "Sary-Bash",
       "native": "Сари-Баш",
       "type": "adm3",
@@ -4686,7 +4704,7 @@
     },
     {
       "id": 110434,
-      "name": "Şebetovka",
+      "name": "Shchebetovka",
       "name_default": "Shchebetovka",
       "native": "Щебетівка",
       "type": "city",
@@ -4706,7 +4724,7 @@
       "id": 110437,
       "name": "Şyolkino",
       "name_default": "Shchyolkino",
-      "native": "Щолкіно",
+      "native": "Щолкіне",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -4722,7 +4740,7 @@
     },
     {
       "id": 110439,
-      "name": "Şelkoviçnoye",
+      "name": "Shelkovichnoye",
       "name_default": "Shelkovichnoye",
       "native": "Шовковичне",
       "type": "city",
@@ -4776,7 +4794,7 @@
     },
     {
       "id": 110452,
-      "name": "Ştormovoye",
+      "name": "Shtormovoye",
       "name_default": "Shtormovoye",
       "native": "Штормове",
       "type": "adm3",
@@ -4812,7 +4830,7 @@
     },
     {
       "id": 110461,
-      "name": "Simferopol",
+      "name": "Akmescit",
       "name_default": "Simferopol",
       "native": "Сімферополь",
       "type": "adm2",
@@ -4830,7 +4848,7 @@
     },
     {
       "id": 110462,
-      "name": "Simferopol Rayonu",
+      "name": "Akmescit Rayonu",
       "name_default": "Simferopol Raion",
       "native": "Сімферопольський район",
       "type": "district",
@@ -4992,7 +5010,7 @@
     },
     {
       "id": 110504,
-      "name": "Solneçnaya Dolina",
+      "name": "Solnechnaya Dolina",
       "name_default": "Solnechnaya Dolina",
       "native": "Сонячна долина",
       "type": "city",
@@ -5045,26 +5063,8 @@
       "country_id": 230
     },
     {
-      "id": 110517,
-      "name": "Sovyetskiy",
-      "name_default": "Sovetskiy",
-      "native": "Радянський",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 10410,
-      "latitude": "45.34267000",
-      "longitude": "34.92463000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q1718330",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
       "id": 110518,
-      "name": "Sovyetskyi Raion",
+      "name": "Sovietskyi",
       "name_default": "Sovietskyi",
       "native": "Радянський район",
       "type": "district",
@@ -5082,7 +5082,7 @@
     },
     {
       "id": 110519,
-      "name": "Sovhoznoye",
+      "name": "Sovkhoznoye",
       "name_default": "Sovkhoznoye",
       "native": "Радгоспне",
       "type": "adm3",
@@ -5100,7 +5100,7 @@
     },
     {
       "id": 110523,
-      "name": "Stahanovka",
+      "name": "Stakhanovka",
       "name_default": "Stakhanovka",
       "native": "Стаханівка",
       "type": "adm3",
@@ -5118,7 +5118,7 @@
     },
     {
       "id": 110524,
-      "name": "Stal'noye",
+      "name": "Stal’noye",
       "name_default": "Stal’noye",
       "native": "Стальне",
       "type": "adm3",
@@ -5478,7 +5478,7 @@
     },
     {
       "id": 110652,
-      "name": "Ukrayna",
+      "name": "Ukrainka",
       "name_default": "Ukrainka",
       "native": "Українка",
       "type": "city",
@@ -5586,7 +5586,7 @@
     },
     {
       "id": 110676,
-      "name": "Vasilievka",
+      "name": "Vasilyevka",
       "name_default": "Vasilyevka",
       "native": "Василівка",
       "type": "adm3",
@@ -5622,7 +5622,7 @@
     },
     {
       "id": 110711,
-      "name": "Verkhoreçye",
+      "name": "Verkhorechye",
       "name_default": "Verkhorechye",
       "native": "Верхореч'є",
       "type": "adm3",
@@ -5748,7 +5748,7 @@
     },
     {
       "id": 110725,
-      "name": "Vişennoye",
+      "name": "Vishennoye",
       "name_default": "Vishennoye",
       "native": "Вишенне",
       "type": "adm3",
@@ -5766,7 +5766,7 @@
     },
     {
       "id": 110726,
-      "name": "Vişnevka",
+      "name": "Vishnyovka",
       "name_default": "Vishnyovka",
       "native": "Вишньовка",
       "type": "adm3",
@@ -5838,7 +5838,7 @@
     },
     {
       "id": 110739,
-      "name": "Vol'noye",
+      "name": "Vol’noye",
       "name_default": "Vol’noye",
       "native": "Вольне",
       "type": "adm3",
@@ -6036,7 +6036,7 @@
     },
     {
       "id": 110800,
-      "name": "Yevpatorya",
+      "name": "Evpatorya",
       "name_default": "Yevpatoriya",
       "native": "Євпаторія",
       "type": "adm2",
@@ -6216,7 +6216,7 @@
     },
     {
       "id": 110841,
-      "name": "Jeleznodorozhnoye",
+      "name": "Zheleznodorozhnoye",
       "name_default": "Zheleznodorozhnoye",
       "native": "Залізнодорожне",
       "type": "adm3",
@@ -6342,7 +6342,7 @@
     },
     {
       "id": 110862,
-      "name": "Zolotoye Direği",
+      "name": "Zolotoye Pole",
       "name_default": "Zolotoye Pole",
       "native": "Золоте Поле",
       "type": "adm3",

@@ -71,7 +71,7 @@
   "cities": [
     {
       "id": 32076,
-      "name": "آلکالا د لوس گازولز",
+      "name": "الکالا دو لاس گازولس",
       "name_default": "Alcalá de los Gazules",
       "native": "Alcalá de los Gazules",
       "type": "city",
@@ -125,7 +125,7 @@
     },
     {
       "id": 32216,
-      "name": "الگسیراس",
+      "name": "الگسیراز",
       "name_default": "Algeciras",
       "native": "Algeciras",
       "type": "city",
@@ -143,7 +143,7 @@
     },
     {
       "id": 32223,
-      "name": "آلگودونالس",
+      "name": "الگادانس",
       "name_default": "Algodonales",
       "native": "Algodonales",
       "type": "city",
@@ -161,7 +161,7 @@
     },
     {
       "id": 32437,
-      "name": "آرکوس د لا فرونترا",
+      "name": "آرکوز د لا فرانترا",
       "name_default": "Arcos de la Frontera",
       "native": "Arcos de la Frontera",
       "type": "city",
@@ -196,24 +196,6 @@
       "country_id": 207
     },
     {
-      "id": 151361,
-      "name": "باریوس لوس",
-      "name_default": "Barrios Los",
-      "native": "Barrios Los",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 23513,
-      "latitude": "36.18506450",
-      "longitude": "-5.49255730",
-      "timezone": "Europe/Madrid",
-      "wikiDataId": "Q925913",
-      "country_code": "ES",
-      "state_code": "CA",
-      "state_id": 5096,
-      "country_id": 207
-    },
-    {
       "id": 32766,
       "name": "بنالوپ-کاساس ویخاس",
       "name_default": "Benalup-Casas Viejas",
@@ -233,7 +215,7 @@
     },
     {
       "id": 32773,
-      "name": "بنائوکاز",
+      "name": "بنااوکاز",
       "name_default": "Benaocaz",
       "native": "Benaocaz",
       "type": "city",
@@ -269,7 +251,7 @@
     },
     {
       "id": 33117,
-      "name": "کادیز",
+      "name": "کادیس",
       "name_default": "Cadiz",
       "native": "Cádiz",
       "type": "city",
@@ -323,7 +305,7 @@
     },
     {
       "id": 33641,
-      "name": "چیپونا",
+      "name": "چیپیونا",
       "name_default": "Chipiona",
       "native": "Chipiona",
       "type": "city",
@@ -341,7 +323,7 @@
     },
     {
       "id": 33761,
-      "name": "کونیل د لا فرانترا",
+      "name": "کنیل د لا فرانترا",
       "name_default": "Conil de la Frontera",
       "native": "Conil de la Frontera",
       "type": "city",
@@ -359,7 +341,7 @@
     },
     {
       "id": 151362,
-      "name": "بوسکه ال",
+      "name": "ال بوسکه",
       "name_default": "El Bosque",
       "native": "El Bosque",
       "type": "city",
@@ -449,7 +431,7 @@
     },
     {
       "id": 34812,
-      "name": "خرز د لا فرونترا",
+      "name": "جرز د لا فرونترا",
       "name_default": "Jerez de la Frontera",
       "native": "Jerez de la Frontera",
       "type": "city",
@@ -467,7 +449,7 @@
     },
     {
       "id": 34817,
-      "name": "خیمنا د لا فرونترا",
+      "name": "خیمنا د لا فرانترا",
       "name_default": "Jimena de la Frontera",
       "native": "Jimena de la Frontera",
       "type": "city",
@@ -485,7 +467,7 @@
     },
     {
       "id": 151364,
-      "name": "خط ساحلی کونسپسیون لا",
+      "name": "لا لینئا د لا کنسپسیون",
       "name_default": "La Línea de la Concepción",
       "native": "La Línea de la Concepción",
       "type": "city",
@@ -502,10 +484,28 @@
       "country_id": 207
     },
     {
+      "id": 151361,
+      "name": "باریوس لوس",
+      "name_default": "Los Barrios",
+      "native": "Los Barrios",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23513,
+      "latitude": "36.18506450",
+      "longitude": "-5.49255730",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": "Q925913",
+      "country_code": "ES",
+      "state_code": "CA",
+      "state_id": 5096,
+      "country_id": 207
+    },
+    {
       "id": 151365,
       "name": "مدینا-سیدونیا",
-      "name_default": "Medina-Sidonia",
-      "native": "Medina-Sidonia",
+      "name_default": "Medina Sidonia",
+      "native": "Medina Sidonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -611,9 +611,9 @@
     },
     {
       "id": 36680,
-      "name": "روتا",
+      "name": "روتا کادیز",
       "name_default": "Rota",
-      "native": "Lista",
+      "native": "Rota",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -683,7 +683,7 @@
     },
     {
       "id": 36947,
-      "name": "سنلوکار د بارامدا",
+      "name": "سنلوکار د برامدا",
       "name_default": "Sanlúcar de Barrameda",
       "native": "Sanlúcar de Barrameda",
       "type": "city",
@@ -701,7 +701,7 @@
     },
     {
       "id": 37236,
-      "name": "ستنیل د لاس بودگاس",
+      "name": "سیتینیل دی لاس بودگاس",
       "name_default": "Setenil de las Bodegas",
       "native": "Setenil de las Bodegas",
       "type": "city",
@@ -721,7 +721,7 @@
       "id": 37381,
       "name": "تاریفا",
       "name_default": "Tarifa",
-      "native": "Tasa",
+      "native": "Tarifa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -755,7 +755,7 @@
     },
     {
       "id": 37625,
-      "name": "تربوینا",
+      "name": "تربوخنا",
       "name_default": "Trebujena",
       "native": "Trebujena",
       "type": "city",
@@ -773,7 +773,7 @@
     },
     {
       "id": 37670,
-      "name": "اوبریک",
+      "name": "اوبریکه",
       "name_default": "Ubrique",
       "native": "Ubrique",
       "type": "city",
@@ -791,9 +791,9 @@
     },
     {
       "id": 37921,
-      "name": "وجر د لا فرونترا",
+      "name": "وجر دو لا فرنترا",
       "name_default": "Vejer de la Frontera",
-      "native": "Pesándose de la frontera",
+      "native": "Vejer de la Frontera",
       "type": "city",
       "level": null,
       "parent_id": null,

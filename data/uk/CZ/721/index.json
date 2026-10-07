@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 22368,
+      "name": "Голешов",
+      "name_default": "Holešov",
+      "native": "Holešov",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11616,
+      "latitude": "49.33331000",
+      "longitude": "17.57832000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q961325",
+      "country_code": "CZ",
+      "state_code": "721",
+      "state_id": 4593,
+      "country_id": 58
+    },
+    {
       "id": 22434,
       "name": "Гулін",
       "name_default": "Hulín",
@@ -95,7 +113,7 @@
       "id": 22578,
       "name": "Квасице",
       "name_default": "Kvasice",
-      "native": "Kvasinky",
+      "native": "Kvasice",
       "type": "city",
       "level": null,
       "parent_id": null,

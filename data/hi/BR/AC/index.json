@@ -198,7 +198,7 @@
     },
     {
       "id": 10774,
-      "name": "ब्रासीलिया",
+      "name": "ब्रासीलेया",
       "name_default": "Brasiléia",
       "native": "Brasiléia",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10819,
       "name": "बुजारी",
       "name_default": "Bujari",
-      "native": "generosidade",
+      "native": "Bujari",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -252,7 +252,7 @@
     },
     {
       "id": 11498,
-      "name": "क्रूज़ेरो डो सुल",
+      "name": "क्रुज़ेइरो दो सुल",
       "name_default": "Cruzeiro do Sul",
       "native": "Cruzeiro do Sul",
       "type": "city",
@@ -288,7 +288,7 @@
     },
     {
       "id": 11788,
-      "name": "फ़ेइजो",
+      "name": "फ़ैजो",
       "name_default": "Feijó",
       "native": "Feijó",
       "type": "city",
@@ -324,7 +324,7 @@
     },
     {
       "id": 13291,
-      "name": "मैन्सियो लीमा",
+      "name": "मान्सियो लीमा",
       "name_default": "Mâncio Lima",
       "native": "Mâncio Lima",
       "type": "city",
@@ -342,7 +342,7 @@
     },
     {
       "id": 12954,
-      "name": "मनोएल उरबानो",
+      "name": "मैनोएल उरबानो",
       "name_default": "Manoel Urbano",
       "native": "Manoel Urbano",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 13001,
-      "name": "मारेचल थौमातुर्गो",
+      "name": "मारेचल थाउमातुर्गो",
       "name_default": "Marechal Thaumaturgo",
       "native": "Marechal Thaumaturgo",
       "type": "city",
@@ -406,7 +406,7 @@
       "latitude": "-9.65038000",
       "longitude": "-67.77733000",
       "timezone": "America/Rio_Branco",
-      "wikiDataId": "Q2113232",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AC",
       "state_id": 2012,
@@ -432,7 +432,7 @@
     },
     {
       "id": 14263,
-      "name": "रियो ब्रैंको",
+      "name": "रियो ब्रांको",
       "name_default": "Rio Branco",
       "native": "Rio Branco",
       "type": "adm1",
@@ -486,7 +486,7 @@
     },
     {
       "id": 14692,
-      "name": "सेना मदुरेरा",
+      "name": "सेना मादुरैरा",
       "name_default": "Sena Madureira",
       "native": "Sena Madureira",
       "type": "city",
@@ -504,7 +504,7 @@
     },
     {
       "id": 14700,
-      "name": "सेनेडोर गुओमार्ड",
+      "name": "सेनाडोर गियोमार्ड",
       "name_default": "Senador Guiomard",
       "native": "Senador Guiomard",
       "type": "adm2",
@@ -522,7 +522,7 @@
     },
     {
       "id": 15253,
-      "name": "तराउका",
+      "name": "तारावाका",
       "name_default": "Tarauacá",
       "native": "Tarauacá",
       "type": "city",

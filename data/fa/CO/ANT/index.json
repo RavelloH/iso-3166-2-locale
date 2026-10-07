@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 20485,
-      "name": "آبژورال",
+      "name": "ابجورال",
       "name_default": "Abejorral",
       "native": "Abejorral",
       "type": "adm2",
@@ -75,9 +75,9 @@
     },
     {
       "id": 20487,
-      "name": "ابریاکی",
+      "name": "ابریاکوی",
       "name_default": "Abriaquí",
-      "native": "Abrié",
+      "native": "Abriaquí",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 20512,
-      "name": "آماگا",
+      "name": "اماگا",
       "name_default": "Amagá",
       "native": "Amaga",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 20513,
-      "name": "آمالفی",
+      "name": "امالفی",
       "name_default": "Amalfi",
       "native": "Amalfi",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 20520,
-      "name": "آند",
+      "name": "آندس",
       "name_default": "Andes",
       "native": "Andes",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 20521,
-      "name": "آنجلوپولیس",
+      "name": "آنگلوپولیس",
       "name_default": "Angelópolis",
       "native": "Angelópolis",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 20529,
-      "name": "آپارتمان",
+      "name": "آپارتادو",
       "name_default": "Apartadó",
       "native": "Apartadó",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 20566,
-      "name": "باربوسا",
+      "name": "بابوسا",
       "name_default": "Barbosa",
       "native": "Barbosa",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 20579,
-      "name": "بلو",
+      "name": "بییو",
       "name_default": "Bello",
       "native": "Bello",
       "type": "adm3",
@@ -563,7 +563,7 @@
       "id": 20652,
       "name": "کارپا",
       "name_default": "Carepa",
-      "native": "El carruaje",
+      "native": "Carepa",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 20666,
-      "name": "قفقاز",
+      "name": "کاوکاسیا",
       "name_default": "Caucasia",
       "native": "Caucasia",
       "type": "adm2",
@@ -671,7 +671,7 @@
       "id": 20716,
       "name": "کوکورنا",
       "name_default": "Cocorná",
-      "native": "Coco",
+      "native": "Cocorná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -687,7 +687,7 @@
     },
     {
       "id": 20724,
-      "name": "کانسپسیون",
+      "name": "کونسپسیون",
       "name_default": "Concepción",
       "native": "Concepción",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 20727,
-      "name": "کنکوردیا",
+      "name": "کونکوردیا",
       "name_default": "Concordia",
       "native": "Concordia",
       "type": "adm2",
@@ -743,7 +743,7 @@
       "id": 20773,
       "name": "دبیبا",
       "name_default": "Dabeiba",
-      "native": "Mella",
+      "native": "Dabeiba",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 20781,
-      "name": "دونماتیاس",
+      "name": "دون ماتیاس",
       "name_default": "Donmatías",
       "native": "Donmatías",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 20785,
-      "name": "ابجیکو",
+      "name": "ابخیکو",
       "name_default": "Ebéjico",
       "native": "Ebéjico",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 20656,
-      "name": "ال کارمن د ویبورال",
+      "name": "ال کارمن ده ویوورال",
       "name_default": "El Carmen de Viboral",
       "native": "El Carmen de Viboral",
       "type": "adm2",
@@ -831,7 +831,7 @@
     },
     {
       "id": 21441,
-      "name": "ال سانتواریو",
+      "name": "ال سانتوآریو",
       "name_default": "El Santuario",
       "native": "El Santuario",
       "type": "adm2",
@@ -905,7 +905,7 @@
       "id": 20861,
       "name": "فرونتینو",
       "name_default": "Frontino",
-      "native": "Frente",
+      "native": "Frontino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -921,7 +921,7 @@
     },
     {
       "id": 20885,
-      "name": "جیرالدو",
+      "name": "گیرالدو",
       "name_default": "Giraldo",
       "native": "Giraldo",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 20888,
-      "name": "جیراردوتا",
+      "name": "خیراردوتا",
       "name_default": "Girardota",
       "native": "Girardota",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 20913,
-      "name": "گوارن",
+      "name": "گوارنه",
       "name_default": "Guarne",
       "native": "Guarnía",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 20915,
-      "name": "گواتاپه",
+      "name": "گواتاپی",
       "name_default": "Guatapé",
       "native": "Guatapé",
       "type": "city",
@@ -1049,7 +1049,7 @@
       "id": 20939,
       "name": "هلیکونیا",
       "name_default": "Heliconia",
-      "native": "OneBook",
+      "native": "Heliconia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1067,7 +1067,7 @@
       "id": 20942,
       "name": "هیسپانیا",
       "name_default": "Hispania",
-      "native": "España",
+      "native": "Hispania",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 20955,
-      "name": "ایتوانگو",
+      "name": "ایتوآنگو",
       "name_default": "Ituango",
       "native": "Ituango",
       "type": "adm2",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 20959,
-      "name": "ژاردین",
+      "name": "خاردین",
       "name_default": "Jardín",
       "native": "Jardín",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 20961,
-      "name": "جریکو",
+      "name": "خریکو",
       "name_default": "Jericó",
       "native": "Jericó",
       "type": "adm2",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 20983,
-      "name": "لا استرلا",
+      "name": "لا استرییا",
       "name_default": "La Estrella",
       "native": "La Estrella",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 21009,
-      "name": "لا یونیون",
+      "name": "لا اونیون",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "adm2",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 21066,
-      "name": "مارینیلا",
+      "name": "مارینییا",
       "name_default": "Marinilla",
       "native": "Marinilla",
       "type": "adm2",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 21097,
-      "name": "مونته‌بلو",
+      "name": "مونته بلو",
       "name_default": "Montebello",
       "native": "Montebello",
       "type": "adm2",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 21126,
-      "name": "نارینو",
+      "name": "نارینیو",
       "name_default": "Nariño",
       "native": "Nariño",
       "type": "adm2",
@@ -1391,7 +1391,7 @@
       "id": 21130,
       "name": "نکوکلی",
       "name_default": "Necoclí",
-      "native": "Loco",
+      "native": "Necoclí",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1409,7 +1409,7 @@
       "id": 21149,
       "name": "اولایا",
       "name_default": "Olaya",
-      "native": "Al evento",
+      "native": "Olaya",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 21194,
-      "name": "پکو",
+      "name": "پکه",
       "name_default": "Peque",
       "native": "Peque",
       "type": "adm2",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 21227,
-      "name": "پوئبلوریکو",
+      "name": "پوبلوریکو",
       "name_default": "Pueblorrico",
       "native": "Pueblorrico",
       "type": "adm2",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 21258,
-      "name": "پورتو ترینفو",
+      "name": "پورتو تریونفو",
       "name_default": "Puerto Triunfo",
       "native": "Puerto Triunfo",
       "type": "adm2",
@@ -1625,7 +1625,7 @@
       "id": 21323,
       "name": "سالگار",
       "name_default": "Salgar",
-      "native": "Arrastrar",
+      "native": "Salgar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 21362,
-      "name": "سن جرونیمو",
+      "name": "سن خرونیمو",
       "name_default": "San Jerónimo",
       "native": "San Jerónimo",
       "type": "adm2",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 21376,
-      "name": "سن خوان د اورابا",
+      "name": "سان خوآن ده اورابا",
       "name_default": "San Juan de Urabá",
       "native": "San Juan de Urabá",
       "type": "adm2",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 21117,
-      "name": "سن پدرو د لوس میلاگروس",
+      "name": "سان پدرو",
       "name_default": "San Pedro de los Milagros",
       "native": "San Pedro de los Milagros",
       "type": "city",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 21407,
-      "name": "سن ویسنته فرر",
+      "name": "سن ویسنته",
       "name_default": "San Vicente Ferrer",
       "native": "San Vicente Ferrer",
       "type": "adm2",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 21417,
-      "name": "سانتافه د آنتیوکیا",
+      "name": "سانتا فه ده انتیوکیا",
       "name_default": "Santa Fe de Antioquia",
       "native": "Santa Fe de Antioquia",
       "type": "adm2",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 21425,
-      "name": "سانتا روزا د اوسوس",
+      "name": "سانتا روسا ده روسوس",
       "name_default": "Santa Rosa de Osos",
       "native": "Santa Rosa de Osos",
       "type": "adm2",
@@ -1949,7 +1949,7 @@
       "id": 21474,
       "name": "سونسون",
       "name_default": "Sonson",
-      "native": "Nieto",
+      "native": "Sonson",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 21513,
-      "name": "تارازا",
+      "name": "تاراسا",
       "name_default": "Tarazá",
       "native": "Tarazá",
       "type": "adm2",
@@ -2109,9 +2109,9 @@
     },
     {
       "id": 21574,
-      "name": "اورائو",
+      "name": "اوررآو",
       "name_default": "Urrao",
-      "native": "Similar",
+      "native": "Urrao",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 21584,
-      "name": "والپارایزو",
+      "name": "والپارایسو",
       "name_default": "Valparaíso",
       "native": "Valparaíso",
       "type": "adm2",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 21585,
-      "name": "وگاچی",
+      "name": "وگچی",
       "name_default": "Vegachí",
       "native": "Vegachi",
       "type": "adm2",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 21595,
-      "name": "ویگیا دل فوئرته",
+      "name": "ویگیا دل فورته",
       "name_default": "Vigía del Fuerte",
       "native": "Vigía del Fuerte",
       "type": "adm2",
@@ -2273,7 +2273,7 @@
       "id": 21625,
       "name": "یوندو",
       "name_default": "Yondó",
-      "native": "Yo",
+      "native": "Yondó",
       "type": "adm2",
       "level": null,
       "parent_id": null,

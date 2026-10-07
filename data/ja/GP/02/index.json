@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 154967,
-      "name": "アンス・ベルトラン",
+      "name": "アンス＝ベルトラン",
       "name_default": "Anse-Bertrand",
       "native": "Anse-bertrand",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 154971,
-      "name": "グランブール",
+      "name": "グラン＝ブール",
       "name_default": "Grand-Bourg",
-      "native": "Petit-Bourg",
+      "native": "Grand-Bourg",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 154970,
-      "name": "ル・ゴジエ",
+      "name": "ル＝ゴシエ",
       "name_default": "Le Gosier",
       "native": "Le Gosier",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 154973,
-      "name": "ル・ムール",
+      "name": "ル＝ムル",
       "name_default": "Le Moule",
       "native": "Le Moule",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 154966,
-      "name": "レ・ザビーム",
+      "name": "レザビーム",
       "name_default": "Les Abymes",
       "native": "Les Abymes",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 154972,
-      "name": "モルヌ・ア・ロー",
+      "name": "モルヌ＝ア＝ロー",
       "name_default": "Morne-à-l'Eau",
       "native": "Morne-à-l'Eau",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 154974,
-      "name": "プチ・カナル",
+      "name": "プティ＝カナル",
       "name_default": "Petit-Canal",
       "native": "Petit-Canal",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 154976,
-      "name": "ポートルイス",
+      "name": "ポール＝ルイ",
       "name_default": "Port-Louis",
       "native": "Port-Louis",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 154978,
-      "name": "サン・ルイ",
+      "name": "サン＝ルイ",
       "name_default": "Saint-Louis",
       "native": "Saint-Louis",
       "type": "city",

@@ -574,7 +574,7 @@
     },
     {
       "id": 98754,
-      "name": "Izmaïlovo",
+      "name": "Izmaylovo",
       "name_default": "Izmaylovo",
       "native": "Измайлово",
       "type": "section",
@@ -664,7 +664,7 @@
     },
     {
       "id": 99166,
-      "name": "Kommunarka",
+      "name": "Коммунарка",
       "name_default": "Kommunarka",
       "native": "Коммунарка",
       "type": "city",
@@ -790,7 +790,7 @@
     },
     {
       "id": 99511,
-      "name": "Kuz'minki",
+      "name": "Kuz’minki",
       "name_default": "Kuz’minki",
       "native": "Кузьминки",
       "type": "section",
@@ -808,7 +808,7 @@
     },
     {
       "id": 99561,
-      "name": "Léfortovo",
+      "name": "Lefortovo",
       "name_default": "Lefortovo",
       "native": "Лефортово",
       "type": "section",
@@ -819,6 +819,24 @@
       "longitude": "37.70000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1382617",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
+      "id": 99575,
+      "name": "Leninskiye Gory",
+      "name_default": "Leninskiye Gory",
+      "native": "Ленинские горы",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.70000000",
+      "longitude": "37.56667000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOW",
       "state_id": 1901,
@@ -916,7 +934,7 @@
     },
     {
       "id": 99696,
-      "name": "Loujniki",
+      "name": "Luzhniki",
       "name_default": "Luzhniki",
       "native": "Лужники",
       "type": "section",
@@ -970,7 +988,7 @@
     },
     {
       "id": 99817,
-      "name": "Matveyevskoïe",
+      "name": "Matveyevskoye",
       "name_default": "Matveyevskoye",
       "native": "Матвеевское",
       "type": "section",
@@ -1096,7 +1114,7 @@
     },
     {
       "id": 100091,
-      "name": "Nekrasovka",
+      "name": "Nekrassovka",
       "name_default": "Nekrasovka",
       "native": "Некрасовка",
       "type": "section",
@@ -1366,7 +1384,7 @@
     },
     {
       "id": 100750,
-      "name": "Pokrovskoïe-Streshnëvo",
+      "name": "Pokrovskoïe-Strechnevo",
       "name_default": "Pokrovskoye-Streshnëvo",
       "native": "Покровское-Стрешнево",
       "type": "section",
@@ -1528,7 +1546,7 @@
     },
     {
       "id": 101279,
-      "name": "Chtchoukino",
+      "name": "Shchukino",
       "name_default": "Shchukino",
       "native": "Щукино",
       "type": "section",
@@ -1708,7 +1726,7 @@
     },
     {
       "id": 101879,
-      "name": "Tolstopal'tsevo",
+      "name": "Tolstopal’tsevo",
       "name_default": "Tolstopal’tsevo",
       "native": "Толстопальцево",
       "type": "section",
@@ -1780,7 +1798,7 @@
     },
     {
       "id": 101945,
-      "name": "Okrug central administratif",
+      "name": "Tsentral’nyy Administrativnyy Okrug",
       "name_default": "Tsentral’nyy Administrativnyy Okrug",
       "native": "Центральный административный округ",
       "type": "section",
@@ -1959,8 +1977,26 @@
       "country_id": 182
     },
     {
+      "id": 102402,
+      "name": "Vostryakovo",
+      "name_default": "Vostryakovo",
+      "native": "Востряково",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.66667000",
+      "longitude": "37.45000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4126688",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
       "id": 102432,
-      "name": "Vykhino-Joulebino",
+      "name": "Vykhino-Zhulebino",
       "name_default": "Vykhino-Zhulebino",
       "native": "Выхино-Жулебино",
       "type": "section",
@@ -1996,7 +2032,7 @@
     },
     {
       "id": 102506,
-      "name": "Yasenevo",
+      "name": "Iasenevo",
       "name_default": "Yasenevo",
       "native": "Ясенево",
       "type": "section",

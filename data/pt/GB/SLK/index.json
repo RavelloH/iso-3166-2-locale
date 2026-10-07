@@ -147,7 +147,7 @@
     },
     {
       "id": 49044,
-      "name": "Queima de carvão",
+      "name": "Coalburn",
       "name_default": "Coalburn",
       "native": "Coalburn",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49226,
-      "name": "Dalservo",
+      "name": "Dalserf",
       "name_default": "Dalserf",
       "native": "Dalserf",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49591,
-      "name": "Adiante",
+      "name": "Forth",
       "name_default": "Forth",
       "native": "Forth",
       "type": "city",
@@ -248,6 +248,24 @@
       "longitude": "-4.03333000",
       "timezone": "Europe/London",
       "wikiDataId": "Q4131",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
+      "id": 49924,
+      "name": "High Blantyre",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
       "country_code": "GB",
       "state_code": "SLK",
       "state_id": 2362,
@@ -291,7 +309,7 @@
     },
     {
       "id": 50261,
-      "name": "Lei",
+      "name": "Law",
       "name_default": "Law",
       "native": "Law",
       "type": "city",
@@ -363,7 +381,7 @@
     },
     {
       "id": 51357,
-      "name": "Lanarkshire do Sul",
+      "name": "South Lanarkshire",
       "name_default": "South Lanarkshire",
       "native": "South Lanarkshire",
       "type": "area",
@@ -381,7 +399,7 @@
     },
     {
       "id": 51475,
-      "name": "Casa de Pedra",
+      "name": "Stonehouse",
       "name_default": "Stonehouse",
       "native": "Stonehouse",
       "type": "city",

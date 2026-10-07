@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79779,
-      "name": "公牛队",
+      "name": "布尔斯",
       "name_default": "Bulls",
       "native": "Bulls",
       "type": "city",
@@ -102,7 +102,7 @@
       "id": 79803,
       "name": "霍罗文努阿区",
       "name_default": "Horowhenua",
-      "native": "Horowhenua District",
+      "native": "Horowhenua",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -138,7 +138,7 @@
       "id": 79822,
       "name": "马纳瓦图区",
       "name_default": "Manawatu",
-      "native": "Manawatu District",
+      "native": "Manawatu",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -190,9 +190,9 @@
     },
     {
       "id": 79913,
-      "name": "旺格努伊",
+      "name": "旺阿努伊",
       "name_default": "Whanganui",
-      "native": "Wanganui",
+      "native": "Whanganui",
       "type": "city",
       "level": null,
       "parent_id": null,

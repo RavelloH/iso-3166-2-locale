@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 152,
-      "name": "볼쉬",
+      "name": "발시",
       "name_default": "Ballsh",
       "native": "Ballsh",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 196,
-      "name": "디비야케",
+      "name": "디브야커",
       "name_default": "Divjakë",
       "native": "Divjakë",
       "type": "adm3",
@@ -165,9 +165,9 @@
     },
     {
       "id": 200,
-      "name": "피어",
+      "name": "피에르",
       "name_default": "Fier",
-      "native": "Hekuros",
+      "native": "Fier",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 201,
       "name": "피에르치프치",
       "name_default": "Fier-Çifçi",
-      "native": "Përtypje e egër",
+      "native": "Fier-Çifçi",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 227,
-      "name": "루슈네",
+      "name": "루슈녀",
       "name_default": "Lushnjë",
       "native": "Lushnjë",
       "type": "adm2",
@@ -239,7 +239,7 @@
       "id": 234,
       "name": "파토스",
       "name_default": "Patos",
-      "native": "Rosat",
+      "native": "Patos",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 241,
-      "name": "로스코베츠",
+      "name": "로스크베츠",
       "name_default": "Roskovec",
       "native": "Roskovec",
       "type": "adm3",

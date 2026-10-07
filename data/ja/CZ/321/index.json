@@ -54,5 +54,24 @@
     "wikiDataId": "Q784736",
     "country_code": "CZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 22303,
+      "name": "ドマジュリツェ",
+      "name_default": "Domažlice",
+      "native": "Domažlice",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11133,
+      "latitude": "49.44049000",
+      "longitude": "12.92976000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q986068",
+      "country_code": "CZ",
+      "state_code": "321",
+      "state_id": 4641,
+      "country_id": 58
+    }
+  ]
 }

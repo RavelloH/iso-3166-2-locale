@@ -162,7 +162,7 @@
   "cities": [
     {
       "id": 15652,
-      "name": "Eau blanche",
+      "name": "Água Branca",
       "name_default": "Água Branca",
       "native": "Água Branca",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10434,
       "name": "Atalaia",
       "name_default": "Atalaia",
-      "native": "Seção",
+      "native": "Atalaia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -270,7 +270,7 @@
     },
     {
       "id": 10581,
-      "name": "Bataille",
+      "name": "Batalha",
       "name_default": "Batalha",
       "native": "Batalha",
       "type": "city",
@@ -416,7 +416,7 @@
       "id": 10976,
       "name": "Campo Alegre",
       "name_default": "Campo Alegre",
-      "native": "Alegre Campo",
+      "native": "Campo Alegre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -450,7 +450,7 @@
     },
     {
       "id": 11024,
-      "name": "Canapés",
+      "name": "Canapi",
       "name_default": "Canapi",
       "native": "Canapi",
       "type": "city",
@@ -468,7 +468,7 @@
     },
     {
       "id": 11066,
-      "name": "Chapelle",
+      "name": "Capela",
       "name_default": "Capela",
       "native": "Capela",
       "type": "city",
@@ -522,7 +522,7 @@
     },
     {
       "id": 11317,
-      "name": "Coité de Nóia",
+      "name": "Coité do Noia",
       "name_default": "Coité do Nóia",
       "native": "Coité do Nóia",
       "type": "city",
@@ -540,7 +540,7 @@
     },
     {
       "id": 11336,
-      "name": "Colonie Léopoldine",
+      "name": "Colônia Leopoldina",
       "name_default": "Colônia Leopoldina",
       "native": "Colônia Leopoldina",
       "type": "city",
@@ -658,7 +658,7 @@
       "latitude": "-9.39858000",
       "longitude": "-36.76219000",
       "timezone": "America/Maceio",
-      "wikiDataId": "Q1648136",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AL",
       "state_id": 2007,
@@ -684,7 +684,7 @@
     },
     {
       "id": 11799,
-      "name": "Joyeux désert",
+      "name": "Feliz Deserto",
       "name_default": "Feliz Deserto",
       "native": "Feliz Deserto",
       "type": "city",
@@ -774,7 +774,7 @@
     },
     {
       "id": 12193,
-      "name": "Église Nova",
+      "name": "Igreja Nova",
       "name_default": "Igreja Nova",
       "native": "Igreja Nova",
       "type": "city",
@@ -794,7 +794,7 @@
       "id": 12249,
       "name": "Inhapi",
       "name_default": "Inhapi",
-      "native": "Inimigo",
+      "native": "Inhapi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -918,7 +918,7 @@
     },
     {
       "id": 12686,
-      "name": "Jundia",
+      "name": "Jundiá",
       "name_default": "Jundiá",
       "native": "Jundiá",
       "type": "city",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": 12985,
-      "name": "Merveilleuse",
+      "name": "Maravilha",
       "name_default": "Maravilha",
       "native": "Maravilha",
       "type": "city",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 12999,
-      "name": "Maréchal Deodoro",
+      "name": "Marechal Deodoro",
       "name_default": "Marechal Deodoro",
       "native": "Marechal Deodoro",
       "type": "city",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": 13106,
-      "name": "Messie",
+      "name": "Messias",
       "name_default": "Messias",
       "native": "messias",
       "type": "city",
@@ -1332,7 +1332,7 @@
     },
     {
       "id": 13575,
-      "name": "Palestine",
+      "name": "Palestina",
       "name_default": "Palestina",
       "native": "Palestina",
       "type": "city",
@@ -1494,7 +1494,7 @@
     },
     {
       "id": 13837,
-      "name": "Pilier",
+      "name": "Pilar",
       "name_default": "Pilar",
       "native": "Pilar",
       "type": "city",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": 14014,
-      "name": "Porto Real du Colégio",
+      "name": "Porto Real do Colégio",
       "name_default": "Porto Real do Colégio",
       "native": "Porto Real do Colégio",
       "type": "city",
@@ -1692,7 +1692,7 @@
     },
     {
       "id": 14582,
-      "name": "Santana d'Ipanema",
+      "name": "Santana do Ipanema",
       "name_default": "Santana do Ipanema",
       "native": "Santana do Ipanema",
       "type": "city",
@@ -1872,7 +1872,7 @@
     },
     {
       "id": 14706,
-      "name": "Sénateur Rui Palmeira",
+      "name": "Senador Rui Palmeira",
       "name_default": "Senador Rui Palmeira",
       "native": "Senador Rui Palmeira",
       "type": "city",
@@ -1890,9 +1890,9 @@
     },
     {
       "id": 15221,
-      "name": "Réservoir d'Arca",
+      "name": "Tanque d'Arca",
       "name_default": "Tanque d'Arca",
-      "native": "Bloqueio da Arca",
+      "native": "Tanque d'Arca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1946,7 +1946,7 @@
       "id": 15347,
       "name": "Traipu",
       "name_default": "Traipu",
-      "native": "Mancha",
+      "native": "Traipu",
       "type": "city",
       "level": null,
       "parent_id": null,

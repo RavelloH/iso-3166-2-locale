@@ -255,7 +255,7 @@
     },
     {
       "id": 135471,
-      "name": "Vriendin",
+      "name": "Amica",
       "name_default": "Amica",
       "native": "Amica",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 136156,
-      "name": "Jachthaven Borgata",
+      "name": "Borgata Marina",
       "name_default": "Borgata Marina",
       "native": "Borgata Marina",
       "type": "city",
@@ -599,7 +599,7 @@
       "id": 136749,
       "name": "Cantinella",
       "name_default": "Cantinella",
-      "native": "Cantinelella",
+      "native": "Cantinella",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,9 +687,9 @@
     },
     {
       "id": 137095,
-      "name": "Cassano Allo Ionio",
-      "name_default": "Cassano Allo Ionio",
-      "native": "Cassano Allo Ionio",
+      "name": "Cassano allo Ionio",
+      "name_default": "Cassano all'Ionio",
+      "native": "Cassano all'Ionio",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 137470,
-      "name": "Kelder",
+      "name": "Cellara",
       "name_default": "Cellara",
       "native": "Cellara",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 137624,
-      "name": "Jachthaven van Cetraro",
+      "name": "Cetraro Marina",
       "name_default": "Cetraro Marina",
       "native": "Cetraro Marina",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 138259,
-      "name": "Diamant",
+      "name": "Diamante",
       "name_default": "Diamante",
       "native": "Diamante",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 138287,
-      "name": "Dominico",
+      "name": "Domanico",
       "name_default": "Domanico",
       "native": "Domanico",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 138408,
-      "name": "Fagnano Kasteel",
+      "name": "Fagnano Castello",
       "name_default": "Fagnano Castello",
       "native": "Fagnano Castello",
       "type": "adm3",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 139798,
-      "name": "Mango",
+      "name": "Mangone",
       "name_default": "Mangone",
       "native": "Mangone",
       "type": "adm3",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 139872,
-      "name": "Jachthaven",
+      "name": "Marina",
       "name_default": "Marina",
       "native": "Marina",
       "type": "city",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 139885,
-      "name": "Jachthaven van Fuscaldo",
+      "name": "Marina di Fuscaldo",
       "name_default": "Marina di Fuscaldo",
       "native": "Marina di Fuscaldo",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 139896,
-      "name": "Jachthaven van Schiavonea",
+      "name": "Marina di Schiavonea",
       "name_default": "Marina di Schiavonea",
       "native": "Marina di Schiavonea",
       "type": "city",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 139948,
-      "name": "Maart",
+      "name": "Marzi",
       "name_default": "Marzi",
       "native": "Marzi",
       "type": "adm3",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 58302,
-      "name": "Ouders",
+      "name": "Parenti",
       "name_default": "Parenti",
       "native": "Parenti",
       "type": "adm3",
@@ -2111,7 +2111,7 @@
       "id": 58372,
       "name": "Pedace-Perito",
       "name_default": "Pedace-Perito",
-      "native": "Pedace-perte",
+      "native": "Pedace-Perito",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 59632,
-      "name": "Roos",
+      "name": "Rose",
       "name_default": "Rose",
       "native": "Rose",
       "type": "adm3",
@@ -2415,7 +2415,7 @@
     },
     {
       "id": 59648,
-      "name": "Rossano Station",
+      "name": "Rossano Stazione",
       "name_default": "Rossano Stazione",
       "native": "Rossano Stazione",
       "type": "city",
@@ -2793,7 +2793,7 @@
     },
     {
       "id": 60270,
-      "name": "San Vincenzo la Costa",
+      "name": "San Vincenzo La Costa",
       "name_default": "San Vincenzo la Costa",
       "native": "San Vincenzo la Costa",
       "type": "adm3",
@@ -3065,7 +3065,7 @@
       "id": 60750,
       "name": "Serra Pedace",
       "name_default": "Serra Pedace",
-      "native": "SEAD PEDACE",
+      "native": "Serra Pedace",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 61414,
-      "name": "Jachthaven van Tortora",
+      "name": "Tortora Marina",
       "name_default": "Tortora Marina",
       "native": "Tortora Marina",
       "type": "city",

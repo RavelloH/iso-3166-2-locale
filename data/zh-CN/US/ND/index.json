@@ -253,9 +253,9 @@
   "cities": [
     {
       "id": 111287,
-      "name": "阿米顿",
+      "name": "阿米登",
       "name_default": "Amidon",
-      "native": "Starch",
+      "native": "Amidon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -307,7 +307,7 @@
     },
     {
       "id": 112052,
-      "name": "贝尔库尔",
+      "name": "贝尔考特",
       "name_default": "Belcourt",
       "native": "Belcourt",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 112598,
-      "name": "博蒂诺",
+      "name": "波特诺",
       "name_default": "Bottineau",
       "native": "Bottineau",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 112621,
-      "name": "弓铃",
+      "name": "鲍贝尔斯",
       "name_default": "Bowbells",
       "native": "Bowbells",
       "type": "city",
@@ -453,7 +453,7 @@
       "id": 113326,
       "name": "坎多",
       "name_default": "Cando",
-      "native": "When",
+      "native": "Cando",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -505,7 +505,7 @@
     },
     {
       "id": 113536,
-      "name": "卡瑟尔顿",
+      "name": "卡斯尔顿",
       "name_default": "Casselton",
       "native": "Casselton",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 113581,
-      "name": "骑士",
+      "name": "卡瓦莱尔",
       "name_default": "Cavalier",
       "native": "Cavalier",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 114606,
-      "name": "库珀斯敦",
+      "name": "古柏镇",
       "name_default": "Cooperstown",
       "native": "Cooperstown",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 116017,
-      "name": "艾伦代尔",
+      "name": "埃伦代尔",
       "name_default": "Ellendale",
       "native": "Ellendale",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 116766,
-      "name": "耶茨堡",
+      "name": "堡垒耶茨",
       "name_default": "Fort Yates",
       "native": "Fort Yates",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 117103,
-      "name": "驻军",
+      "name": "加里森",
       "name_default": "Garrison",
       "native": "Garrison",
       "type": "city",
@@ -865,7 +865,7 @@
     },
     {
       "id": 118346,
-      "name": "赫廷格",
+      "name": "黑廷格",
       "name_default": "Hettinger",
       "native": "Hettinger",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 119558,
-      "name": "矶鹬",
+      "name": "基尔迪尔",
       "name_default": "Killdeer",
-      "native": "Kill",
+      "native": "Killdeer",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
       "id": 121608,
       "name": "梅多拉",
       "name_default": "Medora",
-      "native": "Meter",
+      "native": "Medora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1171,9 +1171,9 @@
     },
     {
       "id": 121959,
-      "name": "明尼沃坎",
+      "name": "明尼沃肯",
       "name_default": "Minnewaukan",
-      "native": "Minnewauka",
+      "native": "Minnewaukan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 122787,
-      "name": "新城",
+      "name": "新镇",
       "name_default": "New Town",
       "native": "New Town",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 123853,
-      "name": "帕克河",
+      "name": "公园河",
       "name_default": "Park River",
       "native": "Park River",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 123889,
-      "name": "帕歇尔",
+      "name": "巴歇尔",
       "name_default": "Parshall",
       "native": "Parshall",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 125503,
-      "name": "橄榄球",
+      "name": "拉格比",
       "name_default": "Rugby",
       "native": "Rugby",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 126288,
-      "name": "谢尔顿",
+      "name": "谢尔登",
       "name_default": "Sheldon",
       "native": "Sheldon",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 126293,
-      "name": "壳牌谷",
+      "name": "谢尔瓦利",
       "name_default": "Shell Valley",
       "native": "Shell Valley",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 127291,
-      "name": "萨里郡",
+      "name": "萨里",
       "name_default": "Surrey",
       "native": "Surrey",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 127668,
-      "name": "蒂奥加",
+      "name": "泰奥加",
       "name_default": "Tioga",
       "native": "Tioga",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 127761,
-      "name": "汤纳",
+      "name": "陶纳",
       "name_default": "Towner",
       "native": "Towner",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 128101,
-      "name": "山谷城",
+      "name": "谷市",
       "name_default": "Valley City",
       "native": "Valley City",
       "type": "city",
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 128165,
-      "name": "维尔瓦",
+      "name": "韦尔瓦",
       "name_default": "Velva",
       "native": "Velva",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 128335,
-      "name": "瓦佩顿",
+      "name": "沃珀顿",
       "name_default": "Wahpeton",
       "native": "Wahpeton",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 128632,
-      "name": "沃特福德城",
+      "name": "沃特福德市",
       "name_default": "Watford City",
       "native": "Watford City",
       "type": "city",

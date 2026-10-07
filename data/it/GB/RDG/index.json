@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 50426,
-      "name": "Lower Earley",
-      "name_default": "Lower Earley",
-      "native": "Lower Earley",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32000,
-      "latitude": "51.42708000",
-      "longitude": "-0.91979000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q22582558",
-      "country_code": "GB",
-      "state_code": "RDG",
-      "state_id": 2455,
-      "country_id": 232
-    },
-    {
       "id": 50849,
       "name": "Pangbourne",
       "name_default": "Pangbourne",
@@ -129,7 +111,7 @@
     },
     {
       "id": 51045,
-      "name": "Lettura",
+      "name": "Reading",
       "name_default": "Reading",
       "native": "Reading",
       "type": "adm2",
@@ -167,7 +149,7 @@
       "id": 51343,
       "name": "Sonning Common",
       "name_default": "Sonning Common",
-      "native": "The number of the number",
+      "native": "Sonning Common",
       "type": "city",
       "level": null,
       "parent_id": null,

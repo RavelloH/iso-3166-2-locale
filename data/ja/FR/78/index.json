@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 39240,
-      "name": "アブリス",
+      "name": "アブリ",
       "name_default": "Ablis",
       "native": "Ablis",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 39571,
-      "name": "オーベルジェンヴィル",
+      "name": "オーベルジャンヴィル",
       "name_default": "Aubergenville",
       "native": "Aubergenville",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 39940,
-      "name": "ベネクール",
+      "name": "ベンヌクール",
       "name_default": "Bennecourt",
       "native": "Bennecourt",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 40381,
-      "name": "金塊",
+      "name": "Bullion",
       "name_default": "Bullion",
       "native": "Bullion",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 40560,
-      "name": "カリエール＝シュル＝セーヌ",
+      "name": "キャリエール＝シュル＝セーヌ",
       "name_default": "Carrières-sur-Seine",
       "native": "Carrières-sur-Seine",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 40901,
-      "name": "シェヴルーズ",
+      "name": "シュヴルーズ",
       "name_default": "Chevreuse",
       "native": "Chevreuse",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 48085,
-      "name": "エポーヌ",
+      "name": "エポヌ",
       "name_default": "Épône",
       "native": "Épône",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 42025,
-      "name": "ガンバイス",
+      "name": "ガンベ",
       "name_default": "Gambais",
       "native": "Gambais",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 42276,
-      "name": "ギュイヤンコート",
+      "name": "ギュイヤンクール",
       "name_default": "Guyancourt",
       "native": "Guyancourt",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 42506,
-      "name": "一宗",
+      "name": "イスー",
       "name_default": "Issou",
       "native": "Issou",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 42566,
-      "name": "ジュアール・ポンシャルトラン",
+      "name": "ジュアール＝ポンシャルトラン",
       "name_default": "Jouars-Pontchartrain",
       "native": "Jouars-Pontchartrain",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 42574,
-      "name": "ジュイ・アン・ジョザス",
+      "name": "ジュイ＝アン＝ジョザス",
       "name_default": "Jouy-en-Josas",
       "native": "Jouy-en-Josas",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 42672,
-      "name": "ラ・セル・サン・クルー",
+      "name": "ラ・セル＝サン＝クルー",
       "name_default": "La Celle-Saint-Cloud",
       "native": "La Celle-Saint-Cloud",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 43227,
-      "name": "ル・メニル＝サン＝ドニ",
+      "name": "メニル＝サン＝ドニ",
       "name_default": "Le Mesnil-Saint-Denis",
       "native": "Le Mesnil-Saint-Denis",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 43277,
-      "name": "ル・ポール＝マルリー",
+      "name": "ル・ポール＝マルリ",
       "name_default": "Le Port-Marly",
       "native": "Le Port-Marly",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 43489,
-      "name": "リメイ",
+      "name": "リメー",
       "name_default": "Limay",
       "native": "Limay",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 43729,
-      "name": "マニー・レ・ザモー",
+      "name": "マニー＝レ＝アモー",
       "name_default": "Magny-les-Hameaux",
       "native": "Magny-les-Hameaux",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 43744,
-      "name": "メゾン・ラフィット",
+      "name": "メゾン＝ラフィット",
       "name_default": "Maisons-Laffitte",
       "native": "Maisons-Laffitte",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 43784,
-      "name": "マント・ラ・ジョリー",
+      "name": "マント＝ラ＝ジョリー",
       "name_default": "Mantes-la-Jolie",
       "native": "Mantes-la-Jolie",
       "type": "adm3",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 43785,
-      "name": "マント・ラ・ヴィル",
+      "name": "マント＝ラ＝ヴィル",
       "name_default": "Mantes-la-Ville",
       "native": "Mantes-la-Ville",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 43948,
-      "name": "マウレ",
+      "name": "モール",
       "name_default": "Maule",
       "native": "Maule",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 43955,
-      "name": "モーレパ",
+      "name": "モールパ",
       "name_default": "Maurepas",
       "native": "Maurepas",
       "type": "city",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 44480,
-      "name": "単なる",
+      "name": "Méré",
       "name_default": "Méré",
       "native": "Méré",
       "type": "city",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 44046,
-      "name": "ムーラン＝アン＝イヴリーヌ",
+      "name": "ムラン＝アン＝イヴリーヌ",
       "name_default": "Meulan-en-Yvelines",
       "native": "Meulan-en-Yvelines",
       "type": "city",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 44528,
-      "name": "ノーフル・ル・シャトー",
+      "name": "ヌフル・ル・シャトー",
       "name_default": "Neauphle-le-Château",
       "native": "Neauphle-le-Château",
       "type": "city",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 45607,
-      "name": "ロズニー＝シュル＝セーヌ",
+      "name": "ロニー＝シュル＝セーヌ",
       "name_default": "Rosny-sur-Seine",
       "native": "Rosny-sur-Seine",
       "type": "city",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 46015,
-      "name": "サンジェルマンアンレー",
+      "name": "サン＝ジェルマン＝アン＝レー",
       "name_default": "Saint-Germain-en-Laye",
       "native": "Saint-Germain-en-Laye",
       "type": "adm3",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 46514,
-      "name": "サン・レミ・レ・シェヴルーズ",
+      "name": "サン＝レミ＝レ＝シュヴルーズ",
       "name_default": "Saint-Rémy-lès-Chevreuse",
       "native": "Saint-Rémy-lès-Chevreuse",
       "type": "city",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 46822,
-      "name": "サルトゥルヴィル",
+      "name": "サルトルーヴィル",
       "name_default": "Sartrouville",
       "native": "Sartrouville",
       "type": "city",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": 46948,
-      "name": "セプトゥイユ",
+      "name": "セトゥイユ",
       "name_default": "Septeuil",
       "native": "Septeuil",
       "type": "city",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 47371,
-      "name": "トリエル＝シュル＝セーヌ",
+      "name": "トリール＝シュル＝セーヌ",
       "name_default": "Triel-sur-Seine",
       "native": "Triel-sur-Seine",
       "type": "city",
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 47865,
-      "name": "ヴィロフレイ",
+      "name": "ヴィロフレー",
       "name_default": "Viroflay",
       "native": "Viroflay",
       "type": "city",

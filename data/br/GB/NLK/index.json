@@ -147,7 +147,7 @@
     },
     {
       "id": 48618,
-      "name": "Bothwell",
+      "name": "Boiseal",
       "name_default": "Bothwell",
       "native": "Bothwell",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 48858,
-      "name": "Karfin",
+      "name": "An Càrn Fionn",
       "name_default": "Carfin",
       "native": "Carfin",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49048,
-      "name": "Pont-koad",
+      "name": "Coatbridge",
       "name_default": "Coatbridge",
       "native": "Coatbridge",
       "type": "city",
@@ -275,7 +275,7 @@
       "id": 49185,
       "name": "Croy",
       "name_default": "Croy",
-      "native": "Believer",
+      "native": "Croy",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 49972,
-      "name": "Kêr Santel",
+      "name": "Holytown",
       "name_default": "Holytown",
       "native": "Holytown",
       "type": "city",
@@ -398,8 +398,26 @@
       "country_id": 232
     },
     {
+      "id": 50154,
+      "name": "Kilsyth",
+      "name_default": "Kilsyth",
+      "native": "Kilsyth",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10080,
+      "latitude": "55.97596000",
+      "longitude": "-4.05916000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1010328",
+      "country_code": "GB",
+      "state_code": "NLK",
+      "state_id": 2487,
+      "country_id": 232
+    },
+    {
       "id": 50638,
-      "name": "Motherwell",
+      "name": "Tobar na Màthar",
       "name_default": "Motherwell",
       "native": "Motherwell",
       "type": "adm2",
@@ -453,7 +471,7 @@
     },
     {
       "id": 50717,
-      "name": "Pennoù nevez",
+      "name": "Newmains",
       "name_default": "Newmains",
       "native": "Newmains",
       "type": "city",
@@ -471,7 +489,7 @@
     },
     {
       "id": 50756,
-      "name": "Norzh Lanarkshire",
+      "name": "Siorrachd Lannraig a Tuath",
       "name_default": "North Lanarkshire",
       "native": "North Lanarkshire",
       "type": "area",
@@ -489,7 +507,7 @@
     },
     {
       "id": 50837,
-      "name": "Kêr-benn",
+      "name": "Overtown",
       "name_default": "Overtown",
       "native": "Overtown",
       "type": "city",
@@ -507,7 +525,7 @@
     },
     {
       "id": 50922,
-      "name": "Plaenennoù",
+      "name": "Plains",
       "name_default": "Plains",
       "native": "Plains",
       "type": "city",
@@ -543,7 +561,7 @@
     },
     {
       "id": 51294,
-      "name": "Taolioù",
+      "name": "Shotts",
       "name_default": "Shotts",
       "native": "Shotts",
       "type": "city",
@@ -561,7 +579,7 @@
     },
     {
       "id": 51718,
-      "name": "Park-gwelet",
+      "name": "Viewpark",
       "name_default": "Viewpark",
       "native": "Viewpark",
       "type": "city",

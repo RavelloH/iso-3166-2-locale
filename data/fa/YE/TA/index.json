@@ -75,7 +75,7 @@
     },
     {
       "id": 130728,
-      "name": "المواسط",
+      "name": "ناحیه المواسط",
       "name_default": "Al Mawasit",
       "native": "المواسط",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130734,
-      "name": "المیسراخ",
+      "name": "المسراخ",
       "name_default": "Al Misrakh",
       "native": "المسراخ",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 130739,
-      "name": "المخا",
+      "name": "ناحیه المخاء",
       "name_default": "Al Mukhā’",
       "native": "المخاء",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130747,
-      "name": "القاهره",
+      "name": "ناحیه القاهرة",
       "name_default": "Al Qahirah",
       "native": "القاهرة",
       "type": "adm1",
@@ -183,9 +183,9 @@
     },
     {
       "id": 130783,
-      "name": "به عنوان سیلو",
+      "name": "شهرستان الصلو",
       "name_default": "As Silw",
-      "native": "كما سيلو",
+      "native": "مديرية الصلو",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 130790,
-      "name": "آش شمایاتین",
+      "name": "شهرستان الشمایتین",
       "name_default": "Ash Shamayatayn",
       "native": "آش شامياتين",
       "type": "area",
@@ -219,9 +219,9 @@
     },
     {
       "id": 130798,
-      "name": "در تعزیه",
+      "name": "تعز",
       "name_default": "At Ta‘izzīyah",
-      "native": "في التعزية",
+      "native": "مديرية التعزية",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 130838,
-      "name": "ذباب",
+      "name": "شهرستان ذباب",
       "name_default": "Dhubab",
       "native": "ذباب",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 130840,
-      "name": "دمنات خدیر",
+      "name": "شهرستان خدیر",
       "name_default": "Dimnat Khadir",
       "native": "دمنة خضير",
       "type": "area",
@@ -291,7 +291,7 @@
     },
     {
       "id": 130861,
-      "name": "هیفان",
+      "name": "ناحیه حیفان",
       "name_default": "Hayfan",
       "native": "حيفان",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 130911,
-      "name": "مقبنه",
+      "name": "ناحیه مقبنه",
       "name_default": "Maqbanah",
       "native": "مقبانة",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 130932,
-      "name": "معاویه",
+      "name": "ناحیه ماویه",
       "name_default": "Māwīyah",
       "native": "ماوية",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 130960,
-      "name": "صابر الموادیم",
+      "name": "ناحیه صبر الموادم",
       "name_default": "Sabir Al Mawadim",
       "native": "صابر الموادم",
       "type": "area",
@@ -438,7 +438,7 @@
       "name": "سما",
       "name_default": "Sama",
       "native": "ساما",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41464,

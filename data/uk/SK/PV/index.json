@@ -75,7 +75,7 @@
     },
     {
       "id": 104380,
-      "name": "Хлмец",
+      "name": "Хлмець",
       "name_default": "Chlmec",
       "native": "Chlmec",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104393,
-      "name": "Гіралтовце",
+      "name": "Ґіралтовце",
       "name_default": "Giraltovce",
       "native": "Giraltovce",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104423,
-      "name": "Ліпани",
+      "name": "Липани",
       "name_default": "Lipany",
       "native": "Lipany",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104432,
-      "name": "Медзилаборце",
+      "name": "Меджилабірці",
       "name_default": "Medzilaborce",
       "native": "Medzilaborce",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 104442,
       "name": "Нова Лесна",
       "name_default": "Nová Lesná",
-      "native": "New Lesná",
+      "native": "Nová Lesná",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,10 +309,10 @@
     },
     {
       "id": 104477,
-      "name": "Округ Медзилаборце",
+      "name": "Меджилабірці",
       "name_default": "Okres Medzilaborce",
       "native": "Okres Medzilaborce",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 10605,
@@ -327,7 +327,7 @@
     },
     {
       "id": 104488,
-      "name": "Округ Попрад",
+      "name": "Попрад",
       "name_default": "Okres Poprad",
       "native": "Okres Poprad",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104496,
-      "name": "Окрес Сабінов",
+      "name": "Сабінов",
       "name_default": "Okres Sabinov",
       "native": "Okres Sabinov",
       "type": "area",
@@ -381,10 +381,10 @@
     },
     {
       "id": 104500,
-      "name": "Округ Сніна",
+      "name": "Снина",
       "name_default": "Okres Snina",
       "native": "Okres Snina",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 33792,
@@ -417,10 +417,10 @@
     },
     {
       "id": 104504,
-      "name": "Окрес Стропков",
+      "name": "Стропков",
       "name_default": "Okres Stropkov",
       "native": "Okres Stropkov",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 19414,
@@ -471,7 +471,7 @@
     },
     {
       "id": 104526,
-      "name": "Подолінець",
+      "name": "Подолинець",
       "name_default": "Podolínec",
       "native": "Podolínec",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 104539,
-      "name": "Сабінов",
+      "name": "Сабинів",
       "name_default": "Sabinov",
       "native": "Sabinov",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 104548,
-      "name": "Спішська Бела",
+      "name": "Списька Бела",
       "name_default": "Spišská Belá",
       "native": "Spišská Belá",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 104550,
-      "name": "Спішське Подградє",
+      "name": "Спиське Подградє",
       "name_default": "Spišské Podhradie",
       "native": "Spišské Podhradie",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 104577,
-      "name": "Вранов-над-Топльою",
+      "name": "Вранов-над-Топльоу",
       "name_default": "Vranov nad Topľou",
       "native": "Vranov nad Topľou",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 104583,
-      "name": "Вишні Ружбачі",
+      "name": "Вишні Ружбахи",
       "name_default": "Vyšné Ružbachy",
       "native": "Vyšné Ružbachy",
       "type": "city",

@@ -93,7 +93,7 @@
     },
     {
       "id": 80706,
-      "name": "Les Aquijes",
+      "name": "Los Aquijes",
       "name_default": "Los Aquijes",
       "native": "Los Aquijes",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 80714,
-      "name": "Mines de Marcona",
+      "name": "Minas de Marcona",
       "name_default": "Minas de Marcona",
       "native": "Minas de Marcona",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 80747,
-      "name": "Palper",
+      "name": "Palpa",
       "name_default": "Palpa",
       "native": "Palpa",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80805,
-      "name": "Province de Chincha",
+      "name": "Provincia de Chincha",
       "name_default": "Provincia de Chincha",
       "native": "Provincia de Chincha",
       "type": "province",
@@ -255,10 +255,10 @@
     },
     {
       "id": 80872,
-      "name": "Province de Palpa",
+      "name": "Provincia de Palpa",
       "name_default": "Provincia de Palpa",
       "native": "Provincia de Palpa",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 13232,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80878,
-      "name": "Province de Pisco",
+      "name": "Provincia de Pisco",
       "name_default": "Provincia de Pisco",
       "native": "Provincia de Pisco",
       "type": "province",
@@ -391,7 +391,7 @@
       "latitude": "-13.71135000",
       "longitude": "-76.14980000",
       "timezone": "America/Lima",
-      "wikiDataId": "Q941183",
+      "wikiDataId": null,
       "country_code": "PE",
       "state_code": "ICA",
       "state_id": 3700,

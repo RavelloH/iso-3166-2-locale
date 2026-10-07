@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 52400,
-      "name": "Acharavi",
+      "name": "Acharávi",
       "name_default": "Acharávi",
       "native": "Αχαράβη",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 52409,
-      "name": "Saint-Georges",
+      "name": "Agios Georgis",
       "name_default": "Agios Georgis",
       "native": "Άγιος Γεώργιος",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 52439,
-      "name": "Alep",
+      "name": "Alepoú",
       "name_default": "Alepoú",
       "native": "Αλεπού",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 52489,
-      "name": "Argostoli",
+      "name": "Argostóli",
       "name_default": "Argostólion",
       "native": "Αργοστόλι",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 52650,
-      "name": "Gaïos",
+      "name": "Gáios",
       "name_default": "Gáïos",
       "native": "Γάιος",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 52669,
-      "name": "Ithaque",
+      "name": "Itháki",
       "name_default": "Itháki",
       "native": "Ιθάκη",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 52765,
-      "name": "Kontokáli",
+      "name": "Kondókali",
       "name_default": "Kontokáli",
       "native": "Κοντόκαλι",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 52796,
-      "name": "Kynopiáste",
+      "name": "Kynopiástes",
       "name_default": "Kynopiástes",
       "native": "Κυνοπιάστες",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 52840,
-      "name": "Leucade",
+      "name": "Lefkada",
       "name_default": "Lefkada",
       "native": "Λευκάδα",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 52842,
-      "name": "Lefkímmi",
+      "name": "Lefkimi",
       "name_default": "Lefkímmi",
       "native": "Λευκίμμη",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 52863,
-      "name": "Lixouri",
+      "name": "Lixoúri",
       "name_default": "Lixoúri",
       "native": "Ληξούρι",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 53179,
-      "name": "Poros",
+      "name": "Póros",
       "name_default": "Póros",
       "native": "Πόρος",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 53263,
-      "name": "Samis",
+      "name": "Sami",
       "name_default": "Sámi",
       "native": "Σαάμι",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 53358,
-      "name": "Zante",
+      "name": "Zakynthos",
       "name_default": "Zakynthos",
       "native": "Ζάκυνθος",
       "type": "adm2",

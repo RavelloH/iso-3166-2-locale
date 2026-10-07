@@ -93,7 +93,7 @@
     },
     {
       "id": 48266,
-      "name": "아브로스",
+      "name": "아르브로스",
       "name_default": "Arbroath",
       "native": "Arbroath",
       "type": "city",
@@ -128,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 48868,
+      "name": "카누스티",
+      "name_default": "Carnoustie",
+      "native": "Carnoustie",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11360,
+      "latitude": "56.50263000",
+      "longitude": "-2.70530000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1012395",
+      "country_code": "GB",
+      "state_code": "ANS",
+      "state_id": 2387,
+      "country_id": 232
+    },
+    {
       "id": 49587,
-      "name": "포파",
+      "name": "포퍼",
       "name_default": "Forfar",
       "native": "Forfar",
       "type": "adm2",
@@ -183,7 +201,7 @@
     },
     {
       "id": 50211,
-      "name": "키리뮤어",
+      "name": "키리에뮈어",
       "name_default": "Kirriemuir",
       "native": "Kirriemuir",
       "type": "city",
@@ -201,7 +219,7 @@
     },
     {
       "id": 50257,
-      "name": "로렌스커크",
+      "name": "로랑세커크",
       "name_default": "Laurencekirk",
       "native": "Laurencekirk",
       "type": "city",
@@ -237,7 +255,7 @@
     },
     {
       "id": 50621,
-      "name": "몬트로즈",
+      "name": "몬트로스",
       "name_default": "Montrose",
       "native": "Montrose",
       "type": "city",

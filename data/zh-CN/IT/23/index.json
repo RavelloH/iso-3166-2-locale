@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135416,
-      "name": "阿莱因",
+      "name": "阿兰",
       "name_default": "Allein",
       "native": "Allein",
       "type": "adm3",
@@ -77,7 +77,7 @@
       "id": 135511,
       "name": "安塔格诺德",
       "name_default": "Antagnod",
-      "native": "Amministrazione",
+      "native": "Antagnod",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 135618,
-      "name": "阿纳德",
+      "name": "阿尔纳",
       "name_default": "Arnad",
       "native": "Arnad",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 135712,
-      "name": "建议",
+      "name": "阿维斯",
       "name_default": "Avise",
       "native": "Avise",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 135838,
-      "name": "诗人",
+      "name": "Bard",
       "name_default": "Bard",
       "native": "Bard",
       "type": "adm3",
@@ -239,7 +239,7 @@
       "id": 135997,
       "name": "贝里亚特",
       "name_default": "Berriat",
-      "native": "Nuovo",
+      "native": "Berriat",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 136055,
-      "name": "比奥纳兹",
+      "name": "比奥纳",
       "name_default": "Bionaz",
       "native": "Bionaz",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 137627,
-      "name": "查兰德-圣安塞尔姆",
+      "name": "沙朗圣昂塞尔姆",
       "name_default": "Challand-Saint-Anselme",
       "native": "Challand-Saint-Anselme",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137628,
-      "name": "查兰德-圣维克托",
+      "name": "沙朗圣维克托",
       "name_default": "Challand-Saint-Victor",
       "native": "Challand-Saint-Victor",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137629,
-      "name": "尚巴韦",
+      "name": "尚巴沃",
       "name_default": "Chambave",
       "native": "Chambave",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 137630,
-      "name": "麂皮",
+      "name": "Chamois",
       "name_default": "Chamois",
       "native": "Chamois",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137631,
-      "name": "尚普德普拉兹",
+      "name": "尚德普拉",
       "name_default": "Champdepraz",
       "native": "Champdepraz",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137632,
-      "name": "尚波谢尔",
+      "name": "尚波尔谢",
       "name_default": "Champorcher",
       "native": "Champorcher",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137633,
-      "name": "查文索德",
+      "name": "沙旺索",
       "name_default": "Charvensod",
       "native": "Charvensod",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 138115,
-      "name": "库马耶",
+      "name": "库马约尔",
       "name_default": "Courmayeur",
       "native": "Courmayeur",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 138301,
-      "name": "唐娜斯",
+      "name": "多纳",
       "name_default": "Donnas",
       "native": "Donnas",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 138960,
-      "name": "吉尼奥德",
+      "name": "日尼奥",
       "name_default": "Gignod",
       "native": "Gignod",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 139091,
-      "name": "格雷索内圣让",
+      "name": "格雷索内-圣让",
       "name_default": "Gressoney-Saint-Jean",
       "native": "Gressoney-Saint-Jean",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 139187,
-      "name": "磨练",
+      "name": "Hone",
       "name_default": "Hone",
       "native": "Hone",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 139211,
-      "name": "介绍",
+      "name": "安特罗",
       "name_default": "Introd",
       "native": "Introd",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 139262,
-      "name": "伊西梅",
+      "name": "伊西姆",
       "name_default": "Issime",
       "native": "Issime",
       "type": "adm3",
@@ -797,7 +797,7 @@
       "id": 139290,
       "name": "拉克雷塔斯-罗伊桑",
       "name_default": "La Cretaz-Roisan",
-      "native": "La Crertaz-Roisan",
+      "native": "La Cretaz-Roisan",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 139294,
-      "name": "玛格达莱娜",
+      "name": "拉马格德莱娜",
       "name_default": "La Magdeleine",
       "native": "La Magdeleine",
       "type": "adm3",
@@ -833,7 +833,7 @@
       "id": 139299,
       "name": "拉普拉斯",
       "name_default": "La Place",
-      "native": "Da posizionare",
+      "native": "La Place",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 139303,
-      "name": "拉萨尔",
+      "name": "拉萨勒",
       "name_default": "La Salle",
       "native": "La Salle",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 139514,
-      "name": "莉莉安尼斯",
+      "name": "利利亚讷",
       "name_default": "Lillianes",
       "native": "Lillianes",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 140613,
-      "name": "莫尔吉克斯",
+      "name": "莫尔热",
       "name_default": "Morgex",
       "native": "Morgex",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 140907,
-      "name": "奥洛蒙特",
+      "name": "奥洛蒙",
       "name_default": "Ollomont",
       "native": "Ollomont",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 58430,
-      "name": "佩尔洛兹",
+      "name": "佩尔洛",
       "name_default": "Perloz",
       "native": "Perloz",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 58476,
       "name": "小费尼斯",
       "name_default": "Petit Fenis",
-      "native": "Chiede un fieno",
+      "native": "Petit Fenis",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1103,7 +1103,7 @@
       "id": 58732,
       "name": "因特罗德计划",
       "name_default": "Plan d'Introd",
-      "native": "Piano d'Intro",
+      "native": "Plan d'Introd",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 58796,
-      "name": "花粉",
+      "name": "波兰",
       "name_default": "Pollein",
       "native": "Pollein",
       "type": "adm3",
@@ -1139,7 +1139,7 @@
       "id": 58827,
       "name": "蓬博泽",
       "name_default": "Pont-Bozet",
-      "native": "Punto",
+      "native": "Pont-Bozet",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 58829,
-      "name": "圣马丁桥",
+      "name": "蓬圣马丹",
       "name_default": "Pont-Saint-Martin",
       "native": "Pont-Saint-Martin",
       "type": "adm3",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 58881,
-      "name": "庞蒂",
+      "name": "蓬泰伊",
       "name_default": "Pontey",
       "native": "Pontey",
       "type": "adm3",
@@ -1193,7 +1193,7 @@
       "id": 59193,
       "name": "普雷圣迪迪埃",
       "name_default": "Prè Saint Didier",
-      "native": "Prestito di Saint Didier",
+      "native": "Prè Saint Didier",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 59732,
-      "name": "圣奥因",
+      "name": "圣奥延",
       "name_default": "Saint-Oyen",
       "native": "Saint-Oyen",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 59735,
-      "name": "圣文森特",
+      "name": "圣樊尚",
       "name_default": "Saint-Vincent",
       "native": "Saint-Vincent",
       "type": "adm3",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 61677,
-      "name": "瓦尔格里森凯",
+      "name": "瓦尔格里桑什",
       "name_default": "Valgrisenche",
       "native": "Valgrisenche",
       "type": "adm3",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 61735,
-      "name": "瓦尔佩林",
+      "name": "瓦尔佩利内",
       "name_default": "Valpelline",
       "native": "Valpelline",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 61738,
-      "name": "瓦尔萨瓦伦凯",
+      "name": "瓦尔萨瓦朗什",
       "name_default": "Valsavarenche",
       "native": "Valsavarenche",
       "type": "adm3",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 61744,
-      "name": "瓦尔图尔嫩什",
+      "name": "瓦瓦尔图南什",
       "name_default": "Valtournenche",
       "native": "Valtournenche",
       "type": "adm3",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 61865,
-      "name": "维拉耶斯",
+      "name": "韦赖",
       "name_default": "Verrayes",
       "native": "Verrayes",
       "type": "adm3",
@@ -1625,7 +1625,7 @@
       "id": 62074,
       "name": "维拉尔-阿梅里克",
       "name_default": "Villair-Amerique",
-      "native": "Villair-American",
+      "native": "Villair-Amerique",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1643,7 +1643,7 @@
       "id": 62147,
       "name": "萨尔河畔维尔",
       "name_default": "Ville Sur Sarre",
-      "native": "Sarre City",
+      "native": "Ville Sur Sarre",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 62149,
-      "name": "维伦纽夫",
+      "name": "维勒讷沃",
       "name_default": "Villeneuve",
       "native": "Villeneuve",
       "type": "adm3",

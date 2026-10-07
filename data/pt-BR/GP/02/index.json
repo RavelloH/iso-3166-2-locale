@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 154967,
-      "name": "Anse Bertrand",
+      "name": "Anse-Bertrand",
       "name_default": "Anse-Bertrand",
       "native": "Anse-bertrand",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 154971,
       "name": "Grand-Bourg",
       "name_default": "Grand-Bourg",
-      "native": "Petit-Bourg",
+      "native": "Grand-Bourg",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 154966,
-      "name": "Os Abymes",
+      "name": "Les Abymes",
       "name_default": "Les Abymes",
       "native": "Les Abymes",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 154976,
-      "name": "Porto-Louis",
+      "name": "Port-Louis",
       "name_default": "Port-Louis",
       "native": "Port-Louis",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 154978,
-      "name": "São Luís",
+      "name": "Saint-Louis",
       "name_default": "Saint-Louis",
       "native": "Saint-Louis",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 154979,
-      "name": "Santa Ana",
+      "name": "Sainte-Anne",
       "name_default": "Sainte-Anne",
       "native": "Sainte-Anne",
       "type": "city",

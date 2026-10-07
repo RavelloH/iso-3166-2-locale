@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62292,
-      "name": "Sopra le rocce",
+      "name": "Above Rocks",
       "name_default": "Above Rocks",
       "native": "Above Rocks",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 62369,
-      "name": "Passeggiata nella palude",
+      "name": "Bog Walk",
       "name_default": "Bog Walk",
       "native": "Bog Walk",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 62441,
-      "name": "Villaggio Centrale",
+      "name": "Central Village",
       "name_default": "Central Village",
       "native": "Central Village",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 62488,
-      "name": "Mezzaluna",
+      "name": "Crescent",
       "name_default": "Crescent",
       "native": "Crescent",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 62490,
       "name": "Cromarty",
       "name_default": "Cromarty",
-      "native": "Cromatyy",
+      "native": "Cromarty",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -293,7 +293,7 @@
       "id": 62540,
       "name": "Ensom",
       "name_default": "Ensom",
-      "native": "Lonely",
+      "native": "Ensom",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 62587,
-      "name": "Cresta dello zenzero",
+      "name": "Ginger Ridge",
       "name_default": "Ginger Ridge",
       "native": "Ginger Ridge",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62660,
-      "name": "Città dell'Indipendenza",
+      "name": "Independence City",
       "name_default": "Independence City",
       "native": "Independence City",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62689,
-      "name": "Chiave di volta",
+      "name": "Keystone",
       "name_default": "Keystone",
       "native": "Keystone",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 62696,
-      "name": "Città di Kitson",
+      "name": "Kitson Town",
       "name_default": "Kitson Town",
       "native": "Kitson Town",
       "type": "city",
@@ -581,7 +581,7 @@
       "id": 62722,
       "name": "Lluidas Vale",
       "name_default": "Lluidas Vale",
-      "native": "Lluidas is worth",
+      "native": "Lluidas Vale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 62808,
-      "name": "Testa di Naggo",
+      "name": "Naggo Head",
       "name_default": "Naggo Head",
       "native": "Naggo head",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62838,
-      "name": "Porto Vecchio",
+      "name": "Old Harbour",
       "name_default": "Old Harbour",
       "native": "Old Harbour",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 62839,
-      "name": "Baia del Vecchio Porto",
+      "name": "Old Harbour Bay",
       "name_default": "Old Harbour Bay",
       "native": "Old Harbour Bay",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62860,
-      "name": "Parte di Guys Hill",
+      "name": "Part of Guys Hill",
       "name_default": "Part of Guys Hill",
       "native": "Part of Guys Hill",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 62862,
-      "name": "Parte di Keystone",
+      "name": "Part of Keystone",
       "name_default": "Part of Keystone",
       "native": "Part of Keystone",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 62863,
-      "name": "Parte della Rock Hall",
+      "name": "Part of Rock Hall",
       "name_default": "Part of Rock Hall",
       "native": "Part of Rock Hall",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 62865,
-      "name": "Forte del passaggio",
+      "name": "Passage Fort",
       "name_default": "Passage Fort",
-      "native": "Loud passage",
+      "native": "Passage Fort",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 62870,
-      "name": "Boschetto di pere",
+      "name": "Pear Tree Grove",
       "name_default": "Pear Tree Grove",
       "native": "Pear Tree Grove",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62920,
-      "name": "Sequoia",
+      "name": "Redwood",
       "name_default": "Redwood",
       "native": "Redwood",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 63007,
-      "name": "Città spagnola",
+      "name": "Spanish Town",
       "name_default": "Spanish Town",
       "native": "Spanish Town",
       "type": "adm1",
@@ -921,9 +921,9 @@
     },
     {
       "id": 63066,
-      "name": "Troia",
+      "name": "Troja",
       "name_default": "Troja",
-      "native": "Troy",
+      "native": "Troja",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 63091,
-      "name": "Monte d'acqua",
+      "name": "Watermount",
       "name_default": "Watermount",
       "native": "Watermount",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 63095,
-      "name": "Cumberland occidentale",
+      "name": "West Cumberland",
       "name_default": "West Cumberland",
       "native": "West Cumberland",
       "type": "city",

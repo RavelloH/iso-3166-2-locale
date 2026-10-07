@@ -129,7 +129,7 @@
     },
     {
       "id": 48617,
-      "name": "博茨代尔",
+      "name": "波特斯德尔",
       "name_default": "Botesdale",
       "native": "Botesdale",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48799,
-      "name": "伯里圣埃德蒙兹",
+      "name": "圣埃德蒙兹伯里",
       "name_default": "Bury St Edmunds",
       "native": "Bury St Edmunds",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49021,
-      "name": "克莱登",
+      "name": "克雷登",
       "name_default": "Claydon",
       "native": "Claydon",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 49386,
-      "name": "东伯格霍尔特",
+      "name": "东贝尔格豪特",
       "name_default": "East Bergholt",
       "native": "East Bergholt",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 49507,
       "name": "埃克斯宁",
       "name_default": "Exning",
-      "native": "Ex",
+      "native": "Exning",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 49538,
-      "name": "费利克斯托",
+      "name": "菲力斯陶",
       "name_default": "Felixstowe",
       "native": "Felixstowe",
       "type": "city",
@@ -363,9 +363,9 @@
     },
     {
       "id": 49601,
-      "name": "弗雷姆灵厄姆",
+      "name": "弗瑞林姆",
       "name_default": "Framlingham",
-      "native": "Advancement",
+      "native": "Framlingham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -383,7 +383,7 @@
       "id": 49654,
       "name": "格莱姆斯福德",
       "name_default": "Glemsford",
-      "native": "Forgudsford",
+      "native": "Glemsford",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -470,24 +470,6 @@
       "country_id": 232
     },
     {
-      "id": 49830,
-      "name": "哈里奇",
-      "name_default": "Harwich",
-      "native": "Harwich",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18794,
-      "latitude": "51.94194000",
-      "longitude": "1.28437000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q990616",
-      "country_code": "GB",
-      "state_code": "SFK",
-      "state_id": 2467,
-      "country_id": 232
-    },
-    {
       "id": 49844,
       "name": "霍利",
       "name_default": "Haughley",
@@ -507,7 +489,7 @@
     },
     {
       "id": 49848,
-      "name": "哈弗希尔",
+      "name": "哈福希尔",
       "name_default": "Haverhill",
       "native": "Haverhill",
       "type": "city",
@@ -543,7 +525,7 @@
     },
     {
       "id": 50067,
-      "name": "伊普斯维奇",
+      "name": "伊普斯威奇",
       "name_default": "Ipswich",
       "native": "Ipswich",
       "type": "adm2",
@@ -579,7 +561,7 @@
     },
     {
       "id": 50126,
-      "name": "凯斯格雷夫",
+      "name": "克斯格莱夫",
       "name_default": "Kesgrave",
       "native": "Kesgrave",
       "type": "city",
@@ -615,7 +597,7 @@
     },
     {
       "id": 50227,
-      "name": "莱肯希思",
+      "name": "雷肯希斯",
       "name_default": "Lakenheath",
       "native": "Lakenheath",
       "type": "city",
@@ -669,7 +651,7 @@
     },
     {
       "id": 50398,
-      "name": "朗梅尔福德",
+      "name": "长梅尔福德",
       "name_default": "Long Melford",
       "native": "Long Melford",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 50580,
-      "name": "米尔登霍尔",
+      "name": "米登霍尔",
       "name_default": "Mildenhall",
       "native": "Mildenhall",
       "type": "city",
@@ -723,7 +705,7 @@
     },
     {
       "id": 50670,
-      "name": "尼德汉姆市场",
+      "name": "尼汉姆市场",
       "name_default": "Needham Market",
       "native": "Needham Market",
       "type": "city",
@@ -734,6 +716,24 @@
       "longitude": "1.05160000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2321381",
+      "country_code": "GB",
+      "state_code": "SFK",
+      "state_id": 2467,
+      "country_id": 232
+    },
+    {
+      "id": 50718,
+      "name": "纽马基特",
+      "name_default": "Newmarket",
+      "native": "Newmarket",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16755,
+      "latitude": "52.24467000",
+      "longitude": "0.40418000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1382713",
       "country_code": "GB",
       "state_code": "SFK",
       "state_id": 2467,
@@ -777,7 +777,7 @@
     },
     {
       "id": 51207,
-      "name": "萨克斯蒙德",
+      "name": "萨克斯曼德姆",
       "name_default": "Saxmundham",
       "native": "Saxmundham",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 51383,
-      "name": "索思沃尔德",
+      "name": "修沃特",
       "name_default": "Southwold",
       "native": "Southwold",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 51510,
-      "name": "萨福克",
+      "name": "萨福克郡",
       "name_default": "Suffolk",
       "native": "Suffolk",
       "type": "area",
@@ -957,7 +957,7 @@
     },
     {
       "id": 51969,
-      "name": "伍德布里奇",
+      "name": "伍德布利基",
       "name_default": "Woodbridge",
       "native": "Woodbridge",
       "type": "city",

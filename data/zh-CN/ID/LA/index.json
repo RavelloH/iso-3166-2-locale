@@ -78,9 +78,9 @@
   "cities": [
     {
       "id": 56195,
-      "name": "班达楠榜",
+      "name": "楠榜港",
       "name_default": "Bandar Lampung",
-      "native": "Kota",
+      "native": "Bandar Lampung",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": 56534,
-      "name": "梅苏吉县",
+      "name": "默苏吉县",
       "name_default": "Mesuji",
       "native": "Kabupaten Mesuji",
       "type": "regency",
@@ -240,7 +240,7 @@
     },
     {
       "id": 56871,
-      "name": "地铁",
+      "name": "默特罗",
       "name_default": "Metro",
       "native": "Metro",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 56591,
-      "name": "巴布帕滕·西西尔·巴拉特",
+      "name": "西海岸县",
       "name_default": "Pesisir Barat",
       "native": "Kabupaten Pesisir Barat",
       "type": "regency",
@@ -294,7 +294,7 @@
     },
     {
       "id": 56599,
-      "name": "普林塞乌县",
+      "name": "普灵塞武县",
       "name_default": "Pringsewu",
       "native": "Kabupaten Pringsewu",
       "type": "regency",
@@ -366,7 +366,7 @@
     },
     {
       "id": 56691,
-      "name": "卡布帕滕路卡南",
+      "name": "Way Kanan",
       "name_default": "Way Kanan",
       "native": "Kabupaten Way Kanan",
       "type": "regency",

@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79779,
-      "name": "Byki",
+      "name": "Bulls",
       "name_default": "Bulls",
       "native": "Bulls",
       "type": "city",
@@ -100,9 +100,9 @@
     },
     {
       "id": 79803,
-      "name": "Dystrykt Horowhenua",
+      "name": "Horowhenua",
       "name_default": "Horowhenua",
-      "native": "Horowhenua District",
+      "native": "Horowhenua",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -118,7 +118,7 @@
     },
     {
       "id": 79817,
-      "name": "Lewin",
+      "name": "Levin",
       "name_default": "Levin",
       "native": "Levin",
       "type": "city",
@@ -136,9 +136,9 @@
     },
     {
       "id": 79822,
-      "name": "Dystrykt Manawatu",
+      "name": "Manawatu",
       "name_default": "Manawatu",
-      "native": "Manawatu District",
+      "native": "Manawatu",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -154,7 +154,7 @@
     },
     {
       "id": 79853,
-      "name": "Palmerston Północ",
+      "name": "Palmerston North",
       "name_default": "Palmerston North",
       "native": "Palmerston North",
       "type": "adm1",
@@ -192,7 +192,7 @@
       "id": 79913,
       "name": "Whanganui",
       "name_default": "Whanganui",
-      "native": "Wanganui",
+      "native": "Whanganui",
       "type": "city",
       "level": null,
       "parent_id": null,

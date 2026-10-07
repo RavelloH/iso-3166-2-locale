@@ -129,7 +129,7 @@
     },
     {
       "id": 48776,
-      "name": "번햄온시",
+      "name": "버냄-온-씨",
       "name_default": "Burnham-on-Sea",
       "native": "Burnham-on-Sea",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48920,
-      "name": "차드",
+      "name": "차드 타운",
       "name_default": "Chard",
       "native": "Chard",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48939,
-      "name": "체더 치즈",
+      "name": "체더",
       "name_default": "Cheddar",
       "native": "Cheddar",
       "type": "city",
@@ -255,9 +255,9 @@
     },
     {
       "id": 49155,
-      "name": "크루케른",
+      "name": "크류케른",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 49652,
-      "name": "글래스톤베리",
+      "name": "글래스턴베리",
       "name_default": "Glastonbury",
       "native": "Glastonbury",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "호니톤",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "헌트스필",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,9 +435,9 @@
     },
     {
       "id": 50044,
-      "name": "일민스터",
+      "name": "리미스터",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +471,7 @@
     },
     {
       "id": 50522,
-      "name": "마톡",
+      "name": "마르토크",
       "name_default": "Martock",
       "native": "Martock",
       "type": "city",
@@ -633,7 +615,7 @@
     },
     {
       "id": 51264,
-      "name": "셰프턴 멀릿",
+      "name": "섀프턴 맬렛",
       "name_default": "Shepton Mallet",
       "native": "Shepton Mallet",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "거리",
+      "name": "스트릿",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -867,7 +849,7 @@
     },
     {
       "id": 51918,
-      "name": "윈캔턴",
+      "name": "윈칸턴",
       "name_default": "Wincanton",
       "native": "Wincanton",
       "type": "city",

@@ -198,7 +198,7 @@
     },
     {
       "id": 10774,
-      "name": "巴西利亚",
+      "name": "巴西莱亚",
       "name_default": "Brasiléia",
       "native": "Brasiléia",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10819,
       "name": "布贾里",
       "name_default": "Bujari",
-      "native": "generosidade",
+      "native": "Bujari",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -252,7 +252,7 @@
     },
     {
       "id": 11498,
-      "name": "南克鲁塞罗",
+      "name": "南克鲁赛罗",
       "name_default": "Cruzeiro do Sul",
       "native": "Cruzeiro do Sul",
       "type": "city",
@@ -324,7 +324,7 @@
     },
     {
       "id": 13291,
-      "name": "曼西奥·利马",
+      "name": "曼西奥利马",
       "name_default": "Mâncio Lima",
       "native": "Mâncio Lima",
       "type": "city",
@@ -342,7 +342,7 @@
     },
     {
       "id": 12954,
-      "name": "马诺埃尔·乌尔巴诺",
+      "name": "马诺埃尔乌尔巴努",
       "name_default": "Manoel Urbano",
       "native": "Manoel Urbano",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 13001,
-      "name": "魔法元帅",
+      "name": "陶马图戈元帅镇",
       "name_default": "Marechal Thaumaturgo",
       "native": "Marechal Thaumaturgo",
       "type": "city",
@@ -406,7 +406,7 @@
       "latitude": "-9.65038000",
       "longitude": "-67.77733000",
       "timezone": "America/Rio_Branco",
-      "wikiDataId": "Q2113232",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AC",
       "state_id": 2012,
@@ -414,7 +414,7 @@
     },
     {
       "id": 14022,
-      "name": "波尔图·瓦尔特",
+      "name": "瓦尔特港",
       "name_default": "Porto Walter",
       "native": "Porto Walter",
       "type": "city",
@@ -432,7 +432,7 @@
     },
     {
       "id": 14263,
-      "name": "里奥布兰科",
+      "name": "里奥布朗库",
       "name_default": "Rio Branco",
       "native": "Rio Branco",
       "type": "adm1",
@@ -486,7 +486,7 @@
     },
     {
       "id": 14692,
-      "name": "塞纳·马杜雷拉",
+      "name": "塞纳马杜雷拉",
       "name_default": "Sena Madureira",
       "native": "Sena Madureira",
       "type": "city",
@@ -504,7 +504,7 @@
     },
     {
       "id": 14700,
-      "name": "吉奥马德参议员",
+      "name": "吉奥马尔参议员镇",
       "name_default": "Senador Guiomard",
       "native": "Senador Guiomard",
       "type": "adm2",

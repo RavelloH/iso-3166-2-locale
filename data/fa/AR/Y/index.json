@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 638,
-      "name": "آبرا پامپا",
+      "name": "ابرا پامپا",
       "name_default": "Abra Pampa",
       "native": "Abra Pampa",
       "type": "adm2",
@@ -191,7 +191,7 @@
       "name": "بخش کوچینوکا",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -278,7 +278,7 @@
     },
     {
       "id": 1147,
-      "name": "هوماهواکا",
+      "name": "هاماهوکا",
       "name_default": "Humahuaca",
       "native": "Humahuaca",
       "type": "adm2",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1199,
-      "name": "لا کویاکا",
+      "name": "لا کوایاکا",
       "name_default": "La Quiaca",
       "native": "La Quiaca",
       "type": "adm2",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1236,
-      "name": "ژنرال لیبرتادور سن مارتین",
+      "name": "خنرال سان مارتین",
       "name_default": "Libertador General San Martín",
       "native": "Libertador General San Martín",
       "type": "adm2",
@@ -440,7 +440,7 @@
     },
     {
       "id": 1447,
-      "name": "سن پدرو د خوخوی",
+      "name": "سان پدرو ده خوخوی",
       "name_default": "San Pedro de Jujuy",
       "native": "San Pedro de Jujuy",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1451,
-      "name": "سان سالوادور د خوخوی",
+      "name": "سان سالوادور ده خوخوئی",
       "name_default": "San Salvador de Jujuy",
       "native": "San Salvador de Jujuy",
       "type": "adm1",

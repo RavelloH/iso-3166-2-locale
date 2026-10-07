@@ -59,7 +59,7 @@
       "id": 49191,
       "name": "Crymych",
       "name_default": "Crymych",
-      "native": "Bow",
+      "native": "Crymych",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 49562,
-      "name": "Gwarez ar pesked",
+      "name": "Abergwaun",
       "name_default": "Fishguard",
       "native": "Fishguard",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49676,
-      "name": "Goodwick",
+      "name": "Wdig",
       "name_default": "Goodwick",
       "native": "Goodwick",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49847,
-      "name": "Haverfordwest",
+      "name": "Hwlffordd",
       "name_default": "Haverfordwest",
       "native": "Haverfordwest",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49980,
-      "name": "Krog",
+      "name": "Hook",
       "name_default": "Hook",
       "native": "Hook",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50143,
-      "name": "Kilgetty",
+      "name": "Cilgeti",
       "name_default": "Kilgetty",
       "native": "Kilgetty",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50290,
-      "name": "Letterston",
+      "name": "Treletert",
       "name_default": "Letterston",
       "native": "Letterston",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 50359,
       "name": "Llangwm",
       "name_default": "Llangwm",
-      "native": "Lady",
+      "native": "Llangwm",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 50582,
-      "name": "Milford Haven",
+      "name": "Aberdaugleddau",
       "name_default": "Milford Haven",
       "native": "Milford Haven",
       "type": "city",
@@ -273,9 +273,9 @@
     },
     {
       "id": 50664,
-      "name": "Narberth",
+      "name": "Arberth",
       "name_default": "Narberth",
-      "native": "Narrative",
+      "native": "Narberth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 50871,
-      "name": "Benfro",
+      "name": "Penfro",
       "name_default": "Pembroke",
       "native": "Pembroke",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50872,
-      "name": "Porzh-mor Benfro",
+      "name": "Doc Penfro",
       "name_default": "Pembroke Dock",
       "native": "Pembroke Dock",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 50873,
-      "name": "Sir Benfro",
+      "name": "Pembrokeshire",
       "name_default": "Pembrokeshire",
       "native": "Pembrokeshire",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 50876,
-      "name": "Kastizet",
+      "name": "Penalun",
       "name_default": "Penally",
       "native": "Penally",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 51170,
-      "name": "Sant David",
+      "name": "Tyddewi",
       "name_default": "Saint Davids",
       "native": "Saint Davids",
       "type": "city",
@@ -437,7 +437,7 @@
       "id": 51448,
       "name": "Steynton",
       "name_default": "Steynton",
-      "native": "Stynton",
+      "native": "Steynton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 51573,
-      "name": "Templeton",
+      "name": "Tredeml",
       "name_default": "Templeton",
       "native": "Templeton",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 51576,
-      "name": "Tenby",
+      "name": "Dinbych-y-Pysgod",
       "name_default": "Tenby",
       "native": "Tenby",
       "type": "adm3",

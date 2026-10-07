@@ -191,7 +191,7 @@
       "name": "Departamento de Cochinoca",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -242,7 +242,7 @@
     },
     {
       "id": 1047,
-      "name": "O Aguilar",
+      "name": "El Aguilar",
       "name_default": "El Aguilar",
       "native": "El Aguilar",
       "type": "city",
@@ -260,7 +260,7 @@
     },
     {
       "id": 1083,
-      "name": "Frágil Pintado",
+      "name": "Fraile Pintado",
       "name_default": "Fraile Pintado",
       "native": "Fraile Pintado",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 1155,
-      "name": "Engenho La Esperanza",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "Ingenio La Esperanza",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 1193,
-      "name": "A Mendieta",
+      "name": "La Mendieta",
       "name_default": "La Mendieta",
       "native": "La Mendieta",
       "type": "city",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1199,
-      "name": "A Quiaca",
+      "name": "La Quiaca",
       "name_default": "La Quiaca",
       "native": "La Quiaca",
       "type": "adm2",

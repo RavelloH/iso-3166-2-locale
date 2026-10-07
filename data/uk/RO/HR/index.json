@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 90003,
-      "name": "Атид",
+      "name": "Атід",
       "name_default": "Atid",
       "native": "Atid",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 90010,
-      "name": "Аврамешті",
+      "name": "Авремешть",
       "name_default": "Avrămeşti",
       "native": "Avrămeşti",
       "type": "adm2",
@@ -131,7 +131,7 @@
       "id": 90054,
       "name": "Банку",
       "name_default": "Bancu",
-      "native": "Bancar",
+      "native": "Bancu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -149,7 +149,7 @@
       "id": 90134,
       "name": "Білбор",
       "name_default": "Bilbor",
-      "native": "Locuitori ai mașinii",
+      "native": "Bilbor",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 90323,
-      "name": "Бредешті",
+      "name": "Бредешть",
       "name_default": "Brădeşti",
       "native": "Brădeşti",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 93820,
-      "name": "Карта",
+      "name": "Кирца",
       "name_default": "Cârţa",
       "native": "Cârţa",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 90694,
-      "name": "Кісеу",
+      "name": "Чичеу",
       "name_default": "Ciceu",
       "native": "Ciceu",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 90742,
-      "name": "Чуксангеоргіу",
+      "name": "Чуксинджорджу",
       "name_default": "Ciucsângeorgiu",
       "native": "Ciucsângeorgiu",
       "type": "adm2",
@@ -293,7 +293,7 @@
       "id": 90749,
       "name": "Чіумані",
       "name_default": "Ciumani",
-      "native": "Sărut",
+      "native": "Ciumani",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -435,7 +435,7 @@
     },
     {
       "id": 91364,
-      "name": "Комуна Чуксанджорджіу",
+      "name": "Чуксинджорджу",
       "name_default": "Comuna Ciucsângeorgiu",
       "native": "Comuna Ciucsângeorgiu",
       "type": "adm2",
@@ -455,7 +455,7 @@
       "id": 91369,
       "name": "Комуна Чіумані",
       "name_default": "Comuna Ciumani",
-      "native": "Ciumani Commer",
+      "native": "Comuna Ciumani",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -707,7 +707,7 @@
       "id": 92192,
       "name": "Комуна Луета",
       "name_default": "Comuna Lueta",
-      "native": "Comuna citit",
+      "native": "Comuna Lueta",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 93685,
-      "name": "Козмені",
+      "name": "Козмень",
       "name_default": "Cozmeni",
       "native": "Cozmeni",
       "type": "adm2",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 94109,
-      "name": "Дарджіу",
+      "name": "Диржіу",
       "name_default": "Dârjiu",
       "native": "Darejiu",
       "type": "adm2",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 93900,
-      "name": "Деалу",
+      "name": "Дялу",
       "name_default": "Dealu",
       "native": "Dealu",
       "type": "adm2",
@@ -1443,9 +1443,9 @@
     },
     {
       "id": 94140,
-      "name": "Елісені",
+      "name": "Елісень",
       "name_default": "Eliseni",
-      "native": "Economie",
+      "native": "Eliseni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 94155,
-      "name": "Фелічені",
+      "name": "Фелічень",
       "name_default": "Feliceni",
       "native": "Feliceni",
       "type": "adm2",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 94506,
-      "name": "Галауцаш",
+      "name": "Гелеуцаш",
       "name_default": "Gălăuţaş",
       "native": "Gălăuţaş",
       "type": "city",
@@ -1553,7 +1553,7 @@
       "id": 94545,
       "name": "Ходоша",
       "name_default": "Hodoșa",
-      "native": "Streodo Kan",
+      "native": "Hodoșa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 94748,
-      "name": "Хосені",
+      "name": "Жосень",
       "name_default": "Joseni",
       "native": "Joseni",
       "type": "adm2",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 94900,
-      "name": "Лазаря",
+      "name": "Лезаря",
       "name_default": "Lăzarea",
       "native": "Lăzarea",
       "type": "adm2",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 94775,
-      "name": "Лелічені",
+      "name": "Лелічень",
       "name_default": "Leliceni",
       "native": "Leliceni",
       "type": "adm2",
@@ -1661,7 +1661,7 @@
       "id": 94844,
       "name": "Луета",
       "name_default": "Lueta",
-      "native": "Citire",
+      "native": "Lueta",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 94885,
-      "name": "Лупені",
+      "name": "Лупень",
       "name_default": "Lupeni",
       "native": "Lupeni",
       "type": "adm2",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 95280,
-      "name": "Мартініш",
+      "name": "Мертініш",
       "name_default": "Mărtiniş",
       "native": "Mărtiniş",
       "type": "adm2",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 94992,
-      "name": "Михайлені",
+      "name": "Міхейлень",
       "name_default": "Mihăileni",
       "native": "Mihăileni",
       "type": "adm2",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 95028,
-      "name": "Мізентея",
+      "name": "Місентя",
       "name_default": "Misentea",
       "native": "Misetea",
       "type": "city",
@@ -1839,9 +1839,9 @@
     },
     {
       "id": 95099,
-      "name": "Мугені",
+      "name": "Муджень",
       "name_default": "Mugeni",
-      "native": "Un străin",
+      "native": "Mugeni",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 95397,
-      "name": "Окна де Жос",
+      "name": "Окна-де-Жос",
       "name_default": "Ocna de Jos",
       "native": "Ocna de Jos",
       "type": "city",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 96028,
-      "name": "Паулень-Чук",
+      "name": "Пеулень-Чук",
       "name_default": "Păuleni-Ciuc",
       "native": "Păuleni-Ciuc",
       "type": "adm2",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 95923,
-      "name": "Порумбені Марі",
+      "name": "Порумбеній-Марі",
       "name_default": "Porumbenii Mari",
       "native": "Porumbenii Mari",
       "type": "city",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 96081,
-      "name": "Реметеа",
+      "name": "Реметя",
       "name_default": "Remetea",
       "native": "Remetea",
       "type": "adm2",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 105991,
-      "name": "Сачел",
+      "name": "Сечел",
       "name_default": "Săcel",
       "native": "Săcel",
       "type": "adm2",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 96524,
-      "name": "Санкрай",
+      "name": "Синкрай",
       "name_default": "Sâncrai",
       "native": "Sâncrai",
       "type": "city",
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 96528,
-      "name": "Сандомінік",
+      "name": "Синдомінік",
       "name_default": "Sândominic",
       "native": "Sândominic",
       "type": "adm2",
@@ -2271,7 +2271,7 @@
     },
     {
       "id": 96533,
-      "name": "Санмартін",
+      "name": "Синмартін",
       "name_default": "Sânmartin",
       "native": "Sânmartin",
       "type": "adm2",
@@ -2289,7 +2289,7 @@
     },
     {
       "id": 96546,
-      "name": "Сансіміон",
+      "name": "Синсіміон",
       "name_default": "Sânsimion",
       "native": "Sânsimion",
       "type": "adm2",
@@ -2307,7 +2307,7 @@
     },
     {
       "id": 105978,
-      "name": "Сантімбру",
+      "name": "Синтімбру",
       "name_default": "Sântimbru",
       "native": "Sântimbru",
       "type": "adm2",
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 106032,
-      "name": "Сармаш",
+      "name": "Сермаш",
       "name_default": "Sărmaş",
       "native": "Sărmaş",
       "type": "adm2",
@@ -2345,7 +2345,7 @@
       "id": 96255,
       "name": "Сату-Маре",
       "name_default": "Satu Mare",
-      "native": "O iapă",
+      "native": "Satu Mare",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2363,7 +2363,7 @@
       "id": 96335,
       "name": "Сікулені",
       "name_default": "Siculeni",
-      "native": "Cântăm",
+      "native": "Siculeni",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 96349,
-      "name": "Сіменешть",
+      "name": "Шимонешть",
       "name_default": "Simoneşti",
       "native": "Simoneşti",
       "type": "adm2",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 96486,
-      "name": "Субцетат",
+      "name": "Субчетате",
       "name_default": "Subcetate",
       "native": "Subcetate",
       "type": "adm2",
@@ -2415,7 +2415,7 @@
     },
     {
       "id": 96510,
-      "name": "Сусені",
+      "name": "Сусень",
       "name_default": "Suseni",
       "native": "Suseni",
       "type": "adm2",
@@ -2433,7 +2433,7 @@
     },
     {
       "id": 96625,
-      "name": "Таурені",
+      "name": "Теурень",
       "name_default": "Tăureni",
       "native": "Tăureni",
       "type": "city",
@@ -2505,7 +2505,7 @@
     },
     {
       "id": 96575,
-      "name": "Тушнаду Ноу",
+      "name": "Тушнаду-Ноу",
       "name_default": "Tușnadu Nou",
       "native": "Tușnadu Nou",
       "type": "locality",
@@ -2559,7 +2559,7 @@
     },
     {
       "id": 96757,
-      "name": "Валя Стримбе",
+      "name": "Валя-Стримбе",
       "name_default": "Valea Strâmbă",
       "native": "Valea Strâmbă",
       "type": "city",
@@ -2613,7 +2613,7 @@
     },
     {
       "id": 96895,
-      "name": "Вослебені",
+      "name": "Вошлебень",
       "name_default": "Voșlăbeni",
       "native": "Voșlăbeni",
       "type": "adm2",
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 96990,
-      "name": "Зетеа",
+      "name": "Зетя",
       "name_default": "Zetea",
       "native": "Zetea",
       "type": "adm2",

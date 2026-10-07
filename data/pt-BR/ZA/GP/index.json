@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131017,
-      "name": "Alberto",
+      "name": "Alberton",
       "name_default": "Alberton",
       "native": "Alberton",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 131042,
       "name": "Boksburg",
       "name_default": "Boksburg",
-      "native": "Boxing",
+      "native": "Boksburg",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 131066,
-      "name": "Centurião",
+      "name": "Centurion",
       "name_default": "Centurion",
       "native": "Centurion",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 131085,
       "name": "Diepsloot",
       "name_default": "Diepsloot",
-      "native": "Deep -sloot",
+      "native": "Diepsloot",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 131096,
-      "name": "Vale do Éden",
+      "name": "Eden Glen",
       "name_default": "Eden Glen",
       "native": "Eden Glen",
       "type": "section",
@@ -309,7 +309,7 @@
     },
     {
       "id": 131098,
-      "name": "Vale do Éden",
+      "name": "Edenvale",
       "name_default": "Edenvale",
       "native": "Edenvale",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 131100,
       "name": "Ekangala",
       "name_default": "Ekangala",
-      "native": "The desert",
+      "native": "Ekangala",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 131114,
-      "name": "Ga Rankuwa",
+      "name": "Ga-Rankuwa",
       "name_default": "Ga-Rankuwa",
       "native": "Ga-Rankuwa",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 131177,
-      "name": "No meio do caminho",
+      "name": "Midstream",
       "name_default": "Midstream",
       "native": "Midstream",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 131207,
-      "name": "Fazenda Laranja",
+      "name": "Orange Farm",
       "name_default": "Orange Farm",
       "native": "Orange Farm",
       "type": "section",
@@ -687,7 +687,7 @@
     },
     {
       "id": 131253,
-      "name": "Município do Distrito de Sedibeng",
+      "name": "Sedibeng",
       "name_default": "Sedibeng",
       "native": "Sedibeng District Municipality",
       "type": "municipality",
@@ -723,7 +723,7 @@
     },
     {
       "id": 131262,
-      "name": "Molas",
+      "name": "Springs",
       "name_default": "Springs",
       "native": "Springs",
       "type": "section",
@@ -741,9 +741,9 @@
     },
     {
       "id": 131270,
-      "name": "Tembisa",
+      "name": "Thembisa",
       "name_default": "Thembisa",
-      "native": "Arrangement",
+      "native": "Thembisa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 131284,
-      "name": "Parque Vanderbijl",
+      "name": "Vanderbijlpark",
       "name_default": "Vanderbijlpark",
       "native": "Vanderbijlpark",
       "type": "adm3",
@@ -779,7 +779,7 @@
       "id": 131286,
       "name": "Vereeniging",
       "name_default": "Vereeniging",
-      "native": "Association",
+      "native": "Vereeniging",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 131305,
-      "name": "Município do Distrito de West Rand",
+      "name": "West Rand",
       "name_default": "West Rand",
       "native": "West Rand District Municipality",
       "type": "municipality",

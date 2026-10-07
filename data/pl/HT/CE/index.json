@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 55054,
-      "name": "Dzielnica Cerca La Source",
+      "name": "Arrondissement de Cerca La Source",
       "name_default": "Arrondissement de Cerca La Source",
       "native": "Arrondissement de Cerca La Source",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 55082,
-      "name": "Szukaj źródła",
+      "name": "Cerca la Source",
       "name_default": "Cerca la Source",
-      "native": "Rechercher une source",
+      "native": "Cerca la Source",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -95,7 +95,7 @@
       "id": 55108,
       "name": "Hinche",
       "name_default": "Hinche",
-      "native": "Poule",
+      "native": "Hinche",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -129,9 +129,9 @@
     },
     {
       "id": 55127,
-      "name": "Majisad",
+      "name": "Mayisad",
       "name_default": "Mayisad",
-      "native": "Engrener",
+      "native": "Mayisad",
       "type": "city",
       "level": null,
       "parent_id": null,

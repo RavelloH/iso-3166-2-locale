@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 98010,
-      "name": "Bol’shoy Chomutec",
+      "name": "Bol’shoy Khomutets",
       "name_default": "Bol’shoy Khomutets",
       "native": "Большой Хомутец",
       "type": "city",
@@ -250,7 +250,7 @@
     },
     {
       "id": 98023,
-      "name": "Borinskoje",
+      "name": "Borinskoye",
       "name_default": "Borinskoye",
       "native": "Боринское",
       "type": "city",
@@ -268,7 +268,7 @@
     },
     {
       "id": 98116,
-      "name": "Czaplygin",
+      "name": "Czapłygin",
       "name_default": "Chaplygin",
       "native": "Чаплыгин",
       "type": "adm2",
@@ -304,7 +304,7 @@
     },
     {
       "id": 98244,
-      "name": "Dankov",
+      "name": "Dankow",
       "name_default": "Dankov",
       "native": "Данков",
       "type": "adm2",
@@ -394,7 +394,7 @@
     },
     {
       "id": 98294,
-      "name": "Dobroje",
+      "name": "Dobroye",
       "name_default": "Dobroye",
       "native": "Доброе",
       "type": "adm2",
@@ -412,7 +412,7 @@
     },
     {
       "id": 98301,
-      "name": "Dołgorukowo",
+      "name": "Dolgorukovo",
       "name_default": "Dolgorukovo",
       "native": "Долгоруково",
       "type": "adm2",
@@ -430,7 +430,7 @@
     },
     {
       "id": 98302,
-      "name": "Rejon Dołgorukowski",
+      "name": "Dolgorukovskiy Rayon",
       "name_default": "Dolgorukovskiy Rayon",
       "native": "Долгоруковский район",
       "type": "area",
@@ -466,7 +466,7 @@
     },
     {
       "id": 98596,
-      "name": "Gryazi",
+      "name": "Griazi",
       "name_default": "Gryazi",
       "native": "Грязи",
       "type": "adm2",
@@ -502,7 +502,7 @@
     },
     {
       "id": 98751,
-      "name": "Izmalkovo",
+      "name": "Izmałkowo",
       "name_default": "Izmalkovo",
       "native": "Измалково",
       "type": "adm2",
@@ -520,7 +520,7 @@
     },
     {
       "id": 98752,
-      "name": "Rejon Izmalkowski",
+      "name": "Izmalkovskiy Rayon",
       "name_default": "Izmalkovskiy Rayon",
       "native": "Измалковский район",
       "type": "city",
@@ -592,7 +592,7 @@
     },
     {
       "id": 98986,
-      "name": "Rejon Chlewenski",
+      "name": "Khlevenskiy Rayon",
       "name_default": "Khlevenskiy Rayon",
       "native": "Хлевенский район",
       "type": "city",
@@ -700,7 +700,7 @@
     },
     {
       "id": 99553,
-      "name": "Rejon Lebedyański",
+      "name": "Lebedyanskiy Rayon",
       "name_default": "Lebedyanskiy Rayon",
       "native": "Лебедянский район",
       "type": "city",
@@ -736,7 +736,7 @@
     },
     {
       "id": 99610,
-      "name": "Rejon Lwa-Tołstowskiego",
+      "name": "Lev-Tolstovskiy Rayon",
       "name_default": "Lev-Tolstovskiy Rayon",
       "native": "Лев-Толстовский район",
       "type": "area",
@@ -790,7 +790,7 @@
     },
     {
       "id": 100664,
-      "name": "Pietrowski",
+      "name": "Petrovskiy",
       "name_default": "Petrovskiy",
       "native": "Петровский",
       "type": "city",
@@ -862,7 +862,7 @@
     },
     {
       "id": 101553,
-      "name": "Stanovoye",
+      "name": "Stanowoje",
       "name_default": "Stanovoye",
       "native": "Становое",
       "type": "adm2",
@@ -916,7 +916,7 @@
     },
     {
       "id": 101826,
-      "name": "Terbuny",
+      "name": "Tierbuny",
       "name_default": "Terbuny",
       "native": "Тербуны",
       "type": "adm2",

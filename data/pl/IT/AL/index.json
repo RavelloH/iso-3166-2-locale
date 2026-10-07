@@ -93,7 +93,7 @@
     },
     {
       "id": 135394,
-      "name": "Alessandia",
+      "name": "Alessandria",
       "name_default": "Alessandria",
       "native": "Alessandria",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 135408,
-      "name": "Alicja Bel Colle",
+      "name": "Alice Bel Colle",
       "name_default": "Alice Bel Colle",
       "native": "Alice Bel Colle",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 136590,
-      "name": "Droga",
+      "name": "Camino",
       "name_default": "Camino",
       "native": "Camino",
       "type": "adm3",
@@ -849,9 +849,9 @@
     },
     {
       "id": 137218,
-      "name": "Kastylia",
+      "name": "Castellania",
       "name_default": "Castellania",
-      "native": "Castello",
+      "native": "Castellania",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
     },
     {
       "id": 137224,
-      "name": "Zamek Bormida",
+      "name": "Castellazzo Bormida",
       "name_default": "Castellazzo Bormida",
       "native": "Castellazzo Bormida",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 137239,
-      "name": "Zamek Erro",
+      "name": "Castelletto d'Erro",
       "name_default": "Castelletto d'Erro",
       "native": "Castelletto d'Erro",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 137240,
-      "name": "Zamek Orba",
+      "name": "Castelletto d'Orba",
       "name_default": "Castelletto d'Orba",
       "native": "Castelletto d'Orba",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 137232,
-      "name": "Zamek Merli",
+      "name": "Castelletto Merli",
       "name_default": "Castelletto Merli",
       "native": "Castelletto Merli",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 137234,
-      "name": "Zamek Monferrato",
+      "name": "Castelletto Monferrato",
       "name_default": "Castelletto Monferrato",
       "native": "Castelletto Monferrato",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 137570,
-      "name": "Cerrina",
+      "name": "Cerrina Monferrato",
       "name_default": "Cerrina",
       "native": "Cerrina",
       "type": "adm3",
@@ -1391,7 +1391,7 @@
       "id": 138745,
       "name": "Fubine",
       "name_default": "Fubine",
-      "native": "Fubina",
+      "native": "Fubine",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 139240,
-      "name": "Wyspa Sant'Antonio",
+      "name": "Isola Sant'Antonio",
       "name_default": "Isola Sant'Antonio",
       "native": "Isola Sant'Antonio",
       "type": "adm3",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 140247,
-      "name": "Momperon",
+      "name": "Momperone",
       "name_default": "Momperone",
       "native": "Momperone",
       "type": "adm3",
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 140835,
-      "name": "Nowa Ligure",
+      "name": "Novi Ligure",
       "name_default": "Novi Ligure",
       "native": "Novi Ligure",
       "type": "adm3",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 140904,
-      "name": "Oliwia",
+      "name": "Olivola",
       "name_default": "Olivola",
       "native": "Olivola",
       "type": "adm3",
@@ -2469,7 +2469,7 @@
     },
     {
       "id": 58867,
-      "name": "Pontekurone",
+      "name": "Pontecurone",
       "name_default": "Pontecurone",
       "native": "Pontecurone",
       "type": "adm3",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 59754,
-      "name": "Sprzedaż",
+      "name": "Sale",
       "name_default": "Sale",
       "native": "Sale",
       "type": "adm3",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 59883,
-      "name": "Święty Krzysztof",
+      "name": "San Cristoforo",
       "name_default": "San Cristoforo",
       "native": "San Cristoforo",
       "type": "adm3",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": 59953,
-      "name": "Święty Jerzy",
+      "name": "San Giorgio",
       "name_default": "San Giorgio",
       "native": "San Giorgio",
       "type": "adm3",
@@ -2883,7 +2883,7 @@
     },
     {
       "id": 60006,
-      "name": "Święty Giuliano Vecchio",
+      "name": "San Giuliano Vecchio",
       "name_default": "San Giuliano Vecchio",
       "native": "San Giuliano Vecchio",
       "type": "city",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 60544,
-      "name": "Sardyński",
+      "name": "Sardigliano",
       "name_default": "Sardigliano",
       "native": "Sardigliano",
       "type": "adm3",
@@ -3333,7 +3333,7 @@
     },
     {
       "id": 61664,
-      "name": "Walencja",
+      "name": "Valenza",
       "name_default": "Valenza",
       "native": "Valenza",
       "type": "adm3",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 61691,
-      "name": "Dolina San Bartolomeo",
+      "name": "Valle San Bartolomeo",
       "name_default": "Valle San Bartolomeo",
       "native": "Valle San Bartolomeo",
       "type": "city",

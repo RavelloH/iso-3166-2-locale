@@ -245,7 +245,7 @@
       "name": "Departamento de Arauco",
       "name_default": "Departamento de Arauco",
       "native": "Departamento de Arauco",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16257,
@@ -278,7 +278,7 @@
     },
     {
       "id": 910,
-      "name": "Departamento de Independência",
+      "name": "Departamento de Independencia",
       "name_default": "Departamento de Independencia",
       "native": "Departamento de Independencia",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 1200,
-      "name": "La Rioja",
+      "name": "Rioja",
       "name_default": "La Rioja",
       "native": "La Rioja",
       "type": "adm1",
@@ -404,7 +404,7 @@
     },
     {
       "id": 1543,
-      "name": "Vila Bustos",
+      "name": "Villa Bustos",
       "name_default": "Villa Bustos",
       "native": "Villa Bustos",
       "type": "city",

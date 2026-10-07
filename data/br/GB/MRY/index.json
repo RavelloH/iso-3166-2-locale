@@ -93,9 +93,9 @@
     },
     {
       "id": 48747,
-      "name": "Buckie",
+      "name": "Bucaidh",
       "name_default": "Buckie",
-      "native": "Bucky",
+      "native": "Buckie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 48768,
-      "name": "Burghead",
+      "name": "Am Broch",
       "name_default": "Burghead",
       "native": "Burghead",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48924,
-      "name": "Charlez-kêr Aberlour",
+      "name": "Charlestown of Aberlour",
       "name_default": "Charlestown of Aberlour",
       "native": "Charlestown of Aberlour",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49198,
-      "name": "Cullen",
+      "name": "Inbhir Chuilinn",
       "name_default": "Cullen",
       "native": "Cullen",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49337,
-      "name": "Dufftown",
+      "name": "Baile nan Dubhach",
       "name_default": "Dufftown",
       "native": "Dufftown",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49451,
-      "name": "Elgin",
+      "name": "Eilginn",
       "name_default": "Elgin",
       "native": "Elgin",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 50028,
-      "name": "Huntly",
+      "name": "Hunndaidh",
       "name_default": "Huntly",
       "native": "Huntly",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 50186,
-      "name": "Kollet ar c'henseurted",
+      "name": "Kinloss",
       "name_default": "Kinloss",
       "native": "Kinloss",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 50623,
-      "name": "Moray",
+      "name": "Moireibh",
       "name_default": "Moray",
       "native": "Moray",
       "type": "area",
@@ -428,24 +428,6 @@
       "longitude": "-3.25000000",
       "timezone": "Europe/London",
       "wikiDataId": "Q211106",
-      "country_code": "GB",
-      "state_code": "MRY",
-      "state_id": 2360,
-      "country_id": 232
-    },
-    {
-      "id": 50661,
-      "name": "Nairn",
-      "name_default": "Nairn",
-      "native": "Nairn",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10022,
-      "latitude": "57.58094000",
-      "longitude": "-3.87973000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q980084",
       "country_code": "GB",
       "state_code": "MRY",
       "state_id": 2360,

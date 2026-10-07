@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 89933,
-      "name": "Аліменешті",
+      "name": "Аліменешть",
       "name_default": "Alimănești",
       "native": "Alimănești",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 90472,
-      "name": "Бабічу",
+      "name": "Бебічу",
       "name_default": "Băbiciu",
       "native": "Băbiciu",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 90021,
-      "name": "Бачеа",
+      "name": "Бача",
       "name_default": "Bacea",
       "native": "BACEA",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 90524,
-      "name": "Баленешть",
+      "name": "Беленешть",
       "name_default": "Bălănești",
       "native": "Bălănești",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 90515,
-      "name": "Белтені",
+      "name": "Белтень",
       "name_default": "Bălteni",
       "native": "Bălteni",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 90549,
-      "name": "Берештій де Веде",
+      "name": "Берештій-де-Веде",
       "name_default": "Bărăștii de Vede",
       "native": "Bărăștii de Vede",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 90140,
-      "name": "Бірчії",
+      "name": "Бірчій",
       "name_default": "Bircii",
       "native": "Bircii",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 90320,
-      "name": "Бранковені",
+      "name": "Бринковень",
       "name_default": "Brâncoveni",
       "native": "Brâncoveni",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 90267,
-      "name": "Бранець",
+      "name": "Бранец",
       "name_default": "Braneț",
       "native": "Braneț",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 90273,
-      "name": "Браставацу",
+      "name": "Браставецу",
       "name_default": "Brastavățu",
       "native": "Brastavățu",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 90291,
-      "name": "Бребені",
+      "name": "Бребень",
       "name_default": "Brebeni",
       "native": "Brebeni",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 90349,
-      "name": "Бучінішу",
+      "name": "Бучинішу",
       "name_default": "Bucinişu",
       "native": "Bucinişu",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 93847,
-      "name": "Калуй",
+      "name": "Келуй",
       "name_default": "Călui",
       "native": "Călui",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 93816,
-      "name": "Карлогані",
+      "name": "Кирлогань",
       "name_default": "Cârlogani",
       "native": "Cârlogani",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 90651,
-      "name": "Цезієні",
+      "name": "Чезієнь",
       "name_default": "Cezieni",
       "native": "Cezieni",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 90798,
-      "name": "Колонешті",
+      "name": "Колонешть",
       "name_default": "Coloneşti",
       "native": "Coloneşti",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 90810,
-      "name": "Комані",
+      "name": "Комань",
       "name_default": "Comani",
       "native": "Comani",
       "type": "city",
@@ -887,7 +887,7 @@
       "id": 91525,
       "name": "Комуна Кунгря",
       "name_default": "Comuna Cungrea",
-      "native": "Congretul comun",
+      "native": "Comuna Cungrea",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1607,7 +1607,7 @@
       "id": 92516,
       "name": "Комуна Осіка де Сус",
       "name_default": "Comuna Osica de Sus",
-      "native": "Osica Comuna din dumneavoastră",
+      "native": "Comuna Osica de Sus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1679,7 +1679,7 @@
       "id": 92608,
       "name": "Комуна Побору",
       "name_default": "Comuna Poboru",
-      "native": "Control comuna",
+      "native": "Comuna Poboru",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2451,9 +2451,9 @@
     },
     {
       "id": 93746,
-      "name": "Крампойя",
+      "name": "Кримпоя",
       "name_default": "Crâmpoia",
-      "native": "Crom",
+      "native": "Crâmpoia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 93770,
-      "name": "Кангреа",
+      "name": "Кунгря",
       "name_default": "Cungrea",
       "native": "Congret",
       "type": "adm2",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 94125,
-      "name": "Даняса",
+      "name": "Деняса",
       "name_default": "Dăneasa",
       "native": "Dăneasa",
       "type": "adm2",
@@ -2541,7 +2541,7 @@
     },
     {
       "id": 93912,
-      "name": "Дежешті",
+      "name": "Дежешть",
       "name_default": "Dejești",
       "native": "Dejești",
       "type": "city",
@@ -2597,7 +2597,7 @@
       "id": 93956,
       "name": "Добрецу",
       "name_default": "Dobreţu",
-      "native": "Bun",
+      "native": "Dobreţu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2613,7 +2613,7 @@
     },
     {
       "id": 93963,
-      "name": "Добрословені",
+      "name": "Добрословень",
       "name_default": "Dobrosloveni",
       "native": "Dobrosloveni",
       "type": "adm2",
@@ -2631,9 +2631,9 @@
     },
     {
       "id": 93964,
-      "name": "Добротеаса",
+      "name": "Добротяса",
       "name_default": "Dobroteasa",
-      "native": "Bunătate",
+      "native": "Dobroteasa",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2651,7 +2651,7 @@
       "id": 93967,
       "name": "Добротінет",
       "name_default": "Dobrotinet",
-      "native": "Bunătate",
+      "native": "Dobrotinet",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2667,9 +2667,9 @@
     },
     {
       "id": 93970,
-      "name": "Добрунь",
+      "name": "Добрун",
       "name_default": "Dobrun",
-      "native": "Dobruja",
+      "native": "Dobrun",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2703,7 +2703,7 @@
     },
     {
       "id": 94038,
-      "name": "Драгічень",
+      "name": "Дрегічень",
       "name_default": "Drăghiceni",
       "native": "Drăghiceni",
       "type": "adm2",
@@ -2721,7 +2721,7 @@
     },
     {
       "id": 94028,
-      "name": "Драновацу",
+      "name": "Драновецу",
       "name_default": "Dranovățu",
       "native": "Dranovățu",
       "type": "city",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 94098,
-      "name": "Думітрешті",
+      "name": "Думітрешть",
       "name_default": "Dumitrești",
       "native": "Dumitrești",
       "type": "city",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 94255,
-      "name": "Фагецелу",
+      "name": "Феджецелу",
       "name_default": "Făgeţelu",
       "native": "Făgeţelu",
       "type": "adm2",
@@ -2775,7 +2775,7 @@
     },
     {
       "id": 94258,
-      "name": "Фалкою",
+      "name": "Фелкою",
       "name_default": "Fălcoiu",
       "native": "Fălcoiu",
       "type": "adm2",
@@ -2793,7 +2793,7 @@
     },
     {
       "id": 94262,
-      "name": "Фаркашеле",
+      "name": "Феркашеле",
       "name_default": "Fărcaşele",
       "native": "Fărcaşele",
       "type": "adm2",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 94264,
-      "name": "Фаркашу-де-Жос",
+      "name": "Феркашу-де-Жос",
       "name_default": "Fărcașu de Jos",
       "native": "Fărcașu de Jos",
       "type": "city",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 94509,
-      "name": "Ганяса",
+      "name": "Геняса",
       "name_default": "Găneasa",
       "native": "Găneasa",
       "type": "adm2",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": 94488,
-      "name": "Гарков",
+      "name": "Гирков",
       "name_default": "Gârcov",
       "native": "Gârcov",
       "type": "adm2",
@@ -2865,7 +2865,7 @@
     },
     {
       "id": 94516,
-      "name": "Ґевенешті",
+      "name": "Гевенешть",
       "name_default": "Găvănești",
       "native": "Găvănești",
       "type": "adm2",
@@ -2883,7 +2883,7 @@
     },
     {
       "id": 94324,
-      "name": "Гімпаті",
+      "name": "Гімпаць",
       "name_default": "Ghimpați",
       "native": "Ghimpați",
       "type": "city",
@@ -2901,7 +2901,7 @@
     },
     {
       "id": 94326,
-      "name": "Гімпецені",
+      "name": "Гімпецень",
       "name_default": "Ghimpețeni",
       "native": "Ghimpețeni",
       "type": "adm2",
@@ -2937,7 +2937,7 @@
     },
     {
       "id": 94356,
-      "name": "Джуварашті",
+      "name": "Джуверешть",
       "name_default": "Giuvărăşti",
       "native": "Giuvărăşti",
       "type": "adm2",
@@ -2955,9 +2955,9 @@
     },
     {
       "id": 94392,
-      "name": "Гоставацу",
+      "name": "Гоставецу",
       "name_default": "Gostavăţu",
-      "native": "Gosto",
+      "native": "Gostavăţu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2973,7 +2973,7 @@
     },
     {
       "id": 94434,
-      "name": "Градинарі",
+      "name": "Гредінарі",
       "name_default": "Grădinari",
       "native": "Grădinari",
       "type": "adm2",
@@ -2991,9 +2991,9 @@
     },
     {
       "id": 94410,
-      "name": "Греці",
+      "name": "Греч",
       "name_default": "Greci",
-      "native": "Grec",
+      "native": "Greci",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3009,7 +3009,7 @@
     },
     {
       "id": 94418,
-      "name": "Гройдібоду",
+      "name": "Грождібоду",
       "name_default": "Grojdibodu",
       "native": "Groogbibodu",
       "type": "adm2",
@@ -3027,9 +3027,9 @@
     },
     {
       "id": 94421,
-      "name": "Гропшані",
+      "name": "Гропшань",
       "name_default": "Gropșani",
-      "native": "Bâjbâi",
+      "native": "Gropșani",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3045,7 +3045,7 @@
     },
     {
       "id": 94452,
-      "name": "Гура Келуй",
+      "name": "Гура-Келую",
       "name_default": "Gura Căluiu",
       "native": "Gura Căluiu",
       "type": "city",
@@ -3063,7 +3063,7 @@
     },
     {
       "id": 94457,
-      "name": "Гура Падіній",
+      "name": "Гура-Падіній",
       "name_default": "Gura Padinii",
       "native": "Gura Padinii",
       "type": "adm2",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": 94621,
-      "name": "Янку Цзяну",
+      "name": "Янку-Жіану",
       "name_default": "Iancu Jianu",
       "native": "Iancu Jianu",
       "type": "adm2",
@@ -3135,7 +3135,7 @@
     },
     {
       "id": 94685,
-      "name": "Іпотека",
+      "name": "Іпотешть",
       "name_default": "Ipotești",
       "native": "Ipotești",
       "type": "adm2",
@@ -3155,7 +3155,7 @@
       "id": 94699,
       "name": "Ізбічені",
       "name_default": "Izbiceni",
-      "native": "Alege",
+      "native": "Izbiceni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3189,7 +3189,7 @@
     },
     {
       "id": 94734,
-      "name": "Jieni",
+      "name": "Жієнь",
       "name_default": "Jieni",
       "native": "Jieni",
       "type": "city",
@@ -3207,7 +3207,7 @@
     },
     {
       "id": 94772,
-      "name": "Лелеаска",
+      "name": "Леляска",
       "name_default": "Leleasca",
       "native": "Leleasca",
       "type": "adm2",
@@ -3243,7 +3243,7 @@
     },
     {
       "id": 95282,
-      "name": "Марунцей",
+      "name": "Мерунцей",
       "name_default": "Mărunţei",
       "native": "Mărunţei",
       "type": "adm2",
@@ -3261,7 +3261,7 @@
     },
     {
       "id": 94989,
-      "name": "Міхеешть",
+      "name": "Міхеєшть",
       "name_default": "Mihăeşti",
       "native": "Mihăeşti",
       "type": "adm2",
@@ -3297,7 +3297,7 @@
     },
     {
       "id": 95082,
-      "name": "Мовілені",
+      "name": "Мовілень",
       "name_default": "Movileni",
       "native": "Movileni",
       "type": "adm2",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 95315,
-      "name": "Негрені",
+      "name": "Негрень",
       "name_default": "Negreni",
       "native": "Negreni",
       "type": "city",
@@ -3369,7 +3369,7 @@
     },
     {
       "id": 95339,
-      "name": "Ніколае Тітулеску",
+      "name": "Ніколає-Тітулеску",
       "name_default": "Nicolae Titulescu",
       "native": "Nicolae Titulescu",
       "type": "adm2",
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 95659,
-      "name": "Орлеа",
+      "name": "Орля",
       "name_default": "Orlea",
       "native": "Orlea",
       "type": "adm2",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 95660,
-      "name": "Орля Ноуе",
+      "name": "Орля-Ноуе",
       "name_default": "Orlea Nouă",
       "native": "Orlea Nouă",
       "type": "city",
@@ -3641,7 +3641,7 @@
       "id": 95673,
       "name": "Осіка-де-Сус",
       "name_default": "Osica de Sus",
-      "native": "Osica din ea",
+      "native": "Osica de Sus",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 96003,
-      "name": "Парсковень",
+      "name": "Пиршковень",
       "name_default": "Pârşcoveni",
       "native": "Pârşcoveni",
       "type": "adm2",
@@ -3675,7 +3675,7 @@
     },
     {
       "id": 95733,
-      "name": "Перієці",
+      "name": "Перієць",
       "name_default": "Perieţi",
       "native": "Perieţi",
       "type": "adm2",
@@ -3749,7 +3749,7 @@
       "id": 95837,
       "name": "Побору",
       "name_default": "Poboru",
-      "native": "Consum",
+      "native": "Poboru",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3803,7 +3803,7 @@
       "id": 95930,
       "name": "Потелу",
       "name_default": "Potelu",
-      "native": "Sticlă",
+      "native": "Potelu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 95932,
-      "name": "Потлогень",
+      "name": "Потлоджень",
       "name_default": "Potlogeni",
       "native": "Potlogeni",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 95954,
-      "name": "Прісеака",
+      "name": "Прісяка",
       "name_default": "Priseaca",
       "native": "PRISTEAAC",
       "type": "adm2",
@@ -3873,7 +3873,7 @@
     },
     {
       "id": 96074,
-      "name": "Редеа",
+      "name": "Редя",
       "name_default": "Redea",
       "native": "Redea",
       "type": "adm2",
@@ -3891,7 +3891,7 @@
     },
     {
       "id": 96121,
-      "name": "Ротонда",
+      "name": "Ротунда",
       "name_default": "Rotunda",
       "native": "Rotunda",
       "type": "adm2",
@@ -3927,7 +3927,7 @@
     },
     {
       "id": 96518,
-      "name": "Самбурешть",
+      "name": "Симбурешть",
       "name_default": "Sâmbureşti",
       "native": "Sâmbureşti",
       "type": "adm2",
@@ -3963,9 +3963,9 @@
     },
     {
       "id": 96269,
-      "name": "Шіту",
+      "name": "Скіту",
       "name_default": "Schitu",
-      "native": "Scul",
+      "native": "Schitu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3999,7 +3999,7 @@
     },
     {
       "id": 96298,
-      "name": "Сіака",
+      "name": "Сяка",
       "name_default": "Seaca",
       "native": "Seaca",
       "type": "adm2",
@@ -4017,7 +4017,7 @@
     },
     {
       "id": 97039,
-      "name": "Шербенешті",
+      "name": "Шербенешть",
       "name_default": "Şerbăneşti",
       "native": "Şerbăneşti",
       "type": "adm2",
@@ -4071,7 +4071,7 @@
     },
     {
       "id": 96384,
-      "name": "Слатіоара",
+      "name": "Слетіоара",
       "name_default": "Slătioara",
       "native": "Slătioara",
       "type": "adm2",
@@ -4089,7 +4089,7 @@
     },
     {
       "id": 96385,
-      "name": "Словені",
+      "name": "Слевень",
       "name_default": "Slăveni",
       "native": "Slăveni",
       "type": "city",
@@ -4125,7 +4125,7 @@
     },
     {
       "id": 96418,
-      "name": "Спрансената",
+      "name": "Спринчената",
       "name_default": "Sprâncenata",
       "native": "Sprâncenata",
       "type": "adm2",
@@ -4143,7 +4143,7 @@
     },
     {
       "id": 96484,
-      "name": "Ставару",
+      "name": "Стевару",
       "name_default": "Stăvaru",
       "native": "Stăvaru",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 97079,
-      "name": "Штефан чел Маре",
+      "name": "Штефан-чел-Маре",
       "name_default": "Ştefan cel Mare",
       "native": "Ştefan cel Mare",
       "type": "adm2",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": 96450,
-      "name": "Стреєшті",
+      "name": "Стрежешть",
       "name_default": "Strejeşti",
       "native": "Strejeşti",
       "type": "adm2",
@@ -4233,7 +4233,7 @@
     },
     {
       "id": 96451,
-      "name": "Стреєштій-де-Сус",
+      "name": "Стрежештій-де-Сус",
       "name_default": "Strejeștii de Sus",
       "native": "Strejeștii de Sus",
       "type": "city",
@@ -4269,7 +4269,7 @@
     },
     {
       "id": 96466,
-      "name": "Студиніця",
+      "name": "Студініца",
       "name_default": "Studinița",
       "native": "Stinița",
       "type": "city",
@@ -4287,7 +4287,7 @@
     },
     {
       "id": 96616,
-      "name": "Татулешті",
+      "name": "Тетулешть",
       "name_default": "Tătuleşti",
       "native": "Tătuleşti",
       "type": "adm2",
@@ -4305,9 +4305,9 @@
     },
     {
       "id": 106087,
-      "name": "Теслуї",
+      "name": "Теслуй",
       "name_default": "Teslui",
-      "native": "Teshlives",
+      "native": "Teslui",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -4323,7 +4323,7 @@
     },
     {
       "id": 106092,
-      "name": "Тіа Маре",
+      "name": "Тіа-Маре",
       "name_default": "Tia Mare",
       "native": "Tia Mare",
       "type": "adm2",
@@ -4343,7 +4343,7 @@
       "id": 106128,
       "name": "Топана",
       "name_default": "Topana",
-      "native": "Răspuns",
+      "native": "Topana",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -4377,9 +4377,9 @@
     },
     {
       "id": 106170,
-      "name": "Туфені",
+      "name": "Туфень",
       "name_default": "Tufeni",
-      "native": "Permiteți-ne",
+      "native": "Tufeni",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -4395,7 +4395,7 @@
     },
     {
       "id": 96683,
-      "name": "Ведмедиця",
+      "name": "Урса",
       "name_default": "Ursa",
       "native": "Ursa",
       "type": "city",
@@ -4413,7 +4413,7 @@
     },
     {
       "id": 96685,
-      "name": "Урзіца",
+      "name": "Урзіка",
       "name_default": "Urzica",
       "native": "Urzica",
       "type": "adm2",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 96924,
-      "name": "Вилселеле-де-Сус",
+      "name": "Вилчелеле-де-Сус",
       "name_default": "Vâlcelele de Sus",
       "native": "Vâlcelele de Sus",
       "type": "city",
@@ -4503,7 +4503,7 @@
     },
     {
       "id": 96733,
-      "name": "Валеа Маре",
+      "name": "Валя-Маре",
       "name_default": "Valea Mare",
       "native": "Valea Mare",
       "type": "adm2",
@@ -4521,7 +4521,7 @@
     },
     {
       "id": 96740,
-      "name": "Валеа Мерілор",
+      "name": "Валя-Мерілор",
       "name_default": "Valea Merilor",
       "native": "Valea Merilor",
       "type": "city",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 96961,
-      "name": "Валені",
+      "name": "Велень",
       "name_default": "Văleni",
       "native": "Văleni",
       "type": "adm2",
@@ -4557,7 +4557,7 @@
     },
     {
       "id": 96788,
-      "name": "Вергулеаса",
+      "name": "Вергуляса",
       "name_default": "Verguleasa",
       "native": "Vergleasa",
       "type": "adm2",
@@ -4577,7 +4577,7 @@
       "id": 96850,
       "name": "Вішина",
       "name_default": "Vişina",
-      "native": "Piper",
+      "native": "Vişina",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -4593,7 +4593,7 @@
     },
     {
       "id": 96853,
-      "name": "Вішина Ноуе",
+      "name": "Вішина-Ноуе",
       "name_default": "Vișina Nouă",
       "native": "Vișina Nouă",
       "type": "city",
@@ -4647,7 +4647,7 @@
     },
     {
       "id": 96868,
-      "name": "Владіла",
+      "name": "Вледіла",
       "name_default": "Vlădila",
       "native": "Vlídila",
       "type": "adm2",
@@ -4665,7 +4665,7 @@
     },
     {
       "id": 96878,
-      "name": "Войнеаса",
+      "name": "Войняса",
       "name_default": "Voineasa",
       "native": "Voineasa",
       "type": "adm2",
@@ -4683,9 +4683,9 @@
     },
     {
       "id": 96906,
-      "name": "Вульпені",
+      "name": "Вулпень",
       "name_default": "Vulpeni",
-      "native": "Fântâna Peni",
+      "native": "Vulpeni",
       "type": "adm2",
       "level": null,
       "parent_id": null,

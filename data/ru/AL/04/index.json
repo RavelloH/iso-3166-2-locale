@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 152,
-      "name": "Баллш",
+      "name": "Балши",
       "name_default": "Ballsh",
       "native": "Ballsh",
       "type": "adm2",
@@ -167,7 +167,7 @@
       "id": 200,
       "name": "Фиери",
       "name_default": "Fier",
-      "native": "Hekuros",
+      "native": "Fier",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 201,
       "name": "Fier-Çifçi",
       "name_default": "Fier-Çifçi",
-      "native": "Përtypje e egër",
+      "native": "Fier-Çifçi",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 227,
-      "name": "Лушне",
+      "name": "Люшня",
       "name_default": "Lushnjë",
       "native": "Lushnjë",
       "type": "adm2",
@@ -237,9 +237,9 @@
     },
     {
       "id": 234,
-      "name": "Патос",
+      "name": "Патоси",
       "name_default": "Patos",
-      "native": "Rosat",
+      "native": "Patos",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 241,
-      "name": "Росковец",
+      "name": "Росковеци",
       "name_default": "Roskovec",
       "native": "Roskovec",
       "type": "adm3",

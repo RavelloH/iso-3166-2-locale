@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54384,
-      "name": "Balla",
+      "name": "Valle",
       "name_default": "Bale",
       "native": "Bala",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 54436,
-      "name": "Buzet",
+      "name": "Pinguente",
       "name_default": "Buzet",
       "native": "Buzet",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 54483,
-      "name": "Funtana",
+      "name": "Fontane",
       "name_default": "Funtana",
       "native": "Fontana",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 54530,
-      "name": "Laureato ad Albona",
+      "name": "Grad Labin",
       "name_default": "Grad Labin",
       "native": "Grad Labin",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 54586,
-      "name": "Grisignana-Grisignana",
+      "name": "Grožnjan-Grisignana",
       "name_default": "Grožnjan-Grisignana",
       "native": "Grožnjan-Grisignana",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 54634,
-      "name": "Karojba",
+      "name": "Caroiba",
       "name_default": "Karojba",
       "native": "Karojba",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54691,
-      "name": "Ližnjan",
+      "name": "Lisignano",
       "name_default": "Ližnjan",
       "native": "Ližnjan",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 54722,
-      "name": "Marčana",
+      "name": "Marzana",
       "name_default": "Marčana",
       "native": "Marčana",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 54763,
-      "name": "Novigrad-Cittanova",
+      "name": "Cittanova",
       "name_default": "Novigrad",
       "native": "Novigrad-Cittanova",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 54827,
-      "name": "Parenzo-Parenzo",
+      "name": "Poreč-Parenzo",
       "name_default": "Poreč-Parenzo",
       "native": "Poreč-parenzo",
       "type": "adm2",
@@ -707,7 +707,7 @@
       "id": 54844,
       "name": "Pola",
       "name_default": "Pula",
-      "native": "U svakom slučaju",
+      "native": "Pula",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 54850,
-      "name": "Rabac",
+      "name": "Portalbona",
       "name_default": "Rabac",
       "native": "Rabac",
       "type": "city",
@@ -823,7 +823,7 @@
       "latitude": "45.14932000",
       "longitude": "14.09889000",
       "timezone": "Europe/Zagreb",
-      "wikiDataId": "Q925754",
+      "wikiDataId": null,
       "country_code": "HR",
       "state_code": "18",
       "state_id": 743,
@@ -833,7 +833,7 @@
       "id": 54931,
       "name": "Sveti Lovreč",
       "name_default": "Sveti Lovreč",
-      "native": "Svet",
+      "native": "Sveti Lovreč",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,9 +849,9 @@
     },
     {
       "id": 54933,
-      "name": "Catrame",
+      "name": "Tar",
       "name_default": "Tar",
-      "native": "Katran",
+      "native": "Tar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 54950,
-      "name": "Umago-Umago",
+      "name": "Umag-Umago",
       "name_default": "Umag-Umago",
       "native": "Umag-Umago",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 54967,
-      "name": "Vinež",
+      "name": "Vines",
       "name_default": "Vinež",
       "native": "Vinov",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 54982,
-      "name": "Dignano",
+      "name": "Dignano d'Istria",
       "name_default": "Vodnjan",
       "native": "Vodnjan",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 55039,
-      "name": "Žminj",
+      "name": "Gimino",
       "name_default": "Žminj",
       "native": "Žminj",
       "type": "adm2",

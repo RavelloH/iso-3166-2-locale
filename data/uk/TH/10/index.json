@@ -690,7 +690,7 @@
       "name": "Пом Прап Саттру Фай",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Щур Бурана",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 106732,
-      "name": "Тон бурі",
+      "name": "Тхонбурі",
       "name_default": "Thon buri",
       "native": "ธนบุรี",
       "type": "section",

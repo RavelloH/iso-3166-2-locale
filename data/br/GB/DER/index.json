@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48339,
-      "name": "Poull-forn",
+      "name": "Bakewell",
       "name_default": "Bakewell",
       "native": "Bakewell",
       "type": "city",
@@ -104,6 +104,24 @@
       "longitude": "-1.58333000",
       "timezone": "Europe/London",
       "wikiDataId": "Q11775003",
+      "country_code": "GB",
+      "state_code": "DER",
+      "state_id": 2485,
+      "country_id": 232
+    },
+    {
+      "id": 51313,
+      "name": "Sinfin",
+      "name_default": "Sinfin",
+      "native": "Sinfin",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15128,
+      "latitude": "52.88157000",
+      "longitude": "-1.48681000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q3474744",
       "country_code": "GB",
       "state_code": "DER",
       "state_id": 2485,

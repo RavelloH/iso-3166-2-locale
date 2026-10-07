@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 23574,
-      "name": "Alsterdorf",
+      "name": "Hamburg-Alsterdorf",
       "name_default": "Alsterdorf",
       "native": "Alsterdorf",
       "type": "section",
@@ -82,7 +82,7 @@
     },
     {
       "id": 23631,
-      "name": "Altona",
+      "name": "Hambourg-Altona",
       "name_default": "Altona",
       "native": "Altona",
       "type": "section",
@@ -118,7 +118,7 @@
     },
     {
       "id": 24032,
-      "name": "Bergedorf",
+      "name": "Hamburg-Bergedorf",
       "name_default": "Bergedorf",
       "native": "Bergedorf",
       "type": "section",
@@ -154,9 +154,9 @@
     },
     {
       "id": 24241,
-      "name": "Borgfelde",
+      "name": "Hamburg-Borgfelde",
       "name_default": "Borgfelde",
-      "native": "Schloss",
+      "native": "Borgfelde",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": 24788,
-      "name": "Düvenstedt",
+      "name": "Duvenstedt",
       "name_default": "Duvenstedt",
       "native": "Duvenstedt",
       "type": "city",
@@ -190,7 +190,7 @@
     },
     {
       "id": 24910,
-      "name": "Eidelstedt",
+      "name": "Hamburg-Eidelstedt",
       "name_default": "Eidelstedt",
       "native": "Eidelstedt",
       "type": "section",
@@ -208,7 +208,7 @@
     },
     {
       "id": 24919,
-      "name": "Eimsbüttel",
+      "name": "Hamburg-Eimsbüttel",
       "name_default": "Eimsbüttel",
       "native": "Eimsbüttel",
       "type": "section",
@@ -226,9 +226,9 @@
     },
     {
       "id": 25143,
-      "name": "Farmsen-Berne",
+      "name": "Hamburg-Farmsen-Berne",
       "name_default": "Farmsen-Berne",
-      "native": "Die Farmen",
+      "native": "Farmsen-Berne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -244,7 +244,7 @@
     },
     {
       "id": 25314,
-      "name": "Fuhlsbüttel",
+      "name": "Hambourg-Fuhlsbüttel",
       "name_default": "Fuhlsbüttel",
       "native": "Fuhlsbüttel",
       "type": "section",
@@ -298,7 +298,7 @@
     },
     {
       "id": 25868,
-      "name": "Hambourg-Mitte",
+      "name": "Hamburg-Mitte",
       "name_default": "Hamburg-Mitte",
       "native": "Hamburg-Mitte",
       "type": "section",
@@ -316,7 +316,7 @@
     },
     {
       "id": 25869,
-      "name": "Hambourg-Nord",
+      "name": "arrondissement de Hambourg-Nord",
       "name_default": "Hamburg-Nord",
       "native": "Hamburg-Nord",
       "type": "section",
@@ -334,7 +334,7 @@
     },
     {
       "id": 25877,
-      "name": "Hammerbrook",
+      "name": "Hamburg-Hammerbrook",
       "name_default": "Hammerbrook",
       "native": "Hammerbrook",
       "type": "section",
@@ -352,7 +352,7 @@
     },
     {
       "id": 25897,
-      "name": "Harbourg",
+      "name": "Hamburg-Harburg",
       "name_default": "Harburg",
       "native": "Harburg",
       "type": "section",
@@ -390,7 +390,7 @@
       "id": 26670,
       "name": "Kleiner Grasbrook",
       "name_default": "Kleiner Grasbrook",
-      "native": "Kleineres Gras",
+      "native": "Kleiner Grasbrook",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -426,7 +426,7 @@
       "id": 27036,
       "name": "Lemsahl-Mellingstedt",
       "name_default": "Lemsahl-Mellingstedt",
-      "native": "LEMSAHL-MELLINGSSTEDT",
+      "native": "Lemsahl-Mellingstedt",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -514,7 +514,7 @@
     },
     {
       "id": 28181,
-      "name": "Ottensen",
+      "name": "Hamburg-Ottensen",
       "name_default": "Ottensen",
       "native": "Ottensen",
       "type": "section",
@@ -550,7 +550,7 @@
     },
     {
       "id": 28726,
-      "name": "Rothenburgsort",
+      "name": "Hamburg-Rothenburgsort",
       "name_default": "Rothenburgsort",
       "native": "Rothenburgsort",
       "type": "section",
@@ -586,7 +586,7 @@
     },
     {
       "id": 29311,
-      "name": "Saint-Georges",
+      "name": "Hamburg-Sankt Georg",
       "name_default": "St. Georg",
       "native": "St. Georg",
       "type": "section",
@@ -604,7 +604,7 @@
     },
     {
       "id": 29312,
-      "name": "St. Pauli",
+      "name": "Sankt Pauli",
       "name_default": "St. Pauli",
       "native": "St. Pauli",
       "type": "section",
@@ -640,9 +640,9 @@
     },
     {
       "id": 29396,
-      "name": "Stellingen",
+      "name": "Hambourg-Stellingen",
       "name_default": "Stellingen",
-      "native": "Racks",
+      "native": "Stellingen",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -712,9 +712,9 @@
     },
     {
       "id": 30370,
-      "name": "Wohldorf-Ohlstedt",
+      "name": "Hamburg-Wohldorf-Ohlstedt",
       "name_default": "Wohldorf-Ohlstedt",
-      "native": "Woldorf-ohlstedt",
+      "native": "Wohldorf-Ohlstedt",
       "type": "section",
       "level": null,
       "parent_id": null,

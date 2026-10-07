@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31235,
-      "name": "آرباتاچ",
+      "name": "اربعطاش",
       "name_default": "Arbatache",
       "native": "أرباتاشي",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 31299,
-      "name": "چابت العمور",
+      "name": "شعبه العامر",
       "name_default": "Chabet el Ameur",
       "native": "شابيت العامور",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 31314,
-      "name": "دلیس",
+      "name": "دلس",
       "name_default": "Dellys",
       "native": "ديليس",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 31362,
-      "name": "خمیس ​​الخچنا",
+      "name": "خمیس خشنه",
       "name_default": "Khemis el Khechna",
       "native": "خميس الخشنة",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 31393,
-      "name": "ناسیریا",
+      "name": "ناصریه",
       "name_default": "Naciria",
       "native": "الناصرية",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 31403,
-      "name": "اولد موسی",
+      "name": "اولاد موسى",
       "name_default": "Ouled Moussa",
       "native": "أولاد موسى",
       "type": "city",
@@ -218,26 +218,8 @@
       "country_id": 4
     },
     {
-      "id": 31441,
-      "name": "تادمایت",
-      "name_default": "Tadmaït",
-      "native": "تادميت",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22838,
-      "latitude": "36.74413000",
-      "longitude": "3.90045000",
-      "timezone": "Africa/Algiers",
-      "wikiDataId": "Q3513734",
-      "country_code": "DZ",
-      "state_code": "35",
-      "state_id": 1125,
-      "country_id": 4
-    },
-    {
       "id": 31447,
-      "name": "تنیا",
+      "name": "ثنیه",
       "name_default": "Thenia",
       "native": "ثينيا",
       "type": "city",

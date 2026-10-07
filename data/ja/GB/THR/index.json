@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48318,
-      "name": "アヴェリー",
+      "name": "エイヴリー",
       "name_default": "Aveley",
       "native": "Aveley",
       "type": "city",
@@ -113,7 +113,7 @@
       "id": 48906,
       "name": "チャドウェル・セント・メアリー",
       "name_default": "Chadwell St Mary",
-      "native": "St. Mary",
+      "native": "Chadwell St Mary",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 49412,
-      "name": "イースト・ティルベリー",
+      "name": "東ティルベリー",
       "name_default": "East Tilbury",
       "native": "East Tilbury",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49704,
-      "name": "グレイ",
+      "name": "グレイズ",
       "name_default": "Grays",
       "native": "Grays",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50819,
-      "name": "オルセット",
+      "name": "オーセット",
       "name_default": "Orsett",
       "native": "Orsett",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 51363,
-      "name": "サウスオッケンドン",
+      "name": "サウス・オッケンドン",
       "name_default": "South Ockendon",
       "native": "South Ockendon",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 51423,
-      "name": "スタンフォード・ル・ホープ",
+      "name": "スタンフォード・レ・ホープ",
       "name_default": "Stanford-le-Hope",
       "native": "Stanford-le-Hope",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 51832,
-      "name": "ウェスト・サロック",
+      "name": "ウェスト・サーロック",
       "name_default": "West Thurrock",
       "native": "West Thurrock",
       "type": "city",
@@ -302,24 +302,6 @@
       "longitude": "0.27672000",
       "timezone": "Europe/London",
       "wikiDataId": "Q971550",
-      "country_code": "GB",
-      "state_code": "THR",
-      "state_id": 2468,
-      "country_id": 232
-    },
-    {
-      "id": 51891,
-      "name": "ウィックフォード",
-      "name_default": "Wickford",
-      "native": "Wickford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 27601,
-      "latitude": "51.61101000",
-      "longitude": "0.52331000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q932841",
       "country_code": "GB",
       "state_code": "THR",
       "state_id": 2468,

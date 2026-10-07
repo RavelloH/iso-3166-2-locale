@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 109330,
-      "name": "Artsyz",
+      "name": "Arzys",
       "name_default": "Artsyz",
       "native": "Арциз",
       "type": "city",
@@ -258,7 +258,7 @@
     },
     {
       "id": 109513,
-      "name": "Tschornomorsk",
+      "name": "Chornomors’k",
       "name_default": "Chornomors’k",
       "native": "Чорноморськ",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109545,
-      "name": "Dmytrivka",
+      "name": "Dmytriwka",
       "name_default": "Dmytrivka",
       "native": "Дмитрівка",
       "type": "city",
@@ -330,7 +330,7 @@
     },
     {
       "id": 109646,
-      "name": "Horodnyje",
+      "name": "Horodnye",
       "name_default": "Horodnye",
       "native": "Городнє",
       "type": "city",
@@ -366,7 +366,7 @@
     },
     {
       "id": 109687,
-      "name": "Izmayil",
+      "name": "Ismajil",
       "name_default": "Izmayil",
       "native": "Ізмаїл",
       "type": "city",
@@ -384,9 +384,9 @@
     },
     {
       "id": 109699,
-      "name": "Kalcheva",
+      "name": "Kaltschewa",
       "name_default": "Kalcheva",
-      "native": "Кальчева",
+      "native": "Калчева",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -420,7 +420,7 @@
     },
     {
       "id": 109717,
-      "name": "Karolino-Buhaz",
+      "name": "Karolino-Buhas",
       "name_default": "Karolino-Buhaz",
       "native": "Кароліно-Бугаз",
       "type": "city",
@@ -438,7 +438,7 @@
     },
     {
       "id": 109747,
-      "name": "Kiliya",
+      "name": "Kilija",
       "name_default": "Kiliya",
       "native": "Кілія",
       "type": "adm2",
@@ -528,7 +528,7 @@
     },
     {
       "id": 109878,
-      "name": "Kryzhanivka",
+      "name": "Kryschaniwka",
       "name_default": "Kryzhanivka",
       "native": "Крижанівка",
       "type": "city",
@@ -564,7 +564,7 @@
     },
     {
       "id": 109883,
-      "name": "Kulevcha",
+      "name": "Kulewtscha",
       "name_default": "Kulevcha",
       "native": "Кулевча",
       "type": "city",
@@ -582,7 +582,7 @@
     },
     {
       "id": 109889,
-      "name": "Kurisove",
+      "name": "Kurissowe",
       "name_default": "Kurisove",
       "native": "Курісове",
       "type": "city",
@@ -618,7 +618,7 @@
     },
     {
       "id": 109962,
-      "name": "Ljubaschiwka",
+      "name": "Lyubashivka",
       "name_default": "Lyubashivka",
       "native": "Любашівка",
       "type": "city",
@@ -636,7 +636,7 @@
     },
     {
       "id": 110009,
-      "name": "Majaky",
+      "name": "Mayaky",
       "name_default": "Mayaky",
       "native": "Маяки",
       "type": "city",
@@ -654,7 +654,7 @@
     },
     {
       "id": 110072,
-      "name": "Mykolajiwka",
+      "name": "Mykolayivka",
       "name_default": "Mykolayivka",
       "native": "Миколаївка",
       "type": "city",
@@ -690,7 +690,7 @@
     },
     {
       "id": 110117,
-      "name": "Novi Trojany",
+      "name": "Novi Troyany",
       "name_default": "Novi Troyany",
       "native": "Нові Трояни",
       "type": "city",
@@ -726,9 +726,9 @@
     },
     {
       "id": 110181,
-      "name": "Okay",
+      "name": "Okny",
       "name_default": "Okny",
-      "native": "Окні",
+      "native": "Окни",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -744,7 +744,7 @@
     },
     {
       "id": 110188,
-      "name": "Oleksandriwka",
+      "name": "Olexandriwka",
       "name_default": "Oleksandrivka",
       "native": "Олександрівка",
       "type": "city",
@@ -762,7 +762,7 @@
     },
     {
       "id": 110213,
-      "name": "Ovidiopol",
+      "name": "Owidiopol",
       "name_default": "Ovidiopol",
       "native": "Овідіополь",
       "type": "city",
@@ -780,7 +780,7 @@
     },
     {
       "id": 110218,
-      "name": "Ozerne",
+      "name": "Oserne",
       "name_default": "Ozerne",
       "native": "Озерне",
       "type": "city",
@@ -816,7 +816,7 @@
     },
     {
       "id": 110804,
-      "name": "Juschne",
+      "name": "Piwdenne",
       "name_default": "Pivdenne",
       "native": "Южне",
       "type": "city",
@@ -852,7 +852,7 @@
     },
     {
       "id": 110285,
-      "name": "Podil’sk",
+      "name": "Podil’s’k",
       "name_default": "Podil’s’k",
       "native": "Подільськ",
       "type": "city",
@@ -870,7 +870,7 @@
     },
     {
       "id": 110284,
-      "name": "Rajon Podilsk",
+      "name": "Podilsk",
       "name_default": "Podilsk",
       "native": "Подільський район",
       "type": "district",
@@ -960,9 +960,9 @@
     },
     {
       "id": 110410,
-      "name": "Savran",
+      "name": "Sawran",
       "name_default": "Savran",
-      "native": "Савран",
+      "native": "Саврань",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -978,7 +978,7 @@
     },
     {
       "id": 110425,
-      "name": "Serhijiwka",
+      "name": "Serhiyivka",
       "name_default": "Serhiyivka",
       "native": "Сергіївка",
       "type": "city",
@@ -996,7 +996,7 @@
     },
     {
       "id": 110426,
-      "name": "Serpneve",
+      "name": "Serpnewe",
       "name_default": "Serpneve",
       "native": "Серпневе",
       "type": "city",
@@ -1014,7 +1014,7 @@
     },
     {
       "id": 110427,
-      "name": "Shabo",
+      "name": "Schabo",
       "name_default": "Shabo",
       "native": "Шабо",
       "type": "city",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": 110444,
-      "name": "Schewtschenkow",
+      "name": "Schewtschenkowe",
       "name_default": "Shevchenkove",
       "native": "Шевченкове",
       "type": "city",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 110457,
-      "name": "Schyrjajewe",
+      "name": "Shyryayeve",
       "name_default": "Shyryayeve",
       "native": "Ширяєве",
       "type": "city",
@@ -1086,7 +1086,7 @@
     },
     {
       "id": 109386,
-      "name": "Beresyne",
+      "name": "Soborne",
       "name_default": "Soborne",
       "native": "Березине",
       "type": "city",
@@ -1104,7 +1104,7 @@
     },
     {
       "id": 110534,
-      "name": "Starokozache",
+      "name": "Starokosatsche",
       "name_default": "Starokozache",
       "native": "Старокозаче",
       "type": "city",
@@ -1140,7 +1140,7 @@
     },
     {
       "id": 110550,
-      "name": "Stepove",
+      "name": "Stepowe",
       "name_default": "Stepove",
       "native": "Степове",
       "type": "city",
@@ -1212,7 +1212,7 @@
     },
     {
       "id": 110660,
-      "name": "Usatove",
+      "name": "Ussatowe",
       "name_default": "Usatove",
       "native": "Усатове",
       "type": "city",
@@ -1248,9 +1248,9 @@
     },
     {
       "id": 110693,
-      "name": "Velykoploske",
+      "name": "Welykoploske",
       "name_default": "Velykoploske",
-      "native": "Великоплоське",
+      "native": "Великоплоске",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1284,7 +1284,7 @@
     },
     {
       "id": 110759,
-      "name": "Wynohradiwka",
+      "name": "Vynohradivka",
       "name_default": "Vynohradivka",
       "native": "Виноградівка",
       "type": "city",
@@ -1302,7 +1302,7 @@
     },
     {
       "id": 110808,
-      "name": "Zagnitkiv",
+      "name": "Sahnitkiw",
       "name_default": "Zahnitkiv",
       "native": "Загнітків",
       "type": "city",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": 110815,
-      "name": "Zaliznychne",
+      "name": "Salisnytschne",
       "name_default": "Zaliznychne",
       "native": "Залізничне",
       "type": "city",

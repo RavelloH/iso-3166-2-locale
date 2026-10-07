@@ -307,7 +307,7 @@
     },
     {
       "id": 111151,
-      "name": "亚历山大",
+      "name": "亚历山德里亚",
       "name_default": "Alexandria",
       "native": "Alexandria",
       "type": "city",
@@ -327,7 +327,7 @@
       "id": 111238,
       "name": "阿尔塔维斯塔",
       "name_default": "Altavista",
-      "native": "Speaker",
+      "native": "Altavista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -379,7 +379,7 @@
     },
     {
       "id": 111349,
-      "name": "安南代尔",
+      "name": "安嫩代尔",
       "name_default": "Annandale",
       "native": "Annandale",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111392,
-      "name": "苹果山湖",
+      "name": "Apple Mountain Lake",
       "name_default": "Apple Mountain Lake",
       "native": "Apple Mountain Lake",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 111401,
-      "name": "阿波马托克斯",
+      "name": "阿波麦托克斯",
       "name_default": "Appomattox",
       "native": "Appomattox",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 112020,
-      "name": "贝德福德",
+      "name": "贝德福",
       "name_default": "Bedford",
       "native": "Bedford",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 112085,
-      "name": "贝尔港",
+      "name": "美丽避风港",
       "name_default": "Belle Haven",
       "native": "Belle Haven",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 112390,
-      "name": "布莱克斯堡",
+      "name": "黑堡",
       "name_default": "Blacksburg",
       "native": "Blacksburg",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 112392,
-      "name": "黑石集团",
+      "name": "黑石",
       "name_default": "Blackstone",
       "native": "Blackstone",
       "type": "city",
@@ -849,7 +849,7 @@
       "id": 112526,
       "name": "好空气",
       "name_default": "Bon Air",
-      "native": "Good air",
+      "native": "Bon Air",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1135,9 +1135,9 @@
     },
     {
       "id": 113001,
-      "name": "布埃纳维斯塔",
+      "name": "比尤纳维斯塔",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 113027,
-      "name": "布尔朗山庄园",
+      "name": "Bull Run Mountain Estates",
       "name_default": "Bull Run Mountain Estates",
       "native": "Bull Run Mountain Estates",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 113365,
-      "name": "查尔斯角",
+      "name": "开普查尔斯",
       "name_default": "Cape Charles",
       "native": "Cape Charles",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 113588,
-      "name": "洞穴泉",
+      "name": "Cave Spring",
       "name_default": "Cave Spring",
       "native": "Cave Spring",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 113738,
-      "name": "尚蒂伊",
+      "name": "弗吉尼亚州尚蒂伊",
       "name_default": "Chantilly",
       "native": "Chantilly",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 113755,
-      "name": "查尔斯城",
+      "name": "Charles City",
       "name_default": "Charles City",
       "native": "Charles City",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 113791,
-      "name": "大通城",
+      "name": "蔡斯市",
       "name_default": "Chase City",
       "native": "Chase City",
       "type": "city",
@@ -1649,7 +1649,7 @@
       "latitude": "38.03265270",
       "longitude": "-78.47831750",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 114054,
-      "name": "殖民高地市",
+      "name": "City of Colonial Heights",
       "name_default": "City of Colonial Heights",
       "native": "City of Colonial Heights",
       "type": "city",
@@ -1811,7 +1811,7 @@
       "latitude": "37.30591000",
       "longitude": "-77.28372280",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1955,7 +1955,7 @@
       "latitude": "37.29193660",
       "longitude": "-80.05707730",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 114086,
-      "name": "弗吉尼亚海滩市",
+      "name": "City of Virginia Beach",
       "name_default": "City of Virginia Beach",
       "native": "City of Virginia Beach",
       "type": "city",
@@ -2027,7 +2027,7 @@
       "latitude": "37.27521850",
       "longitude": "-76.70864080",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -2071,7 +2071,7 @@
     },
     {
       "id": 114262,
-      "name": "克利夫顿福吉",
+      "name": "克利夫顿福奇",
       "name_default": "Clifton Forge",
       "native": "Clifton Forge",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 114449,
-      "name": "殖民高地",
+      "name": "科洛尼尔海茨",
       "name_default": "Colonial Heights",
       "native": "Colonial Heights",
       "type": "city",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 114739,
-      "name": "科文顿",
+      "name": "卡温顿",
       "name_default": "Covington",
       "native": "Covington",
       "type": "city",
@@ -2289,7 +2289,7 @@
       "id": 114820,
       "name": "克里莫拉",
       "name_default": "Crimora",
-      "native": "Cranny",
+      "native": "Crimora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 114981,
-      "name": "戴尔城",
+      "name": "Dale City",
       "name_default": "Dale City",
       "native": "Dale City",
       "type": "city",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 115679,
-      "name": "东汉普顿",
+      "name": "East Hampton",
       "name_default": "East Hampton",
       "native": "East Hampton",
       "type": "city",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 115690,
-      "name": "东高地公园",
+      "name": "East Highland Park",
       "name_default": "East Highland Park",
       "native": "East Highland Park",
       "type": "city",
@@ -2665,7 +2665,7 @@
     },
     {
       "id": 115704,
-      "name": "东列克星敦",
+      "name": "East Lexington",
       "name_default": "East Lexington",
       "native": "East Lexington",
       "type": "city",
@@ -2775,7 +2775,7 @@
       "id": 116145,
       "name": "埃农",
       "name_default": "Enon",
-      "native": "Uncle",
+      "native": "Enon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 116380,
-      "name": "福尔斯彻奇",
+      "name": "瀑布教堂",
       "name_default": "Falls Church",
       "native": "Falls Church",
       "type": "city",
@@ -2937,7 +2937,7 @@
       "id": 116497,
       "name": "费鲁姆",
       "name_default": "Ferrum",
-      "native": "Iron",
+      "native": "Ferrum",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 116514,
-      "name": "芬卡斯尔",
+      "name": "芬卡斯尔镇",
       "name_default": "Fincastle",
       "native": "Fincastle",
       "type": "city",
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 116644,
-      "name": "森林",
+      "name": "Forest",
       "name_default": "Forest",
       "native": "Forest",
       "type": "city",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 116691,
-      "name": "贝尔沃堡",
+      "name": "贝尔沃堡市",
       "name_default": "Fort Belvoir",
       "native": "Fort Belvoir",
       "type": "city",
@@ -3187,9 +3187,9 @@
     },
     {
       "id": 117020,
-      "name": "加拉克斯",
+      "name": "盖拉克斯",
       "name_default": "Galax",
-      "native": "Galaxy",
+      "native": "Galax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 117118,
-      "name": "门城",
+      "name": "盖特城",
       "name_default": "Gate City",
       "native": "Gate City",
       "type": "city",
@@ -3225,7 +3225,7 @@
       "id": 117232,
       "name": "格莱德斯普林",
       "name_default": "Glade Spring",
-      "native": "Happy jumps",
+      "native": "Glade Spring",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 117327,
-      "name": "格洛斯特角",
+      "name": "格洛斯特点",
       "name_default": "Gloucester Point",
       "native": "Gloucester Point",
       "type": "city",
@@ -3619,7 +3619,7 @@
     },
     {
       "id": 118336,
-      "name": "赫恩登",
+      "name": "赫尔顿市",
       "name_default": "Herndon",
       "native": "Herndon",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 118415,
-      "name": "高地泉",
+      "name": "Highland Springs",
       "name_default": "Highland Springs",
       "native": "Highland Springs",
       "type": "city",
@@ -3727,7 +3727,7 @@
     },
     {
       "id": 118649,
-      "name": "霍普韦尔",
+      "name": "霍普维尔",
       "name_default": "Hopewell",
       "native": "Hopewell",
       "type": "city",
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 118799,
-      "name": "亨廷顿",
+      "name": "亨廷敦",
       "name_default": "Huntington",
       "native": "Huntington",
       "type": "city",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 118832,
-      "name": "伤害",
+      "name": "赫特",
       "name_default": "Hurt",
       "native": "Hurt",
       "type": "city",
@@ -3799,9 +3799,9 @@
     },
     {
       "id": 118845,
-      "name": "海布拉谷",
+      "name": "Hybla Valley",
       "name_default": "Hybla Valley",
-      "native": "Hybela Val",
+      "native": "Hybla Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 119604,
-      "name": "国王公园",
+      "name": "Kings Park",
       "name_default": "Kings Park",
       "native": "Kings Park",
       "type": "city",
@@ -4051,7 +4051,7 @@
     },
     {
       "id": 119606,
-      "name": "国王公园西",
+      "name": "Kings Park West",
       "name_default": "Kings Park West",
       "native": "Kings Park West",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 119868,
-      "name": "巴克罗夫特湖",
+      "name": "Lake Barcroft",
       "name_default": "Lake Barcroft",
       "native": "Lake Barcroft",
       "type": "city",
@@ -4087,7 +4087,7 @@
     },
     {
       "id": 119947,
-      "name": "蒙蒂塞洛湖",
+      "name": "Lake Monticello",
       "name_default": "Lake Monticello",
       "native": "Lake Monticello",
       "type": "city",
@@ -4105,7 +4105,7 @@
     },
     {
       "id": 119968,
-      "name": "湖岭",
+      "name": "Lake Ridge",
       "name_default": "Lake Ridge",
       "native": "Lake Ridge",
       "type": "city",
@@ -4285,7 +4285,7 @@
     },
     {
       "id": 120549,
-      "name": "林肯尼亚",
+      "name": "林科尔尼亚",
       "name_default": "Lincolnia",
       "native": "Lincolnia",
       "type": "city",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": 120802,
-      "name": "劳登谷庄园",
+      "name": "Loudoun Valley Estates",
       "name_default": "Loudoun Valley Estates",
       "native": "Loudoun Valley Estates",
       "type": "city",
@@ -4429,7 +4429,7 @@
     },
     {
       "id": 120844,
-      "name": "洛斯岛",
+      "name": "洛伊斯岛",
       "name_default": "Lowes Island",
       "native": "Lowes Island",
       "type": "city",
@@ -4465,9 +4465,9 @@
     },
     {
       "id": 120890,
-      "name": "卢雷",
+      "name": "卢瑞",
       "name_default": "Luray",
-      "native": "Guardians",
+      "native": "Luray",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4537,7 +4537,7 @@
     },
     {
       "id": 121020,
-      "name": "麦迪逊高地",
+      "name": "Madison Heights",
       "name_default": "Madison Heights",
       "native": "Madison Heights",
       "type": "city",
@@ -4573,7 +4573,7 @@
     },
     {
       "id": 121083,
-      "name": "马纳萨斯公园",
+      "name": "马纳萨斯帕克",
       "name_default": "Manassas Park",
       "native": "Manassas Park",
       "type": "city",
@@ -4663,7 +4663,7 @@
     },
     {
       "id": 121389,
-      "name": "马萨内塔泉",
+      "name": "Massanetta Springs",
       "name_default": "Massanetta Springs",
       "native": "Massanetta Springs",
       "type": "city",
@@ -4683,7 +4683,7 @@
       "id": 121390,
       "name": "马萨努滕",
       "name_default": "Massanutten",
-      "native": "Mass out",
+      "native": "Massanutten",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4735,7 +4735,7 @@
     },
     {
       "id": 121527,
-      "name": "麦克莱恩",
+      "name": "麦克林",
       "name_default": "McLean",
       "native": "McLean",
       "type": "city",
@@ -4771,7 +4771,7 @@
     },
     {
       "id": 121583,
-      "name": "梅卡尼克斯维尔",
+      "name": "麦坎尼维尔",
       "name_default": "Mechanicsville",
       "native": "Mechanicsville",
       "type": "city",
@@ -4879,7 +4879,7 @@
     },
     {
       "id": 122119,
-      "name": "蒙特雷",
+      "name": "蒙特利",
       "name_default": "Monterey",
       "native": "Monterey",
       "type": "city",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 122346,
-      "name": "赫尔蒙山",
+      "name": "Mount Hermon",
       "name_default": "Mount Hermon",
       "native": "Mount Hermon",
       "type": "city",
@@ -4969,7 +4969,7 @@
     },
     {
       "id": 122357,
-      "name": "杰克逊山",
+      "name": "Mount Jackson",
       "name_default": "Mount Jackson",
       "native": "Mount Jackson",
       "type": "city",
@@ -4987,7 +4987,7 @@
     },
     {
       "id": 122404,
-      "name": "弗农山庄",
+      "name": "费尔法克斯县",
       "name_default": "Mount Vernon",
       "native": "Mount Vernon",
       "type": "city",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": 122426,
-      "name": "山路",
+      "name": "Mountain Road",
       "name_default": "Mountain Road",
       "native": "Mountain Road",
       "type": "city",
@@ -5059,7 +5059,7 @@
     },
     {
       "id": 122659,
-      "name": "新巴尔的摩",
+      "name": "New Baltimore",
       "name_default": "New Baltimore",
       "native": "New Baltimore",
       "type": "city",
@@ -5095,7 +5095,7 @@
     },
     {
       "id": 122734,
-      "name": "新肯特",
+      "name": "New Kent",
       "name_default": "New Kent",
       "native": "New Kent",
       "type": "city",
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 122751,
-      "name": "新市场",
+      "name": "New Market",
       "name_default": "New Market",
       "native": "New Market",
       "type": "city",
@@ -5203,7 +5203,7 @@
     },
     {
       "id": 123105,
-      "name": "北岸",
+      "name": "North Shore",
       "name_default": "North Shore",
       "native": "North Shore",
       "type": "city",
@@ -5221,7 +5221,7 @@
     },
     {
       "id": 123110,
-      "name": "北斯普林菲尔德",
+      "name": "North Springfield",
       "name_default": "North Springfield",
       "native": "North Springfield",
       "type": "city",
@@ -5295,7 +5295,7 @@
       "id": 123305,
       "name": "奥克顿",
       "name_default": "Oakton",
-      "native": "Oak",
+      "native": "Oakton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5347,7 +5347,7 @@
     },
     {
       "id": 123506,
-      "name": "橙子",
+      "name": "Orange",
       "name_default": "Orange",
       "native": "Orange",
       "type": "city",
@@ -5455,7 +5455,7 @@
     },
     {
       "id": 123962,
-      "name": "皮尔斯堡",
+      "name": "佩里斯堡",
       "name_default": "Pearisburg",
       "native": "Pearisburg",
       "type": "city",
@@ -5473,7 +5473,7 @@
     },
     {
       "id": 124006,
-      "name": "彭布罗克",
+      "name": "佩尔卡谢",
       "name_default": "Pembroke",
       "native": "Pembroke",
       "type": "city",
@@ -5509,7 +5509,7 @@
     },
     {
       "id": 124105,
-      "name": "圣彼得堡",
+      "name": "彼得斯堡",
       "name_default": "Petersburg",
       "native": "Petersburg",
       "type": "city",
@@ -5545,7 +5545,7 @@
     },
     {
       "id": 124393,
-      "name": "梅溪",
+      "name": "Plum Creek",
       "name_default": "Plum Creek",
       "native": "Plum Creek",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 124489,
-      "name": "波科森",
+      "name": "普库森市",
       "name_default": "Poquoson",
       "native": "Poquoson",
       "type": "city",
@@ -5581,7 +5581,7 @@
     },
     {
       "id": 124569,
-      "name": "朴茨茅斯",
+      "name": "朴次茅斯",
       "name_default": "Portsmouth",
       "native": "Portsmouth",
       "type": "city",
@@ -5599,7 +5599,7 @@
     },
     {
       "id": 124572,
-      "name": "朴茨茅斯高地",
+      "name": "Portsmouth Heights",
       "name_default": "Portsmouth Heights",
       "native": "Portsmouth Heights",
       "type": "city",
@@ -5689,7 +5689,7 @@
     },
     {
       "id": 124734,
-      "name": "普拉斯基",
+      "name": "珀拉斯凯",
       "name_default": "Pulaski",
       "native": "Pulaski",
       "type": "city",
@@ -5725,7 +5725,7 @@
     },
     {
       "id": 124780,
-      "name": "匡蒂科站",
+      "name": "匡提科海军陆战队基地",
       "name_default": "Quantico Station",
       "native": "Quantico Station",
       "type": "city",
@@ -5743,7 +5743,7 @@
     },
     {
       "id": 124816,
-      "name": "拉德福德",
+      "name": "拉德福",
       "name_default": "Radford",
       "native": "Radford",
       "type": "city",
@@ -5797,7 +5797,7 @@
     },
     {
       "id": 125036,
-      "name": "雷斯顿",
+      "name": "赖斯顿",
       "name_default": "Reston",
       "native": "Reston",
       "type": "city",
@@ -5851,7 +5851,7 @@
     },
     {
       "id": 125228,
-      "name": "罗阿诺克",
+      "name": "罗亚诺克",
       "name_default": "Roanoke",
       "native": "Roanoke",
       "type": "city",
@@ -5869,7 +5869,7 @@
     },
     {
       "id": 125336,
-      "name": "落基山",
+      "name": "落基山城",
       "name_default": "Rocky Mount",
       "native": "Rocky Mount",
       "type": "city",
@@ -5941,7 +5941,7 @@
     },
     {
       "id": 125518,
-      "name": "乡村静修处",
+      "name": "鲁勒尔里特里特",
       "name_default": "Rural Retreat",
       "native": "Rural Retreat",
       "type": "city",
@@ -5961,7 +5961,7 @@
       "id": 125524,
       "name": "拉什米尔",
       "name_default": "Rushmere",
-      "native": "Ruting",
+      "native": "Rushmere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6033,7 +6033,7 @@
       "id": 125773,
       "name": "萨鲁达",
       "name_default": "Saluda",
-      "native": "Greet",
+      "native": "Saluda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6211,7 +6211,7 @@
     },
     {
       "id": 126671,
-      "name": "南山",
+      "name": "South Hill",
       "name_default": "South Hill",
       "native": "South Hill",
       "type": "city",
@@ -6229,7 +6229,7 @@
     },
     {
       "id": 126716,
-      "name": "南骑士",
+      "name": "South Riding",
       "name_default": "South Riding",
       "native": "South Riding",
       "type": "city",
@@ -6247,7 +6247,7 @@
     },
     {
       "id": 126731,
-      "name": "南萨福克",
+      "name": "South Suffolk",
       "name_default": "South Suffolk",
       "native": "South Suffolk",
       "type": "city",
@@ -6445,7 +6445,7 @@
     },
     {
       "id": 127027,
-      "name": "英镑",
+      "name": "斯特灵",
       "name_default": "Sterling",
       "native": "Sterling",
       "type": "city",
@@ -6609,7 +6609,7 @@
       "id": 127425,
       "name": "塔帕汉诺克",
       "name_default": "Tappahannock",
-      "native": "Tapahannock",
+      "native": "Tappahannock",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6715,7 +6715,7 @@
     },
     {
       "id": 127933,
-      "name": "双子湖",
+      "name": "Twin Lakes",
       "name_default": "Twin Lakes",
       "native": "Twin Lakes",
       "type": "city",
@@ -6733,9 +6733,9 @@
     },
     {
       "id": 127952,
-      "name": "泰森斯角",
+      "name": "泰森斯",
       "name_default": "Tysons",
-      "native": "Tysons Corner",
+      "native": "Tysons",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6859,7 +6859,7 @@
     },
     {
       "id": 128288,
-      "name": "弗吉尼亚海滩",
+      "name": "维珍尼亚海滩",
       "name_default": "Virginia Beach",
       "native": "Virginia Beach",
       "type": "city",
@@ -6877,7 +6877,7 @@
     },
     {
       "id": 128469,
-      "name": "温泉",
+      "name": "Warm Springs",
       "name_default": "Warm Springs",
       "native": "Warm Springs",
       "type": "city",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": 128728,
-      "name": "韦伯城",
+      "name": "Weber City",
       "name_default": "Weber City",
       "native": "Weber City",
       "type": "city",
@@ -7021,7 +7021,7 @@
     },
     {
       "id": 128867,
-      "name": "西瀑布教堂",
+      "name": "西福尔斯彻奇",
       "name_default": "West Falls Church",
       "native": "West Falls Church",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 128877,
-      "name": "西门",
+      "name": "West Gate",
       "name_default": "West Gate",
       "native": "West Gate",
       "type": "city",
@@ -7057,7 +7057,7 @@
     },
     {
       "id": 128924,
-      "name": "西林奇堡",
+      "name": "West Lynchburg",
       "name_default": "West Lynchburg",
       "native": "West Lynchburg",
       "type": "city",
@@ -7075,7 +7075,7 @@
     },
     {
       "id": 128960,
-      "name": "西点军校",
+      "name": "West Point",
       "name_default": "West Point",
       "native": "West Point",
       "type": "city",
@@ -7093,7 +7093,7 @@
     },
     {
       "id": 128984,
-      "name": "西斯普林菲尔德",
+      "name": "West Springfield",
       "name_default": "West Springfield",
       "native": "West Springfield",
       "type": "city",
@@ -7147,7 +7147,7 @@
     },
     {
       "id": 129356,
-      "name": "温彻斯特",
+      "name": "温切斯特",
       "name_default": "Winchester",
       "native": "Winchester",
       "type": "city",

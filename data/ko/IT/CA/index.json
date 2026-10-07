@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135617,
-      "name": "아르문기아",
+      "name": "아르문자",
       "name_default": "Armungia",
       "native": "Armungia",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 136411,
-      "name": "부르세이",
+      "name": "부르체이",
       "name_default": "Burcei",
       "native": "Burcei",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 138236,
-      "name": "데시모만누",
+      "name": "데시모마누",
       "name_default": "Decimomannu",
       "native": "Decimomannu",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 138237,
-      "name": "데시모푸추",
+      "name": "데치모푸추",
       "name_default": "Decimoputzu",
       "native": "Decimoputzu",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 138293,
-      "name": "도무스 데 마리아",
+      "name": "도무스데마리아",
       "name_default": "Domus de Maria",
       "native": "Domus de Maria",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 138387,
-      "name": "에스테르질리",
+      "name": "에스테르칠리",
       "name_default": "Esterzili",
       "native": "Esterzili",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 138915,
-      "name": "게르게이",
+      "name": "제르제이",
       "name_default": "Gergei",
       "native": "Gergei",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138924,
-      "name": "게시코",
+      "name": "제시코",
       "name_default": "Gesico",
       "native": "Gesico",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 139150,
-      "name": "과마조레",
+      "name": "구아마조레",
       "name_default": "Guamaggiore",
       "native": "Guamaggiore",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 139168,
-      "name": "과실라",
+      "name": "구아실라",
       "name_default": "Guasila",
       "native": "Guasila",
       "type": "adm3",
@@ -671,7 +671,7 @@
       "id": 140896,
       "name": "올리아 스페시오사",
       "name_default": "Olia Speciosa",
-      "native": "Olia bella",
+      "native": "Olia Speciosa",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 140980,
-      "name": "오르타케수스",
+      "name": "오르타체수스",
       "name_default": "Ortacesus",
       "native": "Ortacesus",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 59232,
-      "name": "콰르투치우",
+      "name": "콰르투추",
       "name_default": "Quartucciu",
       "native": "Quartucciu",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 59824,
-      "name": "산 바실리오",
+      "name": "산바실리오",
       "name_default": "San Basilio",
       "native": "San Basilio",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 60249,
-      "name": "산 스페라테",
+      "name": "산스페라테",
       "name_default": "San Sperate",
       "native": "San Sperate",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 60345,
-      "name": "산탄드레아 프리우스",
+      "name": "산탄드레아프리우스",
       "name_default": "Sant'Andrea Frius",
       "native": "Sant'Andrea Frius",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 60693,
-      "name": "셀라르기우스",
+      "name": "셀라르주스",
       "name_default": "Selargius",
       "native": "Selargius",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 60814,
-      "name": "세티모 산 피에트로",
+      "name": "세티모산피에트로",
       "name_default": "Settimo San Pietro",
       "native": "Settimo San Pietro",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 60882,
-      "name": "시우르구스 도니갈라",
+      "name": "시우르구스도니갈라",
       "name_default": "Siurgus Donigala",
       "native": "Siurgus Donigala",
       "type": "adm3",
@@ -1175,7 +1175,7 @@
       "id": 61106,
       "name": "수 플라누",
       "name_default": "Su Planu",
-      "native": "Sono un piano",
+      "native": "Su Planu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 61614,
-      "name": "우수나",
+      "name": "우사나",
       "name_default": "Ussana",
       "native": "Ussana",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62020,
-      "name": "빌라 산 피에트로",
+      "name": "빌라산피에트로",
       "name_default": "Villa San Pietro",
       "native": "Villa San Pietro",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 62104,
-      "name": "빌라노바 툴로",
+      "name": "빌라노바툴로",
       "name_default": "Villanova Tulo",
       "native": "Villanova Tulo",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62139,
-      "name": "빌라스페시오사",
+      "name": "빌라스페초사",
       "name_default": "Villaspeciosa",
       "native": "Villaspeciosa",
       "type": "adm3",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80558,
-      "name": "Ambão",
+      "name": "Ambo",
       "name_default": "Ambo",
       "native": "Ambos",
       "type": "adm3",
@@ -131,7 +131,7 @@
       "id": 80703,
       "name": "Llata",
       "name_default": "Llata",
-      "native": "Estaño",
+      "native": "Llata",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -168,7 +168,7 @@
       "name": "Província de Dois de Mayo",
       "name_default": "Provincia de Dos de Mayo",
       "native": "Provincia de Dos de Mayo",
-      "type": "adm3",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 33258,
@@ -219,7 +219,7 @@
     },
     {
       "id": 80855,
-      "name": "Província de Leoncio Prado",
+      "name": "Provincia de Leoncio Prado",
       "name_default": "Provincia de Leoncio Prado",
       "native": "Provincia de Leoncio Prado",
       "type": "adm3",
@@ -237,10 +237,10 @@
     },
     {
       "id": 80859,
-      "name": "Província de Marañón",
+      "name": "Provincia de Marañón",
       "name_default": "Provincia de Marañón",
       "native": "Provincia de Marañón",
-      "type": "adm3",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 26622,
@@ -255,10 +255,10 @@
     },
     {
       "id": 80869,
-      "name": "Província de Pachitea",
+      "name": "Provincia de Pachitea",
       "name_default": "Provincia de Pachitea",
       "native": "Provincia de Pachítea",
-      "type": "adm3",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 49159,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80917,
-      "name": "Porto Inca",
+      "name": "Puerto Inca",
       "name_default": "Puerto Inca",
       "native": "Puerto Inca",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 80952,
-      "name": "São Miguel de Cauri",
+      "name": "San Miguel de Cauri",
       "name_default": "San Miguel de Cauri",
       "native": "San Miguel de Cauri",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 80992,
-      "name": "Tingo Maria",
+      "name": "Tingo María",
       "name_default": "Tingo María",
       "native": "Tingo María",
       "type": "city",

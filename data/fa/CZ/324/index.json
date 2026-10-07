@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 22201,
-      "name": "بلا ناد رادبوزو",
+      "name": "بیلا ناد رادبوزوو",
       "name_default": "Bělá nad Radbuzou",
       "native": "Bělá nad Radbuzou",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 22135,
-      "name": "بلژِیوف",
+      "name": "بلیژیوو",
       "name_default": "Blížejov",
-      "native": "Blížící se",
+      "native": "Blížejov",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 22203,
-      "name": "برازی",
+      "name": "براسی",
       "name_default": "Břasy",
       "native": "Břesy",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 23373,
-      "name": "چرنوشین",
+      "name": "تشرنوشین",
       "name_default": "Černošín",
       "native": "Černoš",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 22222,
-      "name": "چلومچانی",
+      "name": "خلومتشانی",
       "name_default": "Chlumčany",
       "native": "Chlumčany",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 22225,
-      "name": "چودووا پلانا",
+      "name": "خودووا پلانا",
       "name_default": "Chodová Planá",
       "native": "Chodová Planá",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 22230,
-      "name": "چوتشوف",
+      "name": "خوتیشوف",
       "name_default": "Chotěšov",
       "native": "Chotěšov",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 22236,
-      "name": "کرست",
+      "name": "خراست",
       "name_default": "Chrást",
       "native": "Chrást",
       "type": "city",
@@ -272,28 +272,10 @@
       "country_id": 58
     },
     {
-      "id": 22303,
-      "name": "دوماژلیتسه",
-      "name_default": "Domažlice",
-      "native": "Domažlice",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11133,
-      "latitude": "49.44049000",
-      "longitude": "12.92976000",
-      "timezone": "Europe/Prague",
-      "wikiDataId": "Q986068",
-      "country_code": "CZ",
-      "state_code": "324",
-      "state_id": 4608,
-      "country_id": 58
-    },
-    {
       "id": 22320,
       "name": "دیشینا",
       "name_default": "Dýšina",
-      "native": "Štítek",
+      "native": "Dýšina",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +291,7 @@
     },
     {
       "id": 22343,
-      "name": "هارتمانیس",
+      "name": "هارتمانیتسه",
       "name_default": "Hartmanice",
       "native": "Hartmanice",
       "type": "city",
@@ -329,7 +311,7 @@
       "id": 22351,
       "name": "هرمانووا هوت",
       "name_default": "Heřmanova Huť",
-      "native": "Heřímanovy chaty",
+      "native": "Heřmanova Huť",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +327,7 @@
     },
     {
       "id": 22370,
-      "name": "هولوبکوف",
+      "name": "هولووبکوو",
       "name_default": "Holoubkov",
       "native": "Holoubkov",
       "type": "city",
@@ -363,7 +345,7 @@
     },
     {
       "id": 22371,
-      "name": "هولیشوف",
+      "name": "هولیشوو",
       "name_default": "Holýšov",
       "native": "Hoýšov",
       "type": "city",
@@ -381,7 +363,7 @@
     },
     {
       "id": 22372,
-      "name": "هوراژدویچ",
+      "name": "هوراژدوویتسه",
       "name_default": "Horažďovice",
       "native": "Horažďovice",
       "type": "city",
@@ -399,7 +381,7 @@
     },
     {
       "id": 22378,
-      "name": "هورن بریزا",
+      "name": "هورنی بریزا",
       "name_default": "Horní Bříza",
       "native": "Horní Bříza",
       "type": "city",
@@ -417,7 +399,7 @@
     },
     {
       "id": 22396,
-      "name": "هورشوفسکی تین",
+      "name": "هورشووسکی تین",
       "name_default": "Horšovský Týn",
       "native": "Horšovský Týn",
       "type": "city",
@@ -435,7 +417,7 @@
     },
     {
       "id": 22402,
-      "name": "هاستوون",
+      "name": "هوستوون",
       "name_default": "Hostouň",
       "native": "Hostouň",
       "type": "city",
@@ -471,7 +453,7 @@
     },
     {
       "id": 22421,
-      "name": "هرومنیخ",
+      "name": "هرومنیتسه",
       "name_default": "Hromnice",
       "native": "Chrominy",
       "type": "city",
@@ -489,7 +471,7 @@
     },
     {
       "id": 22455,
-      "name": "یانوویتسه و اوهلاو",
+      "name": "یانوویتسه ناد وهلاووو",
       "name_default": "Janovice nad Úhlavou",
       "native": "Janovice nad Úhlavou",
       "type": "city",
@@ -507,7 +489,7 @@
     },
     {
       "id": 22502,
-      "name": "کاسیوویچ",
+      "name": "کاسیوویتسه",
       "name_default": "Kasejovice",
       "native": "Kasejovice",
       "type": "city",
@@ -525,7 +507,7 @@
     },
     {
       "id": 22506,
-      "name": "کاسپرسکه هوری",
+      "name": "کاشپرسکه هوری",
       "name_default": "Kašperské Hory",
       "native": "Kašperské Hory",
       "type": "city",
@@ -543,7 +525,7 @@
     },
     {
       "id": 22504,
-      "name": "کازنیوف",
+      "name": "کازنییوو",
       "name_default": "Kaznějov",
       "native": "Kaznějov",
       "type": "city",
@@ -561,7 +543,7 @@
     },
     {
       "id": 22508,
-      "name": "کدینه",
+      "name": "کدینی",
       "name_default": "Kdyně",
       "native": "Kdyně",
       "type": "city",
@@ -578,26 +560,8 @@
       "country_id": 58
     },
     {
-      "id": 22512,
-      "name": "کلاتووی",
-      "name_default": "Klatovy",
-      "native": "Klatovy",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22763,
-      "latitude": "49.39552000",
-      "longitude": "13.29505000",
-      "timezone": "Europe/Prague",
-      "wikiDataId": "Q602976",
-      "country_code": "CZ",
-      "state_code": "324",
-      "state_id": 4608,
-      "country_id": 58
-    },
-    {
       "id": 22514,
-      "name": "کلنچی پاد چِرخوِم",
+      "name": "کلنتشی پود تشرخووم",
       "name_default": "Klenčí pod Čerchovem",
       "native": "Klenčí pod Čerchovem",
       "type": "city",
@@ -615,9 +579,9 @@
     },
     {
       "id": 22528,
-      "name": "کولینک",
+      "name": "کولینتس",
       "name_default": "Kolinec",
-      "native": "Kolize",
+      "native": "Kolinec",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -633,7 +597,7 @@
     },
     {
       "id": 22543,
-      "name": "کووت در شماوی",
+      "name": "کووت نا شوماوی",
       "name_default": "Kout na Šumavě",
       "native": "Kout na Šumavě",
       "type": "city",
@@ -651,7 +615,7 @@
     },
     {
       "id": 22552,
-      "name": "کوزلانی",
+      "name": "کوژلانی",
       "name_default": "Kožlany",
       "native": "Kožlany",
       "type": "city",
@@ -723,7 +687,7 @@
     },
     {
       "id": 22745,
-      "name": "میچین",
+      "name": "میتشین",
       "name_default": "Měčín",
       "native": "Měčín",
       "type": "city",
@@ -741,7 +705,7 @@
     },
     {
       "id": 22678,
-      "name": "مکلوو",
+      "name": "متسلوو",
       "name_default": "Meclov",
       "native": "Meclov",
       "type": "city",
@@ -761,7 +725,7 @@
       "id": 22680,
       "name": "مرکلین",
       "name_default": "Merklín",
-      "native": "Metr",
+      "native": "Merklín",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -777,7 +741,7 @@
     },
     {
       "id": 22744,
-      "name": "مستو توشکوف",
+      "name": "میستو تووشکوو",
       "name_default": "Město Touškov",
       "native": "Město Touškov",
       "type": "city",
@@ -813,7 +777,7 @@
     },
     {
       "id": 22731,
-      "name": "مرکوف",
+      "name": "مراکوو",
       "name_default": "Mrákov",
       "native": "Mrákov",
       "type": "city",
@@ -867,7 +831,7 @@
     },
     {
       "id": 22799,
-      "name": "نیژنی",
+      "name": "نیرانی",
       "name_default": "Nýřany",
       "native": "Nýřany",
       "type": "city",
@@ -1083,7 +1047,7 @@
     },
     {
       "id": 22943,
-      "name": "پوبژوویتسه",
+      "name": "پوبیژوویتسه",
       "name_default": "Poběžovice",
       "native": "Poběžovice",
       "type": "city",
@@ -1101,7 +1065,7 @@
     },
     {
       "id": 22959,
-      "name": "پوسترژکوف",
+      "name": "پوسترکوو",
       "name_default": "Postřekov",
       "native": "Postřekov",
       "type": "city",
@@ -1119,7 +1083,7 @@
     },
     {
       "id": 23003,
-      "name": "پرشیتس",
+      "name": "پرشتیتسه",
       "name_default": "Přeštice",
       "native": "Přeštice",
       "type": "city",
@@ -1137,7 +1101,7 @@
     },
     {
       "id": 23005,
-      "name": "پرییمدا",
+      "name": "پریمدا",
       "name_default": "Přimda",
       "native": "Přimda",
       "type": "city",
@@ -1172,26 +1136,8 @@
       "country_id": 58
     },
     {
-      "id": 23028,
-      "name": "روکیکانی",
-      "name_default": "Rokycany",
-      "native": "Rokycany",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 14381,
-      "latitude": "49.74270000",
-      "longitude": "13.59459000",
-      "timezone": "Europe/Prague",
-      "wikiDataId": "Q986072",
-      "country_code": "CZ",
-      "state_code": "324",
-      "state_id": 4608,
-      "country_id": 58
-    },
-    {
       "id": 23097,
-      "name": "اسپالنه پوریچی",
+      "name": "سپالنه پوریتشی",
       "name_default": "Spálené Poříčí",
       "native": "Spálené Poříčí",
       "type": "city",
@@ -1209,7 +1155,7 @@
     },
     {
       "id": 23434,
-      "name": "شِهْلاوی",
+      "name": "شساهلاوی",
       "name_default": "Šťáhlavy",
       "native": "Šťáhlavy",
       "type": "city",
@@ -1227,7 +1173,7 @@
     },
     {
       "id": 23114,
-      "name": "استانکوف",
+      "name": "ستانکوف",
       "name_default": "Staňkov",
       "native": "Staňkov",
       "type": "city",
@@ -1245,7 +1191,7 @@
     },
     {
       "id": 23427,
-      "name": "استنوویتسه",
+      "name": "شتینوویتسه",
       "name_default": "Štěnovice",
       "native": "Štěnovice",
       "type": "city",
@@ -1265,7 +1211,7 @@
       "id": 23118,
       "name": "استود",
       "name_default": "Stod",
-      "native": "Šokovat",
+      "native": "Stod",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1281,7 +1227,7 @@
     },
     {
       "id": 23122,
-      "name": "اشتراشیتسه",
+      "name": "ستراشیتسه",
       "name_default": "Strašice",
       "native": "Strašice",
       "type": "city",
@@ -1299,7 +1245,7 @@
     },
     {
       "id": 23131,
-      "name": "استراژوو",
+      "name": "ستراژوف",
       "name_default": "Strážov",
       "native": "Strábrov",
       "type": "city",
@@ -1317,7 +1263,7 @@
     },
     {
       "id": 23138,
-      "name": "استریبرو",
+      "name": "ستریبرو",
       "name_default": "Stříbro",
       "native": "Stříbro",
       "type": "city",
@@ -1334,26 +1280,8 @@
       "country_id": 58
     },
     {
-      "id": 23146,
-      "name": "سوشیتسه",
-      "name_default": "Sušice",
-      "native": "Sušice",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10740,
-      "latitude": "49.23106000",
-      "longitude": "13.52018000",
-      "timezone": "Europe/Prague",
-      "wikiDataId": "Q1000056",
-      "country_code": "CZ",
-      "state_code": "324",
-      "state_id": 4608,
-      "country_id": 58
-    },
-    {
       "id": 23433,
-      "name": "شوهوف",
+      "name": "شویهوف",
       "name_default": "Švihov",
       "native": "Švihov",
       "type": "city",
@@ -1370,26 +1298,8 @@
       "country_id": 58
     },
     {
-      "id": 23155,
-      "name": "تاخوف",
-      "name_default": "Tachov",
-      "native": "Tachov",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 14097,
-      "latitude": "49.79528000",
-      "longitude": "12.63365000",
-      "timezone": "Europe/Prague",
-      "wikiDataId": "Q191097",
-      "country_code": "CZ",
-      "state_code": "324",
-      "state_id": 4608,
-      "country_id": 58
-    },
-    {
       "id": 23168,
-      "name": "تلوچنا",
+      "name": "تلوتشنا",
       "name_default": "Tlučná",
       "native": "Tlučná",
       "type": "city",
@@ -1407,7 +1317,7 @@
     },
     {
       "id": 23203,
-      "name": "ترِموشنا",
+      "name": "ترموشنا",
       "name_default": "Třemošná",
       "native": "Třemošná",
       "type": "city",
@@ -1425,7 +1335,7 @@
     },
     {
       "id": 23224,
-      "name": "وجپرنیس",
+      "name": "وجپرنیک",
       "name_default": "Vejprnice",
       "native": "Vejprnice",
       "type": "city",
@@ -1479,7 +1389,7 @@
     },
     {
       "id": 23333,
-      "name": "زبوچ",
+      "name": "زبوخ",
       "name_default": "Zbůch",
       "native": "Zbůch",
       "type": "city",
@@ -1497,7 +1407,7 @@
     },
     {
       "id": 23444,
-      "name": "ژلزنی رودا",
+      "name": "ژلزنا رودا",
       "name_default": "Železná Ruda",
       "native": "Železná Ruda",
       "type": "city",
@@ -1515,7 +1425,7 @@
     },
     {
       "id": 23450,
-      "name": "ژیله",
+      "name": "ژیهله",
       "name_default": "Žihle",
       "native": "Žihle",
       "type": "city",

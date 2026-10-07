@@ -201,7 +201,7 @@
     },
     {
       "id": 104427,
-      "name": "Afortunado",
+      "name": "Lúčky",
       "name_default": "Lúčky",
       "native": "Lúčky",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 104430,
-      "name": "Martín",
+      "name": "Martin",
       "name_default": "Martin",
       "native": "Martin",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 104459,
-      "name": "Okres Dolný Kubín",
+      "name": "distrito de Dolný Kubín",
       "name_default": "Okres Dolný Kubín",
       "native": "Okres Dolný Kubín",
       "type": "area",
@@ -363,9 +363,9 @@
     },
     {
       "id": 104476,
-      "name": "Okres Martin",
+      "name": "distrito de Martin",
       "name_default": "Okres Martin",
-      "native": "Martinské obdobie",
+      "native": "Okres Martin",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -381,9 +381,9 @@
     },
     {
       "id": 104480,
-      "name": "Distrito de Namestovo",
+      "name": "distrito de Námestovo",
       "name_default": "Okres Namestovo",
-      "native": "Okos rodiny",
+      "native": "Okres Namestovo",
       "type": "area",
       "level": null,
       "parent_id": null,

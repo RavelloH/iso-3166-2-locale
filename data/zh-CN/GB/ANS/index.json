@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48238,
-      "name": "阿利斯",
+      "name": "埃利斯",
       "name_default": "Alyth",
       "native": "Alyth",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48266,
-      "name": "阿布罗斯",
+      "name": "阿布莱阿斯",
       "name_default": "Arbroath",
       "native": "Arbroath",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48669,
-      "name": "布里金",
+      "name": "伯莱钦",
       "name_default": "Brechin",
       "native": "Brechin",
       "type": "city",
@@ -128,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 48868,
+      "name": "卡恩努斯提",
+      "name_default": "Carnoustie",
+      "native": "Carnoustie",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11360,
+      "latitude": "56.50263000",
+      "longitude": "-2.70530000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1012395",
+      "country_code": "GB",
+      "state_code": "ANS",
+      "state_id": 2387,
+      "country_id": 232
+    },
+    {
       "id": 49587,
-      "name": "福尔法尔",
+      "name": "佛尔法尔",
       "name_default": "Forfar",
       "native": "Forfar",
       "type": "adm2",
@@ -183,7 +201,7 @@
     },
     {
       "id": 50211,
-      "name": "基里缪尔",
+      "name": "克利缪尔",
       "name_default": "Kirriemuir",
       "native": "Kirriemuir",
       "type": "city",
@@ -201,7 +219,7 @@
     },
     {
       "id": 50257,
-      "name": "劳伦斯柯克",
+      "name": "罗伦斯却克",
       "name_default": "Laurencekirk",
       "native": "Laurencekirk",
       "type": "city",
@@ -237,7 +255,7 @@
     },
     {
       "id": 50621,
-      "name": "蒙特罗斯",
+      "name": "蒙特露斯",
       "name_default": "Montrose",
       "native": "Montrose",
       "type": "city",

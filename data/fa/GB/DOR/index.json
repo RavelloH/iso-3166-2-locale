@@ -75,9 +75,9 @@
     },
     {
       "id": 48477,
-      "name": "بری رجیس",
+      "name": "بر رجیس",
       "name_default": "Bere Regis",
-      "native": "Bere King",
+      "native": "Bere Regis",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -86,6 +86,24 @@
       "longitude": "-2.21553000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1215902",
+      "country_code": "GB",
+      "state_code": "DOR",
+      "state_id": 2345,
+      "country_id": 232
+    },
+    {
+      "id": 48561,
+      "name": "بلندفورد فورم",
+      "name_default": "Blandford Forum",
+      "native": "Blandford Forum",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10607,
+      "latitude": "50.86073000",
+      "longitude": "-2.16174000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q644530",
       "country_code": "GB",
       "state_code": "DOR",
       "state_id": 2345,
@@ -111,7 +129,7 @@
     },
     {
       "id": 48630,
-      "name": "اردوگاه بووینگتون",
+      "name": "بووینگتن",
       "name_default": "Bovington Camp",
       "native": "Bovington Camp",
       "type": "city",
@@ -129,7 +147,7 @@
     },
     {
       "id": 48688,
-      "name": "بریجپورت",
+      "name": "بریدپورت",
       "name_default": "Bridport",
       "native": "Bridport",
       "type": "city",
@@ -147,7 +165,7 @@
     },
     {
       "id": 48927,
-      "name": "شارمینستر",
+      "name": "چارمینستر",
       "name_default": "Charminster",
       "native": "Charminster",
       "type": "city",
@@ -165,7 +183,7 @@
     },
     {
       "id": 48928,
-      "name": "چارموت",
+      "name": "چارماوس",
       "name_default": "Charmouth",
       "native": "Charmouth",
       "type": "city",
@@ -254,8 +272,26 @@
       "country_id": 232
     },
     {
+      "id": 49547,
+      "name": "فرنداون",
+      "name_default": "Ferndown",
+      "native": "Ferndown",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17650,
+      "latitude": "50.80743000",
+      "longitude": "-1.89975000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1406936",
+      "country_code": "GB",
+      "state_code": "DOR",
+      "state_id": 2345,
+      "country_id": 232
+    },
+    {
       "id": 49593,
-      "name": "فورچونسول",
+      "name": "فورچیونزول",
       "name_default": "Fortuneswell",
       "native": "Fortuneswell",
       "type": "city",
@@ -291,7 +327,7 @@
     },
     {
       "id": 50445,
-      "name": "لایم رجیس",
+      "name": "لایم ریجیس",
       "name_default": "Lyme Regis",
       "native": "Lyme Regis",
       "type": "city",
@@ -309,7 +345,7 @@
     },
     {
       "id": 50455,
-      "name": "لیتچت ماتراورز",
+      "name": "لیتچت ماتراورس",
       "name_default": "Lytchett Matravers",
       "native": "Lytchett Matravers",
       "type": "city",
@@ -327,7 +363,7 @@
     },
     {
       "id": 50471,
-      "name": "دوشیزه نیوتن",
+      "name": "میدن نیوتون",
       "name_default": "Maiden Newton",
       "native": "Maiden Newton",
       "type": "city",
@@ -345,7 +381,7 @@
     },
     {
       "id": 50487,
-      "name": "مانستون",
+      "name": "منستون",
       "name_default": "Manston",
       "native": "Manston",
       "type": "city",
@@ -363,7 +399,7 @@
     },
     {
       "id": 50513,
-      "name": "مارن‌هول",
+      "name": "مارنهال",
       "name_default": "Marnhull",
       "native": "Marnhull",
       "type": "city",
@@ -381,7 +417,7 @@
     },
     {
       "id": 50578,
-      "name": "بندر میلبورن",
+      "name": "میلبورن پورت",
       "name_default": "Milborne Port",
       "native": "Milborne Port",
       "type": "adm4",
@@ -399,7 +435,7 @@
     },
     {
       "id": 50579,
-      "name": "میلبورن سنت اندرو",
+      "name": "میلبرو سنت اندرو",
       "name_default": "Milborne St Andrew",
       "native": "Milborne St Andrew",
       "type": "city",
@@ -417,9 +453,9 @@
     },
     {
       "id": 50637,
-      "name": "موتکمب",
+      "name": "موتکوم",
       "name_default": "Motcombe",
-      "native": "The motto",
+      "native": "Motcombe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +507,7 @@
     },
     {
       "id": 51000,
-      "name": "پادل‌تاون",
+      "name": "پادلتاون",
       "name_default": "Puddletown",
       "native": "Puddletown",
       "type": "city",
@@ -489,7 +525,7 @@
     },
     {
       "id": 51244,
-      "name": "شفتسبوری",
+      "name": "شافتسبوری",
       "name_default": "Shaftesbury",
       "native": "Shaftesbury",
       "type": "city",
@@ -579,7 +615,7 @@
     },
     {
       "id": 51505,
-      "name": "استورمینستر مارشال",
+      "name": "استارمینستر مارشال",
       "name_default": "Sturminster Marshall",
       "native": "Sturminster Marshall",
       "type": "city",
@@ -597,7 +633,7 @@
     },
     {
       "id": 51506,
-      "name": "استورمینستر نیوتن",
+      "name": "استورمینستر نیوتون",
       "name_default": "Sturminster Newton",
       "native": "Sturminster Newton",
       "type": "city",
@@ -632,8 +668,26 @@
       "country_id": 232
     },
     {
+      "id": 51716,
+      "name": "وروود",
+      "name_default": "Verwood",
+      "native": "Verwood",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15172,
+      "latitude": "50.87575000",
+      "longitude": "-1.87023000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1242850",
+      "country_code": "GB",
+      "state_code": "DOR",
+      "state_id": 2345,
+      "country_id": 232
+    },
+    {
       "id": 51749,
-      "name": "ورهام",
+      "name": "وارهام",
       "name_default": "Wareham",
       "native": "Wareham",
       "type": "city",
@@ -669,7 +723,7 @@
     },
     {
       "id": 51978,
-      "name": "پشم",
+      "name": "وول",
       "name_default": "Wool",
       "native": "Wool",
       "type": "city",
@@ -705,7 +759,7 @@
     },
     {
       "id": 52022,
-      "name": "یت‌مینستر",
+      "name": "یتمینیستر",
       "name_default": "Yetminster",
       "native": "Yetminster",
       "type": "city",

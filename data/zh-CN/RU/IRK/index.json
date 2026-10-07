@@ -250,7 +250,7 @@
     },
     {
       "id": 105830,
-      "name": "阿拉尔斯基区",
+      "name": "阿拉尔区",
       "name_default": "Alarskiy Rayon",
       "native": "Аларський район",
       "type": "city",
@@ -340,7 +340,7 @@
     },
     {
       "id": 105836,
-      "name": "安加尔区",
+      "name": "安加尔斯克区",
       "name_default": "Angarskiy Rayon",
       "native": "Ангарський район",
       "type": "city",
@@ -430,7 +430,7 @@
     },
     {
       "id": 105841,
-      "name": "巴拉甘斯基区",
+      "name": "巴拉甘斯克区",
       "name_default": "Balaganskiy Rayon",
       "native": "Балаганський район",
       "type": "area",
@@ -610,9 +610,9 @@
     },
     {
       "id": 105853,
-      "name": "大雷奇卡",
+      "name": "Bol’shaya Rechka",
       "name_default": "Bol’shaya Rechka",
-      "native": "Велика Річка",
+      "native": "Большая Речка",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -646,7 +646,7 @@
     },
     {
       "id": 105855,
-      "name": "布拉茨基区",
+      "name": "布拉茨克区",
       "name_default": "Bratskiy Rayon",
       "native": "Братський район",
       "type": "city",
@@ -880,7 +880,7 @@
     },
     {
       "id": 105872,
-      "name": "卡楚格",
+      "name": "卡丘格",
       "name_default": "Kachug",
       "native": "Качуг",
       "type": "adm2",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 105882,
-      "name": "基连斯克",
+      "name": "基廉斯克",
       "name_default": "Kirensk",
       "native": "Кіренськ",
       "type": "adm2",
@@ -1294,7 +1294,7 @@
     },
     {
       "id": 105896,
-      "name": "妈妈",
+      "name": "马马",
       "name_default": "Mama",
       "native": "Мама",
       "type": "adm2",
@@ -1312,7 +1312,7 @@
     },
     {
       "id": 105897,
-      "name": "玛玛坎",
+      "name": "马马坎",
       "name_default": "Mamakan",
       "native": "Мамакан",
       "type": "city",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": 105900,
-      "name": "马尔科娃",
+      "name": "马尔科瓦",
       "name_default": "Markova",
       "native": "Маркова",
       "type": "city",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": 105903,
-      "name": "米舍列夫卡",
+      "name": "米舍廖夫卡",
       "name_default": "Mishelevka",
       "native": "Мішелевка",
       "type": "city",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": 105909,
-      "name": "新伊吉尔玛",
+      "name": "新伊吉尔马",
       "name_default": "Novaya Igirma",
       "native": "Нова Ігірма",
       "type": "city",
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 105927,
-      "name": "舍列霍夫",
+      "name": "谢列霍夫",
       "name_default": "Shelekhov",
       "native": "Шелехов",
       "type": "adm2",
@@ -1798,7 +1798,7 @@
     },
     {
       "id": 105929,
-      "name": "谢斯塔科沃",
+      "name": "舍斯塔科沃",
       "name_default": "Shestakovo",
       "native": "Шестаково",
       "type": "city",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": 105937,
-      "name": "斯雷德尼",
+      "name": "斯列德尼",
       "name_default": "Sredniy",
       "native": "Середній",
       "type": "city",
@@ -2070,7 +2070,7 @@
       "id": 105947,
       "name": "泰雷特·佩尔瓦亚",
       "name_default": "Tyret’ Pervaya",
-      "native": "Тирет Перша",
+      "native": "Тыреть 1-я",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2086,9 +2086,9 @@
     },
     {
       "id": 105948,
-      "name": "英国",
+      "name": "乌克",
       "name_default": "Uk",
-      "native": "Велика Британія",
+      "native": "Ук",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2266,7 +2266,7 @@
     },
     {
       "id": 105959,
-      "name": "维迪姆",
+      "name": "维季姆",
       "name_default": "Vidim",
       "native": "Відім",
       "type": "city",
@@ -2284,7 +2284,7 @@
     },
     {
       "id": 105960,
-      "name": "维克霍列夫卡",
+      "name": "维霍列夫卡",
       "name_default": "Vikhorevka",
       "native": "Віхорівка",
       "type": "city",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": 105964,
-      "name": "耶兰齐",
+      "name": "叶兰齐",
       "name_default": "Yelantsy",
       "native": "Єланці",
       "type": "adm2",
@@ -2392,7 +2392,7 @@
     },
     {
       "id": 105966,
-      "name": "尤尔蒂",
+      "name": "尤尔特",
       "name_default": "Yurty",
       "native": "Юрти",
       "type": "city",
@@ -2448,7 +2448,7 @@
       "id": 105969,
       "name": "热列兹诺多罗日内",
       "name_default": "Zheleznodorozhnyy",
-      "native": "Залізничний",
+      "native": "Железнодорожный",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2518,7 +2518,7 @@
     },
     {
       "id": 105973,
-      "name": "齐玛",
+      "name": "济马",
       "name_default": "Zima",
       "native": "Зіма",
       "type": "adm2",
@@ -2554,9 +2554,9 @@
     },
     {
       "id": 105975,
-      "name": "兹维兹德内",
+      "name": "兹维奥兹德内",
       "name_default": "Zvëzdnyy",
-      "native": "Зоряний",
+      "native": "Звёздный",
       "type": "city",
       "level": null,
       "parent_id": null,

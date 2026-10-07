@@ -78,9 +78,9 @@
   "cities": [
     {
       "id": 56195,
-      "name": "バンダルランプン",
+      "name": "バンダールランプン",
       "name_default": "Bandar Lampung",
-      "native": "Kota",
+      "native": "Bandar Lampung",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": 56534,
-      "name": "カブパテン・メスジ",
+      "name": "メスジ県",
       "name_default": "Mesuji",
       "native": "Kabupaten Mesuji",
       "type": "regency",
@@ -240,7 +240,7 @@
     },
     {
       "id": 56871,
-      "name": "地下鉄",
+      "name": "メトロ",
       "name_default": "Metro",
       "native": "Metro",
       "type": "city",
@@ -258,7 +258,7 @@
     },
     {
       "id": 56590,
-      "name": "カブパテン・ペサワラン",
+      "name": "ペッサワラン県",
       "name_default": "Pesawaran",
       "native": "Kabupaten Pesawaran",
       "type": "regency",
@@ -294,7 +294,7 @@
     },
     {
       "id": 56599,
-      "name": "プリンセウ県",
+      "name": "プリンセゥ県",
       "name_default": "Pringsewu",
       "native": "Kabupaten Pringsewu",
       "type": "regency",
@@ -348,7 +348,7 @@
     },
     {
       "id": 56687,
-      "name": "トゥランバワン県",
+      "name": "チュランボワン県",
       "name_default": "Tulangbawang",
       "native": "Kabupaten Tulangbawang",
       "type": "regency",
@@ -366,7 +366,7 @@
     },
     {
       "id": 56691,
-      "name": "カブパテン・ウェイ・カナン",
+      "name": "ウェイカナン県",
       "name_default": "Way Kanan",
       "native": "Kabupaten Way Kanan",
       "type": "regency",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57082,
-      "name": "アセンリー",
+      "name": "アトンライ",
       "name_default": "Athenry",
       "native": "Athenry",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 57092,
-      "name": "バラガデリーン",
+      "name": "バラーアデリーン",
       "name_default": "Ballaghaderreen",
       "native": "Ballaghaderreen",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 57093,
-      "name": "バリナ",
+      "name": "バリナー",
       "name_default": "Ballina",
       "native": "Ballina",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 57097,
-      "name": "バリンローブ",
+      "name": "バリンローデ",
       "name_default": "Ballinrobe",
       "native": "Ballinrobe",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 57121,
       "name": "ベアナ",
       "name_default": "Bearna",
-      "native": "Gap",
+      "native": "Bearna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 57147,
-      "name": "キャリック・オン・シャノン",
+      "name": "キャリック＝オン＝シャノン",
       "name_default": "Carrick-on-Shannon",
       "native": "Carrick-on-Shannon",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 57153,
-      "name": "キャッスルバー",
+      "name": "カスルバー",
       "name_default": "Castlebar",
       "native": "Castlebar",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 57164,
-      "name": "キャッスルリア",
+      "name": "キャッスルレイ",
       "name_default": "Castlerea",
       "native": "Castlerea",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 57176,
-      "name": "クレアガルウェイ",
+      "name": "クレアゴールウェイ",
       "name_default": "Claregalway",
       "native": "Claregalway",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 57187,
-      "name": "コルニー",
+      "name": "コルーニー",
       "name_default": "Collooney",
       "native": "Collooney",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 57198,
-      "name": "リートリム州",
+      "name": "リートリム県",
       "name_default": "County Leitrim",
       "native": "County Leitrim",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 57204,
-      "name": "クロスモリナ",
+      "name": "クロスモリーナ",
       "name_default": "Crossmolina",
       "native": "Crossmolina",
       "type": "city",
@@ -453,9 +453,9 @@
     },
     {
       "id": 57256,
-      "name": "ゴールウェイ市",
+      "name": "ゴールウェイ",
       "name_default": "Galway",
-      "native": "Galway City",
+      "native": "Galway",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 57255,
-      "name": "ゲイリム",
+      "name": "ゴールウェイ",
       "name_default": "Galway",
       "native": "Galway",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 57293,
-      "name": "キンロー",
+      "name": "キンラウ",
       "name_default": "Kinlough",
       "native": "Kinlough",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57310,
-      "name": "ラフリー",
+      "name": "ロッホリー",
       "name_default": "Loughrea",
       "native": "Loughrea",
       "type": "city",
@@ -597,9 +597,9 @@
     },
     {
       "id": 57321,
-      "name": "メイヨー郡",
+      "name": "メイヨー県",
       "name_default": "Mayo",
-      "native": "Mayo County",
+      "native": "Mayo",
       "type": "county",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 57356,
-      "name": "オランモア",
+      "name": "オーランモア",
       "name_default": "Oranmore",
       "native": "Oranmore",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 57357,
-      "name": "オウタード",
+      "name": "オウタラード",
       "name_default": "Oughterard",
       "native": "Oughterard",
       "type": "city",
@@ -669,9 +669,9 @@
     },
     {
       "id": 57366,
-      "name": "ポートムナ",
+      "name": "ポータムナ",
       "name_default": "Portumna",
-      "native": "Porta",
+      "native": "Portumna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,7 +687,7 @@
     },
     {
       "id": 57385,
-      "name": "ロスコモン",
+      "name": "ロスコモン県",
       "name_default": "Roscommon",
       "native": "Roscommon",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 57400,
-      "name": "スライゴ",
+      "name": "スライゴ県",
       "name_default": "Sligo",
       "native": "Sligo",
       "type": "city",
@@ -777,9 +777,9 @@
     },
     {
       "id": 57421,
-      "name": "トゥアム",
+      "name": "チュアム",
       "name_default": "Tuam",
-      "native": "Tool",
+      "native": "Tuam",
       "type": "city",
       "level": null,
       "parent_id": null,

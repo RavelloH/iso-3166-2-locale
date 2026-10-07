@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134473,
-      "name": "Abu Ghraib Bezirk",
+      "name": "Abu Ghraib",
       "name_default": "Abu Ghraib",
       "native": "قضاء أبو غريب",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 153211,
-      "name": "Amerika",
+      "name": "Ameria",
       "name_default": "Ameria",
       "native": "أميريا",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 153212,
-      "name": "Bezirk Amil",
+      "name": "Amil",
       "name_default": "Amil",
       "native": "منطقة أميل",
       "type": "district",
@@ -327,9 +327,9 @@
     },
     {
       "id": 153215,
-      "name": "In Taifiya",
+      "name": "At Taifiya",
       "name_default": "At Taifiya",
-      "native": "في الطائفية",
+      "native": "At Taifiya",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 153218,
-      "name": "Bagdad Al Jadeeda",
+      "name": "Baghdad Al Jadeeda",
       "name_default": "Baghdad Al Jadeeda",
       "native": "بغداد الجديدة",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 153237,
-      "name": "Dschihad",
+      "name": "Jihad",
       "name_default": "Jihad",
       "native": "الجهاد",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 153238,
-      "name": "Kadhimiya",
+      "name": "Al-Kazimiyya",
       "name_default": "Kadhimiya",
       "native": "الكاظمية",
       "type": "section",
@@ -885,7 +885,7 @@
     },
     {
       "id": 153245,
-      "name": "Qadisiya",
+      "name": "Qadisiyah",
       "name_default": "Qadisiyah",
       "native": "القادسية",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 153246,
-      "name": "Sadr-Stadt",
+      "name": "Sadr City",
       "name_default": "Sadr City",
       "native": "مدينة الصدر",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 153249,
-      "name": "Scheich Maaruf",
+      "name": "Sheik Maaruf",
       "name_default": "Sheik Maaruf",
       "native": "الشيخ معروف",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 153250,
-      "name": "Schardscha",
+      "name": "Shorjah",
       "name_default": "Shorjah",
       "native": "شورجة",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 153252,
-      "name": "Ur District",
+      "name": "Ur",
       "name_default": "Ur",
       "native": "منطقة أور",
       "type": "district",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 153254,
-      "name": "Jarmuk",
+      "name": "Yarmouk",
       "name_default": "Yarmouk",
       "native": "اليرموك",
       "type": "city",

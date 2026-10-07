@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 53839,
-      "name": "Água Caliente",
+      "name": "Agua Caliente",
       "name_default": "Agua Caliente",
       "native": "Agua Caliente",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 53878,
-      "name": "Cabanas",
+      "name": "Cabañas",
       "name_default": "Cabañas",
       "native": "Cabañas",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 53911,
-      "name": "Conceição",
+      "name": "Concepción",
       "name_default": "Concepción",
       "native": "Concepción",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 53914,
-      "name": "Concepção de la Barranca",
+      "name": "Concepción de la Barranca",
       "name_default": "Concepción de la Barranca",
       "native": "Concepción de la Barranca",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 53919,
-      "name": "Ruínas de Copán",
+      "name": "Copán Ruinas",
       "name_default": "Copán Ruinas",
       "native": "Copán Ruinas",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 53937,
-      "name": "Doce Nome",
+      "name": "Dulce Nombre",
       "name_default": "Dulce Nombre",
       "native": "Dulce Nombre",
       "type": "city",
@@ -283,7 +283,7 @@
       "latitude": "14.70000000",
       "longitude": "-88.91667000",
       "timezone": "America/Tegucigalpa",
-      "wikiDataId": "Q2090091",
+      "wikiDataId": null,
       "country_code": "HN",
       "state_code": "CP",
       "state_id": 4049,
@@ -291,7 +291,7 @@
     },
     {
       "id": 53968,
-      "name": "O Ocotón",
+      "name": "El Ocotón",
       "name_default": "El Ocotón",
       "native": "El Ocotón",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 53971,
-      "name": "O Paraíso",
+      "name": "El Paraíso",
       "name_default": "El Paraíso",
       "native": "El Paraíso",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 54005,
-      "name": "Flórida",
+      "name": "Florida",
       "name_default": "Florida",
       "native": "Florida",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 54052,
-      "name": "A entrada",
+      "name": "La Entrada",
       "name_default": "La Entrada",
       "native": "La Entrada",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 54074,
-      "name": "A Playona",
+      "name": "La Playona",
       "name_default": "La Playona",
       "native": "La Playona",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 54083,
-      "name": "A União",
+      "name": "La Unión",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 54086,
-      "name": "A Zumbadora",
+      "name": "La Zumbadora",
       "name_default": "La Zumbadora",
       "native": "La Zumbadora",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 54111,
-      "name": "Os Tangos",
+      "name": "Los Tangos",
       "name_default": "Los Tangos",
       "native": "Los Tangos",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54144,
-      "name": "Nova Arcádia",
+      "name": "Nueva Arcadia",
       "name_default": "Nueva Arcadia",
       "native": "Nueva Arcadia",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 54156,
-      "name": "Olhos de Água",
+      "name": "Ojos de Agua",
       "name_default": "Ojos de Agua",
       "native": "Ojos de Agua",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 54209,
-      "name": "Santo Agostinho",
+      "name": "San Agustín",
       "name_default": "San Agustín",
       "native": "San Agustín",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 54214,
-      "name": "Santo Antônio",
+      "name": "San Antonio",
       "name_default": "San Antonio",
       "native": "San Antonio",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 54241,
-      "name": "São Jerônimo",
+      "name": "San Jerónimo",
       "name_default": "San Jerónimo",
       "native": "San Jerónimo",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 54242,
-      "name": "São Joaquim",
+      "name": "San Joaquín",
       "name_default": "San Joaquín",
       "native": "San Joaquín",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 54245,
-      "name": "São José",
+      "name": "San José",
       "name_default": "San José",
       "native": "San José",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 54279,
-      "name": "São Nicolau",
+      "name": "San Nicolás",
       "name_default": "San Nicolás",
       "native": "San Nicolás",
       "type": "city",

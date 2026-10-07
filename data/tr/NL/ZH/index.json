@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 77298,
-      "name": "'s-Mezarlık",
+      "name": "'s-Gravenland",
       "name_default": "'s-Gravenland",
       "native": "'s-Gravenland",
       "type": "section",
@@ -239,7 +239,7 @@
       "id": 77412,
       "name": "Bergstoep",
       "name_default": "Bergstoep",
-      "native": "Haast",
+      "native": "Bergstoep",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 77414,
-      "name": "Berkel ve Rodenrijs",
+      "name": "Berkel en Rodenrijs",
       "name_default": "Berkel en Rodenrijs",
       "native": "Berkel en Rodenrijs",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 77512,
-      "name": "Capelle-Batı",
+      "name": "Capelle-West",
       "name_default": "Capelle-West",
       "native": "Capelle-West",
       "type": "section",
@@ -563,7 +563,7 @@
       "id": 77551,
       "name": "De Lier",
       "name_default": "De Lier",
-      "native": "Binding",
+      "native": "De Lier",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 78036,
-      "name": "Öldürülmüş",
+      "name": "Goedereede",
       "name_default": "Goedereede",
       "native": "Goedereede",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 78318,
-      "name": "Lombardiya",
+      "name": "Lombardijen",
       "name_default": "Lombardijen",
       "native": "Lombardijen",
       "type": "section",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 78408,
-      "name": "Canavar",
+      "name": "Monster",
       "name_default": "Monster",
       "native": "Monster",
       "type": "city",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 78430,
-      "name": "Yeni Beijerland",
+      "name": "Nieuw-Beijerland",
       "name_default": "Nieuw-Beijerland",
       "native": "Nieuw-Beijerland",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 78433,
-      "name": "Yeni Lekkerland",
+      "name": "Nieuw-Lekkerland",
       "name_default": "Nieuw-Lekkerland",
       "native": "Nieuw-Lekkerland",
       "type": "city",
@@ -2147,7 +2147,7 @@
       "id": 78587,
       "name": "Pernis",
       "name_default": "Pernis",
-      "native": "Vernis",
+      "native": "Pernis",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2613,9 +2613,9 @@
     },
     {
       "id": 78726,
-      "name": "İspanyolca",
+      "name": "Spangen",
       "name_default": "Spangen",
-      "native": "Chip",
+      "native": "Spangen",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 78876,
-      "name": "Öncüler",
+      "name": "Voorschoten",
       "name_default": "Voorschoten",
       "native": "Voorschoten",
       "type": "city",
@@ -2991,7 +2991,7 @@
     },
     {
       "id": 78895,
-      "name": "Bekçi",
+      "name": "Waarder",
       "name_default": "Waarder",
       "native": "Waarder",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134473,
-      "name": "Okrug Abu Ghraib",
+      "name": "Abu Ghraib",
       "name_default": "Abu Ghraib",
       "native": "قضاء أبو غريب",
       "type": "district",
@@ -75,7 +75,7 @@
     },
     {
       "id": 134474,
-      "name": "Abu Ghurayb",
+      "name": "Abū Ghurayb",
       "name_default": "Abū Ghurayb",
       "native": "أبو غريب",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 153205,
-      "name": "Al Džamaa",
+      "name": "Al Jamaa",
       "name_default": "Al Jamaa",
       "native": "الجماعة",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 153206,
-      "name": "Park Al Saadoon",
+      "name": "Al Saadoon Park",
       "name_default": "Al Saadoon Park",
       "native": "حديقة السعدون",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 153207,
-      "name": "Al-Salhiah",
+      "name": "Al Salhiah",
       "name_default": "Al Salhiah",
       "native": "الصالحية",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 153211,
-      "name": "Amerika",
+      "name": "Ameria",
       "name_default": "Ameria",
       "native": "أميريا",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 153212,
-      "name": "Okrug Amil",
+      "name": "Amil",
       "name_default": "Amil",
       "native": "منطقة أميل",
       "type": "district",
@@ -327,9 +327,9 @@
     },
     {
       "id": 153215,
-      "name": "U Taifiyi",
+      "name": "At Taifiya",
       "name_default": "At Taifiya",
-      "native": "في الطائفية",
+      "native": "At Taifiya",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 153216,
-      "name": "Bab Al-Moatham",
+      "name": "Bab Al Moatham",
       "name_default": "Bab Al Moatham",
       "native": "باب المعظم",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 153217,
-      "name": "Bab Al-Šarki",
+      "name": "Bab Al Sharqi",
       "name_default": "Bab Al Sharqi",
       "native": "باب الشرقي",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 153218,
-      "name": "Bagdad Al Jadeeda",
+      "name": "Baghdad Al Jadeeda",
       "name_default": "Baghdad Al Jadeeda",
       "native": "بغداد الجديدة",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 153224,
-      "name": "Kamp Sarah",
+      "name": "Camp Sarah",
       "name_default": "Camp Sarah",
       "native": "مخيم سارة",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 153228,
-      "name": "Gazalija",
+      "name": "Ghazaliya",
       "name_default": "Ghazaliya",
       "native": "غزالية",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 153230,
-      "name": "Zelena zona",
+      "name": "Green Zone",
       "name_default": "Green Zone",
       "native": "المنطقة الخضراء",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 153231,
-      "name": "Habibija",
+      "name": "Habibiya",
       "name_default": "Habibiya",
       "native": "حبيبية",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 153232,
-      "name": "Hartija",
+      "name": "Harthiya",
       "name_default": "Harthiya",
       "native": "حارثيا",
       "type": "capital",
@@ -669,7 +669,7 @@
     },
     {
       "id": 153233,
-      "name": "Hurrija",
+      "name": "Hurriya",
       "name_default": "Hurriya",
       "native": "حرية",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 153235,
-      "name": "Jadrijah",
+      "name": "Jadriyah",
       "name_default": "Jadriyah",
       "native": "الجادرية",
       "type": "capital",
@@ -723,7 +723,7 @@
     },
     {
       "id": 153236,
-      "name": "Džamila",
+      "name": "Jamila",
       "name_default": "Jamila",
       "native": "جميلة",
       "type": "capital",
@@ -741,7 +741,7 @@
     },
     {
       "id": 153237,
-      "name": "Džihad",
+      "name": "Jihad",
       "name_default": "Jihad",
       "native": "الجهاد",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 153243,
-      "name": "Maštal",
+      "name": "Mashtal",
       "name_default": "Mashtal",
       "native": "مشتال",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 153244,
-      "name": "Mustansirija",
+      "name": "Mustansiriya",
       "name_default": "Mustansiriya",
       "native": "المستنصرية",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 153245,
-      "name": "Kadisija",
+      "name": "Qadisiyah",
       "name_default": "Qadisiyah",
       "native": "القادسية",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 153247,
-      "name": "Saidija",
+      "name": "Saidiya",
       "name_default": "Saidiya",
       "native": "السعيدية",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 153248,
-      "name": "Šaab",
+      "name": "Sha'ab",
       "name_default": "Sha'ab",
       "native": "شعب",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 153249,
-      "name": "Šeik Maaruf",
+      "name": "Sheik Maaruf",
       "name_default": "Sheik Maaruf",
       "native": "الشيخ معروف",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 153250,
-      "name": "Šordža",
+      "name": "Shorjah",
       "name_default": "Shorjah",
       "native": "شورجة",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 153251,
-      "name": "Sulejh",
+      "name": "Suleikh",
       "name_default": "Suleikh",
       "native": "الصليخ",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 153252,
-      "name": "Okrug Ur",
+      "name": "Ur",
       "name_default": "Ur",
       "native": "منطقة أور",
       "type": "district",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 153254,
-      "name": "Jarmuk",
+      "name": "Yarmouk",
       "name_default": "Yarmouk",
       "native": "اليرموك",
       "type": "city",

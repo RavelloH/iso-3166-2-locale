@@ -193,7 +193,7 @@
       "latitude": "13.99904000",
       "longitude": "100.54962000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q4784166",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "14",
       "state_id": 3494,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105213,
-      "name": "암포 반 프랙",
+      "name": "방프랙군",
       "name_default": "Ban Phraek",
       "native": "อำเภอบ้านแพรก",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105235,
-      "name": "암포 방 파한",
+      "name": "방파한군",
       "name_default": "Bang Pahan",
       "native": "อำเภอบางปะหัน",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105242,
-      "name": "암포 방사이",
+      "name": "방사이군",
       "name_default": "Bang Sai",
       "native": "อำเภอบางไทร",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105487,
-      "name": "암포 랏 부아 루앙",
+      "name": "랏부아루앙군",
       "name_default": "Lat Bua Luang",
       "native": "อำเภอลาดบัวหลวง",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105521,
-      "name": "암포 마하 랏",
+      "name": "마하랏군",
       "name_default": "Maha Rat",
       "native": "อำเภอมหาราช",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105717,
-      "name": "암포에 파치",
+      "name": "파치군",
       "name_default": "Phachi",
       "native": "อำเภอภาชี",
       "type": "district",
@@ -381,7 +381,7 @@
     },
     {
       "id": 106644,
-      "name": "프라 나콘 시 아유타야",
+      "name": "아유타야",
       "name_default": "Phra Nakhon Si Ayutthaya",
       "native": "พระนครศรีอยุธยา",
       "type": "adm1",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106207,
-      "name": "암포에 세나",
+      "name": "세나군",
       "name_default": "Sena",
       "native": "อำเภอเสนา",
       "type": "district",
@@ -435,7 +435,7 @@
     },
     {
       "id": 106327,
-      "name": "암포 우타이",
+      "name": "유타이군",
       "name_default": "Uthai",
       "native": "อำเภออุทัย",
       "type": "district",

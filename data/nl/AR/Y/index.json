@@ -191,7 +191,7 @@
       "name": "Departamento de Cochinoca",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1155,
-      "name": "Ingenio La Esperanza",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "Ingenio La Esperanza",
       "type": "city",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1236,
-      "name": "Libertador-generaal San Martín",
+      "name": "Libertador General San Martín",
       "name_default": "Libertador General San Martín",
       "native": "Libertador General San Martín",
       "type": "adm2",

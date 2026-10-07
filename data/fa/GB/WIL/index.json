@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48244,
-      "name": "ایمزبری",
+      "name": "آمسبوری",
       "name_default": "Amesbury",
       "native": "Amesbury",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48648,
-      "name": "برادفورد-آن-آون",
+      "name": "برادفورد-آن-آوون",
       "name_default": "Bradford-on-Avon",
       "native": "Bradford-on-Avon",
       "type": "city",
@@ -201,9 +201,9 @@
     },
     {
       "id": 48827,
-      "name": "کالنه",
+      "name": "کالن",
       "name_default": "Calne",
-      "native": "Calneh",
+      "native": "Calne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -254,8 +254,26 @@
       "country_id": 232
     },
     {
+      "id": 49109,
+      "name": "کورشهام",
+      "name_default": "Corsham",
+      "native": "Corsham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13412,
+      "latitude": "51.43433000",
+      "longitude": "-2.18437000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q663095",
+      "country_code": "GB",
+      "state_code": "WIL",
+      "state_id": 2391,
+      "country_id": 232
+    },
+    {
       "id": 49277,
-      "name": "دیوایزز",
+      "name": "دوایزز",
       "name_default": "Devizes",
       "native": "Devizes",
       "type": "city",
@@ -275,7 +293,7 @@
       "id": 49288,
       "name": "دینتون",
       "name_default": "Dinton",
-      "native": "No more",
+      "native": "Dinton",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -363,7 +381,7 @@
     },
     {
       "id": 50225,
-      "name": "لاکوک",
+      "name": "لکاک",
       "name_default": "Lacock",
       "native": "Lacock",
       "type": "adm3",
@@ -399,7 +417,7 @@
     },
     {
       "id": 50305,
-      "name": "لیملی استوک",
+      "name": "لیمپلی استوک",
       "name_default": "Limpley Stoke",
       "native": "Limpley Stoke",
       "type": "city",
@@ -417,7 +435,7 @@
     },
     {
       "id": 50433,
-      "name": "لودگرشال",
+      "name": "لاجرشال",
       "name_default": "Ludgershall",
       "native": "Ludgershall",
       "type": "city",
@@ -453,7 +471,7 @@
     },
     {
       "id": 50452,
-      "name": "لینهام",
+      "name": "لینهم",
       "name_default": "Lyneham",
       "native": "Lyneham",
       "type": "city",
@@ -471,7 +489,7 @@
     },
     {
       "id": 50501,
-      "name": "مارکت لاوینگتون",
+      "name": "مارکت لوینگتون",
       "name_default": "Market Lavington",
       "native": "Market Lavington",
       "type": "city",
@@ -525,7 +543,7 @@
     },
     {
       "id": 50599,
-      "name": "ماینیتی",
+      "name": "ماینتی",
       "name_default": "Minety",
       "native": "Minety",
       "type": "adm3",
@@ -561,7 +579,7 @@
     },
     {
       "id": 50908,
-      "name": "پیوسی",
+      "name": "پیوزی",
       "name_default": "Pewsey",
       "native": "Pewsey",
       "type": "adm3",
@@ -581,7 +599,7 @@
       "id": 50974,
       "name": "پاترن",
       "name_default": "Potterne",
-      "native": "The pots",
+      "native": "Potterne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -615,7 +633,7 @@
     },
     {
       "id": 51124,
-      "name": "رود",
+      "name": "راود",
       "name_default": "Rowde",
       "native": "Rowde",
       "type": "city",
@@ -626,6 +644,24 @@
       "longitude": "-2.03098000",
       "timezone": "Europe/London",
       "wikiDataId": "Q635457",
+      "country_code": "GB",
+      "state_code": "WIL",
+      "state_id": 2391,
+      "country_id": 232
+    },
+    {
+      "id": 51132,
+      "name": "رویال ووتون باست",
+      "name_default": "Royal Wootton Bassett",
+      "native": "Royal Wootton Bassett",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13571,
+      "latitude": "51.54190000",
+      "longitude": "-1.90450000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q665001",
       "country_code": "GB",
       "state_code": "WIL",
       "state_id": 2391,
@@ -687,7 +723,7 @@
     },
     {
       "id": 51622,
-      "name": "تیدورث",
+      "name": "تیدوورث",
       "name_default": "Tidworth",
       "native": "Tidworth",
       "type": "city",
@@ -705,7 +741,7 @@
     },
     {
       "id": 51632,
-      "name": "تیسبری",
+      "name": "تیسبوری",
       "name_default": "Tisbury",
       "native": "Tisbury",
       "type": "city",
@@ -741,7 +777,7 @@
     },
     {
       "id": 51705,
-      "name": "آپتون اسکودامور",
+      "name": "آپتون اسکادامور",
       "name_default": "Upton Scudamore",
       "native": "Upton Scudamore",
       "type": "adm3",
@@ -777,7 +813,7 @@
     },
     {
       "id": 51836,
-      "name": "وستبری",
+      "name": "وستبوری",
       "name_default": "Westbury",
       "native": "Westbury",
       "type": "adm3",
@@ -867,7 +903,7 @@
     },
     {
       "id": 51968,
-      "name": "وودبورو",
+      "name": "وودبرو",
       "name_default": "Woodborough",
       "native": "Woodborough",
       "type": "adm3",

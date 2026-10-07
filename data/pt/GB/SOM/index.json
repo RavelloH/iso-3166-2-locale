@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48322,
-      "name": "Ponte de machado",
+      "name": "Axbridge",
       "name_default": "Axbridge",
       "native": "Axbridge",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48528,
-      "name": "Bispos Lydeard",
+      "name": "Bishops Lydeard",
       "name_default": "Bishops Lydeard",
       "native": "Bishops Lydeard",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48876,
-      "name": "Castelo Cary",
+      "name": "Castle Cary",
       "name_default": "Castle Cary",
       "native": "Castle Cary",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48920,
-      "name": "Acelga",
+      "name": "Chard",
       "name_default": "Chard",
       "native": "Chard",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49152,
-      "name": "Creche São Miguel",
+      "name": "Creech Saint Michael",
       "name_default": "Creech Saint Michael",
       "native": "Creech Saint Michael",
       "type": "city",
@@ -257,7 +257,7 @@
       "id": 49155,
       "name": "Crewkerne",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 49934,
-      "name": "Ponte Alta",
+      "name": "Highbridge",
       "name_default": "Highbridge",
       "native": "Highbridge",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "Honiton",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
-      "name": "Caça-níqueis",
+      "name": "Huntspill",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -455,7 +437,7 @@
       "id": 50044,
       "name": "Ilminster",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +561,7 @@
     },
     {
       "id": 50761,
-      "name": "Petherton Norte",
+      "name": "North Petherton",
       "name_default": "North Petherton",
       "native": "North Petherton",
       "type": "city",
@@ -633,7 +615,7 @@
     },
     {
       "id": 51264,
-      "name": "Malho Shepton",
+      "name": "Shepton Mallet",
       "name_default": "Shepton Mallet",
       "native": "Shepton Mallet",
       "type": "city",
@@ -669,7 +651,7 @@
     },
     {
       "id": 51364,
-      "name": "Petherton Sul",
+      "name": "South Petherton",
       "name_default": "South Petherton",
       "native": "South Petherton",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "Rua",
+      "name": "Street",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -759,7 +741,7 @@
     },
     {
       "id": 51765,
-      "name": "Relógio",
+      "name": "Watchet",
       "name_default": "Watchet",
       "native": "Watchet",
       "type": "city",
@@ -795,7 +777,7 @@
     },
     {
       "id": 51792,
-      "name": "Poços",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",

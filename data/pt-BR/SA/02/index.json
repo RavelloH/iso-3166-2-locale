@@ -165,7 +165,7 @@
     },
     {
       "id": 148877,
-      "name": "Anúncio Dur",
+      "name": "Ad Dur",
       "name_default": "Ad Dur",
       "native": "أد دور",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 148893,
-      "name": "Al Harra' Meca",
+      "name": "Al Harra' Makkah",
       "name_default": "Al Harra' Makkah",
       "native": "الحرّة مكة المكرمة",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 148900,
-      "name": "Al Khadra' Meca",
+      "name": "Al Khadra' Makkah",
       "name_default": "Al Khadra' Makkah",
       "native": "الخضراء مكة المكرمة",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 148909,
-      "name": "Al Madiq Meca",
+      "name": "Al Madiq Makkah",
       "name_default": "Al Madiq Makkah",
       "native": "المضيق مكة",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 148924,
-      "name": "Al-Qadimah",
+      "name": "Al Qadimah",
       "name_default": "Al Qadimah",
       "native": "القديمة",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 148936,
-      "name": "Ar Rabwah como Sufla",
+      "name": "Ar Rabwah as Sufla",
       "name_default": "Ar Rabwah as Sufla",
       "native": "الربوة السفلى",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 148941,
-      "name": "Como Sadr",
+      "name": "As Sadr",
       "name_default": "As Sadr",
       "native": "الصدر",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 148942,
-      "name": "Como Samd ash Shamali",
+      "name": "As Samd ash Shamali",
       "name_default": "As Samd ash Shamali",
       "native": "الصمد الشمالي",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 148943,
-      "name": "Como Sayl al Kabir",
+      "name": "As Sayl al Kabir",
       "name_default": "As Sayl al Kabir",
       "native": "السيل الكبير",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 148944,
-      "name": "Tão Sayl quanto Saghir",
+      "name": "As Sayl as Saghir",
       "name_default": "As Sayl as Saghir",
       "native": "السيل الصغير",
       "type": "city",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 148945,
-      "name": "Como Sifyani",
+      "name": "As Sifyani",
       "name_default": "As Sifyani",
       "native": "السفياني",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 148946,
-      "name": "Como Sudayrah Makkah",
+      "name": "As Sudayrah Makkah",
       "name_default": "As Sudayrah Makkah",
       "native": "السديرة مكة المكرمة",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 148947,
-      "name": "Como Suwadah",
+      "name": "As Suwadah",
       "name_default": "As Suwadah",
       "native": "السواده",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 102845,
-      "name": "Ash Shafa",
+      "name": "Ash Shafā",
       "name_default": "Ash Shafā",
       "native": "آش شفا",
       "type": "city",
@@ -1605,9 +1605,9 @@
     },
     {
       "id": 148956,
-      "name": "Em Tan`im",
+      "name": "At Tan`im",
       "name_default": "At Tan`im",
-      "native": "في التنعيم",
+      "native": "التنعيم",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1623,9 +1623,9 @@
     },
     {
       "id": 148957,
-      "name": "Em Tarfa'",
+      "name": "At Tarfa'",
       "name_default": "At Tarfa'",
-      "native": "في الطرفة",
+      "native": "الطرفاء",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 148958,
-      "name": "Em Turqi",
+      "name": "At Turqi",
       "name_default": "At Turqi",
       "native": "في تركي",
       "type": "city",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 148964,
-      "name": "Bahrat al-Qadimah",
+      "name": "Bahrat al Qadimah",
       "name_default": "Bahrat al Qadimah",
       "native": "بحرة القديمة",
       "type": "city",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 148971,
-      "name": "CIDADE GHRAN",
+      "name": "City Ghran",
       "name_default": "City Ghran",
       "native": "مدينة غران",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 148975,
-      "name": "Fayd",
+      "name": "Faide",
       "name_default": "Fayd",
       "native": "فايد",
       "type": "city",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 148980,
-      "name": "Halamá",
+      "name": "Halamah",
       "name_default": "Halamah",
       "native": "حلامة",
       "type": "city",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 102858,
-      "name": "Jidá",
+      "name": "Gidá",
       "name_default": "Jeddah",
       "native": "جدة",
       "type": "city",
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 148992,
-      "name": "Mesquita Mahd al Hayl",
+      "name": "Masihat Mahd al Hayl",
       "name_default": "Masihat Mahd al Hayl",
       "native": "مسيحة مهد الحيل",
       "type": "city",
@@ -2271,7 +2271,7 @@
     },
     {
       "id": 148993,
-      "name": "Máscara",
+      "name": "Maskar",
       "name_default": "Maskar",
       "native": "مسكار",
       "type": "city",
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 148999,
-      "name": "Cogumelo",
+      "name": "Mushrif",
       "name_default": "Mushrif",
       "native": "مشرف",
       "type": "city",
@@ -2451,7 +2451,7 @@
     },
     {
       "id": 102875,
-      "name": "Rabigh",
+      "name": "Rābigh",
       "name_default": "Rābigh",
       "native": "رابغ",
       "type": "city",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 102884,
-      "name": "Taif",
+      "name": "Ta’if",
       "name_default": "Ta'if",
       "native": "الطائف",
       "type": "city",
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 102886,
-      "name": "Turaba",
+      "name": "Turabah",
       "name_default": "Turabah",
       "native": "تربة",
       "type": "city",

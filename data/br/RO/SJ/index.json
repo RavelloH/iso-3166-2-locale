@@ -77,7 +77,7 @@
       "id": 89900,
       "name": "Agrij",
       "name_default": "Agrij",
-      "native": "Agitat",
+      "native": "Agrij",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 90172,
       "name": "Bobota",
       "name_default": "Bobota",
-      "native": "Născut",
+      "native": "Bobota",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -365,7 +365,7 @@
       "id": 90762,
       "name": "Cizer",
       "name_default": "Cizer",
-      "native": "Cizism",
+      "native": "Cizer",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 90832,
-      "name": "Kumuniezh Labour-douar",
+      "name": "Comuna Agrij",
       "name_default": "Comuna Agrij",
       "native": "Comuna Agrij",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 90856,
-      "name": "Kumuniezh Almaşu",
+      "name": "Comuna Almaşu",
       "name_default": "Comuna Almaşu",
       "native": "Comuna Almaşu",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 91211,
-      "name": "Kumuniezh Bălan",
+      "name": "Comuna Bălan",
       "name_default": "Comuna Bălan",
       "native": "Comuna Bălan",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 91234,
-      "name": "Kumuniezh Bănişor",
+      "name": "Comuna Bănişor",
       "name_default": "Comuna Bănişor",
       "native": "Comuna Bănişor",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 90957,
-      "name": "Kumuniezh Benesat",
+      "name": "Comuna Benesat",
       "name_default": "Comuna Benesat",
       "native": "Comuna Benesat",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 91016,
-      "name": "Kumuniezh Bocşa",
+      "name": "Comuna Bocşa",
       "name_default": "Comuna Bocşa",
       "native": "Comuna Bocşa",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 91032,
-      "name": "Kumuniezh Boghiş",
+      "name": "Comuna Boghiş",
       "name_default": "Comuna Boghiş",
       "native": "Comuna Boghiş",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 91133,
-      "name": "Kumuniezh Buciumi",
+      "name": "Comuna Buciumi",
       "name_default": "Comuna Buciumi",
       "native": "Comuna Buciumi",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 91256,
-      "name": "Kumuniezh Camăr",
+      "name": "Comuna Camăr",
       "name_default": "Comuna Camăr",
       "native": "Comuna Camăr",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 91258,
-      "name": "Kumuniezh Karastelek",
+      "name": "Comuna Carastelec",
       "name_default": "Comuna Carastelec",
       "native": "Comuna Carastelec",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 91277,
-      "name": "Kumuniezh Cehu Silvaniei",
+      "name": "Comuna Cehu Silvaniei",
       "name_default": "Comuna Cehu Silvaniei",
       "native": "Comuna Cehu Silvaniei",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 91313,
-      "name": "Kumuniezh Chieşd",
+      "name": "Comuna Chieşd",
       "name_default": "Comuna Chieşd",
       "native": "Comuna Chieşd",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 91378,
-      "name": "Kumuniezh Cizer",
+      "name": "Comuna Cizer",
       "name_default": "Comuna Cizer",
       "native": "Comuna Cizer",
       "type": "adm2",
@@ -615,7 +615,7 @@
     },
     {
       "id": 91473,
-      "name": "Kumuniezh Coşeiu",
+      "name": "Comuna Coşeiu",
       "name_default": "Comuna Coşeiu",
       "native": "Comuna Coşeiu",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 91487,
-      "name": "Kumuniezh Crasna",
+      "name": "Comuna Crasna",
       "name_default": "Comuna Crasna",
       "native": "Comuna Crasna",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 91488,
-      "name": "Kumuniezh Creaca",
+      "name": "Comuna Creaca",
       "name_default": "Comuna Creaca",
       "native": "Comuna Creaca",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 91506,
-      "name": "Kumuniezh Krişeni",
+      "name": "Comuna Crişeni",
       "name_default": "Comuna Crişeni",
       "native": "Comuna Crişeni",
       "type": "city",
@@ -687,9 +687,9 @@
     },
     {
       "id": 91501,
-      "name": "Kumuniezh Kristolţ",
+      "name": "Comuna Cristolţ",
       "name_default": "Comuna Cristolţ",
-      "native": "Cristolț comună",
+      "native": "Comuna Cristolţ",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 91538,
-      "name": "Kumuniezh Cuzăplac",
+      "name": "Comuna Cuzăplac",
       "name_default": "Comuna Cuzăplac",
       "native": "Comuna Cuzăplac",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 91639,
-      "name": "Kumuniezh Dobrin",
+      "name": "Comuna Dobrin",
       "name_default": "Comuna Dobrin",
       "native": "Comuna Dobrin",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 91678,
-      "name": "Kumuniezh Dragu",
+      "name": "Comuna Dragu",
       "name_default": "Comuna Dragu",
       "native": "Comuna Dragu",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 91761,
-      "name": "Kumuniezh Fildu De Jos",
+      "name": "Comuna Fildu De Jos",
       "name_default": "Comuna Fildu De Jos",
       "native": "Comuna Fildu De Jos",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 91962,
-      "name": "Kumuniezh Gâlgău",
+      "name": "Comuna Gâlgău",
       "name_default": "Comuna Gâlgău",
       "native": "Comuna Gâlgău",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91964,
-      "name": "Kumuniezh Gârbou",
+      "name": "Comuna Gârbou",
       "name_default": "Comuna Gârbou",
       "native": "Comuna Gârbou",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 91990,
-      "name": "Kumuniezh Halmăşd",
+      "name": "Comuna Halmăşd",
       "name_default": "Comuna Halmăşd",
       "native": "Comuna Halmăşd",
       "type": "adm2",
@@ -831,7 +831,7 @@
     },
     {
       "id": 91997,
-      "name": "Kumuniezh Hereclean",
+      "name": "Comuna Hereclean",
       "name_default": "Comuna Hereclean",
       "native": "Comuna Hereclean",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 91999,
-      "name": "Kumuniezh Hida",
+      "name": "Comuna Hida",
       "name_default": "Comuna Hida",
       "native": "Comuna Hida",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 92021,
-      "name": "Kumuniezh Horoatu Crasnei",
+      "name": "Comuna Horoatu Crasnei",
       "name_default": "Comuna Horoatu Crasnei",
       "native": "Comuna Horoatu Crasnei",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 92069,
-      "name": "Kumuniezh Ileanda",
+      "name": "Comuna Ileanda",
       "name_default": "Comuna Ileanda",
       "native": "Comuna Ileanda",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 92088,
-      "name": "Kumuniezh Ip",
+      "name": "Comuna Ip",
       "name_default": "Comuna Ip",
       "native": "Comuna Ip",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 92156,
-      "name": "Kumuniezh Letca",
+      "name": "Comuna Letca",
       "name_default": "Comuna Letca",
       "native": "Comuna Letca",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 92186,
-      "name": "Kumuniezh Lozna",
+      "name": "Comuna Lozna",
       "name_default": "Comuna Lozna",
       "native": "Comuna Lozna",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 92385,
-      "name": "Kumuniezh Măerişte",
+      "name": "Comuna Măerişte",
       "name_default": "Comuna Măerişte",
       "native": "Comuna Măerişte",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 92240,
-      "name": "Kumuniezh Marca",
+      "name": "Comuna Marca",
       "name_default": "Comuna Marca",
       "native": "Comuna Marca",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 93586,
-      "name": "Kumuniezh Mezeg Jos",
+      "name": "Comună Meseşenii de Jos",
       "name_default": "Comună Meseşenii de Jos",
       "native": "Comună Meseşenii de Jos",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 92304,
-      "name": "Kumuniezh Mirşid",
+      "name": "Comuna Mirşid",
       "name_default": "Comuna Mirşid",
       "native": "Comuna Mirşid",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 92464,
-      "name": "Kumuniezh Năpradea",
+      "name": "Comuna Năpradea",
       "name_default": "Comuna Năpradea",
       "native": "Comuna Năpradea",
       "type": "adm2",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 92459,
-      "name": "Kumuniezh Nuşfalău",
+      "name": "Comuna Nuşfalău",
       "name_default": "Comuna Nuşfalău",
       "native": "Comuna Nuşfalău",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 92549,
-      "name": "Kumuniezh Pericei",
+      "name": "Comuna Pericei",
       "name_default": "Comuna Pericei",
       "native": "Comuna Pericei",
       "type": "adm2",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 92598,
-      "name": "Kumuniezh Plopiş",
+      "name": "Comuna Plopiş",
       "name_default": "Comuna Plopiş",
       "native": "Comuna Plopiş",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 92625,
-      "name": "Kumuniezh Poiana Blenchii",
+      "name": "Comuna Poiana Blenchii",
       "name_default": "Comuna Poiana Blenchii",
       "native": "Comuna Poiana Blenchii",
       "type": "adm2",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 92785,
-      "name": "Kumuniezh Romanaşi",
+      "name": "Comuna Românaşi",
       "name_default": "Comuna Românaşi",
       "native": "Comuna Românaşi",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 92814,
-      "name": "Kumuniezh Rus",
+      "name": "Comuna Rus",
       "name_default": "Comuna Rus",
       "native": "Comuna Rus",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 93044,
-      "name": "Kumun Sâg",
+      "name": "Comuna Sâg",
       "name_default": "Comuna Sâg",
       "native": "Comuna Sâg",
       "type": "adm2",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 93101,
-      "name": "Kumuniezh Sălăţig",
+      "name": "Comuna Sălăţig",
       "name_default": "Comuna Sălăţig",
       "native": "Comuna Sălăţig",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 93497,
-      "name": "Kumuniezh Şamşud",
+      "name": "Comuna Şamşud",
       "name_default": "Comuna Şamşud",
       "native": "Comuna Şamşud",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 93057,
-      "name": "Kumuniezh Sânmihaiu Almaşului",
+      "name": "Comuna Sânmihaiu Almaşului",
       "name_default": "Comuna Sânmihaiu Almaşului",
       "native": "Comuna Sânmihaiu Almaşului",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 93566,
-      "name": "Kumuniezh Şărmăşag",
+      "name": "Comuna Şărmăşag",
       "name_default": "Comuna Şărmăşag",
       "native": "Comuna Şărmăşag",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 93522,
-      "name": "Kumuniezh Şimişna",
+      "name": "Comuna Şimişna",
       "name_default": "Comuna Şimişna",
       "native": "Comuna Şimişna",
       "type": "adm2",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 92975,
-      "name": "Kumuniezh Someş-Odorhei",
+      "name": "Comuna Someş-Odorhei",
       "name_default": "Comuna Someş-Odorhei",
       "native": "Comuna Someş-Odorhei",
       "type": "city",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 93039,
-      "name": "Kumuniezh Surduc",
+      "name": "Comuna Surduc",
       "name_default": "Comuna Surduc",
       "native": "Comuna Surduc",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 93191,
-      "name": "Kumuniezh Treznea",
+      "name": "Comuna Treznea",
       "name_default": "Comuna Treznea",
       "native": "Comuna Treznea",
       "type": "adm2",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 93297,
-      "name": "Kumuniezh Valcau De Jos",
+      "name": "Comuna Valcãu De Jos",
       "name_default": "Comuna Valcãu De Jos",
       "native": "Comuna Valcãu De Jos",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 93448,
-      "name": "Kumuniezh Vârşolţ",
+      "name": "Comuna Vârşolţ",
       "name_default": "Comuna Vârşolţ",
       "native": "Comuna Vârşolţ",
       "type": "adm2",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 93470,
-      "name": "Kumuniezh Zalha",
+      "name": "Comuna Zalha",
       "name_default": "Comuna Zalha",
       "native": "Comuna zalha",
       "type": "adm2",
@@ -1371,9 +1371,9 @@
     },
     {
       "id": 93478,
-      "name": "Kumuniezh Zimbor",
+      "name": "Comuna Zimbor",
       "name_default": "Comuna Zimbor",
-      "native": "Comuna Hungor",
+      "native": "Comuna Zimbor",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1391,7 +1391,7 @@
       "id": 93689,
       "name": "Coşeiu",
       "name_default": "Coşeiu",
-      "native": "Seșieu",
+      "native": "Coşeiu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1553,7 +1553,7 @@
       "id": 93959,
       "name": "Dobrin",
       "name_default": "Dobrin",
-      "native": "Bunuri",
+      "native": "Dobrin",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 94531,
-      "name": "Glan amañ",
+      "name": "Hereclean",
       "name_default": "Hereclean",
       "native": "Ereclean",
       "type": "adm2",
@@ -1715,7 +1715,7 @@
       "id": 94534,
       "name": "Hida",
       "name_default": "Hida",
-      "native": "Herda",
+      "native": "Hida",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1803,9 +1803,9 @@
     },
     {
       "id": 94785,
-      "name": "Deomp",
+      "name": "Letca",
       "name_default": "Letca",
-      "native": "Letko",
+      "native": "Letca",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 95197,
-      "name": "Kumun Zalãu",
+      "name": "Municipiul Zalãu",
       "name_default": "Municipiul Zalãu",
       "native": "Municipiul Zalãu",
       "type": "adm2",
@@ -2039,7 +2039,7 @@
       "id": 95719,
       "name": "Peceiu",
       "name_default": "Peceiu",
-      "native": "Drag",
+      "native": "Peceiu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2111,7 +2111,7 @@
       "id": 95986,
       "name": "Pusta",
       "name_default": "Pusta",
-      "native": "mize",
+      "native": "Pusta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 96109,
-      "name": "Romanaşi",
+      "name": "Românaşi",
       "name_default": "Românaşi",
       "native": "Românaşi",
       "type": "adm2",
@@ -2165,7 +2165,7 @@
       "id": 96516,
       "name": "Sâg",
       "name_default": "Sâg",
-      "native": "Sat",
+      "native": "Sâg",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 96706,
-      "name": "Valcau de Jos",
+      "name": "Valcău de Jos",
       "name_default": "Valcău de Jos",
       "native": "Valcău de Jos",
       "type": "city",
@@ -2435,7 +2435,7 @@
       "id": 96981,
       "name": "Zalha",
       "name_default": "Zalha",
-      "native": "Elith",
+      "native": "Zalha",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2471,7 +2471,7 @@
       "id": 96994,
       "name": "Zimbor",
       "name_default": "Zimbor",
-      "native": "Fermoar",
+      "native": "Zimbor",
       "type": "adm2",
       "level": null,
       "parent_id": null,

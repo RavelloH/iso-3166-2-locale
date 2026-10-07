@@ -75,7 +75,7 @@
     },
     {
       "id": 48395,
-      "name": "قلعه بارنارد",
+      "name": "برنارد کستل",
       "name_default": "Barnard Castle",
       "native": "Barnard Castle",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48522,
-      "name": "اسقف اوکلند",
+      "name": "بیشاپ آوکلند",
       "name_default": "Bishop Auckland",
       "native": "Bishop Auckland",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 48957,
-      "name": "چستر-له-استریت",
+      "name": "چستر لی استریت",
       "name_default": "Chester-le-Street",
       "native": "Chester-le-Street",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49092,
-      "name": "کانست",
+      "name": "کونست",
       "name_default": "Consett",
       "native": "Consett",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49121,
-      "name": "شهرستان دورهام",
+      "name": "County Durham",
       "name_default": "County Durham",
       "native": "County Durham",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 49551,
-      "name": "فری‌هیل",
+      "name": "فریهیل",
       "name_default": "Ferryhill",
       "native": "Ferryhill",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49925,
-      "name": "های اترلی",
+      "name": "های اثرلی",
       "name_default": "High Etherley",
       "native": "High Etherley",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 50237,
       "name": "لنچستر",
       "name_default": "Lanchester",
-      "native": "Snacks",
+      "native": "Lanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -525,7 +525,7 @@
     },
     {
       "id": 50728,
-      "name": "نیوتن آیکلیف",
+      "name": "نیوتون آیکلیف",
       "name_default": "Newton Aycliffe",
       "native": "Newton Aycliffe",
       "type": "city",
@@ -542,8 +542,26 @@
       "country_id": 232
     },
     {
+      "id": 50903,
+      "name": "پترلی",
+      "name_default": "Peterlee",
+      "native": "Peterlee",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37015,
+      "latitude": "54.76032000",
+      "longitude": "-1.33649000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2079502",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51160,
-      "name": "ساکریستون",
+      "name": "سکریستون",
       "name_default": "Sacriston",
       "native": "Sacriston",
       "type": "city",
@@ -597,7 +615,7 @@
     },
     {
       "id": 51268,
-      "name": "تپه شربورن",
+      "name": "Sherburn Hill",
       "name_default": "Sherburn Hill",
       "native": "Sherburn Hill",
       "type": "city",
@@ -633,7 +651,7 @@
     },
     {
       "id": 51387,
-      "name": "اسپنی‌مور",
+      "name": "اسپنیمور",
       "name_default": "Spennymoor",
       "native": "Spennymoor",
       "type": "city",
@@ -653,7 +671,7 @@
       "id": 51409,
       "name": "استایندراپ",
       "name_default": "Staindrop",
-      "native": "Stindrop",
+      "native": "Staindrop",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -686,8 +704,26 @@
       "country_id": 232
     },
     {
+      "id": 51426,
+      "name": "استنلی",
+      "name_default": "Stanley",
+      "native": "Stanley",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21938,
+      "latitude": "54.86796000",
+      "longitude": "-1.69846000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q924360",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51433,
-      "name": "استارت‌فورت",
+      "name": "استارتفورث",
       "name_default": "Startforth",
       "native": "Startforth",
       "type": "adm3",
@@ -723,7 +759,7 @@
     },
     {
       "id": 51653,
-      "name": "قانون یدک‌کشی",
+      "name": "تاو لاو",
       "name_default": "Tow Law",
       "native": "Tow Law",
       "type": "city",
@@ -849,7 +885,7 @@
     },
     {
       "id": 51950,
-      "name": "ویتون گیلبرت",
+      "name": "ویتتون گیلبرت",
       "name_default": "Witton Gilbert",
       "native": "Witton Gilbert",
       "type": "city",
@@ -867,7 +903,7 @@
     },
     {
       "id": 51961,
-      "name": "ولسینگهام",
+      "name": "وولسینگهام",
       "name_default": "Wolsingham",
       "native": "Wolsingham",
       "type": "city",

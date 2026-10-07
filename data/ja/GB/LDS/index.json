@@ -93,7 +93,7 @@
     },
     {
       "id": 48616,
-      "name": "ボストンスパ",
+      "name": "ボストン・スパ",
       "name_default": "Boston Spa",
       "native": "Boston Spa",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48656,
-      "name": "ブラムハム",
+      "name": "ブランハム",
       "name_default": "Bramham",
       "native": "Bramham",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49002,
-      "name": "リーズ市および自治区",
+      "name": "シティ・オブ・リーズ",
       "name_default": "City and Borough of Leeds",
       "native": "City and Borough of Leeds",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49400,
-      "name": "イースト・ケズウィック",
+      "name": "イーストケズウィック",
       "name_default": "East Keswick",
       "native": "East Keswick",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 49627,
       "name": "ガーフォース",
       "name_default": "Garforth",
-      "native": "Garfort",
+      "native": "Garforth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 49997,
-      "name": "ホースフォース",
+      "name": "ホースフォ―ス",
       "name_default": "Horsforth",
       "native": "Horsforth",
       "type": "city",
@@ -293,7 +293,7 @@
       "id": 50191,
       "name": "キパックス",
       "name_default": "Kippax",
-      "native": "Knit",
+      "native": "Kippax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -398,6 +398,24 @@
       "country_id": 232
     },
     {
+      "id": 51001,
+      "name": "パズィー",
+      "name_default": "Pudsey",
+      "native": "Pudsey",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33109,
+      "latitude": "53.79538000",
+      "longitude": "-1.66134000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1009290",
+      "country_code": "GB",
+      "state_code": "LDS",
+      "state_id": 2503,
+      "country_id": 232
+    },
+    {
       "id": 51211,
       "name": "スカークロフト",
       "name_default": "Scarcroft",
@@ -489,7 +507,7 @@
     },
     {
       "id": 51853,
-      "name": "ウェザビー",
+      "name": "ウェザービー",
       "name_default": "Wetherby",
       "native": "Wetherby",
       "type": "adm3",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "Ar Ramthā",
+      "name": "Ar Ramtha",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -129,7 +129,7 @@
     },
     {
       "id": 63148,
-      "name": "Aydún",
+      "name": "Aydūn",
       "name_default": "Aydūn",
       "native": "أيدون",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 63155,
-      "name": "Bayt Idis",
+      "name": "Bayt Īdis",
       "name_default": "Bayt Īdis",
       "native": "بيت إيديس",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 63154,
-      "name": "Bayt Yafa",
+      "name": "Bayt Yāfā",
       "name_default": "Bayt Yāfā",
       "native": "بيت يافا",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63158,
-      "name": "Dayr Yusuf",
+      "name": "Dayr Yūsuf",
       "name_default": "Dayr Yūsuf",
       "native": "دير يوسف",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 63172,
-      "name": "Malkā",
+      "name": "Malka",
       "name_default": "Malkā",
       "native": "مالكا",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 63184,
-      "name": "Saham al Kaffārāt",
+      "name": "Saḩam al Kaffārāt",
       "name_default": "Saḩam al Kaffārāt",
       "native": "سهم الكفارات",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63186,
-      "name": "Sal",
+      "name": "Sāl",
       "name_default": "Sāl",
       "native": "سال",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63200,
-      "name": "Sammā",
+      "name": "Şammā",
       "name_default": "Şammā",
       "native": "شما",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 63190,
-      "name": "Umm Qays",
+      "name": "Umm Qais",
       "name_default": "Umm Qays",
       "native": "أم قيس",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 63193,
-      "name": "Waqqas",
+      "name": "Waqqāş",
       "name_default": "Waqqāş",
       "native": "وقاص",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 63197,
-      "name": "Zahar",
+      "name": "Zaḩar",
       "name_default": "Zaḩar",
       "native": "زهار",
       "type": "city",

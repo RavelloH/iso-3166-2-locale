@@ -111,7 +111,7 @@
     },
     {
       "id": 15819,
-      "name": "Bal'shavik",
+      "name": "Bal’shavik",
       "name_default": "Bal’shavik",
       "native": "Бальшавік",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 15826,
-      "name": "Blon'",
+      "name": "Blon’",
       "name_default": "Blon’",
       "native": "Блон",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 15855,
-      "name": "Chervyen'",
+      "name": "Červień",
       "name_default": "Červień",
       "native": "Чэрвень",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 15856,
-      "name": "Rayon Chervyen'ski",
+      "name": "Chervyen’ski Rayon",
       "name_default": "Chervyen’ski Rayon",
       "native": "Чэрвеньскі раён",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 15860,
-      "name": "Chyst'",
+      "name": "Chyst’",
       "name_default": "Chyst’",
       "native": "Чысць",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 15871,
-      "name": "Druzni",
+      "name": "Druzhny",
       "name_default": "Druzhny",
       "native": "Дружны",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 15921,
-      "name": "Kapyl'",
+      "name": "Kapyl’",
       "name_default": "Kapyl’",
       "native": "Капыль",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 15922,
-      "name": "Rayon Kapyl'ski",
+      "name": "Kapyl’ski Rayon",
       "name_default": "Kapyl’ski Rayon",
       "native": "Капыльскі раён",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 15976,
-      "name": "Lyuban'",
+      "name": "Lyuban’",
       "name_default": "Lyuban’",
       "native": "Любань",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 15996,
-      "name": "Rayon Myadzyel'ski",
+      "name": "Myadzyel’ski Rayon",
       "name_default": "Myadzyel’ski Rayon",
       "native": "Мядзельскі раён",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 16009,
-      "name": "Svyerzhan nevez",
+      "name": "Novy Svyerzhan’",
       "name_default": "Novy Svyerzhan’",
       "native": "Новы Свержань",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 16012,
-      "name": "Rayon Nyasvizhski",
+      "name": "Nyasvizhski Rayon",
       "name_default": "Nyasvizhski Rayon",
       "native": "Нясвіжскі раён",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 16030,
-      "name": "Pukhavichy",
+      "name": "Puchavičy",
       "name_default": "Puchavičy",
       "native": "Пухавічы",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 16031,
-      "name": "Raion Pukhavichy",
+      "name": "Pukhavichy Raion",
       "name_default": "Pukhavichy Raion",
       "native": "Пухавіцкі раён",
       "type": "district",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 16034,
-      "name": "Radashkovichy",
+      "name": "Radaškovičy",
       "name_default": "Radaškovičy",
       "native": "Радашковічы",
       "type": "city",
@@ -1389,9 +1389,9 @@
     },
     {
       "id": 16068,
-      "name": "Erc'h",
+      "name": "Snow",
       "name_default": "Snow",
-      "native": "Снег",
+      "native": "Сноў",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 16091,
-      "name": "Tourets-Bayary",
+      "name": "Turets-Bayary",
       "name_default": "Turets-Bayary",
       "native": "Турэц-Баяры",
       "type": "city",

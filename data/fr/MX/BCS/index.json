@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68498,
-      "name": "Baie d'Asunción",
+      "name": "Bahía Asunción",
       "name_default": "Bahía Asunción",
       "native": "Bahía Asunción",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 69162,
-      "name": "Cité insurgée",
+      "name": "Ciudad Insurgentes",
       "name_default": "Ciudad Insurgentes",
       "native": "Ciudad Insurgentes",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 69893,
-      "name": "Le Centenaire",
+      "name": "El Centenario",
       "name_default": "El Centenario",
       "native": "El Centenario",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 70100,
-      "name": "Le pêcheur",
+      "name": "El Pescadero",
       "name_default": "El Pescadero",
       "native": "El Pescadero",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 70206,
-      "name": "Le silence",
+      "name": "El Silencio",
       "name_default": "El Silencio",
       "native": "El Silencio",
       "type": "city",
@@ -325,6 +325,24 @@
       "longitude": "-113.29987000",
       "timezone": "America/Mazatlan",
       "wikiDataId": "Q20245268",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
+      "id": 70633,
+      "name": "Guerrero Negro",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCS",
       "state_id": 3460,
@@ -440,7 +458,7 @@
     },
     {
       "id": 71762,
-      "name": "Lorette",
+      "name": "Loreto",
       "name_default": "Loreto",
       "native": "Loreto",
       "type": "city",
@@ -458,7 +476,7 @@
     },
     {
       "id": 71777,
-      "name": "Les Barriles",
+      "name": "Los Barriles",
       "name_default": "Los Barriles",
       "native": "Los Barriles",
       "type": "city",
@@ -548,7 +566,7 @@
     },
     {
       "id": 72965,
-      "name": "Port Adolfo López Mateos",
+      "name": "Puerto Adolfo López Mateos",
       "name_default": "Puerto Adolfo López Mateos",
       "native": "Puerto Adolfo Lopez Mateos",
       "type": "city",
@@ -620,7 +638,7 @@
     },
     {
       "id": 74855,
-      "name": "Santa Rosalía",
+      "name": "Santa Rosalia",
       "name_default": "Santa Rosalía",
       "native": "Santa Rosalía",
       "type": "adm2",
@@ -638,7 +656,7 @@
     },
     {
       "id": 75719,
-      "name": "Tous les Saints",
+      "name": "Todos los Santos",
       "name_default": "Todos Santos",
       "native": "Todos Santos",
       "type": "city",

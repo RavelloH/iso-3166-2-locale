@@ -271,7 +271,7 @@
     },
     {
       "id": 111908,
-      "name": "Bitka na planini",
+      "name": "Battle Mountain",
       "name_default": "Battle Mountain",
       "native": "Battle Mountain",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 114389,
-      "name": "Hladni izvori",
+      "name": "Cold Springs",
       "name_default": "Cold Springs",
       "native": "Cold Springs",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 115768,
-      "name": "Istočna dolina",
+      "name": "East Valley",
       "name_default": "East Valley",
       "native": "East Valley",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 116149,
-      "name": "Poduzeće",
+      "name": "Enterprise",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 117079,
-      "name": "Rančevi Gardnerville",
+      "name": "Gardnerville Ranchos",
       "name_default": "Gardnerville Ranchos",
       "native": "Gardnerville Ranchos",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 117357,
-      "name": "Zlatna dolina",
+      "name": "Golden Valley",
       "name_default": "Golden Valley",
       "native": "Golden Valley",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 117363,
-      "name": "Nalazište zlata",
+      "name": "Goldfield",
       "name_default": "Goldfield",
       "native": "Goldfield",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 118909,
-      "name": "Indijska brda",
+      "name": "Indian Hills",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 120358,
-      "name": "Dolina Lemmon",
+      "name": "Lemmon Valley",
       "name_default": "Lemmon Valley",
       "native": "Lemmon Valley",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 120825,
-      "name": "Šiška",
+      "name": "Lovelock",
       "name_default": "Lovelock",
       "native": "Lovelock",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 121930,
       "name": "Minden",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -883,9 +883,9 @@
     },
     {
       "id": 122007,
-      "name": "Grad Moapa",
+      "name": "Moapa Town",
       "name_default": "Moapa Town",
-      "native": "Moabo Town",
+      "native": "Moapa Town",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,9 +901,9 @@
     },
     {
       "id": 122008,
-      "name": "Dolina Moapa",
+      "name": "Moapa Valley",
       "name_default": "Moapa Valley",
-      "native": "Moab Valley",
+      "native": "Moapa Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -937,7 +937,7 @@
     },
     {
       "id": 122622,
-      "name": "Zračna baza Nellis",
+      "name": "Nellis Air Force Base",
       "name_default": "Nellis Air Force Base",
       "native": "Nellis Air Force Base",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 123052,
-      "name": "Sjeverni Las Vegas",
+      "name": "North Las Vegas",
       "name_default": "North Las Vegas",
       "native": "North Las Vegas",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 123819,
-      "name": "Raj",
+      "name": "Paradise",
       "name_default": "Paradise",
       "native": "Paradise",
       "type": "city",
@@ -1011,7 +1011,7 @@
       "id": 124273,
       "name": "Pioche",
       "name_default": "Pioche",
-      "native": "Pickaxe",
+      "native": "Pioche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 125885,
-      "name": "Pješčana dolina",
+      "name": "Sandy Valley",
       "name_default": "Sandy Valley",
       "native": "Sandy Valley",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 126517,
-      "name": "Smithova dolina",
+      "name": "Smith Valley",
       "name_default": "Smith Valley",
       "native": "Smith Valley",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 126801,
-      "name": "Španjolski izvori",
+      "name": "Spanish Springs",
       "name_default": "Spanish Springs",
       "native": "Spanish Springs",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 126805,
-      "name": "Iskre",
+      "name": "Sparks",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 126881,
-      "name": "Proljetna dolina",
+      "name": "Spring Valley",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 126939,
-      "name": "Poštanska kočija",
+      "name": "Stagecoach",
       "name_default": "Stagecoach",
       "native": "Stagecoach",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 127205,
-      "name": "Summerlin Jug",
+      "name": "Summerlin South",
       "name_default": "Summerlin South",
       "native": "Summerlin South",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 127269,
-      "name": "Dvorac Sunrise",
+      "name": "Sunrise Manor",
       "name_default": "Sunrise Manor",
       "native": "Sunrise Manor",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 128783,
-      "name": "Bunari",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 129004,
-      "name": "Zapadni Wendover",
+      "name": "West Wendover",
       "name_default": "West Wendover",
       "native": "West Wendover",
       "type": "city",

@@ -165,7 +165,7 @@
     },
     {
       "id": 105657,
-      "name": "آمفو غیر تایلندی",
+      "name": "Amphoe Non Thai",
       "name_default": "Amphoe Non Thai",
       "native": "อำเภอโนนไทย",
       "type": "district",
@@ -633,7 +633,7 @@
     },
     {
       "id": 106592,
-      "name": "غیر خوانده شده",
+      "name": "Non Sung",
       "name_default": "Non Sung",
       "native": "นอนซอง",
       "type": "adm2",
@@ -651,9 +651,9 @@
     },
     {
       "id": 106593,
-      "name": "غیر تایلندی",
+      "name": "Non Thai",
       "name_default": "Non Thai",
-      "native": "ไม่ใช่คนไทย",
+      "native": "เทศบาลตำบลโนนไทย",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106635,
-      "name": "فیمای",
+      "name": "پراسات فیمای",
       "name_default": "Phimai",
       "native": "พิมาย",
       "type": "adm2",

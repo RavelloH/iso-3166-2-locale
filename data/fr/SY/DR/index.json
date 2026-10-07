@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104956,
-      "name": "Al Harak",
+      "name": "Al Ḩarāk",
       "name_default": "Al Ḩarāk",
       "native": "الحراك",
       "type": "adm3",
@@ -93,9 +93,9 @@
     },
     {
       "id": 104963,
-      "name": "District d'Al-Sanamayn",
+      "name": "Al-Sanamayn",
       "name_default": "Al-Sanamayn",
-      "native": "مديرية الصنمين",
+      "native": "منطقة الصنمين",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 104979,
-      "name": "Ash Cheikh Miskin",
+      "name": "Ash Shaykh Miskīn",
       "name_default": "Ash Shaykh Miskīn",
       "native": "الشيخ مسكين",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 104990,
-      "name": "Dar‘ā",
+      "name": "Deraa",
       "name_default": "Dar‘ā",
       "native": "درعا",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104996,
-      "name": "Ghabāghib",
+      "name": "Ghabaghib",
       "name_default": "Ghabāghib",
       "native": "غباغب",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 105004,
-      "name": "District d'Izra",
+      "name": "Izra",
       "name_default": "Izra",
       "native": "منطقة إزرع",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105014,
-      "name": "Jāsim",
+      "name": "Jasim",
       "name_default": "Jāsim",
       "native": "جاسم",
       "type": "adm3",

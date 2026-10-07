@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 53836,
-      "name": "Eau bleue",
+      "name": "Agua Azul",
       "name_default": "Agua Azul",
       "native": "Agua Azul",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 53837,
-      "name": "Rancho Agua Azul",
+      "name": "Agua Azul Rancho",
       "name_default": "Agua Azul Rancho",
       "native": "Agua Azul Rancho",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 53859,
       "name": "Armenta",
       "name_default": "Armenta",
-      "native": "Rebaños",
+      "native": "Armenta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 53866,
-      "name": "Basse-Mar",
+      "name": "Baja Mar",
       "name_default": "Baja Mar",
       "native": "Baja Mar",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 53889,
-      "name": "Maison Quemada",
+      "name": "Casa Quemada",
       "name_default": "Casa Quemada",
       "native": "Casa Quemada",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 53899,
       "name": "Chivana",
       "name_default": "Chivana",
-      "native": "Niños",
+      "native": "Chivana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -239,7 +239,7 @@
       "id": 53902,
       "name": "Chotepe",
       "name_default": "Chotepe",
-      "native": "Ardiente",
+      "native": "Chotepe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 53904,
-      "name": "Confrérie",
+      "name": "Cofradía",
       "name_default": "Cofradía",
       "native": "Cofradía",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 53958,
-      "name": "Le Llano",
+      "name": "El Llano",
       "name_default": "El Llano",
       "native": "El Llano",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 53960,
-      "name": "Le Marañón",
+      "name": "El Marañón",
       "name_default": "El Marañón",
       "native": "El Marañón",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 53961,
-      "name": "Le Milagro",
+      "name": "El Milagro",
       "name_default": "El Milagro",
       "native": "El Milagro",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 53969,
-      "name": "L'Olivar",
+      "name": "El Olivar",
       "name_default": "El Olivar",
       "native": "El Olivar",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 53973,
-      "name": "Le Périco",
+      "name": "El Perico",
       "name_default": "El Perico",
       "native": "El Perico",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 53977,
-      "name": "Le Porvenir",
+      "name": "El Porvenir",
       "name_default": "El Porvenir",
       "native": "El Porvenir",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 53993,
-      "name": "Le Tigre",
+      "name": "El Tigre",
       "name_default": "El Tigre",
       "native": "El Tigre",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 54107,
-      "name": "Les chemins",
+      "name": "Los Caminos",
       "name_default": "Los Caminos",
       "native": "Los Caminos",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 54152,
-      "name": "Nouveau Chamelecon",
+      "name": "Nuevo Chamelecón",
       "name_default": "Nuevo Chamelecón",
       "native": "Nuevo Chamelecón",
       "type": "city",
@@ -635,7 +635,7 @@
       "id": 54159,
       "name": "Omoa",
       "name_default": "Omoa",
-      "native": "Oh Jacob",
+      "native": "Omoa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,7 +687,7 @@
     },
     {
       "id": 54171,
-      "name": "Piment",
+      "name": "Pimienta",
       "name_default": "Pimienta",
       "native": "Pimienta",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 54172,
-      "name": "Piment vieux",
+      "name": "Pimienta Vieja",
       "name_default": "Pimienta Vieja",
       "native": "Pimienta Vieja",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 54199,
-      "name": "Rivière Blanquito",
+      "name": "Río Blanquito",
       "name_default": "Río Blanquito",
       "native": "Río Blanquito",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 54201,
-      "name": "Rivière Chiquito",
+      "name": "Río Chiquito",
       "name_default": "Río Chiquito",
       "native": "Río Chiquito",
       "type": "city",
@@ -1029,9 +1029,9 @@
     },
     {
       "id": 54344,
-      "name": "Traversée",
+      "name": "Travesía",
       "name_default": "Travesía",
-      "native": "Transfolio",
+      "native": "Travesía",
       "type": "city",
       "level": null,
       "parent_id": null,

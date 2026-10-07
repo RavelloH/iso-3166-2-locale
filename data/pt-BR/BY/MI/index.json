@@ -111,7 +111,7 @@
     },
     {
       "id": 15819,
-      "name": "Bal'shavik",
+      "name": "Bal’shavik",
       "name_default": "Bal’shavik",
       "native": "Бальшавік",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 15824,
-      "name": "Barysaw",
+      "name": "Barysaŭ",
       "name_default": "Barysaw",
       "native": "Барысаў",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 15826,
-      "name": "Loira",
+      "name": "Blon’",
       "name_default": "Blon’",
       "native": "Блон",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 15845,
-      "name": "Byerazino",
+      "name": "Bierazino",
       "name_default": "Byerazino",
       "native": "Беразіно",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 15855,
-      "name": "Chervyen'",
+      "name": "Červień",
       "name_default": "Červień",
       "native": "Чэрвень",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 15856,
-      "name": "Chervyen'ski Rayon",
+      "name": "Chervyen’ski Rayon",
       "name_default": "Chervyen’ski Rayon",
       "native": "Чэрвеньскі раён",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 15860,
-      "name": "Chyst'",
+      "name": "Chyst’",
       "name_default": "Chyst’",
       "native": "Чысць",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 15907,
-      "name": "Il'ya",
+      "name": "Il’ya",
       "name_default": "Il’ya",
       "native": "Ілья",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 15921,
-      "name": "Kapyl'",
+      "name": "Kapyl’",
       "name_default": "Kapyl’",
       "native": "Капыль",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 15922,
-      "name": "Kapyl'ski Rayon",
+      "name": "Kapyl’ski Rayon",
       "name_default": "Kapyl’ski Rayon",
       "native": "Капыльскі раён",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 15933,
-      "name": "Kholopenichi",
+      "name": "Khalopyenichy",
       "name_default": "Kholopenichi",
       "native": "Халопенічы",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 15976,
-      "name": "Lyuban'",
+      "name": "Lyuban’",
       "name_default": "Lyuban’",
       "native": "Любань",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 15983,
-      "name": "Mar''ina Horka",
+      "name": "Mar’’ina Horka",
       "name_default": "Mar’’ina Horka",
       "native": "Мар'іна Горка",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 15996,
-      "name": "Rayon Myadzyel'ski",
+      "name": "Myadzyel’ski Rayon",
       "name_default": "Myadzyel’ski Rayon",
       "native": "Мядзельскі раён",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 16008,
-      "name": "Novosel'ye",
+      "name": "Novosel’ye",
       "name_default": "Novosel’ye",
       "native": "Навасельле",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 16009,
-      "name": "Novo Svyerzhan'",
+      "name": "Novy Svyerzhan’",
       "name_default": "Novy Svyerzhan’",
       "native": "Новы Свержань",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 16029,
-      "name": "Pryvol'ny",
+      "name": "Pryvol’ny",
       "name_default": "Pryvol’ny",
       "native": "Прывольны",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 16030,
-      "name": "Pukhavichy",
+      "name": "Puchavičy",
       "name_default": "Puchavičy",
       "native": "Пухавічы",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 16034,
-      "name": "Radashkovitchy",
+      "name": "Radaškovičy",
       "name_default": "Radaškovičy",
       "native": "Радашковічы",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 16065,
-      "name": "Rayon de Smalyavitski",
+      "name": "Smalyavitski Rayon",
       "name_default": "Smalyavitski Rayon",
       "native": "Смалявіцкі раён",
       "type": "city",
@@ -1389,9 +1389,9 @@
     },
     {
       "id": 16068,
-      "name": "Neve",
+      "name": "Snow",
       "name_default": "Snow",
-      "native": "Снег",
+      "native": "Сноў",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 16070,
-      "name": "Stan'kava",
+      "name": "Stan’kava",
       "name_default": "Stan’kava",
       "native": "Станькава",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 16074,
-      "name": "Rayon Stawbtsowski",
+      "name": "Stawbtsowski Rayon",
       "name_default": "Stawbtsowski Rayon",
       "native": "Стаўбцоўскі раён",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 16083,
-      "name": "Sienitsa",
+      "name": "Syenitsa",
       "name_default": "Syenitsa",
       "native": "Сіеніца",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 16096,
-      "name": "Rayon Uzdzyenski",
+      "name": "Uzdzyenski Rayon",
       "name_default": "Uzdzyenski Rayon",
       "native": "Уздзенскі раён",
       "type": "city",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 16125,
-      "name": "Jdanovichy",
+      "name": "Zhdanovichy",
       "name_default": "Zhdanovichy",
       "native": "Ждановічы",
       "type": "city",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 16132,
-      "name": "Octubrьский",
+      "name": "Октябрьский",
       "name_default": "Октябрьский",
       "native": "Кастрычніцкі",
       "type": "city",

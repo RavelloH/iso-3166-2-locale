@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48205,
-      "name": "アルセスター",
+      "name": "オルスター",
       "name_default": "Alcester",
       "native": "Alcester",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48235,
-      "name": "アルヴチャーチ",
+      "name": "アルブチャーチ",
       "name_default": "Alvechurch",
       "native": "Alvechurch",
       "type": "city",
@@ -113,7 +113,7 @@
       "id": 48333,
       "name": "バドシー",
       "name_default": "Badsey",
-      "native": "Honey",
+      "native": "Badsey",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 48404,
-      "name": "バーントグリーン",
+      "name": "バーント・グリーン",
       "name_default": "Barnt Green",
       "native": "Barnt Green",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48457,
-      "name": "ベルブロートン",
+      "name": "ベルブロウトン",
       "name_default": "Belbroughton",
       "native": "Belbroughton",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48488,
-      "name": "ビュードリー",
+      "name": "ビュードレー",
       "name_default": "Bewdley",
       "native": "Bewdley",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 48721,
-      "name": "ブロムスグローブ",
+      "name": "ブロムスグローヴ",
       "name_default": "Bromsgrove",
       "native": "Bromsgrove",
       "type": "city",
@@ -273,9 +273,9 @@
     },
     {
       "id": 49327,
-      "name": "ドロイトウィッチ",
+      "name": "ドロイトウィッチ・スパ",
       "name_default": "Droitwich",
-      "native": "Turn",
+      "native": "Droitwich",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 49499,
-      "name": "イブシャム",
+      "name": "イヴシャム",
       "name_default": "Evesham",
       "native": "Evesham",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 49727,
-      "name": "グレート・マルバーン",
+      "name": "グレート・マルヴァーン",
       "name_default": "Great Malvern",
       "native": "Great Malvern",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 49778,
-      "name": "ハグレー",
+      "name": "ハグリー",
       "name_default": "Hagley",
       "native": "Hagley",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 50897,
-      "name": "パーショア",
+      "name": "パーショー",
       "name_default": "Pershore",
       "native": "Pershore",
       "type": "city",
@@ -581,7 +581,7 @@
       "id": 51104,
       "name": "ロムズリー",
       "name_default": "Romsley",
-      "native": "Space",
+      "native": "Romsley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 51483,
-      "name": "ストアポート・オン・セヴァーン",
+      "name": "ストアポート＝オン＝セバーン",
       "name_default": "Stourport-on-Severn",
       "native": "Stourport-on-Severn",
       "type": "adm4",
@@ -651,7 +651,7 @@
     },
     {
       "id": 51575,
-      "name": "テンベリー・ウェルズ",
+      "name": "テンベリー・ウェルス",
       "name_default": "Tenbury Wells",
       "native": "Tenbury Wells",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 51706,
-      "name": "アプトン・アポン・セヴァーン",
+      "name": "アプトン＝アポン＝セヴァーン",
       "name_default": "Upton upon Severn",
       "native": "Upton upon Severn",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 51984,
-      "name": "ウースター",
+      "name": "ウスター",
       "name_default": "Worcester",
       "native": "Worcester",
       "type": "adm2",

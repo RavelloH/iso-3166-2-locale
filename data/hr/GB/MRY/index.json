@@ -95,7 +95,7 @@
       "id": 48747,
       "name": "Buckie",
       "name_default": "Buckie",
-      "native": "Bucky",
+      "native": "Buckie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 48924,
-      "name": "Charlestown od Aberloura",
+      "name": "Charlestown of Aberlour",
       "name_default": "Charlestown of Aberlour",
       "native": "Charlestown of Aberlour",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49579,
-      "name": "Fochaberi",
+      "name": "Fochabers",
       "name_default": "Fochabers",
       "native": "Fochabers",
       "type": "city",
@@ -434,24 +434,6 @@
       "country_id": 232
     },
     {
-      "id": 50661,
-      "name": "Nairn",
-      "name_default": "Nairn",
-      "native": "Nairn",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10022,
-      "latitude": "57.58094000",
-      "longitude": "-3.87973000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q980084",
-      "country_code": "GB",
-      "state_code": "MRY",
-      "state_id": 2360,
-      "country_id": 232
-    },
-    {
       "id": 50964,
       "name": "Portknockie",
       "name_default": "Portknockie",
@@ -471,7 +453,7 @@
     },
     {
       "id": 50972,
-      "name": "Portsøy",
+      "name": "Portsoy",
       "name_default": "Portsoy",
       "native": "Portsoy",
       "type": "city",

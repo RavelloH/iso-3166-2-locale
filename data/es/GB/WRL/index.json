@@ -111,7 +111,7 @@
     },
     {
       "id": 49705,
-      "name": "Grasiento",
+      "name": "Greasby",
       "name_default": "Greasby",
       "native": "Greasby",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50561,
-      "name": "Distrito metropolitano de Wirral",
+      "name": "Metropolitan Borough of Wirral",
       "name_default": "Metropolitan Borough of Wirral",
       "native": "Metropolitan Borough of Wirral",
       "type": "area",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50628,
-      "name": "Moretón",
+      "name": "Moreton",
       "name_default": "Moreton",
       "native": "Moreton",
       "type": "city",
@@ -200,26 +200,8 @@
       "country_id": 232
     },
     {
-      "id": 50676,
-      "name": "Nestón",
-      "name_default": "Neston",
-      "native": "Nest",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 15352,
-      "latitude": "53.28333000",
-      "longitude": "-3.05000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q925760",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2408,
-      "country_id": 232
-    },
-    {
       "id": 50688,
-      "name": "Nuevo ferry",
+      "name": "New Ferry",
       "name_default": "New Ferry",
       "native": "New Ferry",
       "type": "section",

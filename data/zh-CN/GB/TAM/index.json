@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48297,
-      "name": "阿什顿安德莱恩",
+      "name": "林恩阿斯顿",
       "name_default": "Ashton-under-Lyne",
       "native": "Ashton-under-Lyne",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 49267,
-      "name": "丹顿",
+      "name": "登顿",
       "name_default": "Denton",
       "native": "Denton",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49338,
-      "name": "杜金菲尔德",
+      "name": "登金菲尔德",
       "name_default": "Dukinfield",
       "native": "Dukinfield",
       "type": "city",
@@ -140,24 +140,6 @@
       "longitude": "-2.08809000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1976179",
-      "country_code": "GB",
-      "state_code": "TAM",
-      "state_id": 2367,
-      "country_id": 232
-    },
-    {
-      "id": 49662,
-      "name": "格洛索普",
-      "name_default": "Glossop",
-      "native": "Glossop",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33243,
-      "latitude": "53.44325000",
-      "longitude": "-1.94900000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q383912",
       "country_code": "GB",
       "state_code": "TAM",
       "state_id": 2367,
@@ -183,7 +165,7 @@
     },
     {
       "id": 49930,
-      "name": "高山峰",
+      "name": "High Peak",
       "name_default": "High Peak",
       "native": "High Peak",
       "type": "locality",
@@ -255,7 +237,7 @@
     },
     {
       "id": 50635,
-      "name": "莫斯利",
+      "name": "莫斯雷",
       "name_default": "Mossley",
       "native": "Mossley",
       "type": "adm3",
@@ -273,7 +255,7 @@
     },
     {
       "id": 51416,
-      "name": "斯泰利布里奇",
+      "name": "斯陶布利兹",
       "name_default": "Stalybridge",
       "native": "Stalybridge",
       "type": "city",

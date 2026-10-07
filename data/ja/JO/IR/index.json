@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "アル・ラムタ",
+      "name": "アル・ラムサ",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -489,7 +489,7 @@
     },
     {
       "id": 63190,
-      "name": "ウム・カイス",
+      "name": "ウンム・カイス",
       "name_default": "Umm Qays",
       "native": "أم قيس",
       "type": "city",

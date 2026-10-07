@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135272,
-      "name": "آکواریکا دل کاپو",
+      "name": "اکواریکا دل کاپو",
       "name_default": "Acquarica del Capo",
       "native": "Acquarica del Capo",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 135397,
-      "name": "آلسانو",
+      "name": "السانو",
       "name_default": "Alessano",
       "native": "Alessano",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 135398,
-      "name": "آلزیو",
+      "name": "الزیو",
       "name_default": "Alezio",
       "native": "Alezio",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135418,
-      "name": "آلیسته",
+      "name": "الیست",
       "name_default": "Alliste",
       "native": "Alliste",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 135771,
-      "name": "باگنولو دل سالنتو",
+      "name": "بانیولو دل سالنتو",
       "name_default": "Bagnolo del Salento",
       "native": "Bagnolo del Salento",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 136257,
-      "name": "بوتروگنو",
+      "name": "بوترونیو",
       "name_default": "Botrugno",
       "native": "Botrugno",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 136528,
-      "name": "کالیمرا",
+      "name": "کلیمرا",
       "name_default": "Calimera",
       "native": "Calimera",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 136616,
-      "name": "کمپی سالنتینا",
+      "name": "کامپی سالنتینا",
       "name_default": "Campi Salentina",
       "native": "Campi Salentina",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 136804,
-      "name": "کاپراریکا در لچه",
+      "name": "کاپراریکا دی لچه",
       "name_default": "Caprarica di Lecce",
       "native": "Caprarica di Lecce",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 136915,
-      "name": "کارپینیانو سالنِنتینو",
+      "name": "کارپینیانو سالنتینو",
       "name_default": "Carpignano Salentino",
       "native": "Carpignano Salentino",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 137373,
-      "name": "کاستریگنانو دِ گرچی",
+      "name": "کاسترینیانو د جرچی",
       "name_default": "Castrignano De' Greci",
       "native": "Castrignano De' Greci",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 137374,
-      "name": "کاستریگنانو دل کاپو",
+      "name": "کاسترینیانو دل کاپو",
       "name_default": "Castrignano del Capo",
       "native": "Castrignano del Capo",
       "type": "adm3",
@@ -509,7 +509,7 @@
       "id": 137544,
       "name": "سرفینانو",
       "name_default": "Cerfignano",
-      "native": "Cerfigna",
+      "native": "Cerfignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 138014,
-      "name": "کوریلیانو دِ اوترانتو",
+      "name": "کوریلیانو داوترانتو",
       "name_default": "Corigliano d'Otranto",
       "native": "Corigliano d'Otranto",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 138206,
-      "name": "کرسی",
+      "name": "کورزی",
       "name_default": "Cursi",
       "native": "Cursi",
       "type": "adm3",
@@ -653,7 +653,7 @@
       "id": 138249,
       "name": "دپرسا",
       "name_default": "Depressa",
-      "native": "Velocemente",
+      "native": "Depressa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 138270,
-      "name": "دیزو",
+      "name": "دیسو",
       "name_default": "Diso",
       "native": "Diso",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 138783,
-      "name": "گاگلیانو دل کاپو",
+      "name": "جالیانو دل کاپو",
       "name_default": "Gagliano del Capo",
       "native": "Gagliano del Capo",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 138796,
-      "name": "گالاتون",
+      "name": "جالاتونه",
       "name_default": "Galatone",
       "native": "Galatone",
       "type": "adm3",
@@ -795,9 +795,9 @@
     },
     {
       "id": 138891,
-      "name": "جوزا",
+      "name": "Gemini",
       "name_default": "Gemini",
-      "native": "Gemelli",
+      "native": "Gemini",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -831,7 +831,7 @@
     },
     {
       "id": 138987,
-      "name": "جوجیانلو",
+      "name": "جیوجیانلو",
       "name_default": "Giuggianello",
       "native": "Giuggianello",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 138996,
-      "name": "جوردینانو",
+      "name": "جیوردینیانو",
       "name_default": "Giurdignano",
       "native": "Giurdignano",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 139144,
-      "name": "گوانانو",
+      "name": "گوانیانو",
       "name_default": "Guagnano",
       "native": "Guagnano",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 139460,
-      "name": "لکویل",
+      "name": "لکویله",
       "name_default": "Lequile",
       "native": "Lequile",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 139554,
-      "name": "لیزانلو",
+      "name": "لیتزانلو",
       "name_default": "Lizzanello",
       "native": "Lizzanello",
       "type": "adm3",
@@ -977,7 +977,7 @@
       "id": 139641,
       "name": "لوگنانو",
       "name_default": "Lucugnano",
-      "native": "Lugnano",
+      "native": "Lucugnano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 139731,
-      "name": "مگلی",
+      "name": "مالیه",
       "name_default": "Maglie",
       "native": "Maglie",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 140041,
-      "name": "ملندوگنو",
+      "name": "ملندونیو",
       "name_default": "Melendugno",
       "native": "Melendugno",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 140056,
-      "name": "ملپینانو",
+      "name": "ملپینیانو",
       "name_default": "Melpignano",
       "native": "Melpignano",
       "type": "adm3",
@@ -1157,7 +1157,7 @@
       "id": 140085,
       "name": "مرین",
       "name_default": "Merine",
-      "native": "Mercer",
+      "native": "Merine",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 140520,
-      "name": "مونترونی دی لچه",
+      "name": "مونته‌رونی دی لچه",
       "name_default": "Monteroni di Lecce",
       "native": "Monteroni di Lecce",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 140530,
-      "name": "مونتسانو سالنتینو",
+      "name": "مونته‌زانو سالنتینو",
       "name_default": "Montesano Salentino",
       "native": "Montesano Salentino",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 140604,
-      "name": "مورچیانو دی لوکا",
+      "name": "مورچیانو دی لئوکا",
       "name_default": "Morciano di Leuca",
       "native": "Morciano di Leuca",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 140693,
-      "name": "مورو لچه",
+      "name": "مورو لچزه",
       "name_default": "Muro Leccese",
       "native": "Muro Leccese",
       "type": "adm3",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 140754,
-      "name": "نوویانو",
+      "name": "نویانو",
       "name_default": "Neviano",
       "native": "Neviano",
       "type": "adm3",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 140789,
-      "name": "نوسیلیا",
+      "name": "نوچیلیا",
       "name_default": "Nociglia",
       "native": "Nociglia",
       "type": "adm3",
@@ -1355,7 +1355,7 @@
       "id": 140795,
       "name": "نوحه",
       "name_default": "Noha",
-      "native": "Sebbene",
+      "native": "Noha",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 140983,
-      "name": "اورتل",
+      "name": "اورتله",
       "name_default": "Ortelle",
       "native": "Ortelle",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 58256,
-      "name": "پالماریگی",
+      "name": "پالماریجی",
       "name_default": "Palmariggi",
       "native": "Palmariggi",
       "type": "adm3",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 58351,
-      "name": "پاتو",
+      "name": "پتو",
       "name_default": "Patù",
       "native": "Patù",
       "type": "adm3",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 58926,
-      "name": "پورتو چسارئو",
+      "name": "پورتو چسارو",
       "name_default": "Porto Cesareo",
       "native": "Porto Cesareo",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 59067,
-      "name": "پرسیچه",
+      "name": "پرزیچه",
       "name_default": "Presicce",
       "native": "Presicce",
       "type": "adm3",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 59255,
-      "name": "راکال",
+      "name": "راکاله",
       "name_default": "Racale",
       "native": "Racale",
       "type": "adm3",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 59767,
-      "name": "سالیچه سالننتینو",
+      "name": "سالیچه سالنتینو",
       "name_default": "Salice Salentino",
       "native": "Salice Salentino",
       "type": "adm3",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 59789,
-      "name": "مرهم",
+      "name": "Salve",
       "name_default": "Salve",
       "native": "Salve",
       "type": "adm3",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 59864,
-      "name": "سن چساریو دی لچه",
+      "name": "سان چساریو دی لچه",
       "name_default": "San Cesario di Lecce",
       "native": "San Cesario di Lecce",
       "type": "adm3",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 59898,
-      "name": "سن دوناتو دی لچه",
+      "name": "سان دوناتو دی لچه",
       "name_default": "San Donato di Lecce",
       "native": "San Donato di Lecce",
       "type": "adm3",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 60201,
-      "name": "سن پیترو در لاما",
+      "name": "سان پیترو این لاما",
       "name_default": "San Pietro in Lama",
       "native": "San Pietro in Lama",
       "type": "adm3",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 60418,
-      "name": "سانتا سزاریا ترمه",
+      "name": "سانتا چسارئا ترمه",
       "name_default": "Santa Cesarea Terme",
       "native": "Santa Cesarea Terme",
       "type": "adm3",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 60994,
-      "name": "اسپکیا",
+      "name": "اسپچیا",
       "name_default": "Specchia",
       "native": "Specchia",
       "type": "adm3",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 61028,
-      "name": "اسپونگانو",
+      "name": "سپونجانو",
       "name_default": "Spongano",
       "native": "Spongano",
       "type": "adm3",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 61036,
-      "name": "اسکوینزانو",
+      "name": "سکوینتزانو",
       "name_default": "Squinzano",
       "native": "Squinzano",
       "type": "adm3",
@@ -1913,7 +1913,7 @@
       "id": 61103,
       "name": "استرودا",
       "name_default": "Strudà",
-      "native": "Per andare a piedi",
+      "native": "Strudà",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 61489,
-      "name": "ترپوزی",
+      "name": "ترپوتسی",
       "name_default": "Trepuzzi",
       "native": "Trepuzzi",
       "type": "adm3",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 61519,
-      "name": "تری‌کیس",
+      "name": "تریکازه",
       "name_default": "Tricase",
       "native": "Tricase",
       "type": "adm3",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 61566,
-      "name": "توگلی",
+      "name": "تولیه",
       "name_default": "Tuglie",
       "native": "Tuglie",
       "type": "adm3",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 61591,
-      "name": "اوجیانو لا کیزا",
+      "name": "اوجیانو لا کیسا",
       "name_default": "Uggiano la Chiesa",
       "native": "Uggiano la Chiesa",
       "type": "adm3",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 61858,
-      "name": "ورنول",
+      "name": "ورنل",
       "name_default": "Vernole",
       "native": "Vernole",
       "type": "adm3",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 62269,
-      "name": "زولینو",
+      "name": "تزولینو",
       "name_default": "Zollino",
       "native": "Zollino",
       "type": "adm3",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48322,
-      "name": "アックスブリッジ",
+      "name": "アクスブリッジ",
       "name_default": "Axbridge",
       "native": "Axbridge",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48939,
-      "name": "チェダーチーズ",
+      "name": "チェダー",
       "name_default": "Cheddar",
       "native": "Cheddar",
       "type": "city",
@@ -255,9 +255,9 @@
     },
     {
       "id": 49155,
-      "name": "クルーカーン",
+      "name": "クリューカーン",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 49212,
-      "name": "カレー・リベル",
+      "name": "カリー・ライヴェル",
       "name_default": "Curry Rivel",
       "native": "Curry Rivel",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 49614,
-      "name": "フロム",
+      "name": "フルーム",
       "name_default": "Frome",
       "native": "Frome",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "ホニトン",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "ハントスピル",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -455,7 +437,7 @@
       "id": 50044,
       "name": "イルミンスター",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +453,7 @@
     },
     {
       "id": 50246,
-      "name": "ランポート",
+      "name": "ラングポート",
       "name_default": "Langport",
       "native": "Langport",
       "type": "city",
@@ -579,7 +561,7 @@
     },
     {
       "id": 50761,
-      "name": "ノース・ペザートン",
+      "name": "北ペザートン",
       "name_default": "North Petherton",
       "native": "North Petherton",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "通り",
+      "name": "ストリート",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -741,7 +723,7 @@
     },
     {
       "id": 51571,
-      "name": "テンプルコム",
+      "name": "テンプルクーム",
       "name_default": "Templecombe",
       "native": "Templecombe",
       "type": "city",
@@ -759,7 +741,7 @@
     },
     {
       "id": 51765,
-      "name": "ウォッチット",
+      "name": "ウォチェット",
       "name_default": "Watchet",
       "native": "Watchet",
       "type": "city",
@@ -813,7 +795,7 @@
     },
     {
       "id": 51812,
-      "name": "ウェストコーカー",
+      "name": "西コ―カー",
       "name_default": "West Coker",
       "native": "West Coker",
       "type": "city",
@@ -885,7 +867,7 @@
     },
     {
       "id": 51951,
-      "name": "ウィヴェリスコム",
+      "name": "ウィベリスクーム",
       "name_default": "Wiveliscombe",
       "native": "Wiveliscombe",
       "type": "city",

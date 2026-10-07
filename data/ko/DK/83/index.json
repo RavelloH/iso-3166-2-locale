@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 30573,
-      "name": "아벤라",
+      "name": "오벤로",
       "name_default": "Aabenraa",
       "native": "Aabenraa",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 30998,
-      "name": "에뢰스코빙",
+      "name": "에뢰스쾨빙",
       "name_default": "Ærøskøbing",
       "native": "Ærøskøbing",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 30593,
-      "name": "빌룬드",
+      "name": "빌룬",
       "name_default": "Billund",
       "native": "Billund",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 30617,
-      "name": "크리스티안스펠트",
+      "name": "크리스티안스펠",
       "name_default": "Christiansfeld",
       "native": "Christiansfeld",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 30634,
-      "name": "파보르그",
+      "name": "포보르",
       "name_default": "Faaborg",
       "native": "Faaborg",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 30668,
-      "name": "주다",
+      "name": "Give",
       "name_default": "Give",
       "native": "Give",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 30680,
-      "name": "그라스텐",
+      "name": "그로스텐",
       "name_default": "Gråsten",
       "native": "Gråsten",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 30733,
-      "name": "하르비",
+      "name": "호르뷔",
       "name_default": "Haarby",
       "native": "Hårby",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 30748,
-      "name": "젤링",
+      "name": "옐링",
       "name_default": "Jelling",
       "native": "Jelling",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 30756,
-      "name": "케르테민데",
+      "name": "케르테미네",
       "name_default": "Kerteminde",
       "native": "Kerteminde",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 30763,
-      "name": "콜딩",
+      "name": "콜링",
       "name_default": "Kolding",
       "native": "Kolding",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 30815,
-      "name": "니보르그",
+      "name": "뉘보르",
       "name_default": "Nyborg",
       "native": "Nyborg",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 30816,
-      "name": "니보르그 코무네",
+      "name": "뉘보르시",
       "name_default": "Nyborg Kommune",
       "native": "Nyborg Kommune",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 30830,
-      "name": "오덴세 코무네",
+      "name": "오덴세시",
       "name_default": "Odense Kommune",
       "native": "Odense Kommune",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 30834,
-      "name": "오터럽",
+      "name": "오테루프",
       "name_default": "Otterup",
       "native": "Otterup",
       "type": "city",
@@ -1337,7 +1337,7 @@
       "id": 30841,
       "name": "리베",
       "name_default": "Ribe",
-      "native": "Fisk",
+      "native": "Ribe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1427,7 +1427,7 @@
       "id": 30866,
       "name": "세덴",
       "name_default": "Seden",
-      "native": "Skikken",
+      "native": "Seden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1445,7 +1445,7 @@
       "id": 30870,
       "name": "스카에르바에크",
       "name_default": "Skaerbaek",
-      "native": "Shauled",
+      "native": "Skaerbaek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 30927,
-      "name": "쇤더보리",
+      "name": "쇠네르보르",
       "name_default": "Sønderborg",
       "native": "Sønderborg",
       "type": "adm2",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 30918,
-      "name": "스벤보르그",
+      "name": "스벤보르",
       "name_default": "Svendborg",
       "native": "Svendborg",
       "type": "adm2",
@@ -1661,7 +1661,7 @@
       "id": 30935,
       "name": "Thurø By",
       "name_default": "Thurø By",
-      "native": "Thurø af",
+      "native": "Thurø By",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 30950,
-      "name": "톤더",
+      "name": "퇴네르",
       "name_default": "Tønder",
       "native": "Tønder",
       "type": "adm2",

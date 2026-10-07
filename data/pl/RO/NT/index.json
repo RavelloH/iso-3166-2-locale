@@ -95,7 +95,7 @@
       "id": 90026,
       "name": "Bahna",
       "name_default": "Bahna",
-      "native": "Noroi",
+      "native": "Bahna",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 90527,
-      "name": "Bălţăteşti",
+      "name": "Bălțătești",
       "name_default": "Bălţăteşti",
       "native": "Bălţăteşti",
       "type": "adm2",
@@ -147,9 +147,9 @@
     },
     {
       "id": 90445,
-      "name": "Bara",
+      "name": "Bâra",
       "name_default": "Bâra",
-      "native": "BÂRA BÂRA",
+      "native": "Bâra",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 90543,
-      "name": "Bărcăneşti",
+      "name": "Bărcănești",
       "name_default": "Bărcăneşti",
       "native": "Bărcăneşti",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 90151,
-      "name": "Bystrzyca",
+      "name": "Bistrița",
       "name_default": "Bistrița",
       "native": "Bistrița",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 90180,
-      "name": "Bodeşti",
+      "name": "Bodești",
       "name_default": "Bodeşti",
       "native": "Bodeşti",
       "type": "city",
@@ -365,7 +365,7 @@
       "id": 90220,
       "name": "Borca",
       "name_default": "Borca",
-      "native": "Un luptător",
+      "native": "Borca",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 90228,
-      "name": "Borleşti",
+      "name": "Borlești",
       "name_default": "Borleşti",
       "native": "Borleşti",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 93807,
-      "name": "Cândeşti",
+      "name": "Cândești",
       "name_default": "Cândeşti",
       "native": "Cândeşti",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 90667,
-      "name": "Chili",
+      "name": "Chilii",
       "name_default": "Chilii",
       "native": "Chilii",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 90829,
-      "name": "Gmina Agapia",
+      "name": "Comuna Agapia",
       "name_default": "Comuna Agapia",
       "native": "Comuna Agapia",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 90847,
-      "name": "Comuna Alexandru Cel Bun",
+      "name": "Alexandru cel Bun",
       "name_default": "Comuna Alexandru Cel Bun",
       "native": "Comuna Alexandru Cel Bun",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 91031,
-      "name": "Gmina Boghicea",
+      "name": "Comuna Boghicea",
       "name_default": "Comuna Boghicea",
       "native": "Comuna Boghicea",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 91045,
-      "name": "Gmina Borca",
+      "name": "Comuna Borca",
       "name_default": "Comuna Borca",
       "native": "Comuna Borca",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 91432,
-      "name": "Gmina Cordun",
+      "name": "Comuna Cordun",
       "name_default": "Comuna Cordun",
       "native": "Comuna Cordun",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 91735,
-      "name": "Gmina Dămuc",
+      "name": "Comuna Dămuc",
       "name_default": "Comuna Dămuc",
       "native": "Comuna Dămuc",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 91872,
-      "name": "Gmina Girov",
+      "name": "Comuna Girov",
       "name_default": "Comuna Girov",
       "native": "Comuna Girov",
       "type": "city",
@@ -1589,7 +1589,7 @@
       "id": 92862,
       "name": "Comuna Sagna",
       "name_default": "Comuna Sagna",
-      "native": "Sagna comună",
+      "native": "Comuna Sagna",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 93623,
-      "name": "Kordun",
+      "name": "Cordun",
       "name_default": "Cordun",
       "native": "Cordun",
       "type": "adm2",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 93668,
-      "name": "Costişa",
+      "name": "Costișa",
       "name_default": "Costişa",
       "native": "Costişa",
       "type": "adm2",
@@ -2019,9 +2019,9 @@
     },
     {
       "id": 93781,
-      "name": "Cięcie",
+      "name": "Cut",
       "name_default": "Cut",
-      "native": "Tăiat",
+      "native": "Cut",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2037,9 +2037,9 @@
     },
     {
       "id": 94121,
-      "name": "Damuc",
+      "name": "Dămuc",
       "name_default": "Dămuc",
-      "native": "Tiran",
+      "native": "Dămuc",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2093,7 +2093,7 @@
       "id": 93976,
       "name": "Dodeni",
       "name_default": "Dodeni",
-      "native": "Deprimat",
+      "native": "Dodeni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 93987,
-      "name": "Doljeşti",
+      "name": "Doljești",
       "name_default": "Doljeşti",
       "native": "Doljeşti",
       "type": "adm2",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 94015,
-      "name": "Dragomireşti",
+      "name": "Dragomirești",
       "name_default": "Dragomireşti",
       "native": "Dragomireşti",
       "type": "adm2",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 94073,
-      "name": "Dulceşti",
+      "name": "Dulcești",
       "name_default": "Dulceşti",
       "native": "Dulceşti",
       "type": "adm2",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 94080,
-      "name": "Dumbledore",
+      "name": "Dumbrava",
       "name_default": "Dumbrava",
       "native": "Dumbrava",
       "type": "city",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 94081,
-      "name": "Dumbrava Roşie",
+      "name": "Dumbrava Roșie",
       "name_default": "Dumbrava Roşie",
       "native": "Dumbrava Roşie",
       "type": "adm2",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": 94260,
-      "name": "Fărcaşa",
+      "name": "Farcașa",
       "name_default": "Fărcaşa",
       "native": "Fărcaşa",
       "type": "adm2",
@@ -2289,7 +2289,7 @@
     },
     {
       "id": 94476,
-      "name": "Gâdinţi",
+      "name": "Gâdinți",
       "name_default": "Gâdinţi",
       "native": "Gâdinţi",
       "type": "adm2",
@@ -2307,7 +2307,7 @@
     },
     {
       "id": 94487,
-      "name": "Garcina",
+      "name": "Gârcina",
       "name_default": "Gârcina",
       "native": "Gârcina",
       "type": "adm2",
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 94312,
-      "name": "Gherăeşti",
+      "name": "Gherăești",
       "name_default": "Gherăeşti",
       "native": "Gherăeşti",
       "type": "adm2",
@@ -2363,7 +2363,7 @@
       "id": 94348,
       "name": "Girov",
       "name_default": "Girov",
-      "native": "Gaj",
+      "native": "Girov",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 94414,
-      "name": "Grinţieş",
+      "name": "Grințieș",
       "name_default": "Grinţieş",
       "native": "Grinţieş",
       "type": "adm2",
@@ -2415,7 +2415,7 @@
     },
     {
       "id": 94431,
-      "name": "Grumăzeşti",
+      "name": "Grumăzești",
       "name_default": "Grumăzeşti",
       "native": "Grumăzeşti",
       "type": "adm2",
@@ -2435,7 +2435,7 @@
       "id": 94522,
       "name": "Hangu",
       "name_default": "Hangu",
-      "native": "El este",
+      "native": "Hangu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 94637,
-      "name": "Icuseşti",
+      "name": "Icușești",
       "name_default": "Icuseşti",
       "native": "Icuseşti",
       "type": "adm2",
@@ -2667,7 +2667,7 @@
     },
     {
       "id": 95066,
-      "name": "Mołdawski",
+      "name": "Moldoveni",
       "name_default": "Moldoveni",
       "native": "Moldoveni",
       "type": "adm2",
@@ -2703,7 +2703,7 @@
     },
     {
       "id": 95172,
-      "name": "Municypiul Roman",
+      "name": "Municipiul Roman",
       "name_default": "Municipiul Roman",
       "native": "Municipiul Roman",
       "type": "adm2",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 95441,
-      "name": "Onicenowie",
+      "name": "Oniceni",
       "name_default": "Oniceni",
       "native": "Onice",
       "type": "adm2",
@@ -2883,7 +2883,7 @@
     },
     {
       "id": 95993,
-      "name": "Pânceşti",
+      "name": "Pâncești",
       "name_default": "Pânceşti",
       "native": "Pânceşti",
       "type": "adm2",
@@ -2919,7 +2919,7 @@
     },
     {
       "id": 95995,
-      "name": "Pângăraţi",
+      "name": "Pângărați",
       "name_default": "Pângăraţi",
       "native": "Pângăraţi",
       "type": "city",
@@ -2991,7 +2991,7 @@
     },
     {
       "id": 95773,
-      "name": "Piatra Şoimului",
+      "name": "Piatra Șoimului",
       "name_default": "Piatra Şoimului",
       "native": "Piatra Şoimului",
       "type": "adm2",
@@ -3137,7 +3137,7 @@
       "id": 95900,
       "name": "Poloboc",
       "name_default": "Poloboc",
-      "native": "Pantof",
+      "native": "Poloboc",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3153,7 +3153,7 @@
     },
     {
       "id": 96193,
-      "name": "Radeni",
+      "name": "Rădeni",
       "name_default": "Rădeni",
       "native": "Rădeni",
       "type": "city",
@@ -3171,7 +3171,7 @@
     },
     {
       "id": 96211,
-      "name": "Răuceşti",
+      "name": "Răucești",
       "name_default": "Răuceşti",
       "native": "Răuceşti",
       "type": "adm2",
@@ -3225,7 +3225,7 @@
     },
     {
       "id": 96105,
-      "name": "rzymski",
+      "name": "Roman",
       "name_default": "Roman",
       "native": "român",
       "type": "adm2",
@@ -3317,7 +3317,7 @@
       "id": 96161,
       "name": "Ruseni",
       "name_default": "Ruseni",
-      "native": "Interferență",
+      "native": "Ruseni",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3351,9 +3351,9 @@
     },
     {
       "id": 96219,
-      "name": "Sabaza",
+      "name": "Sabasa",
       "name_default": "Sabasa",
-      "native": "Ura",
+      "native": "Sabasa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3371,7 +3371,7 @@
       "id": 96228,
       "name": "Sagna",
       "name_default": "Sagna",
-      "native": "Poveste",
+      "native": "Sagna",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3387,7 +3387,7 @@
     },
     {
       "id": 106047,
-      "name": "Săvineşti",
+      "name": "Săvinești",
       "name_default": "Săvineşti",
       "native": "Săvineşti",
       "type": "adm2",
@@ -3459,7 +3459,7 @@
     },
     {
       "id": 96471,
-      "name": "Stanca",
+      "name": "Stânca",
       "name_default": "Stânca",
       "native": "Stânca",
       "type": "city",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 96482,
-      "name": "Stăniţa",
+      "name": "Stănița",
       "name_default": "Stăniţa",
       "native": "Stăniţa",
       "type": "adm2",
@@ -3495,7 +3495,7 @@
     },
     {
       "id": 97080,
-      "name": "Ştefan cel Mare",
+      "name": "Ștefan cel Mare",
       "name_default": "Ştefan cel Mare",
       "native": "Ştefan cel Mare",
       "type": "adm2",
@@ -3531,7 +3531,7 @@
     },
     {
       "id": 96607,
-      "name": "Tămăşeni",
+      "name": "Tămășeni",
       "name_default": "Tămăşeni",
       "native": "Tămăşeni",
       "type": "adm2",
@@ -3567,7 +3567,7 @@
     },
     {
       "id": 96586,
-      "name": "Targu Neamţ",
+      "name": "Târgu Neamţ",
       "name_default": "Târgu Neamţ",
       "native": "Târgu Neamţ",
       "type": "adm2",
@@ -3585,9 +3585,9 @@
     },
     {
       "id": 106065,
-      "name": "Taşca",
+      "name": "Tașca",
       "name_default": "Taşca",
-      "native": "Piatră",
+      "native": "Taşca",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 97102,
-      "name": "Ţibucani",
+      "name": "Țibucani",
       "name_default": "Ţibucani",
       "native": "Ţibucani",
       "type": "adm2",
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 106101,
-      "name": "Timişeşti",
+      "name": "Timișești",
       "name_default": "Timişeşti",
       "native": "Timişeşti",
       "type": "adm2",
@@ -3729,7 +3729,7 @@
     },
     {
       "id": 106155,
-      "name": "Trifeşti",
+      "name": "Trifești",
       "name_default": "Trifeşti",
       "native": "Trifeşti",
       "type": "adm2",
@@ -3747,7 +3747,7 @@
     },
     {
       "id": 96550,
-      "name": "Tupilaţi",
+      "name": "Tupilați",
       "name_default": "Tupilaţi",
       "native": "Tupilaţi",
       "type": "adm2",
@@ -3855,7 +3855,7 @@
     },
     {
       "id": 96960,
-      "name": "Valeni",
+      "name": "Văleni",
       "name_default": "Văleni",
       "native": "Văleni",
       "type": "section",
@@ -3873,7 +3873,7 @@
     },
     {
       "id": 96933,
-      "name": "Vânători-Neamţ",
+      "name": "Vânători-Neamț",
       "name_default": "Vânători-Neamţ",
       "native": "Vânători-Neamţ",
       "type": "city",
@@ -3891,7 +3891,7 @@
     },
     {
       "id": 96818,
-      "name": "Viişoara",
+      "name": "Viișoara",
       "name_default": "Viişoara",
       "native": "Viişoara",
       "type": "city",
@@ -3909,7 +3909,7 @@
     },
     {
       "id": 97011,
-      "name": "Zăneşti",
+      "name": "Zănești",
       "name_default": "Zăneşti",
       "native": "Zăneşti",
       "type": "adm2",

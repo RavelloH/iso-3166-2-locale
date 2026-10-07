@@ -75,7 +75,7 @@
     },
     {
       "id": 157,
-      "name": "Baškija Divjaka",
+      "name": "Bashkia Divjakë",
       "name_default": "Bashkia Divjakë",
       "native": "Bashkia Divjakë",
       "type": "municipality",
@@ -93,7 +93,7 @@
     },
     {
       "id": 160,
-      "name": "Baškija Fier",
+      "name": "Bashkia Fier",
       "name_default": "Bashkia Fier",
       "native": "Bashkia Fier",
       "type": "municipality",
@@ -111,7 +111,7 @@
     },
     {
       "id": 174,
-      "name": "Baškija Mallakaster",
+      "name": "Bashkia Mallakastër",
       "name_default": "Bashkia Mallakastër",
       "native": "Bashkia Mallakastër",
       "type": "municipality",
@@ -129,7 +129,7 @@
     },
     {
       "id": 179,
-      "name": "Baškija Patos",
+      "name": "Bashkia Patos",
       "name_default": "Bashkia Patos",
       "native": "Bashkia Patos",
       "type": "municipality",
@@ -147,7 +147,7 @@
     },
     {
       "id": 196,
-      "name": "Divjaka",
+      "name": "Divjakë",
       "name_default": "Divjakë",
       "native": "Divjakë",
       "type": "adm3",
@@ -165,9 +165,9 @@
     },
     {
       "id": 200,
-      "name": "Fijer",
+      "name": "Fieri",
       "name_default": "Fier",
-      "native": "Hekuros",
+      "native": "Fier",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -183,9 +183,9 @@
     },
     {
       "id": 201,
-      "name": "Fier-Čifči",
+      "name": "Fier-Çifçi",
       "name_default": "Fier-Çifçi",
-      "native": "Përtypje e egër",
+      "native": "Fier-Çifçi",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -239,7 +239,7 @@
       "id": 234,
       "name": "Patos",
       "name_default": "Patos",
-      "native": "Rosat",
+      "native": "Patos",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 254,
-      "name": "Rrethi u Mallakastresu",
+      "name": "Rrethi i Mallakastrës",
       "name_default": "Rrethi i Mallakastrës",
       "native": "Rrethi i Mallakastrës",
       "type": "city",

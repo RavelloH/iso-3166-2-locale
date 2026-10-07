@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Estación Coahuila",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 70599,
-      "name": "Guadalupe Victoria",
+      "name": "Ciudad Guadalupe Victoria",
       "name_default": "Ciudad Guadalupe Victoria",
       "native": "Guadalupe Victoria",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 69339,
-      "name": "Nova kolonija Era",
+      "name": "Colonia Nueva Era",
       "name_default": "Colonia Nueva Era",
       "native": "Colonia Nueva Era",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Doktor Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Ejido doktor Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 70449,
-      "name": "Frakcija doline",
+      "name": "Fraccionamiento del Valle",
       "name_default": "Fraccionamiento del Valle",
       "native": "Fraccionamiento del Valle",
       "type": "city",
@@ -937,24 +937,6 @@
       "longitude": "-116.56863000",
       "timezone": "America/Tijuana",
       "wikiDataId": "Q49961176",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
-      "id": 70633,
-      "name": "Crni geralski vojak",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCN",
       "state_id": 3457,
@@ -1070,9 +1052,9 @@
     },
     {
       "id": 73165,
-      "name": "Rumorosa",
+      "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1322,7 +1304,7 @@
     },
     {
       "id": 72815,
-      "name": "Plaže Rosarito",
+      "name": "Playas de Rosarito",
       "name_default": "Playas de Rosarito",
       "native": "Playas de Rosarito",
       "type": "municipality",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "Portici San Antonija",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1466,7 +1448,7 @@
     },
     {
       "id": 73035,
-      "name": "Kvinta del Cedro",
+      "name": "Quinta del Cedro",
       "name_default": "Quinta del Cedro",
       "native": "Quinta del Cedro",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "Santa Fe",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tecolots",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",
@@ -1790,7 +1772,7 @@
     },
     {
       "id": 76072,
-      "name": "Vila del Campo",
+      "name": "Villa del Campo",
       "name_default": "Villa del Campo",
       "native": "Villa del Campo",
       "type": "city",
@@ -1808,7 +1790,7 @@
     },
     {
       "id": 76074,
-      "name": "Villa del Prado, 2. dio",
+      "name": "Villa del Prado 2da Sección",
       "name_default": "Villa del Prado 2da Sección",
       "native": "Villa del Prado 2da Sección",
       "type": "city",

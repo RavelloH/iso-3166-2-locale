@@ -59,7 +59,7 @@
       "id": 79959,
       "name": "Alanje",
       "name_default": "Alanje",
-      "native": "Celoso",
+      "native": "Alanje",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 79985,
-      "name": "Wijk Guadalupe",
+      "name": "Barrio Guadalupe",
       "name_default": "Barrio Guadalupe",
       "native": "Barrio guadalupe",
       "type": "city",
@@ -185,7 +185,7 @@
       "id": 79992,
       "name": "Bijagual",
       "name_default": "Bijagual",
-      "native": "Biblagüe",
+      "native": "Bijagual",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 80003,
       "name": "Boquete",
       "name_default": "Boquete",
-      "native": "Mamada",
+      "native": "Boquete",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 80052,
-      "name": "Oude heuvel",
+      "name": "Cerro Viejo",
       "name_default": "Cerro Viejo",
       "native": "Cerro Viejo",
       "type": "adm3",
@@ -510,7 +510,7 @@
       "name": "Distrito de Alanje",
       "name_default": "Distrito de Alanje",
       "native": "Distrito de Alanje",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16508,
@@ -543,7 +543,7 @@
     },
     {
       "id": 80093,
-      "name": "Distrito de Boquerón",
+      "name": "Boquerón",
       "name_default": "Distrito de Boquerón",
       "native": "Distrito de Boquerón",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80148,
-      "name": "Dolega-district",
+      "name": "Dolega",
       "name_default": "Dolega",
       "native": "Distrito dolega",
       "type": "district",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80247,
-      "name": "De conceptie",
+      "name": "La Concepción",
       "name_default": "La Concepción",
       "native": "La Concepción",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 80252,
-      "name": "De Esperanza",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "La Esperanza",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80254,
-      "name": "De Ster",
+      "name": "La Estrella",
       "name_default": "La Estrella",
       "native": "La Estrella",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80343,
-      "name": "Los Angeles",
+      "name": "Los Ángeles",
       "name_default": "Los Ángeles",
       "native": "Los Ángeles",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80378,
-      "name": "Nieuw San Carlitos",
+      "name": "Nuevo San Carlitos",
       "name_default": "Nuevo San Carlitos",
       "native": "Nuevo San Carlitos",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 80393,
-      "name": "Palmira Centrum",
+      "name": "Palmira Centro",
       "name_default": "Palmira Centro",
       "native": "Centro de Palmira",
       "type": "adm3",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 80428,
-      "name": "Vooruitgang",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 80430,
-      "name": "Oud dorp",
+      "name": "Pueblo Viejo",
       "name_default": "Pueblo Viejo",
       "native": "Pueblo Viejo",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 80450,
-      "name": "Vijftien",
+      "name": "Quinteño",
       "name_default": "Quinteño",
       "native": "Quinteño",
       "type": "city",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 80478,
-      "name": "San Felix",
+      "name": "San Félix",
       "name_default": "San Félix",
       "native": "San Félix",
       "type": "adm3",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 80550,
-      "name": "Vulkaan",
+      "name": "Volcán",
       "name_default": "Volcán",
       "native": "Volcán",
       "type": "adm3",

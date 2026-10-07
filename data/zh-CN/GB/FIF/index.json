@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48171,
-      "name": "阿伯杜尔",
+      "name": "霍克克雷格",
       "name_default": "Aberdour",
       "native": "Aberdour",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48258,
-      "name": "安斯特拉瑟",
+      "name": "安斯特鲁瑟",
       "name_default": "Anstruther",
       "native": "Anstruther",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48314,
-      "name": "奥赫特穆蒂",
+      "name": "奥赫特马赫蒂",
       "name_default": "Auchtermuchty",
       "native": "Auchtermuchty",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48348,
-      "name": "巴林格里",
+      "name": "巴林格瑞",
       "name_default": "Ballingry",
       "native": "Ballingry",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48780,
-      "name": "伯恩蒂斯兰",
+      "name": "本泰兰",
       "name_default": "Burntisland",
       "native": "Burntisland",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 48853,
       "name": "卡登登",
       "name_default": "Cardenden",
-      "native": "Parryen",
+      "native": "Cardenden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 49130,
       "name": "考登比斯",
       "name_default": "Cowdenbeath",
-      "native": "Cowdenibene",
+      "native": "Cowdenbeath",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 49176,
-      "name": "克罗斯盖茨",
+      "name": "十字门",
       "name_default": "Crossgates",
       "native": "Crossgates",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 49209,
-      "name": "库珀",
+      "name": "库帕",
       "name_default": "Cupar",
       "native": "Cupar",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 49221,
-      "name": "达尔吉蒂湾",
+      "name": "达尔盖蒂",
       "name_default": "Dalgety Bay",
       "native": "Dalgety Bay",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 49413,
-      "name": "东威姆斯",
+      "name": "East Wemyss",
       "name_default": "East Wemyss",
       "native": "East Wemyss",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 49607,
-      "name": "弗鲁奇",
+      "name": "弗里奇",
       "name_default": "Freuchie",
       "native": "Freuchie",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 49660,
-      "name": "格伦罗西斯",
+      "name": "格兰罗斯",
       "name_default": "Glenrothes",
       "native": "Glenrothes",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 49931,
-      "name": "高谷地",
+      "name": "High Valleyfield",
       "name_default": "High Valleyfield",
       "native": "High Valleyfield",
       "type": "city",
@@ -489,9 +489,9 @@
     },
     {
       "id": 50062,
-      "name": "因弗基辛",
+      "name": "因夫奇辛",
       "name_default": "Inverkeithing",
-      "native": "Influence",
+      "native": "Inverkeithing",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -507,9 +507,9 @@
     },
     {
       "id": 50110,
-      "name": "凯尔蒂",
+      "name": "科蒂",
       "name_default": "Kelty",
-      "native": "Celts",
+      "native": "Kelty",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -525,7 +525,7 @@
     },
     {
       "id": 50121,
-      "name": "肯诺威",
+      "name": "肯威",
       "name_default": "Kennoway",
       "native": "Kennoway",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 50159,
-      "name": "金卡丁",
+      "name": "金卡丁镇",
       "name_default": "Kincardine",
       "native": "Kincardine",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 50163,
-      "name": "金霍恩",
+      "name": "白地古",
       "name_default": "Kinghorn",
       "native": "Kinghorn",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 50164,
-      "name": "金格拉西",
+      "name": "金拉西",
       "name_default": "Kinglassie",
       "native": "Kinglassie",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 50173,
-      "name": "金壶",
+      "name": "金斯凯特",
       "name_default": "Kingskettle",
       "native": "Kingskettle",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 50202,
-      "name": "柯卡迪",
+      "name": "柯科迪",
       "name_default": "Kirkcaldy",
       "native": "Kirkcaldy",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 50226,
-      "name": "莱迪班克",
+      "name": "淑女岸",
       "name_default": "Ladybank",
       "native": "Ladybank",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 50285,
-      "name": "莱斯利",
+      "name": "里斯莱",
       "name_default": "Leslie",
       "native": "Leslie",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 50291,
-      "name": "卢查斯",
+      "name": "卢查尔",
       "name_default": "Leuchars",
       "native": "Leuchars",
       "type": "city",
@@ -687,9 +687,9 @@
     },
     {
       "id": 50292,
-      "name": "利文",
+      "name": "里文",
       "name_default": "Leven",
-      "native": "To live",
+      "native": "Leven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 50377,
-      "name": "洛赫格利",
+      "name": "洛克盖雷",
       "name_default": "Lochgelly",
       "native": "Lochgelly",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 50507,
-      "name": "马克金奇",
+      "name": "马尔金奇",
       "name_default": "Markinch",
       "native": "Markinch",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 50558,
-      "name": "甲基",
+      "name": "梅蒂尔",
       "name_default": "Methil",
       "native": "Methil",
       "type": "city",
@@ -869,7 +869,7 @@
       "id": 50921,
       "name": "皮特恩威姆",
       "name_default": "Pittenweem",
-      "native": "Pittiness week",
+      "native": "Pittenweem",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -887,7 +887,7 @@
       "id": 51114,
       "name": "罗塞斯",
       "name_default": "Rosyth",
-      "native": "Rosy",
+      "native": "Rosyth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -923,7 +923,7 @@
       "id": 51173,
       "name": "圣莫南斯",
       "name_default": "Saint Monans",
-      "native": "Saint mon year",
+      "native": "Saint Monans",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -939,7 +939,7 @@
     },
     {
       "id": 51183,
-      "name": "盐水",
+      "name": "萨莱",
       "name_default": "Saline",
       "native": "Saline",
       "type": "city",

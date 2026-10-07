@@ -59,7 +59,7 @@
       "id": 90024,
       "name": "Bacova",
       "name_default": "Bacova",
-      "native": "BAC",
+      "native": "Bacova",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 90056,
       "name": "Bara",
       "name_default": "Bara",
-      "native": "Numai",
+      "native": "Bara",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -221,7 +221,7 @@
       "id": 90120,
       "name": "Bethausen",
       "name_default": "Bethausen",
-      "native": "Lucruri",
+      "native": "Bethausen",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -239,7 +239,7 @@
       "id": 90137,
       "name": "Biled",
       "name_default": "Biled",
-      "native": "Proiect de lege",
+      "native": "Biled",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 90141,
       "name": "Birda",
       "name_default": "Birda",
-      "native": "Pasăre",
+      "native": "Birda",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -293,7 +293,7 @@
       "id": 90212,
       "name": "Boldur",
       "name_default": "Boldur",
-      "native": "Abundent",
+      "native": "Boldur",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 90402,
-      "name": "Bulgaruș",
+      "name": "Bulgăruș",
       "name_default": "Bulgăruș",
       "native": "Bulgăruș",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 90926,
-      "name": "Kumuniezh Balinţ",
+      "name": "Comuna Balinţ",
       "name_default": "Comuna Balinţ",
       "native": "Comuna Balinţ",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 90934,
-      "name": "Kumuniezh Banloc",
+      "name": "Comuna Banloc",
       "name_default": "Comuna Banloc",
       "native": "Comuna Banloc",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 90935,
-      "name": "Kumuniezh Bara",
+      "name": "Comuna Bara",
       "name_default": "Comuna Bara",
       "native": "Comuna Bara",
       "type": "adm2",
@@ -615,7 +615,7 @@
     },
     {
       "id": 91189,
-      "name": "Kumuniezh Bârna",
+      "name": "Comuna Bârna",
       "name_default": "Comuna Bârna",
       "native": "Comuna Bârna",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 90943,
-      "name": "Kumuniezh Beba Veche",
+      "name": "Comuna Beba Veche",
       "name_default": "Comuna Beba Veche",
       "native": "Comuna beba veche",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 90945,
-      "name": "Komuna Becicherecu Mic",
+      "name": "Comuna Becicherecu Mic",
       "name_default": "Comuna Becicherecu Mic",
       "native": "Comuna Becicherecu Mic",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 90953,
-      "name": "Kumuniezh Belinţ",
+      "name": "Comuna Belinţ",
       "name_default": "Comuna Belinţ",
       "native": "Comuna Belinţ",
       "type": "adm2",
@@ -687,9 +687,9 @@
     },
     {
       "id": 90978,
-      "name": "Kumuniezh Bethausen",
+      "name": "Comuna Bethausen",
       "name_default": "Comuna Bethausen",
-      "native": "Comuna lucruri",
+      "native": "Comuna Bethausen",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 90990,
-      "name": "Kumuniezh Biled",
+      "name": "Comuna Biled",
       "name_default": "Comuna Biled",
       "native": "Comuna Biled",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 90993,
-      "name": "Kumuniezh Birda",
+      "name": "Comuna Birda",
       "name_default": "Comuna Birda",
       "native": "Comuna Birda",
       "type": "adm2",
@@ -741,7 +741,7 @@
     },
     {
       "id": 91021,
-      "name": "Kumuniezh Bogda",
+      "name": "Comuna Bogda",
       "name_default": "Comuna Bogda",
       "native": "Comuna Bogda",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 91040,
-      "name": "Kumuniezh Boldur",
+      "name": "Comuna Boldur",
       "name_default": "Comuna Boldur",
       "native": "Comuna Boldur",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 91095,
-      "name": "Kumuniezh Brestovăţ",
+      "name": "Comuna Brestovăţ",
       "name_default": "Comuna Brestovăţ",
       "native": "Comuna Brestovăţ",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91135,
-      "name": "Kumuniezh Bucovăţ",
+      "name": "Comuna Bucovăţ",
       "name_default": "Comuna Bucovăţ",
       "native": "Comuna Bucovăţ",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 91590,
-      "name": "Kumuniezh Karpiniş",
+      "name": "Comuna Cărpiniş",
       "name_default": "Comuna Cărpiniş",
       "native": "Comuna Cărpiniş",
       "type": "adm2",
@@ -831,7 +831,7 @@
     },
     {
       "id": 91280,
-      "name": "Kenad ar Gumun",
+      "name": "Comuna Cenad",
       "name_default": "Comuna Cenad",
       "native": "Comuna Cenad",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 91282,
-      "name": "Kumuniezh Cenei",
+      "name": "Comuna Cenei",
       "name_default": "Comuna Cenei",
       "native": "Comuna Cenei",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 91310,
-      "name": "Kumun Chevereşu Mare",
+      "name": "Comuna Chevereşu Mare",
       "name_default": "Comuna Chevereşu Mare",
       "native": "Comuna Chevereşu Mare",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 91409,
-      "name": "Marc'h Kumuniezh Comloşu",
+      "name": "Comuna Comloşu Mare",
       "name_default": "Comuna Comloşu Mare",
       "native": "Comuna Comloşu Mare",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 91478,
-      "name": "Kumuniezh Coşteiu",
+      "name": "Comuna Coşteiu",
       "name_default": "Comuna Coşteiu",
       "native": "Comuna Coşteiu",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 91494,
-      "name": "Kumuniezh Criciova",
+      "name": "Comuna Criciova",
       "name_default": "Comuna Criciova",
       "native": "Comuna Criciova",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 91528,
-      "name": "Kumuniezh Curtea",
+      "name": "Comuna Curtea",
       "name_default": "Comuna Curtea",
       "native": "Comuna Curtea",
       "type": "city",
@@ -957,9 +957,9 @@
     },
     {
       "id": 91604,
-      "name": "Kumuniezh Darova",
+      "name": "Comuna Darova",
       "name_default": "Comuna Darova",
-      "native": "Cadouri Comuna",
+      "native": "Comuna Darova",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -975,7 +975,7 @@
     },
     {
       "id": 91614,
-      "name": "Kumuniezh dent",
+      "name": "Comuna Denta",
       "name_default": "Comuna Denta",
       "native": "Comuna Denta",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 91708,
-      "name": "Kumuniezh Dudeştii Vechi",
+      "name": "Comuna Dudeştii Vechi",
       "name_default": "Comuna Dudeştii Vechi",
       "native": "Comuna Dudeştii Vechi",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 91710,
-      "name": "Kumuniezh Dumbrava",
+      "name": "Comuna Dumbrava",
       "name_default": "Comuna Dumbrava",
       "native": "Comuna Dumbrava",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 91717,
-      "name": "Kumuniezh Dumbrăviţa",
+      "name": "Comuna Dumbrăviţa",
       "name_default": "Comuna Dumbrăviţa",
       "native": "Comuna Dumbrăviţa",
       "type": "adm2",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 91811,
-      "name": "Kumuniezh Fârdea",
+      "name": "Comuna Fârdea",
       "name_default": "Comuna Fârdea",
       "native": "Comuna Fârdea",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 91775,
-      "name": "Kumuniezh Foeni",
+      "name": "Comuna Foeni",
       "name_default": "Comuna Foeni",
       "native": "Comuna foeni",
       "type": "adm2",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 91834,
-      "name": "Kumuniezh Gavojdia",
+      "name": "Comuna Gavojdia",
       "name_default": "Comuna Gavojdia",
       "native": "Comuna Gavojdia",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 91854,
-      "name": "Kumuniezh Ghilad",
+      "name": "Comuna Ghilad",
       "name_default": "Comuna Ghilad",
       "native": "Comuna Ghilad",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 91863,
-      "name": "Kumuniezh Ghiroda",
+      "name": "Comuna Ghiroda",
       "name_default": "Comuna Ghiroda",
       "native": "Comuna Ghiroda",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 91864,
-      "name": "Kumuniezh Ghizela",
+      "name": "Comuna Ghizela",
       "name_default": "Comuna Ghizela",
       "native": "Comuna Ghizela",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 91865,
-      "name": "Kumuniezh Giarmata",
+      "name": "Comuna Giarmata",
       "name_default": "Comuna Giarmata",
       "native": "Comuna Giarmata",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 91866,
-      "name": "Kumuniezh Giera",
+      "name": "Comuna Giera",
       "name_default": "Comuna Giera",
       "native": "Comuna Giera",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 91871,
-      "name": "Kumuniezh Giroc",
+      "name": "Comuna Giroc",
       "name_default": "Comuna Giroc",
       "native": "Comuna Giroc",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 91875,
-      "name": "Kumuniezh Giulvăz",
+      "name": "Comuna Giulvăz",
       "name_default": "Comuna Giulvăz",
       "native": "Comuna Giulvăz",
       "type": "adm2",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 91908,
-      "name": "Kumuniezh Gotlob",
+      "name": "Comuna Gottlob",
       "name_default": "Comuna Gottlob",
       "native": "Comuna Gottlob",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 92116,
-      "name": "Kumuniezh Jebel",
+      "name": "Comuna Jebel",
       "name_default": "Comuna Jebel",
       "native": "Comuna Jebel",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 92150,
-      "name": "Kumuniezh Lenauheim",
+      "name": "Comuna Lenauheim",
       "name_default": "Comuna Lenauheim",
       "native": "Comuna lenauhim",
       "type": "adm2",
@@ -1299,9 +1299,9 @@
     },
     {
       "id": 92163,
-      "name": "Kumuniezh Liebling",
+      "name": "Comuna Liebling",
       "name_default": "Comuna Liebling",
-      "native": "Comună care se află",
+      "native": "Comuna Liebling",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 92178,
-      "name": "Kumuniezh Livezile",
+      "name": "Comuna Livezile",
       "name_default": "Comuna Livezile",
       "native": "Comuna Livezile",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 92185,
-      "name": "Kumuniezh Lovrin",
+      "name": "Comuna Lovrin",
       "name_default": "Comuna Lovrin",
       "native": "Comuna Lovrin",
       "type": "adm2",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 92404,
-      "name": "Kumuniezh Mănăştiur",
+      "name": "Comuna Mănăştiur",
       "name_default": "Comuna Mănăştiur",
       "native": "Comuna Mănăştiur",
       "type": "adm2",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 92242,
-      "name": "Kumuniezh Margina",
+      "name": "Comuna Margina",
       "name_default": "Comuna Margina",
       "native": "Comuna Margina",
       "type": "adm2",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 92249,
-      "name": "Kumuniezh Maslok",
+      "name": "Comuna Maşloc",
       "name_default": "Comuna Maşloc",
       "native": "Comuna Maşloc",
       "type": "adm2",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 92331,
-      "name": "Kumuniezh Moraviţa",
+      "name": "Comuna Moraviţa",
       "name_default": "Comuna Moraviţa",
       "native": "Comuna Moraviţa",
       "type": "adm2",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 92348,
-      "name": "Kumuniezh Moşniţa Nouã",
+      "name": "Comuna Moşniţa Nouã",
       "name_default": "Comuna Moşniţa Nouã",
       "native": "Comuna Moşniţa Nouã",
       "type": "adm2",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 92460,
-      "name": "Kumuniezh Nădrag",
+      "name": "Comuna Nădrag",
       "name_default": "Comuna Nădrag",
       "native": "Comuna Nădrag",
       "type": "adm2",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 92450,
-      "name": "Kumuniezh Niţchidorf",
+      "name": "Comuna Niţchidorf",
       "name_default": "Comuna Niţchidorf",
       "native": "Comuna Niţchidorf",
       "type": "adm2",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 92488,
-      "name": "Kumuniezh Ohaba Lungă",
+      "name": "Comuna Ohaba Lungă",
       "name_default": "Comuna Ohaba Lungă",
       "native": "Comuna Ohaba Lungă",
       "type": "adm2",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 92514,
-      "name": "Kumuniezh Orţişoara",
+      "name": "Comuna Orţişoara",
       "name_default": "Comuna Orţişoara",
       "native": "Comuna Orţişoara",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 92521,
-      "name": "Kumuniezh Otelec",
+      "name": "Comuna Otelec",
       "name_default": "Comuna Otelec",
       "native": "Comuna Otelec",
       "type": "adm2",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 92545,
-      "name": "Kumuniezh Peciu Nou",
+      "name": "Comuna Peciu Nou",
       "name_default": "Comuna Peciu Nou",
       "native": "Comuna Peciu Nou",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 92548,
-      "name": "Kumuniezh Periam",
+      "name": "Comuna Periam",
       "name_default": "Comuna Periam",
       "native": "Comuna Periam",
       "type": "adm2",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 92579,
-      "name": "Kumuniezh Pietroasa",
+      "name": "Comuna Pietroasa",
       "name_default": "Comuna Pietroasa",
       "native": "Comuna Pietroasa",
       "type": "adm2",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 92589,
-      "name": "Kumuniezh Pişchia",
+      "name": "Comuna Pişchia",
       "name_default": "Comuna Pişchia",
       "native": "Comuna Pişchia",
       "type": "city",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 92734,
-      "name": "Kumuniezh Racoviţa",
+      "name": "Comuna Racoviţa",
       "name_default": "Comuna Racoviţa",
       "native": "Comuna Racoviţa",
       "type": "adm2",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 93086,
-      "name": "Kumuniezh Săcălaz",
+      "name": "Comuna Săcălaz",
       "name_default": "Comuna Săcălaz",
       "native": "Comuna Săcălaz",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 92856,
-      "name": "Kumuniezh Sacoşu Turcesc",
+      "name": "Comuna Sacoşu Turcesc",
       "name_default": "Comuna Sacoşu Turcesc",
       "native": "Comuna Sacoşu Turcesc",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 93495,
-      "name": "Kumuniezh Şag",
+      "name": "Comuna Şag",
       "name_default": "Comuna Şag",
       "native": "Comuna Şag",
       "type": "adm2",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 93048,
-      "name": "Kumuniezh Sanandrei",
+      "name": "Comuna Sânandrei",
       "name_default": "Comuna Sânandrei",
       "native": "Comuna Sânandrei",
       "type": "adm2",
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 93498,
-      "name": "Kumuniezh Şandra",
+      "name": "Comuna Şandra",
       "name_default": "Comuna Şandra",
       "native": "Comuna Şandra",
       "type": "adm2",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 93058,
-      "name": "Kumuniezh Sânmihaiu Roman",
+      "name": "Comuna Sânmihaiu Român",
       "name_default": "Comuna Sânmihaiu Român",
       "native": "Comuna Sânmihaiu Român",
       "type": "adm2",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 93064,
-      "name": "Kumuniezh Sânpetru Mare",
+      "name": "Comuna Sânpetru Mare",
       "name_default": "Comuna Sânpetru Mare",
       "native": "Comuna Sânpetru Mare",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 92879,
-      "name": "Kumuniezh Satchinez",
+      "name": "Comuna Satchinez",
       "name_default": "Comuna Satchinez",
       "native": "Comuna Satchinez",
       "type": "adm2",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 92911,
-      "name": "Kumuniezh Secaş",
+      "name": "Comuna Secaş",
       "name_default": "Comuna Secaş",
       "native": "Comuna Secaş",
       "type": "adm2",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 93557,
-      "name": "Kumuniezh Ştiuca",
+      "name": "Comuna Ştiuca",
       "name_default": "Comuna Ştiuca",
       "native": "Comuna Ştiuca",
       "type": "adm2",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 93169,
-      "name": "Kumuniezh Tomeşti",
+      "name": "Comuna Tomeşti",
       "name_default": "Comuna Tomeşti",
       "native": "Comuna Tomeşti",
       "type": "adm2",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 93179,
-      "name": "Kumun Topolovãţu Mare",
+      "name": "Comuna Topolovãţu Mare",
       "name_default": "Comuna Topolovãţu Mare",
       "native": "Comuna Topolovãţu Mare",
       "type": "adm2",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 93182,
-      "name": "Kumuniezh Tormac",
+      "name": "Comuna Tormac",
       "name_default": "Comuna Tormac",
       "native": "Comuno tormac",
       "type": "adm2",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 93190,
-      "name": "Kumuniezh Traian Vuia",
+      "name": "Comuna Traian Vuia",
       "name_default": "Comuna Traian Vuia",
       "native": "Comuna Traian Vuia",
       "type": "adm2",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 93256,
-      "name": "Kumuniezh Uivar",
+      "name": "Comuna Uivar",
       "name_default": "Comuna Uivar",
       "native": "Comună uivar",
       "type": "adm2",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 93334,
-      "name": "Kumuniezh Variaş",
+      "name": "Comuna Variaş",
       "name_default": "Comuna Variaş",
       "native": "Comuna Variaş",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 93351,
-      "name": "Kumuniezh Victor Vlad Delamarina",
+      "name": "Comuna Victor Vlad Delamarina",
       "name_default": "Comuna Victor Vlad Delamarina",
       "native": "Comuna Victor Vlad Delamarina",
       "type": "adm2",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 93401,
-      "name": "Kumuniezh Voiteg",
+      "name": "Comuna Voiteg",
       "name_default": "Comuna Voiteg",
       "native": "Comuna Voiteg",
       "type": "city",
@@ -2039,7 +2039,7 @@
       "id": 93895,
       "name": "Darova",
       "name_default": "Darova",
-      "native": "Cadouri",
+      "native": "Darova",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2091,9 +2091,9 @@
     },
     {
       "id": 93927,
-      "name": "munudoù",
+      "name": "Deta",
       "name_default": "Deta",
-      "native": "Reflecţie",
+      "native": "Deta",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2345,7 +2345,7 @@
       "id": 94339,
       "name": "Ghizela",
       "name_default": "Ghizela",
-      "native": "Zazela",
+      "native": "Ghizela",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2561,7 +2561,7 @@
       "id": 94701,
       "name": "Izvin",
       "name_default": "Izvin",
-      "native": "Entorsă",
+      "native": "Izvin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2579,7 +2579,7 @@
       "id": 94722,
       "name": "Jamu Mare",
       "name_default": "Jamu Mare",
-      "native": "Dl",
+      "native": "Jamu Mare",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2651,7 +2651,7 @@
       "id": 94794,
       "name": "Liebling",
       "name_default": "Liebling",
-      "native": "Dragă",
+      "native": "Liebling",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 94941,
-      "name": "Masloc",
+      "name": "Maşloc",
       "name_default": "Maşloc",
       "native": "Maşloc",
       "type": "adm2",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 95151,
-      "name": "Kumun Lugoj",
+      "name": "Municipiul Lugoj",
       "name_default": "Municipiul Lugoj",
       "native": "Municipiul Lugoj",
       "type": "city",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": 95187,
-      "name": "Kumun Timişoara",
+      "name": "Municipiul Timişoara",
       "name_default": "Municipiul Timişoara",
       "native": "Municipiul Timişoara",
       "type": "adm1",
@@ -3101,7 +3101,7 @@
       "id": 95681,
       "name": "Otelec",
       "name_default": "Otelec",
-      "native": "Abuz",
+      "native": "Otelec",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3423,7 +3423,7 @@
     },
     {
       "id": 96535,
-      "name": "Sânmihaiu Roman",
+      "name": "Sânmihaiu Român",
       "name_default": "Sânmihaiu Român",
       "native": "Sânmihaiu Român",
       "type": "adm2",
@@ -3695,7 +3695,7 @@
       "id": 96642,
       "name": "Uivar",
       "name_default": "Uivar",
-      "native": "Urla",
+      "native": "Uivar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3731,7 +3731,7 @@
       "id": 96692,
       "name": "Utvin",
       "name_default": "Utvin",
-      "native": "Elimina",
+      "native": "Utvin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3803,7 +3803,7 @@
       "id": 96883,
       "name": "Voiteg",
       "name_default": "Voiteg",
-      "native": "Jurământ",
+      "native": "Voiteg",
       "type": "adm2",
       "level": null,
       "parent_id": null,

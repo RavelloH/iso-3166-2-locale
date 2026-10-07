@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28 novembre",
+      "name": "Veintiocho de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Commandant Luis Piedra Buena",
+      "name": "Comandante Luis Piedrabuena",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -188,7 +188,7 @@
     },
     {
       "id": 874,
-      "name": "Département de Deseado",
+      "name": "Departamento de Deseado",
       "name_default": "Departamento de Deseado",
       "native": "Departamento de Deseado",
       "type": "area",
@@ -206,7 +206,7 @@
     },
     {
       "id": 906,
-      "name": "Département de Güer Aike",
+      "name": "Departamento de Güer Aike",
       "name_default": "Departamento de Güer Aike",
       "native": "Departamento de Güer Aike",
       "type": "area",
@@ -224,10 +224,10 @@
     },
     {
       "id": 922,
-      "name": "Département du Lac Argentino",
+      "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -242,10 +242,10 @@
     },
     {
       "id": 935,
-      "name": "Département de Magallanes",
+      "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -260,7 +260,7 @@
     },
     {
       "id": 972,
-      "name": "Département de Río Chico",
+      "name": "Departamento de Río Chico",
       "name_default": "Departamento de Río Chico",
       "native": "Departamento de Río Chico",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Gouverneur Gregores",
+      "name": "Gobernador Gregores",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1244,
-      "name": "Les Anciens",
+      "name": "Los Antiguos",
       "name_default": "Los Antiguos",
       "native": "Los Antiguos",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 1329,
-      "name": "Pico Troncado",
+      "name": "Pico Truncado",
       "name_default": "Pico Truncado",
       "native": "Pico Truncado",
       "type": "city",
@@ -440,7 +440,7 @@
     },
     {
       "id": 1397,
-      "name": "Rivière Turbio",
+      "name": "Río Turbio",
       "name_default": "Río Turbio",
       "native": "Río Turbio",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1434,
-      "name": "San Julian",
+      "name": "San Julián",
       "name_default": "San Julián",
       "native": "San Julián",
       "type": "adm2",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31240,
-      "name": "艾因·阿尔纳特",
+      "name": "艾因阿尔纳特",
       "name_default": "Aïn Arnat",
       "native": "عين أرنات",
       "type": "city",
@@ -85,7 +85,7 @@
       "latitude": "36.48994000",
       "longitude": "5.53930000",
       "timezone": "Africa/Algiers",
-      "wikiDataId": "Q23826440",
+      "wikiDataId": null,
       "country_code": "DZ",
       "state_code": "19",
       "state_id": 1141,
@@ -111,7 +111,7 @@
     },
     {
       "id": 31333,
-      "name": "埃尔欧勒玛",
+      "name": "欧勒马",
       "name_default": "El Eulma",
       "native": "العلمة",
       "type": "city",

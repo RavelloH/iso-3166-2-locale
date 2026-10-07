@@ -147,7 +147,7 @@
     },
     {
       "id": 55217,
-      "name": "Балатонфельдвар",
+      "name": "Балатонфелдвар",
       "name_default": "Balatonföldvár",
       "native": "Balatonföldvár",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 55231,
-      "name": "Баркс",
+      "name": "Барч",
       "name_default": "Barcs",
       "native": "Barcs",
       "type": "adm2",
@@ -599,7 +599,7 @@
       "id": 55893,
       "name": "Сегесд",
       "name_default": "Segesd",
-      "native": "Szegély",
+      "native": "Segesd",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,9 +669,9 @@
     },
     {
       "id": 56001,
-      "name": "Вкладка",
+      "name": "Tab",
       "name_default": "Tab",
-      "native": "Füllemez",
+      "native": "Tab",
       "type": "adm2",
       "level": null,
       "parent_id": null,

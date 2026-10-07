@@ -75,7 +75,7 @@
     },
     {
       "id": 1963,
-      "name": "Favoris",
+      "name": "Favoriten",
       "name_default": "Favoriten",
       "native": "Favoriten",
       "type": "section",
@@ -113,7 +113,7 @@
       "id": 2272,
       "name": "Hernals",
       "name_default": "Hernals",
-      "native": "Hernalen",
+      "native": "Hernals",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 2356,
-      "name": "Centre-ville",
+      "name": "Innere Stadt",
       "name_default": "Innere Stadt",
       "native": "Innere Stadt",
       "type": "section",
@@ -201,9 +201,9 @@
     },
     {
       "id": 3461,
-      "name": "Mijoter",
+      "name": "Simmering",
       "name_default": "Simmering",
-      "native": "Köcheln lassen",
+      "native": "Simmering",
       "type": "section",
       "level": null,
       "parent_id": null,

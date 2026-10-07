@@ -296,7 +296,7 @@
     },
     {
       "id": 69172,
-      "name": "莫雷洛斯城",
+      "name": "Ciudad Morelos",
       "name_default": "Ciudad Morelos",
       "native": "Ciudad Morelos",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 69339,
-      "name": "新殖民时代",
+      "name": "Colonia Nueva Era",
       "name_default": "Colonia Nueva Era",
       "native": "Colonia Nueva Era",
       "type": "city",
@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "格雷罗·内格罗",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "特卡特庄园",
       "name_default": "Hacienda Tecate",
@@ -1072,7 +1054,7 @@
       "id": 73165,
       "name": "鲁莫罗萨",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1160,7 +1142,7 @@
     },
     {
       "id": 71753,
-      "name": "洛马斯·德·圣塔安尼塔",
+      "name": "Lomas de Santa Anita",
       "name_default": "Lomas de Santa Anita",
       "native": "Lomas de Santa Anita",
       "type": "city",
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "新莱昂州埃希多",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "圣安东尼奥门廊",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1538,7 +1520,7 @@
     },
     {
       "id": 73164,
-      "name": "罗萨里托",
+      "name": "罗萨里多",
       "name_default": "Rosarito",
       "native": "Rosarito",
       "type": "city",
@@ -1592,7 +1574,7 @@
     },
     {
       "id": 74042,
-      "name": "圣路易斯",
+      "name": "San Luis",
       "name_default": "San Luis",
       "native": "San Luis",
       "type": "city",
@@ -1610,7 +1592,7 @@
     },
     {
       "id": 74421,
-      "name": "圣金廷",
+      "name": "San Quintín",
       "name_default": "San Quintín",
       "native": "San Quintín",
       "type": "city",
@@ -1628,7 +1610,7 @@
     },
     {
       "id": 74492,
-      "name": "圣维森特",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "city",
@@ -1646,7 +1628,7 @@
     },
     {
       "id": 74560,
-      "name": "圣塔安尼塔",
+      "name": "Santa Anita",
       "name_default": "Santa Anita",
       "native": "Santa Anita",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "圣达菲",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1682,7 +1664,7 @@
     },
     {
       "id": 74673,
-      "name": "圣伊莎贝尔",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "city",

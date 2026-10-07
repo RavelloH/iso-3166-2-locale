@@ -224,7 +224,7 @@
     },
     {
       "id": 819,
-      "name": "Başkent Departmanı",
+      "name": "Departamento Capital",
       "name_default": "Departamento Capital",
       "native": "Departamento Capital",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 828,
-      "name": "Anta Departmanı",
+      "name": "Departamento de Anta",
       "name_default": "Departamento de Anta",
       "native": "Departamento de Anta",
       "type": "area",
@@ -260,7 +260,7 @@
     },
     {
       "id": 857,
-      "name": "Cerrillos Dairesi",
+      "name": "Departamento de Cerrillos",
       "name_default": "Departamento de Cerrillos",
       "native": "Departamento de Cerrillos",
       "type": "area",
@@ -278,10 +278,10 @@
     },
     {
       "id": 858,
-      "name": "Chicoana Dairesi",
+      "name": "Departamento de Chicoana",
       "name_default": "Departamento de Chicoana",
       "native": "Departamento de Chicoana",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24729,
@@ -296,7 +296,7 @@
     },
     {
       "id": 891,
-      "name": "Genel Güemes Departmanı",
+      "name": "Departamento de General Güemes",
       "name_default": "Departamento de General Güemes",
       "native": "Departamento de General Güemes",
       "type": "area",
@@ -314,7 +314,7 @@
     },
     {
       "id": 901,
-      "name": "Guachipas Departmanı",
+      "name": "Departamento de Guachipas",
       "name_default": "Departamento de Guachipas",
       "native": "Departamento de Guachipas",
       "type": "adm2",
@@ -332,7 +332,7 @@
     },
     {
       "id": 911,
-      "name": "Departmanto de Iruya",
+      "name": "Departamento de Iruya",
       "name_default": "Departamento de Iruya",
       "native": "Departamento de Iruya",
       "type": "city",
@@ -350,7 +350,7 @@
     },
     {
       "id": 920,
-      "name": "Departman de La Poma",
+      "name": "Departamento de La Poma",
       "name_default": "Departamento de La Poma",
       "native": "Departamento de La Poma",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 921,
-      "name": "Departmanto de La Viña",
+      "name": "Departamento de La Viña",
       "name_default": "Departamento de La Viña",
       "native": "Departamento de La Viña",
       "type": "city",
@@ -386,7 +386,7 @@
     },
     {
       "id": 931,
-      "name": "Los Andes Departmanı",
+      "name": "Departamento de Los Andes",
       "name_default": "Departamento de Los Andes",
       "native": "Departamento de Los Andes",
       "type": "city",
@@ -404,10 +404,10 @@
     },
     {
       "id": 942,
-      "name": "Departmanto de Metán",
+      "name": "Departamento de Metán",
       "name_default": "Departamento de Metán",
       "native": "Departamento de Metán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 48245,
@@ -422,7 +422,7 @@
     },
     {
       "id": 968,
-      "name": "Rivadavia Dairesi",
+      "name": "Departamento de Rivadavia",
       "name_default": "Departamento de Rivadavia",
       "native": "Departamento de Rivadavia",
       "type": "area",
@@ -476,7 +476,7 @@
     },
     {
       "id": 982,
-      "name": "San Carlos Departmanı",
+      "name": "Departamento de San Carlos",
       "name_default": "Departamento de San Carlos",
       "native": "Departamento de San Carlos",
       "type": "city",
@@ -550,7 +550,7 @@
       "id": 1067,
       "name": "Embarcación",
       "name_default": "Embarcación",
-      "native": "Vergüenza",
+      "native": "Embarcación",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -584,7 +584,7 @@
     },
     {
       "id": 1101,
-      "name": "General Enrique Mosconi",
+      "name": "General Mosconi",
       "name_default": "General Mosconi",
       "native": "General Enrique Mosconi",
       "type": "city",

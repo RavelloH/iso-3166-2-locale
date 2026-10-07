@@ -170,7 +170,7 @@
     },
     {
       "id": 68596,
-      "name": "Benito Juarez",
+      "name": "Benito Juárez",
       "name_default": "Benito Juárez",
       "native": "Benito Juárez",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Stacja Coahuila",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 69172,
-      "name": "Miasto Morelos",
+      "name": "Ciudad Morelos",
       "name_default": "Ciudad Morelos",
       "native": "Ciudad Morelos",
       "type": "city",
@@ -386,7 +386,7 @@
     },
     {
       "id": 69376,
-      "name": "Kolonia Venustiano Carranza",
+      "name": "Colonia Venustiano Carranza",
       "name_default": "Colonia Venustiano Carranza",
       "native": "Colonia Venustiano Carranza",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Doktor Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Doktor Ejido Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69765,
-      "name": "Generał Ejido Leandro Valle",
+      "name": "Ejido General Leandro Valle",
       "name_default": "Ejido General Leandro Valle",
       "native": "Ejido General Leandro Valle",
       "type": "city",
@@ -764,7 +764,7 @@
     },
     {
       "id": 69800,
-      "name": "Ejido Jukatan",
+      "name": "Ejido Yucatán",
       "name_default": "Ejido Yucatán",
       "native": "Ejido Yucatán",
       "type": "city",
@@ -818,7 +818,7 @@
     },
     {
       "id": 70178,
-      "name": "Różaniec Arriba",
+      "name": "El Rosario de Arriba",
       "name_default": "El Rosario de Arriba",
       "native": "El Rosario de Arriba",
       "type": "city",
@@ -943,26 +943,8 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "Guerrero Negro",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
-      "name": "Hacjenda Tecate",
+      "name": "Hacienda Tecate",
       "name_default": "Hacienda Tecate",
       "native": "Hacienda Tecate",
       "type": "city",
@@ -998,7 +980,7 @@
     },
     {
       "id": 70888,
-      "name": "Wyspy Rolnicze Grupo A",
+      "name": "Islas Agrarias Grupo A",
       "name_default": "Islas Agrarias Grupo A",
       "native": "Islas Agrarias Grupo A",
       "type": "city",
@@ -1016,7 +998,7 @@
     },
     {
       "id": 70889,
-      "name": "Wyspy Rolnicze Grupo B",
+      "name": "Islas Agrarias Grupo B",
       "name_default": "Islas Agrarias Grupo B",
       "native": "Islas Agrarias Grupo B",
       "type": "city",
@@ -1052,7 +1034,7 @@
     },
     {
       "id": 71463,
-      "name": "Opatrzność",
+      "name": "La Providencia",
       "name_default": "La Providencia",
       "native": "La Providencia",
       "type": "city",
@@ -1070,9 +1052,9 @@
     },
     {
       "id": 73165,
-      "name": "Plotka",
+      "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1322,7 +1304,7 @@
     },
     {
       "id": 72815,
-      "name": "Plaże Rosarito",
+      "name": "Playas de Rosarito",
       "name_default": "Playas de Rosarito",
       "native": "Playas de Rosarito",
       "type": "municipality",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "Postęp",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1574,7 +1556,7 @@
     },
     {
       "id": 73510,
-      "name": "Święty Felipe",
+      "name": "San Felipe",
       "name_default": "San Felipe",
       "native": "San Felipe",
       "type": "city",
@@ -1610,7 +1592,7 @@
     },
     {
       "id": 74421,
-      "name": "Święty Kwintyd",
+      "name": "San Quintín",
       "name_default": "San Quintín",
       "native": "San Quintín",
       "type": "city",
@@ -1628,7 +1610,7 @@
     },
     {
       "id": 74492,
-      "name": "Święty Wincenty",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "city",
@@ -1646,7 +1628,7 @@
     },
     {
       "id": 74560,
-      "name": "Święta Anita",
+      "name": "Santa Anita",
       "name_default": "Santa Anita",
       "native": "Santa Anita",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "Santa Fe",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1682,7 +1664,7 @@
     },
     {
       "id": 74673,
-      "name": "Święta Izabela",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tecolots",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",
@@ -1790,7 +1772,7 @@
     },
     {
       "id": 76072,
-      "name": "Willa del Campo",
+      "name": "Villa del Campo",
       "name_default": "Villa del Campo",
       "native": "Villa del Campo",
       "type": "city",

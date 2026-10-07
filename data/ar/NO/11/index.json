@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79676,
-      "name": "أكريهامن",
+      "name": "أوكرهامن",
       "name_default": "Åkrehamn",
       "native": "Åkrehamn",
       "type": "city",
@@ -154,7 +154,7 @@
     },
     {
       "id": 79090,
-      "name": "براين",
+      "name": "برينه",
       "name_default": "Bryne",
       "native": "Bryne",
       "type": "adm2",
@@ -172,7 +172,7 @@
     },
     {
       "id": 79109,
-      "name": "إيجرسوند",
+      "name": "إغرسوند",
       "name_default": "Egersund",
       "native": "Egersund",
       "type": "adm2",
@@ -766,7 +766,7 @@
     },
     {
       "id": 79538,
-      "name": "ستافنجر",
+      "name": "ستافانغر",
       "name_default": "Stavanger",
       "native": "Stavanger",
       "type": "adm1",
@@ -840,7 +840,7 @@
       "id": 79590,
       "name": "تاو",
       "name_default": "Tau",
-      "native": "Erverve",
+      "native": "Tau",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -856,9 +856,9 @@
     },
     {
       "id": 79592,
-      "name": "وقت",
+      "name": "Time",
       "name_default": "Time",
-      "native": "Tid",
+      "native": "Time",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -876,7 +876,7 @@
       "id": 79618,
       "name": "تيسفر",
       "name_default": "Tysvær",
-      "native": "Slips",
+      "native": "Tysvær",
       "type": "adm2",
       "level": null,
       "parent_id": null,

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131039,
-      "name": "بلومهوف",
+      "name": "بلويمهوف",
       "name_default": "Bloemhof",
       "native": "Bloemhof",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 131050,
-      "name": "البريطانيون",
+      "name": "بريتس",
       "name_default": "Brits",
       "native": "Brits",
       "type": "adm3",
@@ -218,24 +218,6 @@
       "country_id": 204
     },
     {
-      "id": 131134,
-      "name": "جان كيمبدروب",
-      "name_default": "Jan Kempdorp",
-      "native": "Jan Kempdorp",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13485,
-      "latitude": "-27.92246000",
-      "longitude": "24.83051000",
-      "timezone": "Africa/Johannesburg",
-      "wikiDataId": "Q2539888",
-      "country_code": "ZA",
-      "state_code": "NW",
-      "state_id": 934,
-      "country_id": 204
-    },
-    {
       "id": 131142,
       "name": "كليركسدورب",
       "name_default": "Klerksdorp",
@@ -291,7 +273,7 @@
     },
     {
       "id": 131162,
-      "name": "ليشتنبرغ",
+      "name": "ليختنبرغ",
       "name_default": "Lichtenburg",
       "native": "Lichtenburg",
       "type": "adm3",
@@ -309,7 +291,7 @@
     },
     {
       "id": 131167,
-      "name": "ماهيكينج",
+      "name": "مافكينج",
       "name_default": "Mahikeng",
       "native": "Mahikeng",
       "type": "adm1",
@@ -417,7 +399,7 @@
     },
     {
       "id": 131209,
-      "name": "أوركني",
+      "name": "أوروكني",
       "name_default": "Orkney",
       "native": "Orkney",
       "type": "city",
@@ -471,7 +453,7 @@
     },
     {
       "id": 131247,
-      "name": "روستنبرج",
+      "name": "روستنبرغ",
       "name_default": "Rustenburg",
       "native": "Rustenburg",
       "type": "adm3",
@@ -491,7 +473,7 @@
       "id": 131250,
       "name": "شفايزر-رينيكي",
       "name_default": "Schweizer-Reneke",
-      "native": "Swiss Renke",
+      "native": "Schweizer-Reneke",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -543,9 +525,9 @@
     },
     {
       "id": 131296,
-      "name": "فريبورغ",
+      "name": "فرايبورغ",
       "name_default": "Vryburg",
-      "native": "Freeburg",
+      "native": "Vryburg",
       "type": "adm2",
       "level": null,
       "parent_id": null,

@@ -95,7 +95,7 @@
       "id": 85823,
       "name": "Бейсче",
       "name_default": "Bejsce",
-      "native": "Głupie gadanie",
+      "native": "Bejsce",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 85858,
-      "name": "Бєліни",
+      "name": "Ґміна Беліни",
       "name_default": "Bieliny",
       "native": "Bieliny",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 85883,
-      "name": "Ближин",
+      "name": "Бліжин",
       "name_default": "Bliżyn",
       "native": "Bliżyn",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 86073,
-      "name": "Хенціни",
+      "name": "Хенцини",
       "name_default": "Chęciny",
       "native": "Chęciny",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 86268,
-      "name": "Фалькув",
+      "name": "Фалкув",
       "name_default": "Fałków",
       "native": "Fałków",
       "type": "adm3",
@@ -401,7 +401,7 @@
       "id": 86316,
       "name": "Гнойно",
       "name_default": "Gnojno",
-      "native": "Ropny",
+      "native": "Gnojno",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 86415,
-      "name": "Горно",
+      "name": "Гурно",
       "name_default": "Górno",
       "native": "Górno",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 86578,
-      "name": "Єнджеюв",
+      "name": "Ґміна Єнджеюв",
       "name_default": "Jędrzejów",
       "native": "Jędrzejów",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 86633,
-      "name": "Кельце",
+      "name": "Кельці",
       "name_default": "Kielce",
       "native": "Kielce",
       "type": "adm1",
@@ -579,9 +579,9 @@
     },
     {
       "id": 86638,
-      "name": "Кіє",
+      "name": "Ґміна Кіє",
       "name_default": "Kije",
-      "native": "Hańba",
+      "native": "Kije",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -615,7 +615,7 @@
     },
     {
       "id": 86750,
-      "name": "Коньські",
+      "name": "Ґміна Конське",
       "name_default": "Końskie",
       "native": "Końskie",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 86712,
-      "name": "Костюми Другі",
+      "name": "Костомлоти-Другі",
       "name_default": "Kostomłoty Drugie",
       "native": "Kostomłoty Drugie",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 86713,
-      "name": "Костомлоти П'єрвсе",
+      "name": "Костомлоти-Перші",
       "name_default": "Kostomłoty Pierwsze",
       "native": "Kostomłoty Pierwsze",
       "type": "section",
@@ -687,7 +687,7 @@
     },
     {
       "id": 86774,
-      "name": "Красоцін",
+      "name": "Красоцин",
       "name_default": "Krasocin",
       "native": "Krasocin",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 86916,
-      "name": "Липник",
+      "name": "Ліпник",
       "name_default": "Lipnik",
-      "native": "Smukły",
+      "native": "Lipnik",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 88787,
-      "name": "Лоньюв",
+      "name": "Лонюв",
       "name_default": "Łoniów",
       "native": "Łoniów",
       "type": "adm3",
@@ -813,9 +813,9 @@
     },
     {
       "id": 88798,
-      "name": "Лубніце",
+      "name": "Лубниці",
       "name_default": "Łubnice",
-      "native": "Ibnice",
+      "native": "Łubnice",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 87057,
-      "name": "Міржець",
+      "name": "Міжець",
       "name_default": "Mirzec",
       "native": "Mirzec",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 87079,
-      "name": "Мніув",
+      "name": "Мнюв",
       "name_default": "Mniów",
       "native": "Mniów",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 87132,
-      "name": "Наґловіце",
+      "name": "Нагловіце",
       "name_default": "Nagłowice",
       "native": "Nagłowice",
       "type": "adm3",
@@ -1031,7 +1031,7 @@
       "id": 87235,
       "name": "Окса",
       "name_default": "Oksa",
-      "native": "Gałązka",
+      "native": "Oksa",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 87240,
-      "name": "Олесніца",
+      "name": "Олесниця",
       "name_default": "Oleśnica",
       "native": "Oleśnica",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 87299,
-      "name": "Островець-Свєнтокшиський",
+      "name": "Островець-Свентокшиський",
       "name_default": "Ostrowiec Świętokrzyski",
       "native": "Ostrowiec Świętokrzyski",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 87405,
-      "name": "Піньчув",
+      "name": "Пінчів",
       "name_default": "Pińczów",
       "native": "Pińczów",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 87890,
-      "name": "Радошице",
+      "name": "Радошиці",
       "name_default": "Radoszyce",
       "native": "Radoszyce",
       "type": "adm3",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 87947,
-      "name": "Рогов",
+      "name": "Рогув",
       "name_default": "Rogów",
       "native": "Rogów",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 88014,
-      "name": "Ритвяни",
+      "name": "Ритв'яни",
       "name_default": "Rytwiany",
       "native": "Rytwiany",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 88043,
-      "name": "Садові",
+      "name": "Ґміна Садове",
       "name_default": "Sadowie",
       "native": "Sadowie",
       "type": "adm3",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 88100,
-      "name": "Скаржисько Косьцельне",
+      "name": "Скаржисько-Косьцельне",
       "name_default": "Skarżysko Kościelne",
       "native": "Skarżysko Kościelne",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 88127,
-      "name": "Смикув",
+      "name": "Ґміна Смикув",
       "name_default": "Smyków",
       "native": "Smyków",
       "type": "adm3",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 88242,
-      "name": "Стомпоркув",
+      "name": "Ґміна Стомпоркув",
       "name_default": "Stąporków",
       "native": "Stąporków",
       "type": "adm3",
@@ -1643,7 +1643,7 @@
       "id": 88207,
       "name": "Стопниця",
       "name_default": "Stopnica",
-      "native": "Krok",
+      "native": "Stopnica",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 88368,
-      "name": "Тарлов",
+      "name": "Тарлув",
       "name_default": "Tarłów",
       "native": "Tarłów",
       "type": "adm3",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 88632,
-      "name": "Вончок",
+      "name": "Вонхоцьк",
       "name_default": "Wąchock",
       "native": "Wąchock",
       "type": "adm3",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 88489,
-      "name": "Васньов",
+      "name": "Васнюв",
       "name_default": "Waśniów",
       "native": "Waśniów",
       "type": "adm3",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 88506,
-      "name": "Велика Віща",
+      "name": "Велика Весь",
       "name_default": "Wielka Wieś",
       "native": "Wielka Wieś",
       "type": "city",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 88534,
-      "name": "Вільчице",
+      "name": "Ґміна Вільчице",
       "name_default": "Wilczyce",
       "native": "Wilczyce",
       "type": "adm3",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 88560,
-      "name": "Вісліца",
+      "name": "Віслиця",
       "name_default": "Wiślica",
       "native": "Wiślica",
       "type": "adm3",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 88585,
-      "name": "Воля Яхова",
+      "name": "Воля-Яхова",
       "name_default": "Wola Jachowa",
       "native": "Wola Jachowa",
       "type": "city",

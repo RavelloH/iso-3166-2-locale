@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80557,
-      "name": "Groene wateren",
+      "name": "Aguas Verdes",
       "name_default": "Aguas Verdes",
       "native": "Aguas Verdes",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 80751,
-      "name": "Papaja",
+      "name": "Papayal",
       "name_default": "Papayal",
       "native": "Papayal",
       "type": "city",
@@ -132,7 +132,7 @@
       "name": "Provincia de Zarumilla",
       "name_default": "Provincia de Zarumilla",
       "native": "Provincia de Zarumilla",
-      "type": "adm3",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 48844,

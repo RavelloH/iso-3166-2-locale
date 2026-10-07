@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 89881,
-      "name": "Karar vermek",
+      "name": "Adjud",
       "name_default": "Adjud",
       "native": "Adjud",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 89960,
-      "name": "Angheleşti",
+      "name": "Anghelești",
       "name_default": "Anghelești",
       "native": "Anghelești",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 90138,
-      "name": "Bilieşti",
+      "name": "Biliești",
       "name_default": "Biliești",
       "native": "Biliești",
       "type": "adm2",
@@ -239,7 +239,7 @@
       "id": 90223,
       "name": "Bordeasca Veche",
       "name_default": "Bordeasca Veche",
-      "native": "Vech",
+      "native": "Bordeasca Veche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 90385,
-      "name": "Budeşti",
+      "name": "Budești",
       "name_default": "Budești",
       "native": "Budești",
       "type": "city",
@@ -309,9 +309,9 @@
     },
     {
       "id": 90415,
-      "name": "Burka",
+      "name": "Burca",
       "name_default": "Burca",
-      "native": "Semn",
+      "native": "Burca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -401,7 +401,7 @@
       "id": 90603,
       "name": "Ceardac",
       "name_default": "Ceardac",
-      "native": "Atingere",
+      "native": "Ceardac",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 90761,
-      "name": "Ciuşlea",
+      "name": "Ciușlea",
       "name_default": "Ciușlea",
       "native": "Ciușlea",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 91319,
-      "name": "Chiojdeni Mahallesi",
+      "name": "Comuna Chiojdeni",
       "name_default": "Comuna Chiojdeni",
       "native": "Comuna Chiojdeni",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91833,
-      "name": "Garoafa Mahallesi",
+      "name": "Comuna Garoafa",
       "name_default": "Comuna Garoafa",
       "native": "Comuna Garoafa",
       "type": "adm2",
@@ -867,7 +867,7 @@
     },
     {
       "id": 92011,
-      "name": "Homocea Topluluğu",
+      "name": "Comuna Homocea",
       "name_default": "Comuna Homocea",
       "native": "Comuna Homocea",
       "type": "section",
@@ -903,7 +903,7 @@
     },
     {
       "id": 92127,
-      "name": "Jitia Topluluğu",
+      "name": "Comuna Jitia",
       "name_default": "Comuna Jitia",
       "native": "Comuna Jitia",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 92290,
-      "name": "Milcovul Mahallesi",
+      "name": "Comuna Milcovul",
       "name_default": "Comuna Milcovul",
       "native": "Comuna Milcovul",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 92532,
-      "name": "Paltin Topluluğu",
+      "name": "Comuna Paltin",
       "name_default": "Comuna Paltin",
       "native": "Comuna Paltin",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 92928,
-      "name": "Sihlea Topluluğu",
+      "name": "Comuna Sihlea",
       "name_default": "Comuna Sihlea",
       "native": "Comuna Sihlea",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 92979,
-      "name": "Soveja Belediyesi",
+      "name": "Comuna Soveja",
       "name_default": "Comuna Soveja",
       "native": "Comuna Soveja",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 92985,
-      "name": "Spulber Mahallesi",
+      "name": "Comuna Spulber",
       "name_default": "Comuna Spulber",
       "native": "Comuna Spulber",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 93035,
-      "name": "Suraia Topluluğu",
+      "name": "Comuna Suraia",
       "name_default": "Comuna Suraia",
       "native": "Comuna Suraia",
       "type": "adm2",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 93205,
-      "name": "Tulnici Mahallesi",
+      "name": "Comuna Tulnici",
       "name_default": "Comuna Tulnici",
       "native": "Comuna Tulnici",
       "type": "adm2",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 93356,
-      "name": "Vidra Mahallesi",
+      "name": "Comuna Vidra",
       "name_default": "Comuna Vidra",
       "native": "Comuna Vidra",
       "type": "adm2",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 93632,
-      "name": "Kornetu",
+      "name": "Cornetu",
       "name_default": "Cornetu",
       "native": "Cornetu",
       "type": "city",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 95101,
-      "name": "Belediye Adjud",
+      "name": "Municipiul Adjud",
       "name_default": "Municipiul Adjud",
       "native": "Municipiul  Adjud",
       "type": "city",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": 95321,
-      "name": "Negrileşti",
+      "name": "Negrilești",
       "name_default": "Negrilești",
       "native": "Negrilești",
       "type": "adm2",
@@ -2255,7 +2255,7 @@
       "id": 95329,
       "name": "Nereju",
       "name_default": "Nereju",
-      "native": "Mizerie",
+      "native": "Nereju",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2271,7 +2271,7 @@
     },
     {
       "id": 95330,
-      "name": "Nereju Mikrofonu",
+      "name": "Nereju Mic",
       "name_default": "Nereju Mic",
       "native": "Nereju Mic",
       "type": "city",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 95427,
-      "name": "Oleșeşti",
+      "name": "Oleșești",
       "name_default": "Oleșești",
       "native": "Oleșești",
       "type": "city",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 95914,
-      "name": "Popeşti",
+      "name": "Popești",
       "name_default": "Popești",
       "native": "Popești",
       "type": "adm2",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 96208,
-      "name": "Rastoaca",
+      "name": "Răstoaca",
       "name_default": "Răstoaca",
       "native": "Răstoaca",
       "type": "adm2",
@@ -2615,7 +2615,7 @@
       "id": 96080,
       "name": "Reghiu",
       "name_default": "Reghiu",
-      "native": "AGIU",
+      "native": "Reghiu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 96147,
-      "name": "Rugineşti",
+      "name": "Ruginești",
       "name_default": "Rugineşti",
       "native": "Rugineşti",
       "type": "adm2",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 96609,
-      "name": "Tanănăsoaia",
+      "name": "Tănăsoaia",
       "name_default": "Tănăsoaia",
       "native": "Tănăsoaia",
       "type": "adm2",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": 96619,
-      "name": "Tataru",
+      "name": "Tătăranu",
       "name_default": "Tătăranu",
       "native": "Tătăranu",
       "type": "adm2",
@@ -2919,7 +2919,7 @@
     },
     {
       "id": 96675,
-      "name": "Ureşeşti",
+      "name": "Urecheşti",
       "name_default": "Urecheşti",
       "native": "Urecheşti",
       "type": "adm2",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": 96905,
-      "name": "Vulkanesa",
+      "name": "Vulcăneasa",
       "name_default": "Vulcăneasa",
       "native": "Vulcăneasa",
       "type": "city",
@@ -3135,7 +3135,7 @@
     },
     {
       "id": 96914,
-      "name": "Akbaba",
+      "name": "Vulturu",
       "name_default": "Vulturu",
       "native": "Vulturu",
       "type": "adm2",

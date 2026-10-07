@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 109305,
-      "name": "Abrikosówka",
+      "name": "Abrikosovka",
       "name_default": "Abrikosovka",
       "native": "Абрикосівка",
       "type": "adm3",
@@ -96,7 +96,7 @@
     },
     {
       "id": 109306,
-      "name": "Abrikosowo",
+      "name": "Abrikosovo",
       "name_default": "Abrikosovo",
       "native": "Абрикосово",
       "type": "adm3",
@@ -114,7 +114,7 @@
     },
     {
       "id": 109308,
-      "name": "Aeroflotskij",
+      "name": "Aeroflotskiy",
       "name_default": "Aeroflotskiy",
       "native": "Аерофлотський",
       "type": "city",
@@ -168,7 +168,7 @@
     },
     {
       "id": 109313,
-      "name": "Aleksandrowka",
+      "name": "Aleksandrovka",
       "name_default": "Aleksandrovka",
       "native": "Олександрівка",
       "type": "adm3",
@@ -186,7 +186,7 @@
     },
     {
       "id": 109314,
-      "name": "Aleksiejewka",
+      "name": "Alekseyevka",
       "name_default": "Alekseyevka",
       "native": "Олексіївка",
       "type": "adm3",
@@ -240,7 +240,7 @@
     },
     {
       "id": 109317,
-      "name": "Amurskoje",
+      "name": "Amurskoye",
       "name_default": "Amurskoye",
       "native": "Амурське",
       "type": "adm3",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109328,
-      "name": "Aromatnoje",
+      "name": "Aromatnoye",
       "name_default": "Aromatnoye",
       "native": "Ароматне",
       "type": "adm3",
@@ -312,7 +312,7 @@
     },
     {
       "id": 109338,
-      "name": "Baherove",
+      "name": "Baherowe",
       "name_default": "Baherove",
       "native": "Багерове",
       "type": "adm3",
@@ -348,7 +348,7 @@
     },
     {
       "id": 109340,
-      "name": "Rejon Bakczysarajski",
+      "name": "Bakhchysarai Raion",
       "name_default": "Bakhchysarai Raion",
       "native": "Бахчисарайський район",
       "type": "district",
@@ -366,7 +366,7 @@
     },
     {
       "id": 109356,
-      "name": "Batalnoye",
+      "name": "Batal’noye",
       "name_default": "Batal’noye",
       "native": "Батальне",
       "type": "adm3",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109363,
-      "name": "Bielinskoje",
+      "name": "Belinskoye",
       "name_default": "Belinskoye",
       "native": "Бєлінське",
       "type": "adm3",
@@ -420,7 +420,7 @@
     },
     {
       "id": 109365,
-      "name": "Rejon belogorski",
+      "name": "Belogorskiy rayon",
       "name_default": "Belogorskiy rayon",
       "native": "Білогірський район",
       "type": "area",
@@ -438,7 +438,7 @@
     },
     {
       "id": 109372,
-      "name": "Bieriegowoje",
+      "name": "Berehowe",
       "name_default": "Beregovoye",
       "native": "Берегове",
       "type": "city",
@@ -491,6 +491,24 @@
       "country_id": 230
     },
     {
+      "id": 110183,
+      "name": "Biyuk-Onlar",
+      "name_default": "Biyuk-Onlar",
+      "native": "Біюк-Онлар",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10244,
+      "latitude": "45.28866000",
+      "longitude": "34.13521000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
       "id": 109412,
       "name": "Blizhneye",
       "name_default": "Blizhneye",
@@ -528,7 +546,7 @@
     },
     {
       "id": 109438,
-      "name": "Botaniczeskoje",
+      "name": "Botanicheskoye",
       "name_default": "Botanicheskoye",
       "native": "Ботанічне",
       "type": "adm3",
@@ -546,7 +564,7 @@
     },
     {
       "id": 109444,
-      "name": "Brackoje",
+      "name": "Bratskoye",
       "name_default": "Bratskoye",
       "native": "Братське",
       "type": "adm3",
@@ -564,7 +582,7 @@
     },
     {
       "id": 109470,
-      "name": "Czapajewka",
+      "name": "Chapayevka",
       "name_default": "Chapayevka",
       "native": "Чапаєвка",
       "type": "adm3",
@@ -600,7 +618,7 @@
     },
     {
       "id": 109476,
-      "name": "Czeladinowo",
+      "name": "Chelyadinovo",
       "name_default": "Chelyadinovo",
       "native": "Челядіново",
       "type": "adm3",
@@ -618,7 +636,7 @@
     },
     {
       "id": 109489,
-      "name": "Rejon czarnomorski",
+      "name": "Chernomorskiy rayon",
       "name_default": "Chernomorskiy rayon",
       "native": "Чорноморський район",
       "type": "adm3",
@@ -636,7 +654,7 @@
     },
     {
       "id": 109491,
-      "name": "Czarnopole",
+      "name": "Chernopolye",
       "name_default": "Chernopolye",
       "native": "Чорнопілля",
       "type": "adm3",
@@ -654,7 +672,7 @@
     },
     {
       "id": 109492,
-      "name": "Czernowo",
+      "name": "Chernovo",
       "name_default": "Chernovo",
       "native": "Черново",
       "type": "adm3",
@@ -672,7 +690,7 @@
     },
     {
       "id": 109493,
-      "name": "Czarnoziemnoje",
+      "name": "Chernozemnoye",
       "name_default": "Chernozemnoye",
       "native": "Чорноземне",
       "type": "adm3",
@@ -690,7 +708,7 @@
     },
     {
       "id": 109497,
-      "name": "Czernyszewo",
+      "name": "Chernyshevo",
       "name_default": "Chernyshevo",
       "native": "Чернишево",
       "type": "adm3",
@@ -708,7 +726,7 @@
     },
     {
       "id": 109503,
-      "name": "Czerwone",
+      "name": "Chervonoye",
       "name_default": "Chervonoye",
       "native": "Червоне",
       "type": "city",
@@ -726,7 +744,7 @@
     },
     {
       "id": 109505,
-      "name": "Czysten’koje",
+      "name": "Chisten’koye",
       "name_default": "Chisten’koye",
       "native": "Чистеньке",
       "type": "adm3",
@@ -744,7 +762,7 @@
     },
     {
       "id": 109506,
-      "name": "Czystopole",
+      "name": "Chistopolye",
       "name_default": "Chistopolye",
       "native": "Чистопілля",
       "type": "adm3",
@@ -762,7 +780,7 @@
     },
     {
       "id": 109507,
-      "name": "Czkałowo",
+      "name": "Chkalovo",
       "name_default": "Chkalovo",
       "native": "Чкалово",
       "type": "adm3",
@@ -780,7 +798,7 @@
     },
     {
       "id": 109490,
-      "name": "Czernomorskoje",
+      "name": "Czornomorśke",
       "name_default": "Chornomorske",
       "native": "Чорноморське",
       "type": "city",
@@ -834,7 +852,7 @@
     },
     {
       "id": 109543,
-      "name": "Dmitrowka",
+      "name": "Dmitrovka",
       "name_default": "Dmitrovka",
       "native": "Дмитрівка",
       "type": "adm3",
@@ -852,7 +870,7 @@
     },
     {
       "id": 109547,
-      "name": "Dnieprówka",
+      "name": "Dneprovka",
       "name_default": "Dneprovka",
       "native": "Дніпровка",
       "type": "city",
@@ -870,7 +888,7 @@
     },
     {
       "id": 109560,
-      "name": "Dobroje",
+      "name": "Dobroye",
       "name_default": "Dobroye",
       "native": "Доброє",
       "type": "adm3",
@@ -888,7 +906,7 @@
     },
     {
       "id": 109561,
-      "name": "Dobruszino",
+      "name": "Dobrushino",
       "name_default": "Dobrushino",
       "native": "Добрушино",
       "type": "adm3",
@@ -906,7 +924,7 @@
     },
     {
       "id": 109564,
-      "name": "Dolinnoje",
+      "name": "Dolinnoye",
       "name_default": "Dolinnoye",
       "native": "Долинне",
       "type": "adm3",
@@ -978,7 +996,7 @@
     },
     {
       "id": 109592,
-      "name": "Dżankoj",
+      "name": "Dzhankoy",
       "name_default": "Dzhankoy",
       "native": "Джанкой",
       "type": "adm2",
@@ -996,7 +1014,7 @@
     },
     {
       "id": 109593,
-      "name": "Rejon dżankojski",
+      "name": "Dzhankoyskiy rayon",
       "name_default": "Dzhankoyskiy rayon",
       "native": "Джанкойський район",
       "type": "adm3",
@@ -1032,7 +1050,7 @@
     },
     {
       "id": 109600,
-      "name": "Filatówka",
+      "name": "Filatovka",
       "name_default": "Filatovka",
       "native": "Філатовка",
       "type": "adm3",
@@ -1104,7 +1122,7 @@
     },
     {
       "id": 109605,
-      "name": "Gaspra",
+      "name": "Haspra",
       "name_default": "Gaspra",
       "native": "Гаспра",
       "type": "city",
@@ -1158,7 +1176,7 @@
     },
     {
       "id": 109608,
-      "name": "Gołubinka",
+      "name": "Golubinka",
       "name_default": "Golubinka",
       "native": "Голубінка",
       "type": "adm3",
@@ -1176,7 +1194,7 @@
     },
     {
       "id": 109609,
-      "name": "Gornostajewka",
+      "name": "Gornostayevka",
       "name_default": "Gornostayevka",
       "native": "Горностаївка",
       "type": "adm3",
@@ -1266,7 +1284,7 @@
     },
     {
       "id": 109614,
-      "name": "Gorodskoj okrug Krasnoperekopsk",
+      "name": "Gorodskoy okrug Krasnoperekopsk",
       "name_default": "Gorodskoy okrug Krasnoperekopsk",
       "native": "Городской округ Красноперекопск",
       "type": "city",
@@ -1302,7 +1320,7 @@
     },
     {
       "id": 109616,
-      "name": "Gorodskoy okrug Symferopol",
+      "name": "Gorodskoy okrug Simferopol",
       "name_default": "Gorodskoy okrug Simferopol",
       "native": "Міський округ Сімферополь",
       "type": "city",
@@ -1410,7 +1428,7 @@
     },
     {
       "id": 109622,
-      "name": "Gruszewka",
+      "name": "Grushevka",
       "name_default": "Grushevka",
       "native": "Грушівка",
       "type": "city",
@@ -1456,7 +1474,25 @@
       "latitude": "45.11692000",
       "longitude": "34.02188000",
       "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4153056",
+      "wikiDataId": null,
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
+      "id": 110517,
+      "name": "Ichki",
+      "name_default": "Ichki",
+      "native": "Ічкі",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 10410,
+      "latitude": "45.34267000",
+      "longitude": "34.92463000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -1464,7 +1500,7 @@
     },
     {
       "id": 109669,
-      "name": "Iljiczowo",
+      "name": "Ilychyovo",
       "name_default": "Ilychyovo",
       "native": "Іличово",
       "type": "adm3",
@@ -1482,7 +1518,7 @@
     },
     {
       "id": 109670,
-      "name": "Iljiczewo",
+      "name": "Ilyichevo",
       "name_default": "Ilyichevo",
       "native": "Іллічево",
       "type": "adm3",
@@ -1536,7 +1572,7 @@
     },
     {
       "id": 109685,
-      "name": "Iwanowka",
+      "name": "Ivanovka",
       "name_default": "Ivanovka",
       "native": "Іванівка",
       "type": "adm3",
@@ -1590,7 +1626,7 @@
     },
     {
       "id": 109692,
-      "name": "Izyumówka",
+      "name": "Izyumovka",
       "name_default": "Izyumovka",
       "native": "Ізюмовка",
       "type": "city",
@@ -1626,7 +1662,7 @@
     },
     {
       "id": 109701,
-      "name": "Kalinowka",
+      "name": "Kalinovka",
       "name_default": "Kalinovka",
       "native": "Калинівка",
       "type": "adm3",
@@ -1644,7 +1680,7 @@
     },
     {
       "id": 109707,
-      "name": "Kamenołomnia",
+      "name": "Kamenolomnya",
       "name_default": "Kamenolomnya",
       "native": "Каменолонья",
       "type": "city",
@@ -1662,7 +1698,7 @@
     },
     {
       "id": 109718,
-      "name": "Kasztanowoje",
+      "name": "Kashtanovoye",
       "name_default": "Kashtanovoye",
       "native": "Каштанове",
       "type": "city",
@@ -1680,7 +1716,7 @@
     },
     {
       "id": 109719,
-      "name": "Kasztany",
+      "name": "Kashtany",
       "name_default": "Kashtany",
       "native": "Каштани",
       "type": "adm3",
@@ -1734,7 +1770,7 @@
     },
     {
       "id": 109734,
-      "name": "Chołmówka",
+      "name": "Kholmovka",
       "name_default": "Kholmovka",
       "native": "Холмовка",
       "type": "city",
@@ -1752,7 +1788,7 @@
     },
     {
       "id": 109750,
-      "name": "Kirowo",
+      "name": "Kirovo",
       "name_default": "Kirovo",
       "native": "Кірово",
       "type": "adm3",
@@ -1842,7 +1878,7 @@
     },
     {
       "id": 109780,
-      "name": "Kol’czugino",
+      "name": "Kol’chugino",
       "name_default": "Kol’chugino",
       "native": "Кольчугіно",
       "type": "adm3",
@@ -1860,7 +1896,7 @@
     },
     {
       "id": 109781,
-      "name": "Kolcowo",
+      "name": "Kol’tsovo",
       "name_default": "Kol’tsovo",
       "native": "Кольцово",
       "type": "adm3",
@@ -1878,7 +1914,7 @@
     },
     {
       "id": 109774,
-      "name": "Kołodeznoje",
+      "name": "Kolodeznoye",
       "name_default": "Kolodeznoye",
       "native": "Колодезне",
       "type": "adm3",
@@ -1914,7 +1950,7 @@
     },
     {
       "id": 109784,
-      "name": "Komsomolskoje",
+      "name": "Komsomol’skoye",
       "name_default": "Komsomol’skoye",
       "native": "Комсомольське",
       "type": "city",
@@ -1932,7 +1968,7 @@
     },
     {
       "id": 109788,
-      "name": "Kondratiewo",
+      "name": "Kondratyevo",
       "name_default": "Kondratyevo",
       "native": "Кондратьєво",
       "type": "adm3",
@@ -1950,7 +1986,7 @@
     },
     {
       "id": 109790,
-      "name": "Konstantinowka",
+      "name": "Konstantinovka",
       "name_default": "Konstantinovka",
       "native": "Костянтинівка",
       "type": "city",
@@ -1986,7 +2022,7 @@
     },
     {
       "id": 109796,
-      "name": "Kormowoje",
+      "name": "Kormovoye",
       "name_default": "Kormovoye",
       "native": "Кормове",
       "type": "adm3",
@@ -2022,7 +2058,7 @@
     },
     {
       "id": 109818,
-      "name": "Kotel’nikowo",
+      "name": "Kotel’nikovo",
       "name_default": "Kotel’nikovo",
       "native": "Котельниково",
       "type": "adm3",
@@ -2040,7 +2076,7 @@
     },
     {
       "id": 109822,
-      "name": "Kowylnoje",
+      "name": "Kovyl’noye",
       "name_default": "Kovyl’noye",
       "native": "Ковильне",
       "type": "adm3",
@@ -2076,7 +2112,7 @@
     },
     {
       "id": 109831,
-      "name": "Krasnaja Polana",
+      "name": "Krasnaya Polyana",
       "name_default": "Krasnaya Polyana",
       "native": "Красна Поляна",
       "type": "adm3",
@@ -2094,7 +2130,7 @@
     },
     {
       "id": 109834,
-      "name": "Krasnoarmiejskoje",
+      "name": "Krasnoarmeyskoye",
       "name_default": "Krasnoarmeyskoye",
       "native": "Красноармійське",
       "type": "adm3",
@@ -2112,7 +2148,7 @@
     },
     {
       "id": 109835,
-      "name": "Krasnoflotskoje",
+      "name": "Krasnoflotskoye",
       "name_default": "Krasnoflotskoye",
       "native": "Краснофлотське",
       "type": "adm3",
@@ -2130,7 +2166,7 @@
     },
     {
       "id": 109836,
-      "name": "Krasnogórka",
+      "name": "Krasnogorka",
       "name_default": "Krasnogorka",
       "native": "Красногорка",
       "type": "adm3",
@@ -2139,24 +2175,6 @@
       "population": 827,
       "latitude": "45.24513000",
       "longitude": "35.80739000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4238632",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
-      "id": 109837,
-      "name": "Krasnogwardiejskoje",
-      "name_default": "Krasnogvardeyskoye",
-      "native": "Красногвардійське",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 11134,
-      "latitude": "45.50271000",
-      "longitude": "34.30134000",
       "timezone": "Europe/Simferopol",
       "wikiDataId": "Q4238632",
       "country_code": "UA",
@@ -2220,7 +2238,7 @@
     },
     {
       "id": 109845,
-      "name": "Krasnoperekopsk",
+      "name": "Krasnoperekops’k",
       "name_default": "Krasnoperekops’k",
       "native": "Красноперекопськ",
       "type": "adm3",
@@ -2256,7 +2274,7 @@
     },
     {
       "id": 109849,
-      "name": "Krasnojarskie",
+      "name": "Krasnoyarskoye",
       "name_default": "Krasnoyarskoye",
       "native": "Красноярське",
       "type": "adm3",
@@ -2310,7 +2328,7 @@
     },
     {
       "id": 109852,
-      "name": "Krasnyj Mak",
+      "name": "Krasnyi Mak",
       "name_default": "Krasnyi Mak",
       "native": "Красний Мак",
       "type": "adm3",
@@ -2346,7 +2364,7 @@
     },
     {
       "id": 109861,
-      "name": "Krestjanowka",
+      "name": "Krest’yanovka",
       "name_default": "Krest’yanovka",
       "native": "Крест'янівка",
       "type": "adm3",
@@ -2364,7 +2382,7 @@
     },
     {
       "id": 109863,
-      "name": "Krynicznoje",
+      "name": "Krinichnoye",
       "name_default": "Krinichnoye",
       "native": "Криничне",
       "type": "adm3",
@@ -2400,7 +2418,7 @@
     },
     {
       "id": 109870,
-      "name": "Krymskaja Róża",
+      "name": "Krymskaya Roza",
       "name_default": "Krymskaya Roza",
       "native": "Кримська Роза",
       "type": "adm3",
@@ -2418,7 +2436,7 @@
     },
     {
       "id": 109871,
-      "name": "Krymskoje",
+      "name": "Krymskoye",
       "name_default": "Krymskoye",
       "native": "Кримське",
       "type": "adm3",
@@ -2436,7 +2454,7 @@
     },
     {
       "id": 109881,
-      "name": "Kujbyszewo",
+      "name": "Kuibyshevo",
       "name_default": "Kuibyshevo",
       "native": "Куйбишево",
       "type": "adm3",
@@ -2454,7 +2472,7 @@
     },
     {
       "id": 109882,
-      "name": "Kukuszkino",
+      "name": "Kukushkino",
       "name_default": "Kukushkino",
       "native": "Кукушкіно",
       "type": "adm3",
@@ -2471,8 +2489,26 @@
       "country_id": 230
     },
     {
+      "id": 109837,
+      "name": "Kurman",
+      "name_default": "Kurman",
+      "native": "Курман",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 11134,
+      "latitude": "45.50271000",
+      "longitude": "34.30134000",
+      "timezone": "Europe/Simferopol",
+      "wikiDataId": null,
+      "country_code": "UA",
+      "state_code": "43",
+      "state_id": 4689,
+      "country_id": 230
+    },
+    {
       "id": 109890,
-      "name": "Kurskoje",
+      "name": "Kurskoye",
       "name_default": "Kurskoye",
       "native": "Курське",
       "type": "adm3",
@@ -2562,7 +2598,7 @@
     },
     {
       "id": 109914,
-      "name": "Leninskoje",
+      "name": "Leninskoye",
       "name_default": "Leninskoye",
       "native": "Ленінське",
       "type": "adm3",
@@ -2580,7 +2616,7 @@
     },
     {
       "id": 109915,
-      "name": "Lesnowka",
+      "name": "Lesnovka",
       "name_default": "Lesnovka",
       "native": "Ліснівка",
       "type": "adm3",
@@ -2598,7 +2634,7 @@
     },
     {
       "id": 109917,
-      "name": "Lewadki",
+      "name": "Levadki",
       "name_default": "Levadki",
       "native": "Левадки",
       "type": "city",
@@ -2634,7 +2670,7 @@
     },
     {
       "id": 109920,
-      "name": "Litwinienkowo",
+      "name": "Litvinenkovo",
       "name_default": "Litvinenkovo",
       "native": "Літвіненково",
       "type": "city",
@@ -2670,7 +2706,7 @@
     },
     {
       "id": 109927,
-      "name": "Łobanowo",
+      "name": "Lobanovo",
       "name_default": "Lobanovo",
       "native": "Лобаново",
       "type": "adm3",
@@ -2688,7 +2724,7 @@
     },
     {
       "id": 109933,
-      "name": "Łozowoje",
+      "name": "Lozovoye",
       "name_default": "Lozovoye",
       "native": "Лозове",
       "type": "city",
@@ -2724,7 +2760,7 @@
     },
     {
       "id": 109936,
-      "name": "Ługańskie",
+      "name": "Luganskoye",
       "name_default": "Luganskoye",
       "native": "Луганське",
       "type": "adm3",
@@ -2742,7 +2778,7 @@
     },
     {
       "id": 109937,
-      "name": "Ługowoje",
+      "name": "Lugovoye",
       "name_default": "Lugovoye",
       "native": "Лугове",
       "type": "adm3",
@@ -2760,7 +2796,7 @@
     },
     {
       "id": 109969,
-      "name": "Magazyn",
+      "name": "Magazinka",
       "name_default": "Magazinka",
       "native": "Магазинка",
       "type": "adm3",
@@ -2832,7 +2868,7 @@
     },
     {
       "id": 110005,
-      "name": "Marjanowka",
+      "name": "Mar’yanovka",
       "name_default": "Mar’yanovka",
       "native": "Мар'янівка",
       "type": "adm3",
@@ -2868,7 +2904,7 @@
     },
     {
       "id": 110004,
-      "name": "Maryewka",
+      "name": "Maryevka",
       "name_default": "Maryevka",
       "native": "Мар'ївка",
       "type": "adm3",
@@ -2904,7 +2940,7 @@
     },
     {
       "id": 110007,
-      "name": "Masandra",
+      "name": "Massandra",
       "name_default": "Massandra",
       "native": "Масандра",
       "type": "city",
@@ -2922,7 +2958,7 @@
     },
     {
       "id": 110010,
-      "name": "Majskoje",
+      "name": "Mayskoye",
       "name_default": "Mayskoye",
       "native": "Майське",
       "type": "adm3",
@@ -2958,7 +2994,7 @@
     },
     {
       "id": 110013,
-      "name": "Miedwiediewka",
+      "name": "Medvedevka",
       "name_default": "Medvedevka",
       "native": "Медведівка",
       "type": "adm3",
@@ -2976,7 +3012,7 @@
     },
     {
       "id": 110014,
-      "name": "Miedwiediewo",
+      "name": "Medvedevo",
       "name_default": "Medvedevo",
       "native": "Медведєво",
       "type": "adm3",
@@ -2994,7 +3030,7 @@
     },
     {
       "id": 110020,
-      "name": "Melnicznoje",
+      "name": "Mel’nichnoye",
       "name_default": "Mel’nichnoye",
       "native": "Мельничне",
       "type": "adm3",
@@ -3012,7 +3048,7 @@
     },
     {
       "id": 110026,
-      "name": "Mieżwodnoje",
+      "name": "Mezhvodnoye",
       "name_default": "Mezhvodnoye",
       "native": "Міжводне",
       "type": "adm3",
@@ -3030,7 +3066,7 @@
     },
     {
       "id": 110027,
-      "name": "Miczurinskoje",
+      "name": "Michurinskoye",
       "name_default": "Michurinskoye",
       "native": "Мічурінське",
       "type": "adm3",
@@ -3066,7 +3102,7 @@
     },
     {
       "id": 110032,
-      "name": "Mirnowka",
+      "name": "Mirnovka",
       "name_default": "Mirnovka",
       "native": "Мирнівка",
       "type": "adm3",
@@ -3084,7 +3120,7 @@
     },
     {
       "id": 110033,
-      "name": "Mirnoje",
+      "name": "Mirnoye",
       "name_default": "Mirnoye",
       "native": "Мирне",
       "type": "adm3",
@@ -3120,7 +3156,7 @@
     },
     {
       "id": 110036,
-      "name": "Mitrofanowka",
+      "name": "Mitrofanovka",
       "name_default": "Mitrofanovka",
       "native": "Митрофанівка",
       "type": "adm3",
@@ -3138,7 +3174,7 @@
     },
     {
       "id": 110037,
-      "name": "Mitiajewo",
+      "name": "Mityayevo",
       "name_default": "Mityayevo",
       "native": "Мітяєво",
       "type": "adm3",
@@ -3174,7 +3210,7 @@
     },
     {
       "id": 110050,
-      "name": "Mołodyożnoje",
+      "name": "Molodyozhnoye",
       "name_default": "Molodyozhnoye",
       "native": "Молодьожне",
       "type": "adm3",
@@ -3192,7 +3228,7 @@
     },
     {
       "id": 110053,
-      "name": "Morskoje",
+      "name": "Morske",
       "name_default": "Morske",
       "native": "Морське",
       "type": "city",
@@ -3210,7 +3246,7 @@
     },
     {
       "id": 110061,
-      "name": "Muromskoje",
+      "name": "Muromskoye",
       "name_default": "Muromskoye",
       "native": "Муромське",
       "type": "adm3",
@@ -3228,7 +3264,7 @@
     },
     {
       "id": 110064,
-      "name": "Muskatnoje",
+      "name": "Muskatnoye",
       "name_default": "Muskatnoye",
       "native": "Мускатне",
       "type": "city",
@@ -3282,7 +3318,7 @@
     },
     {
       "id": 110085,
-      "name": "Najdenowka",
+      "name": "Naydenovka",
       "name_default": "Naydenovka",
       "native": "Найденівка",
       "type": "adm3",
@@ -3300,7 +3336,7 @@
     },
     {
       "id": 110088,
-      "name": "Niekrasowka",
+      "name": "Nekrasovka",
       "name_default": "Nekrasovka",
       "native": "Некрасівка",
       "type": "adm3",
@@ -3318,7 +3354,7 @@
     },
     {
       "id": 110089,
-      "name": "Niekrasowo",
+      "name": "Nekrasovo",
       "name_default": "Nekrasovo",
       "native": "Некрасово",
       "type": "city",
@@ -3338,7 +3374,7 @@
       "id": 110095,
       "name": "Nikita",
       "name_default": "Nikita",
-      "native": "Микита",
+      "native": "Нікіта",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3354,7 +3390,7 @@
     },
     {
       "id": 110096,
-      "name": "Nikołajewka",
+      "name": "Nikolayevka",
       "name_default": "Nikolayevka",
       "native": "Миколаївка",
       "type": "adm3",
@@ -3372,7 +3408,7 @@
     },
     {
       "id": 110099,
-      "name": "Niżnegorski",
+      "name": "Nizhnegorskiy",
       "name_default": "Nizhnegorskiy",
       "native": "Нижньогірський",
       "type": "adm2",
@@ -3390,7 +3426,7 @@
     },
     {
       "id": 110100,
-      "name": "Rejon Niżnegorski",
+      "name": "Nizhnegorskiy rayon",
       "name_default": "Nizhnegorskiy rayon",
       "native": "Нижньогірський район",
       "type": "city",
@@ -3408,7 +3444,7 @@
     },
     {
       "id": 110118,
-      "name": "Nowoandriejewka",
+      "name": "Novoandreyevka",
       "name_default": "Novoandreyevka",
       "native": "Новоандріївка",
       "type": "adm3",
@@ -3426,7 +3462,7 @@
     },
     {
       "id": 110124,
-      "name": "Nowoestonia",
+      "name": "Novoestoniya",
       "name_default": "Novoestoniya",
       "native": "Новоестонія",
       "type": "city",
@@ -3444,7 +3480,7 @@
     },
     {
       "id": 110126,
-      "name": "Nowofedorówka",
+      "name": "Novofedorovka",
       "name_default": "Novofedorovka",
       "native": "Новофедорівка",
       "type": "adm3",
@@ -3462,7 +3498,7 @@
     },
     {
       "id": 110127,
-      "name": "Nowogrigoryjewka",
+      "name": "Novogrigoryevka",
       "name_default": "Novogrigoryevka",
       "native": "Новогригорівка",
       "type": "adm3",
@@ -3480,7 +3516,7 @@
     },
     {
       "id": 110129,
-      "name": "Nowiwanówka",
+      "name": "Novoivanovka",
       "name_default": "Novoivanovka",
       "native": "Новоіванівка",
       "type": "adm3",
@@ -3498,7 +3534,7 @@
     },
     {
       "id": 110130,
-      "name": "Nowokrymskoje",
+      "name": "Novokrymskoye",
       "name_default": "Novokrymskoye",
       "native": "Новокримське",
       "type": "adm3",
@@ -3516,7 +3552,7 @@
     },
     {
       "id": 110136,
-      "name": "Nowonikołajewka",
+      "name": "Novonikolayevka",
       "name_default": "Novonikolayevka",
       "native": "Новомиколаївка",
       "type": "adm3",
@@ -3552,7 +3588,7 @@
     },
     {
       "id": 110139,
-      "name": "Nowopawłowka",
+      "name": "Novopavlovka",
       "name_default": "Novopavlovka",
       "native": "Новопавлівка",
       "type": "adm3",
@@ -3570,7 +3606,7 @@
     },
     {
       "id": 110140,
-      "name": "Nowopokrowka",
+      "name": "Novopokrovka",
       "name_default": "Novopokrovka",
       "native": "Новопокровка",
       "type": "city",
@@ -3588,7 +3624,7 @@
     },
     {
       "id": 110147,
-      "name": "Nowoselskoje",
+      "name": "Novosel’skoye",
       "name_default": "Novosel’skoye",
       "native": "Новосельське",
       "type": "adm3",
@@ -3606,7 +3642,7 @@
     },
     {
       "id": 110144,
-      "name": "Nowosełowskoje",
+      "name": "Novoselovskoye",
       "name_default": "Novoselovskoye",
       "native": "Новоселівське",
       "type": "adm3",
@@ -3624,7 +3660,7 @@
     },
     {
       "id": 110148,
-      "name": "Nowostepnoje",
+      "name": "Novostepnoye",
       "name_default": "Novostepnoye",
       "native": "Новостепове",
       "type": "city",
@@ -3642,7 +3678,7 @@
     },
     {
       "id": 110149,
-      "name": "Nowosyołówka",
+      "name": "Novosyolovka",
       "name_default": "Novosyolovka",
       "native": "Новосьолівка",
       "type": "adm3",
@@ -3660,7 +3696,7 @@
     },
     {
       "id": 110155,
-      "name": "Nowozhilówka",
+      "name": "Novozhilovka",
       "name_default": "Novozhilovka",
       "native": "Новожилівка",
       "type": "adm3",
@@ -3696,7 +3732,7 @@
     },
     {
       "id": 110178,
-      "name": "Ochotnikowo",
+      "name": "Okhotnikovo",
       "name_default": "Okhotnikovo",
       "native": "Охотніково",
       "type": "adm3",
@@ -3714,7 +3750,7 @@
     },
     {
       "id": 110179,
-      "name": "Ochockie",
+      "name": "Okhotskoye",
       "name_default": "Okhotskoye",
       "native": "Охотське",
       "type": "adm3",
@@ -3732,7 +3768,7 @@
     },
     {
       "id": 110182,
-      "name": "Oktiabrskoje",
+      "name": "Oktyabr'skoye",
       "name_default": "Oktyabr'skoye",
       "native": "Жовтневе",
       "type": "adm3",
@@ -3749,26 +3785,8 @@
       "country_id": 230
     },
     {
-      "id": 110183,
-      "name": "Oktiabrskoje",
-      "name_default": "Oktyabr’skoye",
-      "native": "Жовтневе",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 10244,
-      "latitude": "45.28866000",
-      "longitude": "34.13521000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q1786696",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
       "id": 110184,
-      "name": "Okuniewka",
+      "name": "Okunevka",
       "name_default": "Okunevka",
       "native": "Окуневка",
       "type": "adm3",
@@ -3822,9 +3840,9 @@
     },
     {
       "id": 110202,
-      "name": "Oriechowo",
+      "name": "Orichowe",
       "name_default": "Orikhove",
-      "native": "Орєхово",
+      "native": "Оріхове",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -3840,7 +3858,7 @@
     },
     {
       "id": 110204,
-      "name": "Orłowskoje",
+      "name": "Orlovskoye",
       "name_default": "Orlovskoye",
       "native": "Орловське",
       "type": "adm3",
@@ -3876,7 +3894,7 @@
     },
     {
       "id": 110209,
-      "name": "Ostrowskoje",
+      "name": "Ostrovskoye",
       "name_default": "Ostrovskoye",
       "native": "Островське",
       "type": "adm3",
@@ -3894,7 +3912,7 @@
     },
     {
       "id": 110220,
-      "name": "Pachariewka",
+      "name": "Pakharevka",
       "name_default": "Pakharevka",
       "native": "Пахаревка",
       "type": "adm3",
@@ -3930,7 +3948,7 @@
     },
     {
       "id": 110224,
-      "name": "Partizanskoje",
+      "name": "Partizanskoye",
       "name_default": "Partizanskoye",
       "native": "Партизанське",
       "type": "city",
@@ -4002,7 +4020,7 @@
     },
     {
       "id": 110248,
-      "name": "Rejon Pierwomajski",
+      "name": "Pervomayskiy rayon",
       "name_default": "Pervomayskiy rayon",
       "native": "Первомайський район",
       "type": "adm3",
@@ -4056,7 +4074,7 @@
     },
     {
       "id": 110260,
-      "name": "Pietrowka",
+      "name": "Petrovka",
       "name_default": "Petrovka",
       "native": "Петрівка",
       "type": "adm3",
@@ -4074,7 +4092,7 @@
     },
     {
       "id": 110272,
-      "name": "Pionierskoje",
+      "name": "Pionerskoye",
       "name_default": "Pionerskoye",
       "native": "Піонерське",
       "type": "city",
@@ -4092,7 +4110,7 @@
     },
     {
       "id": 110277,
-      "name": "Płodowoje",
+      "name": "Plodovoye",
       "name_default": "Plodovoye",
       "native": "Плодове",
       "type": "adm3",
@@ -4146,7 +4164,7 @@
     },
     {
       "id": 110295,
-      "name": "Połtawka",
+      "name": "Poltavka",
       "name_default": "Poltavka",
       "native": "Полтавка",
       "type": "adm3",
@@ -4164,7 +4182,7 @@
     },
     {
       "id": 110305,
-      "name": "Posztove",
+      "name": "Poshtove",
       "name_default": "Poshtove",
       "native": "Поштове",
       "type": "adm3",
@@ -4182,7 +4200,7 @@
     },
     {
       "id": 110307,
-      "name": "Pożarskoje",
+      "name": "Pozharskoye",
       "name_default": "Pozharskoye",
       "native": "Пожарське",
       "type": "adm3",
@@ -4200,7 +4218,7 @@
     },
     {
       "id": 110308,
-      "name": "Prawda",
+      "name": "Pravda",
       "name_default": "Pravda",
       "native": "Правда",
       "type": "adm3",
@@ -4228,7 +4246,7 @@
       "latitude": "45.11904000",
       "longitude": "35.48025000",
       "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q4377263",
+      "wikiDataId": null,
       "country_code": "UA",
       "state_code": "43",
       "state_id": 4689,
@@ -4236,7 +4254,7 @@
     },
     {
       "id": 110311,
-      "name": "Priozyornoje",
+      "name": "Priozyornoye",
       "name_default": "Priozyornoye",
       "native": "Приозерне",
       "type": "adm3",
@@ -4272,7 +4290,7 @@
     },
     {
       "id": 110314,
-      "name": "Prostornoje",
+      "name": "Prostornoye",
       "name_default": "Prostornoye",
       "native": "Просторне",
       "type": "adm3",
@@ -4290,7 +4308,7 @@
     },
     {
       "id": 110315,
-      "name": "Prudowoje",
+      "name": "Prudovoye",
       "name_default": "Prudovoye",
       "native": "Прудове",
       "type": "city",
@@ -4326,7 +4344,7 @@
     },
     {
       "id": 110326,
-      "name": "Pszenicznoje",
+      "name": "Pshenichnoye",
       "name_default": "Pshenichnoye",
       "native": "Пшеничне",
       "type": "adm3",
@@ -4344,7 +4362,7 @@
     },
     {
       "id": 110329,
-      "name": "Puszkino",
+      "name": "Pushkino",
       "name_default": "Pushkino",
       "native": "Пушкіно",
       "type": "adm3",
@@ -4362,7 +4380,7 @@
     },
     {
       "id": 110333,
-      "name": "Piatichatka",
+      "name": "Pyatikhatka",
       "name_default": "Pyatikhatka",
       "native": "П'ятихатка",
       "type": "adm3",
@@ -4380,7 +4398,7 @@
     },
     {
       "id": 110348,
-      "name": "Rejon Razdol’nenski",
+      "name": "Razdol’nenskiy rayon",
       "name_default": "Razdol’nenskiy rayon",
       "native": "Роздольненський район",
       "type": "adm3",
@@ -4416,9 +4434,9 @@
     },
     {
       "id": 110358,
-      "name": "Rodnikowo",
+      "name": "Rodnikovo",
       "name_default": "Rodnikovo",
-      "native": "Родніково",
+      "native": "Родникове",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -4434,7 +4452,7 @@
     },
     {
       "id": 110367,
-      "name": "Romaszkino",
+      "name": "Romashkino",
       "name_default": "Romashkino",
       "native": "Ромашкіно",
       "type": "adm3",
@@ -4452,7 +4470,7 @@
     },
     {
       "id": 110371,
-      "name": "Roszczino",
+      "name": "Roshchino",
       "name_default": "Roshchino",
       "native": "Рощино",
       "type": "adm3",
@@ -4470,7 +4488,7 @@
     },
     {
       "id": 110372,
-      "name": "Roskosznoje",
+      "name": "Roskoshnoye",
       "name_default": "Roskoshnoye",
       "native": "Роскошне",
       "type": "adm3",
@@ -4488,7 +4506,7 @@
     },
     {
       "id": 110375,
-      "name": "Równe",
+      "name": "Rovnoye",
       "name_default": "Rovnoye",
       "native": "Рівне",
       "type": "adm3",
@@ -4524,7 +4542,7 @@
     },
     {
       "id": 110392,
-      "name": "Rusakowka",
+      "name": "Rusakovka",
       "name_default": "Rusakovka",
       "native": "Русаківка",
       "type": "adm3",
@@ -4542,7 +4560,7 @@
     },
     {
       "id": 110395,
-      "name": "Rybacz'e",
+      "name": "Rybach'e",
       "name_default": "Rybach'e",
       "native": "Рибач'є",
       "type": "city",
@@ -4560,7 +4578,7 @@
     },
     {
       "id": 110399,
-      "name": "Sadowoje",
+      "name": "Sadovoye",
       "name_default": "Sadovoye",
       "native": "Садове",
       "type": "adm3",
@@ -4578,7 +4596,7 @@
     },
     {
       "id": 110403,
-      "name": "Rejon sakski",
+      "name": "Sakskiy rayon",
       "name_default": "Sakskiy rayon",
       "native": "Сакський район",
       "type": "city",
@@ -4598,7 +4616,7 @@
       "id": 110402,
       "name": "Saki",
       "name_default": "Saky",
-      "native": "Сакі",
+      "native": "Саки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4650,7 +4668,7 @@
     },
     {
       "id": 110418,
-      "name": "Senokosnoje",
+      "name": "Senokosnoye",
       "name_default": "Senokosnoye",
       "native": "Сенокосне",
       "type": "city",
@@ -4668,7 +4686,7 @@
     },
     {
       "id": 110421,
-      "name": "Sieriebryanka",
+      "name": "Serebryanka",
       "name_default": "Serebryanka",
       "native": "Серебрянка",
       "type": "adm3",
@@ -4686,7 +4704,7 @@
     },
     {
       "id": 110434,
-      "name": "Szczebetowka",
+      "name": "Shchebetovka",
       "name_default": "Shchebetovka",
       "native": "Щебетівка",
       "type": "city",
@@ -4706,7 +4724,7 @@
       "id": 110437,
       "name": "Szczołkino",
       "name_default": "Shchyolkino",
-      "native": "Щолкіно",
+      "native": "Щолкіне",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -4722,7 +4740,7 @@
     },
     {
       "id": 110439,
-      "name": "Szelkowicznoje",
+      "name": "Shelkovichnoye",
       "name_default": "Shelkovichnoye",
       "native": "Шовковичне",
       "type": "city",
@@ -4740,7 +4758,7 @@
     },
     {
       "id": 110446,
-      "name": "Szirokoje",
+      "name": "Shirokoye",
       "name_default": "Shirokoye",
       "native": "Широке",
       "type": "adm3",
@@ -4776,7 +4794,7 @@
     },
     {
       "id": 110452,
-      "name": "Sztormowoje",
+      "name": "Shtormovoye",
       "name_default": "Shtormovoye",
       "native": "Штормове",
       "type": "adm3",
@@ -4794,7 +4812,7 @@
     },
     {
       "id": 110459,
-      "name": "Simeiz",
+      "name": "Simejiz",
       "name_default": "Simeiz",
       "native": "Сімеїз",
       "type": "city",
@@ -4830,7 +4848,7 @@
     },
     {
       "id": 110462,
-      "name": "Rejon symferopolski",
+      "name": "rejon symferopolski",
       "name_default": "Simferopol Raion",
       "native": "Сімферопольський район",
       "type": "district",
@@ -4848,7 +4866,7 @@
     },
     {
       "id": 110463,
-      "name": "Sinicyno",
+      "name": "Sinitsyno",
       "name_default": "Sinitsyno",
       "native": "Синіцино",
       "type": "adm3",
@@ -4866,7 +4884,7 @@
     },
     {
       "id": 110465,
-      "name": "Sizowka",
+      "name": "Sizovka",
       "name_default": "Sizovka",
       "native": "Сизовка",
       "type": "adm3",
@@ -4884,7 +4902,7 @@
     },
     {
       "id": 110469,
-      "name": "Skalistoje",
+      "name": "Skalistoye",
       "name_default": "Skalistoye",
       "native": "Скалисте",
       "type": "adm3",
@@ -4902,7 +4920,7 @@
     },
     {
       "id": 110473,
-      "name": "Skworcowo",
+      "name": "Skvortsovo",
       "name_default": "Skvortsovo",
       "native": "Скворцово",
       "type": "adm3",
@@ -4920,7 +4938,7 @@
     },
     {
       "id": 110477,
-      "name": "Sławnoje",
+      "name": "Slavnoye",
       "name_default": "Slavnoye",
       "native": "Славське",
       "type": "adm3",
@@ -4938,7 +4956,7 @@
     },
     {
       "id": 110481,
-      "name": "Słowiańskie",
+      "name": "Slavyanskoye",
       "name_default": "Slavyanskoye",
       "native": "Слов'янське",
       "type": "adm3",
@@ -4956,7 +4974,7 @@
     },
     {
       "id": 110497,
-      "name": "Sofiówka",
+      "name": "Sofiivka",
       "name_default": "Sofiivka",
       "native": "Софіївка",
       "type": "city",
@@ -4974,7 +4992,7 @@
     },
     {
       "id": 110501,
-      "name": "Sokolinoje",
+      "name": "Sokolinoye",
       "name_default": "Sokolinoye",
       "native": "Соколине",
       "type": "city",
@@ -4992,7 +5010,7 @@
     },
     {
       "id": 110504,
-      "name": "Dolina Solneczna",
+      "name": "Solnechnaya Dolina",
       "name_default": "Solnechnaya Dolina",
       "native": "Сонячна долина",
       "type": "city",
@@ -5028,7 +5046,7 @@
     },
     {
       "id": 110506,
-      "name": "Solnecznoje",
+      "name": "Solnechnoye",
       "name_default": "Solnechnoye",
       "native": "Сонячне",
       "type": "city",
@@ -5045,26 +5063,8 @@
       "country_id": 230
     },
     {
-      "id": 110517,
-      "name": "Sowiecki",
-      "name_default": "Sovetskiy",
-      "native": "Радянський",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 10410,
-      "latitude": "45.34267000",
-      "longitude": "34.92463000",
-      "timezone": "Europe/Simferopol",
-      "wikiDataId": "Q1718330",
-      "country_code": "UA",
-      "state_code": "43",
-      "state_id": 4689,
-      "country_id": 230
-    },
-    {
       "id": 110518,
-      "name": "Rejon radziecki",
+      "name": "Sovietskyi",
       "name_default": "Sovietskyi",
       "native": "Радянський район",
       "type": "district",
@@ -5082,7 +5082,7 @@
     },
     {
       "id": 110519,
-      "name": "Sowchoznoje",
+      "name": "Sovkhoznoye",
       "name_default": "Sovkhoznoye",
       "native": "Радгоспне",
       "type": "adm3",
@@ -5100,7 +5100,7 @@
     },
     {
       "id": 110523,
-      "name": "Stachanowka",
+      "name": "Stakhanovka",
       "name_default": "Stakhanovka",
       "native": "Стаханівка",
       "type": "adm3",
@@ -5154,7 +5154,7 @@
     },
     {
       "id": 110549,
-      "name": "Stepnoje",
+      "name": "Stepnoye",
       "name_default": "Stepnoye",
       "native": "Степове",
       "type": "adm3",
@@ -5172,7 +5172,7 @@
     },
     {
       "id": 110553,
-      "name": "Stołbowoje",
+      "name": "Stolbovoye",
       "name_default": "Stolbovoye",
       "native": "Столбове",
       "type": "adm3",
@@ -5190,7 +5190,7 @@
     },
     {
       "id": 110556,
-      "name": "Strogonowka",
+      "name": "Strogonovka",
       "name_default": "Strogonovka",
       "native": "Строгонівка",
       "type": "city",
@@ -5244,7 +5244,7 @@
     },
     {
       "id": 110567,
-      "name": "Suworowo",
+      "name": "Suvorovo",
       "name_default": "Suvorovo",
       "native": "Суворово",
       "type": "city",
@@ -5262,7 +5262,7 @@
     },
     {
       "id": 110568,
-      "name": "Suworowskie",
+      "name": "Suvorovskoye",
       "name_default": "Suvorovskoye",
       "native": "Суворовське",
       "type": "adm3",
@@ -5280,7 +5280,7 @@
     },
     {
       "id": 110576,
-      "name": "Swietłoje",
+      "name": "Svetloye",
       "name_default": "Svetloye",
       "native": "Світле",
       "type": "adm3",
@@ -5298,7 +5298,7 @@
     },
     {
       "id": 110586,
-      "name": "Tabacznoje",
+      "name": "Tabachnoye",
       "name_default": "Tabachnoye",
       "native": "Табачне",
       "type": "adm3",
@@ -5316,7 +5316,7 @@
     },
     {
       "id": 110588,
-      "name": "Tankowoje",
+      "name": "Tankovoye",
       "name_default": "Tankovoye",
       "native": "Танкове",
       "type": "city",
@@ -5334,7 +5334,7 @@
     },
     {
       "id": 110596,
-      "name": "Tenistoje",
+      "name": "Tenistoye",
       "name_default": "Tenistoye",
       "native": "Тенісое",
       "type": "adm3",
@@ -5352,7 +5352,7 @@
     },
     {
       "id": 110599,
-      "name": "Tepłowka",
+      "name": "Teplovka",
       "name_default": "Teplovka",
       "native": "Теплівка",
       "type": "city",
@@ -5370,7 +5370,7 @@
     },
     {
       "id": 110610,
-      "name": "Tokarewo",
+      "name": "Tokarevo",
       "name_default": "Tokarevo",
       "native": "Токарево",
       "type": "adm3",
@@ -5424,7 +5424,7 @@
     },
     {
       "id": 110630,
-      "name": "Cwietoczne",
+      "name": "Tsvetochnoye",
       "name_default": "Tsvetochnoye",
       "native": "Квіткове",
       "type": "adm3",
@@ -5442,7 +5442,7 @@
     },
     {
       "id": 110638,
-      "name": "Turgieniewka",
+      "name": "Turgenevka",
       "name_default": "Turgenevka",
       "native": "Тургенєвка",
       "type": "city",
@@ -5460,7 +5460,7 @@
     },
     {
       "id": 110648,
-      "name": "Uglowoje",
+      "name": "Uglovoye",
       "name_default": "Uglovoye",
       "native": "Углове",
       "type": "adm3",
@@ -5496,7 +5496,7 @@
     },
     {
       "id": 110653,
-      "name": "Ukromnoje",
+      "name": "Ukromnoye",
       "name_default": "Ukromnoye",
       "native": "Укромне",
       "type": "adm3",
@@ -5514,7 +5514,7 @@
     },
     {
       "id": 110658,
-      "name": "Urozhajnoje",
+      "name": "Urozhaynoye",
       "name_default": "Urozhaynoye",
       "native": "Урожайне",
       "type": "adm3",
@@ -5550,7 +5550,7 @@
     },
     {
       "id": 110665,
-      "name": "Uwarowo",
+      "name": "Uvarovo",
       "name_default": "Uvarovo",
       "native": "Уварово",
       "type": "adm3",
@@ -5568,7 +5568,7 @@
     },
     {
       "id": 110666,
-      "name": "Ujutnoje",
+      "name": "Uyutnoye",
       "name_default": "Uyutnoye",
       "native": "Уютне",
       "type": "adm3",
@@ -5586,7 +5586,7 @@
     },
     {
       "id": 110676,
-      "name": "Wasiliewka",
+      "name": "Vasilyevka",
       "name_default": "Vasilyevka",
       "native": "Василівка",
       "type": "adm3",
@@ -5604,7 +5604,7 @@
     },
     {
       "id": 110703,
-      "name": "Weresayevo",
+      "name": "Veresayevo",
       "name_default": "Veresayevo",
       "native": "Вересаєво",
       "type": "adm3",
@@ -5622,7 +5622,7 @@
     },
     {
       "id": 110711,
-      "name": "Wierchoreczje",
+      "name": "Verkhorechye",
       "name_default": "Verkhorechye",
       "native": "Верхореч'є",
       "type": "adm3",
@@ -5658,7 +5658,7 @@
     },
     {
       "id": 110715,
-      "name": "Wesełowka",
+      "name": "Veselovka",
       "name_default": "Veselovka",
       "native": "Веселівка",
       "type": "adm3",
@@ -5676,7 +5676,7 @@
     },
     {
       "id": 110717,
-      "name": "Wilno",
+      "name": "Vilino",
       "name_default": "Vilino",
       "native": "Віліно",
       "type": "adm3",
@@ -5712,7 +5712,7 @@
     },
     {
       "id": 110723,
-      "name": "Winogradnoje",
+      "name": "Vinogradnoye",
       "name_default": "Vinogradnoye",
       "native": "Виноградне",
       "type": "city",
@@ -5730,7 +5730,7 @@
     },
     {
       "id": 110724,
-      "name": "Winogradowo",
+      "name": "Vinogradovo",
       "name_default": "Vinogradovo",
       "native": "Виноградово",
       "type": "adm3",
@@ -5748,7 +5748,7 @@
     },
     {
       "id": 110725,
-      "name": "Wiszennoje",
+      "name": "Vishennoye",
       "name_default": "Vishennoye",
       "native": "Вишенне",
       "type": "adm3",
@@ -5766,7 +5766,7 @@
     },
     {
       "id": 110726,
-      "name": "Wiszniówka",
+      "name": "Vishnyovka",
       "name_default": "Vishnyovka",
       "native": "Вишньовка",
       "type": "adm3",
@@ -5784,7 +5784,7 @@
     },
     {
       "id": 110728,
-      "name": "Władimirówka",
+      "name": "Vladimirovka",
       "name_default": "Vladimirovka",
       "native": "Володимирівка",
       "type": "city",
@@ -5802,7 +5802,7 @@
     },
     {
       "id": 110729,
-      "name": "Władysławówka",
+      "name": "Vladislavovka",
       "name_default": "Vladislavovka",
       "native": "Владиславівка",
       "type": "adm3",
@@ -5838,7 +5838,7 @@
     },
     {
       "id": 110739,
-      "name": "Wolnoje",
+      "name": "Vol’noye",
       "name_default": "Vol’noye",
       "native": "Вольне",
       "type": "adm3",
@@ -5856,7 +5856,7 @@
     },
     {
       "id": 110740,
-      "name": "Worobiowo",
+      "name": "Vorobyovo",
       "name_default": "Vorobyovo",
       "native": "Воробйово",
       "type": "adm3",
@@ -5874,7 +5874,7 @@
     },
     {
       "id": 110746,
-      "name": "Woschod",
+      "name": "Voskhod",
       "name_default": "Voskhod",
       "native": "Восход",
       "type": "adm3",
@@ -5892,7 +5892,7 @@
     },
     {
       "id": 110748,
-      "name": "Wojkowo",
+      "name": "Voykovo",
       "name_default": "Voykovo",
       "native": "Войково",
       "type": "adm3",
@@ -5946,7 +5946,7 @@
     },
     {
       "id": 110785,
-      "name": "Jarkoje",
+      "name": "Yarkoye",
       "name_default": "Yarkoye",
       "native": "Яркоє",
       "type": "adm3",
@@ -5964,7 +5964,7 @@
     },
     {
       "id": 110786,
-      "name": "Jarkoje Pole",
+      "name": "Yarkoye Pole",
       "name_default": "Yarkoye Pole",
       "native": "Ярке Поле",
       "type": "adm3",
@@ -5982,7 +5982,7 @@
     },
     {
       "id": 110789,
-      "name": "Jasnopolianskoje",
+      "name": "Yasnopolyanskoye",
       "name_default": "Yasnopolyanskoye",
       "native": "Яснополянське",
       "type": "adm3",
@@ -6000,7 +6000,7 @@
     },
     {
       "id": 110794,
-      "name": "Jemeljanowka",
+      "name": "Yemelyanovka",
       "name_default": "Yemelyanovka",
       "native": "Ємельянівка",
       "type": "adm3",
@@ -6018,7 +6018,7 @@
     },
     {
       "id": 110798,
-      "name": "Jermakowo",
+      "name": "Yermakovo",
       "name_default": "Yermakovo",
       "native": "Єрмаково",
       "type": "adm3",
@@ -6054,7 +6054,7 @@
     },
     {
       "id": 110813,
-      "name": "Zalesie",
+      "name": "Zalesye",
       "name_default": "Zalesye",
       "native": "Залісся",
       "type": "city",
@@ -6072,7 +6072,7 @@
     },
     {
       "id": 110819,
-      "name": "Zaozyornoje",
+      "name": "Zaozyornoye",
       "name_default": "Zaozyornoye",
       "native": "Заозерне",
       "type": "city",
@@ -6090,7 +6090,7 @@
     },
     {
       "id": 110822,
-      "name": "Zarecznoje",
+      "name": "Zarechnoye",
       "name_default": "Zarechnoye",
       "native": "Зарічне",
       "type": "city",
@@ -6126,7 +6126,7 @@
     },
     {
       "id": 110830,
-      "name": "Zawietnoje",
+      "name": "Zavetnoye",
       "name_default": "Zavetnoye",
       "native": "Завітне",
       "type": "adm3",
@@ -6144,7 +6144,7 @@
     },
     {
       "id": 110835,
-      "name": "Zielenogorskoje",
+      "name": "Zelenogorskoye",
       "name_default": "Zelenogorskoye",
       "native": "Зеленогорське",
       "type": "adm3",
@@ -6216,7 +6216,7 @@
     },
     {
       "id": 110841,
-      "name": "Żeleznodorożnoje",
+      "name": "Zheleznodorozhnoye",
       "name_default": "Zheleznodorozhnoye",
       "native": "Залізнодорожне",
       "type": "adm3",
@@ -6234,7 +6234,7 @@
     },
     {
       "id": 110842,
-      "name": "Żelabowka",
+      "name": "Zhelyabovka",
       "name_default": "Zhelyabovka",
       "native": "Желябівка",
       "type": "adm3",
@@ -6252,7 +6252,7 @@
     },
     {
       "id": 110843,
-      "name": "Żemczużyna",
+      "name": "Zhemchuzhina",
       "name_default": "Zhemchuzhina",
       "native": "Жемчужина",
       "type": "adm3",
@@ -6270,7 +6270,7 @@
     },
     {
       "id": 110848,
-      "name": "Żurawki",
+      "name": "Zhuravki",
       "name_default": "Zhuravki",
       "native": "Журавки",
       "type": "adm3",
@@ -6306,7 +6306,7 @@
     },
     {
       "id": 110850,
-      "name": "Żurawlówka",
+      "name": "Zhuravlyovka",
       "name_default": "Zhuravlyovka",
       "native": "Журавльовка",
       "type": "adm3",
@@ -6342,7 +6342,7 @@
     },
     {
       "id": 110862,
-      "name": "Złote Pole",
+      "name": "Zolotoye Pole",
       "name_default": "Zolotoye Pole",
       "native": "Золоте Поле",
       "type": "adm3",
@@ -6378,7 +6378,7 @@
     },
     {
       "id": 110868,
-      "name": "Zuya",
+      "name": "Zuja",
       "name_default": "Zuya",
       "native": "Зуя",
       "type": "adm3",

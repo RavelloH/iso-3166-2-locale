@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104844,
-      "name": "アンティグオ・クスカトラン",
+      "name": "クスカトラン",
       "name_default": "Antiguo Cuscatlán",
       "native": "Antiguo Cuscatlán",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 104858,
-      "name": "シウダー・アルセ",
+      "name": "アルセー市",
       "name_default": "Ciudad Arce",
       "native": "Ciudad Arce",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104884,
-      "name": "ラ・リベルタッド",
+      "name": "ラ・リベルタード",
       "name_default": "La Libertad",
       "native": "La Libertad",
       "type": "city",
@@ -147,9 +147,9 @@
     },
     {
       "id": 104907,
-      "name": "サンファンオピコ",
+      "name": "サン・フアン・オピコ",
       "name_default": "San Juan Opico",
-      "native": "Mono de San Juan",
+      "native": "San Juan Opico",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 104911,
-      "name": "サンパブロ・タカチコ",
+      "name": "サン・パブロ・タカチコ",
       "name_default": "San Pablo Tacachico",
       "native": "San Pablo Tacachico",
       "type": "city",

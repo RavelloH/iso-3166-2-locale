@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 110978,
-      "name": "Абердин",
+      "name": "Абердін",
       "name_default": "Aberdeen",
       "native": "Aberdeen",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111272,
-      "name": "Американські водоспади",
+      "name": "American Falls",
       "name_default": "American Falls",
       "native": "American Falls",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112116,
-      "name": "Бельвю",
+      "name": "Беллвью",
       "name_default": "Bellevue",
       "native": "Bellevue",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 112385,
-      "name": "Чорноногий",
+      "name": "Блекфут",
       "name_default": "Blackfoot",
       "native": "Blackfoot",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 113023,
-      "name": "Буль",
+      "name": "Бул",
       "name_default": "Buhl",
       "native": "Buhl",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 113182,
-      "name": "Колдуелл",
+      "name": "Колдвелл",
       "name_default": "Caldwell",
       "native": "Caldwell",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 113514,
-      "name": "Каскад",
+      "name": "Каскейд",
       "name_default": "Cascade",
       "native": "Cascade",
       "type": "city",
@@ -523,9 +523,9 @@
     },
     {
       "id": 114366,
-      "name": "Кер-д'Ален",
+      "name": "Кор-д'Алейн",
       "name_default": "Coeur d'Alene",
-      "native": "Heart of Alene",
+      "native": "Coeur d'Alene",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -559,7 +559,7 @@
     },
     {
       "id": 114711,
-      "name": "Рада",
+      "name": "Каунсіл",
       "name_default": "Council",
       "native": "Council",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 115004,
-      "name": "Сади Далтона",
+      "name": "Далтон-Ґарденс",
       "name_default": "Dalton Gardens",
       "native": "Dalton Gardens",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 115478,
-      "name": "Дріггс",
+      "name": "Дріґґс",
       "name_default": "Driggs",
       "native": "Driggs",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 115598,
-      "name": "Орел",
+      "name": "Ігл",
       "name_default": "Eagle",
       "native": "Eagle",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 116507,
-      "name": "Файлер",
+      "name": "Філер",
       "name_default": "Filer",
       "native": "Filer",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 116714,
-      "name": "Форт-Холл",
+      "name": "Форт-Голл",
       "name_default": "Fort Hall",
       "native": "Fort Hall",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 117299,
-      "name": "Гленнс-Феррі",
+      "name": "Ґленнс Феррі",
       "name_default": "Glenns Ferry",
       "native": "Glenns Ferry",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 117381,
-      "name": "Гудінг",
+      "name": "Ґудінґ",
       "name_default": "Gooding",
       "native": "Gooding",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 117490,
-      "name": "Грейнджвілл",
+      "name": "Ґрейнджевілл",
       "name_default": "Grangeville",
       "native": "Grangeville",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 118378,
-      "name": "Прихована весна",
+      "name": "Hidden Spring",
       "name_default": "Hidden Spring",
       "native": "Hidden Spring",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 118589,
-      "name": "Гоумдейл",
+      "name": "Гомдейл",
       "name_default": "Homedale",
       "native": "Homedale",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 118871,
-      "name": "Айдахо-Фоллз",
+      "name": "Айдахо Фолс",
       "name_default": "Idaho Falls",
       "native": "Idaho Falls",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 118969,
-      "name": "Іона",
+      "name": "Айона",
       "name_default": "Iona",
       "native": "Iona",
       "type": "city",
@@ -991,9 +991,9 @@
     },
     {
       "id": 119371,
-      "name": "Камія",
+      "name": "Камайа",
       "name_default": "Kamiah",
-      "native": "We",
+      "native": "Kamiah",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 119429,
-      "name": "Келлогг",
+      "name": "Келлоґґ",
       "name_default": "Kellogg",
       "native": "Kellogg",
       "type": "city",
@@ -1065,7 +1065,7 @@
       "id": 119725,
       "name": "Куна",
       "name_default": "Kuna",
-      "native": "There are",
+      "native": "Kuna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1081,9 +1081,9 @@
     },
     {
       "id": 120137,
-      "name": "Лапвай",
+      "name": "Лапвей",
       "name_default": "Lapwai",
-      "native": "Lapawaiwa",
+      "native": "Lapwai",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 121057,
-      "name": "Місто Малад",
+      "name": "Малад-Сіті",
       "name_default": "Malad City",
       "native": "Malad City",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 121330,
-      "name": "Марсінг",
+      "name": "Марсинг",
       "name_default": "Marsing",
       "native": "Marsing",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 121465,
-      "name": "МакКолл",
+      "name": "Макколл",
       "name_default": "McCall",
       "native": "McCall",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 122300,
-      "name": "Москва",
+      "name": "Москов",
       "name_default": "Moscow",
       "native": "Moscow",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 122417,
-      "name": "Гірський дім",
+      "name": "Маунтін-Гоум",
       "name_default": "Mountain Home",
       "native": "Mountain Home",
       "type": "city",
@@ -1369,9 +1369,9 @@
     },
     {
       "id": 122879,
-      "name": "Незперце",
+      "name": "Незперс",
       "name_default": "Nezperce",
-      "native": "Neshurace",
+      "native": "Nezperce",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 123836,
-      "name": "Париж",
+      "name": "Періс",
       "name_default": "Paris",
       "native": "Paris",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 123920,
-      "name": "Павло",
+      "name": "Паул",
       "name_default": "Paul",
       "native": "Paul",
       "type": "city",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 123944,
-      "name": "Пайєтт",
+      "name": "Паєтт",
       "name_default": "Payette",
       "native": "Payette",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 124253,
-      "name": "Пайнхерст",
+      "name": "Пайнгерст",
       "name_default": "Pinehurst",
       "native": "Pinehurst",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 124469,
-      "name": "Пондерей",
+      "name": "Пондерай",
       "name_default": "Ponderay",
       "native": "Ponderay",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 124577,
-      "name": "Пост-Фоллс",
+      "name": "Пост-Фолс",
       "name_default": "Post Falls",
       "native": "Post Falls",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 124900,
-      "name": "Ратдрум",
+      "name": "Ратдрам",
       "name_default": "Rathdrum",
       "native": "Rathdrum",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 125038,
-      "name": "Рексбург",
+      "name": "Рексберг",
       "name_default": "Rexburg",
       "native": "Rexburg",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 125137,
-      "name": "Рігбі",
+      "name": "Ріґбі",
       "name_default": "Rigby",
       "native": "Rigby",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 125602,
-      "name": "Святий Антоній",
+      "name": "Ст.-Ентоні",
       "name_default": "Saint Anthony",
       "native": "Saint Anthony",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 125685,
-      "name": "Сент-Марі",
+      "name": "Сент-Меріс",
       "name_default": "Saint Maries",
       "native": "Saint Maries",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 125763,
-      "name": "Лосось",
+      "name": "Салман",
       "name_default": "Salmon",
       "native": "Salmon",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 125871,
-      "name": "Сендпойнт",
+      "name": "Сандпоінт",
       "name_default": "Sandpoint",
       "native": "Sandpoint",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 126379,
-      "name": "Шошони",
+      "name": "Шошоні",
       "name_default": "Shoshone",
       "native": "Shoshone",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 126562,
-      "name": "Сода-Спрінгс",
+      "name": "Сода-Спринґс",
       "name_default": "Soda Springs",
       "native": "Soda Springs",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 126839,
-      "name": "Озеро Спіріт",
+      "name": "Спірит-Лейк",
       "name_default": "Spirit Lake",
       "native": "Spirit Lake",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 126978,
-      "name": "Зірка",
+      "name": "Стар",
       "name_default": "Star",
       "native": "Star",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 127169,
-      "name": "Шугар-Сіті",
+      "name": "Шуґар-Сіті",
       "name_default": "Sugar City",
       "native": "Sugar City",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 127241,
-      "name": "Сонячна долина",
+      "name": "Сан-Валлі",
       "name_default": "Sun Valley",
       "native": "Sun Valley",
       "type": "city",
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 127924,
-      "name": "Твін-Фоллз",
+      "name": "Твін-Фоллс",
       "name_default": "Twin Falls",
       "native": "Twin Falls",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 127939,
-      "name": "Тайхі",
+      "name": "Тайгі",
       "name_default": "Tyhee",
       "native": "Tyhee",
       "type": "city",
@@ -1981,9 +1981,9 @@
     },
     {
       "id": 128761,
-      "name": "Вайзер",
+      "name": "Вайсер",
       "name_default": "Weiser",
-      "native": "Wise",
+      "native": "Weiser",
       "type": "city",
       "level": null,
       "parent_id": null,

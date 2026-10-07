@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 131407,
-      "name": "Binga",
+      "name": "Binga village",
       "name_default": "Binga",
-      "native": "Binder",
+      "native": "Binga",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 131408,
-      "name": "Binga-district",
+      "name": "Binga District",
       "name_default": "Binga District",
       "native": "Binga district",
       "type": "district",
@@ -93,7 +93,7 @@
     },
     {
       "id": 131409,
-      "name": "Bubi-district",
+      "name": "Bubi",
       "name_default": "Bubi",
       "native": "Bubi District",
       "type": "district",
@@ -131,7 +131,7 @@
       "id": 131446,
       "name": "Hwange",
       "name_default": "Hwange",
-      "native": "It has been",
+      "native": "Hwange",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,9 +147,9 @@
     },
     {
       "id": 131447,
-      "name": "Hwange-district",
+      "name": "Hwange District",
       "name_default": "Hwange District",
-      "native": "It was district",
+      "native": "Hwange District",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 131453,
-      "name": "Kamativi-mijn",
+      "name": "Kamativi",
       "name_default": "Kamativi Mine",
       "native": "Kamativei mine",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 131461,
-      "name": "Lupane-district",
+      "name": "Lupane District",
       "name_default": "Lupane District",
       "native": "Lupane District",
       "type": "district",
@@ -237,9 +237,9 @@
     },
     {
       "id": 131487,
-      "name": "Nkayi-district",
+      "name": "Nkayi",
       "name_default": "Nkayi",
-      "native": "Bottom District",
+      "native": "Nkayi",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 131506,
-      "name": "Victoriawatervallen",
+      "name": "Victoria Falls",
       "name_default": "Victoria Falls",
       "native": "Victoria Falls",
       "type": "city",

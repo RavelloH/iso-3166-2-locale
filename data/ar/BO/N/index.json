@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 9848,
-      "name": "كوبيجا",
+      "name": "كوبيخا",
       "name_default": "Cobija",
       "native": "Cobija",
       "type": "adm1",
@@ -114,7 +114,7 @@
       "name": "مقاطعة مادري دي ديوس",
       "name_default": "Provincia Madre de Dios",
       "native": "Provincia Madre de Dios",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 16726,
@@ -132,7 +132,7 @@
       "name": "مقاطعة مانوريبي",
       "name_default": "Provincia Manuripi",
       "native": "Provincia Manuripi",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 14986,

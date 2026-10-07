@@ -93,7 +93,7 @@
     },
     {
       "id": 49116,
-      "name": "コッツモア",
+      "name": "コテスモア",
       "name_default": "Cottesmore",
       "native": "Cottesmore",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49473,
-      "name": "エンピンガム",
+      "name": "エッピンガム",
       "name_default": "Empingham",
       "native": "Empingham",
       "type": "adm3",
@@ -218,24 +218,6 @@
       "country_id": 232
     },
     {
-      "id": 49699,
-      "name": "グランサム",
-      "name_default": "Grantham",
-      "native": "Grantham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 43833,
-      "latitude": "52.91149000",
-      "longitude": "-0.64184000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q846683",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 49748,
       "name": "グリーサム",
       "name_default": "Greetham",
@@ -255,7 +237,7 @@
     },
     {
       "id": 50130,
-      "name": "ケトン",
+      "name": "ケットン",
       "name_default": "Ketton",
       "native": "Ketton",
       "type": "adm3",
@@ -326,26 +308,8 @@
       "country_id": 232
     },
     {
-      "id": 50544,
-      "name": "メルトン・モーブレー",
-      "name_default": "Melton Mowbray",
-      "native": "Melton Mowbray",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 27158,
-      "latitude": "52.76588000",
-      "longitude": "-0.88693000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1018423",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 50625,
-      "name": "モルコット",
+      "name": "マーコット",
       "name_default": "Morcott",
       "native": "Morcott",
       "type": "adm3",
@@ -363,7 +327,7 @@
     },
     {
       "id": 50759,
-      "name": "ノース・ラッフェナム",
+      "name": "ノース・ルフィンハム",
       "name_default": "North Luffenham",
       "native": "North Luffenham",
       "type": "adm3",
@@ -381,7 +345,7 @@
     },
     {
       "id": 50792,
-      "name": "オークハム",
+      "name": "オーカム",
       "name_default": "Oakham",
       "native": "Oakham",
       "type": "adm2",
@@ -399,7 +363,7 @@
     },
     {
       "id": 51154,
-      "name": "ライホール",
+      "name": "ベルメスソープ",
       "name_default": "Ryhall",
       "native": "Ryhall",
       "type": "adm3",
@@ -435,7 +399,7 @@
     },
     {
       "id": 51359,
-      "name": "サウス・ラッフェナム",
+      "name": "サウス・ルフィンハム",
       "name_default": "South Luffenham",
       "native": "South Luffenham",
       "type": "adm3",

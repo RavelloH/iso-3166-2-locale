@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104379,
-      "name": "Bánovce nad Bebravou",
+      "name": "بانوفتس ناد بيبرافو",
       "name_default": "Bánovce nad Bebravou",
       "native": "Bánovce nad Bebravou",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 104373,
-      "name": "بوجنيس",
+      "name": "بوينيتسى",
       "name_default": "Bojnice",
       "native": "Bojnice",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104377,
-      "name": "Brezová pod Bradlom",
+      "name": "برزوفا بود برادلوم",
       "name_default": "Brezová pod Bradlom",
       "native": "Brezová pod Bradlom",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104384,
-      "name": "Dubnica nad Váhom",
+      "name": "دوبنيتسا ناد فاهوم",
       "name_default": "Dubnica nad Váhom",
       "native": "Dubnica nad Váhom",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104402,
-      "name": "إيلافا",
+      "name": "ايلافا",
       "name_default": "Ilava",
       "native": "Ilava",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 104437,
-      "name": "نيمشوفا",
+      "name": "نيموشوفا",
       "name_default": "Nemšová",
       "native": "Nemšová",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 104441,
-      "name": "نوفا دوبنيكا",
+      "name": "نوفا دوبنيتسا",
       "name_default": "Nová Dubnica",
       "native": "Nová Dubnica",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 104444,
-      "name": "Nové Mesto nad Váhom",
+      "name": "نوفى ميستو ناد فاهوم",
       "name_default": "Nové Mesto nad Váhom",
       "native": "Nové Mesto nad Váhom",
       "type": "city",
@@ -294,7 +294,7 @@
       "name": "Okres Bánovce nad Bebravou",
       "name_default": "Okres Bánovce nad Bebravou",
       "native": "Okres Bánovce nad Bebravou",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 34910,
@@ -330,7 +330,7 @@
       "name": "أوكريس ميجافا",
       "name_default": "Okres Myjava",
       "native": "Okres Myjava",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24809,
@@ -453,7 +453,7 @@
     },
     {
       "id": 104523,
-      "name": "بارتيزانسكي",
+      "name": "بارتيزانسكى",
       "name_default": "Partizánske",
       "native": "Partizánske",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 104533,
-      "name": "بوتشوف",
+      "name": "بوخوف",
       "name_default": "Púchov",
       "native": "Púchov",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 104566,
-      "name": "ترينتشيانسكي تيبليس",
+      "name": "ترينتشياسكي تيبليسي",
       "name_default": "Trenčianske Teplice",
       "native": "Trenčianske Teplice",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 104567,
-      "name": "ترينشين",
+      "name": "ترنتشين",
       "name_default": "Trenčín",
       "native": "Trenčín",
       "type": "adm1",

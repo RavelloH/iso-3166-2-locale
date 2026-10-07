@@ -75,7 +75,7 @@
     },
     {
       "id": 48338,
-      "name": "베일던",
+      "name": "바일던",
       "name_default": "Baildon",
       "native": "Baildon",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48515,
-      "name": "빙글리",
+      "name": "브링글리",
       "name_default": "Bingley",
       "native": "Bingley",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50105,
-      "name": "키글리",
+      "name": "키슬리",
       "name_default": "Keighley",
       "native": "Keighley",
       "type": "adm3",
@@ -272,24 +272,6 @@
       "country_id": 232
     },
     {
-      "id": 51001,
-      "name": "퍼드시",
-      "name_default": "Pudsey",
-      "native": "Pudsey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33109,
-      "latitude": "53.79538000",
-      "longitude": "-1.66134000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1009290",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51011,
       "name": "퀸즈베리",
       "name_default": "Queensbury",
@@ -309,7 +291,7 @@
     },
     {
       "id": 51284,
-      "name": "십리",
+      "name": "시플리",
       "name_default": "Shipley",
       "native": "Shipley",
       "type": "city",
@@ -327,7 +309,7 @@
     },
     {
       "id": 51307,
-      "name": "실스덴",
+      "name": "실스던",
       "name_default": "Silsden",
       "native": "Silsden",
       "type": "city",
@@ -344,28 +326,10 @@
       "country_id": 232
     },
     {
-      "id": 51326,
-      "name": "스킵턴",
-      "name_default": "Skipton",
-      "native": "Skipton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15369,
-      "latitude": "53.96144000",
-      "longitude": "-2.01676000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q516131",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51437,
       "name": "스티튼",
       "name_default": "Steeton",
-      "native": "Uninteotive",
+      "native": "Steeton",
       "type": "city",
       "level": null,
       "parent_id": null,

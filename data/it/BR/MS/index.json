@@ -180,7 +180,7 @@
     },
     {
       "id": 10117,
-      "name": "Alcinopolis",
+      "name": "Alcinópolis",
       "name_default": "Alcinópolis",
       "native": "Alcinópolis",
       "type": "city",
@@ -216,7 +216,7 @@
     },
     {
       "id": 10238,
-      "name": "Anastasio",
+      "name": "Anastácio",
       "name_default": "Anastácio",
       "native": "Anastácio",
       "type": "city",
@@ -252,7 +252,7 @@
     },
     {
       "id": 10259,
-      "name": "Angelica",
+      "name": "Angélica",
       "name_default": "Angélica",
       "native": "Angélica",
       "type": "adm2",
@@ -270,7 +270,7 @@
     },
     {
       "id": 10277,
-      "name": "Antonio João",
+      "name": "Antônio João",
       "name_default": "Antônio João",
       "native": "Antônio João",
       "type": "city",
@@ -377,24 +377,6 @@
       "country_id": 31
     },
     {
-      "id": 10580,
-      "name": "Bataiporã",
-      "name_default": "Bataiporã",
-      "native": "Breakbong quebrado",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10712,
-      "latitude": "-22.29528000",
-      "longitude": "-53.27111000",
-      "timezone": "America/Campo_Grande",
-      "wikiDataId": "Q1796657",
-      "country_code": "BR",
-      "state_code": "MS",
-      "state_id": 2010,
-      "country_id": 31
-    },
-    {
       "id": 10584,
       "name": "Batayporã",
       "name_default": "Batayporã",
@@ -413,8 +395,26 @@
       "country_id": 31
     },
     {
+      "id": 10580,
+      "name": "Batayporã",
+      "name_default": "Batayporã",
+      "native": "Batayporã",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10712,
+      "latitude": "-22.29528000",
+      "longitude": "-53.27111000",
+      "timezone": "America/Campo_Grande",
+      "wikiDataId": "Q1796657",
+      "country_code": "BR",
+      "state_code": "MS",
+      "state_id": 2010,
+      "country_id": 31
+    },
+    {
       "id": 10594,
-      "name": "Bella Vista",
+      "name": "Bela Vista",
       "name_default": "Bela Vista",
       "native": "Bela Vista",
       "type": "city",
@@ -468,7 +468,7 @@
     },
     {
       "id": 10770,
-      "name": "Brasile",
+      "name": "Brasilândia",
       "name_default": "Brasilândia",
       "native": "Brasilândia",
       "type": "city",
@@ -504,7 +504,7 @@
     },
     {
       "id": 10939,
-      "name": "Campapuã",
+      "name": "Camapuã",
       "name_default": "Camapuã",
       "native": "Camapuã",
       "type": "city",
@@ -560,7 +560,7 @@
       "id": 11102,
       "name": "Caracol",
       "name_default": "Caracol",
-      "native": "Lesma",
+      "native": "Caracol",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -882,7 +882,7 @@
     },
     {
       "id": 12255,
-      "name": "Innocenza",
+      "name": "Inocência",
       "name_default": "Inocência",
       "native": "Inocência",
       "type": "city",
@@ -954,7 +954,7 @@
     },
     {
       "id": 12574,
-      "name": "Giappone",
+      "name": "Japorã",
       "name_default": "Japorã",
       "native": "Japorã",
       "type": "city",
@@ -990,7 +990,7 @@
     },
     {
       "id": 12583,
-      "name": "Giardino",
+      "name": "Jardim",
       "name_default": "Jardim",
       "native": "Jardim",
       "type": "city",
@@ -1028,7 +1028,7 @@
       "id": 12711,
       "name": "Juti",
       "name_default": "Juti",
-      "native": "Vem.",
+      "native": "Juti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1188,7 +1188,7 @@
     },
     {
       "id": 13351,
-      "name": "Nuova Andradina",
+      "name": "Nova Andradina",
       "name_default": "Nova Andradina",
       "native": "Nova Andradina",
       "type": "city",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": 14301,
-      "name": "Rio Verde del Mato Grosso",
+      "name": "Rio Verde de Mato Grosso",
       "name_default": "Rio Verde de Mato Grosso",
       "native": "Rio Verde de Mato Grosso",
       "type": "city",

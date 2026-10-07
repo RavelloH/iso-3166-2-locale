@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48216,
-      "name": "اسکندریه",
+      "name": "الکساندریا",
       "name_default": "Alexandria",
       "native": "Alexandria",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48350,
-      "name": "بلوچ",
+      "name": "بالوک",
       "name_default": "Balloch",
       "native": "Balloch",
       "type": "city",
@@ -128,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 49043,
+      "name": "کلایدبنک",
+      "name_default": "Clydebank",
+      "native": "Clydebank",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26320,
+      "latitude": "55.90137000",
+      "longitude": "-4.40570000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q996502",
+      "country_code": "GB",
+      "state_code": "WDU",
+      "state_id": 2440,
+      "country_id": 232
+    },
+    {
       "id": 49340,
-      "name": "دامبارتون",
+      "name": "دامبرتون",
       "name_default": "Dumbarton",
       "native": "Dumbarton",
       "type": "adm2",
@@ -183,7 +201,7 @@
     },
     {
       "id": 50803,
-      "name": "کیلپاتریک قدیمی",
+      "name": "اولد کیلپتریک",
       "name_default": "Old Kilpatrick",
       "native": "Old Kilpatrick",
       "type": "city",
@@ -221,7 +239,7 @@
       "id": 51713,
       "name": "دره لون",
       "name_default": "Vale of Leven",
-      "native": "Pale or life",
+      "native": "Vale of Leven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +255,7 @@
     },
     {
       "id": 51815,
-      "name": "وست دانبارتونشر",
+      "name": "دونبارتونشر غربی",
       "name_default": "West Dunbartonshire",
       "native": "West Dunbartonshire",
       "type": "area",

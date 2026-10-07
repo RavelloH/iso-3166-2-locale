@@ -93,9 +93,9 @@
     },
     {
       "id": 49477,
-      "name": "Enniskillen",
+      "name": "Inis Ceithleann",
       "name_default": "Enniskillen",
-      "native": "Forecast",
+      "native": "Enniskillen",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 49545,
-      "name": "Fermanagh hag Omagh",
+      "name": "Fermanagh and Omagh",
       "name_default": "Fermanagh and Omagh",
       "native": "Fermanagh and Omagh",
       "type": "area",
@@ -131,7 +131,7 @@
       "id": 49560,
       "name": "Fintona",
       "name_default": "Fintona",
-      "native": "Strings",
+      "native": "Fintona",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 50073,
-      "name": "Irvinestown",
+      "name": "Baile an Irbhinigh",
       "name_default": "Irvinestown",
       "native": "Irvinestown",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50320,
-      "name": "Lisnaskea",
+      "name": "Lios na Scéithe",
       "name_default": "Lisnaskea",
       "native": "Lisnaskea",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50811,
-      "name": "Omagh",
+      "name": "An Ómaigh",
       "name_default": "Omagh",
       "native": "Omagh",
       "type": "adm2",

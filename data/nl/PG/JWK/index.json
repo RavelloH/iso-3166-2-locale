@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 81028,
-      "name": "Angalimp Zuid-Wahgi",
+      "name": "Angalimp South Wahgi",
       "name_default": "Angalimp South Wahgi",
       "native": "Angalimp South Wahgi",
       "type": "city",
@@ -85,7 +85,7 @@
       "name": "Jimi",
       "name_default": "Jimi",
       "native": "Jimi",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37385,
@@ -100,7 +100,7 @@
     },
     {
       "id": 81093,
-      "name": "Noord-Wahgi",
+      "name": "North Wahgi",
       "name_default": "North Wahgi",
       "native": "North Wahgi",
       "type": "area",

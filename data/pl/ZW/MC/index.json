@@ -59,7 +59,7 @@
       "id": 131405,
       "name": "Bindura",
       "name_default": "Bindura",
-      "native": "Change",
+      "native": "Bindura",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 131406,
-      "name": "Dystrykt Bindura",
+      "name": "Bindura District",
       "name_default": "Bindura District",
       "native": "Bindura District",
       "type": "district",
@@ -93,7 +93,7 @@
     },
     {
       "id": 131412,
-      "name": "Stulecie",
+      "name": "Centenary",
       "name_default": "Centenary",
       "native": "Centenary",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 131413,
-      "name": "Dzielnica Stulecia",
+      "name": "Centenary District",
       "name_default": "Centenary District",
       "native": "Centenary District",
       "type": "district",
@@ -129,7 +129,7 @@
     },
     {
       "id": 131428,
-      "name": "Koncesja",
+      "name": "Concession",
       "name_default": "Concession",
       "native": "Concession",
       "type": "city",
@@ -165,9 +165,9 @@
     },
     {
       "id": 131437,
-      "name": "Dzielnica Guruve",
+      "name": "Guruve",
       "name_default": "Guruve",
-      "native": "Great District",
+      "native": "Guruve",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -183,9 +183,9 @@
     },
     {
       "id": 131472,
-      "name": "Mazowsze",
+      "name": "Mazowe",
       "name_default": "Mazowe",
-      "native": "It is",
+      "native": "Mazowe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 131473,
-      "name": "Mazowieckie",
+      "name": "Mazowe District",
       "name_default": "Mazowe District",
       "native": "Aza District",
       "type": "district",
@@ -219,7 +219,7 @@
     },
     {
       "id": 131476,
-      "name": "Góra Darwin",
+      "name": "Mount Darwin",
       "name_default": "Mount Darwin",
       "native": "Mount Darwin",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 131485,
       "name": "Mvurwi",
       "name_default": "Mvurwi",
-      "native": "Grim",
+      "native": "Mvurwi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 131498,
-      "name": "Dystrykt Rushinga",
+      "name": "Rushinga",
       "name_default": "Rushinga",
       "native": "Rushinga District",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 131500,
-      "name": "Szamwa",
+      "name": "Shamva",
       "name_default": "Shamva",
       "native": "Shamva",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 131501,
-      "name": "Dystrykt Shamva",
+      "name": "Shamva District",
       "name_default": "Shamva District",
       "native": "Shamva district",
       "type": "district",

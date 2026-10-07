@@ -394,7 +394,7 @@
     },
     {
       "id": 98052,
-      "name": "Bratejewo",
+      "name": "Brateyevo",
       "name_default": "Brateyevo",
       "native": "Братеево",
       "type": "section",
@@ -412,7 +412,7 @@
     },
     {
       "id": 98190,
-      "name": "Tscheremuschki",
+      "name": "Cherëmushki",
       "name_default": "Cherëmushki",
       "native": "Черемушки",
       "type": "adm3",
@@ -466,7 +466,7 @@
     },
     {
       "id": 98320,
-      "name": "Dorogomilowo",
+      "name": "Dorogomilovo",
       "name_default": "Dorogomilovo",
       "native": "Дорогомилово",
       "type": "section",
@@ -574,7 +574,7 @@
     },
     {
       "id": 98754,
-      "name": "Ismailowo",
+      "name": "Izmaylovo",
       "name_default": "Izmaylovo",
       "native": "Измайлово",
       "type": "section",
@@ -700,7 +700,7 @@
     },
     {
       "id": 99248,
-      "name": "Kotlowka",
+      "name": "Kotlovka",
       "name_default": "Kotlovka",
       "native": "Котловка",
       "type": "section",
@@ -808,7 +808,7 @@
     },
     {
       "id": 99561,
-      "name": "Lefortowo",
+      "name": "Lefortovo",
       "name_default": "Lefortovo",
       "native": "Лефортово",
       "type": "section",
@@ -819,6 +819,24 @@
       "longitude": "37.70000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1382617",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
+      "id": 99575,
+      "name": "Leninskiye Gory",
+      "name_default": "Leninskiye Gory",
+      "native": "Ленинские горы",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.70000000",
+      "longitude": "37.56667000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOW",
       "state_id": 1901,
@@ -880,7 +898,7 @@
     },
     {
       "id": 99622,
-      "name": "Lichobory",
+      "name": "Likhobory",
       "name_default": "Likhobory",
       "native": "Лихоборы",
       "type": "section",
@@ -916,7 +934,7 @@
     },
     {
       "id": 99696,
-      "name": "Luschniki",
+      "name": "Luzhniki",
       "name_default": "Luzhniki",
       "native": "Лужники",
       "type": "section",
@@ -970,7 +988,7 @@
     },
     {
       "id": 99817,
-      "name": "Matwejewskoje",
+      "name": "Matveyevskoye",
       "name_default": "Matveyevskoye",
       "native": "Матвеевское",
       "type": "section",
@@ -1096,7 +1114,7 @@
     },
     {
       "id": 100091,
-      "name": "Nekrassowka",
+      "name": "Nekrasovka",
       "name_default": "Nekrasovka",
       "native": "Некрасовка",
       "type": "section",
@@ -1294,7 +1312,7 @@
     },
     {
       "id": 100461,
-      "name": "Orechowo-Borisovo",
+      "name": "Orekhovo-Borisovo",
       "name_default": "Orekhovo-Borisovo",
       "native": "Орехово-Борисово",
       "type": "section",
@@ -1312,7 +1330,7 @@
     },
     {
       "id": 100462,
-      "name": "Orechowo-Borisowo Sewernoje",
+      "name": "Orekhovo-Borisovo Severnoye",
       "name_default": "Orekhovo-Borisovo Severnoye",
       "native": "Орехово-Борисово Северное",
       "type": "section",
@@ -1528,7 +1546,7 @@
     },
     {
       "id": 101279,
-      "name": "Schtschukino",
+      "name": "Shchukino",
       "name_default": "Shchukino",
       "native": "Щукино",
       "type": "section",
@@ -1834,7 +1852,7 @@
     },
     {
       "id": 102204,
-      "name": "Watutinki",
+      "name": "Vatutinki",
       "name_default": "Vatutinki",
       "native": "Ватутинки",
       "type": "city",
@@ -1888,7 +1906,7 @@
     },
     {
       "id": 102333,
-      "name": "Wnukowo",
+      "name": "Vnukovo",
       "name_default": "Vnukovo",
       "native": "Внуково",
       "type": "city",
@@ -1959,8 +1977,26 @@
       "country_id": 182
     },
     {
+      "id": 102402,
+      "name": "Vostryakovo",
+      "name_default": "Vostryakovo",
+      "native": "Востряково",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.66667000",
+      "longitude": "37.45000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4126688",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
       "id": 102432,
-      "name": "Wychino-Schulebino",
+      "name": "Vykhino-Zhulebino",
       "name_default": "Vykhino-Zhulebino",
       "native": "Выхино-Жулебино",
       "type": "section",
@@ -1996,7 +2032,7 @@
     },
     {
       "id": 102506,
-      "name": "Jasenewo",
+      "name": "Yasenevo",
       "name_default": "Yasenevo",
       "native": "Ясенево",
       "type": "section",
@@ -2104,7 +2140,7 @@
     },
     {
       "id": 102791,
-      "name": "Sjusino",
+      "name": "Zyuzino",
       "name_default": "Zyuzino",
       "native": "Зюзино",
       "type": "section",

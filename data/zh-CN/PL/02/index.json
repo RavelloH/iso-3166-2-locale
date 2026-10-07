@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 85810,
-      "name": "中阴",
+      "name": "巴尔多",
       "name_default": "Bardo",
       "native": "Bardo",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 85866,
-      "name": "比鲁图夫",
+      "name": "别鲁图夫",
       "name_default": "Bierutów",
       "native": "Bierutów",
       "type": "adm3",
@@ -131,7 +131,7 @@
       "id": 85875,
       "name": "比斯库平",
       "name_default": "Biskupin",
-      "native": "Diecezja",
+      "native": "Biskupin",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 85914,
-      "name": "博尔库夫",
+      "name": "博尔库夫乡",
       "name_default": "Bolków",
       "native": "Bolków",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 86003,
-      "name": "比斯特日察·克沃兹卡",
+      "name": "贝斯奇察克沃兹卡",
       "name_default": "Bystrzyca Kłodzka",
       "native": "Bystrzyca Kłodzka",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 86039,
-      "name": "乔恰诺夫",
+      "name": "霍恰努夫",
       "name_default": "Chocianów",
       "native": "Chocianów",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 86225,
-      "name": "杰尔若尼奥夫",
+      "name": "杰尔若纽夫",
       "name_default": "Dzierżoniów",
       "native": "Dzierżoniów",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 86427,
-      "name": "格沃戈夫",
+      "name": "格沃古夫",
       "name_default": "Głogów",
       "native": "Głogów",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 86435,
-      "name": "格乌希察",
+      "name": "格武希察",
       "name_default": "Głuszyca",
       "native": "Głuszyca",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 86408,
-      "name": "戈拉",
+      "name": "古拉",
       "name_default": "Góra",
       "native": "Góra",
       "type": "city",
@@ -725,7 +725,7 @@
       "id": 86364,
       "name": "格拉比希内克",
       "name_default": "Grabiszynek",
-      "native": "Robiszenek",
+      "native": "Grabiszynek",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 86392,
-      "name": "希隆斯克州格里福夫",
+      "name": "希隆斯克地区格雷富夫",
       "name_default": "Gryfów Śląski",
       "native": "Gryfów Śląski",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 86531,
-      "name": "贾沃尔",
+      "name": "亚沃尔",
       "name_default": "Jawor",
       "native": "Jawor",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 86537,
-      "name": "亚沃日纳·希拉什卡",
+      "name": "希隆斯克地区亚沃日纳",
       "name_default": "Jaworzyna Śląska",
       "native": "Jaworzyna Śląska",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 86541,
-      "name": "耶德利娜-兹德鲁伊",
+      "name": "耶德利纳-兹德鲁伊",
       "name_default": "Jedlina-Zdrój",
       "native": "Jedlina-Zdrój",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 86550,
-      "name": "耶莱尼亚·古拉",
+      "name": "耶莱尼亚古拉",
       "name_default": "Jelenia Góra",
       "native": "Jelenia Góra",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 86852,
-      "name": "凯蒂·弗罗茨瓦夫斯基",
+      "name": "弗罗茨瓦夫的孔蒂",
       "name_default": "Kąty Wrocławskie",
       "native": "Kąty Wrocławskie",
       "type": "adm3",
@@ -1175,7 +1175,7 @@
       "id": 86722,
       "name": "科特拉",
       "name_default": "Kotla",
-      "native": "Kotły",
+      "native": "Kotla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 86731,
-      "name": "科瓦里",
+      "name": "科瓦雷",
       "name_default": "Kowary",
       "native": "Kowary",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 86837,
-      "name": "库尼采",
+      "name": "库尼采乡",
       "name_default": "Kunice",
       "native": "Kunice",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 86977,
-      "name": "隆德克-兹德鲁伊",
+      "name": "隆代克-兹德鲁伊",
       "name_default": "Lądek-Zdrój",
       "native": "Lądek-Zdrój",
       "type": "adm3",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 86889,
-      "name": "莱斯纳",
+      "name": "莱希纳",
       "name_default": "Leśna",
       "native": "Leśna",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 86935,
-      "name": "卢巴卡",
+      "name": "卢巴夫卡",
       "name_default": "Lubawka",
       "native": "Lubawka",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 86944,
-      "name": "鲁宾",
+      "name": "卢宾",
       "name_default": "Lubin",
       "native": "Lubin",
       "type": "adm2",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 87060,
-      "name": "米德齐布日",
+      "name": "缅济布日",
       "name_default": "Międzybórz",
       "native": "Międzybórz",
       "type": "city",
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 87063,
-      "name": "米兹莱谢",
+      "name": "缅济莱谢",
       "name_default": "Międzylesie",
       "native": "Międzylesie",
       "type": "city",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 87038,
-      "name": "米耶罗斯佐夫",
+      "name": "梅罗舒夫",
       "name_default": "Mieroszów",
       "native": "Mieroszów",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 87050,
-      "name": "米利茨",
+      "name": "米利奇",
       "name_default": "Milicz",
       "native": "Milicz",
       "type": "city",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 87163,
-      "name": "尼姆恰",
+      "name": "涅姆恰",
       "name_default": "Niemcza",
       "native": "Niemcza",
       "type": "city",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 87217,
-      "name": "希隆斯克地区奥博尼基",
+      "name": "希隆斯克地区奥博尔尼基",
       "name_default": "Oborniki Śląskie",
       "native": "Oborniki Śląskie",
       "type": "city",
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 87373,
-      "name": "皮霍维采",
+      "name": "佩霍维采",
       "name_default": "Piechowice",
       "native": "Piechowice",
       "type": "adm3",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 87383,
-      "name": "皮耶希采",
+      "name": "佩希采",
       "name_default": "Pieszyce",
       "native": "Pieszyce",
       "type": "adm3",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 87404,
-      "name": "皮瓦瓦·古尔纳",
+      "name": "上皮瓦瓦",
       "name_default": "Piława Górna",
       "native": "Piława Górna",
       "type": "adm3",
@@ -2271,7 +2271,7 @@
     },
     {
       "id": 87430,
-      "name": "波兰尼卡-兹德鲁伊",
+      "name": "波拉尼察-兹德鲁伊",
       "name_default": "Polanica-Zdrój",
       "native": "Polanica-Zdrój",
       "type": "adm3",
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 87789,
-      "name": "普罗乔维采",
+      "name": "普罗霍维采",
       "name_default": "Prochowice",
       "native": "Prochowice",
       "type": "city",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 87796,
-      "name": "普鲁西斯",
+      "name": "普鲁西采",
       "name_default": "Prusice",
       "native": "Prusice",
       "type": "city",
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 87881,
-      "name": "拉德科夫",
+      "name": "拉德库夫",
       "name_default": "Radków",
       "native": "Radków",
       "type": "city",
@@ -2721,7 +2721,7 @@
     },
     {
       "id": 88829,
-      "name": "希西纳瓦",
+      "name": "希齐纳瓦",
       "name_default": "Ścinawa",
       "native": "Ścinawa",
       "type": "city",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 88063,
-      "name": "西赫尼采",
+      "name": "谢赫尼采",
       "name_default": "Siechnice",
       "native": "Siechnice",
       "type": "adm3",
@@ -2795,7 +2795,7 @@
       "id": 88125,
       "name": "斯莫莱茨",
       "name_default": "Smolec",
-      "native": "Gulasz",
+      "native": "Smolec",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 88133,
-      "name": "索博特卡",
+      "name": "索布特卡",
       "name_default": "Sobótka",
       "native": "Sobótka",
       "type": "adm3",
@@ -2865,7 +2865,7 @@
     },
     {
       "id": 88839,
-      "name": "希洛达·希拉什卡",
+      "name": "希隆斯克地区希罗达",
       "name_default": "Środa Śląska",
       "native": "Środa Śląska",
       "type": "adm2",
@@ -2991,7 +2991,7 @@
     },
     {
       "id": 88217,
-      "name": "斯托尼·希拉斯基",
+      "name": "斯托尼拉斯奇",
       "name_default": "Stronie Śląskie",
       "native": "Stronie Śląskie",
       "type": "city",
@@ -3009,7 +3009,7 @@
     },
     {
       "id": 88224,
-      "name": "斯特泽戈姆",
+      "name": "斯切戈姆",
       "name_default": "Strzegom",
       "native": "Strzegom",
       "type": "city",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": 88845,
-      "name": "希维博日采",
+      "name": "希维博济采",
       "name_default": "Świebodzice",
       "native": "Świebodzice",
       "type": "adm3",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": 88851,
-      "name": "希维拉多夫-兹德鲁伊",
+      "name": "希维拉杜夫-兹德鲁伊",
       "name_default": "Świeradów-Zdrój",
       "native": "Świeradów-Zdrój",
       "type": "city",
@@ -3189,7 +3189,7 @@
     },
     {
       "id": 88278,
-      "name": "瑟库夫",
+      "name": "瑟楚夫",
       "name_default": "Syców",
       "native": "Syców",
       "type": "city",
@@ -3261,7 +3261,7 @@
     },
     {
       "id": 88310,
-      "name": "斯克拉斯卡波伦巴",
+      "name": "什克拉尔斯卡-波伦巴",
       "name_default": "Szklarska Poręba",
       "native": "Szklarska Poręba",
       "type": "city",
@@ -3297,7 +3297,7 @@
     },
     {
       "id": 88432,
-      "name": "特瓦多戈拉",
+      "name": "特瓦尔多古拉",
       "name_default": "Twardogóra",
       "native": "Twardogóra",
       "type": "city",
@@ -3405,7 +3405,7 @@
     },
     {
       "id": 88636,
-      "name": "沃索什",
+      "name": "翁索什",
       "name_default": "Wąsosz",
       "native": "Wąsosz",
       "type": "city",
@@ -3423,7 +3423,7 @@
     },
     {
       "id": 88639,
-      "name": "温格利涅茨",
+      "name": "文格利涅茨",
       "name_default": "Węgliniec",
       "native": "Węgliniec",
       "type": "adm3",
@@ -3441,7 +3441,7 @@
     },
     {
       "id": 88556,
-      "name": "维亚佐夫",
+      "name": "维翁祖夫",
       "name_default": "Wiązów",
       "native": "Wiązów",
       "type": "city",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 88601,
-      "name": "沃洛夫",
+      "name": "沃武夫",
       "name_default": "Wołów",
       "native": "Wołów",
       "type": "city",
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 88739,
-      "name": "希隆斯克州赞布科维采",
+      "name": "希隆斯克地区宗布科维采",
       "name_default": "Ząbkowice Śląskie",
       "native": "Ząbkowice Śląskie",
       "type": "city",
@@ -3747,7 +3747,7 @@
     },
     {
       "id": 88704,
-      "name": "扎维多夫",
+      "name": "扎维杜夫",
       "name_default": "Zawidów",
       "native": "Zawidów",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 88731,
-      "name": "齐比采",
+      "name": "津比采",
       "name_default": "Ziębice",
       "native": "Ziębice",
       "type": "adm3",
@@ -3873,7 +3873,7 @@
     },
     {
       "id": 88750,
-      "name": "兹罗提·斯托克",
+      "name": "兹沃蒂斯托克",
       "name_default": "Złoty Stok",
       "native": "Złoty Stok",
       "type": "city",
@@ -3891,7 +3891,7 @@
     },
     {
       "id": 88887,
-      "name": "Żmigród",
+      "name": "日米格鲁德",
       "name_default": "Żmigród",
       "native": "Żmigród",
       "type": "city",

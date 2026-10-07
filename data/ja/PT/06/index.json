@@ -251,7 +251,7 @@
     },
     {
       "id": 89126,
-      "name": "コンデイシャ・ア・ノヴァ",
+      "name": "コンデイシャ・ア・ノーヴァ",
       "name_default": "Condeixa-a-Nova",
       "native": "Condeixa-a-Nova",
       "type": "adm2",
@@ -269,7 +269,7 @@
     },
     {
       "id": 89182,
-      "name": "フィゲイラ・ダ・フォス",
+      "name": "フィゲイラ・ダ・フォシュ",
       "name_default": "Figueira da Foz",
       "native": "Figueira da Foz",
       "type": "adm2",
@@ -287,7 +287,7 @@
     },
     {
       "id": 89222,
-      "name": "ゴイス",
+      "name": "ゴイシュ",
       "name_default": "Góis",
       "native": "Góis",
       "type": "adm2",
@@ -307,7 +307,7 @@
       "id": 89238,
       "name": "ラヴォス",
       "name_default": "Lavos",
-      "native": "Lava",
+      "native": "Lavos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -377,7 +377,7 @@
     },
     {
       "id": 89304,
-      "name": "ミランダ・ド・コルヴォ",
+      "name": "ミランダ・ドゥ・コルヴ",
       "name_default": "Miranda do Corvo",
       "native": "Miranda do Corvo",
       "type": "adm2",
@@ -405,7 +405,7 @@
       "latitude": "40.19385000",
       "longitude": "-8.66696000",
       "timezone": "Europe/Lisbon",
-      "wikiDataId": "Q538407",
+      "wikiDataId": null,
       "country_code": "PT",
       "state_code": "06",
       "state_id": 2246,
@@ -413,7 +413,7 @@
     },
     {
       "id": 89368,
-      "name": "オリヴェイラ・ド病院",
+      "name": "オリヴェイラ・ドゥ・オスピタル",
       "name_default": "Oliveira do Hospital",
       "native": "Oliveira do Hospital",
       "type": "adm2",
@@ -449,7 +449,7 @@
     },
     {
       "id": 89378,
-      "name": "パンピリョサ・ダ・セラ",
+      "name": "パンピリョーザ・ダ・セーラ",
       "name_default": "Pampilhosa da Serra",
       "native": "Pampilhosa da Serra",
       "type": "adm2",
@@ -467,7 +467,7 @@
     },
     {
       "id": 89393,
-      "name": "ペナコバ",
+      "name": "ピナコーヴァ",
       "name_default": "Penacova",
       "native": "Penacova",
       "type": "adm2",
@@ -485,9 +485,9 @@
     },
     {
       "id": 89399,
-      "name": "ペネラ",
+      "name": "ピネーラ",
       "name_default": "Penela",
-      "native": "Pimenta",
+      "native": "Penela",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -665,7 +665,7 @@
     },
     {
       "id": 89660,
-      "name": "ヴィラ・ノヴァ・デ・ポイアレス",
+      "name": "ヴィラ・ノーヴァ・デ・ポイアーリシュ",
       "name_default": "Vila Nova de Poiares",
       "native": "Vila Nova de Poiares",
       "type": "adm2",

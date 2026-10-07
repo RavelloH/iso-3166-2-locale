@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48187,
-      "name": "删节",
+      "name": "阿布里奇",
       "name_default": "Abridge",
       "native": "Abridge",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48503,
-      "name": "比勒里基",
+      "name": "比勒利凯",
       "name_default": "Billericay",
       "native": "Billericay",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 48746,
-      "name": "巴克赫斯特山",
+      "name": "布克赫斯特山",
       "name_default": "Buckhurst Hill",
       "native": "Buckhurst Hill",
       "type": "city",
@@ -290,6 +290,24 @@
       "country_id": 232
     },
     {
+      "id": 48847,
+      "name": "康维岛",
+      "name_default": "Canvey Island",
+      "native": "Canvey Island",
+      "type": "adm4",
+      "level": null,
+      "parent_id": null,
+      "population": 38327,
+      "latitude": "51.52199000",
+      "longitude": "0.58090000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1033978",
+      "country_code": "GB",
+      "state_code": "ESS",
+      "state_id": 2410,
+      "country_id": 232
+    },
+    {
       "id": 48879,
       "name": "赫丁汉姆城堡",
       "name_default": "Castle Hedingham",
@@ -309,7 +327,7 @@
     },
     {
       "id": 48944,
-      "name": "切姆斯福德",
+      "name": "切尔姆斯福德",
       "name_default": "Chelmsford",
       "native": "Chelmsford",
       "type": "adm2",
@@ -326,8 +344,26 @@
       "country_id": 232
     },
     {
+      "id": 48964,
+      "name": "奇格威尔",
+      "name_default": "Chigwell",
+      "native": "Chigwell",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10354,
+      "latitude": "51.61999000",
+      "longitude": "0.07596000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q944734",
+      "country_code": "GB",
+      "state_code": "ESS",
+      "state_id": 2410,
+      "country_id": 232
+    },
+    {
       "id": 48974,
-      "name": "奇平昂格尔",
+      "name": "奇平昂加",
       "name_default": "Chipping Ongar",
       "native": "Chipping Ongar",
       "type": "city",
@@ -345,7 +381,7 @@
     },
     {
       "id": 49016,
-      "name": "克拉克顿滨海",
+      "name": "滨海克拉克顿",
       "name_default": "Clacton-on-Sea",
       "native": "Clacton-on-Sea",
       "type": "city",
@@ -381,7 +417,7 @@
     },
     {
       "id": 49059,
-      "name": "科吉肖尔",
+      "name": "科吉舍尔",
       "name_default": "Coggeshall",
       "native": "Coggeshall",
       "type": "city",
@@ -417,7 +453,7 @@
     },
     {
       "id": 49229,
-      "name": "丹伯里",
+      "name": "丹布利",
       "name_default": "Danbury",
       "native": "Danbury",
       "type": "city",
@@ -471,7 +507,7 @@
     },
     {
       "id": 49379,
-      "name": "厄尔斯·科尔恩",
+      "name": "厄尔斯柯恩",
       "name_default": "Earls Colne",
       "native": "Earls Colne",
       "type": "city",
@@ -489,7 +525,7 @@
     },
     {
       "id": 49448,
-      "name": "八灰绿",
+      "name": "Eight Ash Green",
       "name_default": "Eight Ash Green",
       "native": "Eight Ash Green",
       "type": "city",
@@ -525,7 +561,7 @@
     },
     {
       "id": 49461,
-      "name": "埃尔森汉姆",
+      "name": "艾森汉姆",
       "name_default": "Elsenham",
       "native": "Elsenham",
       "type": "city",
@@ -651,7 +687,7 @@
     },
     {
       "id": 49715,
-      "name": "大邓莫",
+      "name": "大邓莫镇",
       "name_default": "Great Dunmow",
       "native": "Great Dunmow",
       "type": "city",
@@ -669,7 +705,7 @@
     },
     {
       "id": 49723,
-      "name": "大霍克斯利",
+      "name": "大霍尔克斯雷",
       "name_default": "Great Horkesley",
       "native": "Great Horkesley",
       "type": "city",
@@ -741,7 +777,7 @@
     },
     {
       "id": 49789,
-      "name": "哈尔斯特德",
+      "name": "哈尔斯特",
       "name_default": "Halstead",
       "native": "Halstead",
       "type": "city",
@@ -776,8 +812,26 @@
       "country_id": 232
     },
     {
+      "id": 49830,
+      "name": "哈维奇",
+      "name_default": "Harwich",
+      "native": "Harwich",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18794,
+      "latitude": "51.94194000",
+      "longitude": "1.28437000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q990616",
+      "country_code": "GB",
+      "state_code": "ESS",
+      "state_id": 2410,
+      "country_id": 232
+    },
+    {
       "id": 49838,
-      "name": "哈特菲尔德希思",
+      "name": "哈特菲尔德石楠",
       "name_default": "Hatfield Heath",
       "native": "Hatfield Heath",
       "type": "city",
@@ -795,7 +849,7 @@
     },
     {
       "id": 49839,
-      "name": "哈特菲尔德·佩弗雷尔",
+      "name": "哈特菲尔特帕法瑞尔",
       "name_default": "Hatfield Peverel",
       "native": "Hatfield Peverel",
       "type": "city",
@@ -813,7 +867,7 @@
     },
     {
       "id": 49929,
-      "name": "高昂加尔",
+      "name": "High Ongar",
       "name_default": "High Ongar",
       "native": "High Ongar",
       "type": "city",
@@ -831,9 +885,9 @@
     },
     {
       "id": 50050,
-      "name": "英盖特斯通",
+      "name": "因盖斯通",
       "name_default": "Ingatestone",
-      "native": "Ingtetone",
+      "native": "Ingatestone",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -869,7 +923,7 @@
       "id": 50101,
       "name": "凯丁顿",
       "name_default": "Kedington",
-      "native": "Singington",
+      "native": "Kedington",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -885,7 +939,7 @@
     },
     {
       "id": 50111,
-      "name": "凯尔维登",
+      "name": "克尔文登",
       "name_default": "Kelvedon",
       "native": "Kelvedon",
       "type": "city",
@@ -923,7 +977,7 @@
       "id": 50262,
       "name": "拉海耶的雷尔",
       "name_default": "Layer de la Haye",
-      "native": "Layer of Haye",
+      "native": "Layer de la Haye",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -939,7 +993,7 @@
     },
     {
       "id": 50325,
-      "name": "小克拉克顿",
+      "name": "Little Clacton",
       "name_default": "Little Clacton",
       "native": "Little Clacton",
       "type": "city",
@@ -957,7 +1011,7 @@
     },
     {
       "id": 50326,
-      "name": "小邓莫",
+      "name": "Little Dunmow",
       "name_default": "Little Dunmow",
       "native": "Little Dunmow",
       "type": "city",
@@ -975,7 +1029,7 @@
     },
     {
       "id": 50328,
-      "name": "小哈林伯里",
+      "name": "小哈灵布利",
       "name_default": "Little Hallingbury",
       "native": "Little Hallingbury",
       "type": "city",
@@ -993,7 +1047,7 @@
     },
     {
       "id": 50475,
-      "name": "马尔登",
+      "name": "摩尔登镇",
       "name_default": "Maldon",
       "native": "Maldon",
       "type": "city",
@@ -1029,7 +1083,7 @@
     },
     {
       "id": 50508,
-      "name": "马克斯·泰",
+      "name": "马克斯提",
       "name_default": "Marks Tey",
       "native": "Marks Tey",
       "type": "city",
@@ -1047,7 +1101,7 @@
     },
     {
       "id": 50605,
-      "name": "米斯特利",
+      "name": "米斯特里",
       "name_default": "Mistley",
       "native": "Mistley",
       "type": "city",
@@ -1067,7 +1121,7 @@
       "id": 50919,
       "name": "皮特西",
       "name_default": "Pitsea",
-      "native": "Seal",
+      "native": "Pitsea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1076,6 +1130,24 @@
       "longitude": "0.50859000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2236621",
+      "country_code": "GB",
+      "state_code": "ESS",
+      "state_id": 2410,
+      "country_id": 232
+    },
+    {
+      "id": 51043,
+      "name": "蕾利",
+      "name_default": "Rayleigh",
+      "native": "Rayleigh",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 32248,
+      "latitude": "51.58571000",
+      "longitude": "0.60459000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2117331",
       "country_code": "GB",
       "state_code": "ESS",
       "state_id": 2410,
@@ -1137,7 +1209,7 @@
     },
     {
       "id": 51133,
-      "name": "罗伊登",
+      "name": "莱伊登",
       "name_default": "Roydon",
       "native": "Roydon",
       "type": "city",
@@ -1209,7 +1281,7 @@
     },
     {
       "id": 51345,
-      "name": "南本弗利特",
+      "name": "South Benfleet",
       "name_default": "South Benfleet",
       "native": "South Benfleet",
       "type": "city",
@@ -1245,7 +1317,7 @@
     },
     {
       "id": 51454,
-      "name": "库存",
+      "name": "斯拓克",
       "name_default": "Stock",
       "native": "Stock",
       "type": "city",
@@ -1263,7 +1335,7 @@
     },
     {
       "id": 51548,
-      "name": "泰克利",
+      "name": "塔克雷",
       "name_default": "Takeley",
       "native": "Takeley",
       "type": "city",
@@ -1281,7 +1353,7 @@
     },
     {
       "id": 51587,
-      "name": "萨克斯特德",
+      "name": "萨克斯泰德",
       "name_default": "Thaxted",
       "native": "Thaxted",
       "type": "city",
@@ -1317,7 +1389,7 @@
     },
     {
       "id": 51631,
-      "name": "蒂普特里",
+      "name": "提普特利",
       "name_default": "Tiptree",
       "native": "Tiptree",
       "type": "adm4",
@@ -1353,7 +1425,7 @@
     },
     {
       "id": 51738,
-      "name": "沃尔瑟姆修道院",
+      "name": "沃特汉姆教堂",
       "name_default": "Waltham Abbey",
       "native": "Waltham Abbey",
       "type": "city",
@@ -1371,7 +1443,7 @@
     },
     {
       "id": 51742,
-      "name": "沃尔顿",
+      "name": "内兹岬附近沃尔顿",
       "name_default": "Walton-on-the-Naze",
       "native": "Walton-on-the-Naze",
       "type": "city",
@@ -1389,7 +1461,7 @@
     },
     {
       "id": 51805,
-      "name": "西伯格霍尔特",
+      "name": "西伯格贺特",
       "name_default": "West Bergholt",
       "native": "West Bergholt",
       "type": "city",
@@ -1400,6 +1472,24 @@
       "longitude": "0.84986000",
       "timezone": "Europe/London",
       "wikiDataId": "Q784107",
+      "country_code": "GB",
+      "state_code": "ESS",
+      "state_id": 2410,
+      "country_id": 232
+    },
+    {
+      "id": 51891,
+      "name": "威克福德",
+      "name_default": "Wickford",
+      "native": "Wickford",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 27601,
+      "latitude": "51.61101000",
+      "longitude": "0.52331000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q932841",
       "country_code": "GB",
       "state_code": "ESS",
       "state_id": 2410,
@@ -1425,7 +1515,7 @@
     },
     {
       "id": 51944,
-      "name": "威瑟姆",
+      "name": "威特汉姆",
       "name_default": "Witham",
       "native": "Witham",
       "type": "city",
@@ -1443,7 +1533,7 @@
     },
     {
       "id": 51953,
-      "name": "威文霍",
+      "name": "韦文活尔",
       "name_default": "Wivenhoe",
       "native": "Wivenhoe",
       "type": "city",
@@ -1461,7 +1551,7 @@
     },
     {
       "id": 52000,
-      "name": "里特尔",
+      "name": "韦图",
       "name_default": "Writtle",
       "native": "Writtle",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48264,
-      "name": "Appleton Thorn",
+      "name": "Appleton",
       "name_default": "Appleton Thorn",
       "native": "Appleton Thorn",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48601,
-      "name": "Stadtteil Halton",
+      "name": "Borough of Halton",
       "name_default": "Borough of Halton",
       "native": "Borough of Halton",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49731,
-      "name": "Großer Sankey",
+      "name": "Great Sankey",
       "name_default": "Great Sankey",
       "native": "Great Sankey",
       "type": "city",
@@ -182,24 +182,6 @@
       "country_id": 232
     },
     {
-      "id": 50734,
-      "name": "Newton-le-Willows",
-      "name_default": "Newton-le-Willows",
-      "native": "Newton-le-Willows",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21782,
-      "latitude": "53.45000000",
-      "longitude": "-2.60000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q750000",
-      "country_code": "GB",
-      "state_code": "WRT",
-      "state_id": 2420,
-      "country_id": 232
-    },
-    {
       "id": 51459,
       "name": "Stockton Heath",
       "name_default": "Stockton Heath",
@@ -219,7 +201,7 @@
     },
     {
       "id": 51757,
-      "name": "Warrington",
+      "name": "Borough of Warrington",
       "name_default": "Warrington",
       "native": "Warrington",
       "type": "adm2",

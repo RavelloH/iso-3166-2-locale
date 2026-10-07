@@ -92,26 +92,8 @@
       "country_id": 232
     },
     {
-      "id": 50426,
-      "name": "إيرلي السفلى",
-      "name_default": "Lower Earley",
-      "native": "Lower Earley",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32000,
-      "latitude": "51.42708000",
-      "longitude": "-0.91979000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q22582558",
-      "country_code": "GB",
-      "state_code": "RDG",
-      "state_id": 2455,
-      "country_id": 232
-    },
-    {
       "id": 50849,
-      "name": "بانجبورن",
+      "name": "بنغبورن",
       "name_default": "Pangbourne",
       "native": "Pangbourne",
       "type": "city",
@@ -129,7 +111,7 @@
     },
     {
       "id": 51045,
-      "name": "قراءة",
+      "name": "ريدنغ",
       "name_default": "Reading",
       "native": "Reading",
       "type": "adm2",
@@ -167,7 +149,7 @@
       "id": 51343,
       "name": "سونينج كومون",
       "name_default": "Sonning Common",
-      "native": "The number of the number",
+      "native": "Sonning Common",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +165,7 @@
     },
     {
       "id": 51489,
-      "name": "ستراتفيلد مورتيمر",
+      "name": "سترتفيلد مورتيمر",
       "name_default": "Stratfield Mortimer",
       "native": "Stratfield Mortimer",
       "type": "adm3",
@@ -219,7 +201,7 @@
     },
     {
       "id": 51750,
-      "name": "وارغريف",
+      "name": "ورغروف",
       "name_default": "Wargrave",
       "native": "Wargrave",
       "type": "adm3",

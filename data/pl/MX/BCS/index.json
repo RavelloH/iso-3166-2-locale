@@ -170,7 +170,7 @@
     },
     {
       "id": 68704,
-      "name": "Przylądek San Lucas",
+      "name": "Cabo San Lucas",
       "name_default": "Cabo San Lucas",
       "native": "Cabo San Lucas",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 69162,
-      "name": "Miasto powstańców",
+      "name": "Ciudad Insurgentes",
       "name_default": "Ciudad Insurgentes",
       "native": "Ciudad Insurgentes",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 69382,
-      "name": "Kolonia del Sol",
+      "name": "Colonia del Sol",
       "name_default": "Colonia del Sol",
       "native": "Colonia del Sol",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 69893,
-      "name": "Stulecie",
+      "name": "El Centenario",
       "name_default": "El Centenario",
       "native": "El Centenario",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 70100,
-      "name": "Rybak",
+      "name": "El Pescadero",
       "name_default": "El Pescadero",
       "native": "El Pescadero",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 70206,
-      "name": "Cisza",
+      "name": "El Silencio",
       "name_default": "El Silencio",
       "native": "El Silencio",
       "type": "city",
@@ -325,6 +325,24 @@
       "longitude": "-113.29987000",
       "timezone": "America/Mazatlan",
       "wikiDataId": "Q20245268",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
+      "id": 70633,
+      "name": "Guerrero Negro",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCS",
       "state_id": 3460,
@@ -548,7 +566,7 @@
     },
     {
       "id": 72965,
-      "name": "Puerto Adolfo Lopez Mateos",
+      "name": "Puerto Adolfo López Mateos",
       "name_default": "Puerto Adolfo López Mateos",
       "native": "Puerto Adolfo Lopez Mateos",
       "type": "city",
@@ -620,7 +638,7 @@
     },
     {
       "id": 74855,
-      "name": "Święta Rosalia",
+      "name": "Santa Rosalía",
       "name_default": "Santa Rosalía",
       "native": "Santa Rosalía",
       "type": "adm2",
@@ -638,7 +656,7 @@
     },
     {
       "id": 75719,
-      "name": "Wszyscy Święci",
+      "name": "Todos Santos",
       "name_default": "Todos Santos",
       "native": "Todos Santos",
       "type": "city",
@@ -656,7 +674,7 @@
     },
     {
       "id": 75988,
-      "name": "Willa Alberto Andrés Alvarado Arámburo",
+      "name": "Villa Alberto Andrés Alvarado Arámburo",
       "name_default": "Villa Alberto Andrés Alvarado Arámburo",
       "native": "Villa Alberto Andrés Alvarado Arámburo",
       "type": "city",
@@ -674,7 +692,7 @@
     },
     {
       "id": 76037,
-      "name": "Willa Morelos",
+      "name": "Villa Morelos",
       "name_default": "Villa Morelos",
       "native": "Villa Morelos",
       "type": "city",

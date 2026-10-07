@@ -218,7 +218,7 @@
       "id": 10434,
       "name": "Аталайя",
       "name_default": "Atalaia",
-      "native": "Seção",
+      "native": "Atalaia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -234,7 +234,7 @@
     },
     {
       "id": 10527,
-      "name": "Барра-де-Санту-Антониу",
+      "name": "Барра-ди-Санту-Антониу",
       "name_default": "Barra de Santo Antônio",
       "native": "Barra de Santo Antônio",
       "type": "city",
@@ -416,7 +416,7 @@
       "id": 10976,
       "name": "Кампу-Алегри",
       "name_default": "Campo Alegre",
-      "native": "Alegre Campo",
+      "native": "Campo Alegre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -432,7 +432,7 @@
     },
     {
       "id": 10990,
-      "name": "Кампо-Гранде",
+      "name": "Кампу-Гранди",
       "name_default": "Campo Grande",
       "native": "Campo Grande",
       "type": "city",
@@ -522,7 +522,7 @@
     },
     {
       "id": 11317,
-      "name": "Coité do Nóia",
+      "name": "Койте-ду-Ноя",
       "name_default": "Coité do Nóia",
       "native": "Coité do Nóia",
       "type": "city",
@@ -612,7 +612,7 @@
     },
     {
       "id": 11569,
-      "name": "Дельмиро Гувейя",
+      "name": "Делмиру-Говея",
       "name_default": "Delmiro Gouveia",
       "native": "Delmiro Gouveia",
       "type": "city",
@@ -630,7 +630,7 @@
     },
     {
       "id": 11619,
-      "name": "Дойс Риачос",
+      "name": "Дойс-Риашус",
       "name_default": "Dois Riachos",
       "native": "Dois Riachos",
       "type": "city",
@@ -658,7 +658,7 @@
       "latitude": "-9.39858000",
       "longitude": "-36.76219000",
       "timezone": "America/Maceio",
-      "wikiDataId": "Q1648136",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AL",
       "state_id": 2007,
@@ -720,7 +720,7 @@
     },
     {
       "id": 11945,
-      "name": "Girau do Ponciano",
+      "name": "Жирау-ду-Понсиану",
       "name_default": "Girau do Ponciano",
       "native": "Girau do Ponciano",
       "type": "city",
@@ -792,9 +792,9 @@
     },
     {
       "id": 12249,
-      "name": "Инхапи",
+      "name": "Иньяпи",
       "name_default": "Inhapi",
-      "native": "Inimigo",
+      "native": "Inhapi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -900,7 +900,7 @@
     },
     {
       "id": 12637,
-      "name": "Жоаким Гомеш",
+      "name": "Жоакин-Гомис",
       "name_default": "Joaquim Gomes",
       "native": "Joaquim Gomes",
       "type": "city",
@@ -1008,7 +1008,7 @@
     },
     {
       "id": 12921,
-      "name": "Майор Исидоро",
+      "name": "Мажор-Изидору",
       "name_default": "Major Isidoro",
       "native": "Major Isidoro",
       "type": "city",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": 12973,
-      "name": "Марагоги",
+      "name": "Марагожи",
       "name_default": "Maragogi",
       "native": "Maragogi",
       "type": "city",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 12999,
-      "name": "Марешаль Деодоро",
+      "name": "Марешал-Деодору",
       "name_default": "Marechal Deodoro",
       "native": "Marechal Deodoro",
       "type": "city",
@@ -1098,7 +1098,7 @@
     },
     {
       "id": 13011,
-      "name": "Марибондо",
+      "name": "Марибонду",
       "name_default": "Maribondo",
       "native": "Maribor",
       "type": "city",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": 13073,
-      "name": "Matriz de Camaragibe",
+      "name": "Матрис-ди-Камаражиби",
       "name_default": "Matriz de Camaragibe",
       "native": "Matriz de Camaragibe",
       "type": "city",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": 13106,
-      "name": "Мессии",
+      "name": "Месиас",
       "name_default": "Messias",
       "native": "messias",
       "type": "city",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": 13121,
-      "name": "Minador do Negrão",
+      "name": "Минадор-ду-Негран",
       "name_default": "Minador do Negrão",
       "native": "Minador do Negrão",
       "type": "city",
@@ -1224,7 +1224,7 @@
     },
     {
       "id": 13468,
-      "name": "Ново Лино",
+      "name": "Нову-Лину",
       "name_default": "Novo Lino",
       "native": "Novo Lino",
       "type": "city",
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 13539,
-      "name": "Оуру Бранку",
+      "name": "Ору-Бранку",
       "name_default": "Ouro Branco",
       "native": "Ouro Branco",
       "type": "city",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": 13594,
-      "name": "Palmeira dos Índios",
+      "name": "Палмейра-дуз-Индиус",
       "name_default": "Palmeira dos Índios",
       "native": "Palmeira dos Índios",
       "type": "city",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": 13827,
-      "name": "Пьячабучу",
+      "name": "Пиасабусу",
       "name_default": "Piaçabuçu",
       "native": "Piaçabuçu",
       "type": "city",
@@ -1548,7 +1548,7 @@
     },
     {
       "id": 14051,
-      "name": "Poço das Trincheiras",
+      "name": "Посу-дас-Триншейрас",
       "name_default": "Poço das Trincheiras",
       "native": "Poço das Trincheiras",
       "type": "city",
@@ -1566,7 +1566,7 @@
     },
     {
       "id": 14001,
-      "name": "Порто Кальво",
+      "name": "Порту-Калву",
       "name_default": "Porto Calvo",
       "native": "Porto Calvo",
       "type": "city",
@@ -1620,7 +1620,7 @@
     },
     {
       "id": 14136,
-      "name": "Кебрангуло",
+      "name": "Кебрангулу",
       "name_default": "Quebrangulo",
       "native": "Quebrangulo",
       "type": "city",
@@ -1638,7 +1638,7 @@
     },
     {
       "id": 14279,
-      "name": "Рио-Ларго",
+      "name": "Риу-Ларгу",
       "name_default": "Rio Largo",
       "native": "Rio Largo",
       "type": "city",
@@ -1746,7 +1746,7 @@
     },
     {
       "id": 14944,
-      "name": "Сан-Жозе-да-Лаже",
+      "name": "Сан-Жозе-да-Лажи",
       "name_default": "São José da Laje",
       "native": "São José da Laje",
       "type": "city",
@@ -1764,7 +1764,7 @@
     },
     {
       "id": 14947,
-      "name": "São José da Tapera",
+      "name": "Сан-Жозе-да-Тапера",
       "name_default": "São José da Tapera",
       "native": "São José da Tapera",
       "type": "city",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": 15067,
-      "name": "Сан-Луис-ду-Китунде",
+      "name": "Сан-Луис-ду-Китунди",
       "name_default": "São Luís do Quitunde",
       "native": "São Luís do Quitunde",
       "type": "city",
@@ -1800,7 +1800,7 @@
     },
     {
       "id": 15097,
-      "name": "Сан-Мигель-дус-Кампус",
+      "name": "Сан-Мигел-дус-Кампус",
       "name_default": "São Miguel dos Campos",
       "native": "São Miguel dos Campos",
       "type": "city",
@@ -1890,9 +1890,9 @@
     },
     {
       "id": 15221,
-      "name": "Танк д'Арка",
+      "name": "Танки-д’Арка",
       "name_default": "Tanque d'Arca",
-      "native": "Bloqueio da Arca",
+      "native": "Tanque d'Arca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1946,7 +1946,7 @@
       "id": 15347,
       "name": "Траипу",
       "name_default": "Traipu",
-      "native": "Mancha",
+      "native": "Traipu",
       "type": "city",
       "level": null,
       "parent_id": null,

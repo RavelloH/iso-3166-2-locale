@@ -304,7 +304,7 @@
     },
     {
       "id": 97650,
-      "name": "آپرلوکا",
+      "name": "آپرلفکا",
       "name_default": "Aprelevka",
       "native": "Апрелевка",
       "type": "city",
@@ -988,7 +988,7 @@
     },
     {
       "id": 98285,
-      "name": "دمیتروف",
+      "name": "دیمیتروف",
       "name_default": "Dmitrov",
       "native": "Дмитров",
       "type": "city",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 98307,
-      "name": "دوموددوو",
+      "name": "دوموددوفو",
       "name_default": "Domodedovo",
       "native": "Домодедово",
       "type": "adm2",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 98736,
-      "name": "ایوانتیِفکا",
+      "name": "ایوانتئفکا",
       "name_default": "Ivanteyevka",
       "native": "Ивантеевка",
       "type": "city",
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 99104,
-      "name": "کلاین",
+      "name": "کلین",
       "name_default": "Klin",
       "native": "Клин",
       "type": "adm2",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 99214,
-      "name": "کورولف",
+      "name": "کورولیوف",
       "name_default": "Korolev",
       "native": "Королев",
       "type": "adm2",
@@ -2194,7 +2194,7 @@
     },
     {
       "id": 99355,
-      "name": "کراسنوزاودسک",
+      "name": "کراسنوزاوودسک",
       "name_default": "Krasnozavodsk",
       "native": "Краснозаводск",
       "type": "city",
@@ -2403,24 +2403,6 @@
       "longitude": "37.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2627647",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 99575,
-      "name": "گوری لنینسکیه",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -2860,7 +2842,7 @@
     },
     {
       "id": 99861,
-      "name": "مندلیوو",
+      "name": "مندلیفوف",
       "name_default": "Mendeleyevo",
       "native": "Менделеево",
       "type": "city",
@@ -3418,7 +3400,7 @@
     },
     {
       "id": 100398,
-      "name": "اودینتسو",
+      "name": "اودینتسوفو",
       "name_default": "Odintsovo",
       "native": "Одинцово",
       "type": "adm2",
@@ -3508,7 +3490,7 @@
     },
     {
       "id": 100463,
-      "name": "اورخوفو-زویوو",
+      "name": "اورخوفو-زویفو",
       "name_default": "Orekhovo-Zuyevo",
       "native": "Орехово-Зуево",
       "type": "city",
@@ -3706,7 +3688,7 @@
     },
     {
       "id": 100606,
-      "name": "پرزوت",
+      "name": "پرسفت",
       "name_default": "Peresvet",
       "native": "Пересвет",
       "type": "city",
@@ -4030,7 +4012,7 @@
     },
     {
       "id": 100898,
-      "name": "پوشکین",
+      "name": "پوشکینو",
       "name_default": "Pushkino",
       "native": "Пушкино",
       "type": "city",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "شچلکوو",
+      "name": "شچیولکوفو",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "وستریاکوو",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "ویسوکوفسک",
       "name_default": "Vysokovsk",
@@ -5580,7 +5544,7 @@
       "id": 102477,
       "name": "یام",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,

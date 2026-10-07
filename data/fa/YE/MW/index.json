@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130705,
-      "name": "الخبث",
+      "name": "ناحیه الخبت",
       "name_default": "Al Khabt",
       "native": "الخبط",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130729,
-      "name": "المحویت",
+      "name": "محویت",
       "name_default": "Al Maḩwīt",
       "native": "المحويت",
       "type": "adm1",
@@ -111,7 +111,7 @@
     },
     {
       "id": 130768,
-      "name": "آر روجوم",
+      "name": "ناحیه الرجم",
       "name_default": "Ar Rujum",
       "native": "الرُّجُم",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 130808,
-      "name": "طویله",
+      "name": "ناحیه الطویله",
       "name_default": "Aţ Ţawīlah",
       "native": "Aţ Ţawīlah",
       "type": "adm2",
@@ -165,10 +165,10 @@
     },
     {
       "id": 130868,
-      "name": "هفاش",
+      "name": "ناحیه حفاش",
       "name_default": "Hufash",
       "native": "حفاش",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37884,
@@ -183,7 +183,7 @@
     },
     {
       "id": 130925,
-      "name": "میلهان",
+      "name": "ناحیه ملحان",
       "name_default": "Milhan",
       "native": "ميلهان",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 130980,
-      "name": "شیبام کوکبان",
+      "name": "ناحیه شبام کوکبان",
       "name_default": "Shibām Kawkabān",
       "native": "شبام كوكبان",
       "type": "city",

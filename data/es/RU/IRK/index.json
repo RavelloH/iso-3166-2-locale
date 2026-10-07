@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 105829,
-      "name": "Afanasyeva",
+      "name": "Afanas’yeva",
       "name_default": "Afanas’yeva",
       "native": "Афанасьєва",
       "type": "city",
@@ -250,7 +250,7 @@
     },
     {
       "id": 105830,
-      "name": "Distrito de Alarskiy",
+      "name": "Alarskiy Rayon",
       "name_default": "Alarskiy Rayon",
       "native": "Аларський район",
       "type": "city",
@@ -304,7 +304,7 @@
     },
     {
       "id": 105833,
-      "name": "Alzamay",
+      "name": "Alzamái",
       "name_default": "Alzamay",
       "native": "Алзамай",
       "type": "city",
@@ -340,7 +340,7 @@
     },
     {
       "id": 105836,
-      "name": "Distrito de Angarskiy",
+      "name": "Angarskiy Rayon",
       "name_default": "Angarskiy Rayon",
       "native": "Ангарський район",
       "type": "city",
@@ -394,7 +394,7 @@
     },
     {
       "id": 105839,
-      "name": "baklashi",
+      "name": "Baklashi",
       "name_default": "Baklashi",
       "native": "Баклаші",
       "type": "city",
@@ -430,7 +430,7 @@
     },
     {
       "id": 105841,
-      "name": "Distrito de Balaganskiy",
+      "name": "Balaganskiy Rayon",
       "name_default": "Balaganskiy Rayon",
       "native": "Балаганський район",
       "type": "area",
@@ -502,7 +502,7 @@
     },
     {
       "id": 105847,
-      "name": "Baykal'sk",
+      "name": "Baykal’sk",
       "name_default": "Baykal’sk",
       "native": "Байкальськ",
       "type": "city",
@@ -538,7 +538,7 @@
     },
     {
       "id": 105849,
-      "name": "Biryusinsk",
+      "name": "Biriusinsk",
       "name_default": "Biryusinsk",
       "native": "Бірюсинськ",
       "type": "city",
@@ -556,7 +556,7 @@
     },
     {
       "id": 105850,
-      "name": "Bodaybo",
+      "name": "Bodaibó",
       "name_default": "Bodaybo",
       "native": "Бодайбо",
       "type": "adm2",
@@ -610,9 +610,9 @@
     },
     {
       "id": 105853,
-      "name": "Bol'shaya Rechka",
+      "name": "Bol’shaya Rechka",
       "name_default": "Bol’shaya Rechka",
-      "native": "Велика Річка",
+      "native": "Большая Речка",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -646,7 +646,7 @@
     },
     {
       "id": 105855,
-      "name": "Distrito de Bratskiy",
+      "name": "Bratskiy Rayon",
       "name_default": "Bratskiy Rayon",
       "native": "Братський район",
       "type": "city",
@@ -790,7 +790,7 @@
     },
     {
       "id": 105864,
-      "name": "Gurán",
+      "name": "Guran",
       "name_default": "Guran",
       "native": "Гуран",
       "type": "city",
@@ -970,7 +970,7 @@
     },
     {
       "id": 105877,
-      "name": "Jomutovo",
+      "name": "Khomutovo",
       "name_default": "Khomutovo",
       "native": "Хомутово",
       "type": "city",
@@ -1042,7 +1042,7 @@
     },
     {
       "id": 105881,
-      "name": "Kimil'tey",
+      "name": "Kimil’tey",
       "name_default": "Kimil’tey",
       "native": "Кімілтей",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 105894,
-      "name": "Listvyanka",
+      "name": "Listvianka",
       "name_default": "Listvyanka",
       "native": "Листвянка",
       "type": "city",
@@ -1294,7 +1294,7 @@
     },
     {
       "id": 105896,
-      "name": "Mamá",
+      "name": "Mama",
       "name_default": "Mama",
       "native": "Мама",
       "type": "adm2",
@@ -1312,7 +1312,7 @@
     },
     {
       "id": 105897,
-      "name": "Mamakan",
+      "name": "Mamakán",
       "name_default": "Mamakan",
       "native": "Мамакан",
       "type": "city",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 105907,
-      "name": "Nizhneudinsk",
+      "name": "Nizhneúdinsk",
       "name_default": "Nizhneudinsk",
       "native": "Нижньоудинськ",
       "type": "adm2",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": 105909,
-      "name": "Nueva Igirma",
+      "name": "Novaya Igirma",
       "name_default": "Novaya Igirma",
       "native": "Нова Ігірма",
       "type": "city",
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 105927,
-      "name": "Shelekhov",
+      "name": "Shélejov",
       "name_default": "Shelekhov",
       "native": "Шелехов",
       "type": "adm2",
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 105933,
-      "name": "Slyudyanka",
+      "name": "Sliudianka",
       "name_default": "Slyudyanka",
       "native": "Слюдянка",
       "type": "adm2",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": 105939,
-      "name": "Tayshet",
+      "name": "Taishet",
       "name_default": "Tayshet",
       "native": "Тайшет",
       "type": "adm2",
@@ -1996,7 +1996,7 @@
     },
     {
       "id": 105942,
-      "name": "Tel'ma",
+      "name": "Tel’ma",
       "name_default": "Tel’ma",
       "native": "Тельма",
       "type": "city",
@@ -2070,7 +2070,7 @@
       "id": 105947,
       "name": "Tyret’ Pervaya",
       "name_default": "Tyret’ Pervaya",
-      "native": "Тирет Перша",
+      "native": "Тыреть 1-я",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2086,9 +2086,9 @@
     },
     {
       "id": 105948,
-      "name": "Reino Unido",
+      "name": "Uk",
       "name_default": "Uk",
-      "native": "Велика Британія",
+      "native": "Ук",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2140,7 +2140,7 @@
     },
     {
       "id": 105951,
-      "name": "Usol'ye-Sibirskoye",
+      "name": "Usol’ye-Sibirskoye",
       "name_default": "Usol’ye-Sibirskoye",
       "native": "Усольє-Сибірське",
       "type": "city",
@@ -2158,7 +2158,7 @@
     },
     {
       "id": 105952,
-      "name": "Ust'-Ilimsk",
+      "name": "Ust’-Ilimsk",
       "name_default": "Ust’-Ilimsk",
       "native": "Усть-Ілімськ",
       "type": "city",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": 105953,
-      "name": "Ust'-Kut",
+      "name": "Ust’-Kut",
       "name_default": "Ust’-Kut",
       "native": "Усть-Кут",
       "type": "city",
@@ -2212,7 +2212,7 @@
     },
     {
       "id": 105955,
-      "name": "Ust'-Ordynskiy",
+      "name": "Ust’-Ordynskiy",
       "name_default": "Ust’-Ordynskiy",
       "native": "Усть-Ординський",
       "type": "adm2",
@@ -2230,7 +2230,7 @@
     },
     {
       "id": 105956,
-      "name": "Ust'-Uda",
+      "name": "Ust’-Uda",
       "name_default": "Ust’-Uda",
       "native": "Усть-Уда",
       "type": "adm2",
@@ -2284,7 +2284,7 @@
     },
     {
       "id": 105960,
-      "name": "Vijorevka",
+      "name": "Vikhorevka",
       "name_default": "Vikhorevka",
       "native": "Віхорівка",
       "type": "city",
@@ -2448,7 +2448,7 @@
       "id": 105969,
       "name": "Zheleznodorozhnyy",
       "name_default": "Zheleznodorozhnyy",
-      "native": "Залізничний",
+      "native": "Железнодорожный",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2556,7 +2556,7 @@
       "id": 105975,
       "name": "Zvëzdnyy",
       "name_default": "Zvëzdnyy",
-      "native": "Зоряний",
+      "native": "Звёздный",
       "type": "city",
       "level": null,
       "parent_id": null,

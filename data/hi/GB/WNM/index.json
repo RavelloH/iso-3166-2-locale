@@ -234,6 +234,24 @@
       "state_code": "WNM",
       "state_id": 2482,
       "country_id": 232
+    },
+    {
+      "id": 51925,
+      "name": "विंड्सर",
+      "name_default": "Windsor",
+      "native": "Windsor",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26885,
+      "latitude": "51.48333000",
+      "longitude": "-0.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q464955",
+      "country_code": "GB",
+      "state_code": "WNM",
+      "state_id": 2482,
+      "country_id": 232
     }
   ]
 }

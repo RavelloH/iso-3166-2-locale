@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 65965,
-      "name": "Anse La Raye",
+      "name": "Anse-la-Raye",
       "name_default": "Anse La Raye",
       "native": "Anse la Raye",
       "type": "adm1",
@@ -77,7 +77,7 @@
       "id": 65969,
       "name": "Au Tabor",
       "name_default": "Au Tabor",
-      "native": "I'm Bator",
+      "native": "Au Tabor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 66019,
       "name": "Bois D'Inde",
       "name_default": "Bois D'Inde",
-      "native": "India wood",
+      "native": "Bois D'Inde",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 66040,
-      "name": "Kanaren",
+      "name": "Canaries",
       "name_default": "Canaries",
       "native": "Canaries",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 66112,
-      "name": "Derriere-Lagune",
+      "name": "Derriere Lagoon",
       "name_default": "Derriere Lagoon",
       "native": "Derriere Lagoon",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 66260,
-      "name": "Massaker",
+      "name": "Massacre",
       "name_default": "Massacre",
       "native": "Massacre",
       "type": "capital",
@@ -309,7 +309,7 @@
     },
     {
       "id": 66266,
-      "name": "Hirse",
+      "name": "Millet",
       "name_default": "Millet",
       "native": "Millet",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 66294,
       "name": "Morne Ciseaux",
       "name_default": "Morne Ciseaux",
-      "native": "Grine scissors",
+      "native": "Morne Ciseaux",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 66381,
-      "name": "St. Lawrence",
+      "name": "St Lawrence",
       "name_default": "St Lawrence",
       "native": "St Lawrence",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 66382,
-      "name": "St. Lawrence Estate",
+      "name": "St Lawrence Estate",
       "name_default": "St Lawrence Estate",
       "native": "St Lawrence Estate",
       "type": "city",
@@ -419,7 +419,7 @@
       "id": 66392,
       "name": "Tete Chemin",
       "name_default": "Tete Chemin",
-      "native": "Head",
+      "native": "Tete Chemin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 66427,
-      "name": "Dorf",
+      "name": "Village",
       "name_default": "Village",
       "native": "Village",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 66429,
-      "name": "Dorf/Petite Bourgh",
+      "name": "Village/Petite Bourgh",
       "name_default": "Village/Petite Bourgh",
       "native": "Village/Petite Bourgh",
       "type": "city",

@@ -75,7 +75,7 @@
     },
     {
       "id": 49432,
-      "name": "에클스",
+      "name": "바턴",
       "name_default": "Eccles",
       "native": "Eccles",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 50069,
-      "name": "이르람",
+      "name": "이램",
       "name_default": "Irlam",
-      "native": "Iram",
+      "native": "Irlam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 50329,
-      "name": "리틀 헐튼",
+      "name": "리틀헐튼",
       "name_default": "Little Hulton",
       "native": "Little Hulton",
       "type": "city",
@@ -128,26 +128,8 @@
       "country_id": 232
     },
     {
-      "id": 50989,
-      "name": "프레스위치",
-      "name_default": "Prestwich",
-      "native": "Prestwich",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32125,
-      "latitude": "53.53333000",
-      "longitude": "-2.28333000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1003559",
-      "country_code": "GB",
-      "state_code": "SLF",
-      "state_id": 2493,
-      "country_id": 232
-    },
-    {
       "id": 51181,
-      "name": "살포드",
+      "name": "솔퍼드",
       "name_default": "Salford",
       "native": "Salford",
       "type": "adm2",
@@ -183,7 +165,7 @@
     },
     {
       "id": 51729,
-      "name": "워크든",
+      "name": "워크던",
       "name_default": "Walkden",
       "native": "Walkden",
       "type": "city",

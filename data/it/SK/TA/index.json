@@ -95,7 +95,7 @@
       "id": 104390,
       "name": "Galanta",
       "name_default": "Galanta",
-      "native": "Galantný",
+      "native": "Galanta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 104460,
-      "name": "Okres Dunajská Streda",
+      "name": "distretto di Dunajská Streda",
       "name_default": "Okres Dunajská Streda",
       "native": "Okres Dunajská Streda",
       "type": "area",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104461,
-      "name": "Okres Galanta",
+      "name": "distretto di Galanta",
       "name_default": "Okres Galanta",
       "native": "Okres Galanta",
       "type": "area",
@@ -219,10 +219,10 @@
     },
     {
       "id": 104463,
-      "name": "Okres Hlohovec",
+      "name": "distretto di Hlohovec",
       "name_default": "Okres Hlohovec",
       "native": "Okres Hlohovec",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 42762,
@@ -237,7 +237,7 @@
     },
     {
       "id": 104486,
-      "name": "Okres Piešťany",
+      "name": "distretto di Piešťany",
       "name_default": "Okres Piešťany",
       "native": "Okres Piešťany",
       "type": "area",

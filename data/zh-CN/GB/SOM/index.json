@@ -111,7 +111,7 @@
     },
     {
       "id": 48686,
-      "name": "布里奇沃特",
+      "name": "桥水",
       "name_default": "Bridgwater",
       "native": "Bridgwater",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48776,
-      "name": "伯纳姆滨海",
+      "name": "滨海班汉姆",
       "name_default": "Burnham-on-Sea",
       "native": "Burnham-on-Sea",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48876,
-      "name": "卡斯尔卡里",
+      "name": "凯利堡",
       "name_default": "Castle Cary",
       "native": "Castle Cary",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48920,
-      "name": "甜菜",
+      "name": "查德",
       "name_default": "Chard",
       "native": "Chard",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48939,
-      "name": "切达干酪",
+      "name": "彻达",
       "name_default": "Cheddar",
       "native": "Cheddar",
       "type": "city",
@@ -255,9 +255,9 @@
     },
     {
       "id": 49155,
-      "name": "克鲁克恩",
+      "name": "克鲁凯恩",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 49339,
-      "name": "达尔弗顿",
+      "name": "杜尔弗顿",
       "name_default": "Dulverton",
       "native": "Dulverton",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 49614,
-      "name": "弗罗姆",
+      "name": "佛莱姆",
       "name_default": "Frome",
       "native": "Frome",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "霍尼顿",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "亨特斯皮尔",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -455,7 +437,7 @@
       "id": 50044,
       "name": "伊尔明斯特",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +471,7 @@
     },
     {
       "id": 50522,
-      "name": "马托克",
+      "name": "马特拓克",
       "name_default": "Martock",
       "native": "Martock",
       "type": "city",
@@ -525,7 +507,7 @@
     },
     {
       "id": 50596,
-      "name": "米尔沃顿",
+      "name": "米尔弗顿",
       "name_default": "Milverton",
       "native": "Milverton",
       "type": "city",
@@ -543,7 +525,7 @@
     },
     {
       "id": 50598,
-      "name": "迈因黑德",
+      "name": "迈赫德",
       "name_default": "Minehead",
       "native": "Minehead",
       "type": "city",
@@ -561,7 +543,7 @@
     },
     {
       "id": 50679,
-      "name": "内瑟·斯托威",
+      "name": "下斯托伊",
       "name_default": "Nether Stowey",
       "native": "Nether Stowey",
       "type": "city",
@@ -669,7 +651,7 @@
     },
     {
       "id": 51364,
-      "name": "南佩瑟顿",
+      "name": "South Petherton",
       "name_default": "South Petherton",
       "native": "South Petherton",
       "type": "city",
@@ -795,7 +777,7 @@
     },
     {
       "id": 51792,
-      "name": "威尔斯",
+      "name": "韦尔斯",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",
@@ -813,7 +795,7 @@
     },
     {
       "id": 51812,
-      "name": "西科克",
+      "name": "西可克",
       "name_default": "West Coker",
       "native": "West Coker",
       "type": "city",

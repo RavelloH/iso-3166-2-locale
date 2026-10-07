@@ -93,7 +93,7 @@
     },
     {
       "id": 131019,
-      "name": "爱丽丝",
+      "name": "艾丽斯",
       "name_default": "Alice",
       "native": "Alice",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 131020,
-      "name": "北阿里瓦尔",
+      "name": "北阿利瓦尔",
       "name_default": "Aliwal North",
       "native": "Aliwal North",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 131054,
-      "name": "巴特沃斯",
+      "name": "巴特沃思",
       "name_default": "Butterworth",
       "native": "Butterworth",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 204
     },
     {
-      "id": 131103,
-      "name": "艾略特",
-      "name_default": "Elliot",
-      "native": "Elliot",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 17224,
-      "latitude": "-31.33333000",
-      "longitude": "27.85000000",
-      "timezone": "Africa/Johannesburg",
-      "wikiDataId": "Q1880498",
-      "country_code": "ZA",
-      "state_code": "EC",
-      "state_id": 938,
-      "country_id": 204
-    },
-    {
       "id": 131109,
-      "name": "博福特堡",
+      "name": "博福特港",
       "name_default": "Fort Beaufort",
       "native": "Fort Beaufort",
       "type": "adm3",
@@ -399,7 +381,7 @@
     },
     {
       "id": 131225,
-      "name": "伊丽莎白港",
+      "name": "吉科巴哈",
       "name_default": "Gqeberha",
       "native": "Port Elizabeth",
       "type": "adm2",
@@ -435,7 +417,7 @@
     },
     {
       "id": 131121,
-      "name": "格雷厄姆斯敦",
+      "name": "马坎达",
       "name_default": "Grahamstown",
       "native": "Grahamstown",
       "type": "adm3",
@@ -473,7 +455,7 @@
       "id": 131133,
       "name": "伊林格",
       "name_default": "Ilinge",
-      "native": "It's a challenge",
+      "native": "Ilinge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -524,6 +506,24 @@
       "country_id": 204
     },
     {
+      "id": 131103,
+      "name": "Khowa",
+      "name_default": "Khowa",
+      "native": "Khowa",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17224,
+      "latitude": "-31.33333000",
+      "longitude": "27.85000000",
+      "timezone": "Africa/Johannesburg",
+      "wikiDataId": "Q1880498",
+      "country_code": "ZA",
+      "state_code": "EC",
+      "state_id": 938,
+      "country_id": 204
+    },
+    {
       "id": 131141,
       "name": "柯克伍德",
       "name_default": "Kirkwood",
@@ -545,7 +545,7 @@
       "id": 131152,
       "name": "克鲁斯方丹",
       "name_default": "Kruisfontein",
-      "native": "Crossfontein",
+      "native": "Kruisfontein",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 131157,
-      "name": "弗里尔夫人",
+      "name": "弗里尔夫人镇",
       "name_default": "Lady Frere",
       "native": "Lady Frere",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 131182,
-      "name": "莫尔特诺",
+      "name": "莫尔蒂诺",
       "name_default": "Molteno",
       "native": "Molteno",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 131191,
-      "name": "姆塔塔",
+      "name": "乌姆塔塔",
       "name_default": "Mthatha",
       "native": "Mthatha",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 131224,
-      "name": "阿尔弗雷德港",
+      "name": "艾尔弗雷德港",
       "name_default": "Port Alfred",
       "native": "Port Alfred",
       "type": "adm3",
@@ -777,7 +777,7 @@
     },
     {
       "id": 131234,
-      "name": "皇后镇",
+      "name": "昆士敦",
       "name_default": "Queenstown",
       "native": "Queenstown",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 131259,
-      "name": "萨默塞特东部",
+      "name": "东索梅塞特",
       "name_default": "Somerset East",
       "native": "Somerset East",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 131279,
-      "name": "埃滕哈赫",
+      "name": "尤丹赫支",
       "name_default": "Uitenhage",
       "native": "Uitenhage",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80563,
-      "name": "Asentamiento Humano Nicolás de Piérola",
+      "name": "Asentamiento Humano Nicolas de Pierola",
       "name_default": "Asentamiento Humano Nicolas de Pierola",
       "native": "Asentamiento Humano Nicolas de Pierola",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80738,
-      "name": "Oyón",
+      "name": "Oyon",
       "name_default": "Oyon",
       "native": "Oyon",
       "type": "city",
@@ -347,7 +347,7 @@
       "id": 80753,
       "name": "Paramonga",
       "name_default": "Paramonga",
-      "native": "Cacerola",
+      "native": "Paramonga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -474,7 +474,7 @@
       "name": "Provincia de Yauyos",
       "name_default": "Provincia de Yauyos",
       "native": "Provincia de Yauyos",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 20463,
@@ -615,9 +615,9 @@
     },
     {
       "id": 80980,
-      "name": "Súper",
+      "name": "Supe",
       "name_default": "Supe",
-      "native": "Abundante",
+      "native": "Supe",
       "type": "city",
       "level": null,
       "parent_id": null,

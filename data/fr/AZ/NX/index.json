@@ -95,7 +95,7 @@
       "id": 8072,
       "name": "Deste",
       "name_default": "Deste",
-      "native": "Bundan",
+      "native": "Deste",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 8071,
-      "name": "Culfa",
+      "name": "Djoulfa",
       "name_default": "Julfa",
       "native": "Culfa",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 8097,
-      "name": "Djoulfa (raion)",
+      "name": "Julfa Rayon",
       "name_default": "Julfa Rayon",
       "native": "Culfa Ray",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 8126,
-      "name": "Ordoubad",
+      "name": "Ordubad",
       "name_default": "Ordubad",
       "native": "Ordubad",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 8127,
-      "name": "Ordubad (raion)",
+      "name": "Ordubad Rayon",
       "name_default": "Ordubad Rayon",
       "native": "Ordubad Rayon",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 8172,
-      "name": "Shakhbuz (raion)",
+      "name": "Shahbuz Rayon",
       "name_default": "Shahbuz Rayon",
       "native": "Şahbuz rayonu",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 8175,
-      "name": "Ville de Sharur",
+      "name": "Sharur City",
       "name_default": "Sharur City",
       "native": "Şərur şəhəri",
       "type": "adm2",
@@ -311,7 +311,7 @@
       "id": 8179,
       "name": "Sumbatan-diza",
       "name_default": "Sumbatan-diza",
-      "native": "Tıxanma-kərtən",
+      "native": "Sumbatan-diza",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -191,7 +191,7 @@
       "name": "コチノカ県",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -278,7 +278,7 @@
     },
     {
       "id": 1147,
-      "name": "ウマワカ",
+      "name": "ウマウアカ",
       "name_default": "Humahuaca",
       "native": "Humahuaca",
       "type": "adm2",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1236,
-      "name": "リベルタドール将軍サン・マルティン",
+      "name": "リベルタドール・ヘネラル・サン・マルティン",
       "name_default": "Libertador General San Martín",
       "native": "Libertador General San Martín",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1451,
-      "name": "サンサルバドルデフフイ",
+      "name": "サン・サルバドール・デ・フフイ",
       "name_default": "San Salvador de Jujuy",
       "native": "San Salvador de Jujuy",
       "type": "adm1",

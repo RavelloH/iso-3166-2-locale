@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 106422,
-      "name": "Банг Бон",
+      "name": "Бангбон",
       "name_default": "Bang Bon",
       "native": "บางบอน",
       "type": "section",
@@ -75,7 +75,7 @@
     },
     {
       "id": 106424,
-      "name": "Банг Капи",
+      "name": "Бангкапи",
       "name_default": "Bang Kapi",
       "native": "บางกะปิ",
       "type": "section",
@@ -111,7 +111,7 @@
     },
     {
       "id": 106426,
-      "name": "Банг Кхен",
+      "name": "Бангкхен",
       "name_default": "Bang Khen",
       "native": "บางเขน",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 106436,
-      "name": "Банг На",
+      "name": "Бангна",
       "name_default": "Bang Na",
       "native": "บางนา",
       "type": "section",
@@ -201,7 +201,7 @@
     },
     {
       "id": 106443,
-      "name": "Банг Рак",
+      "name": "Банг-Рак",
       "name_default": "Bang Rak",
       "native": "บางรัก",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106480,
-      "name": "Чом Тхонг",
+      "name": "Чомтхонг",
       "name_default": "Chom Thong",
       "native": "จอมทอง",
       "type": "section",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106500,
-      "name": "Хуай Кхванг",
+      "name": "Хуайкхванг",
       "name_default": "Huai Khwang",
       "native": "ห้วยขวาง",
       "type": "section",
@@ -489,7 +489,7 @@
     },
     {
       "id": 106548,
-      "name": "Лак Си",
+      "name": "Лакси",
       "name_default": "Lak Si",
       "native": "หลักสี่",
       "type": "section",
@@ -507,7 +507,7 @@
     },
     {
       "id": 106554,
-      "name": "Лат Крабанг",
+      "name": "Латкрабанг",
       "name_default": "Lat Krabang",
       "native": "ลาดกระบัง",
       "type": "section",
@@ -525,7 +525,7 @@
     },
     {
       "id": 106555,
-      "name": "Лат Пхрао",
+      "name": "Латпхрао",
       "name_default": "Lat Phrao",
       "native": "ลาดพร้าว",
       "type": "section",
@@ -633,7 +633,7 @@
     },
     {
       "id": 106627,
-      "name": "Пхая Тай",
+      "name": "Пхаятхай",
       "name_default": "Phaya Thai",
       "native": "พญาไท",
       "type": "section",
@@ -651,7 +651,7 @@
     },
     {
       "id": 106642,
-      "name": "Пхра Кханонг",
+      "name": "Пхракханонг",
       "name_default": "Phra Khanong",
       "native": "พระโขนง",
       "type": "section",
@@ -690,7 +690,7 @@
       "name": "Пом Прап Саттру Фай",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Крыса Бурана",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 106687,
-      "name": "Сапхан Сунг",
+      "name": "Сапхансунг",
       "name_default": "Saphan Sung",
       "native": "สะพานสูง",
       "type": "section",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Ян на ва",
+      "name": "Яннава",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

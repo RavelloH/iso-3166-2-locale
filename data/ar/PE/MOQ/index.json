@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80670,
-      "name": "إيلو",
+      "name": "ميناء إيلو",
       "name_default": "Ilo",
       "native": "Oilo",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 80719,
-      "name": "موكيجوا",
+      "name": "موكيغوا",
       "name_default": "Moquegua",
       "native": "Moquegua",
       "type": "adm1",
@@ -114,7 +114,7 @@
       "name": "مقاطعة الجنرال سانشيز سيرو",
       "name_default": "Provincia de General Sánchez Cerro",
       "native": "Provincia de General Sánchez Cerro",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 14865,

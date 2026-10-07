@@ -183,7 +183,7 @@
     },
     {
       "id": 22207,
-      "name": "Březno",
+      "name": "Březno u Chomutova",
       "name_default": "Březno",
       "native": "Březno",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 23377,
-      "name": "Černčice",
+      "name": "Černčice u Loun",
       "name_default": "Černčice",
       "native": "Černčice",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 22226,
-      "name": "Komotau",
+      "name": "Chomutov",
       "name_default": "Chomutov",
       "native": "Chomutov",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 22409,
-      "name": "Hošťka",
+      "name": "Hoštka",
       "name_default": "Hošťka",
       "native": "Hošťka",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 22400,
-      "name": "Hostomice",
+      "name": "Hostomice nad Bílinou",
       "name_default": "Hostomice",
       "native": "Hostice",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 22613,
-      "name": "Liběšice",
+      "name": "Liběšice u Litoměřic",
       "name_default": "Liběšice",
       "native": "Liběšice",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 22623,
-      "name": "Leitmeritz",
+      "name": "Litoměřice",
       "name_default": "Litoměřice",
       "native": "Litoměřice",
       "type": "city",
@@ -851,7 +851,7 @@
       "id": 22631,
       "name": "Lom",
       "name_default": "Lom",
-      "native": "Lom u nejvýhod",
+      "native": "Lom",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -921,7 +921,7 @@
     },
     {
       "id": 22735,
-      "name": "Měcholupy",
+      "name": "Měcholupy u Žatce",
       "name_default": "Měcholupy",
       "native": "Měcholupy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 22683,
-      "name": "Meziboři",
+      "name": "Meziboří",
       "name_default": "Meziboři",
       "native": "Meziboři",
       "type": "city",
@@ -975,9 +975,9 @@
     },
     {
       "id": 22725,
-      "name": "Am meisten",
+      "name": "Most",
       "name_default": "Most",
-      "native": "Většina",
+      "native": "Most",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -993,9 +993,9 @@
     },
     {
       "id": 22770,
-      "name": "Novosedlice",
+      "name": "Weißkirchlitz",
       "name_default": "Novosedlice",
-      "native": "Nové",
+      "native": "Novosedlice",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1013,7 +1013,7 @@
       "id": 22802,
       "name": "Obrnice",
       "name_default": "Obrnice",
-      "native": "Zatáčky",
+      "native": "Obrnice",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1103,7 +1103,7 @@
       "id": 22837,
       "name": "Okres Most",
       "name_default": "Okres Most",
-      "native": "Období mostu",
+      "native": "Okres Most",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 23014,
-      "name": "Radonitz",
+      "name": "Radonice",
       "name_default": "Radonice",
       "native": "Radonice",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 23400,
-      "name": "Řehlovice",
+      "name": "Groß Tschochau",
       "name_default": "Řehlovice",
       "native": "Řehlovice",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 23418,
-      "name": "Schluckenau",
+      "name": "Šluknov",
       "name_default": "Šluknov",
       "native": "Šluknov",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 23160,
-      "name": "Teplitz",
+      "name": "Teplice",
       "name_default": "Teplice",
       "native": "Teplice",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 23162,
-      "name": "Theresienstadt",
+      "name": "Terezín",
       "name_default": "Terezín",
       "native": "Terezín",
       "type": "city",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 23269,
-      "name": "Vilémov",
+      "name": "Vilémov u Šluknova",
       "name_default": "Vilémov",
       "native": "Vilémov",
       "type": "city",
@@ -1661,7 +1661,7 @@
       "id": 23302,
       "name": "Vroutek",
       "name_default": "Vroutek",
-      "native": "Ženský sýr",
+      "native": "Vroutek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 23439,
-      "name": "Saaz",
+      "name": "Žatec",
       "name_default": "Žatec",
       "native": "Žatec",
       "type": "city",

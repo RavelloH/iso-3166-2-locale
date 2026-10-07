@@ -54,5 +54,42 @@
     "wikiDataId": "Q838341",
     "country_code": "CZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 22512,
+      "name": "클라토비",
+      "name_default": "Klatovy",
+      "native": "Klatovy",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22763,
+      "latitude": "49.39552000",
+      "longitude": "13.29505000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q602976",
+      "country_code": "CZ",
+      "state_code": "322",
+      "state_id": 4591,
+      "country_id": 58
+    },
+    {
+      "id": 23146,
+      "name": "수시체",
+      "name_default": "Sušice",
+      "native": "Sušice",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10740,
+      "latitude": "49.23106000",
+      "longitude": "13.52018000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q1000056",
+      "country_code": "CZ",
+      "state_code": "322",
+      "state_id": 4591,
+      "country_id": 58
+    }
+  ]
 }

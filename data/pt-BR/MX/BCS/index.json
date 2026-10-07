@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68498,
-      "name": "Bahía Assunção",
+      "name": "Bahía Asunción",
       "name_default": "Bahía Asunción",
       "native": "Bahía Asunción",
       "type": "city",
@@ -206,7 +206,7 @@
     },
     {
       "id": 69151,
-      "name": "Cidade Constituição",
+      "name": "Ciudad Constitución",
       "name_default": "Ciudad Constitución",
       "native": "Ciudad Constitución",
       "type": "adm2",
@@ -224,7 +224,7 @@
     },
     {
       "id": 69162,
-      "name": "Cidade Insurgentes",
+      "name": "Ciudad Insurgentes",
       "name_default": "Ciudad Insurgentes",
       "native": "Ciudad Insurgentes",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 69382,
-      "name": "Colônia do Sol",
+      "name": "Colonia del Sol",
       "name_default": "Colonia del Sol",
       "native": "Colonia del Sol",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 69893,
-      "name": "O Centenário",
+      "name": "El Centenario",
       "name_default": "El Centenario",
       "native": "El Centenario",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 70100,
-      "name": "O Pescador",
+      "name": "El Pescadero",
       "name_default": "El Pescadero",
       "native": "El Pescadero",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 70206,
-      "name": "O Silêncio",
+      "name": "El Silencio",
       "name_default": "El Silencio",
       "native": "El Silencio",
       "type": "city",
@@ -325,6 +325,24 @@
       "longitude": "-113.29987000",
       "timezone": "America/Mazatlan",
       "wikiDataId": "Q20245268",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
+      "id": 70633,
+      "name": "Guerrero Negro",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCS",
       "state_id": 3460,
@@ -350,7 +368,7 @@
     },
     {
       "id": 71453,
-      "name": "A Praia",
+      "name": "La Playa",
       "name_default": "La Playa",
       "native": "La Playa",
       "type": "city",
@@ -386,7 +404,7 @@
     },
     {
       "id": 71619,
-      "name": "As Margaritas",
+      "name": "Las Margaritas",
       "name_default": "Las Margaritas",
       "native": "Las Margaritas",
       "type": "city",
@@ -422,7 +440,7 @@
     },
     {
       "id": 71651,
-      "name": "As Veredas",
+      "name": "Las Veredas",
       "name_default": "Las Veredas",
       "native": "Las Veredas",
       "type": "city",
@@ -566,7 +584,7 @@
     },
     {
       "id": 72974,
-      "name": "Porto São Carlos",
+      "name": "Puerto San Carlos",
       "name_default": "Puerto San Carlos",
       "native": "Puerto San Carlos",
       "type": "city",
@@ -584,7 +602,7 @@
     },
     {
       "id": 73543,
-      "name": "São Francisco",
+      "name": "San Francisco",
       "name_default": "San Francisco",
       "native": "San Francisco",
       "type": "city",
@@ -674,7 +692,7 @@
     },
     {
       "id": 76037,
-      "name": "Vila Morelos",
+      "name": "Villa Morelos",
       "name_default": "Villa Morelos",
       "native": "Villa Morelos",
       "type": "city",

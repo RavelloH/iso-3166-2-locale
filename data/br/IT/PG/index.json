@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135666,
-      "name": "Asiz",
+      "name": "Assisi",
       "name_default": "Assisi",
       "native": "Assisi",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 136772,
-      "name": "Ar c'habiten Loreto",
+      "name": "Capitan Loreto",
       "name_default": "Capitan Loreto",
       "native": "Capitano Loreto",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137147,
-      "name": "Kastell Ritaldi",
+      "name": "Castel Ritaldi",
       "name_default": "Castel Ritaldi",
       "native": "Castel Ritaldi",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137773,
-      "name": "Kêr ar Pieve",
+      "name": "Città della Pieve",
       "name_default": "Città della Pieve",
       "native": "Città della Pieve",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137774,
-      "name": "Kêr ar C'hastell",
+      "name": "Città di Castello",
       "name_default": "Città di Castello",
       "native": "Città di Castello",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 137920,
-      "name": "Kolombella",
+      "name": "Colombella",
       "name_default": "Colombella",
       "native": "Colombella",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 139920,
-      "name": "Marciano",
+      "name": "Marsciano",
       "name_default": "Marsciano",
       "native": "Marsciano",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 140354,
-      "name": "Monte Castello di Bibio",
+      "name": "Monte Castello di Vibio",
       "name_default": "Monte Castello di Vibio",
       "native": "Monte Castello di Vibio",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 140579,
-      "name": "Monton",
+      "name": "Montone",
       "name_default": "Montone",
       "native": "Montone",
       "type": "adm3",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 58227,
-      "name": "Palez",
+      "name": "Palazzo",
       "name_default": "Palazzo",
       "native": "Palazzo",
       "type": "city",
@@ -1085,7 +1085,7 @@
       "id": 58283,
       "name": "Pantalla",
       "name_default": "Pantalla",
-      "native": "Schermo",
+      "native": "Pantalla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1157,7 +1157,7 @@
       "id": 58482,
       "name": "Petrignano",
       "name_default": "Petrignano",
-      "native": "PetFrannano",
+      "native": "Petrignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1229,7 +1229,7 @@
       "id": 58715,
       "name": "Pistrino",
       "name_default": "Pistrino",
-      "native": "Forno",
+      "native": "Pistrino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1355,7 +1355,7 @@
       "id": 59444,
       "name": "Rivotorto",
       "name_default": "Rivotorto",
-      "native": "Rivototo",
+      "native": "Rivotorto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 60090,
-      "name": "San Martino e Campo",
+      "name": "San Martino in Campo",
       "name_default": "San Martino in Campo",
       "native": "San Martino in Campo",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 60096,
-      "name": "San Martino e Trignano",
+      "name": "San Martino in Trignano",
       "name_default": "San Martino in Trignano",
       "native": "San Martino in Trignano",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 61056,
-      "name": "Stasion ar Padul",
+      "name": "Stazione di Padule",
       "name_default": "Stazione di Padule",
       "native": "Stazione di Padule",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 61187,
-      "name": "Tavernell",
+      "name": "Tavernelle",
       "name_default": "Tavernelle",
       "native": "Tavernelle",
       "type": "city",
@@ -1857,9 +1857,9 @@
     },
     {
       "id": 61898,
-      "name": "Dre Lippia",
+      "name": "Via Lippia",
       "name_default": "Via Lippia",
-      "native": "Via Lia Cudi",
+      "native": "Via Lippia",
       "type": "city",
       "level": null,
       "parent_id": null,

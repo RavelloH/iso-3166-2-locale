@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 109318,
-      "name": "Amvrosiivka Raion",
+      "name": "Amvrosiivka",
       "name_default": "Amvrosiivka",
       "native": "Амвросіївський район",
       "type": "district",
@@ -132,7 +132,7 @@
     },
     {
       "id": 109342,
-      "name": "Bakhmut",
+      "name": "Bachmut",
       "name_default": "Bakhmut",
       "native": "Бахмут",
       "type": "adm2",
@@ -258,7 +258,7 @@
     },
     {
       "id": 109473,
-      "name": "Chasiv Yar",
+      "name": "Časiv Jar",
       "name_default": "Chasiv Yar",
       "native": "Часів Яр",
       "type": "city",
@@ -294,7 +294,7 @@
     },
     {
       "id": 109532,
-      "name": "Debal'tseve",
+      "name": "Debal’tseve",
       "name_default": "Debal’tseve",
       "native": "Дебальцеве",
       "type": "city",
@@ -366,7 +366,7 @@
     },
     {
       "id": 109563,
-      "name": "Dokuchayevs'k",
+      "name": "Dokuchayevs’k",
       "name_default": "Dokuchayevs’k",
       "native": "Докучаєвськ",
       "type": "city",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109570,
-      "name": "Donetsk",
+      "name": "Donec’k",
       "name_default": "Donetsk",
       "native": "Донецьк",
       "type": "adm1",
@@ -402,7 +402,7 @@
     },
     {
       "id": 109581,
-      "name": "Druzhkivka",
+      "name": "Družkivka",
       "name_default": "Druzhkivka",
       "native": "Дружківка",
       "type": "city",
@@ -456,7 +456,7 @@
     },
     {
       "id": 109728,
-      "name": "Khartsyz'k",
+      "name": "Khartsyz’k",
       "name_default": "Khartsyz’k",
       "native": "Харцизьк",
       "type": "city",
@@ -492,7 +492,7 @@
     },
     {
       "id": 109811,
-      "name": "Kostiantynivka Raion",
+      "name": "Kostiantynivka",
       "name_default": "Kostiantynivka",
       "native": "Костянтинівський район",
       "type": "district",
@@ -528,7 +528,7 @@
     },
     {
       "id": 109828,
-      "name": "Kramators'k",
+      "name": "Kramators’k",
       "name_default": "Kramators’k",
       "native": "Краматорськ",
       "type": "city",
@@ -564,7 +564,7 @@
     },
     {
       "id": 109862,
-      "name": "Krinichnaya",
+      "name": "Krynychna",
       "name_default": "Krynychna",
       "native": "Кринична",
       "type": "city",
@@ -600,7 +600,7 @@
     },
     {
       "id": 109940,
-      "name": "Luhans'ke",
+      "name": "Luhans’ke",
       "name_default": "Luhans’ke",
       "native": "Луганське",
       "type": "city",
@@ -620,7 +620,7 @@
       "id": 109950,
       "name": "Lyman",
       "name_default": "Lyman",
-      "native": "Лайман",
+      "native": "Лиман",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -654,7 +654,7 @@
     },
     {
       "id": 109976,
-      "name": "Makiyivka",
+      "name": "Makiïvka",
       "name_default": "Makiyivka",
       "native": "Макіївка",
       "type": "adm2",
@@ -692,7 +692,7 @@
       "id": 109994,
       "name": "Manhush",
       "name_default": "Manhush",
-      "native": "Манхуш",
+      "native": "Мангуш",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -726,7 +726,7 @@
     },
     {
       "id": 110000,
-      "name": "Mariupol",
+      "name": "Mariupol'",
       "name_default": "Mariupol",
       "native": "Маріуполь",
       "type": "city",
@@ -764,7 +764,7 @@
       "id": 110055,
       "name": "Mospyne",
       "name_default": "Mospyne",
-      "native": "Моспіне",
+      "native": "Моспине",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -852,7 +852,7 @@
     },
     {
       "id": 110161,
-      "name": "Novyy Svit",
+      "name": "Novyi Svit",
       "name_default": "Novyi Svit",
       "native": "Новий Світ",
       "type": "city",
@@ -906,7 +906,7 @@
     },
     {
       "id": 110291,
-      "name": "Pokrovsk",
+      "name": "Pokrovs'k",
       "name_default": "Pokrovsk",
       "native": "Покровськ",
       "type": "adm2",
@@ -924,7 +924,7 @@
     },
     {
       "id": 110292,
-      "name": "Raion di Pokrovsk",
+      "name": "Pokrovsk Raion",
       "name_default": "Pokrovsk Raion",
       "native": "Покровський район",
       "type": "district",
@@ -942,7 +942,7 @@
     },
     {
       "id": 109893,
-      "name": "Kuteynykove",
+      "name": "Popova Balka",
       "name_default": "Popova Balka",
       "native": "Кутейникове",
       "type": "city",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 110420,
-      "name": "Serebrjanka",
+      "name": "Serebrianka",
       "name_default": "Serebrianka",
       "native": "Серебрянка",
       "type": "city",
@@ -1068,7 +1068,7 @@
     },
     {
       "id": 110428,
-      "name": "Shakhtars'k",
+      "name": "Shakhtars’k",
       "name_default": "Shakhtars’k",
       "native": "Шахтарськ",
       "type": "city",
@@ -1122,9 +1122,9 @@
     },
     {
       "id": 110581,
-      "name": "Syedove",
+      "name": "Sedowo",
       "name_default": "Siedove",
-      "native": "Седове",
+      "native": "Сєдове",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1158,7 +1158,7 @@
     },
     {
       "id": 110486,
-      "name": "Sloviansk",
+      "name": "Slov\"jans'k",
       "name_default": "Sloviansk",
       "native": "Слов'янськ",
       "type": "city",
@@ -1176,7 +1176,7 @@
     },
     {
       "id": 110487,
-      "name": "Distretto di Sloviansk",
+      "name": "Sloviansk Raion",
       "name_default": "Sloviansk Raion",
       "native": "Слов'янський район",
       "type": "district",
@@ -1194,7 +1194,7 @@
     },
     {
       "id": 110493,
-      "name": "Snizhne",
+      "name": "Snižne",
       "name_default": "Snizhne",
       "native": "Сніжне",
       "type": "city",
@@ -1230,7 +1230,7 @@
     },
     {
       "id": 110531,
-      "name": "Starobesheve",
+      "name": "Starobeševe",
       "name_default": "Starobesheve",
       "native": "Старобешеве",
       "type": "city",
@@ -1248,7 +1248,7 @@
     },
     {
       "id": 110539,
-      "name": "Staryy Krym",
+      "name": "Staryi Krym",
       "name_default": "Staryi Krym",
       "native": "Старий Крим",
       "type": "city",
@@ -1284,7 +1284,7 @@
     },
     {
       "id": 110575,
-      "name": "Svetlodarsk",
+      "name": "Svitlodars'k",
       "name_default": "Svitlodarsk",
       "native": "Світлодарськ",
       "type": "city",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": 110616,
-      "name": "Toretsk",
+      "name": "Torec'k",
       "name_default": "Toretsk",
       "native": "Торецьк",
       "type": "city",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": 110777,
-      "name": "Jalta",
+      "name": "Yalta",
       "name_default": "Yalta",
       "native": "Ялта",
       "type": "city",
@@ -1428,7 +1428,7 @@
     },
     {
       "id": 110790,
-      "name": "Yasynuvata",
+      "name": "Jasynuvata",
       "name_default": "Yasynuvata",
       "native": "Ясинувата",
       "type": "city",
@@ -1482,7 +1482,7 @@
     },
     {
       "id": 110812,
-      "name": "Zalesnoye",
+      "name": "Zalisne",
       "name_default": "Zalisne",
       "native": "Залісне",
       "type": "section",
@@ -1502,7 +1502,7 @@
       "id": 110867,
       "name": "Zuhres",
       "name_default": "Zuhres",
-      "native": "Зухрес",
+      "native": "Зугрес",
       "type": "city",
       "level": null,
       "parent_id": null,

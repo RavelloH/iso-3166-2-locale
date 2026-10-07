@@ -183,7 +183,7 @@
     },
     {
       "id": 136107,
-      "name": "Bolonia",
+      "name": "Bologna",
       "name_default": "Bologna",
       "native": "Bologna",
       "type": "city",
@@ -275,7 +275,7 @@
       "id": 138222,
       "name": "Cà Dè Fabbri",
       "name_default": "Cà Dè Fabbri",
-      "native": "Di quanto tu dai",
+      "native": "Cà Dè Fabbri",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 137162,
-      "name": "Zamek Aiano",
+      "name": "Castel d'Aiano",
       "name_default": "Castel d'Aiano",
       "native": "Castel d'Aiano",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 137167,
-      "name": "Zamek del Rio",
+      "name": "Castel del Rio",
       "name_default": "Castel del Rio",
       "native": "Castel del Rio",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 137168,
-      "name": "Zamek Casio",
+      "name": "Castel di Casio",
       "name_default": "Castel di Casio",
       "native": "Castel di Casio",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 137142,
-      "name": "Zamek Guelfo w Bolonii",
+      "name": "Castel Guelfo di Bologna",
       "name_default": "Castel Guelfo di Bologna",
       "native": "Castel Guelfo di Bologna",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 137144,
-      "name": "Zamek Maggiore",
+      "name": "Castel Maggiore",
       "name_default": "Castel Maggiore",
       "native": "Castel Maggiore",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 137155,
-      "name": "Zamek San Pietro Terme",
+      "name": "Castel San Pietro Terme",
       "name_default": "Castel San Pietro Terme",
       "native": "Castel San Pietro Terme",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 137256,
-      "name": "Zamek Argile",
+      "name": "Castello d'Argile",
       "name_default": "Castello d'Argile",
       "native": "Castello d'Argile",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 138037,
-      "name": "Ciało Reno",
+      "name": "Corpo Reno",
       "name_default": "Corpo Reno",
       "native": "Corpo di Reno",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 138235,
-      "name": "Decyma",
+      "name": "Decima",
       "name_default": "Decima",
       "native": "Decima",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 139061,
-      "name": "Granarolo dell'Emilia i Viadagola",
+      "name": "Granarolo dell'Emilia e Viadagola",
       "name_default": "Granarolo dell'Emilia e Viadagola",
       "native": "Granarolo dell'Emilia e Viadagola",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 139556,
-      "name": "Lizzano w Belwederze",
+      "name": "Lizzano in Belvedere",
       "name_default": "Lizzano in Belvedere",
       "native": "Lizzano in Belvedere",
       "type": "adm3",
@@ -851,7 +851,7 @@
       "id": 139589,
       "name": "Longara",
       "name_default": "Longara",
-      "native": "Longa",
+      "native": "Longara",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 140020,
-      "name": "Medycyna-Buda",
+      "name": "Medicina-Buda",
       "name_default": "Medicina-Buda",
       "native": "Medicina-buda",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 140370,
-      "name": "Góra San Giovanni",
+      "name": "Monte San Giovanni",
       "name_default": "Monte San Giovanni",
       "native": "Monte San Giovanni",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 58853,
-      "name": "Most Venturina",
+      "name": "Ponte della Venturina",
       "name_default": "Ponte della Venturina",
       "native": "Ponte della Venturina",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 58846,
-      "name": "Most Ronca",
+      "name": "Ponte Ronca",
       "name_default": "Ponte Ronca",
       "native": "Ponte Ronca",
       "type": "city",
@@ -1281,9 +1281,9 @@
     },
     {
       "id": 59090,
-      "name": "Postęp",
+      "name": "Progresso",
       "name_default": "Progresso",
-      "native": "Progressi",
+      "native": "Progresso",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 59229,
-      "name": "Ćwiartka dolna",
+      "name": "Quarto Inferiore",
       "name_default": "Quarto Inferiore",
       "native": "Quarto Inferiore",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 60268,
-      "name": "Święty Wincenty",
+      "name": "San Vincenzo",
       "name_default": "San Vincenzo",
       "native": "San Vincenzo",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 61820,
-      "name": "Wenezuela",
+      "name": "Venezzano",
       "name_default": "Venezzano",
       "native": "Venezzano",
       "type": "city",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 61998,
-      "name": "Willa Fontana",
+      "name": "Villa Fontana",
       "name_default": "Villa Fontana",
       "native": "Villa Fontana",
       "type": "city",

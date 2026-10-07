@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48165,
-      "name": "阿伯奇德",
+      "name": "阿伯克德",
       "name_default": "Aberchirder",
       "native": "Aberchirder",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 48747,
-      "name": "巴基",
+      "name": "巴克奇",
       "name_default": "Buckie",
-      "native": "Bucky",
+      "native": "Buckie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 49198,
-      "name": "卡伦",
+      "name": "库伦",
       "name_default": "Cullen",
       "native": "Cullen",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49337,
-      "name": "达夫敦",
+      "name": "杜夫敦",
       "name_default": "Dufftown",
       "native": "Dufftown",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49451,
-      "name": "埃尔金",
+      "name": "埃尔根",
       "name_default": "Elgin",
       "native": "Elgin",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49556,
-      "name": "芬多奇蒂",
+      "name": "芬多赫蒂",
       "name_default": "Findochty",
       "native": "Findochty",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49579,
-      "name": "福查伯斯",
+      "name": "佛赫巴斯",
       "name_default": "Fochabers",
       "native": "Fochabers",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49589,
-      "name": "福里斯",
+      "name": "佛雷斯",
       "name_default": "Forres",
       "native": "Forres",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50185,
-      "name": "金古西",
+      "name": "金尤西",
       "name_default": "Kingussie",
       "native": "Kingussie",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 50298,
-      "name": "兰布赖德",
+      "name": "兰布里德",
       "name_default": "Lhanbryde",
       "native": "Lhanbryde",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 50623,
-      "name": "海鳗",
+      "name": "马里",
       "name_default": "Moray",
       "native": "Moray",
       "type": "area",
@@ -428,24 +428,6 @@
       "longitude": "-3.25000000",
       "timezone": "Europe/London",
       "wikiDataId": "Q211106",
-      "country_code": "GB",
-      "state_code": "MRY",
-      "state_id": 2360,
-      "country_id": 232
-    },
-    {
-      "id": 50661,
-      "name": "奈恩",
-      "name_default": "Nairn",
-      "native": "Nairn",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10022,
-      "latitude": "57.58094000",
-      "longitude": "-3.87973000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q980084",
       "country_code": "GB",
       "state_code": "MRY",
       "state_id": 2360,

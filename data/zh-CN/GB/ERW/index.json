@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48407,
-      "name": "巴尔黑德",
+      "name": "巴赫德",
       "name_default": "Barrhead",
       "native": "Barrhead",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49409,
-      "name": "东伦弗鲁郡",
+      "name": "East Renfrewshire",
       "name_default": "East Renfrewshire",
       "native": "East Renfrewshire",
       "type": "area",
@@ -176,24 +176,6 @@
       "longitude": "-4.29488000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1016935",
-      "country_code": "GB",
-      "state_code": "ERW",
-      "state_id": 2333,
-      "country_id": 232
-    },
-    {
-      "id": 50150,
-      "name": "基尔马诺克",
-      "name_default": "Kilmarnock",
-      "native": "Kilmarnock",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 46770,
-      "latitude": "55.61171000",
-      "longitude": "-4.49581000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q576562",
       "country_code": "GB",
       "state_code": "ERW",
       "state_id": 2333,

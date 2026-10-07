@@ -56,8 +56,26 @@
   },
   "cities": [
     {
+      "id": 31335,
+      "name": "哈吉拉",
+      "name_default": "El Hadjira",
+      "native": "الحجيرة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 39744,
+      "latitude": "32.61336000",
+      "longitude": "5.51259000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q3049930",
+      "country_code": "DZ",
+      "state_code": "55",
+      "state_id": 4911,
+      "country_id": 4
+    },
+    {
       "id": 31378,
-      "name": "梅加林",
+      "name": "迈加林",
       "name_default": "Megarine",
       "native": "ميجارين",
       "type": "city",
@@ -75,7 +93,7 @@
     },
     {
       "id": 146214,
-      "name": "泰贝特",
+      "name": "泰拜特",
       "name_default": "Taibet",
       "native": "تايبت",
       "type": "city",
@@ -93,7 +111,7 @@
     },
     {
       "id": 31445,
-      "name": "特贝斯贝斯特",
+      "name": "泰贝斯贝斯特",
       "name_default": "Tebesbest",
       "native": "تيبسبيست",
       "type": "city",

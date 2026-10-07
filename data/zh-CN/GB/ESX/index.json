@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48431,
-      "name": "战斗",
+      "name": "巴图",
       "name_default": "Battle",
       "native": "Battle",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48489,
-      "name": "贝克斯希尔滨海",
+      "name": "贝克斯希尔",
       "name_default": "Bexhill-on-Sea",
       "native": "Bexhill-on-Sea",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48804,
-      "name": "巴克斯特德",
+      "name": "布希特",
       "name_default": "Buxted",
       "native": "Buxted",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48829,
-      "name": "外倾角",
+      "name": "坎巴",
       "name_default": "Camber",
       "native": "Camber",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49181,
-      "name": "克劳伯勒",
+      "name": "克罗伯勒",
       "name_default": "Crowborough",
       "native": "Crowborough",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49411,
-      "name": "东萨塞克斯",
+      "name": "East Sussex",
       "name_default": "East Sussex",
       "native": "East Sussex",
       "type": "city",
@@ -239,7 +239,7 @@
       "id": 49519,
       "name": "费尔莱特",
       "name_default": "Fairlight",
-      "native": "FALLLOIGHT",
+      "native": "Fairlight",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 49586,
-      "name": "森林街",
+      "name": "佛瑞斯特罗",
       "name_default": "Forest Row",
       "native": "Forest Row",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 49779,
-      "name": "黑尔舍姆",
+      "name": "海尔舍姆",
       "name_default": "Hailsham",
       "native": "Hailsham",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 49877,
-      "name": "希思菲尔德",
+      "name": "希斯菲尔德",
       "name_default": "Heathfield",
       "native": "Heathfield",
       "type": "city",
@@ -401,7 +401,7 @@
       "id": 49987,
       "name": "霍拉姆",
       "name_default": "Horam",
-      "native": "Hour",
+      "native": "Horam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -428,6 +428,24 @@
       "longitude": "0.00880000",
       "timezone": "Europe/London",
       "wikiDataId": "Q246884",
+      "country_code": "GB",
+      "state_code": "ESX",
+      "state_id": 2414,
+      "country_id": 232
+    },
+    {
+      "id": 50713,
+      "name": "纽黑文",
+      "name_default": "Newhaven",
+      "native": "Newhaven",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 12691,
+      "latitude": "50.79693000",
+      "longitude": "0.05545000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q573788",
       "country_code": "GB",
       "state_code": "ESX",
       "state_id": 2414,
@@ -471,9 +489,9 @@
     },
     {
       "id": 50776,
-      "name": "诺瑟姆",
+      "name": "北亚姆",
       "name_default": "Northiam",
-      "native": "North",
+      "native": "Northiam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -488,8 +506,26 @@
       "country_id": 232
     },
     {
+      "id": 50863,
+      "name": "皮斯黑文",
+      "name_default": "Peacehaven",
+      "native": "Peacehaven",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15436,
+      "latitude": "50.79270000",
+      "longitude": "-0.00652000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1935259",
+      "country_code": "GB",
+      "state_code": "ESX",
+      "state_id": 2414,
+      "country_id": 232
+    },
+    {
       "id": 50874,
-      "name": "彭伯里",
+      "name": "彭布里",
       "name_default": "Pembury",
       "native": "Pembury",
       "type": "city",
@@ -507,7 +543,7 @@
     },
     {
       "id": 50906,
-      "name": "佩文西",
+      "name": "皮文希",
       "name_default": "Pevensey",
       "native": "PEVENSEY",
       "type": "city",
@@ -525,7 +561,7 @@
     },
     {
       "id": 50907,
-      "name": "佩文西湾",
+      "name": "Pevensey Bay",
       "name_default": "Pevensey Bay",
       "native": "Pevensey Bay",
       "type": "city",
@@ -543,7 +579,7 @@
     },
     {
       "id": 51082,
-      "name": "林默",
+      "name": "灵格玛",
       "name_default": "Ringmer",
       "native": "Ringmer",
       "type": "city",
@@ -579,7 +615,7 @@
     },
     {
       "id": 51147,
-      "name": "拉斯特霍尔",
+      "name": "鲁斯豪尔",
       "name_default": "Rusthall",
       "native": "Rusthall",
       "type": "city",
@@ -597,7 +633,7 @@
     },
     {
       "id": 51153,
-      "name": "黑麦",
+      "name": "拉伊",
       "name_default": "Rye",
       "native": "Rye",
       "type": "city",
@@ -632,8 +668,26 @@
       "country_id": 232
     },
     {
+      "id": 51221,
+      "name": "锡福德",
+      "name_default": "Seaford",
+      "native": "Seaford",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23864,
+      "latitude": "50.77141000",
+      "longitude": "0.10268000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1640242",
+      "country_code": "GB",
+      "state_code": "ESX",
+      "state_id": 2414,
+      "country_id": 232
+    },
+    {
       "id": 51618,
-      "name": "蒂斯赫斯特",
+      "name": "提斯赫",
       "name_default": "Ticehurst",
       "native": "Ticehurst",
       "type": "city",
@@ -669,7 +723,7 @@
     },
     {
       "id": 51689,
-      "name": "阿克菲尔德",
+      "name": "厄克菲尔特",
       "name_default": "Uckfield",
       "native": "Uckfield",
       "type": "city",
@@ -687,7 +741,7 @@
     },
     {
       "id": 51723,
-      "name": "沃德赫斯特",
+      "name": "瓦德赫斯",
       "name_default": "Wadhurst",
       "native": "Wadhurst",
       "type": "city",
@@ -705,7 +759,7 @@
     },
     {
       "id": 51921,
-      "name": "温切尔西海滩",
+      "name": "Winchelsea Beach",
       "name_default": "Winchelsea Beach",
       "native": "Winchelsea Beach",
       "type": "city",

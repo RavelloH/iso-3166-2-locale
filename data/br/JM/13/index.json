@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Kêr Aenon",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Bankoù",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 62406,
-      "name": "Park Bushy",
+      "name": "Bushy Park",
       "name_default": "Bushy Park",
       "native": "Bushy Park",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Kastell",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62462,
-      "name": "Kokpit",
+      "name": "Cockpit",
       "name_default": "Cockpit",
       "native": "Cockpit",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Tamm kafe",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62466,
-      "name": "Krec'h ar C'horoneled",
+      "name": "Colonels Ridge",
       "name_default": "Colonels Ridge",
       "native": "Colonels Ridge",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Coxwain",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Stêr kromm",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Pevar hent",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Roit din un tamm",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 62606,
-      "name": "Menez ar c'hreun",
+      "name": "Gravel Hill",
       "name_default": "Gravel Hill",
       "native": "Gravel Hill",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Arvar",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -689,7 +689,7 @@
       "id": 62683,
       "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 62712,
-      "name": "Bevenn",
+      "name": "Limit",
       "name_default": "Limit",
       "native": "Limit",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 62715,
-      "name": "Kêr Lionel",
+      "name": "Lionel Town",
       "name_default": "Lionel Town",
       "native": "Lionel Town",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 62727,
-      "name": "Park Longville",
+      "name": "Longville Park",
       "name_default": "Longville Park",
       "native": "Longville Park",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Plenn Mae",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62765,
-      "name": "Mae Penn Dereat",
+      "name": "May Pen Proper",
       "name_default": "May Pen Proper",
       "native": "May Pen Proper",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Stêr al Laezh",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 62777,
-      "name": "Uhelder ar mengleuzioù",
+      "name": "Mineral Heights",
       "name_default": "Mineral Heights",
       "native": "Mineral Heights",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 62778,
-      "name": "Kêr Mitchell",
+      "name": "Mitchell Town",
       "name_default": "Mitchell Town",
       "native": "Mitchell Town",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Koad Morgans",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 62793,
-      "name": "Menez Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Dinbych Nevez",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Dinbych kozh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62846,
-      "name": "Menez orañjez",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62847,
-      "name": "Stal Osbourne",
+      "name": "Osbourne Store",
       "name_default": "Osbourne Store",
       "native": "Osbourne Store",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Ul lodenn eus an douar bananez",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Ul lodenn eus kastell Douglas",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Ul lodenn eus Kellits",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Bannielloù",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62886,
-      "name": "Traoñienn Plijus",
+      "name": "Pleasant Valley",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Tachenn redadegoù",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Roc'h",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62944,
-      "name": "Stêr Roc'h",
+      "name": "Rock River",
       "name_default": "Rock River",
       "native": "Rock River",
       "type": "adm1",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 62946,
-      "name": "Poent Roc'hellek",
+      "name": "Rocky Point",
       "name_default": "Rocky Point",
       "native": "Rocky Point",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Stêr Holen",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 63048,
-      "name": "Kêr Thompson",
+      "name": "Thompson Town",
       "name_default": "Thompson Town",
       "native": "Thompson Town",
       "type": "city",
@@ -1463,7 +1463,7 @@
       "id": 63053,
       "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Gouloù-tredan",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 63067,
-      "name": "Sal an trouz",
+      "name": "Trout Hall",
       "name_default": "Trout Hall",
       "native": "Trout Hall",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Troerien",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 63087,
-      "name": "Hent an dour",
+      "name": "Water Lane",
       "name_default": "Water Lane",
       "native": "Water Lane",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 63119,
-      "name": "Sal ar c'hoad",
+      "name": "Woodhall",
       "name_default": "Woodhall",
       "native": "Woodhall",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 63127,
-      "name": "Kêr York",
+      "name": "York Town",
       "name_default": "York Town",
       "native": "York Town",
       "type": "city",

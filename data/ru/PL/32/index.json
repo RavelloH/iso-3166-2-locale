@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 85798,
-      "name": "Бани",
+      "name": "Бане",
       "name_default": "Banie",
       "native": "BANIE",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 85848,
-      "name": "Белый Бор",
+      "name": "Бялы-Бур",
       "name_default": "Biały Bór",
       "native": "Biały Bór",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 85922,
-      "name": "Борне Сулиново",
+      "name": "Борне-Сулиново",
       "name_default": "Borne Sulinowo",
       "native": "Borne Sulinowo",
       "type": "adm3",
@@ -239,7 +239,7 @@
       "id": 85950,
       "name": "Бройце",
       "name_default": "Brojce",
-      "native": "Broszki",
+      "native": "Brojce",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 86019,
-      "name": "Сединья",
+      "name": "Цедыня",
       "name_default": "Cedynia",
       "native": "Cedynia",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 86040,
-      "name": "Чоцивель",
+      "name": "Хоцивель",
       "name_default": "Chociwel",
       "native": "Chociwel",
       "type": "adm3",
@@ -419,7 +419,7 @@
       "id": 86168,
       "name": "Добра",
       "name_default": "Dobra",
-      "native": "Dobry",
+      "native": "Dobra",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 86193,
-      "name": "Drawno",
+      "name": "Дравно",
       "name_default": "Drawno",
       "native": "Drawno",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 86195,
-      "name": "Дравско-Поморское",
+      "name": "Дравско-Поморске",
       "name_default": "Drawsko Pomorskie",
       "native": "Drawsko Pomorskie",
       "type": "city",
@@ -509,7 +509,7 @@
       "id": 86212,
       "name": "Дыгово",
       "name_default": "Dygowo",
-      "native": "Przynieść",
+      "native": "Dygowo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 86601,
-      "name": "Камень Поморский",
+      "name": "Камень-Поморски",
       "name_default": "Kamień Pomorski",
       "native": "Kamień Pomorski",
       "type": "adm2",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 87192,
-      "name": "Нове Варпно",
+      "name": "Нове-Варпно",
       "name_default": "Nowe Warpno",
       "native": "Nowe Warpno",
       "type": "adm3",
@@ -1139,7 +1139,7 @@
       "id": 87293,
       "name": "Осина",
       "name_default": "Osina",
-      "native": "W kawałkach",
+      "native": "Osina",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1227,9 +1227,9 @@
     },
     {
       "id": 87434,
-      "name": "Полиция",
+      "name": "Полице",
       "name_default": "Police",
-      "native": "Policja",
+      "native": "Police",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 87819,
-      "name": "Пшибьернув",
+      "name": "Пшибернув",
       "name_default": "Przybiernów",
       "native": "Przybiernów",
       "type": "adm3",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 88035,
-      "name": "Рабино",
+      "name": "Ромбино",
       "name_default": "Rąbino",
       "native": "Rąbino",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 87891,
-      "name": "Радово Мале",
+      "name": "Радово-Мале",
       "name_default": "Radowo Małe",
       "native": "Radowo Małe",
       "type": "city",
@@ -1391,7 +1391,7 @@
       "id": 87938,
       "name": "Реско",
       "name_default": "Resko",
-      "native": "Sprytny",
+      "native": "Resko",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 88183,
-      "name": "Старе Чарново",
+      "name": "Старе-Чарново",
       "name_default": "Stare Czarnowo",
       "native": "Stare Czarnowo",
       "type": "adm3",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 88435,
-      "name": "Тихово",
+      "name": "Тыхово",
       "name_default": "Tychowo",
       "native": "Tychowo",
       "type": "adm3",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 88463,
-      "name": "Устроне Морске",
+      "name": "Устроне-Морске",
       "name_default": "Ustronie Morskie",
       "native": "Ustronie Morskie",
       "type": "city",

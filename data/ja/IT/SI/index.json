@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135238,
-      "name": "アッバディア・サン・サルヴァトーレ",
+      "name": "アッバディーア・サン・サルヴァトーレ",
       "name_default": "Abbadia San Salvatore",
       "native": "Abbadia San Salvatore",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135654,
-      "name": "アシアーノ",
+      "name": "アシャーノ",
       "name_default": "Asciano",
       "native": "Asciano",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 135968,
       "name": "ベルベルデ",
       "name_default": "Belverde",
-      "native": "Belver",
+      "native": "Belverde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 137082,
-      "name": "エルザ城",
+      "name": "カーゾレ・デルザ",
       "name_default": "Casole d'Elsa",
       "native": "Casole d'Elsa",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 137246,
-      "name": "カステッリーナ・イン・キャンティ",
+      "name": "カステッリーナ・イン・キアンティ",
       "name_default": "Castellina in Chianti",
       "native": "Castellina in Chianti",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 140517,
-      "name": "モンテリジョーニ",
+      "name": "モンテリッジョーニ",
       "name_default": "Monteriggioni",
       "native": "Monteriggioni",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 58517,
-      "name": "ピアンカスタニオ",
+      "name": "ピアンカスタニャーイオ",
       "name_default": "Piancastagnaio",
       "native": "Piancastagnaio",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 59261,
-      "name": "ラッダ・イン・キャンティ",
+      "name": "ラッダ・イン・キアンティ",
       "name_default": "Radda in Chianti",
       "native": "Radda in Chianti",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 59263,
-      "name": "ラディコファニ",
+      "name": "ラディコーファニ",
       "name_default": "Radicofani",
       "native": "Radicofani",
       "type": "adm3",
@@ -725,7 +725,7 @@
       "id": 59638,
       "name": "ロシア",
       "name_default": "Rosia",
-      "native": "Russia",
+      "native": "Rosia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 59949,
-      "name": "サンジミニャーノ",
+      "name": "サン・ジミニャーノ",
       "name_default": "San Gimignano",
       "native": "San Gimignano",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 60217,
-      "name": "サン・クイリコ・ドルチャ",
+      "name": "サン・クイーリコ・ドルチャ",
       "name_default": "San Quirico d'Orcia",
       "native": "San Quirico d'Orcia",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 60844,
-      "name": "シエナ",
+      "name": "シエーナ",
       "name_default": "Siena",
       "native": "Siena",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 60983,
-      "name": "ソヴィチレ",
+      "name": "ソヴィチッレ",
       "name_default": "Sovicille",
       "native": "Sovicille",
       "type": "adm3",
@@ -923,7 +923,7 @@
       "id": 61040,
       "name": "スタッジャ",
       "name_default": "Staggia",
-      "native": "Fasi",
+      "native": "Staggia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -975,7 +975,7 @@
     },
     {
       "id": 61410,
-      "name": "シエナのトッリータ",
+      "name": "トッリータ・ディ・シエーナ",
       "name_default": "Torrita di Siena",
       "native": "Torrita di Siena",
       "type": "adm3",

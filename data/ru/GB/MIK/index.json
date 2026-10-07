@@ -128,24 +128,6 @@
       "country_id": 232
     },
     {
-      "id": 48748,
-      "name": "Бекингем",
-      "name_default": "Buckingham",
-      "native": "Buckingham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 14294,
-      "latitude": "51.99968000",
-      "longitude": "-0.98779000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q195955",
-      "country_code": "GB",
-      "state_code": "MIK",
-      "state_id": 2416,
-      "country_id": 232
-    },
-    {
       "id": 49058,
       "name": "Когенхо",
       "name_default": "Cogenhoe",
@@ -237,7 +219,7 @@
     },
     {
       "id": 49801,
-      "name": "Ханслоп",
+      "name": "Хэнслоуп",
       "name_default": "Hanslope",
       "native": "Hanslope",
       "type": "adm3",
@@ -255,7 +237,7 @@
     },
     {
       "id": 49804,
-      "name": "Хардингстон",
+      "name": "Хардингстоун",
       "name_default": "Hardingstone",
       "native": "Hardingstone",
       "type": "city",
@@ -273,7 +255,7 @@
     },
     {
       "id": 49827,
-      "name": "Хартвелл",
+      "name": "Хартуэлл",
       "name_default": "Hartwell",
       "native": "Hartwell",
       "type": "city",
@@ -363,9 +345,9 @@
     },
     {
       "id": 51091,
-      "name": "Роуд",
+      "name": "Роад",
       "name_default": "Roade",
-      "native": "eat",
+      "native": "Roade",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,9 +435,9 @@
     },
     {
       "id": 51654,
-      "name": "Таустер",
+      "name": "Таучестер",
       "name_default": "Towcester",
-      "native": "Tacer",
+      "native": "Towcester",
       "type": "city",
       "level": null,
       "parent_id": null,

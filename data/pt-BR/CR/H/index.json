@@ -77,7 +77,7 @@
       "id": 21649,
       "name": "Barva",
       "name_default": "Barva",
-      "native": "Color",
+      "native": "Barva",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 21652,
-      "name": "Belém",
+      "name": "Belén",
       "name_default": "Belén",
       "native": "Belén",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 21696,
-      "name": "A Assunção",
+      "name": "La Asunción",
       "name_default": "La Asunción",
       "native": "La Asunción",
       "type": "section",
@@ -201,7 +201,7 @@
     },
     {
       "id": 21746,
-      "name": "Santo Antônio",
+      "name": "San Antonio",
       "name_default": "San Antonio",
       "native": "San Antonio",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 21750,
-      "name": "São Francisco",
+      "name": "San Francisco",
       "name_default": "San Francisco",
       "native": "San Francisco",
       "type": "section",
@@ -237,7 +237,7 @@
     },
     {
       "id": 21753,
-      "name": "São Isidro",
+      "name": "San Isidro",
       "name_default": "San Isidro",
       "native": "San Isidro",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 21754,
-      "name": "São Josecito",
+      "name": "San Josecito",
       "name_default": "San Josecito",
       "native": "San Josecito",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 21763,
-      "name": "São Paulo",
+      "name": "San Pablo",
       "name_default": "San Pablo",
       "native": "San Pablo",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 21767,
-      "name": "São Rafael",
+      "name": "San Rafael",
       "name_default": "San Rafael",
       "native": "San Rafael",
       "type": "city",

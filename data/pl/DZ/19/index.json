@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31240,
-      "name": "Aïn Arnat",
+      "name": "Ajn Arnat",
       "name_default": "Aïn Arnat",
       "native": "عين أرنات",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 31253,
-      "name": "BABOR - VILLE",
+      "name": "Babor - Ville",
       "name_default": "Babor - Ville",
       "native": "بابور - فيل",
       "type": "city",
@@ -85,7 +85,7 @@
       "latitude": "36.48994000",
       "longitude": "5.53930000",
       "timezone": "Africa/Algiers",
-      "wikiDataId": "Q23826440",
+      "wikiDataId": null,
       "country_code": "DZ",
       "state_code": "19",
       "state_id": 1141,
@@ -111,7 +111,7 @@
     },
     {
       "id": 31333,
-      "name": "El Eulma",
+      "name": "Al-Ulma",
       "name_default": "El Eulma",
       "native": "العلمة",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 31417,
-      "name": "Salah Bej",
+      "name": "Salah Bey",
       "name_default": "Salah Bey",
       "native": "صلاح بك",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 31440,
-      "name": "Sétif",
+      "name": "Satif",
       "name_default": "Sétif",
       "native": "سطيف",
       "type": "adm1",

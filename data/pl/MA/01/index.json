@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 67056,
-      "name": "Al Hoceïma",
+      "name": "Al-Husajma",
       "name_default": "Al Hoceïma",
       "native": "الحسيمة",
       "type": "adm2",
@@ -82,7 +82,7 @@
     },
     {
       "id": 67058,
-      "name": "Al-Husajma",
+      "name": "Al-Hoceima",
       "name_default": "Al-Hoceima",
       "native": "الحسيمة",
       "type": "city",
@@ -136,7 +136,7 @@
     },
     {
       "id": 67095,
-      "name": "Brikcha",
+      "name": "Bariksza",
       "name_default": "Brikcha",
       "native": "بريكشا",
       "type": "adm3",
@@ -172,7 +172,7 @@
     },
     {
       "id": 67099,
-      "name": "Prowincja Chefchaouen",
+      "name": "Chefchaouen",
       "name_default": "Chefchaouen",
       "native": "إقليم شفشاون",
       "type": "province",
@@ -190,7 +190,7 @@
     },
     {
       "id": 67100,
-      "name": "Szefszawan",
+      "name": "Szafszawan",
       "name_default": "Chefchaouen",
       "native": "شفشاون",
       "type": "adm2",
@@ -388,7 +388,7 @@
     },
     {
       "id": 67184,
-      "name": "Prowincja Ouezzane",
+      "name": "Ouezzane Province",
       "name_default": "Ouezzane Province",
       "native": "إقليم وزان",
       "type": "province",
@@ -460,7 +460,7 @@
     },
     {
       "id": 67235,
-      "name": "Tanger",
+      "name": "Tangier",
       "name_default": "Tangier",
       "native": "طنجة",
       "type": "adm1",
@@ -478,7 +478,7 @@
     },
     {
       "id": 67240,
-      "name": "Targuista",
+      "name": "Targuist",
       "name_default": "Targuist",
       "native": "تارجويست",
       "type": "adm3",
@@ -496,7 +496,7 @@
     },
     {
       "id": 67250,
-      "name": "Tetuan",
+      "name": "Tetouan",
       "name_default": "Tetouan",
       "native": "تطوان",
       "type": "city",

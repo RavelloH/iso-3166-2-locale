@@ -75,7 +75,7 @@
     },
     {
       "id": 153266,
-      "name": "Бені Халлед",
+      "name": "Бені-Халед",
       "name_default": "Beni Khalled",
       "native": "بني خالد",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 153268,
-      "name": "Бені Хіар",
+      "name": "Бені-Х'яр",
       "name_default": "Béni Khiar",
       "native": "بني خيار",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 153267,
-      "name": "Бу-Аргуб",
+      "name": "Бу-Аркуб",
       "name_default": "Bou Argoub",
       "native": "بو عرقوب",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 153270,
-      "name": "Ель-Хауарія",
+      "name": "Ель-Хуарія",
       "name_default": "El Haouaria",
       "native": "الهوارية",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 153274,
-      "name": "Громбалія",
+      "name": "Кромбалья",
       "name_default": "Grombalia",
       "native": "قرمبالية",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 153275,
-      "name": "Хаммамет",
+      "name": "Гаммамет",
       "name_default": "Hammamet",
       "native": "الحمامات",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 153279,
-      "name": "Мензель Бузельфа",
+      "name": "Мензель-Бузельфа",
       "name_default": "Menzel Bouzelfa",
       "native": "منزل بوزلفة",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 153280,
-      "name": "Менцель Горр",
+      "name": "Мензель-Хорр",
       "name_default": "Menzel Horr",
       "native": "مينزل هور",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 153281,
-      "name": "Менцель Теміме",
+      "name": "Мензель-Темім",
       "name_default": "Menzel Temime",
       "native": "منزل تميم",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 153282,
-      "name": "Набель",
+      "name": "Набуль",
       "name_default": "Nabeul",
       "native": "نابل",
       "type": "adm1",
@@ -435,7 +435,7 @@
     },
     {
       "id": 153286,
-      "name": "Зауієт Джедіді",
+      "name": "Заув'єт-Джедіді",
       "name_default": "Zaouiet Djedidi",
       "native": "زاوية الجديدي",
       "type": "city",
@@ -446,24 +446,6 @@
       "longitude": "10.60000000",
       "timezone": "Africa/Tunis",
       "wikiDataId": "Q653791",
-      "country_code": "TN",
-      "state_code": "21",
-      "state_id": 5116,
-      "country_id": 224
-    },
-    {
-      "id": 153287,
-      "name": "Зріба",
-      "name_default": "Zriba",
-      "native": "زريبة",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11819,
-      "latitude": "36.35585000",
-      "longitude": "10.20603400",
-      "timezone": "Africa/Tunis",
-      "wikiDataId": "Q3142622",
       "country_code": "TN",
       "state_code": "21",
       "state_id": 5116,

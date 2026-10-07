@@ -75,7 +75,7 @@
     },
     {
       "id": 48251,
-      "name": "Angus",
+      "name": "Aonghas",
       "name_default": "Angus",
       "native": "Angus",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48266,
-      "name": "Arbroath",
+      "name": "Obar Bhrothaig",
       "name_default": "Arbroath",
       "native": "Arbroath",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48669,
-      "name": "Brechin",
+      "name": "Breichinn",
       "name_default": "Brechin",
       "native": "Brechin",
       "type": "city",
@@ -128,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 48868,
+      "name": "Carnoustie",
+      "name_default": "Carnoustie",
+      "native": "Carnoustie",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11360,
+      "latitude": "56.50263000",
+      "longitude": "-2.70530000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1012395",
+      "country_code": "GB",
+      "state_code": "ANS",
+      "state_id": 2387,
+      "country_id": 232
+    },
+    {
       "id": 49587,
-      "name": "Forfar",
+      "name": "Farfar",
       "name_default": "Forfar",
       "native": "Forfar",
       "type": "adm2",
@@ -165,7 +183,7 @@
     },
     {
       "id": 49941,
-      "name": "Traoñienn",
+      "name": "Hillside",
       "name_default": "Hillside",
       "native": "Hillside",
       "type": "city",
@@ -237,7 +255,7 @@
     },
     {
       "id": 50621,
-      "name": "Montrose",
+      "name": "Mon Rois",
       "name_default": "Montrose",
       "native": "Montrose",
       "type": "city",
@@ -255,7 +273,7 @@
     },
     {
       "id": 51169,
-      "name": "Sant Siruz",
+      "name": "Saint Cyrus",
       "name_default": "Saint Cyrus",
       "native": "Saint Cyrus",
       "type": "city",

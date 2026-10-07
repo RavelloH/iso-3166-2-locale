@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135247,
-      "name": "Acádia",
+      "name": "Accadia",
       "name_default": "Accadia",
       "native": "Accadia",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 139796,
-      "name": "Manfredônia",
+      "name": "Manfredonia",
       "name_default": "Manfredonia",
       "native": "Manfredonia",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 60065,
-      "name": "São Marcos em Lamis",
+      "name": "San Marco in Lamis",
       "name_default": "San Marco in Lamis",
       "native": "San Marco in Lamis",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 60066,
-      "name": "São Marcos a Catola",
+      "name": "San Marco la Catola",
       "name_default": "San Marco la Catola",
       "native": "San Marco la Catola",
       "type": "adm3",
@@ -902,8 +902,26 @@
       "country_id": 107
     },
     {
+      "id": 60310,
+      "name": "San Nicandro Garganico",
+      "name_default": "San Nicandro Garganico",
+      "native": "San Nicandro Garganico",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 15815,
+      "latitude": "41.83844000",
+      "longitude": "15.56535000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": null,
+      "country_code": "IT",
+      "state_code": "FG",
+      "state_id": 1771,
+      "country_id": 107
+    },
+    {
       "id": 60161,
-      "name": "São Paulo de Civitate",
+      "name": "San Paolo di Civitate",
       "name_default": "San Paolo di Civitate",
       "native": "San Paolo di Civitate",
       "type": "adm3",
@@ -921,7 +939,7 @@
     },
     {
       "id": 60244,
-      "name": "São Severo",
+      "name": "San Severo",
       "name_default": "San Severo",
       "native": "San Severo",
       "type": "adm3",
@@ -932,24 +950,6 @@
       "longitude": "15.38148000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q19275",
-      "country_code": "IT",
-      "state_code": "FG",
-      "state_id": 1771,
-      "country_id": 107
-    },
-    {
-      "id": 60310,
-      "name": "Sannicandro Garganico",
-      "name_default": "Sannicandro Garganico",
-      "native": "Sannicandro Garganico",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 15815,
-      "latitude": "41.83844000",
-      "longitude": "15.56535000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
       "country_code": "IT",
       "state_code": "FG",
       "state_id": 1771,
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 61549,
-      "name": "Tróia",
+      "name": "Troia",
       "name_default": "Troia",
       "native": "Troia",
       "type": "adm3",

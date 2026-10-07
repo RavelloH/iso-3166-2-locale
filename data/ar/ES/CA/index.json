@@ -71,7 +71,7 @@
   "cities": [
     {
       "id": 32076,
-      "name": "Alcalá de los Gazules",
+      "name": "قلعة جزولة",
       "name_default": "Alcalá de los Gazules",
       "native": "Alcalá de los Gazules",
       "type": "city",
@@ -143,7 +143,7 @@
     },
     {
       "id": 32223,
-      "name": "ألجودوناليس",
+      "name": "الجودوناليس",
       "name_default": "Algodonales",
       "native": "Algodonales",
       "type": "city",
@@ -161,7 +161,7 @@
     },
     {
       "id": 32437,
-      "name": "أركوس دي لا فرونتيرا",
+      "name": "أركش الفرنتيرة",
       "name_default": "Arcos de la Frontera",
       "native": "Arcos de la Frontera",
       "type": "city",
@@ -179,7 +179,7 @@
     },
     {
       "id": 32646,
-      "name": "أهلب قاسي الشعيرات",
+      "name": "Barbate",
       "name_default": "Barbate",
       "native": "Barbate",
       "type": "city",
@@ -190,24 +190,6 @@
       "longitude": "-5.92186000",
       "timezone": "Europe/Madrid",
       "wikiDataId": "Q502975",
-      "country_code": "ES",
-      "state_code": "CA",
-      "state_id": 5096,
-      "country_id": 207
-    },
-    {
-      "id": 151361,
-      "name": "باريوس لوس",
-      "name_default": "Barrios Los",
-      "native": "Barrios Los",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 23513,
-      "latitude": "36.18506450",
-      "longitude": "-5.49255730",
-      "timezone": "Europe/Madrid",
-      "wikiDataId": "Q925913",
       "country_code": "ES",
       "state_code": "CA",
       "state_id": 5096,
@@ -233,7 +215,7 @@
     },
     {
       "id": 32773,
-      "name": "بيناوكاز",
+      "name": "بن وقاص",
       "name_default": "Benaocaz",
       "native": "Benaocaz",
       "type": "city",
@@ -323,7 +305,7 @@
     },
     {
       "id": 33641,
-      "name": "شيبيونا",
+      "name": "تشايبيونا",
       "name_default": "Chipiona",
       "native": "Chipiona",
       "type": "city",
@@ -359,7 +341,7 @@
     },
     {
       "id": 151362,
-      "name": "بوسكي إل",
+      "name": "إل بوسكي",
       "name_default": "El Bosque",
       "native": "El Bosque",
       "type": "city",
@@ -413,7 +395,7 @@
     },
     {
       "id": 34115,
-      "name": "إسبيرا",
+      "name": "إيسبيرا",
       "name_default": "Espera",
       "native": "Espera",
       "type": "city",
@@ -449,7 +431,7 @@
     },
     {
       "id": 34812,
-      "name": "خيريز دي لا فرونتيرا",
+      "name": "شريش",
       "name_default": "Jerez de la Frontera",
       "native": "Jerez de la Frontera",
       "type": "city",
@@ -467,7 +449,7 @@
     },
     {
       "id": 34817,
-      "name": "خيمينا دي لا فرونتيرا",
+      "name": "شمينة",
       "name_default": "Jimena de la Frontera",
       "native": "Jimena de la Frontera",
       "type": "city",
@@ -485,7 +467,7 @@
     },
     {
       "id": 151364,
-      "name": "La Línea de la Concepción",
+      "name": "لا يينا دي لا كونسيبسيون",
       "name_default": "La Línea de la Concepción",
       "native": "La Línea de la Concepción",
       "type": "city",
@@ -502,10 +484,28 @@
       "country_id": 207
     },
     {
+      "id": 151361,
+      "name": "لوس باريوس",
+      "name_default": "Los Barrios",
+      "native": "Los Barrios",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23513,
+      "latitude": "36.18506450",
+      "longitude": "-5.49255730",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": "Q925913",
+      "country_code": "ES",
+      "state_code": "CA",
+      "state_id": 5096,
+      "country_id": 207
+    },
+    {
       "id": 151365,
-      "name": "المدينة المنورة-سيدونيا",
-      "name_default": "Medina-Sidonia",
-      "native": "Medina-Sidonia",
+      "name": "شذونة",
+      "name_default": "Medina Sidonia",
+      "native": "Medina Sidonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -539,7 +539,7 @@
     },
     {
       "id": 36078,
-      "name": "باتيرنا دي ريفيرا",
+      "name": "باتيرانا دي ريفيرا",
       "name_default": "Paterna de Rivera",
       "native": "Paterna de Rivera",
       "type": "city",
@@ -593,7 +593,7 @@
     },
     {
       "id": 36450,
-      "name": "بويرتو سيرانو",
+      "name": "بورتو سيرانو",
       "name_default": "Puerto Serrano",
       "native": "Puerto Serrano",
       "type": "city",
@@ -611,9 +611,9 @@
     },
     {
       "id": 36680,
-      "name": "محكمة إستئناف اكليركية",
+      "name": "روطة",
       "name_default": "Rota",
-      "native": "Lista",
+      "native": "Rota",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -683,7 +683,7 @@
     },
     {
       "id": 36947,
-      "name": "سانلوكار دي باراميدا",
+      "name": "شلوقة",
       "name_default": "Sanlúcar de Barrameda",
       "native": "Sanlúcar de Barrameda",
       "type": "city",
@@ -701,7 +701,7 @@
     },
     {
       "id": 37236,
-      "name": "Setenil de las Bodegas",
+      "name": "سيتينيل دي لاس بودوغاس",
       "name_default": "Setenil de las Bodegas",
       "native": "Setenil de las Bodegas",
       "type": "city",
@@ -721,7 +721,7 @@
       "id": 37381,
       "name": "طريفة",
       "name_default": "Tarifa",
-      "native": "Tasa",
+      "native": "Tarifa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -737,7 +737,7 @@
     },
     {
       "id": 37487,
-      "name": "برج الحكمة",
+      "name": "بُرج الحكيم",
       "name_default": "Torre Alháquime",
       "native": "Torre Alháquime",
       "type": "city",
@@ -755,7 +755,7 @@
     },
     {
       "id": 37625,
-      "name": "تريبوجينا",
+      "name": "طربشانة",
       "name_default": "Trebujena",
       "native": "Trebujena",
       "type": "city",
@@ -773,7 +773,7 @@
     },
     {
       "id": 37670,
-      "name": "أوبريك",
+      "name": "أوبريق",
       "name_default": "Ubrique",
       "native": "Ubrique",
       "type": "city",
@@ -791,9 +791,9 @@
     },
     {
       "id": 37921,
-      "name": "Vejer de la Frontera",
+      "name": "بكة الفرنتيرة",
       "name_default": "Vejer de la Frontera",
-      "native": "Pesándose de la frontera",
+      "native": "Vejer de la Frontera",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -809,7 +809,7 @@
     },
     {
       "id": 38124,
-      "name": "فيلالوينجا ديل روساريو",
+      "name": "فيلالوينجا دي لا روزاريو",
       "name_default": "Villaluenga del Rosario",
       "native": "Villaluenga del Rosario",
       "type": "city",

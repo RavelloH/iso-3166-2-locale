@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79960,
-      "name": "Maire Díaz",
+      "name": "Alcalde Díaz",
       "name_default": "Alcalde Díaz",
       "native": "Alcalde Díaz",
       "type": "adm3",
@@ -257,7 +257,7 @@
       "id": 80061,
       "name": "Chimán",
       "name_default": "Chimán",
-      "native": "Pájaro",
+      "native": "Chimán",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 80090,
-      "name": "District de Balboa",
+      "name": "Distrito de Balboa",
       "name_default": "Distrito de Balboa",
       "native": "Distrito de Balboa",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80103,
-      "name": "District de Chepo",
+      "name": "Distrito de Chepo",
       "name_default": "Distrito de Chepo",
       "native": "Distrito de Chepo",
       "type": "area",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80144,
-      "name": "District de Taboga",
+      "name": "Distrito de Taboga",
       "name_default": "Distrito de Taboga",
       "native": "Ditrito de Tatboga",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80160,
-      "name": "Le Chorrillo",
+      "name": "El Chorrillo",
       "name_default": "El Chorrillo",
       "native": "El Chorrillo",
       "type": "section",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80196,
-      "name": "Le progrès",
+      "name": "El Progreso",
       "name_default": "El Progreso",
       "native": "El Progreso",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80237,
-      "name": "Juan Diaz",
+      "name": "Juan Díaz",
       "name_default": "Juan Díaz",
       "native": "Juan Díaz",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80256,
-      "name": "La Guinée",
+      "name": "La Guinea",
       "name_default": "La Guinea",
       "native": "La Guinea",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80337,
-      "name": "Les Lotes",
+      "name": "Los Lotes",
       "name_default": "Los Lotes",
       "native": "Los Lotes",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80372,
-      "name": "Nouvelle Espérance",
+      "name": "Nueva Esperanza",
       "name_default": "Nueva Esperanza",
       "native": "Nueva Esperanza",
       "type": "section",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80400,
-      "name": "Parc Lefevre",
+      "name": "Parque Lefevre",
       "name_default": "Parque Lefevre",
       "native": "Parque Lefevre",
       "type": "section",
@@ -795,7 +795,7 @@
     },
     {
       "id": 80494,
-      "name": "Saint-Vincent",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "section",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80533,
-      "name": "Union de Azuero",
+      "name": "Unión de Azuero",
       "name_default": "Unión de Azuero",
       "native": "Unión de Azuero",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 80532,
-      "name": "Union Santeña",
+      "name": "Unión Santeña",
       "name_default": "Unión Santeña",
       "native": "Unión Santeña",
       "type": "adm3",

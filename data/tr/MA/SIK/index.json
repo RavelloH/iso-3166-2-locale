@@ -63,8 +63,26 @@
   },
   "cities": [
     {
+      "id": 67161,
+      "name": "Mechraa Bel Ksiri",
+      "name_default": "Mechraa Bel Ksiri",
+      "native": "مشرع بلقصيري",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 34393,
+      "latitude": "34.57373000",
+      "longitude": "-5.95585000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2626632",
+      "country_code": "MA",
+      "state_code": "SIK",
+      "state_id": 3279,
+      "country_id": 149
+    },
+    {
       "id": 67211,
-      "name": "Sidi Qacem",
+      "name": "Sidi Lacem",
       "name_default": "Sidi Kacem",
       "native": "سيدي قاسم",
       "type": "city",

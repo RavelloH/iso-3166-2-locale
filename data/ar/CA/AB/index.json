@@ -246,7 +246,7 @@
   "cities": [
     {
       "id": 16151,
-      "name": "إيردري",
+      "name": "إيردراي",
       "name_default": "Airdrie",
       "native": "Airdrie",
       "type": "city",
@@ -372,7 +372,7 @@
     },
     {
       "id": 16219,
-      "name": "الماس الأسود",
+      "name": "Black Diamond",
       "name_default": "Black Diamond",
       "native": "Black Diamond",
       "type": "city",
@@ -410,7 +410,7 @@
       "id": 16226,
       "name": "بون أكورد",
       "name_default": "Bon Accord",
-      "native": "Good agreement",
+      "native": "Bon Accord",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -444,7 +444,7 @@
     },
     {
       "id": 16234,
-      "name": "جزيرة بو",
+      "name": "Bow Island",
       "name_default": "Bow Island",
       "native": "Bow Island",
       "type": "city",
@@ -480,7 +480,7 @@
     },
     {
       "id": 16259,
-      "name": "كالجاري",
+      "name": "كالغاري",
       "name_default": "Calgary",
       "native": "Calgary",
       "type": "city",
@@ -500,7 +500,7 @@
       "id": 16260,
       "name": "كالمار",
       "name_default": "Calmar",
-      "native": "Calm",
+      "native": "Calmar",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -534,7 +534,7 @@
     },
     {
       "id": 16267,
-      "name": "كانمور",
+      "name": "كنمور",
       "name_default": "Canmore",
       "native": "Canmore",
       "type": "city",
@@ -588,7 +588,7 @@
     },
     {
       "id": 16305,
-      "name": "تشيسترمير",
+      "name": "تشستمير",
       "name_default": "Chestermere",
       "native": "Chestermere",
       "type": "city",
@@ -678,7 +678,7 @@
     },
     {
       "id": 16323,
-      "name": "بحيرة كولد",
+      "name": "كولد لايك",
       "name_default": "Cold Lake",
       "native": "Cold Lake",
       "type": "city",
@@ -768,7 +768,7 @@
     },
     {
       "id": 16383,
-      "name": "وادي درايتون",
+      "name": "Drayton Valley",
       "name_default": "Drayton Valley",
       "native": "Drayton Valley",
       "type": "city",
@@ -912,7 +912,7 @@
     },
     {
       "id": 16433,
-      "name": "حصن ساسكاتشوان",
+      "name": "فورت ساسكاتشوان",
       "name_default": "Fort Saskatchewan",
       "native": "Fort Saskatchewan",
       "type": "city",
@@ -968,7 +968,7 @@
       "id": 16463,
       "name": "المركز الكبير",
       "name_default": "Grand Centre",
-      "native": "Large center",
+      "native": "Grand Centre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -986,7 +986,7 @@
       "id": 16466,
       "name": "جراند كاش",
       "name_default": "Grande Cache",
-      "native": "Large cover",
+      "native": "Grande Cache",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1002,7 +1002,7 @@
     },
     {
       "id": 16467,
-      "name": "غراندي برايري",
+      "name": "غراند براري",
       "name_default": "Grande Prairie",
       "native": "Grande Prairie",
       "type": "city",
@@ -1074,7 +1074,7 @@
     },
     {
       "id": 16503,
-      "name": "مستوى عالي",
+      "name": "High Level",
       "name_default": "High Level",
       "native": "High Level",
       "type": "city",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": 16505,
-      "name": "نهر هاي",
+      "name": "هاي ريفر",
       "name_default": "High River",
       "native": "High River",
       "type": "city",
@@ -1200,9 +1200,9 @@
     },
     {
       "id": 16575,
-      "name": "بحيرة لا بيتش",
+      "name": "قرية لاك لا بايتش",
       "name_default": "Lac La Biche",
-      "native": "Lake La Biche",
+      "native": "Lac La Biche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1256,7 +1256,7 @@
       "id": 16602,
       "name": "دلفيون",
       "name_default": "Larkspur",
-      "native": "Lark spruce",
+      "native": "Larkspur",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1382,7 +1382,7 @@
       "id": 16654,
       "name": "مانفيل",
       "name_default": "Mannville",
-      "native": "Manlim",
+      "native": "Mannville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1434,7 +1434,7 @@
     },
     {
       "id": 16675,
-      "name": "قبعة طبية",
+      "name": "مدسين هات",
       "name_default": "Medicine Hat",
       "native": "Medicine Hat",
       "type": "city",
@@ -1526,7 +1526,7 @@
       "id": 16774,
       "name": "أوكوتوكس",
       "name_default": "Okotoks",
-      "native": "Okotox",
+      "native": "Okotoks",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1634,7 +1634,7 @@
       "id": 16834,
       "name": "بونوكا",
       "name_default": "Ponoka",
-      "native": "The vision",
+      "native": "Ponoka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1686,7 +1686,7 @@
     },
     {
       "id": 16873,
-      "name": "الأيل الأحمر",
+      "name": "رد دير",
       "name_default": "Red Deer",
       "native": "Red Deer",
       "type": "city",
@@ -1704,7 +1704,7 @@
     },
     {
       "id": 16889,
-      "name": "حديقة ريدو",
+      "name": "Rideau Park",
       "name_default": "Rideau Park",
       "native": "Rideau Park",
       "type": "section",
@@ -1740,7 +1740,7 @@
     },
     {
       "id": 16901,
-      "name": "منزل روكي ماونتن",
+      "name": "روكي ماونتن هاوس",
       "name_default": "Rocky Mountain House",
       "native": "Rocky Mountain House",
       "type": "city",
@@ -1776,7 +1776,7 @@
     },
     {
       "id": 17040,
-      "name": "حديقة شيروود",
+      "name": "Sherwood Park",
       "name_default": "Sherwood Park",
       "native": "Sherwood Park",
       "type": "city",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": 17049,
-      "name": "بحيرة العبيد",
+      "name": "Slave Lake",
       "name_default": "Slave Lake",
       "native": "Slave Lake",
       "type": "city",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 17052,
-      "name": "بحيرة سموكي",
+      "name": "Smoky Lake",
       "name_default": "Smoky Lake",
       "native": "Smoky Lake",
       "type": "city",
@@ -1848,7 +1848,7 @@
     },
     {
       "id": 17061,
-      "name": "نهر الروح",
+      "name": "Spirit River",
       "name_default": "Spirit River",
       "native": "Spirit River",
       "type": "city",
@@ -1884,7 +1884,7 @@
     },
     {
       "id": 17065,
-      "name": "غابة التنوب",
+      "name": "سبروس غرووف",
       "name_default": "Spruce Grove",
       "native": "Spruce Grove",
       "type": "city",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": 17092,
-      "name": "تلال سوان",
+      "name": "Swan Hills",
       "name_default": "Swan Hills",
       "native": "Swan Hills",
       "type": "city",
@@ -2010,7 +2010,7 @@
     },
     {
       "id": 17097,
-      "name": "بحيرة سيلفان",
+      "name": "Sylvan Lake",
       "name_default": "Sylvan Lake",
       "native": "Sylvan Lake",
       "type": "city",
@@ -2064,7 +2064,7 @@
     },
     {
       "id": 17110,
-      "name": "ثلاث تلال",
+      "name": "Three Hills",
       "name_default": "Three Hills",
       "native": "Three Hills",
       "type": "city",
@@ -2208,7 +2208,7 @@
     },
     {
       "id": 17166,
-      "name": "واينرايت",
+      "name": "وينرايت",
       "name_default": "Wainwright",
       "native": "Wainwright",
       "type": "city",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": 17197,
-      "name": "ويتاسكيوين",
+      "name": "وتاسكوين",
       "name_default": "Wetaskiwin",
       "native": "Wetaskiwin",
       "type": "city",

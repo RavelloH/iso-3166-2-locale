@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 77318,
-      "name": "Адуард",
+      "name": "Адюард",
       "name_default": "Aduard",
-      "native": "Klim",
+      "native": "Aduard",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 77398,
-      "name": "Беллінгволд",
+      "name": "Беллінгволде",
       "name_default": "Bellingwolde",
       "native": "Bellingwolde",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 77629,
-      "name": "Енрум",
+      "name": "Енрюм",
       "name_default": "Eenrum",
       "native": "Eenrum",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 77672,
-      "name": "Фармсум",
+      "name": "Фармсюм",
       "name_default": "Farmsum",
       "native": "Farmsum",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 77800,
-      "name": "Гементе Гронінген",
+      "name": "Гронінген",
       "name_default": "Gemeente Groningen",
       "native": "Gemeente Groningen",
       "type": "adm1",
@@ -399,7 +399,7 @@
     },
     {
       "id": 77968,
-      "name": "Гемеенте Веендам",
+      "name": "Вендам",
       "name_default": "Gemeente Veendam",
       "native": "Gemeente Veendam",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 78056,
-      "name": "Грійпскерк",
+      "name": "Грейпскерк",
       "name_default": "Grijpskerk",
       "native": "Grijpskerk",
       "type": "city",
@@ -491,7 +491,7 @@
       "id": 78093,
       "name": "Харен",
       "name_default": "Haren",
-      "native": "Harem",
+      "native": "Haren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -507,7 +507,7 @@
     },
     {
       "id": 78096,
-      "name": "Харкстеде",
+      "name": "Гаркстеде",
       "name_default": "Harkstede",
       "native": "Harkstede",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 78129,
-      "name": "Гайлігерлі",
+      "name": "Хайлігерлі",
       "name_default": "Heiligerlee",
       "native": "Heiligerlee",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 78182,
-      "name": "Хогезанд",
+      "name": "Гогезанд",
       "name_default": "Hoogezand",
       "native": "Hoogezand",
       "type": "city",
@@ -581,7 +581,7 @@
       "id": 78250,
       "name": "Корревегвейк",
       "name_default": "Korrewegwijk",
-      "native": "Ze zijn beschadigd",
+      "native": "Korrewegwijk",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -599,7 +599,7 @@
       "id": 78276,
       "name": "Цибуля-порей",
       "name_default": "Leek",
-      "native": "Prei",
+      "native": "Leek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -615,7 +615,7 @@
     },
     {
       "id": 78278,
-      "name": "Лінс",
+      "name": "Ленс",
       "name_default": "Leens",
       "native": "Leens",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 78366,
-      "name": "Міден",
+      "name": "Меден",
       "name_default": "Meeden",
       "native": "Meeden",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 78392,
-      "name": "Міддельстум",
+      "name": "Мідделстюм",
       "name_default": "Middelstum",
       "native": "Middelstum",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 78439,
-      "name": "Ньюве Пекела",
+      "name": "Ніве-Пекела",
       "name_default": "Nieuwe Pekela",
       "native": "Nieuwe Pekela",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 78447,
-      "name": "Ньївольда",
+      "name": "Нойволда",
       "name_default": "Nieuwolda",
       "native": "Nieuwolda",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 78469,
-      "name": "Нордхорн",
+      "name": "Нордгорн",
       "name_default": "Noordhorn",
       "native": "Noordhorn",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 78495,
-      "name": "Олдхове",
+      "name": "Олдегове",
       "name_default": "Oldehove",
       "native": "Oldehove",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 78503,
-      "name": "Онсведде",
+      "name": "Онстведде",
       "name_default": "Onstwedde",
       "native": "Onstwedde",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 78558,
-      "name": "Ауде Пекела",
+      "name": "Ауде-Пекела",
       "name_default": "Oude Pekela",
       "native": "Oude Pekela",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 78685,
-      "name": "Зеллінген",
+      "name": "Селлінген",
       "name_default": "Sellingen",
       "native": "Sellingen",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 78732,
-      "name": "Спайк",
+      "name": "Спейк",
       "name_default": "Spijk",
       "native": "Spijk",
       "type": "city",
@@ -1155,9 +1155,9 @@
     },
     {
       "id": 78769,
-      "name": "Тер Апель",
+      "name": "Тер-Апел",
       "name_default": "Ter Apel",
-      "native": "Appel",
+      "native": "Ter Apel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 78813,
-      "name": "Ейтхейзен",
+      "name": "Ейтгейзен",
       "name_default": "Uithuizen",
       "native": "Uithuizen",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 78814,
-      "name": "Юйтхуйзермеден",
+      "name": "Ейтейзермеден",
       "name_default": "Uithuizermeeden",
       "native": "Uithuizermeeden",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 78816,
-      "name": "Ульрум",
+      "name": "Улрюм",
       "name_default": "Ulrum",
       "native": "Ulrum",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 78821,
-      "name": "Аскерт",
+      "name": "Ускверт",
       "name_default": "Usquert",
       "native": "Usquert",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 78836,
-      "name": "Веендам",
+      "name": "Вендам",
       "name_default": "Veendam",
       "native": "Veendam",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 78904,
-      "name": "Варффум",
+      "name": "Варффюм",
       "name_default": "Warffum",
       "native": "Warffum",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 78958,
-      "name": "Вайлдерванк",
+      "name": "Вілдерванк",
       "name_default": "Wildervank",
       "native": "Wildervank",
       "type": "city",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 78963,
-      "name": "Вінсхотен",
+      "name": "Віншотен",
       "name_default": "Winschoten",
       "native": "Winschoten",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 78964,
-      "name": "Вінсум",
+      "name": "Вінсюм",
       "name_default": "Winsum",
       "native": "Winsum",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 79025,
-      "name": "Зюйдбрук",
+      "name": "Зейдбрук",
       "name_default": "Zuidbroek",
       "native": "Zuidbroek",
       "type": "city",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 79027,
-      "name": "Зюйдхорн",
+      "name": "Зейдхорн",
       "name_default": "Zuidhorn",
       "native": "Zuidhorn",
       "type": "city",

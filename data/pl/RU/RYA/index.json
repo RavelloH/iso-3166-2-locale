@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 97564,
-      "name": "Aleksandro-Newski",
+      "name": "Aleksandro-Nevskiy",
       "name_default": "Aleksandro-Nevskiy",
       "native": "Александро-Невский",
       "type": "adm2",
@@ -268,7 +268,7 @@
     },
     {
       "id": 98213,
-      "name": "Czuczkowo",
+      "name": "Chuchkovo",
       "name_default": "Chuchkovo",
       "native": "Чучково",
       "type": "adm2",
@@ -304,7 +304,7 @@
     },
     {
       "id": 98747,
-      "name": "Iżewskoje",
+      "name": "Izhevskoye",
       "name_default": "Izhevskoye",
       "native": "Ижевское",
       "type": "city",
@@ -448,7 +448,7 @@
     },
     {
       "id": 99594,
-      "name": "Lesnoj",
+      "name": "Lesnoy",
       "name_default": "Lesnoy",
       "native": "Лесной",
       "type": "city",
@@ -520,7 +520,7 @@
     },
     {
       "id": 100266,
-      "name": "Nowomiczuryńsk",
+      "name": "Nowomiczurińsk",
       "name_default": "Novomichurinsk",
       "native": "Новомичуринск",
       "type": "city",
@@ -538,7 +538,7 @@
     },
     {
       "id": 100409,
-      "name": "Oktyabrskij",
+      "name": "Oktyabr’skiy",
       "name_default": "Oktyabr’skiy",
       "native": "Октябрьский",
       "type": "city",
@@ -556,7 +556,7 @@
     },
     {
       "id": 100563,
-      "name": "Pavelets",
+      "name": "Pawielec",
       "name_default": "Pavelets",
       "native": "Павелец",
       "type": "city",
@@ -574,7 +574,7 @@
     },
     {
       "id": 100686,
-      "name": "Pitelino",
+      "name": "Pitielino",
       "name_default": "Pitelino",
       "native": "Пителино",
       "type": "adm2",
@@ -628,7 +628,7 @@
     },
     {
       "id": 100906,
-      "name": "Putyatino",
+      "name": "Putiatino",
       "name_default": "Putyatino",
       "native": "Путятино",
       "type": "adm2",
@@ -646,7 +646,7 @@
     },
     {
       "id": 101045,
-      "name": "Riazań",
+      "name": "Ryazan’",
       "name_default": "Ryazan’",
       "native": "Рязань",
       "type": "adm1",
@@ -700,7 +700,7 @@
     },
     {
       "id": 101052,
-      "name": "Rejon Rybnowski",
+      "name": "Rybnovskiy Rayon",
       "name_default": "Rybnovskiy Rayon",
       "native": "Рыбновский район",
       "type": "city",
@@ -754,7 +754,7 @@
     },
     {
       "id": 101105,
-      "name": "Saraj",
+      "name": "Sarai",
       "name_default": "Sarai",
       "native": "Сарай",
       "type": "city",
@@ -808,7 +808,7 @@
     },
     {
       "id": 101315,
-      "name": "Szyłowo",
+      "name": "Szylowo",
       "name_default": "Shilovo",
       "native": "Шилово",
       "type": "adm2",
@@ -844,7 +844,7 @@
     },
     {
       "id": 101466,
-      "name": "Soloća",
+      "name": "Solotcha",
       "name_default": "Solotcha",
       "native": "Солотча",
       "type": "city",
@@ -862,7 +862,7 @@
     },
     {
       "id": 101524,
-      "name": "Uzdrowiska-Klepiki",
+      "name": "Spas-Klepiki",
       "name_default": "Spas-Klepiki",
       "native": "Спас-Клепики",
       "type": "adm2",
@@ -880,7 +880,7 @@
     },
     {
       "id": 101529,
-      "name": "Spassk-Riazanski",
+      "name": "Spassk-Ryazanskiy",
       "name_default": "Spassk-Ryazanskiy",
       "native": "Спасск-Рязанский",
       "type": "adm2",
@@ -898,7 +898,7 @@
     },
     {
       "id": 101603,
-      "name": "Starożiłowo",
+      "name": "Starożyłowo",
       "name_default": "Starozhilovo",
       "native": "Старожилово",
       "type": "adm2",
@@ -952,7 +952,7 @@
     },
     {
       "id": 102042,
-      "name": "Uchołowskie",
+      "name": "Uchołowo",
       "name_default": "Ukholovo",
       "native": "Ухолово",
       "type": "adm2",
@@ -970,7 +970,7 @@
     },
     {
       "id": 102305,
-      "name": "Wileńka",
+      "name": "Vilenka",
       "name_default": "Vilenka",
       "native": "Виленка",
       "type": "city",
@@ -1024,7 +1024,7 @@
     },
     {
       "id": 102566,
-      "name": "Jermisz",
+      "name": "Yermish’",
       "name_default": "Yermish’",
       "native": "Ермиш",
       "type": "adm2",
@@ -1042,7 +1042,7 @@
     },
     {
       "id": 102635,
-      "name": "Zacharowo",
+      "name": "Zakharovo",
       "name_default": "Zakharovo",
       "native": "Захарово",
       "type": "adm2",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": 102653,
-      "name": "Zarecznyj",
+      "name": "Zarechnyy",
       "name_default": "Zarechnyy",
       "native": "Заречный",
       "type": "city",

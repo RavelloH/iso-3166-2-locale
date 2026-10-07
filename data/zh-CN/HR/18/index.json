@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54384,
-      "name": "包",
+      "name": "贝尔",
       "name_default": "Bale",
       "native": "Bala",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 54585,
-      "name": "格罗日尼扬",
+      "name": "格罗日年",
       "name_default": "Grožnjan",
       "native": "Grožnjan",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 54763,
-      "name": "诺维格勒-奇塔诺瓦",
+      "name": "诺维格勒",
       "name_default": "Novigrad",
       "native": "Novigrad-Cittanova",
       "type": "adm2",
@@ -707,7 +707,7 @@
       "id": 54844,
       "name": "普拉",
       "name_default": "Pula",
-      "native": "U svakom slučaju",
+      "native": "Pula",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 54850,
-      "name": "拉巴克",
+      "name": "拉巴茨",
       "name_default": "Rabac",
       "native": "Rabac",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 54855,
-      "name": "拉莎",
+      "name": "拉沙",
       "name_default": "Raša",
       "native": "Raša",
       "type": "adm2",
@@ -823,7 +823,7 @@
       "latitude": "45.14932000",
       "longitude": "14.09889000",
       "timezone": "Europe/Zagreb",
-      "wikiDataId": "Q925754",
+      "wikiDataId": null,
       "country_code": "HR",
       "state_code": "18",
       "state_id": 743,
@@ -833,7 +833,7 @@
       "id": 54931,
       "name": "圣洛夫雷奇",
       "name_default": "Sveti Lovreč",
-      "native": "Svet",
+      "native": "Sveti Lovreč",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,9 +849,9 @@
     },
     {
       "id": 54933,
-      "name": "焦油",
+      "name": "Tar",
       "name_default": "Tar",
-      "native": "Katran",
+      "native": "Tar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -939,7 +939,7 @@
     },
     {
       "id": 54967,
-      "name": "维内兹",
+      "name": "维内日",
       "name_default": "Vinež",
       "native": "Vinov",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 54982,
-      "name": "沃德尼扬",
+      "name": "沃德年",
       "name_default": "Vodnjan",
       "native": "Vodnjan",
       "type": "adm2",

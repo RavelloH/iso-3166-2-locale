@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 105081,
-      "name": "Irbin",
+      "name": "‘Irbīn",
       "name_default": "‘Irbīn",
       "native": "عربين",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 104965,
-      "name": "Dzielnica Al-Zabadani",
+      "name": "Al-Zabadani",
       "name_default": "Al-Zabadani",
       "native": "منطقة الزبداني",
       "type": "district",
@@ -147,9 +147,9 @@
     },
     {
       "id": 104980,
-      "name": "W wysokim",
+      "name": "At Tall",
       "name_default": "At Tall",
-      "native": "في التل",
+      "native": "At Tall",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 104995,
-      "name": "Darajja",
+      "name": "Daraja",
       "name_default": "Dārayyā",
       "native": "داريا",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 105077,
-      "name": "Ḩarasta",
+      "name": "Harasta",
       "name_default": "Ḩarastā",
       "native": "حرستا",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105009,
-      "name": "Jaramānā",
+      "name": "Dżaramana",
       "name_default": "Jaramānā",
       "native": "جرمانا",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105011,
-      "name": "Jayrūd",
+      "name": "Dżajrud",
       "name_default": "Jayrūd",
       "native": "جيرود",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105040,
-      "name": "Qaţanā",
+      "name": "Katana",
       "name_default": "Qaţanā",
       "native": "قطنا",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 105070,
-      "name": "Şaydnāyā",
+      "name": "Sajdnaja",
       "name_default": "Şaydnāyā",
       "native": "سايدنايا",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 105065,
-      "name": "Jabrūd",
+      "name": "Jabrud",
       "name_default": "Yabrūd",
       "native": "يبرود",
       "type": "adm2",

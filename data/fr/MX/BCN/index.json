@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68194,
-      "name": "Alfonso Garzón [Grandes Familiares]",
+      "name": "Alfonso Garzón [Granjas Familiares]",
       "name_default": "Alfonso Garzón [Granjas Familiares]",
       "native": "Alfonso Garzón [Granjas Familiares]",
       "type": "city",
@@ -206,7 +206,7 @@
     },
     {
       "id": 68757,
-      "name": "Camalu",
+      "name": "Camalú",
       "name_default": "Camalú",
       "native": "Camalú",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Gare de Coahuila",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 70599,
-      "name": "Guadalupe Victoria",
+      "name": "Ciudad Guadalupe Victoria",
       "name_default": "Ciudad Guadalupe Victoria",
       "native": "Guadalupe Victoria",
       "type": "city",
@@ -386,7 +386,7 @@
     },
     {
       "id": 69376,
-      "name": "Colonie Venustiano Carranza",
+      "name": "Colonia Venustiano Carranza",
       "name_default": "Colonia Venustiano Carranza",
       "native": "Colonia Venustiano Carranza",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Docteur Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Ejido Docteur Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69765,
-      "name": "Ejido Général Leandro Valle",
+      "name": "Ejido General Leandro Valle",
       "name_default": "Ejido General Leandro Valle",
       "native": "Ejido General Leandro Valle",
       "type": "city",
@@ -800,7 +800,7 @@
     },
     {
       "id": 70116,
-      "name": "Le Porvenir",
+      "name": "El Porvenir",
       "name_default": "El Porvenir",
       "native": "El Porvenir",
       "type": "city",
@@ -818,7 +818,7 @@
     },
     {
       "id": 70178,
-      "name": "Le Rosaire d'Arriba",
+      "name": "El Rosario de Arriba",
       "name_default": "El Rosario de Arriba",
       "native": "El Rosario de Arriba",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 70449,
-      "name": "Fractionnement de la vallée",
+      "name": "Fraccionamiento del Valle",
       "name_default": "Fraccionamiento del Valle",
       "native": "Fraccionamiento del Valle",
       "type": "city",
@@ -937,24 +937,6 @@
       "longitude": "-116.56863000",
       "timezone": "America/Tijuana",
       "wikiDataId": "Q49961176",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
-      "id": 70633,
-      "name": "Guerrero Negro",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCN",
       "state_id": 3457,
@@ -998,7 +980,7 @@
     },
     {
       "id": 70888,
-      "name": "Îles Agrarias Groupe A",
+      "name": "Islas Agrarias Grupo A",
       "name_default": "Islas Agrarias Grupo A",
       "native": "Islas Agrarias Grupo A",
       "type": "city",
@@ -1016,7 +998,7 @@
     },
     {
       "id": 70889,
-      "name": "Îles Agrarias Groupe B",
+      "name": "Islas Agrarias Grupo B",
       "name_default": "Islas Agrarias Grupo B",
       "native": "Islas Agrarias Grupo B",
       "type": "city",
@@ -1034,7 +1016,7 @@
     },
     {
       "id": 71277,
-      "name": "La Espérance [Granjas Familiares]",
+      "name": "La Esperanza [Granjas Familiares]",
       "name_default": "La Esperanza [Granjas Familiares]",
       "native": "La Esperanza [Granjas Familiares]",
       "type": "city",
@@ -1052,7 +1034,7 @@
     },
     {
       "id": 71463,
-      "name": "La Providence",
+      "name": "La Providencia",
       "name_default": "La Providencia",
       "native": "La Providencia",
       "type": "city",
@@ -1072,7 +1054,7 @@
       "id": 73165,
       "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1106,7 +1088,7 @@
     },
     {
       "id": 71597,
-      "name": "Les Délices",
+      "name": "Las Delicias",
       "name_default": "Las Delicias",
       "native": "Las Delicias",
       "type": "city",
@@ -1142,7 +1124,7 @@
     },
     {
       "id": 71676,
-      "name": "Licencié Gustavo Díaz Ordaz",
+      "name": "Licenciado Gustavo Díaz Ordaz",
       "name_default": "Licenciado Gustavo Díaz Ordaz",
       "native": "Licenciado Gustavo Díaz Ordaz",
       "type": "city",
@@ -1196,7 +1178,7 @@
     },
     {
       "id": 71766,
-      "name": "Les Algodones",
+      "name": "Los Algodones",
       "name_default": "Los Algodones",
       "native": "Los Algodones",
       "type": "city",
@@ -1250,7 +1232,7 @@
     },
     {
       "id": 71908,
-      "name": "Maclovio Herrera (Colonia Aviation)",
+      "name": "Maclovio Herrera (Colonia Aviación)",
       "name_default": "Maclovio Herrera (Colonia Aviación)",
       "native": "Maclovio Herrera (Colonia Aviación)",
       "type": "city",
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1322,7 +1304,7 @@
     },
     {
       "id": 72815,
-      "name": "Plages de Rosarito",
+      "name": "Playas de Rosarito",
       "name_default": "Playas de Rosarito",
       "native": "Playas de Rosarito",
       "type": "municipality",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "Portiques de San Antonio",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1394,7 +1376,7 @@
     },
     {
       "id": 72904,
-      "name": "Premier Tapia",
+      "name": "Primo Tapia",
       "name_default": "Primo Tapia",
       "native": "Primo Tapia",
       "type": "city",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "Progrès",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1628,7 +1610,7 @@
     },
     {
       "id": 74492,
-      "name": "Saint-Vincent",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Técolots",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",
@@ -1736,7 +1718,7 @@
     },
     {
       "id": 75469,
-      "name": "Terrasses de la Vallée",
+      "name": "Terrazas del Valle",
       "name_default": "Terrazas del Valle",
       "native": "Terrazas del Valle",
       "type": "city",

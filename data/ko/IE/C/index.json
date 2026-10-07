@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57082,
-      "name": "아센리",
+      "name": "아덴라이",
       "name_default": "Athenry",
       "native": "Athenry",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 57093,
-      "name": "발리나",
+      "name": "밸리나",
       "name_default": "Ballina",
       "native": "Ballina",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 57095,
-      "name": "밸리나슬로",
+      "name": "발리나슬로",
       "name_default": "Ballinasloe",
       "native": "Ballinasloe",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 57121,
       "name": "베르나",
       "name_default": "Bearna",
-      "native": "Gap",
+      "native": "Bearna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 57198,
-      "name": "리트림 카운티",
+      "name": "리트림주",
       "name_default": "County Leitrim",
       "native": "County Leitrim",
       "type": "city",
@@ -453,9 +453,9 @@
     },
     {
       "id": 57256,
-      "name": "골웨이 시",
+      "name": "골웨이",
       "name_default": "Galway",
-      "native": "Galway City",
+      "native": "Galway",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 57255,
-      "name": "가일림",
+      "name": "골웨이",
       "name_default": "Galway",
       "native": "Galway",
       "type": "city",
@@ -597,9 +597,9 @@
     },
     {
       "id": 57321,
-      "name": "메이요 카운티",
+      "name": "메이요주",
       "name_default": "Mayo",
-      "native": "Mayo County",
+      "native": "Mayo",
       "type": "county",
       "level": null,
       "parent_id": null,
@@ -671,7 +671,7 @@
       "id": 57366,
       "name": "포트럼나",
       "name_default": "Portumna",
-      "native": "Porta",
+      "native": "Portumna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,7 +687,7 @@
     },
     {
       "id": 57385,
-      "name": "로스커먼",
+      "name": "로스커먼주",
       "name_default": "Roscommon",
       "native": "Roscommon",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 57400,
-      "name": "슬라이고",
+      "name": "슬라이고주",
       "name_default": "Sligo",
       "native": "Sligo",
       "type": "city",
@@ -777,9 +777,9 @@
     },
     {
       "id": 57421,
-      "name": "투암",
+      "name": "퇌",
       "name_default": "Tuam",
-      "native": "Tool",
+      "native": "Tuam",
       "type": "city",
       "level": null,
       "parent_id": null,

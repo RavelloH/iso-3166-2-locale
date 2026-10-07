@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48284,
-      "name": "fular",
+      "name": "Ascot",
       "name_default": "Ascot",
       "native": "Ascot",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 50001,
-      "name": "Hortón",
+      "name": "Horton",
       "name_default": "Horton",
       "native": "Horton",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50473,
-      "name": "Virginidad",
+      "name": "Maidenhead",
       "name_default": "Maidenhead",
       "native": "Maidenhead",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50805,
-      "name": "Viejo Windsor",
+      "name": "Old Windsor",
       "name_default": "Old Windsor",
       "native": "Old Windsor",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 51129,
-      "name": "Distrito real de Windsor y Maidenhead",
+      "name": "Windsor y Maidenhead",
       "name_default": "Royal Borough of Windsor and Maidenhead",
       "native": "Royal Borough of Windsor and Maidenhead",
       "type": "area",
@@ -219,7 +219,7 @@
     },
     {
       "id": 51870,
-      "name": "Waltham blanco",
+      "name": "White Waltham",
       "name_default": "White Waltham",
       "native": "White Waltham",
       "type": "adm3",
@@ -230,6 +230,24 @@
       "longitude": "-0.77239000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2011783",
+      "country_code": "GB",
+      "state_code": "WNM",
+      "state_id": 2482,
+      "country_id": 232
+    },
+    {
+      "id": 51925,
+      "name": "Windsor",
+      "name_default": "Windsor",
+      "native": "Windsor",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26885,
+      "latitude": "51.48333000",
+      "longitude": "-0.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q464955",
       "country_code": "GB",
       "state_code": "WNM",
       "state_id": 2482,

@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 66662,
+      "name": "رادفيليسكيس",
+      "name_default": "Radviliskis",
+      "native": "Radviliskis",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15112,
+      "latitude": "55.81667000",
+      "longitude": "23.53333000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q318686",
+      "country_code": "LT",
+      "state_code": "37",
+      "state_id": 1568,
+      "country_id": 126
+    },
+    {
       "id": 66710,
       "name": "شيدوفا",
       "name_default": "Šeduva",

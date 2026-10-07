@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 48583,
-      "name": "Bodmin",
+      "name": "Bosvena",
       "name_default": "Bodmin",
-      "native": "Bodin",
+      "native": "Bodmin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,9 +75,9 @@
     },
     {
       "id": 48752,
-      "name": "Bude",
+      "name": "Porth Bud",
       "name_default": "Bude",
-      "native": "Will",
+      "native": "Bude",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 48826,
-      "name": "Callington",
+      "name": "Kelliwik",
       "name_default": "Callington",
       "native": "Callington",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48832,
-      "name": "Camborne",
+      "name": "Kammbronn",
       "name_default": "Camborne",
       "native": "Camborne",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48839,
-      "name": "Camelford",
+      "name": "Reskammel",
       "name_default": "Camelford",
       "native": "Camelford",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49107,
-      "name": "Kernev-Veur",
+      "name": "Cornwall",
       "name_default": "Cornwall",
       "native": "Cornwall",
       "type": "area",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49297,
-      "name": "Doublegoù",
+      "name": "Dobwalls",
       "name_default": "Dobwalls",
       "native": "Dobwalls",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49525,
-      "name": "Falmouth",
+      "name": "Aberfal",
       "name_default": "Falmouth",
       "native": "Falmouth",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49597,
-      "name": "Pevar hent",
+      "name": "Four Lanes",
       "name_default": "Four Lanes",
       "native": "Four Lanes",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 49599,
-      "name": "Fowey",
+      "name": "Fowydh",
       "name_default": "Fowey",
       "native": "Fowey",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 49863,
-      "name": "Hayle",
+      "name": "Heyl",
       "name_default": "Hayle",
-      "native": "Hay",
+      "native": "Hayle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 49894,
-      "name": "Helston",
+      "name": "Hellys",
       "name_default": "Helston",
       "native": "Helston",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 50256,
-      "name": "Launceston",
+      "name": "Lannstefan",
       "name_default": "Launceston",
       "native": "Launceston",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 50319,
-      "name": "Liskeard",
+      "name": "Lyskerrys",
       "name_default": "Liskeard",
       "native": "Liskeard",
       "type": "city",
@@ -435,9 +435,9 @@
     },
     {
       "id": 50415,
-      "name": "Looe",
+      "name": "Logh",
       "name_default": "Looe",
-      "native": "Betyroing",
+      "native": "Looe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 50417,
-      "name": "Lostwithiel",
+      "name": "Lostwydhyel",
       "name_default": "Lostwithiel",
       "native": "Lostwithiel",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 50490,
-      "name": "Marazion",
+      "name": "Marghasyow",
       "name_default": "Marazion",
       "native": "Marazion",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 50562,
-      "name": "Mevagissey",
+      "name": "Lannvorek",
       "name_default": "Mevagissey",
       "native": "Mevagissey",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 50641,
-      "name": "Menez Hawke",
+      "name": "Mount Hawke",
       "name_default": "Mount Hawke",
       "native": "Mount Hawke",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 50656,
-      "name": "Pont Mylor",
+      "name": "Mylor Bridge",
       "name_default": "Mylor Bridge",
       "native": "Mylor Bridge",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 50724,
-      "name": "Newquay",
+      "name": "Tewynblustri",
       "name_default": "Newquay",
       "native": "Newquay",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 50845,
-      "name": "Padstow",
+      "name": "Lannwedhenek",
       "name_default": "Padstow",
       "native": "Padstow",
       "type": "adm3",
@@ -633,9 +633,9 @@
     },
     {
       "id": 50888,
-      "name": "Penryn",
+      "name": "Pennrynn",
       "name_default": "Penryn",
-      "native": "Pie",
+      "native": "Penryn",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 50894,
-      "name": "Penzance",
+      "name": "Pennsans",
       "name_default": "Penzance",
       "native": "Penzance",
       "type": "adm3",
@@ -725,7 +725,7 @@
       "id": 50934,
       "name": "Polperro",
       "name_default": "Polperro",
-      "native": "Pipero",
+      "native": "Polperro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -761,7 +761,7 @@
       "id": 50961,
       "name": "Porthleven",
       "name_default": "Porthleven",
-      "native": "Portleven",
+      "native": "Porthleven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -797,7 +797,7 @@
       "id": 50995,
       "name": "Probus",
       "name_default": "Probus",
-      "native": "Bully",
+      "native": "Probus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 51055,
-      "name": "Redruth",
+      "name": "Resrudh",
       "name_default": "Redruth",
       "native": "Redruth",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 51097,
-      "name": "Roc'h",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 51162,
-      "name": "Santez Agnez",
+      "name": "Saint Agnes",
       "name_default": "Saint Agnes",
       "native": "Saint Agnes",
       "type": "city",
@@ -885,9 +885,9 @@
     },
     {
       "id": 51168,
-      "name": "Sant Koulm Meur",
+      "name": "Plew Golom",
       "name_default": "Saint Columb Major",
-      "native": "Saint Columbus Major",
+      "native": "Saint Columb Major",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 51171,
-      "name": "Sant Denez",
+      "name": "Saint Dennis",
       "name_default": "Saint Dennis",
       "native": "Saint Dennis",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 51177,
-      "name": "Sant Stefan",
+      "name": "Saint Stephen",
       "name_default": "Saint Stephen",
       "native": "Saint Stephen",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 51186,
-      "name": "Saltash",
+      "name": "Essa",
       "name_default": "Saltash",
       "native": "Saltash",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 51396,
-      "name": "Sant-Aostell",
+      "name": "Austol",
       "name_default": "St Austell",
       "native": "St Austell",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 51398,
-      "name": "St Ives",
+      "name": "Porth Ia",
       "name_default": "St Ives",
       "native": "St Ives",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 51399,
-      "name": "Sant Just",
+      "name": "St Just",
       "name_default": "St Just",
       "native": "St Just",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 51403,
-      "name": "Deiz Sant",
+      "name": "St. Day",
       "name_default": "St. Day",
       "native": "St. Day",
       "type": "adm3",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 51453,
-      "name": "Stitianed",
+      "name": "Stedhyan",
       "name_default": "Stithians",
       "native": "Stithians",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 51628,
-      "name": "Tintagel",
+      "name": "Trevena",
       "name_default": "Tintagel",
       "native": "Tintagel",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 51675,
-      "name": "Truro",
+      "name": "Truru",
       "name_default": "Truro",
       "native": "Truro",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 51722,
-      "name": "Wadebridge",
+      "name": "Ponswad",
       "name_default": "Wadebridge",
       "native": "Wadebridge",
       "type": "city",

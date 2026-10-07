@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62289,
-      "name": "12e straat",
+      "name": "12th Street",
       "name_default": "12th Street",
       "native": "12th Street",
       "type": "adm1",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62310,
-      "name": "Vriendschap",
+      "name": "Amity",
       "name_default": "Amity",
       "native": "Amity",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62340,
-      "name": "Bad",
+      "name": "Bath",
       "name_default": "Bath",
       "native": "Bath",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 62341,
-      "name": "Badberg",
+      "name": "Bath Mountain",
       "name_default": "Bath Mountain",
       "native": "Bath Mountain",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 62359,
-      "name": "Grote Brug",
+      "name": "Big Bridge",
       "name_default": "Big Bridge",
       "native": "Big Bridge",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62367,
-      "name": "Blauwe velden",
+      "name": "Bluefields",
       "name_default": "Bluefields",
       "native": "Bluefields",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62368,
-      "name": "Moeras",
+      "name": "Bog",
       "name_default": "Bog",
       "native": "Bog",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62404,
-      "name": "Verbrande Savannah",
+      "name": "Burnt Savannah",
       "name_default": "Burnt Savannah",
       "native": "Burnt Savannah",
       "type": "city",
@@ -347,7 +347,7 @@
       "id": 62411,
       "name": "Cairn Curran",
       "name_default": "Cairn Curran",
-      "native": "Cairns Coe",
+      "native": "Cairn Curran",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 62413,
-      "name": "Caledonië",
+      "name": "Caledonia",
       "name_default": "Caledonia",
       "native": "Caledonia",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62420,
-      "name": "Karmel",
+      "name": "Carmel",
       "name_default": "Carmel",
       "native": "Carmel",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 62434,
-      "name": "Grot",
+      "name": "Cave",
       "name_default": "Cave",
       "native": "Cave",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 62475,
-      "name": "Inhoud",
+      "name": "Content",
       "name_default": "Content",
       "native": "Content",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62482,
-      "name": "Cornwall Mountain",
+      "name": "Cornwall Mountian",
       "name_default": "Cornwall Mountian",
       "native": "Cornwall Mountian",
       "type": "city",
@@ -509,7 +509,7 @@
       "id": 62513,
       "name": "Dillion Bigwoods",
       "name_default": "Dillion Bigwoods",
-      "native": "BIGHEION BIGwoods",
+      "native": "Dillion Bigwoods",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 62553,
-      "name": "Reuzen",
+      "name": "Ferris",
       "name_default": "Ferris",
       "native": "Ferris",
       "type": "city",
@@ -707,7 +707,7 @@
       "id": 62621,
       "name": "Haddo",
       "name_default": "Haddo",
-      "native": "Vow",
+      "native": "Haddo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 62673,
-      "name": "Jeruzalem",
+      "name": "Jerusalem",
       "name_default": "Jerusalem",
       "native": "Jerusalem",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 62718,
-      "name": "Klein Londen",
+      "name": "Little London",
       "name_default": "Little London",
       "native": "Little London",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62792,
-      "name": "Berg Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62819,
-      "name": "Nieuwe Markt Oval",
+      "name": "New Market Oval",
       "name_default": "New Market Oval",
       "native": "New Market Oval",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62821,
-      "name": "Nieuwe wegen",
+      "name": "New Roads",
       "name_default": "New Roads",
       "native": "New Roads",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62822,
-      "name": "Nieuwe werken",
+      "name": "New Works",
       "name_default": "New Works",
       "native": "New Works",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62845,
-      "name": "Oranjeheuvel",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62916,
-      "name": "Rode heuvels",
+      "name": "Red Hills",
       "name_default": "Red Hills",
       "native": "Red Hills",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62927,
-      "name": "Herleving",
+      "name": "Revival",
       "name_default": "Revival",
       "native": "Revival",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62939,
-      "name": "Brullende rivier",
+      "name": "Roaring River",
       "name_default": "Roaring River",
       "native": "Roaring River",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62961,
-      "name": "Rusland",
+      "name": "Russia",
       "name_default": "Russia",
       "native": "Russia",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 62974,
-      "name": "Savannah-la-mar Bedrijfsdistrict",
+      "name": "Savannah-la-mar Business Dist.",
       "name_default": "Savannah-la-mar Business Dist.",
       "native": "Savannah-la-mar Business Dist.",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62991,
-      "name": "Shoalin Grot",
+      "name": "Shoalin Grotto",
       "name_default": "Shoalin Grotto",
       "native": "Shoalin Grotto",
       "type": "adm1",
@@ -1355,7 +1355,7 @@
       "id": 63034,
       "name": "Strathbogie",
       "name_default": "Strathbogie",
-      "native": "Strathboogie",
+      "native": "Strathbogie",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 63035,
-      "name": "Aardbei",
+      "name": "Strawberry",
       "name_default": "Strawberry",
       "native": "Strawberry",
       "type": "city",
@@ -1391,7 +1391,7 @@
       "id": 63036,
       "name": "Struie",
       "name_default": "Struie",
-      "native": "Scatter",
+      "native": "Struie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 63050,
-      "name": "Drie Mijl Rivier",
+      "name": "Three Mile River",
       "name_default": "Three Mile River",
       "native": "Three Mile River",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 63058,
-      "name": "Stadshoofd",
+      "name": "Town Head",
       "name_default": "Town Head",
       "native": "Town Head",
       "type": "city",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 63088,
-      "name": "Waterwerken",
+      "name": "Water Works",
       "name_default": "Water Works",
       "native": "Water Works",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63103,
-      "name": "Witte Huis",
+      "name": "Whitehouse",
       "name_default": "Whitehouse",
       "native": "Whitehouse",
       "type": "city",

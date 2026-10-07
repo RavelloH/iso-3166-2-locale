@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135331,
-      "name": "Айлош",
+      "name": "Айлоке",
       "name_default": "Ailoche",
       "native": "Ailoche",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 136046,
-      "name": "Бьелла",
+      "name": "Биелла",
       "name_default": "Biella",
       "native": "Biella",
       "type": "adm2",
@@ -131,7 +131,7 @@
       "id": 136054,
       "name": "Биоглио-Портула-Андре",
       "name_default": "Bioglio-Portula-Andrè",
-      "native": "BIOGRIO-PORTLA-ANDOW",
+      "native": "Bioglio-Portula-Andrè",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 136377,
-      "name": "Брусненго",
+      "name": "Брузненго",
       "name_default": "Brusnengo",
       "native": "Brusnengo",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 136617,
-      "name": "Кампилья Черво",
+      "name": "Кампилья-Черво",
       "name_default": "Campiglia Cervo",
       "native": "Campiglia Cervo",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 137027,
-      "name": "Касапинта",
+      "name": "Казапинта",
       "name_default": "Casapinta",
       "native": "Casapinta",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 137231,
-      "name": "Кастеллетто Черво",
+      "name": "Кастеллетто-Черво",
       "name_default": "Castelletto Cervo",
       "native": "Castelletto Cervo",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 137561,
-      "name": "Черрето Кастелло",
+      "name": "Черрето-Кастелло",
       "name_default": "Cerreto Castello",
       "native": "Cerreto Castello",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137571,
-      "name": "Серрионе",
+      "name": "Черрионе",
       "name_default": "Cerrione",
       "native": "Cerrione",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137839,
-      "name": "Коджиола",
+      "name": "Коджола",
       "name_default": "Coggiola",
       "native": "Coggiola",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 138955,
-      "name": "Гиффленга",
+      "name": "Джиффленга",
       "name_default": "Gifflenga",
       "native": "Gifflenga",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 139473,
-      "name": "Урок",
+      "name": "Лессона",
       "name_default": "Lessona",
       "native": "Lessona",
       "type": "adm3",
@@ -617,7 +617,7 @@
       "id": 139545,
       "name": "Ливера",
       "name_default": "Livera",
-      "native": "Consegna",
+      "native": "Livera",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 140107,
-      "name": "Меццана Мортильенго",
+      "name": "Меццана-Мортильенго",
       "name_default": "Mezzana Mortigliengo",
       "native": "Mezzana Mortigliengo",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 140125,
-      "name": "Миальяно",
+      "name": "Мьяльяно",
       "name_default": "Miagliano",
       "native": "Miagliano",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 140667,
-      "name": "Моттальчата",
+      "name": "Моттальчиата",
       "name_default": "Mottalciata",
       "native": "Mottalciata",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 140866,
-      "name": "Оккьеппо Инфериоре",
+      "name": "Оккьеппо-Инфериоре",
       "name_default": "Occhieppo Inferiore",
       "native": "Occhieppo Inferiore",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 140867,
-      "name": "Оккьеппо Супериоре",
+      "name": "Оккьеппо-Супериоре",
       "name_default": "Occhieppo Superiore",
       "native": "Occhieppo Superiore",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 58558,
-      "name": "Пиатто",
+      "name": "Пьятто",
       "name_default": "Piatto",
       "native": "Piatto",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 59038,
-      "name": "Молиться",
+      "name": "Прай",
       "name_default": "Pray",
       "native": "Pray",
       "type": "adm3",
@@ -1031,7 +1031,7 @@
       "id": 59219,
       "name": "Куарегна",
       "name_default": "Quaregna",
-      "native": "Overnace",
+      "native": "Quaregna",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 59602,
-      "name": "Ронко Бьеллезе",
+      "name": "Ронко-Бьеллезе",
       "name_default": "Ronco Biellese",
       "native": "Ronco Biellese",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 59724,
-      "name": "Саглиано Микка",
+      "name": "Сальяно-Микка",
       "name_default": "Sagliano Micca",
       "native": "Sagliano Micca",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 59740,
-      "name": "Сала Бьеллезе",
+      "name": "Сала-Бьеллезе",
       "name_default": "Sala Biellese",
       "native": "Sala Biellese",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 60972,
-      "name": "Состегно",
+      "name": "Состеньо",
       "name_default": "Sostegno",
       "native": "Sostegno",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 61689,
-      "name": "Валле Моссо",
+      "name": "Валле-Моссо",
       "name_default": "Valle Mosso",
       "native": "Valle Mosso",
       "type": "adm3",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 61692,
-      "name": "Валье-Сан-Николао",
+      "name": "Валле-Сан-Николао",
       "name_default": "Valle San Nicolao",
       "native": "Valle San Nicolao",
       "type": "adm3",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 61797,
-      "name": "Веглио",
+      "name": "Вельо",
       "name_default": "Veglio",
       "native": "Veglio",
       "type": "adm3",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 61951,
-      "name": "Вильяно Бьеллезе",
+      "name": "Вильяно-Бьеллезе",
       "name_default": "Vigliano Biellese",
       "native": "Vigliano Biellese",
       "type": "adm3",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 62038,
-      "name": "Вилла дель Боско",
+      "name": "Вилла-дель-Боско",
       "name_default": "Villa del Bosco",
       "native": "Villa del Bosco",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 62261,
-      "name": "Зимоне",
+      "name": "Цимоне",
       "name_default": "Zimone",
       "native": "Zimone",
       "type": "adm3",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 62278,
-      "name": "Зубиена",
+      "name": "Цубьена",
       "name_default": "Zubiena",
       "native": "Zubiena",
       "type": "adm3",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 62284,
-      "name": "Зумалия",
+      "name": "Цумалья",
       "name_default": "Zumaglia",
       "native": "Zumaglia",
       "type": "adm3",

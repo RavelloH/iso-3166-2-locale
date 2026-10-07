@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31240,
-      "name": "عین آرنات",
+      "name": "عین ارنات",
       "name_default": "Aïn Arnat",
       "native": "عين أرنات",
       "type": "city",
@@ -85,7 +85,7 @@
       "latitude": "36.48994000",
       "longitude": "5.53930000",
       "timezone": "Africa/Algiers",
-      "wikiDataId": "Q23826440",
+      "wikiDataId": null,
       "country_code": "DZ",
       "state_code": "19",
       "state_id": 1141,
@@ -93,7 +93,7 @@
     },
     {
       "id": 31288,
-      "name": "بوقا",
+      "name": "بوقاعه",
       "name_default": "Bougaa",
       "native": "بوغا",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 31333,
-      "name": "ال اولما",
+      "name": "العلمه",
       "name_default": "El Eulma",
       "native": "العلمة",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 31417,
-      "name": "صلاح بیگ",
+      "name": "صالح بای",
       "name_default": "Salah Bey",
       "native": "صلاح بك",
       "type": "city",

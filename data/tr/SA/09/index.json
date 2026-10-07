@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 102806,
-      "name": "Ebu Ariş",
+      "name": "Abū ‘Arīsh",
       "name_default": "Abū ‘Arīsh",
       "native": "أبو عريش",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 148745,
-      "name": "Ebu Radif",
+      "name": "Abu Radif",
       "name_default": "Abu Radif",
       "native": "أبو رديف",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 148775,
-      "name": "El Ulayin",
+      "name": "Al `Ulayin",
       "name_default": "Al `Ulayin",
       "native": "العليين",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 148748,
-      "name": "El Bedevi",
+      "name": "Al Badawi",
       "name_default": "Al Badawi",
       "native": "البدوي",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 148749,
-      "name": "El Hadrur",
+      "name": "Al Hadrur",
       "name_default": "Al Hadrur",
       "native": "الحضرور",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 148750,
-      "name": "El Hanaşah",
+      "name": "Al Hanashah",
       "name_default": "Al Hanashah",
       "native": "الحنشة",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 148751,
-      "name": "El Harani",
+      "name": "Al Harani",
       "name_default": "Al Harani",
       "native": "الحراني",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 148754,
-      "name": "El Cedî",
+      "name": "Al Jadi",
       "name_default": "Al Jadi",
       "native": "الجادي",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 148755,
-      "name": "El Cevah",
+      "name": "Al Jawah",
       "name_default": "Al Jawah",
       "native": "الجوهرة",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 148757,
-      "name": "El Karbus",
+      "name": "Al Karbus",
       "name_default": "Al Karbus",
       "native": "الكربوس",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 148758,
-      "name": "Al Kavahilah",
+      "name": "Al Kawahilah",
       "name_default": "Al Kawahilah",
       "native": "الكواهلة",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 148761,
-      "name": "El Kharadilah",
+      "name": "Al Kharadilah",
       "name_default": "Al Kharadilah",
       "native": "الخرادلة",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 148762,
-      "name": "El Haşabiye",
+      "name": "Al Khashabiyah",
       "name_default": "Al Khashabiyah",
       "native": "الخشابية",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 148763,
-      "name": "El Hube",
+      "name": "Al Khubah",
       "name_default": "Al Khubah",
       "native": "الخوبة",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 148765,
-      "name": "El Lukiye",
+      "name": "Al Luqiyah",
       "name_default": "Al Luqiyah",
       "native": "اللقية",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 148766,
-      "name": "El Ma'ayin",
+      "name": "Al Ma`ayin",
       "name_default": "Al Ma`ayin",
       "native": "المعاين",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 148767,
-      "name": "El Madaya",
+      "name": "Al Madaya",
       "name_default": "Al Madaya",
       "native": "المضايا",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 148768,
-      "name": "El Mali",
+      "name": "Al Mali",
       "name_default": "Al Mali",
       "native": "المالي",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 148769,
-      "name": "El Mayasam",
+      "name": "Al Mayasam",
       "name_default": "Al Mayasam",
       "native": "المياسم",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 148770,
-      "name": "El Kaim",
+      "name": "El Qa'im",
       "name_default": "Al Qa'im",
       "native": "القائم",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 148771,
-      "name": "El Kuful",
+      "name": "Al Quful",
       "name_default": "Al Quful",
       "native": "القفول",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 148773,
-      "name": "El Kuveh",
+      "name": "Al Quwah",
       "name_default": "Al Quwah",
       "native": "القوة",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 148774,
-      "name": "El Vasili",
+      "name": "Al Wasili",
       "name_default": "Al Wasili",
       "native": "الواصلي",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 148778,
-      "name": "Ar Rükubah",
+      "name": "Ar Rukubah",
       "name_default": "Ar Rukubah",
       "native": "الركوبة",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 148781,
-      "name": "Gaviye",
+      "name": "Ghawiyah",
       "name_default": "Ghawiyah",
       "native": "غاوية",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 148784,
-      "name": "Juha Suudi Arabistan",
+      "name": "Juha Saudi Arabia",
       "name_default": "Juha Saudi Arabia",
       "native": "جحا المملكة العربية السعودية",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 148786,
-      "name": "Khabath Said",
+      "name": "Khabath Sa`id",
       "name_default": "Khabath Sa`id",
       "native": "خبث سعيد",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 148787,
-      "name": "Halef",
+      "name": "Khalfah",
       "name_default": "Khalfah",
       "native": "خليفة",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 148788,
-      "name": "Hatib Suudi Arabistan",
+      "name": "Khatib Saudi Arabia",
       "name_default": "Khatib Saudi Arabia",
       "native": "الخطيب المملكة العربية السعودية",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 148789,
-      "name": "Humsiyah",
+      "name": "Khumsiyah",
       "name_default": "Khumsiyah",
       "native": "الخمسية",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 148790,
-      "name": "Hüseym",
+      "name": "Khushaym",
       "name_default": "Khushaym",
       "native": "خشيم",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 102866,
-      "name": "Misliyah",
+      "name": "Mislīyah",
       "name_default": "Mislīyah",
       "native": "المَسْلِيَّة",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 148794,
-      "name": "Mundarak",
+      "name": "Mundaraq",
       "name_default": "Mundaraq",
       "native": "منداراق",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 148795,
-      "name": "Muvassam",
+      "name": "Muwassam",
       "name_default": "Muwassam",
       "native": "موسم",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 148797,
-      "name": "Kuveyda",
+      "name": "Quwayda'",
       "name_default": "Quwayda'",
       "native": "قويضة",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 102897,
-      "name": "Şamitah",
+      "name": "Samta",
       "name_default": "Şāmitah",
       "native": "ساميتا",
       "type": "city",

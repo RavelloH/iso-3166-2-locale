@@ -253,9 +253,9 @@
   "cities": [
     {
       "id": 111287,
-      "name": "Amidone",
+      "name": "Amidon",
       "name_default": "Amidon",
-      "native": "Starch",
+      "native": "Amidon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -289,7 +289,7 @@
     },
     {
       "id": 111962,
-      "name": "Spiaggia",
+      "name": "Beach",
       "name_default": "Beach",
       "native": "Beach",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 112621,
-      "name": "Campanelli",
+      "name": "Bowbells",
       "name_default": "Bowbells",
       "native": "Bowbells",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 112632,
-      "name": "Arciere",
+      "name": "Bowman",
       "name_default": "Bowman",
       "native": "Bowman",
       "type": "city",
@@ -453,7 +453,7 @@
       "id": 113326,
       "name": "Cando",
       "name_default": "Cando",
-      "native": "When",
+      "native": "Cando",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -523,7 +523,7 @@
     },
     {
       "id": 113581,
-      "name": "Cavaliere",
+      "name": "Cavalier",
       "name_default": "Cavalier",
       "native": "Cavalier",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 113639,
-      "name": "Centro",
+      "name": "Center",
       "name_default": "Center",
       "native": "Center",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 115298,
-      "name": "Lago dei Diavoli",
+      "name": "Devils Lake",
       "name_default": "Devils Lake",
       "native": "Devils Lake",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 116756,
-      "name": "Forte Totten",
+      "name": "Fort Totten",
       "name_default": "Fort Totten",
       "native": "Fort Totten",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 116766,
-      "name": "Forte Yates",
+      "name": "Fort Yates",
       "name_default": "Fort Yates",
       "native": "Fort Yates",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 117103,
-      "name": "Guarnigione",
+      "name": "Garrison",
       "name_default": "Garrison",
       "native": "Garrison",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 117458,
-      "name": "Base aeronautica di Grand Forks",
+      "name": "Grand Forks Air Force Base",
       "name_default": "Grand Forks Air Force Base",
       "native": "Grand Forks Air Force Base",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 118661,
-      "name": "Orazio",
+      "name": "Horace",
       "name_default": "Horace",
       "native": "Horace",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 119558,
-      "name": "Piviere",
+      "name": "Killdeer",
       "name_default": "Killdeer",
-      "native": "Kill",
+      "native": "Killdeer",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 120600,
-      "name": "Lisbona",
+      "name": "Lisbon",
       "name_default": "Lisbon",
       "native": "Lisbon",
       "type": "city",
@@ -1155,7 +1155,7 @@
       "id": 121608,
       "name": "Medora",
       "name_default": "Medora",
-      "native": "Meter",
+      "native": "Medora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1173,7 +1173,7 @@
       "id": 121959,
       "name": "Minnewaukan",
       "name_default": "Minnewaukan",
-      "native": "Minnewauka",
+      "native": "Minnewaukan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 121967,
-      "name": "Base aeronautica di Minot",
+      "name": "Minot Air Force Base",
       "name_default": "Minot Air Force Base",
       "native": "Minot Air Force Base",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 122559,
-      "name": "Napoleone",
+      "name": "Napoleon",
       "name_default": "Napoleon",
       "native": "Napoleon",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 122774,
-      "name": "Nuovo Rockford",
+      "name": "New Rockford",
       "name_default": "New Rockford",
       "native": "New Rockford",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 122787,
-      "name": "Città Nuova",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 123275,
-      "name": "Querce",
+      "name": "Oakes",
       "name_default": "Oakes",
       "native": "Oakes",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 123853,
-      "name": "Parco del fiume",
+      "name": "Park River",
       "name_default": "Park River",
       "native": "Park River",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 126293,
-      "name": "Valle delle Conchiglie",
+      "name": "Shell Valley",
       "name_default": "Shell Valley",
       "native": "Shell Valley",
       "type": "city",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 127009,
-      "name": "Acciaio",
+      "name": "Steele",
       "name_default": "Steele",
       "native": "Steele",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 128869,
-      "name": "Fargo occidentale",
+      "name": "West Fargo",
       "name_default": "West Fargo",
       "native": "West Fargo",
       "type": "city",

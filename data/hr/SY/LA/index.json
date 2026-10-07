@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 104959,
-      "name": "Okrug Al-Haffah",
+      "name": "Al-Haffah",
       "name_default": "Al-Haffah",
-      "native": "حي الحفة",
+      "native": "منطقة الحفة",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 105007,
-      "name": "Džablah",
+      "name": "Jablah",
       "name_default": "Jablah",
       "native": "جبلة",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 105008,
-      "name": "Okrug Džableh",
+      "name": "Jableh",
       "name_default": "Jableh",
       "native": "قضاء جبلة",
       "type": "district",
@@ -129,7 +129,7 @@
     },
     {
       "id": 105021,
-      "name": "Kasab",
+      "name": "Kassab",
       "name_default": "Kassab",
       "native": "كساب",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 105025,
-      "name": "Okrug Latakija",
+      "name": "Latakia District",
       "name_default": "Latakia District",
       "native": "منطقة اللاذقية",
       "type": "district",
@@ -183,9 +183,9 @@
     },
     {
       "id": 105039,
-      "name": "Okrug Kardaha",
+      "name": "Qardaha",
       "name_default": "Qardaha",
-      "native": "قضاء القرداحة",
+      "native": "منطقة القرداحة",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105071,
-      "name": "Šlinfah",
+      "name": "Şlinfah",
       "name_default": "Şlinfah",
       "native": "شلنفه",
       "type": "adm3",

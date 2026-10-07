@@ -77,7 +77,7 @@
       "id": 21649,
       "name": "Barva",
       "name_default": "Barva",
-      "native": "Color",
+      "native": "Barva",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 21690,
-      "name": "Hérédia",
+      "name": "Heredia",
       "name_default": "Heredia",
       "native": "Heredia",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 21746,
-      "name": "San Antonio",
+      "name": "San Antonio de Belén",
       "name_default": "San Antonio",
       "native": "San Antonio",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 21763,
-      "name": "Saint-Paul",
+      "name": "San Pablo",
       "name_default": "San Pablo",
       "native": "San Pablo",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 21775,
-      "name": "Santa Barbara",
+      "name": "Santa Bárbara",
       "name_default": "Santa Bárbara",
       "native": "Santa Bárbara",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 21779,
-      "name": "Saint-Domingue",
+      "name": "Santo Domingo",
       "name_default": "Santo Domingo",
       "native": "Santo Domingo",
       "type": "city",

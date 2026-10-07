@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48207,
-      "name": "奥尔德伯恩",
+      "name": "奥尔德本",
       "name_default": "Aldbourne",
       "native": "Aldbourne",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48606,
-      "name": "斯温顿自治市",
+      "name": "斯温登区",
       "name_default": "Borough of Swindon",
       "native": "Borough of Swindon",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48978,
-      "name": "奇斯尔顿",
+      "name": "彻苏尔登",
       "name_default": "Chiseldon",
       "native": "Chiseldon",
       "type": "adm3",
@@ -254,24 +254,6 @@
       "country_id": 232
     },
     {
-      "id": 51132,
-      "name": "皇家伍顿巴塞特",
-      "name_default": "Royal Wootton Bassett",
-      "native": "Royal Wootton Bassett",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13571,
-      "latitude": "51.54190000",
-      "longitude": "-1.90450000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q665001",
-      "country_code": "GB",
-      "state_code": "SWD",
-      "state_id": 2422,
-      "country_id": 232
-    },
-    {
       "id": 51518,
       "name": "萨顿·本格",
       "name_default": "Sutton Benger",
@@ -291,7 +273,7 @@
     },
     {
       "id": 51537,
-      "name": "斯温顿",
+      "name": "威尔特郡",
       "name_default": "Swindon",
       "native": "Swindon",
       "type": "adm2",
@@ -309,7 +291,7 @@
     },
     {
       "id": 51743,
-      "name": "万伯勒",
+      "name": "文博洛",
       "name_default": "Wanborough",
       "native": "Wanborough",
       "type": "adm3",
@@ -327,7 +309,7 @@
     },
     {
       "id": 52002,
-      "name": "沃夫顿",
+      "name": "伍尔顿",
       "name_default": "Wroughton",
       "native": "Wroughton",
       "type": "city",

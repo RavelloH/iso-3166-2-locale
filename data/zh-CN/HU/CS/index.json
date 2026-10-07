@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 55184,
-      "name": "阿尔盖奥",
+      "name": "奥尔哲",
       "name_default": "Algyő",
       "native": "Algyő",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 55192,
-      "name": "阿帕特法尔瓦",
+      "name": "奥帕特村",
       "name_default": "Apátfalva",
       "native": "Apátfalva",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 56143,
-      "name": "阿索塔洛姆",
+      "name": "阿绍特陶洛姆",
       "name_default": "Ásotthalom",
       "native": "Ásotthalom",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 55207,
-      "name": "巴克斯",
+      "name": "鲍克什",
       "name_default": "Baks",
-      "native": "Boka",
+      "native": "Baks",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 55228,
-      "name": "巴拉斯蒂亚",
+      "name": "鲍拉什焦",
       "name_default": "Balástya",
       "native": "Balátya",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 55326,
-      "name": "恰纳德帕洛塔",
+      "name": "乔纳德保洛陶",
       "name_default": "Csanádpalota",
       "native": "Csanádpalota",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 55324,
-      "name": "恰尼捷列克",
+      "name": "乔尼泰莱克",
       "name_default": "Csanytelek",
       "native": "Csanytelek",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 55328,
-      "name": "琴格莱",
+      "name": "琴盖莱",
       "name_default": "Csengele",
       "native": "Csengele",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 55359,
-      "name": "德斯克",
+      "name": "代斯克",
       "name_default": "Deszk",
       "native": "Deszk",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 55365,
-      "name": "多马泽克",
+      "name": "多毛塞克",
       "name_default": "Domaszék",
       "native": "Domaszék",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 55434,
-      "name": "法比安塞贝斯蒂安",
+      "name": "法比安谢拜什真",
       "name_default": "Fábiánsebestyén",
       "native": "Fábiánsebestyén",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 55438,
-      "name": "福尔德阿克",
+      "name": "弗尔代阿克",
       "name_default": "Földeák",
       "native": "Földeák",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 55432,
-      "name": "原因",
+      "name": "福尔拉什库特",
       "name_default": "Forráskút",
       "native": "Forráskút",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 55521,
-      "name": "霍德梅泽瓦沙尔海伊",
+      "name": "霍德梅泽瓦沙海伊",
       "name_default": "Hódmezővásárhely",
       "native": "Hódmezővásárhely",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 55610,
-      "name": "基斯泰莱克",
+      "name": "小泰莱克",
       "name_default": "Kistelek",
       "native": "Kistelek",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 55614,
-      "name": "基松博尔",
+      "name": "小宗博尔",
       "name_default": "Kiszombor",
       "native": "Kiszombor",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 55677,
-      "name": "马科",
+      "name": "毛科",
       "name_default": "Makó",
       "native": "Makó",
       "type": "adm2",
@@ -471,9 +471,9 @@
     },
     {
       "id": 55681,
-      "name": "马罗斯莱莱",
+      "name": "毛罗什莱莱",
       "name_default": "Maroslele",
-      "native": "A tégla",
+      "native": "Maroslele",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 55704,
-      "name": "明德森特",
+      "name": "明曾特",
       "name_default": "Mindszent",
       "native": "Mindszent",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 55735,
-      "name": "莫拉豪洛姆",
+      "name": "莫劳豪洛姆",
       "name_default": "Mórahalom",
       "native": "Mórahalom",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 56152,
-      "name": "奥普斯塔泽",
+      "name": "欧普斯陶塞尔",
       "name_default": "Ópusztaszer",
       "native": "Ópusztaszer",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 55835,
-      "name": "普什塔泽尔",
+      "name": "普斯陶塞尔",
       "name_default": "Pusztaszer",
       "native": "Pusztaszer",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 55881,
-      "name": "罗斯克",
+      "name": "勒斯凯",
       "name_default": "Röszke",
       "native": "Röszke",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 55868,
-      "name": "鲁萨",
+      "name": "鲁饶",
       "name_default": "Ruzsa",
       "native": "Ruzsa",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 55980,
-      "name": "桑多法尔瓦",
+      "name": "山多尔村",
       "name_default": "Sándorfalva",
       "native": "Sándorfalva",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 55923,
-      "name": "斯扎特马兹",
+      "name": "绍吉毛兹",
       "name_default": "Szatymaz",
       "native": "Szatymaz",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 55929,
-      "name": "塞格瓦尔",
+      "name": "赛格堡",
       "name_default": "Szegvár",
       "native": "Szegvár",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 55976,
-      "name": "塞库塔斯",
+      "name": "塞克库陶什",
       "name_default": "Székkutas",
       "native": "Székkutas",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 56081,
-      "name": "托默尔凯尼",
+      "name": "特默尔凯尼",
       "name_default": "Tömörkény",
       "native": "Tömörkény",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 56167,
-      "name": "于莱斯",
+      "name": "于莱什",
       "name_default": "Üllés",
       "native": "Üllés",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 56136,
-      "name": "扎卡尼泽克",
+      "name": "扎卡尼塞克",
       "name_default": "Zákányszék",
       "native": "Zákányszék",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 56130,
-      "name": "若松博",
+      "name": "容博",
       "name_default": "Zsombó",
       "native": "Zsombó",
       "type": "city",

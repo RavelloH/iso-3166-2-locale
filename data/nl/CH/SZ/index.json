@@ -93,9 +93,9 @@
     },
     {
       "id": 17590,
-      "name": "Bach",
+      "name": "Bäch",
       "name_default": "Bäch",
-      "native": "Bähch",
+      "native": "Bäch",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 17483,
-      "name": "Bezirk Einsiedeln",
+      "name": "Einsiedeln",
       "name_default": "Bezirk Einsiedeln",
       "native": "Bezirk Einsiedeln",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 17484,
-      "name": "Bezirk Gersau",
+      "name": "Gersau",
       "name_default": "Bezirk Gersau",
       "native": "Bezirk Gersau",
       "type": "adm3",
@@ -147,7 +147,7 @@
     },
     {
       "id": 17490,
-      "name": "Bezirk Höfe",
+      "name": "Höfe",
       "name_default": "Bezirk Höfe",
       "native": "Bezirk Höfe",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 17492,
-      "name": "Bezirk Küssnacht",
+      "name": "Küssnacht",
       "name_default": "Bezirk Küssnacht",
       "native": "Bezirk Küssnacht",
       "type": "adm2",
@@ -183,9 +183,9 @@
     },
     {
       "id": 17498,
-      "name": "Bezirkmars",
+      "name": "Bezirk March",
       "name_default": "Bezirk March",
-      "native": "Störender Marsch",
+      "native": "Bezirk March",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 17509,
-      "name": "Bezirk Schwyz",
+      "name": "Schwyz",
       "name_default": "Bezirk Schwyz",
       "native": "Bezirk Schwyz",
       "type": "adm1",
@@ -275,7 +275,7 @@
       "id": 17830,
       "name": "Gersau",
       "name_default": "Gersau",
-      "native": "Gure",
+      "native": "Gersau",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 17946,
-      "name": "Ibach",
+      "name": "Ibach SZ",
       "name_default": "Ibach",
       "native": "Ibach",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 18516,
-      "name": "Zeef",
+      "name": "Siebnen",
       "name_default": "Siebnen",
       "native": "Siebnen",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 18632,
-      "name": "Onderberg",
+      "name": "Unteriberg",
       "name_default": "Unteriberg",
       "native": "UNTERIBERG",
       "type": "city",
@@ -599,7 +599,7 @@
       "id": 18693,
       "name": "Vorderthal",
       "name_default": "Vorderthal",
-      "native": "VORDTHAL",
+      "native": "Vorderthal",
       "type": "city",
       "level": null,
       "parent_id": null,

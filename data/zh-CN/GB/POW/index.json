@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48670,
-      "name": "布雷肯",
+      "name": "布雷科恩",
       "name_default": "Brecon",
       "native": "Brecon",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50352,
-      "name": "兰费尔·卡雷尼翁",
+      "name": "兰韦尔卡兰永",
       "name_default": "Llanfair Caereinion",
       "native": "Llanfair Caereinion",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50355,
-      "name": "兰菲林",
+      "name": "兰瓦林",
       "name_default": "Llanfyllin",
       "native": "Llanfyllin",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50364,
-      "name": "拉尼德洛斯",
+      "name": "兰德罗斯",
       "name_default": "Llanidloes",
       "native": "Llanidloes",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 50461,
-      "name": "马钦莱斯",
+      "name": "马汉莱斯",
       "name_default": "Machynlleth",
       "native": "Machynlleth",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50986,
-      "name": "普雷斯蒂恩",
+      "name": "普利斯提恩",
       "name_default": "Presteigne",
       "native": "Presteigne",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 51066,
-      "name": "拉亚德",
+      "name": "赖厄德",
       "name_default": "Rhayader",
-      "native": "Wander",
+      "native": "Rhayader",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -383,7 +383,7 @@
       "id": 51550,
       "name": "塔尔加斯",
       "name_default": "Talgarth",
-      "native": "Tall",
+      "native": "Talgarth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 51794,
-      "name": "威尔士普尔",
+      "name": "威尔士浦",
       "name_default": "Welshpool",
       "native": "Welshpool",
       "type": "city",

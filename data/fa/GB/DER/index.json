@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48339,
-      "name": "بیکول",
+      "name": "باکول",
       "name_default": "Bakewell",
       "native": "Bakewell",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 49269,
-      "name": "دربی",
+      "name": "داربی",
       "name_default": "Derby",
       "native": "Derby",
       "type": "adm2",
@@ -110,8 +110,26 @@
       "country_id": 232
     },
     {
+      "id": 51313,
+      "name": "سینفین",
+      "name_default": "Sinfin",
+      "native": "Sinfin",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15128,
+      "latitude": "52.88157000",
+      "longitude": "-1.48681000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q3474744",
+      "country_code": "GB",
+      "state_code": "DER",
+      "state_id": 2485,
+      "country_id": 232
+    },
+    {
       "id": 51621,
-      "name": "تایدسول",
+      "name": "تایدزول",
       "name_default": "Tideswell",
       "native": "Tideswell",
       "type": "city",
@@ -147,7 +165,7 @@
     },
     {
       "id": 51930,
-      "name": "وینگروورث",
+      "name": "وینگرورت",
       "name_default": "Wingerworth",
       "native": "Wingerworth",
       "type": "city",

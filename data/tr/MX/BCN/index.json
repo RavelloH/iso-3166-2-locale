@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68194,
-      "name": "Alfonso Garzón [Büyükanneler]",
+      "name": "Alfonso Garzón [Granjas Familiares]",
       "name_default": "Alfonso Garzón [Granjas Familiares]",
       "native": "Alfonso Garzón [Granjas Familiares]",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 68906,
-      "name": "Hongo'nun Cereso'su",
+      "name": "Cereso del Hongo",
       "name_default": "Cereso del Hongo",
       "native": "Cereso del Hongo",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Coahuila İstasyonu",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 70599,
-      "name": "Guadalupe Victoria",
+      "name": "Ciudad Guadalupe Victoria",
       "name_default": "Ciudad Guadalupe Victoria",
       "native": "Guadalupe Victoria",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 69172,
-      "name": "Morelos Şehri",
+      "name": "Ciudad Morelos",
       "name_default": "Ciudad Morelos",
       "native": "Ciudad Morelos",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 69339,
-      "name": "Colonia Nueva Dönemi",
+      "name": "Colonia Nueva Era",
       "name_default": "Colonia Nueva Era",
       "native": "Colonia Nueva Era",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Doktor Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Ejido Doktoru Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -782,7 +782,7 @@
     },
     {
       "id": 70066,
-      "name": "El Nino",
+      "name": "El Niño",
       "name_default": "El Niño",
       "native": "El Niño",
       "type": "city",
@@ -890,7 +890,7 @@
     },
     {
       "id": 70349,
-      "name": "Pescaderos İstasyonu",
+      "name": "Estación Pescaderos",
       "name_default": "Estación Pescaderos",
       "native": "Estación Pescaderos",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 70449,
-      "name": "Vadi Fraccionamiento",
+      "name": "Fraccionamiento del Valle",
       "name_default": "Fraccionamiento del Valle",
       "native": "Fraccionamiento del Valle",
       "type": "city",
@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "Guerrero Zenci",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "Hacienda Tecate",
       "name_default": "Hacienda Tecate",
@@ -980,7 +962,7 @@
     },
     {
       "id": 70673,
-      "name": "Güzel",
+      "name": "Hermosillo",
       "name_default": "Hermosillo",
       "native": "Hermosillo",
       "type": "city",
@@ -1034,7 +1016,7 @@
     },
     {
       "id": 71277,
-      "name": "La Esperanza [Büyük Aileler]",
+      "name": "La Esperanza [Granjas Familiares]",
       "name_default": "La Esperanza [Granjas Familiares]",
       "native": "La Esperanza [Granjas Familiares]",
       "type": "city",
@@ -1052,7 +1034,7 @@
     },
     {
       "id": 71463,
-      "name": "Providencia",
+      "name": "La Providencia",
       "name_default": "La Providencia",
       "native": "La Providencia",
       "type": "city",
@@ -1070,9 +1052,9 @@
     },
     {
       "id": 73165,
-      "name": "Söylenti",
+      "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1142,7 +1124,7 @@
     },
     {
       "id": 71676,
-      "name": "Lisanslı Gustavo Díaz Ordaz",
+      "name": "Licenciado Gustavo Díaz Ordaz",
       "name_default": "Licenciado Gustavo Díaz Ordaz",
       "native": "Licenciado Gustavo Díaz Ordaz",
       "type": "city",
@@ -1160,7 +1142,7 @@
     },
     {
       "id": 71753,
-      "name": "Santa Anita Dağları",
+      "name": "Lomas de Santa Anita",
       "name_default": "Lomas de Santa Anita",
       "native": "Lomas de Santa Anita",
       "type": "city",
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1322,7 +1304,7 @@
     },
     {
       "id": 72815,
-      "name": "Rosarito Plajları",
+      "name": "Playas de Rosarito",
       "name_default": "Playas de Rosarito",
       "native": "Playas de Rosarito",
       "type": "municipality",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "San Antonio Rögarları",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "İlerleme",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1610,7 +1592,7 @@
     },
     {
       "id": 74421,
-      "name": "San Quintin",
+      "name": "San Quintín",
       "name_default": "San Quintín",
       "native": "San Quintín",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "Santa Fe",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tecolots",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",

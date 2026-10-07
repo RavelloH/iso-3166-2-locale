@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48246,
-      "name": "Ammanford",
+      "name": "Rhydaman",
       "name_default": "Ammanford",
       "native": "Ammanford",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48784,
-      "name": "Porzh ar beziañ",
+      "name": "Porth Tywyn",
       "name_default": "Burry Port",
       "native": "Burry Port",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48862,
-      "name": "Gaerfyrddin",
+      "name": "Caerfyrddin",
       "name_default": "Carmarthen",
       "native": "Carmarthen",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48863,
-      "name": "Sir Gaerfyrddin",
+      "name": "Carmarthenshire",
       "name_default": "Carmarthenshire",
       "native": "Carmarthenshire",
       "type": "area",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49172,
-      "name": "Daouarn kroaziet",
+      "name": "Cross Hands",
       "name_default": "Cross Hands",
       "native": "Cross Hands",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50138,
-      "name": "Bugale",
+      "name": "Cydweli",
       "name_default": "Kidwelly",
       "native": "Kidwelly",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50345,
-      "name": "Llandovery",
+      "name": "Llanymddyfri",
       "name_default": "Llandovery",
       "native": "Llandovery",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50348,
-      "name": "Llandybie",
+      "name": "Llandybïe",
       "name_default": "Llandybie",
       "native": "Llandybie",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 50708,
-      "name": "Kastell-Nevez Emlyn",
+      "name": "Castell Newydd Emlyn",
       "name_default": "Newcastle Emlyn",
       "native": "Newcastle Emlyn",
       "type": "city",
@@ -293,7 +293,7 @@
       "id": 50878,
       "name": "Pencader",
       "name_default": "Pencader",
-      "native": "Punch",
+      "native": "Pencader",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,9 +309,9 @@
     },
     {
       "id": 50942,
-      "name": "Pontyated",
+      "name": "Pont-iets",
       "name_default": "Pontyates",
-      "native": "Carp",
+      "native": "Pontyates",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 51167,
-      "name": "Sant-Kleier",
+      "name": "Sanclêr",
       "name_default": "Saint Clears",
       "native": "Saint Clears",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 51677,
-      "name": "Kouezhañ",
+      "name": "Y Tymbl",
       "name_default": "Tumble",
       "native": "Tumble",
       "type": "city",
@@ -399,9 +399,9 @@
     },
     {
       "id": 51684,
-      "name": "Tikrooù",
+      "name": "Tŷ-croes",
       "name_default": "Tycroes",
-      "native": "Tyrant",
+      "native": "Tycroes",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 51877,
-      "name": "Whitland",
+      "name": "Hendy-gwyn ar Daf",
       "name_default": "Whitland",
       "native": "Whitland",
       "type": "adm3",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104940,
-      "name": "Ad Darbasīyah",
+      "name": "Ad Darbāsīyah",
       "name_default": "Ad Darbāsīyah",
       "native": "الدرباسية",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 104957,
-      "name": "Al-Hasakah",
+      "name": "Al Ḩasakah",
       "name_default": "Al Ḩasakah",
       "native": "الحسكة",
       "type": "adm1",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104950,
-      "name": "Al Malikiyah",
+      "name": "Al Mālikīyah",
       "name_default": "Al Mālikīyah",
       "native": "المالكية",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 104955,
-      "name": "Al-Qamishli",
+      "name": "Al Qāmishlī",
       "name_default": "Al Qāmishlī",
       "native": "القامشلي",
       "type": "adm2",
@@ -129,9 +129,9 @@
     },
     {
       "id": 104960,
-      "name": "Okrug Al-Malikiyah",
+      "name": "Al-Malikiyah",
       "name_default": "Al-Malikiyah",
-      "native": "قضاء المالكية",
+      "native": "منطقة المالكية",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 104967,
-      "name": "Zabava",
+      "name": "Amude",
       "name_default": "Amude",
       "native": "أمود",
       "type": "adm3",

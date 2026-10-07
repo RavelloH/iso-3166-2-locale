@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Aenon Kasabası",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62302,
-      "name": "Sokak",
+      "name": "Alley",
       "name_default": "Alley",
       "native": "Alley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Bankalar",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 62387,
-      "name": "Brandon Tepesi",
+      "name": "Brandon Hill",
       "name_default": "Brandon Hill",
       "native": "Brandon Hill",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62391,
-      "name": "Brixton Tepesi",
+      "name": "Brixton Hill",
       "name_default": "Brixton Hill",
       "native": "Brixton Hill",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 62406,
-      "name": "Çalılıklı Park",
+      "name": "Bushy Park",
       "name_default": "Bushy Park",
       "native": "Bushy Park",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Şato",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62462,
-      "name": "Kokpit",
+      "name": "Cockpit",
       "name_default": "Cockpit",
       "native": "Cockpit",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Kahve Parçası",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62466,
-      "name": "Albaylar Sırtı",
+      "name": "Colonels Ridge",
       "name_default": "Colonels Ridge",
       "native": "Colonels Ridge",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Dümenci",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 62489,
-      "name": "Crofts Tepesi",
+      "name": "Crofts Hill",
       "name_default": "Crofts Hill",
       "native": "Crofts Hill",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Eğri Nehir",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 62497,
-      "name": "Curatoe Tepesi",
+      "name": "Curatoe Hill",
       "name_default": "Curatoe Hill",
       "native": "Curatoe Hill",
       "type": "adm1",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62533,
-      "name": "Çaba şehri",
+      "name": "Effortville",
       "name_default": "Effortville",
       "native": "Effortville",
       "type": "adm1",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Dört Yol",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62570,
-      "name": "Özgür kasaba",
+      "name": "Freetown",
       "name_default": "Freetown",
       "native": "Freetown",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Bana biraz ver",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 62606,
-      "name": "Çakıl Tepesi",
+      "name": "Gravel Hill",
       "name_default": "Gravel Hill",
       "native": "Gravel Hill",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Tehlike",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -651,7 +651,7 @@
     },
     {
       "id": 62670,
-      "name": "James Tepesi",
+      "name": "James Hill",
       "name_default": "James Hill",
       "native": "James Hill",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62676,
-      "name": "Johns Salonu",
+      "name": "Johns Hall",
       "name_default": "Johns Hall",
       "native": "Johns Hall",
       "type": "city",
@@ -687,9 +687,9 @@
     },
     {
       "id": 62683,
-      "name": "Kellitler",
+      "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 62712,
-      "name": "Sınır",
+      "name": "Limit",
       "name_default": "Limit",
       "native": "Limit",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 62715,
-      "name": "Lionel Kasabası",
+      "name": "Lionel Town",
       "name_default": "Lionel Town",
       "native": "Lionel Town",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 62727,
-      "name": "Longville Parkı",
+      "name": "Longville Park",
       "name_default": "Longville Park",
       "native": "Longville Park",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Mayıs Kalemi",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62765,
-      "name": "May Pen Uygun",
+      "name": "May Pen Proper",
       "name_default": "May Pen Proper",
       "native": "May Pen Proper",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Süt Nehri",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 62777,
-      "name": "Mineral Yükseklikleri",
+      "name": "Mineral Heights",
       "name_default": "Mineral Heights",
       "native": "Mineral Heights",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 62778,
-      "name": "Mitchell Kasabası",
+      "name": "Mitchell Town",
       "name_default": "Mitchell Town",
       "native": "Mitchell Town",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Morgans Ormanı",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 62791,
-      "name": "Morgans Geçidi",
+      "name": "Morgans Pass",
       "name_default": "Morgans Pass",
       "native": "Morgans Pass",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Yeni Denbigh",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62817,
-      "name": "Yeni Longsville",
+      "name": "New Longsville",
       "name_default": "New Longsville",
       "native": "New Longsville",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Eski Denbigh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62846,
-      "name": "Turuncu Tepe",
+      "name": "Orange Hill",
       "name_default": "Orange Hill",
       "native": "Orange Hill",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62847,
-      "name": "Osbourne Mağazası",
+      "name": "Osbourne Store",
       "name_default": "Osbourne Store",
       "native": "Osbourne Store",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Banana Ground'un bir parçası",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Douglas Kalesi'nin bir parçası",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Kellits'in bir parçası",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Flamalar",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62886,
-      "name": "Hoş Vadi",
+      "name": "Pleasant Valley",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62897,
-      "name": "Portland Kulübesi",
+      "name": "Portland Cottage",
       "name_default": "Portland Cottage",
       "native": "Portland Cottage",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Yarış Pisti",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 62930,
-      "name": "Richmond Parkı",
+      "name": "Richmond Park",
       "name_default": "Richmond Park",
       "native": "Richmond Park",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 62934,
-      "name": "Ritchie'ler",
+      "name": "Ritchies",
       "name_default": "Ritchies",
       "native": "Ritchies",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Kaynak",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62944,
-      "name": "Kaya Nehri",
+      "name": "Rock River",
       "name_default": "Rock River",
       "native": "Rock River",
       "type": "adm1",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 62946,
-      "name": "Kayalık Nokta",
+      "name": "Rocky Point",
       "name_default": "Rocky Point",
       "native": "Rocky Point",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Tuz Nehri",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 62969,
-      "name": "Sandy Körfezi",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62992,
-      "name": "Sessiz Tepe",
+      "name": "Silent Hill",
       "name_default": "Silent Hill",
       "native": "Silent Hill",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 63048,
-      "name": "Thompson Kasabası",
+      "name": "Thompson Town",
       "name_default": "Thompson Town",
       "native": "Thompson Town",
       "type": "city",
@@ -1461,9 +1461,9 @@
     },
     {
       "id": 63053,
-      "name": "Gişe",
+      "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Basamak lambası",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 63067,
-      "name": "Alabalık Salonu",
+      "name": "Trout Hall",
       "name_default": "Trout Hall",
       "native": "Trout Hall",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Turner'lar",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 63087,
-      "name": "Su Yolu",
+      "name": "Water Lane",
       "name_default": "Water Lane",
       "native": "Water Lane",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 63127,
-      "name": "York Kasabası",
+      "name": "York Town",
       "name_default": "York Town",
       "native": "York Town",
       "type": "city",

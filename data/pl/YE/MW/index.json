@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130705,
-      "name": "Al-Chabt",
+      "name": "Al Khabt",
       "name_default": "Al Khabt",
       "native": "الخبط",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130729,
-      "name": "Al Mahwit",
+      "name": "Al-Mahwit",
       "name_default": "Al Maḩwīt",
       "native": "المحويت",
       "type": "adm1",
@@ -165,10 +165,10 @@
     },
     {
       "id": 130868,
-      "name": "Hufasz",
+      "name": "Hufash",
       "name_default": "Hufash",
       "native": "حفاش",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37884,

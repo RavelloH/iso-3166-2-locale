@@ -246,7 +246,7 @@
   "cities": [
     {
       "id": 16151,
-      "name": "Ейрдрі",
+      "name": "Ейдрай",
       "name_default": "Airdrie",
       "native": "Airdrie",
       "type": "city",
@@ -282,7 +282,7 @@
     },
     {
       "id": 16190,
-      "name": "Банф",
+      "name": "Банфф",
       "name_default": "Banff",
       "native": "Banff",
       "type": "city",
@@ -300,7 +300,7 @@
     },
     {
       "id": 16192,
-      "name": "Баррхед",
+      "name": "Баргед",
       "name_default": "Barrhead",
       "native": "Barrhead",
       "type": "city",
@@ -372,7 +372,7 @@
     },
     {
       "id": 16219,
-      "name": "Чорний діамант",
+      "name": "Блек-Даймонд",
       "name_default": "Black Diamond",
       "native": "Black Diamond",
       "type": "city",
@@ -408,9 +408,9 @@
     },
     {
       "id": 16226,
-      "name": "Бон Аккорд",
+      "name": "Бон-Акорд",
       "name_default": "Bon Accord",
-      "native": "Good agreement",
+      "native": "Bon Accord",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -426,7 +426,7 @@
     },
     {
       "id": 16229,
-      "name": "Боннівіль",
+      "name": "Боннівілль",
       "name_default": "Bonnyville",
       "native": "Bonnyville",
       "type": "city",
@@ -444,7 +444,7 @@
     },
     {
       "id": 16234,
-      "name": "Острів Боу",
+      "name": "Бов-Айленд",
       "name_default": "Bow Island",
       "native": "Bow Island",
       "type": "city",
@@ -498,9 +498,9 @@
     },
     {
       "id": 16260,
-      "name": "Кальмар",
+      "name": "Келмер",
       "name_default": "Calmar",
-      "native": "Calm",
+      "native": "Calmar",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -516,7 +516,7 @@
     },
     {
       "id": 16265,
-      "name": "Камроуз",
+      "name": "Камрось",
       "name_default": "Camrose",
       "native": "Camrose",
       "type": "city",
@@ -588,7 +588,7 @@
     },
     {
       "id": 16305,
-      "name": "Честермір",
+      "name": "Честермер",
       "name_default": "Chestermere",
       "native": "Chestermere",
       "type": "city",
@@ -606,7 +606,7 @@
     },
     {
       "id": 16314,
-      "name": "Кларесгольм",
+      "name": "Клейрсгольм",
       "name_default": "Claresholm",
       "native": "Claresholm",
       "type": "city",
@@ -642,7 +642,7 @@
     },
     {
       "id": 16317,
-      "name": "Коулхерст",
+      "name": "Коулгерст",
       "name_default": "Coalhurst",
       "native": "Coalhurst",
       "type": "city",
@@ -660,7 +660,7 @@
     },
     {
       "id": 16320,
-      "name": "Кокрейн",
+      "name": "Кокран",
       "name_default": "Cochrane",
       "native": "Cochrane",
       "type": "city",
@@ -678,7 +678,7 @@
     },
     {
       "id": 16323,
-      "name": "Холодне озеро",
+      "name": "Колд-Лейк",
       "name_default": "Cold Lake",
       "native": "Cold Lake",
       "type": "city",
@@ -696,7 +696,7 @@
     },
     {
       "id": 16349,
-      "name": "Кросфілд",
+      "name": "Кроссфілд",
       "name_default": "Crossfield",
       "native": "Crossfield",
       "type": "city",
@@ -768,7 +768,7 @@
     },
     {
       "id": 16383,
-      "name": "Долина Дрейтон",
+      "name": "Дрейтон-Веллі",
       "name_default": "Drayton Valley",
       "native": "Drayton Valley",
       "type": "city",
@@ -840,7 +840,7 @@
     },
     {
       "id": 16413,
-      "name": "Фейрвью",
+      "name": "Ферв'ю",
       "name_default": "Fairview",
       "native": "Fairview",
       "type": "city",
@@ -858,7 +858,7 @@
     },
     {
       "id": 16415,
-      "name": "Фальхер",
+      "name": "Фелер",
       "name_default": "Falher",
       "native": "Falher",
       "type": "city",
@@ -876,7 +876,7 @@
     },
     {
       "id": 16429,
-      "name": "Форт Маклеод",
+      "name": "Форт-Маклауд",
       "name_default": "Fort Macleod",
       "native": "Fort Macleod",
       "type": "city",
@@ -912,7 +912,7 @@
     },
     {
       "id": 16433,
-      "name": "Форт Саскачеван",
+      "name": "Форт-Саскачеван",
       "name_default": "Fort Saskatchewan",
       "native": "Fort Saskatchewan",
       "type": "city",
@@ -948,7 +948,7 @@
     },
     {
       "id": 16450,
-      "name": "Гіббонс",
+      "name": "Ґіббонс",
       "name_default": "Gibbons",
       "native": "Gibbons",
       "type": "city",
@@ -968,7 +968,7 @@
       "id": 16463,
       "name": "Гранд-центр",
       "name_default": "Grand Centre",
-      "native": "Large center",
+      "native": "Grand Centre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -984,9 +984,9 @@
     },
     {
       "id": 16466,
-      "name": "Гранд-Кеш",
+      "name": "Ґранд-Каш",
       "name_default": "Grande Cache",
-      "native": "Large cover",
+      "native": "Grande Cache",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1002,7 +1002,7 @@
     },
     {
       "id": 16467,
-      "name": "Гранд-Прері",
+      "name": "Ґранд-Прері",
       "name_default": "Grande Prairie",
       "native": "Grande Prairie",
       "type": "city",
@@ -1020,7 +1020,7 @@
     },
     {
       "id": 16476,
-      "name": "Грімшоу",
+      "name": "Ґрімшоу",
       "name_default": "Grimshaw",
       "native": "Grimshaw",
       "type": "city",
@@ -1074,7 +1074,7 @@
     },
     {
       "id": 16503,
-      "name": "Високий рівень",
+      "name": "Гай-Левел",
       "name_default": "High Level",
       "native": "High Level",
       "type": "city",
@@ -1092,7 +1092,7 @@
     },
     {
       "id": 16504,
-      "name": "Висока Прерія",
+      "name": "Гай-Прері",
       "name_default": "High Prairie",
       "native": "High Prairie",
       "type": "city",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": 16505,
-      "name": "Хай-Рівер",
+      "name": "Гай-Рівер",
       "name_default": "High River",
       "native": "High River",
       "type": "city",
@@ -1128,7 +1128,7 @@
     },
     {
       "id": 16506,
-      "name": "Хінтон",
+      "name": "Гінтон",
       "name_default": "Hinton",
       "native": "Hinton",
       "type": "city",
@@ -1182,7 +1182,7 @@
     },
     {
       "id": 16543,
-      "name": "Кіллам",
+      "name": "Кіллем",
       "name_default": "Killam",
       "native": "Killam",
       "type": "city",
@@ -1202,7 +1202,7 @@
       "id": 16575,
       "name": "Лак-Ла-Біш",
       "name_default": "Lac La Biche",
-      "native": "Lake La Biche",
+      "native": "Lac La Biche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1256,7 +1256,7 @@
       "id": 16602,
       "name": "Ларкспур",
       "name_default": "Larkspur",
-      "native": "Lark spruce",
+      "native": "Larkspur",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1308,7 +1308,7 @@
     },
     {
       "id": 16614,
-      "name": "Летбрідж",
+      "name": "Летбридж",
       "name_default": "Lethbridge",
       "native": "Lethbridge",
       "type": "city",
@@ -1326,7 +1326,7 @@
     },
     {
       "id": 16625,
-      "name": "Ллойдмінстер",
+      "name": "Ллойдміністер",
       "name_default": "Lloydminster",
       "native": "Lloydminster",
       "type": "adm2",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": 16645,
-      "name": "Маграт",
+      "name": "Меґрет",
       "name_default": "Magrath",
       "native": "Magrath",
       "type": "city",
@@ -1382,7 +1382,7 @@
       "id": 16654,
       "name": "Маннвілл",
       "name_default": "Mannville",
-      "native": "Manlim",
+      "native": "Mannville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1416,7 +1416,7 @@
     },
     {
       "id": 16671,
-      "name": "Майєрторп",
+      "name": "Меєрторп",
       "name_default": "Mayerthorpe",
       "native": "Mayerthorpe",
       "type": "city",
@@ -1434,7 +1434,7 @@
     },
     {
       "id": 16675,
-      "name": "Медичний капелюх",
+      "name": "Медисин-Гет",
       "name_default": "Medicine Hat",
       "native": "Medicine Hat",
       "type": "city",
@@ -1470,7 +1470,7 @@
     },
     {
       "id": 16691,
-      "name": "Просо",
+      "name": "Міллет",
       "name_default": "Millet",
       "native": "Millet",
       "type": "city",
@@ -1526,7 +1526,7 @@
       "id": 16774,
       "name": "Окотокс",
       "name_default": "Okotoks",
-      "native": "Okotox",
+      "native": "Okotoks",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1542,7 +1542,7 @@
     },
     {
       "id": 16775,
-      "name": "Старі",
+      "name": "Олдс",
       "name_default": "Olds",
       "native": "Olds",
       "type": "city",
@@ -1560,7 +1560,7 @@
     },
     {
       "id": 16803,
-      "name": "Річка Піс",
+      "name": "Піс-Ривер",
       "name_default": "Peace River",
       "native": "Peace River",
       "type": "city",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": 16810,
-      "name": "Пенхолд",
+      "name": "Пенголд",
       "name_default": "Penhold",
       "native": "Penhold",
       "type": "city",
@@ -1596,7 +1596,7 @@
     },
     {
       "id": 16820,
-      "name": "Картинка Бьютт",
+      "name": "Пікчер-Б'ют",
       "name_default": "Picture Butte",
       "native": "Picture Butte",
       "type": "city",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": 16824,
-      "name": "Пінчер-Крік",
+      "name": "Пінчер Крик",
       "name_default": "Pincher Creek",
       "native": "Pincher Creek",
       "type": "city",
@@ -1634,7 +1634,7 @@
       "id": 16834,
       "name": "Понока",
       "name_default": "Ponoka",
-      "native": "The vision",
+      "native": "Ponoka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1650,7 +1650,7 @@
     },
     {
       "id": 16861,
-      "name": "Проректор",
+      "name": "Провост",
       "name_default": "Provost",
       "native": "Provost",
       "type": "city",
@@ -1686,7 +1686,7 @@
     },
     {
       "id": 16873,
-      "name": "Благородний олень",
+      "name": "Ред-Дір",
       "name_default": "Red Deer",
       "native": "Red Deer",
       "type": "city",
@@ -1740,7 +1740,7 @@
     },
     {
       "id": 16901,
-      "name": "Будинок у Скелястих горах",
+      "name": "Рокі-Маутін-Хаус",
       "name_default": "Rocky Mountain House",
       "native": "Rocky Mountain House",
       "type": "city",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": 17049,
-      "name": "Невільницьке озеро",
+      "name": "Слейв-Лейк",
       "name_default": "Slave Lake",
       "native": "Slave Lake",
       "type": "city",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 17052,
-      "name": "Смокі-Лейк",
+      "name": "Смоукі-Лейк",
       "name_default": "Smoky Lake",
       "native": "Smoky Lake",
       "type": "city",
@@ -1848,7 +1848,7 @@
     },
     {
       "id": 17061,
-      "name": "Річка Спіріт",
+      "name": "Спіріт-Рівер",
       "name_default": "Spirit River",
       "native": "Spirit River",
       "type": "city",
@@ -1902,7 +1902,7 @@
     },
     {
       "id": 17068,
-      "name": "Сент-Альберт",
+      "name": "Сент-Алберт",
       "name_default": "St. Albert",
       "native": "St. Albert",
       "type": "city",
@@ -1920,7 +1920,7 @@
     },
     {
       "id": 17078,
-      "name": "Стеттлер",
+      "name": "Стетлер",
       "name_default": "Stettler",
       "native": "Stettler",
       "type": "city",
@@ -1938,7 +1938,7 @@
     },
     {
       "id": 17082,
-      "name": "Кам'яниста рівнина",
+      "name": "Стоуні-Плейн",
       "name_default": "Stony Plain",
       "native": "Stony Plain",
       "type": "city",
@@ -1956,7 +1956,7 @@
     },
     {
       "id": 17084,
-      "name": "Стратмор",
+      "name": "Стретмор",
       "name_default": "Strathmore",
       "native": "Strathmore",
       "type": "city",
@@ -1974,7 +1974,7 @@
     },
     {
       "id": 17088,
-      "name": "Сандре",
+      "name": "Сандрі",
       "name_default": "Sundre",
       "native": "Sundre",
       "type": "city",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": 17092,
-      "name": "Свон-Гіллз",
+      "name": "Свон-Гіллс",
       "name_default": "Swan Hills",
       "native": "Swan Hills",
       "type": "city",
@@ -2010,7 +2010,7 @@
     },
     {
       "id": 17097,
-      "name": "Озеро Сільван",
+      "name": "Силвен-Лейк",
       "name_default": "Sylvan Lake",
       "native": "Sylvan Lake",
       "type": "city",
@@ -2028,7 +2028,7 @@
     },
     {
       "id": 17098,
-      "name": "Табер",
+      "name": "Тейбер",
       "name_default": "Taber",
       "native": "Taber",
       "type": "city",
@@ -2064,7 +2064,7 @@
     },
     {
       "id": 17110,
-      "name": "Три пагорби",
+      "name": "Трі-Гіллс",
       "name_default": "Three Hills",
       "native": "Three Hills",
       "type": "city",
@@ -2100,7 +2100,7 @@
     },
     {
       "id": 17131,
-      "name": "Два пагорби",
+      "name": "Ту-Гіллс",
       "name_default": "Two Hills",
       "native": "Two Hills",
       "type": "city",
@@ -2136,7 +2136,7 @@
     },
     {
       "id": 17151,
-      "name": "Вегревіль",
+      "name": "Веґревіль",
       "name_default": "Vegreville",
       "native": "Vegreville",
       "type": "city",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": 17197,
-      "name": "Ветасківін",
+      "name": "Ветаскивин",
       "name_default": "Wetaskiwin",
       "native": "Wetaskiwin",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Cidade de Aenon",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62302,
-      "name": "Aléia",
+      "name": "Alley",
       "name_default": "Alley",
       "native": "Alley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Bancos",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 62344,
-      "name": "Kraal de Beckford",
+      "name": "Beckford Kraal",
       "name_default": "Beckford Kraal",
       "native": "Beckford Kraal",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 62406,
-      "name": "Parque Bushy",
+      "name": "Bushy Park",
       "name_default": "Bushy Park",
       "native": "Bushy Park",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Castelo",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62462,
-      "name": "Cabine do piloto",
+      "name": "Cockpit",
       "name_default": "Cockpit",
       "native": "Cockpit",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Pedaço de Café",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62466,
-      "name": "Coronéis Ridge",
+      "name": "Colonels Ridge",
       "name_default": "Colonels Ridge",
       "native": "Colonels Ridge",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Timoneiro",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 62489,
-      "name": "Colina Crofts",
+      "name": "Crofts Hill",
       "name_default": "Crofts Hill",
       "native": "Crofts Hill",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Rio Torto",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62533,
-      "name": "Esforçoville",
+      "name": "Effortville",
       "name_default": "Effortville",
       "native": "Effortville",
       "type": "adm1",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Quatro Caminhos",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62570,
-      "name": "Cidade Livre",
+      "name": "Freetown",
       "name_default": "Freetown",
       "native": "Freetown",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Me dá um pouquinho",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 62606,
-      "name": "Colina de cascalho",
+      "name": "Gravel Hill",
       "name_default": "Gravel Hill",
       "native": "Gravel Hill",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Perigo",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62676,
-      "name": "Salão Johns",
+      "name": "Johns Hall",
       "name_default": "Johns Hall",
       "native": "Johns Hall",
       "type": "city",
@@ -689,7 +689,7 @@
       "id": 62683,
       "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 62712,
-      "name": "Limite",
+      "name": "Limit",
       "name_default": "Limit",
       "native": "Limit",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 62727,
-      "name": "Parque Longville",
+      "name": "Longville Park",
       "name_default": "Longville Park",
       "native": "Longville Park",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Caneta de maio",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Rio do Leite",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 62777,
-      "name": "Alturas Minerais",
+      "name": "Mineral Heights",
       "name_default": "Mineral Heights",
       "native": "Mineral Heights",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 62778,
-      "name": "Cidade de Mitchell",
+      "name": "Mitchell Town",
       "name_default": "Mitchell Town",
       "native": "Mitchell Town",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Floresta de Morgans",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 62793,
-      "name": "Monte Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Nova Denbigh",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62817,
-      "name": "Nova Longsville",
+      "name": "New Longsville",
       "name_default": "New Longsville",
       "native": "New Longsville",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Velho Denbigh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62847,
-      "name": "Loja Osbourne",
+      "name": "Osbourne Store",
       "name_default": "Osbourne Store",
       "native": "Osbourne Store",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Parte de Banana Ground",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Parte do Castelo de Douglas",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Parte de Kellits",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Flâmulas",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62886,
-      "name": "Vale Agradável",
+      "name": "Pleasant Valley",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62897,
-      "name": "Casa de campo em Portland",
+      "name": "Portland Cottage",
       "name_default": "Portland Cottage",
       "native": "Portland Cottage",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Pista de corrida",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 62930,
-      "name": "Parque Richmond",
+      "name": "Richmond Park",
       "name_default": "Richmond Park",
       "native": "Richmond Park",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Pedra",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62944,
-      "name": "Rio Rock",
+      "name": "Rock River",
       "name_default": "Rock River",
       "native": "Rock River",
       "type": "adm1",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Rio Salgado",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 62969,
-      "name": "Baía de Sandy",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 62984,
-      "name": "Lagoa de sedge",
+      "name": "Sedgepond",
       "name_default": "Sedgepond",
       "native": "Sedgepond",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62992,
-      "name": "Morro silencioso",
+      "name": "Silent Hill",
       "name_default": "Silent Hill",
       "native": "Silent Hill",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 63040,
-      "name": "Campo de verão",
+      "name": "Summerfield",
       "name_default": "Summerfield",
       "native": "Summerfield",
       "type": "city",
@@ -1461,9 +1461,9 @@
     },
     {
       "id": 63053,
-      "name": "Pedágio",
+      "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Luz de pedal",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 63067,
-      "name": "Salão de Trutas",
+      "name": "Trout Hall",
       "name_default": "Trout Hall",
       "native": "Trout Hall",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Torneiros",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 63127,
-      "name": "Cidade de York",
+      "name": "York Town",
       "name_default": "York Town",
       "native": "York Town",
       "type": "city",

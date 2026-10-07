@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 65965,
-      "name": "Anse La Raye",
+      "name": "Anse-la-Raye",
       "name_default": "Anse La Raye",
       "native": "Anse la Raye",
       "type": "adm1",
@@ -77,7 +77,7 @@
       "id": 65969,
       "name": "Au Tabor",
       "name_default": "Au Tabor",
-      "native": "I'm Bator",
+      "native": "Au Tabor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 65970,
-      "name": "Colline d'Au Tabor",
+      "name": "Au Tabor Hill",
       "name_default": "Au Tabor Hill",
       "native": "Au Tabor Hill",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 66019,
-      "name": "Bois d'Inde",
+      "name": "Bois D'Inde",
       "name_default": "Bois D'Inde",
-      "native": "India wood",
+      "native": "Bois D'Inde",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 66037,
-      "name": "Caico/Mil",
+      "name": "Caico/Millet",
       "name_default": "Caico/Millet",
       "native": "Caico/Millet",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66040,
-      "name": "Canaris",
+      "name": "Canaries",
       "name_default": "Canaries",
       "native": "Canaries",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 66064,
-      "name": "Domaine de Champen",
+      "name": "Champen Estate",
       "name_default": "Champen Estate",
       "native": "Champen Estate",
       "type": "adm1",
@@ -183,7 +183,7 @@
     },
     {
       "id": 66112,
-      "name": "Lagune derrière",
+      "name": "Derriere Lagoon",
       "name_default": "Derriere Lagoon",
       "native": "Derriere Lagoon",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 66294,
       "name": "Morne Ciseaux",
       "name_default": "Morne Ciseaux",
-      "native": "Grine scissors",
+      "native": "Morne Ciseaux",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 66365,
-      "name": "Vallée de Roseau",
+      "name": "Roseau Valley",
       "name_default": "Roseau Valley",
       "native": "Roseau Valley",
       "type": "adm1",
@@ -381,7 +381,7 @@
     },
     {
       "id": 66381,
-      "name": "Saint-Laurent",
+      "name": "St Lawrence",
       "name_default": "St Lawrence",
       "native": "St Lawrence",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 66382,
-      "name": "Domaine de Saint-Laurent",
+      "name": "St Lawrence Estate",
       "name_default": "St Lawrence Estate",
       "native": "St Lawrence Estate",
       "type": "city",
@@ -417,9 +417,9 @@
     },
     {
       "id": 66392,
-      "name": "Tête Chemin",
+      "name": "Tete Chemin",
       "name_default": "Tete Chemin",
-      "native": "Head",
+      "native": "Tete Chemin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 66417,
-      "name": "Vénus",
+      "name": "Venus",
       "name_default": "Venus",
       "native": "Venus",
       "type": "adm1",
@@ -489,7 +489,7 @@
     },
     {
       "id": 66429,
-      "name": "Village/Petite Bourg",
+      "name": "Village/Petite Bourgh",
       "name_default": "Village/Petite Bourgh",
       "native": "Village/Petite Bourgh",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48426,
-      "name": "洗澡",
+      "name": "巴斯",
       "name_default": "Bath",
       "native": "Bath",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48427,
-      "name": "巴斯和东北萨默塞特",
+      "name": "Bath and North East Somerset",
       "name_default": "Bath and North East Somerset",
       "native": "Bath and North East Somerset",
       "type": "area",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48637,
-      "name": "盒子",
+      "name": "博克斯",
       "name_default": "Box",
       "native": "Box",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48959,
-      "name": "咀嚼麦格纳",
+      "name": "丘马格纳",
       "name_default": "Chew Magna",
       "native": "Chew Magna",
       "type": "adm3",
@@ -221,7 +221,7 @@
       "id": 49068,
       "name": "科勒恩",
       "name_default": "Colerne",
-      "native": "The colors",
+      "native": "Colerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -230,24 +230,6 @@
       "longitude": "-2.26280000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2530698",
-      "country_code": "GB",
-      "state_code": "BAS",
-      "state_id": 2339,
-      "country_id": 232
-    },
-    {
-      "id": 49109,
-      "name": "科舍姆",
-      "name_default": "Corsham",
-      "native": "Corsham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13412,
-      "latitude": "51.43433000",
-      "longitude": "-2.18437000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q663095",
       "country_code": "GB",
       "state_code": "BAS",
       "state_id": 2339,
@@ -273,7 +255,7 @@
     },
     {
       "id": 49398,
-      "name": "东哈普特里",
+      "name": "East Harptree",
       "name_default": "East Harptree",
       "native": "East Harptree",
       "type": "adm3",
@@ -327,7 +309,7 @@
     },
     {
       "id": 50551,
-      "name": "仅仅",
+      "name": "梅尔",
       "name_default": "Mere",
       "native": "Mere",
       "type": "adm3",
@@ -345,7 +327,7 @@
     },
     {
       "id": 50577,
-      "name": "米德萨默·诺顿",
+      "name": "米德萨默诺顿",
       "name_default": "Midsomer Norton",
       "native": "Midsomer Norton",
       "type": "city",
@@ -381,7 +363,7 @@
     },
     {
       "id": 50864,
-      "name": "皮斯当圣约翰",
+      "name": "皮斯道恩圣约翰",
       "name_default": "Peasedown Saint John",
       "native": "Peasedown Saint John",
       "type": "city",
@@ -401,7 +383,7 @@
       "id": 50994,
       "name": "普里斯顿",
       "name_default": "Priston",
-      "native": "Appeal",
+      "native": "Priston",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -435,7 +417,7 @@
     },
     {
       "id": 51020,
-      "name": "拉德斯托克",
+      "name": "拉德斯多克",
       "name_default": "Radstock",
       "native": "Radstock",
       "type": "city",
@@ -489,7 +471,7 @@
     },
     {
       "id": 51189,
-      "name": "索尔特福德",
+      "name": "索特福特",
       "name_default": "Saltford",
       "native": "Saltford",
       "type": "adm3",

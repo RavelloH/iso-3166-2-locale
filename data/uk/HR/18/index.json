@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54384,
-      "name": "Бейл",
+      "name": "Бале",
       "name_default": "Bale",
       "native": "Bala",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 54426,
-      "name": "Бртонігла",
+      "name": "Бртонигла",
       "name_default": "Brtonigla",
       "native": "Brtonigla",
       "type": "adm2",
@@ -255,7 +255,7 @@
     },
     {
       "id": 54487,
-      "name": "Галіжана",
+      "name": "Галижана",
       "name_default": "Galižana",
       "native": "Galiža",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 54681,
-      "name": "Лабін",
+      "name": "Лабин",
       "name_default": "Labin",
       "native": "Labin",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54691,
-      "name": "Ліжнян",
+      "name": "Лижнян",
       "name_default": "Ližnjan",
       "native": "Ližnjan",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 54727,
-      "name": "Медулін",
+      "name": "Медулин",
       "name_default": "Medulin",
       "native": "Medulin",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 54763,
-      "name": "Новіград-Ціттанова",
+      "name": "Новиград",
       "name_default": "Novigrad",
       "native": "Novigrad-Cittanova",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 54761,
-      "name": "Новіград",
+      "name": "Новиград",
       "name_default": "Novigrad",
       "native": "Novigrad",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 54800,
-      "name": "Пазін",
+      "name": "Пазин",
       "name_default": "Pazin",
       "native": "Pazin",
       "type": "adm1",
@@ -707,7 +707,7 @@
       "id": 54844,
       "name": "Пула",
       "name_default": "Pula",
-      "native": "U svakom slučaju",
+      "native": "Pula",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 54850,
-      "name": "Рабац",
+      "name": "Рабаць",
       "name_default": "Rabac",
       "native": "Rabac",
       "type": "city",
@@ -823,7 +823,7 @@
       "latitude": "45.14932000",
       "longitude": "14.09889000",
       "timezone": "Europe/Zagreb",
-      "wikiDataId": "Q925754",
+      "wikiDataId": null,
       "country_code": "HR",
       "state_code": "18",
       "state_id": 743,
@@ -833,7 +833,7 @@
       "id": 54931,
       "name": "Светі Ловреч",
       "name_default": "Sveti Lovreč",
-      "native": "Svet",
+      "native": "Sveti Lovreč",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,9 +849,9 @@
     },
     {
       "id": 54933,
-      "name": "Дьоготь",
+      "name": "Tar",
       "name_default": "Tar",
-      "native": "Katran",
+      "native": "Tar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -939,7 +939,7 @@
     },
     {
       "id": 54967,
-      "name": "Вінеж",
+      "name": "Винеж",
       "name_default": "Vinež",
       "native": "Vinov",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 55039,
-      "name": "Жмінь",
+      "name": "Жминь",
       "name_default": "Žminj",
       "native": "Žminj",
       "type": "adm2",

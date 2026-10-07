@@ -75,7 +75,7 @@
     },
     {
       "id": 135285,
-      "name": "Ostry",
+      "name": "Acuto",
       "name_default": "Acuto",
       "native": "Acuto",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 135561,
-      "name": "Łuk",
+      "name": "Arce",
       "name_default": "Arce",
       "native": "Arce",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 135952,
-      "name": "Zamek Belmonte",
+      "name": "Belmonte Castello",
       "name_default": "Belmonte Castello",
       "native": "Belmonte Castello",
       "type": "adm3",
@@ -365,7 +365,7 @@
       "id": 136480,
       "name": "Caira",
       "name_default": "Caira",
-      "native": "Grotta",
+      "native": "Caira",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 137054,
-      "name": "Sprawa Campoli-Panetta",
+      "name": "Case Campoli-Panetta",
       "name_default": "Case Campoli-Panetta",
       "native": "Case Campoli-Panetta",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 137112,
-      "name": "Kasyno",
+      "name": "Cassino",
       "name_default": "Cassino",
       "native": "Cassino",
       "type": "adm3",
@@ -671,7 +671,7 @@
       "id": 137849,
       "name": "Coldragone",
       "name_default": "Coldragone",
-      "native": "Metragone",
+      "native": "Coldragone",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 138750,
-      "name": "Fumon",
+      "name": "Fumone",
       "name_default": "Fumone",
       "native": "Fumone",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 139246,
-      "name": "Wyspa Liri",
+      "name": "Isola del Liri",
       "name_default": "Isola del Liri",
       "native": "Isola del Liri",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 140371,
-      "name": "Góra San Giovanni Campano",
+      "name": "Monte San Giovanni Campano",
       "name_default": "Monte San Giovanni Campano",
       "native": "Monte San Giovanni Campano",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 58959,
-      "name": "Poczta Fibreno",
+      "name": "Posta Fibreno",
       "name_default": "Posta Fibreno",
       "native": "Posta Fibreno",
       "type": "adm3",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 59520,
-      "name": "Stacja Roccasecca",
+      "name": "Roccasecca Stazione",
       "name_default": "Roccasecca Stazione",
       "native": "Roccasecca Stazione",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 59817,
-      "name": "Święty Bartłomiej",
+      "name": "San Bartolomeo",
       "name_default": "San Bartolomeo",
       "native": "San Bartolomeo",
       "type": "city",
@@ -1731,9 +1731,9 @@
     },
     {
       "id": 61200,
-      "name": "Techchiena",
+      "name": "Tecchiena",
       "name_default": "Tecchiena",
-      "native": "Ladri",
+      "native": "Tecchiena",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 61351,
-      "name": "Wieża Caietani",
+      "name": "Torre Caietani",
       "name_default": "Torre Caietani",
       "native": "Torre Caietani",
       "type": "adm3",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 62002,
-      "name": "Willa Latina",
+      "name": "Villa Latina",
       "name_default": "Villa Latina",
       "native": "Villa Latina",
       "type": "adm3",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 62024,
-      "name": "Willa Santa Lucia",
+      "name": "Villa Santa Lucia",
       "name_default": "Villa Santa Lucia",
       "native": "Villa Santa Lucia",
       "type": "adm3",
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 62028,
-      "name": "Willa Santo Stefano",
+      "name": "Villa Santo Stefano",
       "name_default": "Villa Santo Stefano",
       "native": "Villa Santo Stefano",
       "type": "adm3",

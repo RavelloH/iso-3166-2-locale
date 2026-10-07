@@ -74,24 +74,6 @@
       "country_id": 232
     },
     {
-      "id": 50271,
-      "name": "リーキ",
-      "name_default": "Leek",
-      "native": "Leek",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 20606,
-      "latitude": "53.10434000",
-      "longitude": "-2.02207000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2070717",
-      "country_code": "GB",
-      "state_code": "STE",
-      "state_id": 2506,
-      "country_id": 232
-    },
-    {
       "id": 50412,
       "name": "ロングトン",
       "name_default": "Longton",
@@ -111,7 +93,7 @@
     },
     {
       "id": 51468,
-      "name": "ストーク・オン・トレント",
+      "name": "ストーク＝オン＝トレント",
       "name_default": "Stoke-on-Trent",
       "native": "Stoke-on-Trent",
       "type": "adm2",

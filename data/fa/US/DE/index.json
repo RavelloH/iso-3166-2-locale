@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111974,
-      "name": "خرس",
+      "name": "بر",
       "name_default": "Bear",
       "native": "Bear",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 112098,
-      "name": "بلفونته",
+      "name": "بلفونت",
       "name_default": "Bellefonte",
       "native": "Bellefonte",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 112401,
-      "name": "تیغه‌ها",
+      "name": "بلادس",
       "name_default": "Blades",
       "native": "Blades",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 112772,
-      "name": "بریجویل",
+      "name": "بریج‌ویل",
       "name_default": "Bridgeville",
       "native": "Bridgeville",
       "type": "city",
@@ -361,9 +361,9 @@
     },
     {
       "id": 113261,
-      "name": "کامدن",
+      "name": "کمدن",
       "name_default": "Camden",
-      "native": "Cam",
+      "native": "Camden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -433,7 +433,7 @@
     },
     {
       "id": 115203,
-      "name": "شهر دلاور",
+      "name": "دلاور سیتی",
       "name_default": "Delaware City",
       "native": "Delaware City",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115847,
-      "name": "اجمور",
+      "name": "اجموور",
       "name_default": "Edgemoor",
       "native": "Edgemoor",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 116070,
-      "name": "السمیر",
+      "name": "السمر",
       "name_default": "Elsmere",
       "native": "Elsmere",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 117155,
-      "name": "جورج‌تاون",
+      "name": "جورجتاون",
       "name_default": "Georgetown",
       "native": "Georgetown",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 117700,
-      "name": "گرینوود",
+      "name": "گرین‌وود",
       "name_default": "Greenwood",
       "native": "Greenwood",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 118401,
-      "name": "هایلند ایکر",
+      "name": "هایلند ایکرس",
       "name_default": "Highland Acres",
       "native": "Highland Acres",
       "type": "city",
@@ -669,7 +669,7 @@
       "id": 118503,
       "name": "هاکسین",
       "name_default": "Hockessin",
-      "native": "Hockess",
+      "native": "Hockessin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -685,7 +685,7 @@
     },
     {
       "id": 119488,
-      "name": "کنت ایکرز",
+      "name": "کنت اکرز",
       "name_default": "Kent Acres",
       "native": "Kent Acres",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 120187,
-      "name": "لورل",
+      "name": "لاورل",
       "name_default": "Laurel",
       "native": "Laurel",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 120410,
-      "name": "لویس",
+      "name": "لوز",
       "name_default": "Lewes",
       "native": "Lewes",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 120748,
-      "name": "گردن بلند",
+      "name": "لانگ نک",
       "name_default": "Long Neck",
       "native": "Long Neck",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 121900,
-      "name": "میلزبورو",
+      "name": "میلسبرو",
       "name_default": "Millsboro",
       "native": "Millsboro",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 122683,
-      "name": "قلعه نو",
+      "name": "نیوکاسل",
       "name_default": "New Castle",
       "native": "New Castle",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 123112,
-      "name": "ستاره شمالی",
+      "name": "نورث استار",
       "name_default": "North Star",
       "native": "North Star",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 123338,
-      "name": "نمای اقیانوس",
+      "name": "اوشن‌ویو",
       "name_default": "Ocean View",
       "native": "Ocean View",
       "type": "city",
@@ -919,7 +919,7 @@
     },
     {
       "id": 124194,
-      "name": "پایک کریک",
+      "name": "پیک کریک",
       "name_default": "Pike Creek",
       "native": "Pike Creek",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 124195,
-      "name": "دره پایک کریک",
+      "name": "پایک کریک ولی",
       "name_default": "Pike Creek Valley",
       "native": "Pike Creek Valley",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 125005,
-      "name": "ساحل ریهوبوت",
+      "name": "ریهوباث بیچ",
       "name_default": "Rehoboth Beach",
       "native": "Rehoboth Beach",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 125171,
-      "name": "طلوع خورشید - لبنان",
+      "name": "رایزینگ سان لبنان",
       "name_default": "Rising Sun-Lebanon",
       "native": "Rising Sun-Lebanon",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 125342,
-      "name": "روستای رادنی",
+      "name": "رادنی‌ویلج",
       "name_default": "Rodney Village",
       "native": "Rodney Village",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 126132,
-      "name": "سلبی‌ویل",
+      "name": "سلبیویل",
       "name_default": "Selbyville",
       "native": "Selbyville",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 126534,
-      "name": "اسمیرنا",
+      "name": "سمیرنا",
       "name_default": "Smyrna",
       "native": "Smyrna",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 127764,
-      "name": "تاونزند",
+      "name": "تاونسند",
       "name_default": "Townsend",
       "native": "Townsend",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 129321,
-      "name": "ویلمینگتون",
+      "name": "ویلمینگتن",
       "name_default": "Wilmington",
       "native": "Wilmington",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 129326,
-      "name": "عمارت ویلمینگتون",
+      "name": "ویلمینگتن منر",
       "name_default": "Wilmington Manor",
       "native": "Wilmington Manor",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 129557,
-      "name": "وودساید شرقی",
+      "name": "وودسایت ایست",
       "name_default": "Woodside East",
       "native": "Woodside East",
       "type": "city",

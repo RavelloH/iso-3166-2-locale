@@ -376,7 +376,7 @@
     },
     {
       "id": 97710,
-      "name": "أتيبسيفو",
+      "name": "أتيبتسيفو",
       "name_default": "Ateptsevo",
       "native": "Атепцево",
       "type": "city",
@@ -466,7 +466,7 @@
     },
     {
       "id": 97773,
-      "name": "بالاشيخا",
+      "name": "بالاشيكا",
       "name_default": "Balashikha",
       "native": "Балашиха",
       "type": "adm2",
@@ -502,7 +502,7 @@
     },
     {
       "id": 97800,
-      "name": "بارفيخا",
+      "name": "بارفيكا",
       "name_default": "Barvikha",
       "native": "Барвиха",
       "type": "city",
@@ -538,7 +538,7 @@
     },
     {
       "id": 97858,
-      "name": "بيلوموت",
+      "name": "بيلووموت",
       "name_default": "Beloomut",
       "native": "Белоомут",
       "type": "city",
@@ -574,7 +574,7 @@
     },
     {
       "id": 97883,
-      "name": "بيلي ستولبي",
+      "name": "بيليي ستولبي",
       "name_default": "Belyye Stolby",
       "native": "Белые Столбы",
       "type": "city",
@@ -970,7 +970,7 @@
     },
     {
       "id": 98260,
-      "name": "ديميخوفو",
+      "name": "ديميكوفو",
       "name_default": "Demikhovo",
       "native": "Демихово",
       "type": "city",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": 98385,
-      "name": "إليكتروغورسك",
+      "name": "إيليكتروغورسك",
       "name_default": "Elektrogorsk",
       "native": "Электрогорск",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 98387,
-      "name": "إليكتروجلي",
+      "name": "إيليكتروغلي",
       "name_default": "Elektrougli",
       "native": "Электроугли",
       "type": "city",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": 98506,
-      "name": "جوليتسينو",
+      "name": "غوليتسينو",
       "name_default": "Golitsyno",
       "native": "Голицыно",
       "type": "city",
@@ -1600,7 +1600,7 @@
     },
     {
       "id": 98720,
-      "name": "إسترا",
+      "name": "إيسترا",
       "name_default": "Istra",
       "native": "Истра",
       "type": "adm2",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 98736,
-      "name": "إيفانتييفكا",
+      "name": "آيفانتييفكا",
       "name_default": "Ivanteyevka",
       "native": "Ивантеевка",
       "type": "city",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 99214,
-      "name": "كوروليف",
+      "name": "كوروليوف",
       "name_default": "Korolev",
       "native": "Королев",
       "type": "adm2",
@@ -2158,7 +2158,7 @@
     },
     {
       "id": 99303,
-      "name": "كراسنوجورسك",
+      "name": "كراسنوغورسك",
       "name_default": "Krasnogorsk",
       "native": "Красногорск",
       "type": "adm2",
@@ -2212,7 +2212,7 @@
     },
     {
       "id": 99357,
-      "name": "كراسنوزنامينسك",
+      "name": "كراسنوزنامنسك",
       "name_default": "Krasnoznamensk",
       "native": "Краснознаменск",
       "type": "adm2",
@@ -2403,24 +2403,6 @@
       "longitude": "37.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2627647",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 99575,
-      "name": "لينينسكيي غوري",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -2626,7 +2608,7 @@
     },
     {
       "id": 99684,
-      "name": "لوخوفيتسي",
+      "name": "لوخوفايتسي",
       "name_default": "Lukhovitsy",
       "native": "Луховицы",
       "type": "city",
@@ -2644,7 +2626,7 @@
     },
     {
       "id": 99711,
-      "name": "ليتكارينو",
+      "name": "ليتكرينو",
       "name_default": "Lytkarino",
       "native": "Лыткарино",
       "type": "adm2",
@@ -2680,7 +2662,7 @@
     },
     {
       "id": 99714,
-      "name": "ليوبيرتسي",
+      "name": "ليوبارتسي",
       "name_default": "Lyubertsy",
       "native": "Люберцы",
       "type": "adm2",
@@ -2752,7 +2734,7 @@
     },
     {
       "id": 99756,
-      "name": "مالينو",
+      "name": "خالد عوض خلف العنزي",
       "name_default": "Malino",
       "native": "Малино",
       "type": "city",
@@ -2986,7 +2968,7 @@
     },
     {
       "id": 99985,
-      "name": "موزهايسك",
+      "name": "موجايسك",
       "name_default": "Mozhaysk",
       "native": "Можайск",
       "type": "adm2",
@@ -3040,7 +3022,7 @@
     },
     {
       "id": 100034,
-      "name": "ميتيشي",
+      "name": "مايتشي",
       "name_default": "Mytishchi",
       "native": "Мытищи",
       "type": "adm2",
@@ -3094,7 +3076,7 @@
     },
     {
       "id": 100059,
-      "name": "نارو فومينسك",
+      "name": "نارو-فومينسك",
       "name_default": "Naro-Fominsk",
       "native": "Наро-Фоминск",
       "type": "adm2",
@@ -3670,7 +3652,7 @@
     },
     {
       "id": 100577,
-      "name": "بافلوفسكي بوساد",
+      "name": "بافلوفسك بوساد",
       "name_default": "Pavlovskiy Posad",
       "native": "Павловский Посад",
       "type": "city",
@@ -3706,7 +3688,7 @@
     },
     {
       "id": 100606,
-      "name": "بيرسفيت",
+      "name": "بيرسفت",
       "name_default": "Peresvet",
       "native": "Пересвет",
       "type": "city",
@@ -4012,7 +3994,7 @@
     },
     {
       "id": 100895,
-      "name": "بوشينو",
+      "name": "بوشتشينو",
       "name_default": "Pushchino",
       "native": "Пущино",
       "type": "city",
@@ -4156,7 +4138,7 @@
     },
     {
       "id": 100936,
-      "name": "رامينسكوي",
+      "name": "رامنسكوي",
       "name_default": "Ramenskoye",
       "native": "Раменское",
       "type": "adm2",
@@ -4552,7 +4534,7 @@
     },
     {
       "id": 101182,
-      "name": "سيرجيف بوساد",
+      "name": "سرغيايف بوساد",
       "name_default": "Sergiyev Posad",
       "native": "Сергиев Посад",
       "type": "adm2",
@@ -4588,7 +4570,7 @@
     },
     {
       "id": 101191,
-      "name": "سيربوخوف",
+      "name": "سربوخوف",
       "name_default": "Serpukhov",
       "native": "Серпухов",
       "type": "adm2",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "شيلكوفو",
+      "name": "شتشايولكوفو",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -4912,7 +4894,7 @@
     },
     {
       "id": 101453,
-      "name": "سولنيتشنوغورسك",
+      "name": "سولنتشنوغورسك",
       "name_default": "Solnechnogorsk",
       "native": "Солнечногорск",
       "type": "adm2",
@@ -5164,7 +5146,7 @@
     },
     {
       "id": 101841,
-      "name": "تيرياييفو",
+      "name": "تيرايفو",
       "name_default": "Teryayevo",
       "native": "Теряево",
       "type": "city",
@@ -5326,7 +5308,7 @@
     },
     {
       "id": 102229,
-      "name": "فيريا",
+      "name": "فيرييا",
       "name_default": "Vereya",
       "native": "Верея",
       "type": "city",
@@ -5344,7 +5326,7 @@
     },
     {
       "id": 102302,
-      "name": "فيدنوي",
+      "name": "فيدنويي",
       "name_default": "Vidnoye",
       "native": "Видное",
       "type": "adm2",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "فوسترياكوفو",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "فيسوكوفسك",
       "name_default": "Vysokovsk",
@@ -5578,9 +5542,9 @@
     },
     {
       "id": 102477,
-      "name": "بطاطا",
+      "name": "Yam",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5704,7 +5668,7 @@
     },
     {
       "id": 102583,
-      "name": "يوبيليني",
+      "name": "يوبيلييني",
       "name_default": "Yubileyny",
       "native": "Юбилейный",
       "type": "city",
@@ -5812,7 +5776,7 @@
     },
     {
       "id": 102700,
-      "name": "زيلينوجرادسكي",
+      "name": "زيلينوغرادسكيي",
       "name_default": "Zelenogradskiy",
       "native": "Зеленоградский",
       "type": "city",
@@ -5830,7 +5794,7 @@
     },
     {
       "id": 102715,
-      "name": "زافورونكي",
+      "name": "جافورونكي",
       "name_default": "Zhavoronki",
       "native": "Жаворонки",
       "type": "city",
@@ -5938,7 +5902,7 @@
     },
     {
       "id": 102778,
-      "name": "زفينيجورود",
+      "name": "زفينيغورود",
       "name_default": "Zvenigorod",
       "native": "Звенигород",
       "type": "city",

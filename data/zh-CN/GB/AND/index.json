@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48273,
-      "name": "阿兹和北唐斯",
+      "name": "Ards and North Down",
       "name_default": "Ards and North Down",
       "native": "Ards and North Down",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49751,
-      "name": "格雷阿比",
+      "name": "格雷阿比谷",
       "name_default": "Greyabbey",
       "native": "Greyabbey",
       "type": "city",
@@ -164,8 +164,26 @@
       "country_id": 232
     },
     {
+      "id": 49975,
+      "name": "霍利伍德",
+      "name_default": "Holywood",
+      "native": "Holywood",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13109,
+      "latitude": "54.63863000",
+      "longitude": "-5.82473000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1625366",
+      "country_code": "GB",
+      "state_code": "AND",
+      "state_id": 2523,
+      "country_id": 232
+    },
+    {
       "id": 50194,
-      "name": "柯库宾",
+      "name": "基尔宾宾",
       "name_default": "Kircubbin",
       "native": "Kircubbin",
       "type": "city",
@@ -239,7 +257,7 @@
       "id": 50958,
       "name": "波塔沃吉",
       "name_default": "Portavogie",
-      "native": "Spoiled",
+      "native": "Portavogie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +273,7 @@
     },
     {
       "id": 51874,
-      "name": "怀特黑德",
+      "name": "怀特海德",
       "name_default": "Whitehead",
       "native": "Whitehead",
       "type": "city",

@@ -394,7 +394,7 @@
     },
     {
       "id": 98052,
-      "name": "Bratejevo",
+      "name": "Brateyevo",
       "name_default": "Brateyevo",
       "native": "Братеево",
       "type": "section",
@@ -412,7 +412,7 @@
     },
     {
       "id": 98190,
-      "name": "Čeremuški",
+      "name": "Cherëmushki",
       "name_default": "Cherëmushki",
       "native": "Черемушки",
       "type": "adm3",
@@ -574,7 +574,7 @@
     },
     {
       "id": 98754,
-      "name": "Izmajlovo",
+      "name": "Izmaylovo",
       "name_default": "Izmaylovo",
       "native": "Измайлово",
       "type": "section",
@@ -592,7 +592,7 @@
     },
     {
       "id": 98848,
-      "name": "Kapotnja",
+      "name": "Kapotnya",
       "name_default": "Kapotnya",
       "native": "Капотня",
       "type": "section",
@@ -610,7 +610,7 @@
     },
     {
       "id": 99008,
-      "name": "Horoševo-Mnevniki",
+      "name": "Khoroshëvo-Mnevniki",
       "name_default": "Khoroshëvo-Mnevniki",
       "native": "Хорошёво-Мневники",
       "type": "section",
@@ -628,7 +628,7 @@
     },
     {
       "id": 99132,
-      "name": "Kokoškino",
+      "name": "Kokoshkino",
       "name_default": "Kokoshkino",
       "native": "Кокошкино",
       "type": "city",
@@ -790,7 +790,7 @@
     },
     {
       "id": 99511,
-      "name": "Kuz'minki",
+      "name": "Kuz’minki",
       "name_default": "Kuz’minki",
       "native": "Кузьминки",
       "type": "section",
@@ -819,6 +819,24 @@
       "longitude": "37.70000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1382617",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
+      "id": 99575,
+      "name": "Leninskiye Gory",
+      "name_default": "Leninskiye Gory",
+      "native": "Ленинские горы",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.70000000",
+      "longitude": "37.56667000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOW",
       "state_id": 1901,
@@ -862,7 +880,7 @@
     },
     {
       "id": 99621,
-      "name": "Ljanozovo",
+      "name": "Lianozovo",
       "name_default": "Lianozovo",
       "native": "Лианозово",
       "type": "section",
@@ -916,7 +934,7 @@
     },
     {
       "id": 99696,
-      "name": "Lužniki",
+      "name": "Luzhniki",
       "name_default": "Luzhniki",
       "native": "Лужники",
       "type": "section",
@@ -970,7 +988,7 @@
     },
     {
       "id": 99817,
-      "name": "Matvejevskoje",
+      "name": "Matveyevskoye",
       "name_default": "Matveyevskoye",
       "native": "Матвеевское",
       "type": "section",
@@ -1042,7 +1060,7 @@
     },
     {
       "id": 99977,
-      "name": "Moskovskij",
+      "name": "Moskovskiy",
       "name_default": "Moskovskiy",
       "native": "Московский",
       "type": "city",
@@ -1276,7 +1294,7 @@
     },
     {
       "id": 100395,
-      "name": "Očakovo-Matvejevskoje",
+      "name": "Ochakovo-Matveyevskoye",
       "name_default": "Ochakovo-Matveyevskoye",
       "native": "Очаково-Матвеевское",
       "type": "section",
@@ -1294,7 +1312,7 @@
     },
     {
       "id": 100461,
-      "name": "Orehovo-Borisovo",
+      "name": "Orekhovo-Borisovo",
       "name_default": "Orekhovo-Borisovo",
       "native": "Орехово-Борисово",
       "type": "section",
@@ -1312,7 +1330,7 @@
     },
     {
       "id": 100462,
-      "name": "Orekhovo-Borisovo Severnoje",
+      "name": "Orekhovo-Borisovo Severnoye",
       "name_default": "Orekhovo-Borisovo Severnoye",
       "native": "Орехово-Борисово Северное",
       "type": "section",
@@ -1366,7 +1384,7 @@
     },
     {
       "id": 100750,
-      "name": "Pokrovskoje-Streshnevo",
+      "name": "Pokrovskoye-Streshnëvo",
       "name_default": "Pokrovskoye-Streshnëvo",
       "native": "Покровское-Стрешнево",
       "type": "section",
@@ -1474,7 +1492,7 @@
     },
     {
       "id": 101200,
-      "name": "Setun",
+      "name": "Setun’",
       "name_default": "Setun’",
       "native": "Сетунь",
       "type": "section",
@@ -1528,7 +1546,7 @@
     },
     {
       "id": 101279,
-      "name": "Ščukino",
+      "name": "Shchukino",
       "name_default": "Shchukino",
       "native": "Щукино",
       "type": "section",
@@ -1708,7 +1726,7 @@
     },
     {
       "id": 101879,
-      "name": "Tolstopal'tsevo",
+      "name": "Tolstopal’tsevo",
       "name_default": "Tolstopal’tsevo",
       "native": "Толстопальцево",
       "type": "section",
@@ -1744,7 +1762,7 @@
     },
     {
       "id": 101926,
-      "name": "Troparevo",
+      "name": "Troparëvo",
       "name_default": "Troparëvo",
       "native": "Тропарево",
       "type": "historical",
@@ -1780,7 +1798,7 @@
     },
     {
       "id": 101945,
-      "name": "Centralni administrativni okrug",
+      "name": "Tsentral’nyy Administrativnyy Okrug",
       "name_default": "Tsentral’nyy Administrativnyy Okrug",
       "native": "Центральный административный округ",
       "type": "section",
@@ -1924,7 +1942,7 @@
     },
     {
       "id": 102395,
-      "name": "Vostočnoe Degunino",
+      "name": "Vostochnoe Degunino",
       "name_default": "Vostochnoe Degunino",
       "native": "Восточное Дегунино",
       "type": "adm3",
@@ -1959,8 +1977,26 @@
       "country_id": 182
     },
     {
+      "id": 102402,
+      "name": "Vostryakovo",
+      "name_default": "Vostryakovo",
+      "native": "Востряково",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 30000,
+      "latitude": "55.66667000",
+      "longitude": "37.45000000",
+      "timezone": "Europe/Moscow",
+      "wikiDataId": "Q4126688",
+      "country_code": "RU",
+      "state_code": "MOW",
+      "state_id": 1901,
+      "country_id": 182
+    },
+    {
       "id": 102432,
-      "name": "Vihino-Žulebino",
+      "name": "Vykhino-Zhulebino",
       "name_default": "Vykhino-Zhulebino",
       "native": "Выхино-Жулебино",
       "type": "section",
@@ -1996,7 +2032,7 @@
     },
     {
       "id": 102506,
-      "name": "Jasenevo",
+      "name": "Yasenevo",
       "name_default": "Yasenevo",
       "native": "Ясенево",
       "type": "section",
@@ -2104,7 +2140,7 @@
     },
     {
       "id": 102791,
-      "name": "Zjuzino",
+      "name": "Zyuzino",
       "name_default": "Zyuzino",
       "native": "Зюзино",
       "type": "section",

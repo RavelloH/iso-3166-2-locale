@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48297,
-      "name": "애쉬튼 언더 라인",
+      "name": "애시턴언더라인",
       "name_default": "Ashton-under-Lyne",
       "native": "Ashton-under-Lyne",
       "type": "adm2",
@@ -146,24 +146,6 @@
       "country_id": 232
     },
     {
-      "id": 49662,
-      "name": "글로솝",
-      "name_default": "Glossop",
-      "native": "Glossop",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33243,
-      "latitude": "53.44325000",
-      "longitude": "-1.94900000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q383912",
-      "country_code": "GB",
-      "state_code": "TAM",
-      "state_id": 2367,
-      "country_id": 232
-    },
-    {
       "id": 49845,
       "name": "호튼 그린",
       "name_default": "Haughton Green",
@@ -219,7 +201,7 @@
     },
     {
       "id": 50036,
-      "name": "하이드",
+      "name": "하이드 뉴턴",
       "name_default": "Hyde",
       "native": "Hyde",
       "type": "city",
@@ -273,7 +255,7 @@
     },
     {
       "id": 51416,
-      "name": "스테일리브리지",
+      "name": "스탤리브릿지",
       "name_default": "Stalybridge",
       "native": "Stalybridge",
       "type": "city",

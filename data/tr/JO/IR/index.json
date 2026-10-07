@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "Ar Ramthā",
+      "name": "Er Remse",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -129,7 +129,7 @@
     },
     {
       "id": 63148,
-      "name": "Aydun",
+      "name": "Aydūn",
       "name_default": "Aydūn",
       "native": "أيدون",
       "type": "section",
@@ -165,7 +165,7 @@
     },
     {
       "id": 63154,
-      "name": "Beyt Yāfā",
+      "name": "Bayt Yāfā",
       "name_default": "Bayt Yāfā",
       "native": "بيت يافا",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 63164,
-      "name": "Kafr Esad",
+      "name": "Kafr Asad",
       "name_default": "Kafr Asad",
       "native": "كفر أسد",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63167,
-      "name": "Harca",
+      "name": "Kharjā",
       "name_default": "Kharjā",
       "native": "خرجا",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63176,
-      "name": "Kumeym",
+      "name": "Qumaym",
       "name_default": "Qumaym",
       "native": "قميم",
       "type": "city",

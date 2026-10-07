@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 52401,
-      "name": "Adamas",
+      "name": "Adámas",
       "name_default": "Adámas",
       "native": "Αδάμας",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 52405,
-      "name": "Afantou",
+      "name": "Afántou",
       "name_default": "Afántou",
       "native": "Αφάντου",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 52452,
-      "name": "Amorgós",
+      "name": "Chóra",
       "name_default": "Amorgós",
       "native": "Αμοργός",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 52476,
-      "name": "Anafi",
+      "name": "Anáfi",
       "name_default": "Anáfi",
       "native": "Ανάφη",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 52464,
-      "name": "Andros",
+      "name": "Ándros",
       "name_default": "Andros",
       "native": "Άνδρος",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 52475,
-      "name": "Antiparos",
+      "name": "Antíparos",
       "name_default": "Antíparos",
       "native": "Αντίπαρος",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 52484,
-      "name": "Archanges",
+      "name": "Archángelos",
       "name_default": "Archángelos",
       "native": "Αρχάγγελος",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 52510,
-      "name": "Astypalée",
+      "name": "Astypálaia",
       "name_default": "Astypálaia",
       "native": "Αστυπάλαια",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 52541,
-      "name": "Chalki",
+      "name": "Chálki",
       "name_default": "Chálki",
       "native": "Χάλκη",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 52584,
-      "name": "Emporeío",
+      "name": "Emborío",
       "name_default": "Emporeío",
       "native": "Εμπορείο",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 52590,
-      "name": "Ermoúpolis",
+      "name": "Ermoúpoli",
       "name_default": "Ermoúpolis",
       "native": "Ερμούπολη",
       "type": "adm1",
@@ -399,9 +399,9 @@
     },
     {
       "id": 52611,
-      "name": "Frire",
+      "name": "Fry",
       "name_default": "Fry",
-      "native": "Μαρίδα",
+      "native": "Φρυ Κάσου",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 52657,
-      "name": "Ialysós",
+      "name": "Ialyssos",
       "name_default": "Ialysós",
       "native": "Ιαλυσός",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 52803,
-      "name": "Kalymnos",
+      "name": "Kálymnos",
       "name_default": "Kálymnos",
       "native": "Κάλυμνος",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 52712,
-      "name": "Kardamaina",
+      "name": "Kardámaina",
       "name_default": "Kardámaina",
       "native": "Καρδάμαινα",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 52819,
-      "name": "Kéfalos",
+      "name": "Kefalos",
       "name_default": "Kéfalos",
       "native": "Κέφαλος",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 52820,
-      "name": "Kimolos",
+      "name": "Kímolos",
       "name_default": "Kímolos",
       "native": "Κίμωλος",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 52831,
-      "name": "Kythnos",
+      "name": "Kýthnos",
       "name_default": "Kýthnos",
       "native": "Κύθνος",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 52894,
-      "name": "Mandraki",
+      "name": "Mandráki",
       "name_default": "Mandráki",
       "native": "Μανδράκι",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 52916,
-      "name": "Megalo Chorió",
+      "name": "Megálo Chorió",
       "name_default": "Megálo Chorió",
       "native": "Μεγάλο Χωριό",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 52917,
-      "name": "Megísti",
+      "name": "Kastellórizo",
       "name_default": "Megísti",
       "native": "Μεγίστη",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 52957,
-      "name": "Milos",
+      "name": "Mílos",
       "name_default": "Mílos",
       "native": "Μήλος",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 52950,
-      "name": "Mykonos",
+      "name": "Mýkonos",
       "name_default": "Mykonos",
       "native": "Μύκονος",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 52998,
-      "name": "Naxos",
+      "name": "Náxos",
       "name_default": "Náxos",
       "native": "Νάξος",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 53064,
-      "name": "Ornos",
+      "name": "Ornós",
       "name_default": "Ornós",
       "native": "Ορνός",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 53164,
-      "name": "Panormos",
+      "name": "Pánormos",
       "name_default": "Pánormos",
       "native": "Πάνορμος",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 53166,
-      "name": "Paros",
+      "name": "Páros",
       "name_default": "Páros",
       "native": "Πάρος",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 53168,
-      "name": "Patmos",
+      "name": "Pátmos",
       "name_default": "Pátmos",
       "native": "Πάτμος",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 53224,
-      "name": "Skála",
+      "name": "Skala",
       "name_default": "Skála",
       "native": "Σκάλα",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 53273,
-      "name": "Symi",
+      "name": "Sými",
       "name_default": "Sými",
       "native": "Σύμη",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 53303,
-      "name": "Tinos",
+      "name": "Tínos",
       "name_default": "Tínos",
       "native": "Τήνος",
       "type": "adm3",
@@ -993,7 +993,7 @@
     },
     {
       "id": 53341,
-      "name": "Variété",
+      "name": "Vári",
       "name_default": "Vári",
       "native": "Βάρι",
       "type": "city",

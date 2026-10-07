@@ -75,7 +75,7 @@
     },
     {
       "id": 137189,
-      "name": "كاستيلديلشي",
+      "name": "كاستلديلتشي",
       "name_default": "Casteldelci",
       "native": "Casteldelci",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 138038,
       "name": "كوربولو",
       "name_default": "Corpolò",
-      "native": "Corpo",
+      "native": "Corpolò",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 140178,
-      "name": "ميسانو أدرياتيكو",
+      "name": "ميزانو أدرياتيكو",
       "name_default": "Misano Adriatico",
       "native": "Misano Adriatico",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 140272,
-      "name": "موندينو",
+      "name": "مونداينو",
       "name_default": "Mondaino",
       "native": "Mondaino",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 140457,
-      "name": "مونتيجريدولفو",
+      "name": "مونتيغريدولفو",
       "name_default": "Montegridolfo",
       "native": "Montegridolfo",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 140605,
-      "name": "مورسيانو دي رومانيا",
+      "name": "مورتشانو دي رومانيا",
       "name_default": "Morciano di Romagna",
       "native": "Morciano di Romagna",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 140818,
-      "name": "نوفافيلتريا",
+      "name": "نوفافلتريا",
       "name_default": "Novafeltria",
       "native": "Novafeltria",
       "type": "adm3",
@@ -383,7 +383,7 @@
       "id": 58610,
       "name": "بييتراكوتا",
       "name_default": "Pietracuta",
-      "native": "Pastacuta",
+      "native": "Pietracuta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -437,7 +437,7 @@
       "id": 59433,
       "name": "ريفازورا",
       "name_default": "Rivazzurra",
-      "native": "Brivido",
+      "native": "Rivazzurra",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 59783,
-      "name": "سالوديسيو",
+      "name": "سالوديتشو",
       "name_default": "Saludecio",
       "native": "Saludecio",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 59999,
-      "name": "سان جيوفاني في مارينيانو",
+      "name": "سان جوفاني في مارينيانو",
       "name_default": "San Giovanni in Marignano",
       "native": "San Giovanni in Marignano",
       "type": "adm3",
@@ -596,6 +596,24 @@
       "country_id": 107
     },
     {
+      "id": 60503,
+      "name": "سانتاركانجيلو",
+      "name_default": "Santarcangelo",
+      "native": "Santarcangelo",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10934,
+      "latitude": "44.06326000",
+      "longitude": "12.44657000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": null,
+      "country_code": "IT",
+      "state_code": "RN",
+      "state_id": 1713,
+      "country_id": 107
+    },
+    {
       "id": 60675,
       "name": "سيكيانو",
       "name_default": "Secchiano",
@@ -687,7 +705,7 @@
     },
     {
       "id": 61873,
-      "name": "فيروتشيو",
+      "name": "فيروكيو",
       "name_default": "Verucchio",
       "native": "Verucchio",
       "type": "adm3",

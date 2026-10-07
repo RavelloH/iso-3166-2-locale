@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 66586,
-      "name": "Biała Woka",
+      "name": "Baltoji Vokė",
       "name_default": "Baltoji Vokė",
       "native": "Baltoji Vokė",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 66603,
-      "name": "Grigiškės",
+      "name": "Grzegorzewo",
       "name_default": "Grigiškės",
       "native": "Grigiškės",
       "type": "section",
@@ -111,7 +111,7 @@
     },
     {
       "id": 66610,
-      "name": "Justiniškės",
+      "name": "Justyniszki",
       "name_default": "Justiniškės",
       "native": "Justiniškės",
       "type": "section",
@@ -129,7 +129,7 @@
     },
     {
       "id": 66631,
-      "name": "Lazdynai",
+      "name": "Leszczyniaki",
       "name_default": "Lazdynai",
       "native": "Lazdynai",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66632,
-      "name": "Lentwarów",
+      "name": "Landwarów",
       "name_default": "Lentvaris",
       "native": "Lentvaris",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 66641,
-      "name": "Nowe miasto",
+      "name": "Naujamiestis",
       "name_default": "Naujamiestis",
       "native": "Naujamiestis",
       "type": "section",
@@ -219,7 +219,7 @@
     },
     {
       "id": 66667,
-      "name": "Rasos",
+      "name": "Rossa",
       "name_default": "Rasos",
       "native": "Rasos",
       "type": "section",
@@ -237,7 +237,7 @@
     },
     {
       "id": 66709,
-      "name": "Soleczniki",
+      "name": "Šalčininkai",
       "name_default": "Šalčininkai",
       "native": "Šalčininkai",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 66711,
-      "name": "Szeszkin",
+      "name": "Szeszkinia",
       "name_default": "Šeškinė",
       "native": "Šeškinė",
       "type": "section",
@@ -309,7 +309,7 @@
     },
     {
       "id": 66682,
-      "name": "Święciany",
+      "name": "Svencionys",
       "name_default": "Svencionys",
       "native": "Svencionys",
       "type": "city",
@@ -326,26 +326,8 @@
       "country_id": 126
     },
     {
-      "id": 66689,
-      "name": "Wiłkomierz",
-      "name_default": "Ukmerge",
-      "native": "Ukmerge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21048,
-      "latitude": "55.25000000",
-      "longitude": "24.75000000",
-      "timezone": "Europe/Vilnius",
-      "wikiDataId": "Q213127",
-      "country_code": "LT",
-      "state_code": "57",
-      "state_id": 1606,
-      "country_id": 126
-    },
-    {
       "id": 66698,
-      "name": "Vievis",
+      "name": "Jewie",
       "name_default": "Vievis",
       "native": "Vievis",
       "type": "city",
@@ -363,7 +345,7 @@
     },
     {
       "id": 66702,
-      "name": "Vilkpėdė",
+      "name": "Wilcza Łapa",
       "name_default": "Vilkpėdė",
       "native": "Vilkpėdė",
       "type": "section",

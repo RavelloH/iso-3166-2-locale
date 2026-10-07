@@ -198,7 +198,7 @@
     },
     {
       "id": 10099,
-      "name": "Agudos del Sur",
+      "name": "Agudos do Sul",
       "name_default": "Agudos do Sul",
       "native": "Agudos do Sul",
       "type": "city",
@@ -251,24 +251,6 @@
       "country_id": 31
     },
     {
-      "id": 10187,
-      "name": "Altãnia",
-      "name_default": "Altãnia",
-      "native": "Altnshania",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18742,
-      "latitude": "-23.87444000",
-      "longitude": "-53.90167000",
-      "timezone": "America/Sao_Paulo",
-      "wikiDataId": "Q22050222",
-      "country_code": "BR",
-      "state_code": "PR",
-      "state_id": 2022,
-      "country_id": 31
-    },
-    {
       "id": 10177,
       "name": "Alto Paraíso",
       "name_default": "Alto Paraíso",
@@ -306,7 +288,7 @@
     },
     {
       "id": 10180,
-      "name": "Alto Piquirí",
+      "name": "Alto Piquiri",
       "name_default": "Alto Piquiri",
       "native": "Alto Piquiri",
       "type": "city",
@@ -323,8 +305,26 @@
       "country_id": 31
     },
     {
+      "id": 10187,
+      "name": "Altônia",
+      "name_default": "Altônia",
+      "native": "Altônia",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18742,
+      "latitude": "-23.87444000",
+      "longitude": "-53.90167000",
+      "timezone": "America/Sao_Paulo",
+      "wikiDataId": "Q22050222",
+      "country_code": "BR",
+      "state_code": "PR",
+      "state_id": 2022,
+      "country_id": 31
+    },
+    {
       "id": 10188,
-      "name": "Altonia",
+      "name": "Altônia",
       "name_default": "Altônia",
       "native": "Altônia",
       "type": "city",
@@ -378,7 +378,7 @@
     },
     {
       "id": 10222,
-      "name": "Amperio",
+      "name": "Ampére",
       "name_default": "Ampére",
       "native": "Ampere",
       "type": "city",
@@ -432,7 +432,7 @@
     },
     {
       "id": 15681,
-      "name": "Ángulo",
+      "name": "Ângulo",
       "name_default": "Ângulo",
       "native": "Ângulo",
       "type": "city",
@@ -468,7 +468,7 @@
     },
     {
       "id": 10279,
-      "name": "Antonio Olinto",
+      "name": "Antônio Olinto",
       "name_default": "Antônio Olinto",
       "native": "Antônio Olinto",
       "type": "city",
@@ -540,7 +540,7 @@
     },
     {
       "id": 10345,
-      "name": "Arapuá",
+      "name": "Arapuã",
       "name_default": "Arapuã",
       "native": "Arapuã",
       "type": "city",
@@ -576,7 +576,7 @@
     },
     {
       "id": 10363,
-      "name": "Araucaria",
+      "name": "Araucária",
       "name_default": "Araucária",
       "native": "Araucária",
       "type": "city",
@@ -668,7 +668,7 @@
       "id": 10435,
       "name": "Atalaia",
       "name_default": "Atalaia",
-      "native": "Seção",
+      "native": "Atalaia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -828,7 +828,7 @@
     },
     {
       "id": 10659,
-      "name": "Buena Esperanza",
+      "name": "Boa Esperança",
       "name_default": "Boa Esperança",
       "native": "Boa Esperança",
       "type": "city",
@@ -846,7 +846,7 @@
     },
     {
       "id": 10660,
-      "name": "Buena Esperanza de Iguazú",
+      "name": "Boa Esperança do Iguaçu",
       "name_default": "Boa Esperança do Iguaçu",
       "native": "Boa Esperança do Iguaçu",
       "type": "city",
@@ -882,7 +882,7 @@
     },
     {
       "id": 10668,
-      "name": "Buena Vista de Aparecida",
+      "name": "Boa Vista da Aparecida",
       "name_default": "Boa Vista da Aparecida",
       "native": "Boa Vista da Aparecida",
       "type": "city",
@@ -918,7 +918,7 @@
     },
     {
       "id": 10714,
-      "name": "Buen Jesús del Sur",
+      "name": "Bom Jesus do Sul",
       "name_default": "Bom Jesus do Sul",
       "native": "Bom Jesus do Sul",
       "type": "city",
@@ -936,7 +936,7 @@
     },
     {
       "id": 10727,
-      "name": "Buen éxito",
+      "name": "Bom Sucesso",
       "name_default": "Bom Sucesso",
       "native": "Bom Sucesso",
       "type": "city",
@@ -954,7 +954,7 @@
     },
     {
       "id": 10729,
-      "name": "Buen éxito del sur",
+      "name": "Bom Sucesso do Sul",
       "name_default": "Bom Sucesso do Sul",
       "native": "Bom Sucesso do Sul",
       "type": "adm2",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": 10896,
-      "name": "Cafelandia",
+      "name": "Cafelândia",
       "name_default": "Cafelândia",
       "native": "Cafelândia",
       "type": "city",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": 10897,
-      "name": "Cafezal del Sur",
+      "name": "Cafezal do Sul",
       "name_default": "Cafezal do Sul",
       "native": "Cafezal do Sul",
       "type": "city",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 10929,
-      "name": "California",
+      "name": "Califórnia",
       "name_default": "Califórnia",
       "native": "Califórnia",
       "type": "city",
@@ -1136,7 +1136,7 @@
       "id": 10946,
       "name": "Cambira",
       "name_default": "Cambira",
-      "native": "Fluxo",
+      "native": "Cambira",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1208,7 +1208,7 @@
       "id": 10985,
       "name": "Campo Bonito",
       "name_default": "Campo Bonito",
-      "native": "Bom campo",
+      "native": "Campo Bonito",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1244,7 +1244,7 @@
       "id": 10992,
       "name": "Campo Largo",
       "name_default": "Campo Largo",
-      "native": "Campo longo",
+      "native": "Campo Largo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1296,7 +1296,7 @@
     },
     {
       "id": 11550,
-      "name": "Cándido de Abreu",
+      "name": "Cândido de Abreu",
       "name_default": "Cândido de Abreu",
       "native": "Cândido de Abreu",
       "type": "city",
@@ -1316,7 +1316,7 @@
       "id": 11039,
       "name": "Candói",
       "name_default": "Candói",
-      "native": "Corba",
+      "native": "Candói",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1368,7 +1368,7 @@
     },
     {
       "id": 11084,
-      "name": "Capitán Leónidas Marques",
+      "name": "Capitão Leônidas Marques",
       "name_default": "Capitão Leônidas Marques",
       "native": "Capitão Leônidas Marques",
       "type": "city",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": 11237,
-      "name": "Centenario del Sur",
+      "name": "Centenário do Sul",
       "name_default": "Centenário do Sul",
       "native": "Centenário do Sul",
       "type": "city",
@@ -1512,7 +1512,7 @@
     },
     {
       "id": 11551,
-      "name": "Cielo Azul",
+      "name": "Céu Azul",
       "name_default": "Céu Azul",
       "native": "Céu Azul",
       "type": "city",
@@ -1566,7 +1566,7 @@
     },
     {
       "id": 11290,
-      "name": "Ciudad Gaucha",
+      "name": "Cidade Gaúcha",
       "name_default": "Cidade Gaúcha",
       "native": "Cidade Gaúcha",
       "type": "city",
@@ -1584,7 +1584,7 @@
     },
     {
       "id": 11300,
-      "name": "Cleveland",
+      "name": "Clevelândia",
       "name_default": "Clevelândia",
       "native": "Clevelândia",
       "type": "city",
@@ -1676,7 +1676,7 @@
       "id": 11390,
       "name": "Contenda",
       "name_default": "Contenda",
-      "native": "Registro",
+      "native": "Contenda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1746,9 +1746,9 @@
     },
     {
       "id": 11430,
-      "name": "Coronel Vívida",
+      "name": "Coronel Vivida",
       "name_default": "Coronel Vivida",
-      "native": "Coronel viveu",
+      "native": "Coronel Vivida",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1908,7 +1908,7 @@
     },
     {
       "id": 11585,
-      "name": "Diamante del Oeste",
+      "name": "Diamante d'Oeste",
       "name_default": "Diamante d'Oeste",
       "native": "Diamante d'Oeste",
       "type": "adm2",
@@ -1926,7 +1926,7 @@
     },
     {
       "id": 11586,
-      "name": "Diamante del Norte",
+      "name": "Diamante do Norte",
       "name_default": "Diamante do Norte",
       "native": "Diamante do Norte",
       "type": "city",
@@ -1944,7 +1944,7 @@
     },
     {
       "id": 11587,
-      "name": "Diamante del Sur",
+      "name": "Diamante do Sul",
       "name_default": "Diamante do Sul",
       "native": "Diamante do Sul",
       "type": "adm2",
@@ -1962,7 +1962,7 @@
     },
     {
       "id": 11620,
-      "name": "Dos vecinos",
+      "name": "Dois Vizinhos",
       "name_default": "Dois Vizinhos",
       "native": "Dois Vizinhos",
       "type": "city",
@@ -1998,7 +1998,7 @@
     },
     {
       "id": 11655,
-      "name": "Doctor Camargo",
+      "name": "Doutor Camargo",
       "name_default": "Doutor Camargo",
       "native": "Doutor Camargo",
       "type": "city",
@@ -2016,7 +2016,7 @@
     },
     {
       "id": 11660,
-      "name": "Doctor Ulises",
+      "name": "Doutor Ulysses",
       "name_default": "Doutor Ulysses",
       "native": "Doutor Ulysses",
       "type": "city",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": 11708,
-      "name": "Entre Ríos del Oeste",
+      "name": "Entre Rios do Oeste",
       "name_default": "Entre Rios do Oeste",
       "native": "Entre Rios do Oeste",
       "type": "city",
@@ -2088,7 +2088,7 @@
     },
     {
       "id": 11732,
-      "name": "Esperanza Nueva",
+      "name": "Esperança Nova",
       "name_default": "Esperança Nova",
       "native": "Esperança Nova",
       "type": "city",
@@ -2160,7 +2160,7 @@
     },
     {
       "id": 11786,
-      "name": "Hacienda Río Grande",
+      "name": "Fazenda Rio Grande",
       "name_default": "Fazenda Rio Grande",
       "native": "Fazenda Rio Grande",
       "type": "city",
@@ -2178,7 +2178,7 @@
     },
     {
       "id": 11909,
-      "name": "Fénix",
+      "name": "Fênix",
       "name_default": "Fênix",
       "native": "Fênix",
       "type": "city",
@@ -2232,7 +2232,7 @@
     },
     {
       "id": 11825,
-      "name": "Flor de la Sierra del Sur",
+      "name": "Flor da Serra do Sul",
       "name_default": "Flor da Serra do Sul",
       "native": "Flor da Serra do Sul",
       "type": "city",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": 11846,
-      "name": "Florida",
+      "name": "Flórida",
       "name_default": "Flórida",
       "native": "Flórida",
       "type": "city",
@@ -2322,7 +2322,7 @@
     },
     {
       "id": 11854,
-      "name": "Formosa del Oeste",
+      "name": "Formosa do Oeste",
       "name_default": "Formosa do Oeste",
       "native": "Formosa do Oeste",
       "type": "city",
@@ -2340,7 +2340,7 @@
     },
     {
       "id": 11871,
-      "name": "Foz de Iguazú",
+      "name": "Foz do Iguaçu",
       "name_default": "Foz do Iguaçu",
       "native": "Foz do Iguaçu",
       "type": "adm2",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": 11872,
-      "name": "Foz del Jordão",
+      "name": "Foz do Jordão",
       "name_default": "Foz do Jordão",
       "native": "Foz do Jordão",
       "type": "adm2",
@@ -2394,7 +2394,7 @@
     },
     {
       "id": 11879,
-      "name": "Francisco Beltrán",
+      "name": "Francisco Beltrão",
       "name_default": "Francisco Beltrão",
       "native": "Francisco Beltrão",
       "type": "city",
@@ -2484,7 +2484,7 @@
     },
     {
       "id": 11996,
-      "name": "Grandes Ríos",
+      "name": "Grandes Rios",
       "name_default": "Grandes Rios",
       "native": "Grandes rios",
       "type": "city",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": 12023,
-      "name": "guamiranga",
+      "name": "Guamiranga",
       "name_default": "Guamiranga",
       "native": "Guamiranga",
       "type": "city",
@@ -2682,7 +2682,7 @@
     },
     {
       "id": 12104,
-      "name": "Honorio Serpa",
+      "name": "Honório Serpa",
       "name_default": "Honório Serpa",
       "native": "Honório Serpa",
       "type": "city",
@@ -2720,7 +2720,7 @@
       "id": 12126,
       "name": "Ibema",
       "name_default": "Ibema",
-      "native": "Cauda",
+      "native": "Ibema",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2736,7 +2736,7 @@
     },
     {
       "id": 12142,
-      "name": "Ibiporá",
+      "name": "Ibiporã",
       "name_default": "Ibiporã",
       "native": "Ibiporã",
       "type": "city",
@@ -2916,9 +2916,9 @@
     },
     {
       "id": 12286,
-      "name": "Iporá",
+      "name": "Iporã",
       "name_default": "Iporã",
-      "native": "Bom",
+      "native": "Iporã",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2934,7 +2934,7 @@
     },
     {
       "id": 12301,
-      "name": "Iracema del Oeste",
+      "name": "Iracema do Oeste",
       "name_default": "Iracema do Oeste",
       "native": "Iracema do Oeste",
       "type": "city",
@@ -3330,7 +3330,7 @@
     },
     {
       "id": 12585,
-      "name": "Jardín Alegre",
+      "name": "Jardim Alegre",
       "name_default": "Jardim Alegre",
       "native": "Jardim Alegre",
       "type": "city",
@@ -3348,7 +3348,7 @@
     },
     {
       "id": 12586,
-      "name": "Jardín Olinda",
+      "name": "Jardim Olinda",
       "name_default": "Jardim Olinda",
       "native": "Jardim Olinda",
       "type": "city",
@@ -3384,7 +3384,7 @@
     },
     {
       "id": 12626,
-      "name": "Jesuitas",
+      "name": "Jesuítas",
       "name_default": "Jesuítas",
       "native": "Jesuítas",
       "type": "city",
@@ -3474,7 +3474,7 @@
     },
     {
       "id": 12720,
-      "name": "Calorías",
+      "name": "Kaloré",
       "name_default": "Kaloré",
       "native": "Kalore",
       "type": "city",
@@ -3528,7 +3528,7 @@
     },
     {
       "id": 12800,
-      "name": "Laranjeiras del Sur",
+      "name": "Laranjeiras do Sul",
       "name_default": "Laranjeiras do Sul",
       "native": "Laranjeiras do Sul",
       "type": "city",
@@ -3548,7 +3548,7 @@
       "id": 12822,
       "name": "Leópolis",
       "name_default": "Leópolis",
-      "native": "Leopher",
+      "native": "Leópolis",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3584,7 +3584,7 @@
       "id": 12835,
       "name": "Lindoeste",
       "name_default": "Lindoeste",
-      "native": "Linduish",
+      "native": "Lindoeste",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3654,7 +3654,7 @@
     },
     {
       "id": 12866,
-      "name": "Luisiana",
+      "name": "Luiziana",
       "name_default": "Luiziana",
       "native": "Louisiana",
       "type": "city",
@@ -3708,9 +3708,9 @@
     },
     {
       "id": 12929,
-      "name": "Mazo",
+      "name": "Mallet",
       "name_default": "Mallet",
-      "native": "Malho",
+      "native": "Mallet",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3728,7 +3728,7 @@
       "id": 12933,
       "name": "Mamborê",
       "name_default": "Mamborê",
-      "native": "Mambus",
+      "native": "Mamborê",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3746,7 +3746,7 @@
       "id": 12942,
       "name": "Mandaguaçu",
       "name_default": "Mandaguaçu",
-      "native": "Segunda -feira",
+      "native": "Mandaguaçu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3852,7 +3852,7 @@
     },
     {
       "id": 12998,
-      "name": "Mariscal Cândido Rondon",
+      "name": "Marechal Cândido Rondon",
       "name_default": "Marechal Cândido Rondon",
       "native": "Marechal Cândido Rondon",
       "type": "city",
@@ -3870,7 +3870,7 @@
     },
     {
       "id": 13004,
-      "name": "María Elena",
+      "name": "Maria Helena",
       "name_default": "Maria Helena",
       "native": "Maria Helena",
       "type": "city",
@@ -4106,7 +4106,7 @@
       "id": 13068,
       "name": "Mato Rico",
       "name_default": "Mato Rico",
-      "native": "Rico Mato",
+      "native": "Mato Rico",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4212,7 +4212,7 @@
     },
     {
       "id": 13157,
-      "name": "Misal",
+      "name": "Missal",
       "name_default": "Missal",
       "native": "Missal",
       "type": "city",
@@ -4230,9 +4230,9 @@
     },
     {
       "id": 13231,
-      "name": "Ventas Moreira",
+      "name": "Moreira Sales",
       "name_default": "Moreira Sales",
-      "native": "Vendas da Moreira",
+      "native": "Moreira Sales",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4302,7 +4302,7 @@
     },
     {
       "id": 13346,
-      "name": "Nueva Alianza de Ivaí",
+      "name": "Nova Aliança do Ivaí",
       "name_default": "Nova Aliança do Ivaí",
       "native": "Nova Aliança do Ivaí",
       "type": "city",
@@ -4320,7 +4320,7 @@
     },
     {
       "id": 13350,
-      "name": "Nueva América de la Colina",
+      "name": "Nova América da Colina",
       "name_default": "Nova América da Colina",
       "native": "Nova América da Colina",
       "type": "city",
@@ -4338,7 +4338,7 @@
     },
     {
       "id": 13353,
-      "name": "Nueva Aurora",
+      "name": "Nova Aurora",
       "name_default": "Nova Aurora",
       "native": "Nova Aurora",
       "type": "city",
@@ -4356,9 +4356,9 @@
     },
     {
       "id": 13367,
-      "name": "Nova Cantú",
+      "name": "Nova Cantu",
       "name_default": "Nova Cantu",
-      "native": "Nova Iorque",
+      "native": "Nova Cantu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4374,7 +4374,7 @@
     },
     {
       "id": 13374,
-      "name": "Nueva Esperanza",
+      "name": "Nova Esperança",
       "name_default": "Nova Esperança",
       "native": "Nova Esperança",
       "type": "city",
@@ -4410,7 +4410,7 @@
     },
     {
       "id": 13382,
-      "name": "Nueva Fátima",
+      "name": "Nova Fátima",
       "name_default": "Nova Fátima",
       "native": "Nova Fátima",
       "type": "city",
@@ -4428,7 +4428,7 @@
     },
     {
       "id": 13397,
-      "name": "Nueva Laranjeiras",
+      "name": "Nova Laranjeiras",
       "name_default": "Nova Laranjeiras",
       "native": "Nova Laranjeiras",
       "type": "city",
@@ -4446,7 +4446,7 @@
     },
     {
       "id": 13399,
-      "name": "Nueva Londrina",
+      "name": "Nova Londrina",
       "name_default": "Nova Londrina",
       "native": "Nova Londrina",
       "type": "city",
@@ -4464,7 +4464,7 @@
     },
     {
       "id": 13415,
-      "name": "Nueva Olímpia",
+      "name": "Nova Olímpia",
       "name_default": "Nova Olímpia",
       "native": "Nova Olímpia",
       "type": "city",
@@ -4482,7 +4482,7 @@
     },
     {
       "id": 13422,
-      "name": "Nueva Plata del Iguazú",
+      "name": "Nova Prata do Iguaçu",
       "name_default": "Nova Prata do Iguaçu",
       "native": "Nova Prata do Iguaçu",
       "type": "city",
@@ -4500,7 +4500,7 @@
     },
     {
       "id": 13431,
-      "name": "Nueva Santa Bárbara",
+      "name": "Nova Santa Bárbara",
       "name_default": "Nova Santa Bárbara",
       "native": "Nova Santa Bárbara",
       "type": "adm2",
@@ -4518,7 +4518,7 @@
     },
     {
       "id": 13435,
-      "name": "Nueva Santa Rosa",
+      "name": "Nova Santa Rosa",
       "name_default": "Nova Santa Rosa",
       "native": "Nova Santa Rosa",
       "type": "city",
@@ -4536,7 +4536,7 @@
     },
     {
       "id": 13438,
-      "name": "Nueva Tebas",
+      "name": "Nova Tebas",
       "name_default": "Nova Tebas",
       "native": "Nova Tebas",
       "type": "city",
@@ -4554,7 +4554,7 @@
     },
     {
       "id": 13466,
-      "name": "Nuevo Itacolomi",
+      "name": "Novo Itacolomi",
       "name_default": "Novo Itacolomi",
       "native": "Novo Itacolomi",
       "type": "city",
@@ -4716,7 +4716,7 @@
     },
     {
       "id": 13662,
-      "name": "Paraíso del Norte",
+      "name": "Paraíso do Norte",
       "name_default": "Paraíso do Norte",
       "native": "Paraíso do Norte",
       "type": "city",
@@ -4734,9 +4734,9 @@
     },
     {
       "id": 13636,
-      "name": "Paranacidad",
+      "name": "Paranacity",
       "name_default": "Paranacity",
-      "native": "Paranacidade",
+      "native": "Paranacity",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4860,7 +4860,7 @@
     },
     {
       "id": 13733,
-      "name": "Paulo Frontín",
+      "name": "Paulo Frontin",
       "name_default": "Paulo Frontin",
       "native": "Paulo Frontin",
       "type": "city",
@@ -5022,7 +5022,7 @@
     },
     {
       "id": 13873,
-      "name": "Piñón",
+      "name": "Pinhão",
       "name_default": "Pinhão",
       "native": "Pinhão",
       "type": "city",
@@ -5040,7 +5040,7 @@
     },
     {
       "id": 13912,
-      "name": "Piraí del Sur",
+      "name": "Piraí do Sul",
       "name_default": "Piraí do Sul",
       "native": "Piraí do Sul",
       "type": "city",
@@ -5112,7 +5112,7 @@
     },
     {
       "id": 13935,
-      "name": "Planaltina del Paraná",
+      "name": "Planaltina do Paraná",
       "name_default": "Planaltina do Paraná",
       "native": "Planaltina do Paraná",
       "type": "city",
@@ -5202,7 +5202,7 @@
     },
     {
       "id": 13998,
-      "name": "Puerto Amazonas",
+      "name": "Porto Amazonas",
       "name_default": "Porto Amazonas",
       "native": "Porto Amazonas",
       "type": "city",
@@ -5220,7 +5220,7 @@
     },
     {
       "id": 13999,
-      "name": "Puerto Barreiro",
+      "name": "Porto Barreiro",
       "name_default": "Porto Barreiro",
       "native": "Porto Barreiro",
       "type": "adm2",
@@ -5238,7 +5238,7 @@
     },
     {
       "id": 14015,
-      "name": "Puerto Rico",
+      "name": "Porto Rico",
       "name_default": "Porto Rico",
       "native": "Porto Rico",
       "type": "city",
@@ -5328,7 +5328,7 @@
     },
     {
       "id": 14105,
-      "name": "Primero de mayo",
+      "name": "Primeiro de Maio",
       "name_default": "Primeiro de Maio",
       "native": "Primeiro de Maio",
       "type": "city",
@@ -5364,7 +5364,7 @@
     },
     {
       "id": 14128,
-      "name": "Cuarto Centenario",
+      "name": "Quarto Centenário",
       "name_default": "Quarto Centenário",
       "native": "Quarto Centenário",
       "type": "city",
@@ -5400,7 +5400,7 @@
     },
     {
       "id": 14132,
-      "name": "Cuatro Barras",
+      "name": "Quatro Barras",
       "name_default": "Quatro Barras",
       "native": "Quatro Barras",
       "type": "city",
@@ -5418,7 +5418,7 @@
     },
     {
       "id": 14134,
-      "name": "Cuatro Puentes",
+      "name": "Quatro Pontes",
       "name_default": "Quatro Pontes",
       "native": "Quatro Pontes",
       "type": "city",
@@ -5454,7 +5454,7 @@
     },
     {
       "id": 14146,
-      "name": "Querencia del Norte",
+      "name": "Querência do Norte",
       "name_default": "Querência do Norte",
       "native": "Querência do Norte",
       "type": "city",
@@ -5598,7 +5598,7 @@
     },
     {
       "id": 14195,
-      "name": "Renacimiento",
+      "name": "Renascença",
       "name_default": "Renascença",
       "native": "Renascença",
       "type": "city",
@@ -5634,7 +5634,7 @@
     },
     {
       "id": 14201,
-      "name": "Reserva de Iguazú",
+      "name": "Reserva do Iguaçu",
       "name_default": "Reserva do Iguaçu",
       "native": "Reserva do Iguaçu",
       "type": "city",
@@ -5652,7 +5652,7 @@
     },
     {
       "id": 14240,
-      "name": "Ribeirao Claro",
+      "name": "Ribeirão Claro",
       "name_default": "Ribeirão Claro",
       "native": "Ribeirão Claro",
       "type": "city",
@@ -5670,7 +5670,7 @@
     },
     {
       "id": 14249,
-      "name": "Ribeirao do Pinhal",
+      "name": "Ribeirão do Pinhal",
       "name_default": "Ribeirão do Pinhal",
       "native": "Ribeirão do Pinhal",
       "type": "city",
@@ -5688,7 +5688,7 @@
     },
     {
       "id": 14258,
-      "name": "Río Azul",
+      "name": "Rio Azul",
       "name_default": "Rio Azul",
       "native": "Rio Azul",
       "type": "city",
@@ -5706,7 +5706,7 @@
     },
     {
       "id": 14260,
-      "name": "Río Bom",
+      "name": "Rio Bom",
       "name_default": "Rio Bom",
       "native": "Rio Bom",
       "type": "city",
@@ -5724,7 +5724,7 @@
     },
     {
       "id": 14262,
-      "name": "Río Bonito do Iguaçu",
+      "name": "Rio Bonito do Iguaçu",
       "name_default": "Rio Bonito do Iguaçu",
       "native": "Rio Bonito do Iguaçu",
       "type": "city",
@@ -5742,7 +5742,7 @@
     },
     {
       "id": 14265,
-      "name": "Río Branco do Ivaí",
+      "name": "Rio Branco do Ivaí",
       "name_default": "Rio Branco do Ivaí",
       "native": "Rio Branco do Ivaí",
       "type": "city",
@@ -5760,7 +5760,7 @@
     },
     {
       "id": 14266,
-      "name": "Río Branco do Sul",
+      "name": "Rio Branco do Sul",
       "name_default": "Rio Branco do Sul",
       "native": "Rio Branco do Sul",
       "type": "city",
@@ -5778,7 +5778,7 @@
     },
     {
       "id": 14283,
-      "name": "Río Negro",
+      "name": "Rio Negro",
       "name_default": "Rio Negro",
       "native": "Rio Negro",
       "type": "city",
@@ -5832,7 +5832,7 @@
     },
     {
       "id": 14344,
-      "name": "Rondón",
+      "name": "Rondon",
       "name_default": "Rondon",
       "native": "Rondon",
       "type": "city",
@@ -5850,7 +5850,7 @@
     },
     {
       "id": 14354,
-      "name": "Rosario de Ivaí",
+      "name": "Rosário do Ivaí",
       "name_default": "Rosário do Ivaí",
       "native": "Rosário do Ivaí",
       "type": "adm2",
@@ -5904,7 +5904,7 @@
     },
     {
       "id": 14401,
-      "name": "Salto del Itararé",
+      "name": "Salto do Itararé",
       "name_default": "Salto do Itararé",
       "native": "Salto do Itararé",
       "type": "city",
@@ -5922,7 +5922,7 @@
     },
     {
       "id": 14403,
-      "name": "Salto de Lontra",
+      "name": "Salto do Lontra",
       "name_default": "Salto do Lontra",
       "native": "Salto do Lontra",
       "type": "city",
@@ -5958,7 +5958,7 @@
     },
     {
       "id": 14434,
-      "name": "Santa Cecilia del Pavão",
+      "name": "Santa Cecília do Pavão",
       "name_default": "Santa Cecília do Pavão",
       "native": "Santa Cecília do Pavão",
       "type": "city",
@@ -5994,7 +5994,7 @@
     },
     {
       "id": 14464,
-      "name": "Santa Fe",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fé",
       "type": "city",
@@ -6012,7 +6012,7 @@
     },
     {
       "id": 14472,
-      "name": "Santa Elena",
+      "name": "Santa Helena",
       "name_default": "Santa Helena",
       "native": "Santa Helena",
       "type": "city",
@@ -6030,7 +6030,7 @@
     },
     {
       "id": 14479,
-      "name": "Santa Inés",
+      "name": "Santa Inês",
       "name_default": "Santa Inês",
       "native": "Santa Inês",
       "type": "city",
@@ -6066,7 +6066,7 @@
     },
     {
       "id": 14484,
-      "name": "Santa Isabel del Oeste",
+      "name": "Santa Izabel do Oeste",
       "name_default": "Santa Izabel do Oeste",
       "native": "Santa Izabel do Oeste",
       "type": "city",
@@ -6084,7 +6084,7 @@
     },
     {
       "id": 14499,
-      "name": "Santa Lucía",
+      "name": "Santa Lúcia",
       "name_default": "Santa Lúcia",
       "native": "Santa Lúcia",
       "type": "city",
@@ -6102,7 +6102,7 @@
     },
     {
       "id": 14513,
-      "name": "Santa María del Oeste",
+      "name": "Santa Maria do Oeste",
       "name_default": "Santa Maria do Oeste",
       "native": "Santa Maria do Oeste",
       "type": "city",
@@ -6138,7 +6138,7 @@
     },
     {
       "id": 14521,
-      "name": "Santa Mónica",
+      "name": "Santa Mônica",
       "name_default": "Santa Mônica",
       "native": "Santa Mônica",
       "type": "city",
@@ -6174,7 +6174,7 @@
     },
     {
       "id": 14562,
-      "name": "Santa Terezinha de Itaipú",
+      "name": "Santa Terezinha de Itaipu",
       "name_default": "Santa Terezinha de Itaipu",
       "native": "Santa Terezinha de Itaipu",
       "type": "city",
@@ -6210,7 +6210,7 @@
     },
     {
       "id": 14614,
-      "name": "Santo Antonio da Platina",
+      "name": "Santo Antônio da Platina",
       "name_default": "Santo Antônio da Platina",
       "native": "Santo Antônio da Platina",
       "type": "city",
@@ -6228,7 +6228,7 @@
     },
     {
       "id": 14624,
-      "name": "Santo Antonio do Caiuá",
+      "name": "Santo Antônio do Caiuá",
       "name_default": "Santo Antônio do Caiuá",
       "native": "Santo Antônio do Caiuá",
       "type": "city",
@@ -6246,7 +6246,7 @@
     },
     {
       "id": 14635,
-      "name": "Santo Antonio del Paraíso",
+      "name": "Santo Antônio do Paraíso",
       "name_default": "Santo Antônio do Paraíso",
       "native": "Santo Antônio do Paraíso",
       "type": "city",
@@ -6264,7 +6264,7 @@
     },
     {
       "id": 14640,
-      "name": "Santo Antonio del Sudoeste",
+      "name": "Santo Antônio do Sudoeste",
       "name_default": "Santo Antônio do Sudoeste",
       "native": "Santo Antônio do Sudoeste",
       "type": "city",
@@ -6282,7 +6282,7 @@
     },
     {
       "id": 14650,
-      "name": "Santo Ignacio",
+      "name": "Santo Inácio",
       "name_default": "Santo Inácio",
       "native": "Santo Inácio",
       "type": "city",
@@ -6300,7 +6300,7 @@
     },
     {
       "id": 14857,
-      "name": "San Carlos de Ivaí",
+      "name": "São Carlos do Ivaí",
       "name_default": "São Carlos do Ivaí",
       "native": "São Carlos do Ivaí",
       "type": "city",
@@ -6318,7 +6318,7 @@
     },
     {
       "id": 14929,
-      "name": "San Jerónimo da Serra",
+      "name": "São Jerônimo da Serra",
       "name_default": "São Jerônimo da Serra",
       "native": "São Jerônimo da Serra",
       "type": "city",
@@ -6336,7 +6336,7 @@
     },
     {
       "id": 14998,
-      "name": "San Juan",
+      "name": "São João",
       "name_default": "São João",
       "native": "São João",
       "type": "adm2",
@@ -6354,7 +6354,7 @@
     },
     {
       "id": 15026,
-      "name": "San Juan de Caiuá",
+      "name": "São João do Caiuá",
       "name_default": "São João do Caiuá",
       "native": "São João do Caiuá",
       "type": "city",
@@ -6372,7 +6372,7 @@
     },
     {
       "id": 15030,
-      "name": "San Juan de Ivaí",
+      "name": "São João do Ivaí",
       "name_default": "São João do Ivaí",
       "native": "São João do Ivaí",
       "type": "city",
@@ -6390,7 +6390,7 @@
     },
     {
       "id": 15047,
-      "name": "San Juan del Triunfo",
+      "name": "São João do Triunfo",
       "name_default": "São João do Triunfo",
       "native": "São João do Triunfo",
       "type": "city",
@@ -6408,7 +6408,7 @@
     },
     {
       "id": 14935,
-      "name": "San Jorge del Oeste",
+      "name": "São Jorge d'Oeste",
       "name_default": "São Jorge d'Oeste",
       "native": "São Jorge d'Oeste",
       "type": "city",
@@ -6426,7 +6426,7 @@
     },
     {
       "id": 14936,
-      "name": "San Jorge de Ivaí",
+      "name": "São Jorge do Ivaí",
       "name_default": "São Jorge do Ivaí",
       "native": "São Jorge do Ivaí",
       "type": "city",
@@ -6444,7 +6444,7 @@
     },
     {
       "id": 14937,
-      "name": "San Jorge del Patrocínio",
+      "name": "São Jorge do Patrocínio",
       "name_default": "São Jorge do Patrocínio",
       "native": "São Jorge do Patrocínio",
       "type": "city",
@@ -6552,7 +6552,7 @@
     },
     {
       "id": 15092,
-      "name": "San Miguel de Iguazú",
+      "name": "São Miguel do Iguaçu",
       "name_default": "São Miguel do Iguaçu",
       "native": "São Miguel do Iguaçu",
       "type": "city",
@@ -6570,7 +6570,7 @@
     },
     {
       "id": 15116,
-      "name": "San Pedro de Iguazú",
+      "name": "São Pedro do Iguaçu",
       "name_default": "São Pedro do Iguaçu",
       "native": "São Pedro do Iguaçu",
       "type": "city",
@@ -6588,7 +6588,7 @@
     },
     {
       "id": 15117,
-      "name": "San Pedro del Ivaí",
+      "name": "São Pedro do Ivaí",
       "name_default": "São Pedro do Ivaí",
       "native": "São Pedro do Ivaí",
       "type": "city",
@@ -6606,7 +6606,7 @@
     },
     {
       "id": 15118,
-      "name": "San Pedro del Paraná",
+      "name": "São Pedro do Paraná",
       "name_default": "São Pedro do Paraná",
       "native": "São Pedro do Paraná",
       "type": "city",
@@ -6642,7 +6642,7 @@
     },
     {
       "id": 15162,
-      "name": "Santo Tomé",
+      "name": "São Tomé",
       "name_default": "São Tomé",
       "native": "São Tomé",
       "type": "city",
@@ -6678,7 +6678,7 @@
     },
     {
       "id": 14668,
-      "name": "Sarandí",
+      "name": "Sarandi",
       "name_default": "Sarandi",
       "native": "Sarandi",
       "type": "city",
@@ -6716,7 +6716,7 @@
       "id": 14709,
       "name": "Sengés",
       "name_default": "Sengés",
-      "native": "Engolir",
+      "native": "Sengés",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6732,7 +6732,7 @@
     },
     {
       "id": 14749,
-      "name": "Serranópolis de Iguazú",
+      "name": "Serranópolis do Iguaçu",
       "name_default": "Serranópolis do Iguaçu",
       "native": "Serranópolis do Iguaçu",
       "type": "city",
@@ -6878,7 +6878,7 @@
       "id": 15234,
       "name": "Tapira",
       "name_default": "Tapira",
-      "native": "Pneu",
+      "native": "Tapira",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6912,7 +6912,7 @@
     },
     {
       "id": 15273,
-      "name": "Telemaco Borba",
+      "name": "Telêmaco Borba",
       "name_default": "Telêmaco Borba",
       "native": "Telêmaco Borba",
       "type": "city",
@@ -6930,7 +6930,7 @@
     },
     {
       "id": 15290,
-      "name": "Boa de tierra",
+      "name": "Terra Boa",
       "name_default": "Terra Boa",
       "native": "Terra Boa",
       "type": "city",
@@ -6966,7 +6966,7 @@
     },
     {
       "id": 15295,
-      "name": "Tierra Roxa",
+      "name": "Terra Roxa",
       "name_default": "Terra Roxa",
       "native": "Terra Roxa",
       "type": "city",
@@ -7002,7 +7002,7 @@
     },
     {
       "id": 15310,
-      "name": "Tijucas del Sur",
+      "name": "Tijucas do Sul",
       "name_default": "Tijucas do Sul",
       "native": "Tijucas do Sul",
       "type": "city",
@@ -7056,7 +7056,7 @@
     },
     {
       "id": 15371,
-      "name": "Tres Barras del Paraná",
+      "name": "Três Barras do Paraná",
       "name_default": "Três Barras do Paraná",
       "native": "Três Barras do Paraná",
       "type": "city",
@@ -7066,7 +7066,7 @@
       "latitude": "-25.42222000",
       "longitude": "-53.23148000",
       "timezone": "America/Sao_Paulo",
-      "wikiDataId": "Q22063767",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "PR",
       "state_id": 2022,
@@ -7112,7 +7112,7 @@
       "id": 15409,
       "name": "Tupãssi",
       "name_default": "Tupãssi",
-      "native": "Tuping",
+      "native": "Tupãssi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -7164,7 +7164,7 @@
     },
     {
       "id": 15451,
-      "name": "Umuarama",
+      "name": "Umarama",
       "name_default": "Umuarama",
       "native": "Umuarama",
       "type": "city",
@@ -7182,7 +7182,7 @@
     },
     {
       "id": 15459,
-      "name": "Unión de la Victoria",
+      "name": "União da Vitória",
       "name_default": "União da Vitória",
       "native": "União da Vitória",
       "type": "city",
@@ -7254,7 +7254,7 @@
     },
     {
       "id": 15536,
-      "name": "Vera Cruz del Oeste",
+      "name": "Vera Cruz do Oeste",
       "name_default": "Vera Cruz do Oeste",
       "native": "Vera Cruz do Oeste",
       "type": "adm2",
@@ -7326,7 +7326,7 @@
     },
     {
       "id": 15629,
-      "name": "Wenceslao Braz",
+      "name": "Wenceslau Braz",
       "name_default": "Wenceslau Braz",
       "native": "Wenceslau Braz",
       "type": "city",

@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 110998,
-      "name": "أفدنة خضراء",
+      "name": "Acres Green",
       "name_default": "Acres Green",
       "native": "Acres Green",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111070,
-      "name": "أكاديمية القوات الجوية",
+      "name": "أير فورس أكاديمي",
       "name_default": "Air Force Academy",
       "native": "Air Force Academy",
       "type": "city",
@@ -309,7 +309,7 @@
       "id": 111098,
       "name": "ألاموسا",
       "name_default": "Alamosa",
-      "native": "Sub -part",
+      "native": "Alamosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -325,9 +325,9 @@
     },
     {
       "id": 111100,
-      "name": "ألاموسا الشرقية",
+      "name": "Alamosa East",
       "name_default": "Alamosa East",
-      "native": "Submissive age",
+      "native": "Alamosa East",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -433,7 +433,7 @@
     },
     {
       "id": 111662,
-      "name": "الشفق القطبي",
+      "name": "أورورا",
       "name_default": "Aurora",
       "native": "Aurora",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111875,
-      "name": "البازلت",
+      "name": "باسالت",
       "name_default": "Basalt",
       "native": "Basalt",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 112376,
-      "name": "الغابة السوداء",
+      "name": "Black Forest",
       "name_default": "Black Forest",
       "native": "Black Forest",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 112600,
-      "name": "جلمود",
+      "name": "بولدر",
       "name_default": "Boulder",
       "native": "Boulder",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 112900,
-      "name": "برومفيلد",
+      "name": "مقاطعة بورمفيلد",
       "name_default": "Broomfield",
       "native": "Broomfield",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 112953,
-      "name": "فرشاة",
+      "name": "بروش",
       "name_default": "Brush",
       "native": "Brush",
       "type": "city",
@@ -687,7 +687,7 @@
       "id": 113004,
       "name": "بوينا فيستا",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
       "id": 113518,
       "name": "منتزه كاسكيد-شيبيتا",
       "name_default": "Cascade-Chipita Park",
-      "native": "Cascade-chippe park",
+      "native": "Cascade-Chipita Park",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -829,7 +829,7 @@
     },
     {
       "id": 113546,
-      "name": "كاسل باينز",
+      "name": "كاسل بينس",
       "name_default": "Castle Pines",
       "native": "Castle Pines",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 113547,
-      "name": "كاسل باينز الشمالية",
+      "name": "Castle Pines North",
       "name_default": "Castle Pines North",
       "native": "Castle Pines North",
       "type": "city",
@@ -903,7 +903,7 @@
       "id": 113625,
       "name": "سيداريدج",
       "name_default": "Cedaredge",
-      "native": "Cedardge",
+      "native": "Cedaredge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 113634,
-      "name": "الذكرى المئوية",
+      "name": "سينتينيال",
       "name_default": "Centennial",
       "native": "Centennial",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 113638,
-      "name": "مركز",
+      "name": "سنتر",
       "name_default": "Center",
       "native": "Center",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 113671,
-      "name": "المدينة المركزية",
+      "name": "سنترال سيتي",
       "name_default": "Central City",
       "native": "Central City",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 113863,
-      "name": "قرية شيري هيلز",
+      "name": "شيري هيلز فيليج",
       "name_default": "Cherry Hills Village",
       "native": "Cherry Hills Village",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 113930,
-      "name": "شايان ويلز",
+      "name": "شيين ويلز",
       "name_default": "Cheyenne Wells",
       "native": "Cheyenne Wells",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 114025,
-      "name": "تلال سيمارون",
+      "name": "Cimarron Hills",
       "name_default": "Cimarron Hills",
       "native": "Cimarron Hills",
       "type": "section",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 114455,
-      "name": "مدينة كولورادو",
+      "name": "Colorado City",
       "name_default": "Colorado City",
       "native": "Colorado City",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 114489,
-      "name": "وادي كولومبين",
+      "name": "كولومبين فالي",
       "name_default": "Columbine Valley",
       "native": "Columbine Valley",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 114526,
-      "name": "مدينة التجارة",
+      "name": "كوميرك سيتي",
       "name_default": "Commerce City",
       "native": "Commerce City",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 114552,
       "name": "كونيجوس",
       "name_default": "Conejos",
-      "native": "Rabbits",
+      "native": "Conejos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 114755,
-      "name": "كريج",
+      "name": "كريغ",
       "name_default": "Craig",
       "native": "Craig",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 114787,
-      "name": "كرييد",
+      "name": "كريد",
       "name_default": "Creede",
       "native": "Creede",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 114962,
-      "name": "داكونو",
+      "name": "داكونا",
       "name_default": "Dacono",
       "native": "Dacono",
       "type": "city",
@@ -1315,9 +1315,9 @@
     },
     {
       "id": 115190,
-      "name": "ديل نورتي",
+      "name": "ديل نورت",
       "name_default": "Del Norte",
-      "native": "Northern",
+      "native": "Del Norte",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1389,7 +1389,7 @@
       "id": 115442,
       "name": "دوف كريك",
       "name_default": "Dove Creek",
-      "native": "Where Creek",
+      "native": "Dove Creek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 115443,
-      "name": "وادي دوف",
+      "name": "Dove Valley",
       "name_default": "Dove Valley",
       "native": "Dove Valley",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 115565,
-      "name": "دورانجو",
+      "name": "دورانغو",
       "name_default": "Durango",
       "native": "Durango",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 115592,
-      "name": "إيدز",
+      "name": "إيدس",
       "name_default": "Eads",
       "native": "Eads",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 115597,
-      "name": "نسر",
+      "name": "إيغل",
       "name_default": "Eagle",
       "native": "Eagle",
       "type": "city",
@@ -1533,7 +1533,7 @@
       "id": 115925,
       "name": "الجبل",
       "name_default": "El Jebel",
-      "native": "The Jebel",
+      "native": "El Jebel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 116167,
-      "name": "إيري",
+      "name": "إري",
       "name_default": "Erie",
       "native": "Erie",
       "type": "city",
@@ -1621,9 +1621,9 @@
     },
     {
       "id": 116208,
-      "name": "استيس بارك",
+      "name": "إستيس بارك",
       "name_default": "Estes Park",
-      "native": "These park",
+      "native": "Estes Park",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 116344,
-      "name": "اللعب العادل",
+      "name": "فيربلاي",
       "name_default": "Fairplay",
       "native": "Fairplay",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 116585,
-      "name": "فلورنسا",
+      "name": "فلورنس",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 116701,
-      "name": "فورت كولينز",
+      "name": "فورت كولنز",
       "name_default": "Fort Collins",
       "native": "Fort Collins",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 116726,
-      "name": "حصن لوبتون",
+      "name": "فورت لوبتون",
       "name_default": "Fort Lupton",
       "native": "Fort Lupton",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 116733,
-      "name": "حصن مورغان",
+      "name": "Fort Morgan",
       "name_default": "Fort Morgan",
       "native": "Fort Morgan",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 116778,
-      "name": "نافورة",
+      "name": "فاونتن",
       "name_default": "Fountain",
       "native": "Fountain",
       "type": "city",
@@ -1911,7 +1911,7 @@
       "id": 116968,
       "name": "فرويتا",
       "name_default": "Fruita",
-      "native": "Fruit",
+      "native": "Fruita",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 117164,
-      "name": "جورج تاون",
+      "name": "جورجتاون",
       "name_default": "Georgetown",
       "native": "Georgetown",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 117209,
-      "name": "جيلكريست",
+      "name": "غيلكريست",
       "name_default": "Gilcrest",
       "native": "Gilcrest",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 117287,
-      "name": "جلينديل",
+      "name": "غليندال",
       "name_default": "Glendale",
       "native": "Glendale",
       "type": "city",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 117318,
-      "name": "جلينوود سبرينغز",
+      "name": "غلينوود سبرينغز",
       "name_default": "Glenwood Springs",
       "native": "Glenwood Springs",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 117346,
-      "name": "ذهبي",
+      "name": "غولدن",
       "name_default": "Golden",
       "native": "Golden",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 117586,
-      "name": "جريلي",
+      "name": "غريلي",
       "name_default": "Greeley",
       "native": "Greeley",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 117712,
-      "name": "قرية جرينوود",
+      "name": "غرينوود فيليج",
       "name_default": "Greenwood Village",
       "native": "Greenwood Village",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 117822,
-      "name": "جبس",
+      "name": "غيبسوم",
       "name_default": "Gypsum",
       "native": "Gypsum",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 118420,
-      "name": "مزرعة هايلاندز",
+      "name": "هايلندز رانش",
       "name_default": "Highlands Ranch",
       "native": "Highlands Ranch",
       "type": "city",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 118687,
-      "name": "ينابيع الكبريت الساخنة",
+      "name": "هت سولفور سبرينغز",
       "name_default": "Hot Sulphur Springs",
       "native": "Hot Sulphur Springs",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 119329,
-      "name": "جولسبورج",
+      "name": "جوليسبورغ",
       "name_default": "Julesburg",
       "native": "Julesburg",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 119422,
-      "name": "كينسبيرج",
+      "name": "كينيسبورغ",
       "name_default": "Keenesburg",
       "native": "Keenesburg",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 119519,
-      "name": "كيرسي",
+      "name": "كريسي",
       "name_default": "Kersey",
       "native": "Kersey",
       "type": "city",
@@ -2521,9 +2521,9 @@
     },
     {
       "id": 119716,
-      "name": "كرملينج",
+      "name": "كرملينغ",
       "name_default": "Kremmling",
-      "native": "Cremation",
+      "native": "Kremmling",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2539,9 +2539,9 @@
     },
     {
       "id": 119762,
-      "name": "المجلس العسكري",
+      "name": "لا جونتا",
       "name_default": "La Junta",
-      "native": "The Board",
+      "native": "La Junta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2557,9 +2557,9 @@
     },
     {
       "id": 119786,
-      "name": "لاسال",
+      "name": "لا سال",
       "name_default": "La Salle",
-      "native": "The room",
+      "native": "La Salle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2667,7 +2667,7 @@
       "id": 120153,
       "name": "لاس أنيماس",
       "name_default": "Las Animas",
-      "native": "The animas",
+      "native": "Las Animas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 120272,
-      "name": "ليدفيل الشمالية",
+      "name": "ليادفيل نورث",
       "name_default": "Leadville North",
       "native": "Leadville North",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 120545,
-      "name": "حديقة لينكولن",
+      "name": "Lincoln Park",
       "name_default": "Lincoln Park",
       "native": "Lincoln Park",
       "type": "city",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": 120732,
-      "name": "شجرة وحيدة",
+      "name": "لون تري",
       "name_default": "Lone Tree",
       "native": "Lone Tree",
       "type": "city",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 120754,
-      "name": "لونجمونت",
+      "name": "لونغمونت",
       "name_default": "Longmont",
       "native": "Longmont",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 121126,
-      "name": "ينابيع مانيتو",
+      "name": "مانيتو سبرينغز",
       "name_default": "Manitou Springs",
       "native": "Manitou Springs",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 121694,
-      "name": "خط الزوال",
+      "name": "ميريديان",
       "name_default": "Meridian",
       "native": "Meridian",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 122191,
-      "name": "نصب تذكاري",
+      "name": "مونومنت",
       "name_default": "Monument",
       "native": "Monument",
       "type": "city",
@@ -3079,7 +3079,7 @@
     },
     {
       "id": 122435,
-      "name": "قرية جبلية",
+      "name": "ماونتن فيليج",
       "name_default": "Mountain Village",
       "native": "Mountain Village",
       "type": "city",
@@ -3099,7 +3099,7 @@
       "id": 122611,
       "name": "هولندا",
       "name_default": "Nederland",
-      "native": "The Netherlands",
+      "native": "Nederland",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 122689,
-      "name": "نيوكاسل",
+      "name": "نيو كاسل",
       "name_default": "New Castle",
       "native": "New Castle",
       "type": "city",
@@ -3135,7 +3135,7 @@
       "id": 122911,
       "name": "نيوت",
       "name_default": "Niwot",
-      "native": "Nail",
+      "native": "Niwot",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 123155,
-      "name": "نورثجلين",
+      "name": "نورثغلين",
       "name_default": "Northglenn",
       "native": "Northglenn",
       "type": "city",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 123413,
-      "name": "أولاثي",
+      "name": "أولاث",
       "name_default": "Olathe",
       "native": "Olathe",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 123532,
-      "name": "مدينة أورشارد",
+      "name": "أورتشارد سيتي",
       "name_default": "Orchard City",
       "native": "Orchard City",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 123722,
-      "name": "باجوسا سبرينغز",
+      "name": "باغوسا سبرينغز",
       "name_default": "Pagosa Springs",
       "native": "Pagosa Springs",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 123738,
-      "name": "باليسيد",
+      "name": "باليساد",
       "name_default": "Palisade",
       "native": "Palisade",
       "type": "city",
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 123762,
-      "name": "بحيرة بالمر",
+      "name": "بالمر ليك",
       "name_default": "Palmer Lake",
       "native": "Palmer Lake",
       "type": "city",
@@ -3315,7 +3315,7 @@
       "id": 123813,
       "name": "باونيا",
       "name_default": "Paonia",
-      "native": "Pairo",
+      "native": "Paonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 123815,
-      "name": "المظلة",
+      "name": "باراشوت",
       "name_default": "Parachute",
       "native": "Parachute",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 124470,
-      "name": "حديقة بونديروسا",
+      "name": "Ponderosa Park",
       "name_default": "Ponderosa Park",
       "native": "Ponderosa Park",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 124881,
-      "name": "رانجلي",
+      "name": "رانغلي",
       "name_default": "Rangely",
       "native": "Rangely",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 125136,
-      "name": "بندقية",
+      "name": "ريفل",
       "name_default": "Rifle",
       "native": "Rifle",
       "type": "city",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 125485,
-      "name": "حديقة روكسبورو",
+      "name": "Roxborough Park",
       "name_default": "Roxborough Park",
       "native": "Roxborough Park",
       "type": "city",
@@ -3565,9 +3565,9 @@
     },
     {
       "id": 125591,
-      "name": "ساغواش",
+      "name": "ساغواتش",
       "name_default": "Saguache",
-      "native": "Saguche",
+      "native": "Saguache",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 126177,
-      "name": "قطع",
+      "name": "سيفيرانس",
       "name_default": "Severance",
       "native": "Severance",
       "type": "city",
@@ -3675,7 +3675,7 @@
       "id": 126320,
       "name": "شيريدان",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3693,7 +3693,7 @@
       "id": 126337,
       "name": "شيريلوود",
       "name_default": "Sherrelwood",
-      "native": "Shererelwood",
+      "native": "Sherrelwood",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 126419,
-      "name": "الطمي",
+      "name": "سيلت",
       "name_default": "Silt",
       "native": "Silt",
       "type": "city",
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 126548,
-      "name": "قرية سنوماس",
+      "name": "سنوماس فيليج",
       "name_default": "Snowmass Village",
       "native": "Snowmass Village",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 127003,
-      "name": "ينابيع ستيمبوت",
+      "name": "ستيمبوت سبرينغز",
       "name_default": "Steamboat Springs",
       "native": "Steamboat Springs",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 127030,
-      "name": "الجنيه الاسترليني",
+      "name": "سترلينغ",
       "name_default": "Sterling",
       "native": "Sterling",
       "type": "city",
@@ -3907,7 +3907,7 @@
     },
     {
       "id": 127281,
-      "name": "أرقى",
+      "name": "سوبريور",
       "name_default": "Superior",
       "native": "Superior",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 127931,
-      "name": "بحيرات التوأم",
+      "name": "Twin Lakes",
       "name_default": "Twin Lakes",
       "native": "Twin Lakes",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 128076,
-      "name": "فايل",
+      "name": "فيل",
       "name_default": "Vail",
       "native": "Vail",
       "type": "city",
@@ -4141,7 +4141,7 @@
     },
     {
       "id": 128778,
-      "name": "ويلينغتون",
+      "name": "ولينغتون",
       "name_default": "Wellington",
       "native": "Wellington",
       "type": "city",
@@ -4249,7 +4249,7 @@
     },
     {
       "id": 129533,
-      "name": "حديقة وودلاند",
+      "name": "وودلاند بارك",
       "name_default": "Woodland Park",
       "native": "Woodland Park",
       "type": "city",

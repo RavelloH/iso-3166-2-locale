@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 20498,
-      "name": "Албания",
+      "name": "Альбания",
       "name_default": "Albania",
       "native": "Albania",
       "type": "adm2",
@@ -93,9 +93,9 @@
     },
     {
       "id": 20776,
-      "name": "Дибулла",
+      "name": "Дибулья",
       "name_default": "Dibulla",
-      "native": "Mordaz",
+      "native": "Dibulla",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 20777,
-      "name": "Distracción",
+      "name": "Дистраксьон",
       "name_default": "Distracción",
       "native": "Distracción",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 20812,
-      "name": "Эль Молино",
+      "name": "Эль-Молино",
       "name_default": "El Molino",
       "native": "El Molino",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 21056,
-      "name": "Удобрение",
+      "name": "Манауре",
       "name_default": "Manaure",
       "native": "Manaure",
       "type": "adm2",
@@ -275,7 +275,7 @@
       "id": 21573,
       "name": "Урибия",
       "name_default": "Uribia",
-      "native": "Uriben",
+      "native": "Uribia",
       "type": "city",
       "level": null,
       "parent_id": null,

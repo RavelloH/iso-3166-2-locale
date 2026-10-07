@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62295,
-      "name": "Ville d'Aenon",
+      "name": "Aenon Town",
       "name_default": "Aenon Town",
       "native": "Aenon Town",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62302,
-      "name": "Ruelle",
+      "name": "Alley",
       "name_default": "Alley",
       "native": "Alley",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 62331,
-      "name": "Banques",
+      "name": "Banks",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 62449,
-      "name": "Château",
+      "name": "Chateau",
       "name_default": "Chateau",
       "native": "Chateau",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 62463,
-      "name": "Morceau de café",
+      "name": "Coffee Piece",
       "name_default": "Coffee Piece",
       "native": "Coffee Piece",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62485,
-      "name": "Barreur",
+      "name": "Coxswain",
       "name_default": "Coxswain",
       "native": "Coxswain",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 62491,
-      "name": "Rivière Crooked",
+      "name": "Crooked River",
       "name_default": "Crooked River",
       "native": "Crooked River",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 62497,
-      "name": "Colline Curatoe",
+      "name": "Curatoe Hill",
       "name_default": "Curatoe Hill",
       "native": "Curatoe Hill",
       "type": "adm1",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62565,
-      "name": "Quatre chemins",
+      "name": "Four Paths",
       "name_default": "Four Paths",
       "native": "Four Paths",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62585,
-      "name": "Donne-moi un peu",
+      "name": "Gimme-me-bit",
       "name_default": "Gimme-me-bit",
       "native": "Gimme-me-bit",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 62606,
-      "name": "Colline de gravier",
+      "name": "Gravel Hill",
       "name_default": "Gravel Hill",
       "native": "Gravel Hill",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 62640,
-      "name": "Danger",
+      "name": "Hazard",
       "name_default": "Hazard",
       "native": "Hazard",
       "type": "adm1",
@@ -689,7 +689,7 @@
       "id": 62683,
       "name": "Kellits",
       "name_default": "Kellits",
-      "native": "Clock",
+      "native": "Kellits",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 62712,
-      "name": "Limite",
+      "name": "Limit",
       "name_default": "Limit",
       "native": "Limit",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 62727,
-      "name": "Parc de Longville",
+      "name": "Longville Park",
       "name_default": "Longville Park",
       "native": "Longville Park",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 62764,
-      "name": "Stylo de mai",
+      "name": "May Pen",
       "name_default": "May Pen",
       "native": "May Pen",
       "type": "adm1",
@@ -795,7 +795,7 @@
     },
     {
       "id": 62765,
-      "name": "Peut-être que la plume est appropriée",
+      "name": "May Pen Proper",
       "name_default": "May Pen Proper",
       "native": "May Pen Proper",
       "type": "adm1",
@@ -813,7 +813,7 @@
     },
     {
       "id": 62776,
-      "name": "Rivière Milk",
+      "name": "Milk River",
       "name_default": "Milk River",
       "native": "Milk River",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 62777,
-      "name": "Hauteurs minérales",
+      "name": "Mineral Heights",
       "name_default": "Mineral Heights",
       "native": "Mineral Heights",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 62790,
-      "name": "Forêt de Morgan",
+      "name": "Morgans Forest",
       "name_default": "Morgans Forest",
       "native": "Morgans Forest",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 62791,
-      "name": "Col de Morgans",
+      "name": "Morgans Pass",
       "name_default": "Morgans Pass",
       "native": "Morgans Pass",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 62793,
-      "name": "Mont Airy",
+      "name": "Mount Airy",
       "name_default": "Mount Airy",
       "native": "Mount Airy",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62812,
-      "name": "Nouveau Denbigh",
+      "name": "New Denbigh",
       "name_default": "New Denbigh",
       "native": "New Denbigh",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62817,
-      "name": "Nouveau Longsville",
+      "name": "New Longsville",
       "name_default": "New Longsville",
       "native": "New Longsville",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62836,
-      "name": "Vieux Denbigh",
+      "name": "Old Denbigh",
       "name_default": "Old Denbigh",
       "native": "Old Denbigh",
       "type": "adm1",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62847,
-      "name": "Magasin Osbourne",
+      "name": "Osbourne Store",
       "name_default": "Osbourne Store",
       "native": "Osbourne Store",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62848,
-      "name": "cachemire",
+      "name": "Paisley",
       "name_default": "Paisley",
       "native": "Paisley",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62849,
-      "name": "Croix de Palmers",
+      "name": "Palmers Cross",
       "name_default": "Palmers Cross",
       "native": "Palmers Cross",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62858,
-      "name": "Une partie de Banana Ground",
+      "name": "Part of Banana Ground",
       "name_default": "Part of Banana Ground",
       "native": "Part of Banana Ground",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62859,
-      "name": "Une partie du château de Douglas",
+      "name": "Part of Douglas Castle",
       "name_default": "Part of Douglas Castle",
       "native": "Part of Douglas Castle",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 62861,
-      "name": "Une partie de Kellits",
+      "name": "Part of Kellits",
       "name_default": "Part of Kellits",
       "native": "Part of Kellits",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 62875,
-      "name": "Fanions",
+      "name": "Pennants",
       "name_default": "Pennants",
       "native": "Pennants",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62886,
-      "name": "Vallée agréable",
+      "name": "Pleasant Valley",
       "name_default": "Pleasant Valley",
       "native": "Pleasant Valley",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62897,
-      "name": "Chalet Portland",
+      "name": "Portland Cottage",
       "name_default": "Portland Cottage",
       "native": "Portland Cottage",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62910,
-      "name": "Hippodrome",
+      "name": "Race Course",
       "name_default": "Race Course",
       "native": "Race Course",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 62930,
-      "name": "Parc Richmond",
+      "name": "Richmond Park",
       "name_default": "Richmond Park",
       "native": "Richmond Park",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 62942,
-      "name": "Rocher",
+      "name": "Rock",
       "name_default": "Rock",
       "native": "Rock",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62944,
-      "name": "Rivière Rock",
+      "name": "Rock River",
       "name_default": "Rock River",
       "native": "Rock River",
       "type": "adm1",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 62946,
-      "name": "Pointe Rocheuse",
+      "name": "Rocky Point",
       "name_default": "Rocky Point",
       "native": "Rocky Point",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62964,
-      "name": "Rivière Salée",
+      "name": "Salt River",
       "name_default": "Salt River",
       "native": "Salt River",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 62969,
-      "name": "Baie de Sable",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 62984,
-      "name": "Étang à carex",
+      "name": "Sedgepond",
       "name_default": "Sedgepond",
       "native": "Sedgepond",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 63048,
-      "name": "Ville de Thompson",
+      "name": "Thompson Town",
       "name_default": "Thompson Town",
       "native": "Thompson Town",
       "type": "city",
@@ -1461,9 +1461,9 @@
     },
     {
       "id": 63053,
-      "name": "péage",
+      "name": "Tollgate",
       "name_default": "Tollgate",
-      "native": "Toll street",
+      "native": "Tollgate",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 63061,
-      "name": "Feu de signalisation",
+      "name": "Treadlight",
       "name_default": "Treadlight",
       "native": "Treadlight",
       "type": "adm1",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 63071,
-      "name": "Tourneurs",
+      "name": "Turners",
       "name_default": "Turners",
       "native": "Turners",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 63087,
-      "name": "Voie d'eau",
+      "name": "Water Lane",
       "name_default": "Water Lane",
       "native": "Water Lane",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 63127,
-      "name": "Ville de York",
+      "name": "York Town",
       "name_default": "York Town",
       "native": "York Town",
       "type": "city",

@@ -358,7 +358,7 @@
     },
     {
       "id": 97700,
-      "name": "足野",
+      "name": "阿舒基诺",
       "name_default": "Ashukino",
       "native": "Ашукино",
       "type": "city",
@@ -502,7 +502,7 @@
     },
     {
       "id": 97800,
-      "name": "巴尔维卡",
+      "name": "巴尔维哈",
       "name_default": "Barvikha",
       "native": "Барвиха",
       "type": "city",
@@ -538,7 +538,7 @@
     },
     {
       "id": 97858,
-      "name": "贝卢穆特",
+      "name": "别洛奥穆特",
       "name_default": "Beloomut",
       "native": "Белоомут",
       "type": "city",
@@ -646,7 +646,7 @@
     },
     {
       "id": 98013,
-      "name": "大格雷兹洛沃",
+      "name": "Bol’shoye Gryzlovo",
       "name_default": "Bol’shoye Gryzlovo",
       "native": "Большое Грызлово",
       "type": "city",
@@ -736,7 +736,7 @@
     },
     {
       "id": 98098,
-      "name": "贝科沃",
+      "name": "莫斯科州贝科沃镇",
       "name_default": "Bykovo",
       "native": "Быково",
       "type": "city",
@@ -826,7 +826,7 @@
     },
     {
       "id": 98187,
-      "name": "切鲁斯蒂",
+      "name": "切鲁斯季",
       "name_default": "Cherusti",
       "native": "Черусти",
       "type": "city",
@@ -934,7 +934,7 @@
     },
     {
       "id": 98255,
-      "name": "德德涅沃",
+      "name": "杰杰涅沃",
       "name_default": "Dedenëvo",
       "native": "Деденево",
       "type": "city",
@@ -1114,7 +1114,7 @@
     },
     {
       "id": 98325,
-      "name": "德雷兹娜",
+      "name": "德列兹纳",
       "name_default": "Drezna",
       "native": "Дрезна",
       "type": "city",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": 98385,
-      "name": "叶列克特罗戈尔斯克",
+      "name": "埃列克特罗戈尔斯克",
       "name_default": "Elektrogorsk",
       "native": "Электрогорск",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 98387,
-      "name": "埃列克特鲁格利",
+      "name": "埃列克特罗乌格利",
       "name_default": "Elektrougli",
       "native": "Электроугли",
       "type": "city",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": 98668,
-      "name": "伊梅尼·楚鲁皮",
+      "name": "秋鲁帕村",
       "name_default": "Imeni Tsyurupy",
       "native": "Имени Цюрупы",
       "type": "city",
@@ -1582,7 +1582,7 @@
     },
     {
       "id": 98671,
-      "name": "伊梅尼·沃罗夫斯科戈",
+      "name": "沃罗夫斯基镇",
       "name_default": "Imeni Vorovskogo",
       "native": "Имени Воровского",
       "type": "city",
@@ -1690,7 +1690,7 @@
     },
     {
       "id": 98893,
-      "name": "卡西拉",
+      "name": "卡希拉",
       "name_default": "Kashira",
       "native": "Кашира",
       "type": "adm2",
@@ -2122,7 +2122,7 @@
     },
     {
       "id": 99285,
-      "name": "红波伊马",
+      "name": "Krasnaya Poyma",
       "name_default": "Krasnaya Poyma",
       "native": "Красная Пойма",
       "type": "city",
@@ -2140,7 +2140,7 @@
     },
     {
       "id": 99291,
-      "name": "红军",
+      "name": "红军城",
       "name_default": "Krasnoarmeysk",
       "native": "Красноармейск",
       "type": "city",
@@ -2230,7 +2230,7 @@
     },
     {
       "id": 99374,
-      "name": "红特卡奇",
+      "name": "Krasnyy Tkach",
       "name_default": "Krasnyy Tkach",
       "native": "Красный Ткач",
       "type": "city",
@@ -2409,24 +2409,6 @@
       "country_id": 182
     },
     {
-      "id": 99575,
-      "name": "列宁山",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 99595,
       "name": "列斯诺伊",
       "name_default": "Lesnoy",
@@ -2446,7 +2428,7 @@
     },
     {
       "id": 99597,
-      "name": "列斯诺伊·戈罗多克",
+      "name": "列斯诺伊镇",
       "name_default": "Lesnoy Gorodok",
       "native": "Лесной Городок",
       "type": "city",
@@ -2644,7 +2626,7 @@
     },
     {
       "id": 99711,
-      "name": "利特卡里诺",
+      "name": "雷特卡里诺",
       "name_default": "Lytkarino",
       "native": "Лыткарино",
       "type": "adm2",
@@ -2752,7 +2734,7 @@
     },
     {
       "id": 99756,
-      "name": "马里诺",
+      "name": "马利诺",
       "name_default": "Malino",
       "native": "Малино",
       "type": "city",
@@ -3076,7 +3058,7 @@
     },
     {
       "id": 100051,
-      "name": "纳克哈比诺",
+      "name": "纳哈比诺",
       "name_default": "Nakhabino",
       "native": "Нахабино",
       "type": "city",
@@ -3346,7 +3328,7 @@
     },
     {
       "id": 100341,
-      "name": "新拜特",
+      "name": "Novyy Byt",
       "name_default": "Novyy Byt",
       "native": "Новый Быт",
       "type": "city",
@@ -4390,7 +4372,7 @@
     },
     {
       "id": 101059,
-      "name": "尔扎夫基",
+      "name": "勒扎夫基",
       "name_default": "Rzhavki",
       "native": "Ржавки",
       "type": "city",
@@ -4462,7 +4444,7 @@
     },
     {
       "id": 101160,
-      "name": "塞利亚蒂诺",
+      "name": "谢利亚季诺",
       "name_default": "Selyatino",
       "native": "Селятино",
       "type": "city",
@@ -4660,7 +4642,7 @@
     },
     {
       "id": 101237,
-      "name": "沙霍夫斯卡娅",
+      "name": "沙霍夫斯卡亚",
       "name_default": "Shakhovskaya",
       "native": "Шаховская",
       "type": "adm2",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "谢尔科沃",
+      "name": "晓尔科沃",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -4840,7 +4822,7 @@
     },
     {
       "id": 101388,
-      "name": "斯科尔科沃",
+      "name": "斯尔科沃",
       "name_default": "Skolkovo",
       "native": "Сколково",
       "type": "city",
@@ -4876,7 +4858,7 @@
     },
     {
       "id": 101422,
-      "name": "斯内吉里",
+      "name": "斯涅吉里",
       "name_default": "Snegiri",
       "native": "Снегири",
       "type": "city",
@@ -4894,7 +4876,7 @@
     },
     {
       "id": 101430,
-      "name": "索弗里诺",
+      "name": "索夫里诺",
       "name_default": "Sofrino",
       "native": "Софрино",
       "type": "city",
@@ -4966,7 +4948,7 @@
     },
     {
       "id": 101560,
-      "name": "斯塔拉亚·库帕夫娜",
+      "name": "旧库帕夫纳",
       "name_default": "Staraya Kupavna",
       "native": "Старая Купавна",
       "type": "city",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "沃斯特里亚科沃",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "维索科夫斯克",
       "name_default": "Vysokovsk",
@@ -5580,7 +5544,7 @@
       "id": 102477,
       "name": "薯",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5704,7 +5668,7 @@
     },
     {
       "id": 102583,
-      "name": "尤比列伊尼",
+      "name": "尤比列伊内",
       "name_default": "Yubileyny",
       "native": "Юбилейный",
       "type": "city",
@@ -5812,7 +5776,7 @@
     },
     {
       "id": 102700,
-      "name": "泽列诺格拉德斯基",
+      "name": "泽列诺格拉茨基",
       "name_default": "Zelenogradskiy",
       "native": "Зеленоградский",
       "type": "city",
@@ -5938,7 +5902,7 @@
     },
     {
       "id": 102778,
-      "name": "兹韦尼戈罗德",
+      "name": "兹韦尼哥罗德",
       "name_default": "Zvenigorod",
       "native": "Звенигород",
       "type": "city",

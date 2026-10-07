@@ -141,7 +141,7 @@
   "cities": [
     {
       "id": 3916,
-      "name": "پارک اکتون",
+      "name": "اکتون پارک",
       "name_default": "Acton Park",
       "native": "Acton Park",
       "type": "section",
@@ -159,7 +159,7 @@
     },
     {
       "id": 4047,
-      "name": "آستین فری",
+      "name": "آستینز فری",
       "name_default": "Austins Ferry",
       "native": "Austins Ferry",
       "type": "city",
@@ -177,7 +177,7 @@
     },
     {
       "id": 4062,
-      "name": "بغداد",
+      "name": "بگداد",
       "name_default": "Bagdad",
       "native": "Bagdad",
       "type": "city",
@@ -195,7 +195,7 @@
     },
     {
       "id": 4145,
-      "name": "نقطه باتری",
+      "name": "Battery Point",
       "name_default": "Battery Point",
       "native": "Battery Point",
       "type": "section",
@@ -213,7 +213,7 @@
     },
     {
       "id": 4160,
-      "name": "بیکنزفیلد",
+      "name": "بیکنفیلد",
       "name_default": "Beaconsfield",
       "native": "Beaconsfield",
       "type": "city",
@@ -249,7 +249,7 @@
     },
     {
       "id": 4200,
-      "name": "بلریو",
+      "name": "بلرایو",
       "name_default": "Bellerive",
       "native": "Bellerive",
       "type": "city",
@@ -285,7 +285,7 @@
     },
     {
       "id": 4289,
-      "name": "خلیج بلکمنز",
+      "name": "بلکمنز بی",
       "name_default": "Blackmans Bay",
       "native": "Blackmans Bay",
       "type": "section",
@@ -339,7 +339,7 @@
     },
     {
       "id": 4398,
-      "name": "بریج‌واتر",
+      "name": "بریج واتر",
       "name_default": "Bridgewater",
       "native": "Bridgewater",
       "type": "section",
@@ -357,7 +357,7 @@
     },
     {
       "id": 4399,
-      "name": "بریجپورت",
+      "name": "بریدپورت",
       "name_default": "Bridport",
       "native": "Bridport",
       "type": "city",
@@ -573,7 +573,7 @@
     },
     {
       "id": 4911,
-      "name": "کوری",
+      "name": "کاری",
       "name_default": "Currie",
       "native": "Currie",
       "type": "adm2",
@@ -609,7 +609,7 @@
     },
     {
       "id": 4967,
-      "name": "دلورین",
+      "name": "دیلورین",
       "name_default": "Deloraine",
       "native": "Deloraine",
       "type": "city",
@@ -627,7 +627,7 @@
     },
     {
       "id": 4981,
-      "name": "دره درونت",
+      "name": "Derwent Valley",
       "name_default": "Derwent Valley",
       "native": "Derwent Valley",
       "type": "city",
@@ -701,7 +701,7 @@
       "id": 5052,
       "name": "دینیرن",
       "name_default": "Dynnyrne",
-      "native": "Tight",
+      "native": "Dynnyrne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -753,7 +753,7 @@
     },
     {
       "id": 5191,
-      "name": "ایواندیل",
+      "name": "اواندیل",
       "name_default": "Evandale",
       "native": "Evandale",
       "type": "city",
@@ -843,7 +843,7 @@
     },
     {
       "id": 5320,
-      "name": "خلیج گیلستون",
+      "name": "Geilston Bay",
       "name_default": "Geilston Bay",
       "native": "Geilston Bay",
       "type": "section",
@@ -879,7 +879,7 @@
     },
     {
       "id": 5350,
-      "name": "گلامورگان/اسپرینگ بی",
+      "name": "شورای گلامورگان اسپرینگ",
       "name_default": "Glamorgan/Spring Bay",
       "native": "Glamorgan/Spring Bay",
       "type": "area",
@@ -933,7 +933,7 @@
     },
     {
       "id": 5438,
-      "name": "گرانتون",
+      "name": "گرنتن",
       "name_default": "Granton",
       "native": "Granton",
       "type": "section",
@@ -951,9 +951,9 @@
     },
     {
       "id": 5503,
-      "name": "هادسپن",
+      "name": "هدسپن",
       "name_default": "Hadspen",
-      "native": "Had -pear",
+      "native": "Hadspen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1023,7 +1023,7 @@
     },
     {
       "id": 5622,
-      "name": "مرکز شهر هوبارت",
+      "name": "Hobart city centre",
       "name_default": "Hobart city centre",
       "native": "Hobart city centre",
       "type": "section",
@@ -1041,7 +1041,7 @@
     },
     {
       "id": 5660,
-      "name": "هوره",
+      "name": "هورا",
       "name_default": "Howrah",
       "native": "Howrah",
       "type": "section",
@@ -1059,9 +1059,9 @@
     },
     {
       "id": 5673,
-      "name": "دره هون",
+      "name": "Huon Valley",
       "name_default": "Huon Valley",
-      "native": "Eat Valley",
+      "native": "Huon Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1077,9 +1077,9 @@
     },
     {
       "id": 5674,
-      "name": "هاونویل",
+      "name": "هانویل",
       "name_default": "Huonville",
-      "native": "Badly",
+      "native": "Huonville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1131,7 +1131,7 @@
     },
     {
       "id": 5865,
-      "name": "جزیره کینگ",
+      "name": "King Island",
       "name_default": "King Island",
       "native": "King Island",
       "type": "city",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": 5867,
-      "name": "کینگبورو",
+      "name": "شهرداری کینگبورو",
       "name_default": "Kingborough",
       "native": "Kingborough",
       "type": "area",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": 5887,
-      "name": "ساحل کینگستون",
+      "name": "کینگستون بیچ",
       "name_default": "Kingston Beach",
       "native": "Kingston Beach",
       "type": "section",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": 5985,
-      "name": "لانستون",
+      "name": "لانسستون",
       "name_default": "Launceston",
       "native": "Launceston",
       "type": "adm2",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": 5986,
-      "name": "مرکز شهر لانسستون",
+      "name": "Launceston city centre",
       "name_default": "Launceston city centre",
       "native": "Launceston city centre",
       "type": "section",
@@ -1295,7 +1295,7 @@
       "id": 6000,
       "name": "لگنا",
       "name_default": "Legana",
-      "native": "relieved",
+      "native": "Legana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1311,7 +1311,7 @@
     },
     {
       "id": 6005,
-      "name": "دره لنا",
+      "name": "Lenah Valley",
       "name_default": "Lenah Valley",
       "native": "Lenah Valley",
       "type": "section",
@@ -1329,7 +1329,7 @@
     },
     {
       "id": 6028,
-      "name": "لیندیسفارن",
+      "name": "لیندیزفارن",
       "name_default": "Lindisfarne",
       "native": "Lindisfarne",
       "type": "section",
@@ -1419,7 +1419,7 @@
     },
     {
       "id": 6229,
-      "name": "دره مئاندر",
+      "name": "Meander Valley",
       "name_default": "Meander Valley",
       "native": "Meander Valley",
       "type": "city",
@@ -1439,7 +1439,7 @@
       "id": 6268,
       "name": "میاندتا",
       "name_default": "Miandetta",
-      "native": "Mianadet",
+      "native": "Miandetta",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1455,7 +1455,7 @@
     },
     {
       "id": 6282,
-      "name": "نقطه میدوی",
+      "name": "Midway Point",
       "name_default": "Midway Point",
       "native": "Midway Point",
       "type": "city",
@@ -1545,7 +1545,7 @@
     },
     {
       "id": 6446,
-      "name": "کوه نلسون",
+      "name": "Mount Nelson",
       "name_default": "Mount Nelson",
       "native": "Mount Nelson",
       "type": "section",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": 6459,
-      "name": "کوه استوارت",
+      "name": "Mount Stuart",
       "name_default": "Mount Stuart",
       "native": "Mount Stuart",
       "type": "section",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": 6561,
-      "name": "شهر جدید",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "section",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": 6632,
-      "name": "شمال هوبارت",
+      "name": "North Hobart",
       "name_default": "North Hobart",
       "native": "North Hobart",
       "type": "section",
@@ -1743,7 +1743,7 @@
     },
     {
       "id": 6715,
-      "name": "ساحل قدیمی",
+      "name": "اولد بیچ",
       "name_default": "Old Beach",
       "native": "Old Beach",
       "type": "section",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 6828,
-      "name": "پنگوئن",
+      "name": "پینگوئین",
       "name_default": "Penguin",
       "native": "Penguin",
       "type": "city",
@@ -1797,7 +1797,7 @@
     },
     {
       "id": 6839,
-      "name": "پرت",
+      "name": "پرث",
       "name_default": "Perth",
       "native": "Perth",
       "type": "city",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": 6943,
-      "name": "کوئینستاون",
+      "name": "کوئینزتاون",
       "name_default": "Queenstown",
       "native": "Queenstown",
       "type": "city",
@@ -1869,7 +1869,7 @@
     },
     {
       "id": 6959,
-      "name": "رانلاگ",
+      "name": "رانلاغ",
       "name_default": "Ranelagh",
       "native": "Ranelagh",
       "type": "city",
@@ -1979,7 +1979,7 @@
       "id": 7050,
       "name": "راکبی",
       "name_default": "Rokeby",
-      "native": "Rake",
+      "native": "Rokeby",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2067,7 +2067,7 @@
     },
     {
       "id": 7141,
-      "name": "خلیج سندی",
+      "name": "سند بی",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "section",
@@ -2103,7 +2103,7 @@
     },
     {
       "id": 7185,
-      "name": "ساحل هفت مایلی",
+      "name": "Seven Mile Beach",
       "name_default": "Seven Mile Beach",
       "native": "Seven Mile Beach",
       "type": "city",
@@ -2175,7 +2175,7 @@
     },
     {
       "id": 7231,
-      "name": "اسمیتتون",
+      "name": "اسمیثتن",
       "name_default": "Smithton",
       "native": "Smithton",
       "type": "city",
@@ -2193,7 +2193,7 @@
     },
     {
       "id": 7234,
-      "name": "دنج",
+      "name": "اسناگ",
       "name_default": "Snug",
       "native": "Snug",
       "type": "city",
@@ -2231,7 +2231,7 @@
       "id": 7246,
       "name": "سورل",
       "name_default": "Sorell",
-      "native": "Sore",
+      "native": "Sorell",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2247,7 +2247,7 @@
     },
     {
       "id": 7265,
-      "name": "جنوب هوبارت",
+      "name": "South Hobart",
       "name_default": "South Hobart",
       "native": "South Hobart",
       "type": "section",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": 7272,
-      "name": "جنوب لانستون",
+      "name": "South Launceston",
       "name_default": "South Launceston",
       "native": "South Launceston",
       "type": "section",
@@ -2301,9 +2301,9 @@
     },
     {
       "id": 7306,
-      "name": "اسپریتون",
+      "name": "اسپری‌تن",
       "name_default": "Spreyton",
-      "native": "Spray",
+      "native": "Spreyton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2319,7 +2319,7 @@
     },
     {
       "id": 7326,
-      "name": "سنت هلنز",
+      "name": "سینت هلنز",
       "name_default": "St Helens",
       "native": "St Helens",
       "type": "city",
@@ -2355,7 +2355,7 @@
     },
     {
       "id": 7441,
-      "name": "طارونه",
+      "name": "تارونا",
       "name_default": "Taroona",
       "native": "Taroona",
       "type": "section",
@@ -2427,7 +2427,7 @@
     },
     {
       "id": 7583,
-      "name": "ساحل ترنرز",
+      "name": "Turners Beach",
       "name_default": "Turners Beach",
       "native": "Turners Beach",
       "type": "city",
@@ -2445,7 +2445,7 @@
     },
     {
       "id": 7599,
-      "name": "اولورستون",
+      "name": "آلورستون",
       "name_default": "Ulverstone",
       "native": "Ulverstone",
       "type": "city",
@@ -2535,7 +2535,7 @@
     },
     {
       "id": 7782,
-      "name": "ساحل غربی",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast",
       "type": "city",
@@ -2643,7 +2643,7 @@
     },
     {
       "id": 7818,
-      "name": "وستبری",
+      "name": "وست بری",
       "name_default": "Westbury",
       "native": "Westbury",
       "type": "city",
@@ -2661,9 +2661,9 @@
     },
     {
       "id": 7975,
-      "name": "وینیارد",
+      "name": "واینارد",
       "name_default": "Wynyard",
-      "native": "White",
+      "native": "Wynyard",
       "type": "city",
       "level": null,
       "parent_id": null,

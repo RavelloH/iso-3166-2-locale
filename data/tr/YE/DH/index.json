@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "Cevap",
+      "name": "‘Ans",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 130691,
-      "name": "El Hada",
+      "name": "Al Hada",
       "name_default": "Al Hada",
       "native": "الهدا",
       "type": "area",
@@ -96,7 +96,7 @@
       "name": "Al Manar",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -111,7 +111,7 @@
     },
     {
       "id": 130761,
-      "name": "Al-Medy Köyü قرية المدي",
+      "name": "Al-Medy Village قرية المدي",
       "name_default": "Al-Medy Village قرية المدي",
       "native": "قرية المادى قرية المادى",
       "type": "village",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130834,
-      "name": "Dhamār",
+      "name": "Zamar",
       "name_default": "Dhamār",
       "native": "ذمار",
       "type": "adm1",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130873,
-      "name": "Cebel Ash Şark",
+      "name": "Jabal Ash sharq",
       "name_default": "Jabal Ash sharq",
       "native": "جبل الشرق",
       "type": "area",
@@ -201,7 +201,7 @@
     },
     {
       "id": 130904,
-      "name": "Mağrip Cevap",
+      "name": "Maghirib Ans",
       "name_default": "Maghirib Ans",
       "native": "المغرب أنس",
       "type": "area",
@@ -255,7 +255,7 @@
     },
     {
       "id": 131000,
-      "name": "Vusab El Ali",
+      "name": "Wusab Al Ali",
       "name_default": "Wusab Al Ali",
       "native": "وصاب العلي",
       "type": "area",

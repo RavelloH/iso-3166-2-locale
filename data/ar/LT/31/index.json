@@ -54,5 +54,24 @@
     "wikiDataId": "Q3685410",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66650,
+      "name": "بالانغا",
+      "name_default": "Palanga",
+      "native": "Palanga",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18132,
+      "latitude": "55.91750000",
+      "longitude": "21.06861000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2047414",
+      "country_code": "LT",
+      "state_code": "31",
+      "state_id": 1588,
+      "country_id": 126
+    }
+  ]
 }

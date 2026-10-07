@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 22368,
+      "name": "هولشوو",
+      "name_default": "Holešov",
+      "native": "Holešov",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11616,
+      "latitude": "49.33331000",
+      "longitude": "17.57832000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q961325",
+      "country_code": "CZ",
+      "state_code": "721",
+      "state_id": 4593,
+      "country_id": 58
+    },
+    {
       "id": 22434,
       "name": "هولین",
       "name_default": "Hulín",
@@ -75,7 +93,7 @@
     },
     {
       "id": 22560,
-      "name": "کرومریژ",
+      "name": "کرمیه‌رژیژ",
       "name_default": "Kroměříž",
       "native": "Kroměříž",
       "type": "city",
@@ -95,7 +113,7 @@
       "id": 22578,
       "name": "کواسیتسه",
       "name_default": "Kvasice",
-      "native": "Kvasinky",
+      "native": "Kvasice",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +129,7 @@
     },
     {
       "id": 23023,
-      "name": "راتاجه",
+      "name": "راتایه",
       "name_default": "Rataje",
       "native": "Rataje",
       "type": "city",
@@ -129,7 +147,7 @@
     },
     {
       "id": 23336,
-      "name": "زدونکی",
+      "name": "زدوونکی",
       "name_default": "Zdounky",
       "native": "Zdounky",
       "type": "city",

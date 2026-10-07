@@ -162,7 +162,7 @@
   "cities": [
     {
       "id": 10072,
-      "name": "Akari",
+      "name": "Acari",
       "name_default": "Acari",
       "native": "ACARI",
       "type": "city",
@@ -234,7 +234,7 @@
     },
     {
       "id": 10128,
-      "name": "Aleksandrija",
+      "name": "Alexandria",
       "name_default": "Alexandria",
       "native": "Alexandria",
       "type": "city",
@@ -488,7 +488,7 @@
       "id": 10687,
       "name": "Bodó",
       "name_default": "Bodó",
-      "native": "Haste",
+      "native": "Bodó",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -504,7 +504,7 @@
     },
     {
       "id": 10699,
-      "name": "Bože Isuse",
+      "name": "Bom Jesus",
       "name_default": "Bom Jesus",
       "native": "Bom Jesus",
       "type": "city",
@@ -738,7 +738,7 @@
     },
     {
       "id": 11418,
-      "name": "Pukovnik Ezequiel",
+      "name": "Coronel Ezequiel",
       "name_default": "Coronel Ezequiel",
       "native": "Coronel Ezequiel",
       "type": "city",
@@ -756,7 +756,7 @@
     },
     {
       "id": 11422,
-      "name": "Pukovnik João Pessoa",
+      "name": "Coronel João Pessoa",
       "name_default": "Coronel João Pessoa",
       "native": "Coronel João Pessoa",
       "type": "city",
@@ -846,7 +846,7 @@
     },
     {
       "id": 11714,
-      "name": "Ekvador",
+      "name": "Equador",
       "name_default": "Equador",
       "native": "Equador",
       "type": "city",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": 11980,
-      "name": "Guverner Dix Sept Rosado",
+      "name": "Governador Dix Sept Rosado",
       "name_default": "Governador Dix Sept Rosado",
       "native": "Governador Dix Sept Rosado",
       "type": "city",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": 12022,
-      "name": "Guamare",
+      "name": "Guamaré",
       "name_default": "Guamaré",
       "native": "Guamaré",
       "type": "city",
@@ -1226,7 +1226,7 @@
       "id": 12570,
       "name": "Japi",
       "name_default": "Japi",
-      "native": "dar",
+      "native": "Japi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1260,7 +1260,7 @@
     },
     {
       "id": 12589,
-      "name": "Vrt pirana",
+      "name": "Jardim de Piranhas",
       "name_default": "Jardim de Piranhas",
       "native": "Jardim de Piranhas",
       "type": "city",
@@ -1278,7 +1278,7 @@
     },
     {
       "id": 12591,
-      "name": "Vrtovi u Seridóu",
+      "name": "Jardim do Seridó",
       "name_default": "Jardim do Seridó",
       "native": "Jardim do Seridó",
       "type": "city",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": 12748,
-      "name": "Jezero Anta",
+      "name": "Lagoa d'Anta",
       "name_default": "Lagoa d'Anta",
       "native": "Lagoa de Anta",
       "type": "city",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": 12754,
-      "name": "Jezero Pedras",
+      "name": "Lagoa de Pedras",
       "name_default": "Lagoa de Pedras",
       "native": "Lagoa de Pedras",
       "type": "city",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": 12756,
-      "name": "Jezero Velhos",
+      "name": "Lagoa de Velhos",
       "name_default": "Lagoa de Velhos",
       "native": "Lagoa de Velhos",
       "type": "city",
@@ -1458,7 +1458,7 @@
     },
     {
       "id": 12743,
-      "name": "Jezero Salgada",
+      "name": "Lagoa Salgada",
       "name_default": "Lagoa Salgada",
       "native": "Lagoa Salgada",
       "type": "city",
@@ -1512,7 +1512,7 @@
     },
     {
       "id": 12861,
-      "name": "Lukrécija",
+      "name": "Lucrécia",
       "name_default": "Lucrécia",
       "native": "Lucrécia",
       "type": "city",
@@ -1548,7 +1548,7 @@
     },
     {
       "id": 12893,
-      "name": "Makaíba",
+      "name": "Macaíba",
       "name_default": "Macaíba",
       "native": "Macaíba",
       "type": "city",
@@ -1566,7 +1566,7 @@
     },
     {
       "id": 12890,
-      "name": "Makao",
+      "name": "Macau",
       "name_default": "Macau",
       "native": "Macau",
       "type": "city",
@@ -1584,9 +1584,9 @@
     },
     {
       "id": 12922,
-      "name": "Velika prodaja",
+      "name": "Major Sales",
       "name_default": "Major Sales",
-      "native": "Principais vendas",
+      "native": "Major Sales",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1746,7 +1746,7 @@
     },
     {
       "id": 13299,
-      "name": "Natalni",
+      "name": "Natal",
       "name_default": "Natal",
       "native": "Natal",
       "type": "adm1",
@@ -1856,7 +1856,7 @@
       "id": 13665,
       "name": "Paraú",
       "name_default": "Paraú",
-      "native": "Ordem",
+      "native": "Paraú",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1964,7 +1964,7 @@
       "id": 13712,
       "name": "Patu",
       "name_default": "Patu",
-      "native": "Bater",
+      "native": "Patu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2700,7 +2700,7 @@
     },
     {
       "id": 14697,
-      "name": "Senator Elói de Souza",
+      "name": "Senador Elói de Souza",
       "name_default": "Senador Elói de Souza",
       "native": "Senador Elói de Souza",
       "type": "city",
@@ -2718,7 +2718,7 @@
     },
     {
       "id": 14699,
-      "name": "Senator Georgino Avelino",
+      "name": "Senador Georgino Avelino",
       "name_default": "Senador Georgino Avelino",
       "native": "Senador Georgino Avelino",
       "type": "city",
@@ -2880,7 +2880,7 @@
     },
     {
       "id": 15189,
-      "name": "Veliki taboleiro",
+      "name": "Taboleiro Grande",
       "name_default": "Taboleiro Grande",
       "native": "Taboleiro Grande",
       "type": "city",
@@ -2900,7 +2900,7 @@
       "id": 15204,
       "name": "Taipu",
       "name_default": "Taipu",
-      "native": "Repugnante",
+      "native": "Taipu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2934,7 +2934,7 @@
     },
     {
       "id": 15274,
-      "name": "Časnik Ananija",
+      "name": "Tenente Ananias",
       "name_default": "Tenente Ananias",
       "native": "Tenente Ananias",
       "type": "adm2",
@@ -2952,7 +2952,7 @@
     },
     {
       "id": 15275,
-      "name": "Nadstojnik Laurentino Cruz",
+      "name": "Tenente Laurentino Cruz",
       "name_default": "Tenente Laurentino Cruz",
       "native": "Tenente Laurentino Cruz",
       "type": "city",

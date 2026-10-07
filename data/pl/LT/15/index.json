@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 66576,
-      "name": "Akademija (Kowno)",
+      "name": "Akademija (Kaunas)",
       "name_default": "Akademija (Kaunas)",
       "native": "Akademija (Kaunas)",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 66588,
-      "name": "Birsztany",
+      "name": "Birštonas",
       "name_default": "Birštonas",
       "native": "Birštonas",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 66591,
-      "name": "Dainava (Kowno)",
+      "name": "Dainava (Kaunas)",
       "name_default": "Dainava (Kaunas)",
       "native": "Dainava (Kaunas)",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66611,
-      "name": "Koszedary",
+      "name": "Kaišiadorys",
       "name_default": "Kaišiadorys",
       "native": "Kaišiadorys",
       "type": "city",
@@ -176,24 +176,6 @@
       "longitude": "23.90961000",
       "timezone": "Europe/Vilnius",
       "wikiDataId": "Q4115712",
-      "country_code": "LT",
-      "state_code": "15",
-      "state_id": 1580,
-      "country_id": 126
-    },
-    {
-      "id": 66629,
-      "name": "Kiejdany",
-      "name_default": "Kėdainiai",
-      "native": "Kėdainiai",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 23447,
-      "latitude": "55.28333000",
-      "longitude": "23.96667000",
-      "timezone": "Europe/Vilnius",
-      "wikiDataId": "Q46786",
       "country_code": "LT",
       "state_code": "15",
       "state_id": 1580,
@@ -237,7 +219,7 @@
     },
     {
       "id": 66666,
-      "name": "Rosieni",
+      "name": "Raseiniai",
       "name_default": "Raseiniai",
       "native": "Raseiniai",
       "type": "adm2",

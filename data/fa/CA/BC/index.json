@@ -300,9 +300,9 @@
     },
     {
       "id": 16156,
-      "name": "آلدرگرو شرقی",
+      "name": "Aldergrove East",
       "name_default": "Aldergrove East",
-      "native": "Aldergove East",
+      "native": "Aldergrove East",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -318,9 +318,9 @@
     },
     {
       "id": 16169,
-      "name": "آنمور",
+      "name": "انمور",
       "name_default": "Anmore",
-      "native": "Emore",
+      "native": "Anmore",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -390,9 +390,9 @@
     },
     {
       "id": 16194,
-      "name": "باریر",
+      "name": "برییر",
       "name_default": "Barrière",
-      "native": "Barrier",
+      "native": "Barrière",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -408,7 +408,7 @@
     },
     {
       "id": 16235,
-      "name": "جزیره بوئن",
+      "name": "Bowen Island",
       "name_default": "Bowen Island",
       "native": "Bowen Island",
       "type": "city",
@@ -444,7 +444,7 @@
     },
     {
       "id": 16254,
-      "name": "دریاچه برنز",
+      "name": "برنز لیک",
       "name_default": "Burns Lake",
       "native": "Burns Lake",
       "type": "city",
@@ -462,7 +462,7 @@
     },
     {
       "id": 16257,
-      "name": "نهر کش",
+      "name": "کش کریک",
       "name_default": "Cache Creek",
       "native": "Cache Creek",
       "type": "city",
@@ -480,7 +480,7 @@
     },
     {
       "id": 16263,
-      "name": "رودخانه کمپبل",
+      "name": "کمبل ریور",
       "name_default": "Campbell River",
       "native": "Campbell River",
       "type": "city",
@@ -536,7 +536,7 @@
       "id": 16289,
       "name": "ناحیه منطقه‌ای ساحل مرکزی",
       "name_default": "Central Coast Regional",
-      "native": "Central Coast Regional District",
+      "native": "Central Coast Regional",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -572,7 +572,7 @@
       "id": 16302,
       "name": "چماینوس",
       "name_default": "Chemainus",
-      "native": "Of the motherus",
+      "native": "Chemainus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -624,7 +624,7 @@
     },
     {
       "id": 16326,
-      "name": "کول‌وود",
+      "name": "کال وود",
       "name_default": "Colwood",
       "native": "Colwood",
       "type": "city",
@@ -696,7 +696,7 @@
     },
     {
       "id": 16344,
-      "name": "خلیج کوویچان",
+      "name": "Cowichan Bay",
       "name_default": "Cowichan Bay",
       "native": "Cowichan Bay",
       "type": "city",
@@ -714,7 +714,7 @@
     },
     {
       "id": 16346,
-      "name": "کرانبروک",
+      "name": "کرنبروک",
       "name_default": "Cranbrook",
       "native": "Cranbrook",
       "type": "city",
@@ -804,7 +804,7 @@
     },
     {
       "id": 16367,
-      "name": "جزیره دنمن",
+      "name": "Denman Island",
       "name_default": "Denman Island",
       "native": "Denman Island",
       "type": "city",
@@ -822,7 +822,7 @@
     },
     {
       "id": 16368,
-      "name": "منطقه امانی جزیره دنمن",
+      "name": "Denman Island Trust Area",
       "name_default": "Denman Island Trust Area",
       "native": "Denman Island Trust Area",
       "type": "city",
@@ -840,7 +840,7 @@
     },
     {
       "id": 16386,
-      "name": "دریاچه اردک",
+      "name": "Duck Lake",
       "name_default": "Duck Lake",
       "native": "Duck Lake",
       "type": "city",
@@ -1022,7 +1022,7 @@
       "id": 16440,
       "name": "ناحیه منطقه‌ای فریزر ولی",
       "name_default": "Fraser Valley Regional",
-      "native": "Fraser Valley Regional District",
+      "native": "Fraser Valley Regional",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -1038,7 +1038,7 @@
     },
     {
       "id": 16442,
-      "name": "نهر فرانسوی",
+      "name": "French Creek",
       "name_default": "French Creek",
       "native": "French Creek",
       "type": "city",
@@ -1074,9 +1074,9 @@
     },
     {
       "id": 16451,
-      "name": "گیبسون‌ها",
+      "name": "گیبسنز",
       "name_default": "Gibsons",
-      "native": "Gibson",
+      "native": "Gibsons",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1092,7 +1092,7 @@
     },
     {
       "id": 16458,
-      "name": "طلایی",
+      "name": "گولدن",
       "name_default": "Golden",
       "native": "Golden",
       "type": "city",
@@ -1164,7 +1164,7 @@
     },
     {
       "id": 16508,
-      "name": "جزیره هورنبی",
+      "name": "Hornby Island",
       "name_default": "Hornby Island",
       "native": "Hornby Island",
       "type": "city",
@@ -1182,7 +1182,7 @@
     },
     {
       "id": 16510,
-      "name": "هوستون",
+      "name": "هیوستون",
       "name_default": "Houston",
       "native": "Houston",
       "type": "city",
@@ -1200,9 +1200,9 @@
     },
     {
       "id": 16523,
-      "name": "اینورمر",
+      "name": "اینورمیر",
       "name_default": "Invermere",
-      "native": "Inverters",
+      "native": "Invermere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1238,7 +1238,7 @@
       "id": 16536,
       "name": "کلونا",
       "name_default": "Kelowna",
-      "native": "Kowouli",
+      "native": "Kelowna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1272,7 +1272,7 @@
     },
     {
       "id": 16554,
-      "name": "کیتیمات",
+      "name": "کیتیمت",
       "name_default": "Kitimat",
       "native": "Kitimat",
       "type": "city",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": 16586,
-      "name": "لادنر",
+      "name": "لدنر",
       "name_default": "Ladner",
       "native": "Ladner",
       "type": "section",
@@ -1308,7 +1308,7 @@
     },
     {
       "id": 16587,
-      "name": "لیدی‌اسمیت",
+      "name": "لیدی اسمیث",
       "name_default": "Ladysmith",
       "native": "Ladysmith",
       "type": "city",
@@ -1326,7 +1326,7 @@
     },
     {
       "id": 16588,
-      "name": "دریاچه کوویچان",
+      "name": "لیک کاویچن",
       "name_default": "Lake Cowichan",
       "native": "Lake Cowichan",
       "type": "city",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": 16595,
-      "name": "لانگفورد",
+      "name": "لنگفورد",
       "name_default": "Langford",
       "native": "Langford",
       "type": "city",
@@ -1362,7 +1362,7 @@
     },
     {
       "id": 16597,
-      "name": "لانگلی",
+      "name": "لنگلی",
       "name_default": "Langley",
       "native": "Langley",
       "type": "city",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": 16616,
-      "name": "لیلوت",
+      "name": "لیلویت",
       "name_default": "Lillooet",
       "native": "Lillooet",
       "type": "city",
@@ -1416,7 +1416,7 @@
     },
     {
       "id": 16626,
-      "name": "دریاچه لوگان",
+      "name": "Logan Lake",
       "name_default": "Logan Lake",
       "native": "Logan Lake",
       "type": "city",
@@ -1488,7 +1488,7 @@
     },
     {
       "id": 16681,
-      "name": "مریت",
+      "name": "مرریت",
       "name_default": "Merritt",
       "native": "Merritt",
       "type": "city",
@@ -1526,7 +1526,7 @@
       "id": 16685,
       "name": "ناحیه منطقه‌ای مترو ونکوور",
       "name_default": "Metro Vancouver Regional",
-      "native": "Metro Vancouver Regional District",
+      "native": "Metro Vancouver Regional",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -1580,7 +1580,7 @@
       "id": 16728,
       "name": "نانایمو",
       "name_default": "Nanaimo",
-      "native": "Nanonoon",
+      "native": "Nanaimo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1614,7 +1614,7 @@
     },
     {
       "id": 16742,
-      "name": "نیو وست‌مینستر",
+      "name": "نیو وست مینستر",
       "name_default": "New Westminster",
       "native": "New Westminster",
       "type": "city",
@@ -1668,7 +1668,7 @@
     },
     {
       "id": 16760,
-      "name": "سانیچ شمالی",
+      "name": "North Saanich",
       "name_default": "North Saanich",
       "native": "North Saanich",
       "type": "city",
@@ -1686,7 +1686,7 @@
     },
     {
       "id": 16761,
-      "name": "ونکوور شمالی",
+      "name": "North Vancouver",
       "name_default": "North Vancouver",
       "native": "North Vancouver",
       "type": "city",
@@ -1704,7 +1704,7 @@
     },
     {
       "id": 16769,
-      "name": "خلیج اوک",
+      "name": "اوک بی",
       "name_default": "Oak Bay",
       "native": "Oak Bay",
       "type": "city",
@@ -1740,7 +1740,7 @@
     },
     {
       "id": 16773,
-      "name": "آبشار اوکاناگان",
+      "name": "اوکناگن فالز",
       "name_default": "Okanagan Falls",
       "native": "Okanagan Falls",
       "type": "city",
@@ -1814,7 +1814,7 @@
       "id": 16804,
       "name": "ناحیه منطقه‌ای پیس ریور",
       "name_default": "Peace River Regional",
-      "native": "Peace River Regional District",
+      "native": "Peace River Regional",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 16805,
-      "name": "پیچلند",
+      "name": "پیچ‌لند",
       "name_default": "Peachland",
       "native": "Peachland",
       "type": "city",
@@ -1866,7 +1866,7 @@
     },
     {
       "id": 16811,
-      "name": "پنتیکتون",
+      "name": "پنتیکتن",
       "name_default": "Penticton",
       "native": "Penticton",
       "type": "city",
@@ -1938,7 +1938,7 @@
     },
     {
       "id": 16842,
-      "name": "پورت مک‌نیل",
+      "name": "پورت مکنیل",
       "name_default": "Port McNeill",
       "native": "Port McNeill",
       "type": "city",
@@ -1974,7 +1974,7 @@
     },
     {
       "id": 16851,
-      "name": "رودخانه پاول",
+      "name": "پاول ریور",
       "name_default": "Powell River",
       "native": "Powell River",
       "type": "city",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": 16856,
-      "name": "شاهزاده جورج",
+      "name": "پرنس جورج",
       "name_default": "Prince George",
       "native": "Prince George",
       "type": "city",
@@ -2028,7 +2028,7 @@
     },
     {
       "id": 16858,
-      "name": "پرینستون",
+      "name": "پرینستن",
       "name_default": "Princeton",
       "native": "Princeton",
       "type": "city",
@@ -2226,7 +2226,7 @@
     },
     {
       "id": 17018,
-      "name": "جزیره سالت اسپرینگ",
+      "name": "Salt Spring Island",
       "name_default": "Salt Spring Island",
       "native": "Salt Spring Island",
       "type": "city",
@@ -2246,7 +2246,7 @@
       "id": 17019,
       "name": "سالتایر",
       "name_default": "Saltair",
-      "native": "Poster",
+      "native": "Saltair",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2262,7 +2262,7 @@
     },
     {
       "id": 17025,
-      "name": "سچلت",
+      "name": "سیشلت",
       "name_default": "Sechelt",
       "native": "Sechelt",
       "type": "city",
@@ -2352,7 +2352,7 @@
     },
     {
       "id": 17058,
-      "name": "بندرگاه جنوبی پندر",
+      "name": "South Pender Harbour",
       "name_default": "South Pender Harbour",
       "native": "South Pender Harbour",
       "type": "city",
@@ -2424,7 +2424,7 @@
     },
     {
       "id": 17102,
-      "name": "تراس",
+      "name": "ترس",
       "name_default": "Terrace",
       "native": "Terrace",
       "type": "city",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": 17125,
-      "name": "دنباله",
+      "name": "تریل",
       "name_default": "Trail",
       "native": "Trail",
       "type": "city",
@@ -2480,7 +2480,7 @@
       "id": 17128,
       "name": "تساواسن",
       "name_default": "Tsawwassen",
-      "native": "Tsjust",
+      "native": "Tsawwassen",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2514,7 +2514,7 @@
     },
     {
       "id": 17133,
-      "name": "اوکلولت",
+      "name": "یوکلولت",
       "name_default": "Ucluelet",
       "native": "Ucluelet",
       "type": "city",
@@ -2568,7 +2568,7 @@
     },
     {
       "id": 17155,
-      "name": "ورنون",
+      "name": "ورنن",
       "name_default": "Vernon",
       "native": "Vernon",
       "type": "city",
@@ -2622,7 +2622,7 @@
     },
     {
       "id": 17183,
-      "name": "ساحل خوش آمدید",
+      "name": "Welcome Beach",
       "name_default": "Welcome Beach",
       "native": "Welcome Beach",
       "type": "locality",
@@ -2730,7 +2730,7 @@
     },
     {
       "id": 17207,
-      "name": "دریاچه ویلیامز",
+      "name": "ویلیامز لیک",
       "name_default": "Williams Lake",
       "native": "Williams Lake",
       "type": "city",

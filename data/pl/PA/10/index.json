@@ -167,7 +167,7 @@
       "id": 80033,
       "name": "Capira",
       "name_default": "Capira",
-      "native": "Cabeza",
+      "native": "Capira",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -221,7 +221,7 @@
       "id": 80053,
       "name": "Chame",
       "name_default": "Chame",
-      "native": "Semen",
+      "native": "Chame",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -291,10 +291,10 @@
     },
     {
       "id": 80100,
-      "name": "Dystrykt Chame",
+      "name": "Distrito de Chame",
       "name_default": "Distrito de Chame",
       "native": "Distrito de Chame",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 31373,
@@ -309,7 +309,7 @@
     },
     {
       "id": 80112,
-      "name": "Dzielnica La Chorrera",
+      "name": "Distrito de La Chorrera",
       "name_default": "Distrito de La Chorrera",
       "native": "Distrito de La Chorrera",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80135,
-      "name": "Dzielnica San Carlos",
+      "name": "Distrito de San Carlos",
       "name_default": "Distrito de San Carlos",
       "native": "Distrito de San Carlos",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 80151,
-      "name": "Kakao",
+      "name": "El Cacao",
       "name_default": "El Cacao",
       "native": "El Cacao",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 80163,
-      "name": "Kokos",
+      "name": "El Coco",
       "name_default": "El Coco",
       "native": "El Coco",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80179,
-      "name": "Liban",
+      "name": "El Líbano",
       "name_default": "El Líbano",
       "native": "El Líbano",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 80219,
-      "name": "Gwadelupa",
+      "name": "Guadalupe",
       "name_default": "Guadalupe",
       "native": "Guadalupo",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80371,
-      "name": "Nowa Arenosa",
+      "name": "Nueva Arenosa",
       "name_default": "Nueva Arenosa",
       "native": "Nueva Arenosa",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80373,
-      "name": "Nowa Gorgona",
+      "name": "Nueva Gorgona",
       "name_default": "Nueva Gorgona",
       "native": "Nueva Gorgona",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 80377,
-      "name": "Nowy Cesarz",
+      "name": "Nuevo Emperador",
       "name_default": "Nuevo Emperador",
       "native": "Nuevo Emperador",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80416,
-      "name": "Plaża Leona",
+      "name": "Playa Leona",
       "name_default": "Playa Leona",
       "native": "Playa Leona",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 80458,
-      "name": "Rio Kongo",
+      "name": "Río Congo",
       "name_default": "Río Congo",
       "native": "Río Congo",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80481,
-      "name": "San Jose",
+      "name": "San José",
       "name_default": "San José",
       "native": "San José",
       "type": "section",
@@ -885,7 +885,7 @@
     },
     {
       "id": 80497,
-      "name": "Święta Klara",
+      "name": "Santa Clara",
       "name_default": "Santa Clara",
       "native": "Santa Clara",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 80505,
-      "name": "Święta Rita",
+      "name": "Santa Rita",
       "name_default": "Santa Rita",
       "native": "Santa Rita",
       "type": "adm3",
@@ -923,7 +923,7 @@
       "id": 80518,
       "name": "Sorá",
       "name_default": "Sorá",
-      "native": "Frotis",
+      "native": "Sorá",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 80543,
-      "name": "Willa Carmen",
+      "name": "Villa Carmen",
       "name_default": "Villa Carmen",
       "native": "Villa Carmen",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80545,
-      "name": "Willa Rosario",
+      "name": "Villa Rosario",
       "name_default": "Villa Rosario",
       "native": "Villa Rosario",
       "type": "adm3",

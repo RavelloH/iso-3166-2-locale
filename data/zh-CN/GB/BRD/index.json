@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48196,
-      "name": "阿丁厄姆",
+      "name": "阿丁汉姆",
       "name_default": "Addingham",
       "native": "Addingham",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48338,
-      "name": "贝尔登",
+      "name": "白尔登",
       "name_default": "Baildon",
       "native": "Baildon",
       "type": "adm3",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49199,
-      "name": "卡林沃思",
+      "name": "寇灵沃夫",
       "name_default": "Cullingworth",
       "native": "Cullingworth",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49854,
-      "name": "霍沃斯",
+      "name": "贺沃夫",
       "name_default": "Haworth",
       "native": "Haworth",
       "type": "city",
@@ -272,24 +272,6 @@
       "country_id": 232
     },
     {
-      "id": 51001,
-      "name": "帕德西",
-      "name_default": "Pudsey",
-      "native": "Pudsey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33109,
-      "latitude": "53.79538000",
-      "longitude": "-1.66134000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1009290",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51011,
       "name": "昆斯伯里",
       "name_default": "Queensbury",
@@ -327,7 +309,7 @@
     },
     {
       "id": 51307,
-      "name": "西尔斯登",
+      "name": "希尔斯登",
       "name_default": "Silsden",
       "native": "Silsden",
       "type": "city",
@@ -344,28 +326,10 @@
       "country_id": 232
     },
     {
-      "id": 51326,
-      "name": "斯基普顿",
-      "name_default": "Skipton",
-      "native": "Skipton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15369,
-      "latitude": "53.96144000",
-      "longitude": "-2.01676000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q516131",
-      "country_code": "GB",
-      "state_code": "BRD",
-      "state_id": 2529,
-      "country_id": 232
-    },
-    {
       "id": 51437,
       "name": "斯蒂顿",
       "name_default": "Steeton",
-      "native": "Uninteotive",
+      "native": "Steeton",
       "type": "city",
       "level": null,
       "parent_id": null,

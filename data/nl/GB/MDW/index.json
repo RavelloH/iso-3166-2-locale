@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48221,
-      "name": "Allerheiligen",
+      "name": "Allhallows",
       "name_default": "Allhallows",
       "native": "Allhallows",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49695,
-      "name": "Korrel",
+      "name": "Grain",
       "name_default": "Grain",
       "native": "Grain",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49927,
-      "name": "Hoge Halstow",
+      "name": "High Halstow",
       "name_default": "High Halstow",
       "native": "High Halstow",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49978,
-      "name": "Hoe",
+      "name": "Hoo",
       "name_default": "Hoo",
       "native": "Hoo",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 50251,
-      "name": "Leeuwerikveld",
+      "name": "Larkfield",
       "name_default": "Larkfield",
       "native": "Larkfield",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50427,
-      "name": "Beneden Halstow",
+      "name": "Lower Halstow",
       "name_default": "Lower Halstow",
       "native": "Lower Halstow",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 51024,
       "name": "Rainham",
       "name_default": "Rainham",
-      "native": "Queen",
+      "native": "Rainham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -344,28 +344,10 @@
       "country_id": 232
     },
     {
-      "id": 51337,
-      "name": "Snodland",
-      "name_default": "Snodland",
-      "native": "Snodland",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11830,
-      "latitude": "51.32971000",
-      "longitude": "0.44305000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2462696",
-      "country_code": "GB",
-      "state_code": "MDW",
-      "state_id": 2381,
-      "country_id": 232
-    },
-    {
       "id": 51502,
       "name": "Strood",
       "name_default": "Strood",
-      "native": "Strip",
+      "native": "Strood",
       "type": "section",
       "level": null,
       "parent_id": null,

@@ -162,7 +162,7 @@
   "cities": [
     {
       "id": 15652,
-      "name": "Agua Blanca",
+      "name": "Água Branca",
       "name_default": "Água Branca",
       "native": "Água Branca",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10434,
       "name": "Atalaia",
       "name_default": "Atalaia",
-      "native": "Seção",
+      "native": "Atalaia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -234,7 +234,7 @@
     },
     {
       "id": 10527,
-      "name": "Barra de Santo Antonio",
+      "name": "Barra de Santo Antônio",
       "name_default": "Barra de Santo Antônio",
       "native": "Barra de Santo Antônio",
       "type": "city",
@@ -270,7 +270,7 @@
     },
     {
       "id": 10581,
-      "name": "Batalla",
+      "name": "Batalha",
       "name_default": "Batalha",
       "native": "Batalha",
       "type": "city",
@@ -416,7 +416,7 @@
       "id": 10976,
       "name": "Campo Alegre",
       "name_default": "Campo Alegre",
-      "native": "Alegre Campo",
+      "native": "Campo Alegre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -450,7 +450,7 @@
     },
     {
       "id": 11024,
-      "name": "Canapí",
+      "name": "Canapi",
       "name_default": "Canapi",
       "native": "Canapi",
       "type": "city",
@@ -540,7 +540,7 @@
     },
     {
       "id": 11336,
-      "name": "Colonia Leopoldina",
+      "name": "Colônia Leopoldina",
       "name_default": "Colônia Leopoldina",
       "native": "Colônia Leopoldina",
       "type": "city",
@@ -630,7 +630,7 @@
     },
     {
       "id": 11619,
-      "name": "Dos Riachos",
+      "name": "Dois Riachos",
       "name_default": "Dois Riachos",
       "native": "Dois Riachos",
       "type": "city",
@@ -648,7 +648,7 @@
     },
     {
       "id": 11752,
-      "name": "Estrella de Alagoas",
+      "name": "Estrela de Alagoas",
       "name_default": "Estrela de Alagoas",
       "native": "Estrela de Alagoas",
       "type": "city",
@@ -658,7 +658,7 @@
       "latitude": "-9.39858000",
       "longitude": "-36.76219000",
       "timezone": "America/Maceio",
-      "wikiDataId": "Q1648136",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AL",
       "state_id": 2007,
@@ -684,7 +684,7 @@
     },
     {
       "id": 11799,
-      "name": "Feliz desierto",
+      "name": "Feliz Deserto",
       "name_default": "Feliz Deserto",
       "native": "Feliz Deserto",
       "type": "city",
@@ -774,7 +774,7 @@
     },
     {
       "id": 12193,
-      "name": "Iglesia Nueva",
+      "name": "Igreja Nova",
       "name_default": "Igreja Nova",
       "native": "Igreja Nova",
       "type": "city",
@@ -794,7 +794,7 @@
       "id": 12249,
       "name": "Inhapi",
       "name_default": "Inhapi",
-      "native": "Inimigo",
+      "native": "Inhapi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -810,7 +810,7 @@
     },
     {
       "id": 12522,
-      "name": "Jacaré de los hombres",
+      "name": "Jacaré dos Homens",
       "name_default": "Jacaré dos Homens",
       "native": "Jacaré dos Homens",
       "type": "city",
@@ -900,7 +900,7 @@
     },
     {
       "id": 12637,
-      "name": "Joaquín Gomes",
+      "name": "Joaquim Gomes",
       "name_default": "Joaquim Gomes",
       "native": "Joaquim Gomes",
       "type": "city",
@@ -1008,7 +1008,7 @@
     },
     {
       "id": 12921,
-      "name": "Mayor Isidoro",
+      "name": "Major Isidoro",
       "name_default": "Major Isidoro",
       "native": "Major Isidoro",
       "type": "city",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": 12985,
-      "name": "Maravilla",
+      "name": "Maravilha",
       "name_default": "Maravilha",
       "native": "Maravilha",
       "type": "city",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 12999,
-      "name": "Mariscal Deodoro",
+      "name": "Marechal Deodoro",
       "name_default": "Marechal Deodoro",
       "native": "Marechal Deodoro",
       "type": "city",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": 13106,
-      "name": "Mesías",
+      "name": "Messias",
       "name_default": "Messias",
       "native": "messias",
       "type": "city",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": 13121,
-      "name": "Minador del Negrão",
+      "name": "Minador do Negrão",
       "name_default": "Minador do Negrão",
       "native": "Minador do Negrão",
       "type": "city",
@@ -1224,7 +1224,7 @@
     },
     {
       "id": 13468,
-      "name": "Nuevo Lino",
+      "name": "Novo Lino",
       "name_default": "Novo Lino",
       "native": "Novo Lino",
       "type": "city",
@@ -1296,7 +1296,7 @@
     },
     {
       "id": 13510,
-      "name": "Olivenza",
+      "name": "Olivença",
       "name_default": "Olivença",
       "native": "Olivença",
       "type": "city",
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 13539,
-      "name": "Oro Blanco",
+      "name": "Ouro Branco",
       "name_default": "Ouro Branco",
       "native": "Ouro Branco",
       "type": "city",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": 14119,
-      "name": "Pan de azúcar",
+      "name": "Pão de Açúcar",
       "name_default": "Pão de Açúcar",
       "native": "Pão de Açúcar",
       "type": "city",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": 13697,
-      "name": "Paso de Camaragibe",
+      "name": "Passo de Camaragibe",
       "name_default": "Passo de Camaragibe",
       "native": "Passo de Camaragibe",
       "type": "city",
@@ -1530,7 +1530,7 @@
     },
     {
       "id": 13897,
-      "name": "Pirañas",
+      "name": "Piranhas",
       "name_default": "Piranhas",
       "native": "Piranhas",
       "type": "city",
@@ -1584,7 +1584,7 @@
     },
     {
       "id": 14026,
-      "name": "Puerto de Pedras",
+      "name": "Porto de Pedras",
       "name_default": "Porto de Pedras",
       "native": "Porto de Pedras",
       "type": "city",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": 14014,
-      "name": "Porto Real del Colegio",
+      "name": "Porto Real do Colégio",
       "name_default": "Porto Real do Colégio",
       "native": "Porto Real do Colégio",
       "type": "city",
@@ -1620,7 +1620,7 @@
     },
     {
       "id": 14136,
-      "name": "Quebrángulo",
+      "name": "Quebrangulo",
       "name_default": "Quebrangulo",
       "native": "Quebrangulo",
       "type": "city",
@@ -1674,7 +1674,7 @@
     },
     {
       "id": 14495,
-      "name": "Santa Luzia del Norte",
+      "name": "Santa Luzia do Norte",
       "name_default": "Santa Luzia do Norte",
       "native": "Santa Luzia do Norte",
       "type": "city",
@@ -1692,7 +1692,7 @@
     },
     {
       "id": 14582,
-      "name": "Santana de Ipanema",
+      "name": "Santana do Ipanema",
       "name_default": "Santana do Ipanema",
       "native": "Santana do Ipanema",
       "type": "city",
@@ -1728,7 +1728,7 @@
     },
     {
       "id": 14850,
-      "name": "San Brás",
+      "name": "São Brás",
       "name_default": "São Brás",
       "native": "São Brás",
       "type": "city",
@@ -1800,7 +1800,7 @@
     },
     {
       "id": 15097,
-      "name": "San Miguel dos Campos",
+      "name": "São Miguel dos Campos",
       "name_default": "São Miguel dos Campos",
       "native": "São Miguel dos Campos",
       "type": "city",
@@ -1818,7 +1818,7 @@
     },
     {
       "id": 15098,
-      "name": "San Miguel de los Milagros",
+      "name": "São Miguel dos Milagres",
       "name_default": "São Miguel dos Milagres",
       "native": "São Miguel dos Milagres",
       "type": "city",
@@ -1836,7 +1836,7 @@
     },
     {
       "id": 15136,
-      "name": "San Sebastián",
+      "name": "São Sebastião",
       "name_default": "São Sebastião",
       "native": "São Sebastião",
       "type": "city",
@@ -1890,9 +1890,9 @@
     },
     {
       "id": 15221,
-      "name": "Tanque de Arca",
+      "name": "Tanque d'Arca",
       "name_default": "Tanque d'Arca",
-      "native": "Bloqueio da Arca",
+      "native": "Tanque d'Arca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1926,7 +1926,7 @@
     },
     {
       "id": 15282,
-      "name": "Teotónio Vilela",
+      "name": "Teotônio Vilela",
       "name_default": "Teotônio Vilela",
       "native": "Teotônio Vilela",
       "type": "city",
@@ -1946,7 +1946,7 @@
       "id": 15347,
       "name": "Traipu",
       "name_default": "Traipu",
-      "native": "Mancha",
+      "native": "Traipu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1962,7 +1962,7 @@
     },
     {
       "id": 15463,
-      "name": "Unión de los Palmares",
+      "name": "União dos Palmares",
       "name_default": "União dos Palmares",
       "native": "União dos Palmares",
       "type": "city",

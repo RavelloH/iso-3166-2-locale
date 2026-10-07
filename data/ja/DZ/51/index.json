@@ -54,5 +54,24 @@
     "wikiDataId": "Q77105251",
     "country_code": "DZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31427,
+      "name": "シディ・ハレド",
+      "name_default": "Sidi Khaled",
+      "native": "سيدي خالد",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 38987,
+      "latitude": "34.38700000",
+      "longitude": "4.98785000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q2215511",
+      "country_code": "DZ",
+      "state_code": "51",
+      "state_id": 4907,
+      "country_id": 4
+    }
+  ]
 }

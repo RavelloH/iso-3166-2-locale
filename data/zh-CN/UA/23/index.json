@@ -80,7 +80,7 @@
       "id": 109345,
       "name": "巴尔基",
       "name_default": "Balky",
-      "native": "Впертий",
+      "native": "Балки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -168,7 +168,7 @@
     },
     {
       "id": 109551,
-      "name": "第聂伯罗鲁德",
+      "name": "第聂伯罗鲁德内",
       "name_default": "Dniprorudne",
       "native": "Дніпрорудне",
       "type": "city",
@@ -186,7 +186,7 @@
     },
     {
       "id": 109552,
-      "name": "德尼普罗夫卡",
+      "name": "第聂伯罗夫卡",
       "name_default": "Dniprovka",
       "native": "Дніпровка",
       "type": "city",
@@ -204,7 +204,7 @@
     },
     {
       "id": 109595,
-      "name": "埃内尔戈达尔",
+      "name": "埃内尔霍达尔",
       "name_default": "Enerhodar",
       "native": "Енергодар",
       "type": "city",
@@ -240,7 +240,7 @@
     },
     {
       "id": 109748,
-      "name": "基洛夫",
+      "name": "塔夫里斯凯",
       "name_default": "Kirove",
       "native": "Кірове",
       "type": "adm2",
@@ -258,7 +258,7 @@
     },
     {
       "id": 109785,
-      "name": "科梅什-卓亚",
+      "name": "卡梅什扎里亚",
       "name_default": "Komysh-Zorya",
       "native": "Комиш-Зоря",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109787,
-      "name": "科梅舒瓦卡",
+      "name": "科米舒瓦哈",
       "name_default": "Komyshuvakha",
       "native": "Комишуваха",
       "type": "city",
@@ -314,7 +314,7 @@
       "id": 109892,
       "name": "库舒胡姆",
       "name_default": "Kushuhum",
-      "native": "Кушухум",
+      "native": "Кушугум",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -366,7 +366,7 @@
     },
     {
       "id": 109978,
-      "name": "玛拉·比洛泽尔卡",
+      "name": "小比洛泽尔卡",
       "name_default": "Mala Bilozerka",
       "native": "Мала Білозерка",
       "type": "city",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109980,
-      "name": "玛拉·托克玛卡",
+      "name": "小托克马奇卡",
       "name_default": "Mala Tokmachka",
       "native": "Мала Токмачка",
       "type": "city",
@@ -420,7 +420,7 @@
     },
     {
       "id": 110008,
-      "name": "马特维耶夫卡",
+      "name": "马特维伊夫卡",
       "name_default": "Matviivka",
       "native": "Матвіївка",
       "type": "city",
@@ -510,7 +510,7 @@
     },
     {
       "id": 110121,
-      "name": "新博赫丹尼夫卡",
+      "name": "新波赫丹尼夫卡",
       "name_default": "Novobohdanivka",
       "native": "Новобогданівка",
       "type": "city",
@@ -546,7 +546,7 @@
     },
     {
       "id": 110151,
-      "name": "诺瓦西利夫卡",
+      "name": "新瓦西里夫卡",
       "name_default": "Novovasylivka",
       "native": "Нововасилівка",
       "type": "city",
@@ -564,7 +564,7 @@
     },
     {
       "id": 110203,
-      "name": "奥里希夫",
+      "name": "奥列霍夫",
       "name_default": "Orikhiv",
       "native": "Оріхів",
       "type": "adm2",
@@ -582,7 +582,7 @@
     },
     {
       "id": 110211,
-      "name": "奥西彭科",
+      "name": "奥西片科",
       "name_default": "Osypenko",
       "native": "Осипенко",
       "type": "city",
@@ -618,7 +618,7 @@
     },
     {
       "id": 110309,
-      "name": "普列奥布拉任卡",
+      "name": "普雷奥布拉任卡",
       "name_default": "Preobrazhenka",
       "native": "Преображенка",
       "type": "city",
@@ -690,7 +690,7 @@
     },
     {
       "id": 110323,
-      "name": "普里什布",
+      "name": "普里希布",
       "name_default": "Pryshyb",
       "native": "Пришиб",
       "type": "city",
@@ -708,7 +708,7 @@
     },
     {
       "id": 110382,
-      "name": "罗日夫卡",
+      "name": "罗济夫卡",
       "name_default": "Rozivka",
       "native": "Розівка",
       "type": "adm2",
@@ -744,9 +744,9 @@
     },
     {
       "id": 110603,
-      "name": "特努瓦特",
+      "name": "泰尔努瓦泰",
       "name_default": "Ternuvate",
-      "native": "Тернуват",
+      "native": "Тернувате",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -762,7 +762,7 @@
     },
     {
       "id": 110605,
-      "name": "特尔皮尼亚",
+      "name": "泰尔平尼亚",
       "name_default": "Terpinnia",
       "native": "Терпіння",
       "type": "city",
@@ -834,7 +834,7 @@
     },
     {
       "id": 110677,
-      "name": "瓦西利夫卡",
+      "name": "瓦西里夫卡",
       "name_default": "Vasylivka",
       "native": "Василівка",
       "type": "adm2",
@@ -852,7 +852,7 @@
     },
     {
       "id": 110683,
-      "name": "韦利卡·比洛泽尔卡",
+      "name": "大比洛泽尔卡",
       "name_default": "Velyka Bilozerka",
       "native": "Велика Білозерка",
       "type": "city",
@@ -888,7 +888,7 @@
     },
     {
       "id": 110713,
-      "name": "韦塞勒",
+      "name": "韦塞莱",
       "name_default": "Vesele",
       "native": "Веселе",
       "type": "adm2",
@@ -924,7 +924,7 @@
     },
     {
       "id": 110730,
-      "name": "沃迪亚内",
+      "name": "沃佳内",
       "name_default": "Vodiane",
       "native": "Водяне",
       "type": "city",
@@ -942,9 +942,9 @@
     },
     {
       "id": 109471,
-      "name": "恰帕耶夫卡",
+      "name": "沃斯克雷森卡",
       "name_default": "Voskresenka",
-      "native": "Чапаєвка",
+      "native": "Воскресенка",
       "type": "city",
       "level": null,
       "parent_id": null,

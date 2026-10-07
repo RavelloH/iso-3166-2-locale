@@ -128,24 +128,6 @@
       "country_id": 232
     },
     {
-      "id": 50223,
-      "name": "Knutsford",
-      "name_default": "Knutsford",
-      "native": "Knutsford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13259,
-      "latitude": "53.30289000",
-      "longitude": "-2.37482000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1470791",
-      "country_code": "GB",
-      "state_code": "TRF",
-      "state_id": 2293,
-      "country_id": 232
-    },
-    {
       "id": 50856,
       "name": "Partington",
       "name_default": "Partington",
@@ -165,7 +147,7 @@
     },
     {
       "id": 51180,
-      "name": "Prodaja",
+      "name": "Sale",
       "name_default": "Sale",
       "native": "Sale",
       "type": "city",
@@ -257,7 +239,7 @@
       "id": 51708,
       "name": "Urmston",
       "name_default": "Urmston",
-      "native": "Urfon",
+      "native": "Urmston",
       "type": "city",
       "level": null,
       "parent_id": null,

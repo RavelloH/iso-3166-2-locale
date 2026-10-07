@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135335,
-      "name": "Havayolu",
+      "name": "Airole",
       "name_default": "Airole",
       "native": "Airole",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135616,
-      "name": "Zırh",
+      "name": "Armo",
       "name_default": "Armo",
       "native": "Armo",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 135690,
-      "name": "Arabacı",
+      "name": "Aurigo",
       "name_default": "Aurigo",
       "native": "Aurigo",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 136908,
-      "name": "Karpasio",
+      "name": "Carpasio",
       "name_default": "Carpasio",
       "native": "Carpasio",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 138279,
-      "name": "Tatlı su",
+      "name": "Dolceacqua",
       "name_default": "Dolceacqua",
       "native": "Dolceacqua",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 138280,
-      "name": "Tatlı",
+      "name": "Dolcedo",
       "name_default": "Dolcedo",
       "native": "Dolcedo",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 139200,
-      "name": "İmparatorluk",
+      "name": "Imperia",
       "name_default": "Imperia",
       "native": "Imperia",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 139253,
-      "name": "İzolabona",
+      "name": "Isolabona",
       "name_default": "Isolabona",
       "native": "Isolabona",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 140062,
-      "name": "Mendatika",
+      "name": "Mendatica",
       "name_default": "Mendatica",
       "native": "Mendatica",
       "type": "adm3",
@@ -689,7 +689,7 @@
       "id": 140219,
       "name": "Molini",
       "name_default": "Molini",
-      "native": "Bestiame",
+      "native": "Molini",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1047,9 +1047,9 @@
     },
     {
       "id": 60220,
-      "name": "San Remo",
-      "name_default": "San Remo",
-      "native": "San Remo",
+      "name": "Sanremo",
+      "name_default": "Sanremo",
+      "native": "Sanremo",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 61533,
-      "name": "Üçlü",
+      "name": "Triora",
       "name_default": "Triora",
       "native": "Triora",
       "type": "adm3",

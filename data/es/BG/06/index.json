@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 9280,
-      "name": "Borovan",
+      "name": "Borován",
       "name_default": "Borovan",
       "native": "Борован",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 9295,
-      "name": "Byala Slatina",
+      "name": "Biala Slátina",
       "name_default": "Byala Slatina",
       "native": "Бяла Слатина",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 9344,
-      "name": "Hayredín",
+      "name": "Hayredin",
       "name_default": "Hayredin",
       "native": "Хайредин",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 9513,
-      "name": "Obispa Krivodol",
+      "name": "Obshtina Krivodol",
       "name_default": "Obshtina Krivodol",
       "native": "Община Криводол",
       "type": "city",
@@ -363,9 +363,9 @@
     },
     {
       "id": 9672,
-      "name": "romano",
+      "name": "Roman",
       "name_default": "Roman",
-      "native": "Римски",
+      "native": "Роман",
       "type": "city",
       "level": null,
       "parent_id": null,

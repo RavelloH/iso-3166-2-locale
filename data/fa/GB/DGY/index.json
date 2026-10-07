@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 48255,
-      "name": "عنان",
+      "name": "انان",
       "name_default": "Annan",
-      "native": "Other",
+      "native": "Annan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,9 +75,9 @@
     },
     {
       "id": 48817,
-      "name": "کایرنریان",
+      "name": "کایرنراین",
       "name_default": "Cairnryan",
-      "native": "Cairreryan",
+      "native": "Cairnryan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 48878,
-      "name": "قلعه داگلاس",
+      "name": "کسل داگلاس",
       "name_default": "Castle Douglas",
       "native": "Castle Douglas",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49220,
-      "name": "دالبتی",
+      "name": "دالبیتی",
       "name_default": "Dalbeattie",
       "native": "Dalbeattie",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50204,
-      "name": "کرککادبرایت",
+      "name": "کرکادبرایت",
       "name_default": "Kirkcudbright",
       "native": "Kirkcudbright",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50379,
-      "name": "لوچمابن",
+      "name": "لوچمابین",
       "name_default": "Lochmaben",
       "native": "Lochmaben",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 50381,
-      "name": "لاکربی",
+      "name": "لوکه‌بی",
       "name_default": "Lockerbie",
       "native": "Lockerbie",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 51199,
-      "name": "سنکوهار",
+      "name": "سنکوهر",
       "name_default": "Sanquhar",
       "native": "Sanquhar",
       "type": "city",
@@ -308,8 +308,26 @@
       "country_id": 232
     },
     {
+      "id": 51488,
+      "name": "استران‌رار",
+      "name_default": "Stranraer",
+      "native": "Stranraer",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10320,
+      "latitude": "54.90234000",
+      "longitude": "-5.02731000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1001935",
+      "country_code": "GB",
+      "state_code": "DGY",
+      "state_id": 2415,
+      "country_id": 232
+    },
+    {
       "id": 51600,
-      "name": "تورن‌هیل",
+      "name": "تورنهیل",
       "name_default": "Thornhill",
       "native": "Thornhill",
       "type": "city",

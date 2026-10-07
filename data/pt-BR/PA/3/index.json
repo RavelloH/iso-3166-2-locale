@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80007,
-      "name": "Boa Vista",
+      "name": "Buena Vista",
       "name_default": "Buena Vista",
       "native": "Buena Vista",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 80073,
-      "name": "Cólon",
+      "name": "Colón",
       "name_default": "Colón",
       "native": "Colon",
       "type": "adm1",
@@ -150,7 +150,7 @@
       "name": "Distrito de Chagres",
       "name_default": "Distrito de Chagres",
       "native": "Distrito de Chagres",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11342,
@@ -186,7 +186,7 @@
       "name": "Distrito de Donoso",
       "name_default": "Distrito de Donoso",
       "native": "Distrito de Donoso",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14798,
@@ -237,7 +237,7 @@
     },
     {
       "id": 80174,
-      "name": "O Giral",
+      "name": "El Giral",
       "name_default": "El Giral",
       "native": "El Giral",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 80206,
-      "name": "O Vale da União",
+      "name": "El Valle de la Unión",
       "name_default": "El Valle de la Unión",
       "native": "El Valle de la Unión",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 80214,
       "name": "Gatún",
       "name_default": "Gatún",
-      "native": "Gatthe",
+      "native": "Gatún",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 80297,
-      "name": "As Margaritas",
+      "name": "Las Margaritas",
       "name_default": "Las Margaritas",
       "native": "Las Margaritas",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 80350,
-      "name": "Maria Chiquita",
+      "name": "María Chiquita",
       "name_default": "María Chiquita",
       "native": "María Chiquita",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80368,
-      "name": "Nome de Deus",
+      "name": "Nombre de Dios",
       "name_default": "Nombre de Dios",
       "native": "Nombre de Dios",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80376,
-      "name": "Novo Chagres",
+      "name": "Nuevo Chagres",
       "name_default": "Nuevo Chagres",
       "native": "Nuevo Chagres",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80379,
-      "name": "Novo San Juan",
+      "name": "Nuevo San Juan",
       "name_default": "Nuevo San Juan",
       "native": "Nuevo San Juan",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80380,
-      "name": "Nova Vigía",
+      "name": "Nuevo Vigía",
       "name_default": "Nuevo Vigía",
       "native": "Nuevo Vigía",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 80415,
-      "name": "Praia Chiquita",
+      "name": "Playa Chiquita",
       "name_default": "Playa Chiquita",
       "native": "Playa Chiquita",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80435,
-      "name": "Porto Pilón",
+      "name": "Puerto Pilón",
       "name_default": "Puerto Pilón",
       "native": "Puerto Pilón",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80457,
-      "name": "Rio Alejandro",
+      "name": "Río Alejandro",
       "name_default": "Río Alejandro",
       "native": "Río Alejandro",
       "type": "section",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80459,
-      "name": "Rio Duque",
+      "name": "Río Duque",
       "name_default": "Río Duque",
       "native": "Río Duque",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80464,
-      "name": "Rio Rita",
+      "name": "Río Rita",
       "name_default": "Río Rita",
       "native": "Río Rita",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80541,
-      "name": "Vento Frio",
+      "name": "Viento Frío",
       "name_default": "Viento Frío",
       "native": "Viento Frío",
       "type": "adm3",

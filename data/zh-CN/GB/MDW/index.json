@@ -93,7 +93,7 @@
     },
     {
       "id": 49035,
-      "name": "克利夫",
+      "name": "克利夫，肯特",
       "name_default": "Cliffe",
       "native": "Cliffe",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49643,
-      "name": "吉林汉姆",
+      "name": "吉灵厄姆",
       "name_default": "Gillingham",
       "native": "Gillingham",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49927,
-      "name": "高哈尔斯托",
+      "name": "High Halstow",
       "name_default": "High Halstow",
       "native": "High Halstow",
       "type": "adm3",
@@ -311,7 +311,7 @@
       "id": 51024,
       "name": "雷纳姆",
       "name_default": "Rainham",
-      "native": "Queen",
+      "native": "Rainham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 51095,
-      "name": "罗切斯特",
+      "name": "罗彻斯特",
       "name_default": "Rochester",
       "native": "Rochester",
       "type": "adm2",
@@ -344,28 +344,10 @@
       "country_id": 232
     },
     {
-      "id": 51337,
-      "name": "斯诺德兰",
-      "name_default": "Snodland",
-      "native": "Snodland",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11830,
-      "latitude": "51.32971000",
-      "longitude": "0.44305000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2462696",
-      "country_code": "GB",
-      "state_code": "MDW",
-      "state_id": 2381,
-      "country_id": 232
-    },
-    {
       "id": 51502,
-      "name": "斯特鲁德",
+      "name": "斯杜鲁德",
       "name_default": "Strood",
-      "native": "Strip",
+      "native": "Strood",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -381,7 +363,7 @@
     },
     {
       "id": 51770,
-      "name": "沃特林伯里",
+      "name": "沃特灵伯里",
       "name_default": "Wateringbury",
       "native": "Wateringbury",
       "type": "city",
@@ -399,7 +381,7 @@
     },
     {
       "id": 51827,
-      "name": "西莫林",
+      "name": "西莫灵",
       "name_default": "West Malling",
       "native": "West Malling",
       "type": "city",

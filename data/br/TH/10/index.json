@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Burana ar razhed",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 106679,
-      "name": "Samfanhawong",
+      "name": "Samphanthawong",
       "name_default": "Samphanthawong",
       "native": "สัมพันธวงศ์",
       "type": "area",
@@ -813,7 +813,7 @@
     },
     {
       "id": 106689,
-      "name": "Saton",
+      "name": "Sathon",
       "name_default": "Sathon",
       "native": "สาธร",
       "type": "section",
@@ -885,7 +885,7 @@
     },
     {
       "id": 106732,
-      "name": "Thon beziet",
+      "name": "Thon buri",
       "name_default": "Thon buri",
       "native": "ธนบุรี",
       "type": "section",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

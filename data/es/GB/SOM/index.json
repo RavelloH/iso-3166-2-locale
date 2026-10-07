@@ -75,7 +75,7 @@
     },
     {
       "id": 48528,
-      "name": "Obispos Lydeard",
+      "name": "Bishops Lydeard",
       "name_default": "Bishops Lydeard",
       "native": "Bishops Lydeard",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48876,
-      "name": "Castillo Cary",
+      "name": "Castle Cary",
       "name_default": "Castle Cary",
       "native": "Castle Cary",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48920,
-      "name": "Acelga",
+      "name": "Chard",
       "name_default": "Chard",
       "native": "Chard",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48939,
-      "name": "queso Cheddar",
+      "name": "Cheddar",
       "name_default": "Cheddar",
       "native": "Cheddar",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49152,
-      "name": "Creech San Miguel",
+      "name": "Creech St Michael",
       "name_default": "Creech Saint Michael",
       "native": "Creech Saint Michael",
       "type": "city",
@@ -257,7 +257,7 @@
       "id": 49155,
       "name": "Crewkerne",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 49614,
-      "name": "Desde",
+      "name": "Frome",
       "name_default": "Frome",
       "native": "Frome",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 49934,
-      "name": "Puente alto",
+      "name": "Highbridge",
       "name_default": "Highbridge",
       "native": "Highbridge",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "Honiton",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "Huntspill",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -455,7 +437,7 @@
       "id": 50044,
       "name": "Ilminster",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -543,7 +525,7 @@
     },
     {
       "id": 50598,
-      "name": "Cabeza de mina",
+      "name": "Minehead",
       "name_default": "Minehead",
       "native": "Minehead",
       "type": "city",
@@ -561,7 +543,7 @@
     },
     {
       "id": 50679,
-      "name": "Stowey del Nether",
+      "name": "Nether Stowey",
       "name_default": "Nether Stowey",
       "native": "Nether Stowey",
       "type": "city",
@@ -615,7 +597,7 @@
     },
     {
       "id": 51005,
-      "name": "Puritón",
+      "name": "Puriton",
       "name_default": "Puriton",
       "native": "Puriton",
       "type": "city",
@@ -651,7 +633,7 @@
     },
     {
       "id": 51340,
-      "name": "Voltereta",
+      "name": "Somerset",
       "name_default": "Somerset",
       "native": "Somerset",
       "type": "city",
@@ -669,7 +651,7 @@
     },
     {
       "id": 51364,
-      "name": "Petherton del Sur",
+      "name": "South Petherton",
       "name_default": "South Petherton",
       "native": "South Petherton",
       "type": "city",
@@ -687,7 +669,7 @@
     },
     {
       "id": 51469,
-      "name": "Stoke-sub-Hamdon",
+      "name": "Stoke Sub Hamdon",
       "name_default": "Stoke-sub-Hamdon",
       "native": "Stoke-sub-hamdon",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "Calle",
+      "name": "Street",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -759,7 +741,7 @@
     },
     {
       "id": 51765,
-      "name": "Vigilancia",
+      "name": "Watchet",
       "name_default": "Watchet",
       "native": "Watchet",
       "type": "city",
@@ -795,7 +777,7 @@
     },
     {
       "id": 51792,
-      "name": "Pozos",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",

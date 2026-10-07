@@ -63,8 +63,26 @@
   },
   "cities": [
     {
+      "id": 67090,
+      "name": "بوجنیبه",
+      "name_default": "Boujniba",
+      "native": "بوجنيبة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14722,
+      "latitude": "32.90046000",
+      "longitude": "-6.77464000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2921654",
+      "country_code": "MA",
+      "state_code": "KHO",
+      "state_id": 3326,
+      "country_id": 149
+    },
+    {
       "id": 67151,
-      "name": "خوریبگا",
+      "name": "خریبکه",
       "name_default": "Khouribga",
       "native": "خريبكة",
       "type": "adm3",
@@ -82,7 +100,7 @@
     },
     {
       "id": 67181,
-      "name": "عود زم",
+      "name": "وادزم",
       "name_default": "Oued Zem",
       "native": "وادي زم",
       "type": "adm3",

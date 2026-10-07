@@ -75,7 +75,7 @@
     },
     {
       "id": 79970,
-      "name": "Arene",
+      "name": "Arenas",
       "name_default": "Arenas",
       "native": "Arena",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80024,
-      "name": "Kalifornija",
+      "name": "Calidonia",
       "name_default": "Calidonia",
       "native": "Calidonia",
       "type": "adm3",
@@ -221,7 +221,7 @@
       "id": 80026,
       "name": "Calovébora",
       "name_default": "Calovébora",
-      "native": "Calvo",
+      "native": "Calovébora",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -291,10 +291,10 @@
     },
     {
       "id": 80089,
-      "name": "Okrug Atalaya",
+      "name": "Distrito de Atalaya",
       "name_default": "Distrito de Atalaya",
       "native": "Distrito de Atalaya",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11321,
@@ -381,7 +381,7 @@
     },
     {
       "id": 80121,
-      "name": "Okrug Montijo",
+      "name": "Distrito de Montijo",
       "name_default": "Distrito de Montijo",
       "native": "Distrito de Montijo",
       "type": "section",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80134,
-      "name": "Okrug Río de Jesús",
+      "name": "Distrito de Río de Jesús",
       "name_default": "Distrito de Río de Jesús",
       "native": "Distrito de Río de Jesús",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80136,
-      "name": "Okrug San Francisca",
+      "name": "Distrito de San Francisco",
       "name_default": "Distrito de San Francisco",
       "native": "Distrito de San Francisco",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80183,
-      "name": "El Maria",
+      "name": "El María",
       "name_default": "El María",
       "native": "El María",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80258,
-      "name": "Laguna",
+      "name": "La Laguna",
       "name_default": "La Laguna",
       "native": "La Laguna",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 80276,
-      "name": "Kralj Calobre",
+      "name": "La Raya de Calobre",
       "name_default": "La Raya de Calobre",
       "native": "La Raya de Calobre",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80277,
-      "name": "Kraljica Santa Maria",
+      "name": "La Raya de Santa María",
       "name_default": "La Raya de Santa María",
       "native": "La Raya de Santa María",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80349,
-      "name": "Okrug Mariato",
+      "name": "Mariato",
       "name_default": "Mariato",
       "native": "Distrito de Mariato",
       "type": "district",
@@ -1085,7 +1085,7 @@
       "id": 80421,
       "name": "Ponuga",
       "name_default": "Ponuga",
-      "native": "Oferta",
+      "native": "Ponuga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 80460,
-      "name": "Rio Grande",
+      "name": "Río Grande",
       "name_default": "Río Grande",
       "native": "Río Grande",
       "type": "adm3",
@@ -1319,7 +1319,7 @@
       "id": 80516,
       "name": "Soná",
       "name_default": "Soná",
-      "native": "Hijo",
+      "native": "Soná",
       "type": "adm2",
       "level": null,
       "parent_id": null,

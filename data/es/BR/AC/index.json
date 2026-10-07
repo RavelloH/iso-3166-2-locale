@@ -162,7 +162,7 @@
   "cities": [
     {
       "id": 10078,
-      "name": "Acrelandia",
+      "name": "Acrelândia",
       "name_default": "Acrelândia",
       "native": "Acrelândia",
       "type": "city",
@@ -198,7 +198,7 @@
     },
     {
       "id": 10774,
-      "name": "Brasilia",
+      "name": "Brasileia",
       "name_default": "Brasiléia",
       "native": "Brasiléia",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10819,
       "name": "Bujari",
       "name_default": "Bujari",
-      "native": "generosidade",
+      "native": "Bujari",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -270,7 +270,7 @@
     },
     {
       "id": 11713,
-      "name": "Epitaciolandia",
+      "name": "Epitaciolândia",
       "name_default": "Epitaciolândia",
       "native": "Epitaciolândia",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 13001,
-      "name": "Mariscal Taumaturgo",
+      "name": "Marechal Thaumaturgo",
       "name_default": "Marechal Thaumaturgo",
       "native": "Marechal Thaumaturgo",
       "type": "city",
@@ -406,7 +406,7 @@
       "latitude": "-9.65038000",
       "longitude": "-67.77733000",
       "timezone": "America/Rio_Branco",
-      "wikiDataId": "Q2113232",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AC",
       "state_id": 2012,
@@ -432,7 +432,7 @@
     },
     {
       "id": 14263,
-      "name": "Río Branco",
+      "name": "Rio Branco",
       "name_default": "Rio Branco",
       "native": "Rio Branco",
       "type": "adm1",
@@ -468,7 +468,7 @@
     },
     {
       "id": 14547,
-      "name": "Santa Rosa do Purús",
+      "name": "Santa Rosa do Purus",
       "name_default": "Santa Rosa do Purus",
       "native": "St. Rosa do Purus",
       "type": "city",

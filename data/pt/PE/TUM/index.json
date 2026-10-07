@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80557,
-      "name": "Águas Verdes",
+      "name": "Aguas Verdes",
       "name_default": "Aguas Verdes",
       "native": "Aguas Verdes",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 80813,
-      "name": "Província de Contralmirante Villar",
+      "name": "Provincia de Contralmirante Villar",
       "name_default": "Provincia de Contralmirante Villar",
       "native": "Provincia de Contralmirante Villar",
       "type": "city",
@@ -129,10 +129,10 @@
     },
     {
       "id": 80912,
-      "name": "Província de Zarumilla",
+      "name": "Provincia de Zarumilla",
       "name_default": "Provincia de Zarumilla",
       "native": "Provincia de Zarumilla",
-      "type": "adm3",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 48844,

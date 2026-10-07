@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28 november",
+      "name": "Veintiocho de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Commandant Luis Piedra Buena",
+      "name": "Comandante Luis Piedrabuena",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -227,7 +227,7 @@
       "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -332,7 +332,7 @@
     },
     {
       "id": 1244,
-      "name": "De Oudheden",
+      "name": "Los Antiguos",
       "name_default": "Los Antiguos",
       "native": "Los Antiguos",
       "type": "city",

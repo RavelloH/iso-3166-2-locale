@@ -237,7 +237,7 @@
     },
     {
       "id": 80671,
-      "name": "Keizerlijk",
+      "name": "Imperial",
       "name_default": "Imperial",
       "native": "Imperial",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 80672,
-      "name": "Onafhankelijkheid",
+      "name": "Independencia",
       "name_default": "Independencia",
       "native": "Independencia",
       "type": "locality",
@@ -309,7 +309,7 @@
     },
     {
       "id": 80730,
-      "name": "Nieuwe Keizerlijke",
+      "name": "Nuevo Imperial",
       "name_default": "Nuevo Imperial",
       "native": "Nuevo Imperial",
       "type": "adm3",
@@ -347,7 +347,7 @@
       "id": 80753,
       "name": "Paramonga",
       "name_default": "Paramonga",
-      "native": "Cacerola",
+      "native": "Paramonga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 80793,
-      "name": "Provincie Canta",
+      "name": "Provincia de Canta",
       "name_default": "Provincia de Canta",
       "native": "Provincia de Canta",
       "type": "province",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80836,
-      "name": "Provincie Huaral",
+      "name": "Provincia de Huaral",
       "name_default": "Provincia de Huaral",
       "native": "Provincia de Huaral",
       "type": "province",
@@ -474,7 +474,7 @@
       "name": "Provincia de Yauyos",
       "name_default": "Provincia de Yauyos",
       "native": "Provincia de Yauyos",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 20463,
@@ -579,7 +579,7 @@
     },
     {
       "id": 80962,
-      "name": "Santa Maria",
+      "name": "Santa María",
       "name_default": "Santa María",
       "native": "Santa María",
       "type": "city",
@@ -615,9 +615,9 @@
     },
     {
       "id": 80980,
-      "name": "Super",
+      "name": "Supe",
       "name_default": "Supe",
-      "native": "Abundante",
+      "native": "Supe",
       "type": "city",
       "level": null,
       "parent_id": null,

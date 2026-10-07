@@ -72,6 +72,24 @@
       "state_code": "32",
       "state_id": 140,
       "country_id": 135
+    },
+    {
+      "id": 67788,
+      "name": "Моста",
+      "name_default": "Mosta",
+      "native": "Mosta",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 25496,
+      "latitude": "35.90917000",
+      "longitude": "14.42556000",
+      "timezone": "Europe/Malta",
+      "wikiDataId": "Q39520",
+      "country_code": "MT",
+      "state_code": "32",
+      "state_id": 140,
+      "country_id": 135
     }
   ]
 }

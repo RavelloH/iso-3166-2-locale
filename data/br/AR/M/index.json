@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 850,
-      "name": "Departamant ar C'hêr-benn",
+      "name": "Departamento de Capital",
       "name_default": "Departamento de Capital",
       "native": "Departamento de Capital",
       "type": "area",
@@ -152,7 +152,7 @@
     },
     {
       "id": 889,
-      "name": "Departamant Meur Alvear",
+      "name": "Departamento de General Alvear",
       "name_default": "Departamento de General Alvear",
       "native": "Departamento de General Alvear",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 898,
-      "name": "Departamant Godoy Cruz",
+      "name": "Departamento de Godoy Cruz",
       "name_default": "Departamento de Godoy Cruz",
       "native": "Departamento de Godoy Cruz",
       "type": "area",
@@ -188,7 +188,7 @@
     },
     {
       "id": 905,
-      "name": "Departamant Gwaymallén",
+      "name": "Departamento de Guaymallén",
       "name_default": "Departamento de Guaymallén",
       "native": "Departamento de Guaymallén",
       "type": "area",
@@ -206,10 +206,10 @@
     },
     {
       "id": 919,
-      "name": "Departamant ar Paz",
+      "name": "Departamento de La Paz",
       "name_default": "Departamento de La Paz",
       "native": "Departamento de La Paz",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 26370,
@@ -224,7 +224,7 @@
     },
     {
       "id": 924,
-      "name": "Departamant Las Heras",
+      "name": "Departamento de Las Heras",
       "name_default": "Departamento de Las Heras",
       "native": "Departamento de Las Heras",
       "type": "area",
@@ -242,10 +242,10 @@
     },
     {
       "id": 926,
-      "name": "Departamant al Laval",
+      "name": "Departamento de Lavalle",
       "name_default": "Departamento de Lavalle",
       "native": "Departamento de Lavalle",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 40448,
@@ -260,7 +260,7 @@
     },
     {
       "id": 932,
-      "name": "Departamant al Lujan",
+      "name": "Departamento de Luján",
       "name_default": "Departamento de Luján",
       "native": "Departamento de Luján",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 936,
-      "name": "Departamant Maipú",
+      "name": "Departamento de Maipú",
       "name_default": "Departamento de Maipú",
       "native": "Departamento de Maipú",
       "type": "area",
@@ -296,10 +296,10 @@
     },
     {
       "id": 938,
-      "name": "Departamant ar Malarg",
+      "name": "Departamento de Malargüe",
       "name_default": "Departamento de Malargüe",
       "native": "Departamento de Malargüe",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 32717,
@@ -314,7 +314,7 @@
     },
     {
       "id": 967,
-      "name": "Departamant Rivadavia",
+      "name": "Departamento de Rivadavia",
       "name_default": "Departamento de Rivadavia",
       "native": "Departamento de Rivadavia",
       "type": "area",
@@ -332,7 +332,7 @@
     },
     {
       "id": 983,
-      "name": "Departamant San Carlos",
+      "name": "Departamento de San Carlos",
       "name_default": "Departamento de San Carlos",
       "native": "Departamento de San Carlos",
       "type": "city",
@@ -350,10 +350,10 @@
     },
     {
       "id": 999,
-      "name": "Departamant San Martín",
+      "name": "Departamento de San Martín",
       "name_default": "Departamento de San Martín",
       "native": "Departamento de San Martín",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15187,
@@ -368,7 +368,7 @@
     },
     {
       "id": 1003,
-      "name": "Departamant San Rafael",
+      "name": "Departamento de San Rafael",
       "name_default": "Departamento de San Rafael",
       "native": "Departamento de San Rafael",
       "type": "area",
@@ -386,10 +386,10 @@
     },
     {
       "id": 1008,
-      "name": "Departamant Santa Rosa",
+      "name": "Departamento de Santa Rosa",
       "name_default": "Departamento de Santa Rosa",
       "native": "Departamento de Santa Rosa",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 13322,
@@ -404,7 +404,7 @@
     },
     {
       "id": 1026,
-      "name": "Departamant Tunuyán",
+      "name": "Departamento de Tunuyán",
       "name_default": "Departamento de Tunuyán",
       "native": "Departamento de Tunuyán",
       "type": "area",
@@ -422,10 +422,10 @@
     },
     {
       "id": 1027,
-      "name": "Departamant an Tupungato",
+      "name": "Departamento de Tupungato",
       "name_default": "Departamento de Tupungato",
       "native": "Departamento de Tupungato",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41280,

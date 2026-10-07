@@ -246,7 +246,7 @@
   "cities": [
     {
       "id": 16161,
-      "name": "Амхерст",
+      "name": "Емгерст",
       "name_default": "Amherst",
       "native": "Amherst",
       "type": "city",
@@ -266,7 +266,7 @@
       "id": 16170,
       "name": "Округ Аннаполіс",
       "name_default": "Annapolis",
-      "native": "Annapolis County",
+      "native": "Annapolis",
       "type": "county",
       "level": null,
       "parent_id": null,
@@ -282,9 +282,9 @@
     },
     {
       "id": 16171,
-      "name": "Антигоніш",
+      "name": "Антіґоніш",
       "name_default": "Antigonish",
-      "native": "Antignish",
+      "native": "Antigonish",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -318,7 +318,7 @@
     },
     {
       "id": 16242,
-      "name": "Бріджуотер",
+      "name": "Бриджвотер",
       "name_default": "Bridgewater",
       "native": "Bridgewater",
       "type": "city",
@@ -338,7 +338,7 @@
       "id": 16272,
       "name": "Округ Кейп-Бретон",
       "name_default": "Cape Breton",
-      "native": "Cape Breton County",
+      "native": "Cape Breton",
       "type": "county",
       "level": null,
       "parent_id": null,
@@ -390,7 +390,7 @@
     },
     {
       "id": 16324,
-      "name": "Коул-Харбор",
+      "name": "Коул-Гарбор",
       "name_default": "Cole Harbour",
       "native": "Cole Harbour",
       "type": "section",
@@ -408,7 +408,7 @@
     },
     {
       "id": 16342,
-      "name": "Коров'яча затока",
+      "name": "Cow Bay",
       "name_default": "Cow Bay",
       "native": "Cow Bay",
       "type": "city",
@@ -444,7 +444,7 @@
     },
     {
       "id": 16374,
-      "name": "Дігбі",
+      "name": "Діґбі",
       "name_default": "Digby",
       "native": "Digby",
       "type": "city",
@@ -462,7 +462,7 @@
     },
     {
       "id": 16375,
-      "name": "Округ Дігбі",
+      "name": "Digby County",
       "name_default": "Digby County",
       "native": "Digby County",
       "type": "county",
@@ -500,7 +500,7 @@
       "id": 16407,
       "name": "Ескасоні 3",
       "name_default": "Eskasoni 3",
-      "native": "Explanation 3",
+      "native": "Eskasoni 3",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -642,7 +642,7 @@
     },
     {
       "id": 16589,
-      "name": "Озеро Ехо",
+      "name": "Lake Echo",
       "name_default": "Lake Echo",
       "native": "Lake Echo",
       "type": "city",
@@ -786,7 +786,7 @@
     },
     {
       "id": 16818,
-      "name": "Піктоу",
+      "name": "Пікту",
       "name_default": "Pictou",
       "native": "Pictou",
       "type": "city",
@@ -804,7 +804,7 @@
     },
     {
       "id": 16819,
-      "name": "Округ Піктоу",
+      "name": "Пікте",
       "name_default": "Pictou County",
       "native": "Pictou County",
       "type": "county",
@@ -912,7 +912,7 @@
     },
     {
       "id": 17095,
-      "name": "Сідней",
+      "name": "Сідні",
       "name_default": "Sydney",
       "native": "Sydney",
       "type": "city",

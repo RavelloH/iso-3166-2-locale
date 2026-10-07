@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "'أنس",
+      "name": "مديرية عنس",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -93,10 +93,10 @@
     },
     {
       "id": 130718,
-      "name": "المنار",
+      "name": "مديرية المنار",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -147,7 +147,7 @@
     },
     {
       "id": 130834,
-      "name": "ذمار",
+      "name": "المحويت",
       "name_default": "Dhamār",
       "native": "ذمار",
       "type": "adm1",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130873,
-      "name": "جبل الشرق",
+      "name": "مديرية جبل الشرق",
       "name_default": "Jabal Ash sharq",
       "native": "جبل الشرق",
       "type": "area",
@@ -183,7 +183,7 @@
     },
     {
       "id": 130878,
-      "name": "جهران",
+      "name": "مديرية جهران",
       "name_default": "Jahran",
       "native": "جهران",
       "type": "area",
@@ -273,7 +273,7 @@
     },
     {
       "id": 131001,
-      "name": "وصاب السافل",
+      "name": "مديرية وصاب السافل",
       "name_default": "Wusab As Safil",
       "native": "وصاب السافل",
       "type": "area",

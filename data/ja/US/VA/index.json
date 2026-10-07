@@ -271,7 +271,7 @@
     },
     {
       "id": 110994,
-      "name": "アコマック",
+      "name": "アッコマック",
       "name_default": "Accomac",
       "native": "Accomac",
       "type": "city",
@@ -327,7 +327,7 @@
       "id": 111238,
       "name": "アルタビスタ",
       "name_default": "Altavista",
-      "native": "Speaker",
+      "native": "Altavista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -343,7 +343,7 @@
     },
     {
       "id": 111270,
-      "name": "アメリア コート ハウス",
+      "name": "アメリア・コートハウス",
       "name_default": "Amelia Court House",
       "native": "Amelia Court House",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 111514,
-      "name": "アシュバーン",
+      "name": "アッシュバーン",
       "name_default": "Ashburn",
       "native": "Ashburn",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 111532,
-      "name": "アッシュランド",
+      "name": "アシュランド",
       "name_default": "Ashland",
       "native": "Ashland",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 112420,
-      "name": "味気ない",
+      "name": "ブランド",
       "name_default": "Bland",
       "native": "Bland",
       "type": "city",
@@ -849,7 +849,7 @@
       "id": 112526,
       "name": "ボンエア",
       "name_default": "Bon Air",
-      "native": "Good air",
+      "native": "Bon Air",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,7 +901,7 @@
     },
     {
       "id": 112644,
-      "name": "ボイドトン",
+      "name": "ボイトン",
       "name_default": "Boydton",
       "native": "Boydton",
       "type": "city",
@@ -1135,9 +1135,9 @@
     },
     {
       "id": 113001,
-      "name": "ブエナ・ビスタ",
+      "name": "ブエナビスタ",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 113588,
-      "name": "洞窟の泉",
+      "name": "Cave Spring",
       "name_default": "Cave Spring",
       "native": "Cave Spring",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 113695,
-      "name": "センタービル",
+      "name": "センターヴィル",
       "name_default": "Centreville",
       "native": "Centreville",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 113755,
-      "name": "チャールズシティ",
+      "name": "チャールズ・シティ",
       "name_default": "Charles City",
       "native": "Charles City",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 113787,
-      "name": "シャーロッツビル",
+      "name": "シャーロッツヴィル",
       "name_default": "Charlottesville",
       "native": "Charlottesville",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 113791,
-      "name": "チェイスシティ",
+      "name": "チェイス・シティ",
       "name_default": "Chase City",
       "native": "Chase City",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 113908,
-      "name": "チェスターフィールド・コートハウス",
+      "name": "チェスターフィールド・コート・ハウス",
       "name_default": "Chesterfield Court House",
       "native": "Chesterfield Court House",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 113966,
-      "name": "チンコティーグ",
+      "name": "シンコティーグ",
       "name_default": "Chincoteague",
       "native": "Chincoteague",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 114052,
-      "name": "シャーロッツビル市",
+      "name": "City of Charlottesville",
       "name_default": "City of Charlottesville",
       "native": "City of Charlottesville",
       "type": "city",
@@ -1649,7 +1649,7 @@
       "latitude": "38.03265270",
       "longitude": "-78.47831750",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 114053,
-      "name": "チェサピーク市",
+      "name": "City of Chesapeake",
       "name_default": "City of Chesapeake",
       "native": "City of Chesapeake",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 114054,
-      "name": "コロニアルハイツ市",
+      "name": "City of Colonial Heights",
       "name_default": "City of Colonial Heights",
       "native": "City of Colonial Heights",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 114056,
-      "name": "ダンビル市",
+      "name": "City of Danville",
       "name_default": "City of Danville",
       "native": "City of Danville",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 114057,
-      "name": "エンポリア市",
+      "name": "City of Emporia",
       "name_default": "City of Emporia",
       "native": "City of Emporia",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 114058,
-      "name": "フェアファックス市",
+      "name": "City of Fairfax",
       "name_default": "City of Fairfax",
       "native": "City of Fairfax",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 114059,
-      "name": "フォールズチャーチ市",
+      "name": "City of Falls Church",
       "name_default": "City of Falls Church",
       "native": "City of Falls Church",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 114061,
-      "name": "フレデリックスバーグ市",
+      "name": "City of Fredericksburg",
       "name_default": "City of Fredericksburg",
       "native": "City of Fredericksburg",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 114063,
-      "name": "ハンプトン市",
+      "name": "City of Hampton",
       "name_default": "City of Hampton",
       "native": "City of Hampton",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 114065,
-      "name": "ホープウェル市",
+      "name": "City of Hopewell",
       "name_default": "City of Hopewell",
       "native": "City of Hopewell",
       "type": "city",
@@ -1811,7 +1811,7 @@
       "latitude": "37.30591000",
       "longitude": "-77.28372280",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 114066,
-      "name": "レキシントン市",
+      "name": "City of Lexington",
       "name_default": "City of Lexington",
       "native": "City of Lexington",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 114068,
-      "name": "マナサス市",
+      "name": "City of Manassas",
       "name_default": "City of Manassas",
       "native": "City of Manassas",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 114072,
-      "name": "ニューポートニューズ市",
+      "name": "City of Newport News",
       "name_default": "City of Newport News",
       "native": "City of Newport News",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 114073,
-      "name": "ノーフォーク市",
+      "name": "City of Norfolk",
       "name_default": "City of Norfolk",
       "native": "City of Norfolk",
       "type": "city",
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 114077,
-      "name": "ポーツマス市",
+      "name": "City of Portsmouth",
       "name_default": "City of Portsmouth",
       "native": "City of Portsmouth",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 114079,
-      "name": "リッチモンド市",
+      "name": "City of Richmond",
       "name_default": "City of Richmond",
       "native": "City of Richmond",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 114080,
-      "name": "ロアノーク市",
+      "name": "City of Roanoke",
       "name_default": "City of Roanoke",
       "native": "City of Roanoke",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 114082,
-      "name": "セーラム市",
+      "name": "City of Salem",
       "name_default": "City of Salem",
       "native": "City of Salem",
       "type": "city",
@@ -1955,7 +1955,7 @@
       "latitude": "37.29193660",
       "longitude": "-80.05707730",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 114084,
-      "name": "スタントン市",
+      "name": "City of Staunton",
       "name_default": "City of Staunton",
       "native": "City of Staunton",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 114085,
-      "name": "サフォーク市",
+      "name": "City of Suffolk",
       "name_default": "City of Suffolk",
       "native": "City of Suffolk",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 114086,
-      "name": "バージニアビーチ市",
+      "name": "City of Virginia Beach",
       "name_default": "City of Virginia Beach",
       "native": "City of Virginia Beach",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 114088,
-      "name": "ウィリアムズバーグ市",
+      "name": "City of Williamsburg",
       "name_default": "City of Williamsburg",
       "native": "City of Williamsburg",
       "type": "city",
@@ -2027,7 +2027,7 @@
       "latitude": "37.27521850",
       "longitude": "-76.70864080",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -2071,7 +2071,7 @@
     },
     {
       "id": 114262,
-      "name": "クリフトンフォージ",
+      "name": "クリフトンフォージュ",
       "name_default": "Clifton Forge",
       "native": "Clifton Forge",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 114725,
-      "name": "田舎",
+      "name": "Countryside",
       "name_default": "Countryside",
       "native": "Countryside",
       "type": "city",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 114739,
-      "name": "コビントン",
+      "name": "コヴィントン",
       "name_default": "Covington",
       "native": "Covington",
       "type": "city",
@@ -2289,7 +2289,7 @@
       "id": 114820,
       "name": "クリモラ",
       "name_default": "Crimora",
-      "native": "Cranny",
+      "native": "Crimora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 114871,
-      "name": "クロゼ",
+      "name": "クローゼー",
       "name_default": "Crozet",
       "native": "Crozet",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 114970,
-      "name": "ダルグレン",
+      "name": "ダールグレン",
       "name_default": "Dahlgren",
       "native": "Dahlgren",
       "type": "city",
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 115517,
-      "name": "ダンフリース",
+      "name": "ダムフリーズ",
       "name_default": "Dumfries",
       "native": "Dumfries",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 115549,
-      "name": "ダン・ローリング",
+      "name": "ダンローリング",
       "name_default": "Dunn Loring",
       "native": "Dunn Loring",
       "type": "city",
@@ -2775,7 +2775,7 @@
       "id": 116145,
       "name": "エノン",
       "name_default": "Enon",
-      "native": "Uncle",
+      "native": "Enon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 116303,
-      "name": "フェアファックス",
+      "name": "フェアファクス",
       "name_default": "Fairfax",
       "native": "Fairfax",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 116308,
-      "name": "フェアファックス駅",
+      "name": "フェアファックス・ステーション",
       "name_default": "Fairfax Station",
       "native": "Fairfax Station",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 116427,
-      "name": "ファームビル",
+      "name": "ファームヴィル",
       "name_default": "Farmville",
       "native": "Farmville",
       "type": "city",
@@ -2937,7 +2937,7 @@
       "id": 116497,
       "name": "フェルム",
       "name_default": "Ferrum",
-      "native": "Iron",
+      "native": "Ferrum",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 116644,
-      "name": "森",
+      "name": "Forest",
       "name_default": "Forest",
       "native": "Forest",
       "type": "city",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 116691,
-      "name": "フォートベルボア",
+      "name": "フォート・ベルボア",
       "name_default": "Fort Belvoir",
       "native": "Fort Belvoir",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 116718,
-      "name": "フォートハント",
+      "name": "フォート・ハント",
       "name_default": "Fort Hunt",
       "native": "Fort Hunt",
       "type": "city",
@@ -3079,7 +3079,7 @@
     },
     {
       "id": 116724,
-      "name": "フォートリー",
+      "name": "フォート・リー",
       "name_default": "Fort Lee",
       "native": "Fort Lee",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 116960,
-      "name": "フロントロイヤル",
+      "name": "フロント・ロイヤル",
       "name_default": "Front Royal",
       "native": "Front Royal",
       "type": "city",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 117018,
-      "name": "ゲインズビル",
+      "name": "ゲインズヴィル",
       "name_default": "Gainesville",
       "native": "Gainesville",
       "type": "city",
@@ -3187,9 +3187,9 @@
     },
     {
       "id": 117020,
-      "name": "ギャラックス",
+      "name": "ゲイラクス",
       "name_default": "Galax",
-      "native": "Galaxy",
+      "native": "Galax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 117118,
-      "name": "ゲートシティ",
+      "name": "ゲート・シティ",
       "name_default": "Gate City",
       "native": "Gate City",
       "type": "city",
@@ -3225,7 +3225,7 @@
       "id": 117232,
       "name": "グレイドスプリング",
       "name_default": "Glade Spring",
-      "native": "Happy jumps",
+      "native": "Glade Spring",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 117259,
-      "name": "グレン・アレン",
+      "name": "グレンアレン",
       "name_default": "Glen Allen",
       "native": "Glen Allen",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 117326,
-      "name": "グロスター裁判所",
+      "name": "グロスター・コートハウス",
       "name_default": "Gloucester Courthouse",
       "native": "Gloucester Courthouse",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 117572,
-      "name": "グレートフォールズ",
+      "name": "グレート・フォールズ",
       "name_default": "Great Falls",
       "native": "Great Falls",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 117969,
-      "name": "ハノーバー",
+      "name": "ハノーヴァー・コートハウス",
       "name_default": "Hanover",
       "native": "Hanover",
       "type": "city",
@@ -3799,9 +3799,9 @@
     },
     {
       "id": 118845,
-      "name": "ハイブラ渓谷",
+      "name": "Hybla Valley",
       "name_default": "Hybla Valley",
-      "native": "Hybela Val",
+      "native": "Hybla Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 118894,
-      "name": "独立",
+      "name": "インディペンデンス",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 119589,
-      "name": "キング＆クイーンコートハウス",
+      "name": "キングアンドクイーンコートハウス",
       "name_default": "King and Queen Court House",
       "native": "King and Queen Court House",
       "type": "city",
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 119584,
-      "name": "ジョージ王",
+      "name": "キング・ジョージ",
       "name_default": "King George",
       "native": "King George",
       "type": "city",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 119586,
-      "name": "ウィリアム王",
+      "name": "キングウィリアム",
       "name_default": "King William",
       "native": "King William",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 119868,
-      "name": "バークロフト湖",
+      "name": "Lake Barcroft",
       "name_default": "Lake Barcroft",
       "native": "Lake Barcroft",
       "type": "city",
@@ -4087,7 +4087,7 @@
     },
     {
       "id": 119947,
-      "name": "モンティセロ湖",
+      "name": "Lake Monticello",
       "name_default": "Lake Monticello",
       "native": "Lake Monticello",
       "type": "city",
@@ -4159,7 +4159,7 @@
     },
     {
       "id": 120191,
-      "name": "月桂樹",
+      "name": "ローレル",
       "name_default": "Laurel",
       "native": "Laurel",
       "type": "city",
@@ -4249,7 +4249,7 @@
     },
     {
       "id": 120326,
-      "name": "リースバーグ",
+      "name": "リーズバーグ",
       "name_default": "Leesburg",
       "native": "Leesburg",
       "type": "city",
@@ -4285,7 +4285,7 @@
     },
     {
       "id": 120549,
-      "name": "リンカーニア",
+      "name": "リンカニア",
       "name_default": "Lincolnia",
       "native": "Lincolnia",
       "type": "city",
@@ -4375,7 +4375,7 @@
     },
     {
       "id": 120805,
-      "name": "ルイザ",
+      "name": "ルイーザ",
       "name_default": "Louisa",
       "native": "Louisa",
       "type": "city",
@@ -4429,7 +4429,7 @@
     },
     {
       "id": 120844,
-      "name": "ロウズ島",
+      "name": "Lowes Island",
       "name_default": "Lowes Island",
       "native": "Lowes Island",
       "type": "city",
@@ -4465,9 +4465,9 @@
     },
     {
       "id": 120890,
-      "name": "ルレイ",
+      "name": "ルーレイ",
       "name_default": "Luray",
-      "native": "Guardians",
+      "native": "Luray",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4645,7 +4645,7 @@
     },
     {
       "id": 121350,
-      "name": "マーティンズビル",
+      "name": "マーティンズヴィル",
       "name_default": "Martinsville",
       "native": "Martinsville",
       "type": "city",
@@ -4683,7 +4683,7 @@
       "id": 121390,
       "name": "マッサナッテン",
       "name_default": "Massanutten",
-      "native": "Mass out",
+      "native": "Massanutten",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4771,7 +4771,7 @@
     },
     {
       "id": 121583,
-      "name": "メカニクスビル",
+      "name": "メカニクスヴィル",
       "name_default": "Mechanicsville",
       "native": "Mechanicsville",
       "type": "city",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 122346,
-      "name": "ヘルモン山",
+      "name": "Mount Hermon",
       "name_default": "Mount Hermon",
       "native": "Mount Hermon",
       "type": "city",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": 122426,
-      "name": "山道",
+      "name": "Mountain Road",
       "name_default": "Mountain Road",
       "native": "Mountain Road",
       "type": "city",
@@ -5095,7 +5095,7 @@
     },
     {
       "id": 122734,
-      "name": "ニューケント",
+      "name": "ニュー・ケント",
       "name_default": "New Kent",
       "native": "New Kent",
       "type": "city",
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 122751,
-      "name": "ニューマーケット",
+      "name": "ニュー・マーケット",
       "name_default": "New Market",
       "native": "New Market",
       "type": "city",
@@ -5149,7 +5149,7 @@
     },
     {
       "id": 122856,
-      "name": "ニューポートニューズ",
+      "name": "ニューポート・ニューズ",
       "name_default": "Newport News",
       "native": "Newport News",
       "type": "city",
@@ -5221,7 +5221,7 @@
     },
     {
       "id": 123110,
-      "name": "ノーススプリングフィールド",
+      "name": "ノース・スプリングフィールド",
       "name_default": "North Springfield",
       "native": "North Springfield",
       "type": "city",
@@ -5293,9 +5293,9 @@
     },
     {
       "id": 123305,
-      "name": "オークトン",
+      "name": "フェアファックス郡",
       "name_default": "Oakton",
-      "native": "Oak",
+      "native": "Oakton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5365,7 +5365,7 @@
     },
     {
       "id": 123773,
-      "name": "パルミラ",
+      "name": "パルマイラ",
       "name_default": "Palmyra",
       "native": "Palmyra",
       "type": "city",
@@ -5455,7 +5455,7 @@
     },
     {
       "id": 123962,
-      "name": "ペアリスバーグ",
+      "name": "ピアリズバーグ",
       "name_default": "Pearisburg",
       "native": "Pearisburg",
       "type": "city",
@@ -5473,7 +5473,7 @@
     },
     {
       "id": 124006,
-      "name": "ペンブローク",
+      "name": "ペンブルック",
       "name_default": "Pembroke",
       "native": "Pembroke",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 124489,
-      "name": "ポクソン",
+      "name": "ポコソン",
       "name_default": "Poquoson",
       "native": "Poquoson",
       "type": "city",
@@ -5671,7 +5671,7 @@
     },
     {
       "id": 124674,
-      "name": "ジョージ王子",
+      "name": "プリンス・ジョージ",
       "name_default": "Prince George",
       "native": "Prince George",
       "type": "city",
@@ -5725,7 +5725,7 @@
     },
     {
       "id": 124780,
-      "name": "クアンティコ駅",
+      "name": "クアンティコ海兵隊基地",
       "name_default": "Quantico Station",
       "native": "Quantico Station",
       "type": "city",
@@ -5869,7 +5869,7 @@
     },
     {
       "id": 125336,
-      "name": "ロッキーマウント",
+      "name": "ロッキー・マウント",
       "name_default": "Rocky Mount",
       "native": "Rocky Mount",
       "type": "city",
@@ -5961,7 +5961,7 @@
       "id": 125524,
       "name": "ラシュミア",
       "name_default": "Rushmere",
-      "native": "Ruting",
+      "native": "Rushmere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5995,7 +5995,7 @@
     },
     {
       "id": 125734,
-      "name": "セーラム",
+      "name": "セイラム",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -6033,7 +6033,7 @@
       "id": 125773,
       "name": "サルーダ",
       "name_default": "Saluda",
-      "native": "Greet",
+      "native": "Saluda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6427,7 +6427,7 @@
     },
     {
       "id": 127020,
-      "name": "スティーブンスシティ",
+      "name": "スティーブンズシティ",
       "name_default": "Stephens City",
       "native": "Stephens City",
       "type": "city",
@@ -6463,7 +6463,7 @@
     },
     {
       "id": 127120,
-      "name": "ストラスバーグ",
+      "name": "ストラーズバーグ",
       "name_default": "Strasburg",
       "native": "Strasburg",
       "type": "city",
@@ -6609,7 +6609,7 @@
       "id": 127425,
       "name": "タパハノック",
       "name_default": "Tappahannock",
-      "native": "Tapahannock",
+      "native": "Tappahannock",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6679,7 +6679,7 @@
     },
     {
       "id": 127818,
-      "name": "三角形",
+      "name": "トライアングル",
       "name_default": "Triangle",
       "native": "Triangle",
       "type": "city",
@@ -6733,9 +6733,9 @@
     },
     {
       "id": 127952,
-      "name": "タイソンズコーナー",
+      "name": "タイソンズ",
       "name_default": "Tysons",
-      "native": "Tysons Corner",
+      "native": "Tysons",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6823,7 +6823,7 @@
     },
     {
       "id": 128234,
-      "name": "ウィーン",
+      "name": "ヴィーナ",
       "name_default": "Vienna",
       "native": "Vienna",
       "type": "city",
@@ -6859,7 +6859,7 @@
     },
     {
       "id": 128288,
-      "name": "バージニアビーチ",
+      "name": "ヴァージニア・ビーチ",
       "name_default": "Virginia Beach",
       "native": "Virginia Beach",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 128877,
-      "name": "西門",
+      "name": "West Gate",
       "name_default": "West Gate",
       "native": "West Gate",
       "type": "city",
@@ -7183,7 +7183,7 @@
     },
     {
       "id": 129459,
-      "name": "賢い",
+      "name": "ワイズ",
       "name_default": "Wise",
       "native": "Wise",
       "type": "city",
@@ -7327,7 +7327,7 @@
     },
     {
       "id": 129645,
-      "name": "ワイスビル",
+      "name": "ウィズヴィル",
       "name_default": "Wytheville",
       "native": "Wytheville",
       "type": "city",

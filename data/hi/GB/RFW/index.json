@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 49043,
-      "name": "क्लाइडबैंक",
-      "name_default": "Clydebank",
-      "native": "Clydebank",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 26320,
-      "latitude": "55.90137000",
-      "longitude": "-4.40570000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q996502",
-      "country_code": "GB",
-      "state_code": "RFW",
-      "state_id": 2443,
-      "country_id": 232
-    },
-    {
       "id": 49450,
       "name": "एल्डर्सली",
       "name_default": "Elderslie",
@@ -185,7 +167,7 @@
       "id": 50048,
       "name": "इंचिनन",
       "name_default": "Inchinnan",
-      "native": "Inchinna",
+      "native": "Inchinnan",
       "type": "city",
       "level": null,
       "parent_id": null,

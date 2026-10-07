@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 18,
-      "name": "El Batayih",
+      "name": "Al Batayih",
       "name_default": "Al Batayih",
       "native": "البطائح",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 13,
-      "name": "El Dhaid",
+      "name": "Zeyd",
       "name_default": "Al Dhaid",
       "native": "الذيد",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 22,
-      "name": "El Hamriyah",
+      "name": "Al Hamriyah",
       "name_default": "Al Hamriyah",
       "native": "الحمرية",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 23,
-      "name": "El Hanım",
+      "name": "El-Medem",
       "name_default": "Al Madam",
-      "native": "السيدة",
+      "native": "المدام",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -128,8 +128,26 @@
       "country_id": 231
     },
     {
+      "id": 31,
+      "name": "Deba",
+      "name_default": "Dibba Al-Hisn",
+      "native": "دبا الحصن",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26395,
+      "latitude": "25.61955000",
+      "longitude": "56.27291000",
+      "timezone": "Asia/Dubai",
+      "wikiDataId": "Q6742405",
+      "country_code": "AE",
+      "state_code": "SH",
+      "state_id": 3390,
+      "country_id": 231
+    },
+    {
       "id": 33,
-      "name": "Kalba",
+      "name": "Kelba",
       "name_default": "Kalba",
       "native": "كلباء",
       "type": "city",
@@ -165,7 +183,7 @@
     },
     {
       "id": 39,
-      "name": "Milehah",
+      "name": "Meliha",
       "name_default": "Milehah",
       "native": "ميلها",
       "type": "city",
@@ -183,7 +201,7 @@
     },
     {
       "id": 40,
-      "name": "Murbah",
+      "name": "Murbaḩ",
       "name_default": "Murbaḩ",
       "native": "مربح",
       "type": "city",

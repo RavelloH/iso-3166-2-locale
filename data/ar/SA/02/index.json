@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 148874,
-      "name": "أبو عروة",
+      "name": "أبي عروة",
       "name_default": "Abu `Urwah",
       "native": "أبو عروة",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 148871,
-      "name": "أبو الحسني",
+      "name": "أبو حصاني",
       "name_default": "Abu Hisani",
       "native": "أبو الحسني",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 148876,
-      "name": "الدعوه",
+      "name": "الدوح",
       "name_default": "Ad Dawh",
       "native": "الدعوه",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 148877,
-      "name": "أد دور",
+      "name": "الدورة",
       "name_default": "Ad Dur",
       "native": "أد دور",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 148882,
-      "name": "البيار",
+      "name": "البعار",
       "name_default": "Al Bi'ar",
       "native": "البيار",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 148883,
-      "name": "آل بيرك",
+      "name": "البرك",
       "name_default": "Al Birk",
       "native": "آل بيرك",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 148888,
-      "name": "الغارث",
+      "name": "الغريف",
       "name_default": "Al Gharith",
       "native": "الغارث",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 148889,
-      "name": "الغسالة",
+      "name": "القشلة",
       "name_default": "Al Ghassalah",
       "native": "الغسالة",
       "type": "section",
@@ -417,7 +417,7 @@
     },
     {
       "id": 148890,
-      "name": "الغولة",
+      "name": "الغولاء",
       "name_default": "Al Ghulah",
       "native": "الغولة",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 148899,
-      "name": "الجعرانة",
+      "name": "جعرانة",
       "name_default": "Al Ju`ranah",
       "native": "الجعرانة",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 148911,
-      "name": "المحجر",
+      "name": "المهجر",
       "name_default": "Al Mahjar",
       "native": "المحجر",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 148920,
-      "name": "المليحة",
+      "name": "المليحا",
       "name_default": "Al Mulayha'",
       "native": "المليحة",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 148922,
-      "name": "المقيطي",
+      "name": "المقيطع",
       "name_default": "Al Muqayti`",
       "native": "المقيطي",
       "type": "adm1",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 148924,
-      "name": "القديمة",
+      "name": "القضيمة",
       "name_default": "Al Qadimah",
       "native": "القديمة",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 148930,
-      "name": "القطبة",
+      "name": "القعطبة",
       "name_default": "Al Qu`tubah",
       "native": "القطبة",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 148934,
-      "name": "الواحة",
+      "name": "الوهط",
       "name_default": "Al Waht",
       "native": "الواحة",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 148937,
-      "name": "رفح",
+      "name": "الرافة",
       "name_default": "Ar Rafah",
       "native": "رفح",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 148947,
-      "name": "السواده",
+      "name": "السودة",
       "name_default": "As Suwadah",
       "native": "السواده",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 102845,
-      "name": "آش شفا",
+      "name": "الشفا",
       "name_default": "Ash Shafā",
       "native": "آش شفا",
       "type": "city",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 148948,
-      "name": "أش شجوة",
+      "name": "الشجوة",
       "name_default": "Ash Shajwah",
       "native": "أش شجوة",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 148950,
-      "name": "الشريعة",
+      "name": "حي الشرائع",
       "name_default": "Ash Shara'i`",
       "native": "الشريعة",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 148954,
-      "name": "أش الشميسي",
+      "name": "الشميسي",
       "name_default": "Ash Shumaysi",
       "native": "أش الشميسي",
       "type": "city",
@@ -1605,9 +1605,9 @@
     },
     {
       "id": 148956,
-      "name": "في التنعيم",
+      "name": "At Tan`im",
       "name_default": "At Tan`im",
-      "native": "في التنعيم",
+      "native": "التنعيم",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1623,9 +1623,9 @@
     },
     {
       "id": 148957,
-      "name": "في الطرفة",
+      "name": "الطرفاء",
       "name_default": "At Tarfa'",
-      "native": "في الطرفة",
+      "native": "الطرفاء",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 148958,
-      "name": "في تركي",
+      "name": "At Turqi",
       "name_default": "At Turqi",
       "native": "في تركي",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 148959,
-      "name": "الزعيمة",
+      "name": "الزيمه",
       "name_default": "Az Zaymah",
       "native": "الزعيمة",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 148960,
-      "name": "الظلال",
+      "name": "الزلال",
       "name_default": "Az Zilal",
       "native": "الظلال",
       "type": "city",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 148967,
-      "name": "برزة",
+      "name": "البرزة",
       "name_default": "Barzah",
       "native": "برزة",
       "type": "city",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 148973,
-      "name": "دهبان",
+      "name": "ذهبان",
       "name_default": "Dahaban",
       "native": "دهبان",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 148975,
-      "name": "فايد",
+      "name": "الفيضه",
       "name_default": "Fayd",
       "native": "فايد",
       "type": "city",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 148977,
-      "name": "حدت الشام",
+      "name": "هدى الشام",
       "name_default": "Haddat ash Sham",
       "native": "حدت الشام",
       "type": "city",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 148982,
-      "name": "جاروال",
+      "name": "جرول",
       "name_default": "Jarwal",
       "native": "جاروال",
       "type": "section",
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 148996,
-      "name": "مينا",
+      "name": "منى",
       "name_default": "Mina",
       "native": "مينا",
       "type": "city",
@@ -2415,7 +2415,7 @@
     },
     {
       "id": 149002,
-      "name": "كيا",
+      "name": "قياء",
       "name_default": "Qiya",
       "native": "كيا",
       "type": "city",
@@ -2559,7 +2559,7 @@
     },
     {
       "id": 149010,
-      "name": "سميمة",
+      "name": "صميمة",
       "name_default": "Sumaymah",
       "native": "سميمة",
       "type": "city",
@@ -2685,7 +2685,7 @@
     },
     {
       "id": 149016,
-      "name": "وادي الجليل",
+      "name": "وادي جليل",
       "name_default": "Wadi al Jalil",
       "native": "وادي الجليل",
       "type": "city",

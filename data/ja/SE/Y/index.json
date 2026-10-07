@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104009,
-      "name": "アンゲ",
+      "name": "オンゲ",
       "name_default": "Ånge",
       "native": "Ånge",
       "type": "adm2",
@@ -75,9 +75,9 @@
     },
     {
       "id": 104015,
-      "name": "として",
+      "name": "Ås",
       "name_default": "Ås",
-      "native": "Kulle",
+      "native": "Ås",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 103322,
-      "name": "ヘルノーサンド",
+      "name": "ヘーノーサンド",
       "name_default": "Härnösand",
       "native": "Härnösand",
       "type": "adm1",
@@ -255,7 +255,7 @@
     },
     {
       "id": 103411,
-      "name": "クラムフォース",
+      "name": "クラームフォシュ",
       "name_default": "Kramfors",
       "native": "Kramfors",
       "type": "adm2",
@@ -275,7 +275,7 @@
       "id": 103434,
       "name": "クヴィスレビー",
       "name_default": "Kvissleby",
-      "native": "Kvist",
+      "native": "Kvissleby",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 104039,
-      "name": "エルンシェルツヴィク",
+      "name": "エルンシェルツビク",
       "name_default": "Örnsköldsvik",
       "native": "Örnsköldsvik",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 103735,
-      "name": "ソレフテオ",
+      "name": "ソレフテオー",
       "name_default": "Sollefteå",
       "native": "Sollefteå",
       "type": "adm2",
@@ -455,7 +455,7 @@
       "id": 103785,
       "name": "スンドスブルク",
       "name_default": "Sundsbruk",
-      "native": "Sundanvändning",
+      "native": "Sundsbruk",
       "type": "city",
       "level": null,
       "parent_id": null,

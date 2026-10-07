@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80563,
-      "name": "Asentamiento Humano Nicolás de Pierola",
+      "name": "Asentamiento Humano Nicolas de Pierola",
       "name_default": "Asentamiento Humano Nicolas de Pierola",
       "native": "Asentamiento Humano Nicolas de Pierola",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 80672,
-      "name": "Independência",
+      "name": "Independencia",
       "name_default": "Independencia",
       "native": "Independencia",
       "type": "locality",
@@ -309,7 +309,7 @@
     },
     {
       "id": 80730,
-      "name": "Novo Imperial",
+      "name": "Nuevo Imperial",
       "name_default": "Nuevo Imperial",
       "native": "Nuevo Imperial",
       "type": "adm3",
@@ -347,7 +347,7 @@
       "id": 80753,
       "name": "Paramonga",
       "name_default": "Paramonga",
-      "native": "Cacerola",
+      "native": "Paramonga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 80793,
-      "name": "Província de Canta",
+      "name": "Provincia de Canta",
       "name_default": "Provincia de Canta",
       "native": "Provincia de Canta",
       "type": "province",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80836,
-      "name": "Província de Huaral",
+      "name": "Provincia de Huaral",
       "name_default": "Provincia de Huaral",
       "native": "Provincia de Huaral",
       "type": "province",
@@ -453,7 +453,7 @@
     },
     {
       "id": 80840,
-      "name": "Província de Huarochirí",
+      "name": "Provincia de Huarochirí",
       "name_default": "Provincia de Huarochirí",
       "native": "Provincia de Huarochirí",
       "type": "province",
@@ -474,7 +474,7 @@
       "name": "Província de Yauyos",
       "name_default": "Provincia de Yauyos",
       "native": "Provincia de Yauyos",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 20463,
@@ -525,7 +525,7 @@
     },
     {
       "id": 80942,
-      "name": "São Bartolo",
+      "name": "San Bartolo",
       "name_default": "San Bartolo",
       "native": "San Bartolo",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80950,
-      "name": "São Luís",
+      "name": "San Luis",
       "name_default": "San Luis",
       "native": "San Luis",
       "type": "section",
@@ -561,7 +561,7 @@
     },
     {
       "id": 80958,
-      "name": "São Vicente de Cañete",
+      "name": "San Vicente de Cañete",
       "name_default": "San Vicente de Cañete",
       "native": "San Vicente de Cañete",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80962,
-      "name": "Santa Maria",
+      "name": "Santa María",
       "name_default": "Santa María",
       "native": "Santa María",
       "type": "city",
@@ -615,9 +615,9 @@
     },
     {
       "id": 80980,
-      "name": "Super",
+      "name": "Supe",
       "name_default": "Supe",
-      "native": "Abundante",
+      "native": "Supe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 80920,
-      "name": "Porto Supe",
+      "name": "Supe Puerto",
       "name_default": "Supe Puerto",
       "native": "Puerto Supe",
       "type": "city",

@@ -191,7 +191,7 @@
       "name": "Departamento de Cochinoca",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -224,7 +224,7 @@
     },
     {
       "id": 1025,
-      "name": "Odjel Tumbaya",
+      "name": "Departamento de Tumbaya",
       "name_default": "Departamento de Tumbaya",
       "native": "Departamento de Tumbaya",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 1155,
-      "name": "Ingenio La Esperanza",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "Ingenio La Esperanza",
       "type": "city",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1199,
-      "name": "La Quiaça",
+      "name": "La Quiaca",
       "name_default": "La Quiaca",
       "native": "La Quiaca",
       "type": "adm2",
@@ -404,7 +404,7 @@
     },
     {
       "id": 1313,
-      "name": "Palpala",
+      "name": "Palpalá",
       "name_default": "Palpalá",
       "native": "Palpalá",
       "type": "adm2",

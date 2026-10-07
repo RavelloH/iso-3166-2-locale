@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48505,
-      "name": "Биллинге",
+      "name": "Биллиндж",
       "name_default": "Billinge",
       "native": "Billinge",
       "type": "city",
@@ -86,6 +86,24 @@
       "longitude": "-2.68166000",
       "timezone": "Europe/London",
       "wikiDataId": "Q3783795",
+      "country_code": "GB",
+      "state_code": "SHN",
+      "state_id": 2290,
+      "country_id": 232
+    },
+    {
+      "id": 50734,
+      "name": "Ньютон-Ле-Виллоус",
+      "name_default": "Newton-le-Willows",
+      "native": "Newton-le-Willows",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21782,
+      "latitude": "53.45000000",
+      "longitude": "-2.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q750000",
       "country_code": "GB",
       "state_code": "SHN",
       "state_id": 2290,

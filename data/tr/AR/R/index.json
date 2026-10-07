@@ -206,7 +206,7 @@
     },
     {
       "id": 763,
-      "name": "Şempay",
+      "name": "Chimpay",
       "name_default": "Chimpay",
       "native": "Chimpancín",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 764,
-      "name": "Çole Çol",
+      "name": "Choele Choel",
       "name_default": "Choele Choel",
       "native": "Choele Choel",
       "type": "adm2",
@@ -242,7 +242,7 @@
     },
     {
       "id": 768,
-      "name": "Beş Saltos",
+      "name": "Cinco Saltos",
       "name_default": "Cinco Saltos",
       "native": "Cinco Saltos",
       "type": "city",
@@ -314,9 +314,9 @@
     },
     {
       "id": 798,
-      "name": "Albay Belisle",
+      "name": "Coronel Belisle",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -350,10 +350,10 @@
     },
     {
       "id": 832,
-      "name": "Avellaneda Dairesi",
+      "name": "Departamento de Avellaneda",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -368,7 +368,7 @@
     },
     {
       "id": 1032,
-      "name": "Mayo Veinticinco Departamento",
+      "name": "Departamento de Veinticinco de Mayo",
       "name_default": "Departamento de Veinticinco de Mayo",
       "native": "Departamento de Veinticinco de Mayo",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1152,
-      "name": "Mühendis Jacobacci",
+      "name": "Ingeniero Jacobacci",
       "name_default": "Ingeniero Jacobacci",
       "native": "Ingeniero Jacobacci",
       "type": "city",
@@ -584,9 +584,9 @@
     },
     {
       "id": 1263,
-      "name": "Mainque",
+      "name": "Mainqué",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -656,7 +656,7 @@
     },
     {
       "id": 1389,
-      "name": "Rio Colorado",
+      "name": "Río Colorado",
       "name_default": "Río Colorado",
       "native": "Río Colorado",
       "type": "adm2",
@@ -674,7 +674,7 @@
     },
     {
       "id": 1409,
-      "name": "San Antonio Batı",
+      "name": "San Antonio Oeste",
       "name_default": "San Antonio Oeste",
       "native": "San Antonio Oeste",
       "type": "adm2",
@@ -710,7 +710,7 @@
     },
     {
       "id": 1486,
-      "name": "Sierra Colorado",
+      "name": "Sierra Colorada",
       "name_default": "Sierra Colorada",
       "native": "Sierra Colorada",
       "type": "adm2",

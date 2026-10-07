@@ -170,7 +170,7 @@
     },
     {
       "id": 787,
-      "name": "Комодоро Ривадавия",
+      "name": "Комодоро-Ривадавия",
       "name_default": "Comodoro Rivadavia",
       "native": "Comodoro Rivadavia",
       "type": "adm2",
@@ -209,7 +209,7 @@
       "name": "Departamento de Cushamen",
       "name_default": "Departamento de Cushamen",
       "native": "Departamento de Cushamen",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 28209,
@@ -281,7 +281,7 @@
       "name": "Департамент Гайман",
       "name_default": "Departamento de Gaimán",
       "native": "Departamento de Gaimán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12639,
@@ -407,7 +407,7 @@
       "name": "Департамент Сармьенто",
       "name_default": "Departamento de Sarmiento",
       "native": "Departamento de Sarmiento",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14596,
@@ -494,7 +494,7 @@
     },
     {
       "id": 1070,
-      "name": "Эскуэль",
+      "name": "Эскель",
       "name_default": "Esquel",
       "native": "Esquel",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1087,
-      "name": "Гейман",
+      "name": "Гайман",
       "name_default": "Gaimán",
       "native": "Gaimán",
       "type": "adm2",
@@ -530,7 +530,7 @@
     },
     {
       "id": 1092,
-      "name": "Гастр",
+      "name": "Гастре",
       "name_default": "Gastre",
       "native": "Gastre",
       "type": "adm2",
@@ -548,7 +548,7 @@
     },
     {
       "id": 1115,
-      "name": "Губернатор Коста",
+      "name": "Гобернадор-Коста",
       "name_default": "Gobernador Costa",
       "native": "Gobernador Costa",
       "type": "city",
@@ -584,7 +584,7 @@
     },
     {
       "id": 1169,
-      "name": "Хосе де Сан Мартин",
+      "name": "Хосе-де-Сан-Мартин",
       "name_default": "José de San Martín",
       "native": "José de San Martín",
       "type": "adm2",
@@ -602,7 +602,7 @@
     },
     {
       "id": 1206,
-      "name": "Лаго Пуэло",
+      "name": "Лаго-Пуэло",
       "name_default": "Lago Puelo",
       "native": "Lago Puelo",
       "type": "city",
@@ -620,7 +620,7 @@
     },
     {
       "id": 1229,
-      "name": "Лас Плумас",
+      "name": "Лас-Плумас",
       "name_default": "Las Plumas",
       "native": "Las Plumas",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1371,
-      "name": "Рада Тилли",
+      "name": "Рада-Тильи",
       "name_default": "Rada Tilly",
       "native": "Rada Tilly",
       "type": "city",
@@ -710,9 +710,9 @@
     },
     {
       "id": 1374,
-      "name": "Роусон",
+      "name": "Росон",
       "name_default": "Rawson",
-      "native": "Crudo",
+      "native": "Rawson",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -746,7 +746,7 @@
     },
     {
       "id": 1394,
-      "name": "Рио Пико",
+      "name": "Рио-Пико",
       "name_default": "Río Pico",
       "native": "Río Pico",
       "type": "city",

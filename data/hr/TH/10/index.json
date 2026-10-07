@@ -129,7 +129,7 @@
     },
     {
       "id": 106428,
-      "name": "Bang Kho Laen",
+      "name": "Bang Kho laen",
       "name_default": "Bang Kho laen",
       "native": "บางคอแหลม",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 106429,
-      "name": "Bang Khun Thain",
+      "name": "Bang Khun thain",
       "name_default": "Bang Khun thain",
       "native": "บางขุนเทียน",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 106469,
-      "name": "Chatu Čak",
+      "name": "Chatu Chak",
       "name_default": "Chatu Chak",
       "native": "จตุจักร",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106480,
-      "name": "Čom Thong",
+      "name": "Chom Thong",
       "name_default": "Chom Thong",
       "native": "จอมทอง",
       "type": "section",
@@ -561,7 +561,7 @@
     },
     {
       "id": 106597,
-      "name": "Nong Čok",
+      "name": "Nong Chok",
       "name_default": "Nong Chok",
       "native": "หนองจอก",
       "type": "section",
@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Štakor Burana",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

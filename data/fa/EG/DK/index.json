@@ -56,26 +56,8 @@
   },
   "cities": [
     {
-      "id": 31880,
-      "name": "ازبت البرج",
-      "name_default": "‘Izbat al Burj",
-      "native": "عزبة البرج",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 37953,
-      "latitude": "31.50840000",
-      "longitude": "31.84106000",
-      "timezone": "Africa/Cairo",
-      "wikiDataId": "Q1010823",
-      "country_code": "EG",
-      "state_code": "DK",
-      "state_id": 3245,
-      "country_id": 65
-    },
-    {
       "id": 31762,
-      "name": "آجا",
+      "name": "اجا",
       "name_default": "Aga",
       "native": "أجا",
       "type": "city",
@@ -201,7 +183,7 @@
     },
     {
       "id": 31808,
-      "name": "دیکرنیس",
+      "name": "دکرنس",
       "name_default": "Dikirnis",
       "native": "دكرنس",
       "type": "city",
@@ -219,7 +201,7 @@
     },
     {
       "id": 31844,
-      "name": "منیات و نشر",
+      "name": "منیه النصر",
       "name_default": "Minyat an Naşr",
       "native": "منية النصر",
       "type": "city",
@@ -291,7 +273,7 @@
     },
     {
       "id": 31876,
-      "name": "تالخا",
+      "name": "طلخا",
       "name_default": "Ţalkhā",
       "native": "طالخا",
       "type": "city",

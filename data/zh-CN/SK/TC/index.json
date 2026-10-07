@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104379,
-      "name": "贝布拉武河畔巴诺夫采",
+      "name": "贝布拉瓦河畔巴诺维采",
       "name_default": "Bánovce nad Bebravou",
       "native": "Bánovce nad Bebravou",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104377,
-      "name": "Brezová pod Bradlom",
+      "name": "布拉德洛山麓布雷佐瓦",
       "name_default": "Brezová pod Bradlom",
       "native": "Brezová pod Bradlom",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 104586,
-      "name": "恰赫蒂切",
+      "name": "卡克特采",
       "name_default": "Čachtice",
       "native": "Čachtice",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104384,
-      "name": "瓦霍姆河畔杜布尼察",
+      "name": "瓦赫河畔杜布尼察",
       "name_default": "Dubnica nad Váhom",
       "native": "Dubnica nad Váhom",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 104444,
-      "name": "瓦霍姆河畔新梅斯托",
+      "name": "瓦赫河畔新城",
       "name_default": "Nové Mesto nad Váhom",
       "native": "Nové Mesto nad Váhom",
       "type": "city",
@@ -294,7 +294,7 @@
       "name": "贝布拉沃河畔奥克雷斯巴诺夫采",
       "name_default": "Okres Bánovce nad Bebravou",
       "native": "Okres Bánovce nad Bebravou",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 34910,
@@ -330,7 +330,7 @@
       "name": "Okres Myjava",
       "name_default": "Okres Myjava",
       "native": "Okres Myjava",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24809,
@@ -345,7 +345,7 @@
     },
     {
       "id": 104482,
-      "name": "Okres Nové Mesto nad Váhom",
+      "name": "瓦赫河畔新城区",
       "name_default": "Okres Nové Mesto nad Váhom",
       "native": "Okres Nové Mesto nad Váhom",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104484,
-      "name": "奥克雷斯游击队",
+      "name": "帕蒂赞斯克区",
       "name_default": "Okres Partizánske",
       "native": "Okres Partizánske",
       "type": "area",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104489,
-      "name": "比斯特里察州立公园奥克雷斯",
+      "name": "瓦赫河畔比斯特里察区",
       "name_default": "Okres Považská Bystrica",
       "native": "Okres Považská Bystrica",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 104491,
-      "name": "奥克雷斯·普列维扎",
+      "name": "普列维扎区",
       "name_default": "Okres Prievidza",
       "native": "Okres Prievidza",
       "type": "area",
@@ -417,7 +417,7 @@
     },
     {
       "id": 104492,
-      "name": "奥克雷斯·普乔夫",
+      "name": "普霍夫区",
       "name_default": "Okres Púchov",
       "native": "Okres Púchov",
       "type": "area",
@@ -435,7 +435,7 @@
     },
     {
       "id": 104508,
-      "name": "奥克雷斯·特伦钦",
+      "name": "特伦钦区",
       "name_default": "Okres Trenčín",
       "native": "Okres Trenčín",
       "type": "area",
@@ -453,7 +453,7 @@
     },
     {
       "id": 104523,
-      "name": "游击队",
+      "name": "帕蒂赞斯克",
       "name_default": "Partizánske",
       "native": "Partizánske",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 104529,
-      "name": "波瓦日斯卡·比斯特里察",
+      "name": "瓦赫河畔比斯特里察",
       "name_default": "Považská Bystrica",
       "native": "Považská Bystrica",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 104551,
-      "name": "斯塔拉图拉",
+      "name": "旧图拉",
       "name_default": "Stará Turá",
       "native": "Stará Turá",
       "type": "city",

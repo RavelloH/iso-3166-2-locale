@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 155,
-      "name": "Bachkia Bulqizë",
+      "name": "Bashkia Bulqizë",
       "name_default": "Bashkia Bulqizë",
       "native": "Bashkia Bulqizë",
       "type": "municipality",
@@ -75,7 +75,7 @@
     },
     {
       "id": 165,
-      "name": "Bachkia Klos",
+      "name": "Bashkia Klos",
       "name_default": "Bashkia Klos",
       "native": "Bashkia Klos",
       "type": "municipality",
@@ -93,7 +93,7 @@
     },
     {
       "id": 176,
-      "name": "Tapis de Bachkia",
+      "name": "Bashkia Mat",
       "name_default": "Bashkia Mat",
       "native": "Bashkia Mat",
       "type": "municipality",
@@ -167,7 +167,7 @@
       "id": 209,
       "name": "Klos",
       "name_default": "Klos",
-      "native": "Bobinë",
+      "native": "Klos",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 243,
-      "name": "Rrethi et Bulqizës",
+      "name": "Rrethi i Bulqizës",
       "name_default": "Rrethi i Bulqizës",
       "native": "Rrethi i Bulqizës",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 246,
-      "name": "Rrethi et Dibrës",
+      "name": "Rrethi i Dibrës",
       "name_default": "Rrethi i Dibrës",
       "native": "Rrethi i Dibrës",
       "type": "area",
@@ -255,7 +255,7 @@
     },
     {
       "id": 256,
-      "name": "Rrethi et Matit",
+      "name": "Rrethi i Matit",
       "name_default": "Rrethi i Matit",
       "native": "Rrethi i Matit",
       "type": "city",

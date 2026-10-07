@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48402,
-      "name": "반즐리",
+      "name": "반즐리 도시 자치구",
       "name_default": "Barnsley",
       "native": "Barnsley",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48589,
-      "name": "볼턴어폰디어른",
+      "name": "볼턴 어폰 디언",
       "name_default": "Bolton upon Dearne",
       "native": "Bolton upon Dearne",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50882,
-      "name": "페니스톤",
+      "name": "페니스턴",
       "name_default": "Penistone",
       "native": "Penistone",
       "type": "adm3",
@@ -284,24 +284,6 @@
       "longitude": "-1.56381000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2307737",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
-      "id": 51456,
-      "name": "스톡스브리지",
-      "name_default": "Stocksbridge",
-      "native": "Stocksbridge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13301,
-      "latitude": "53.48249000",
-      "longitude": "-1.59373000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1813994",
       "country_code": "GB",
       "state_code": "BNS",
       "state_id": 2499,

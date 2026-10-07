@@ -54,5 +54,24 @@
     "wikiDataId": "Q21606903",
     "country_code": "DZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31450,
+      "name": "ティミムン",
+      "name_default": "Timimoun",
+      "native": "تيميمون",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 33060,
+      "latitude": "29.26388000",
+      "longitude": "0.23098000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q1021173",
+      "country_code": "DZ",
+      "state_code": "49",
+      "state_id": 4910,
+      "country_id": 4
+    }
+  ]
 }

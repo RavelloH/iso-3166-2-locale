@@ -75,7 +75,7 @@
     },
     {
       "id": 48646,
-      "name": "برادفيلد",
+      "name": "بردفيلد",
       "name_default": "Bradfield",
       "native": "Bradfield",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48820,
-      "name": "كالكوت",
+      "name": "كلكت",
       "name_default": "Calcot",
       "native": "Calcot",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49062,
-      "name": "الرماد البارد",
+      "name": "كلد آش",
       "name_default": "Cold Ash",
       "native": "Cold Ash",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49396,
-      "name": "شرق هاني",
+      "name": "East Hanney",
       "name_default": "East Hanney",
       "native": "East Hanney",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49910,
-      "name": "الإرميتاج",
+      "name": "هرميتغ",
       "name_default": "Hermitage",
       "native": "Hermitage",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50023,
-      "name": "هانجرفورد",
+      "name": "هنغرفورد",
       "name_default": "Hungerford",
       "native": "Hungerford",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 50171,
       "name": "كينغسكلر",
       "name_default": "Kingsclere",
-      "native": "Kingscere",
+      "native": "Kingsclere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 50188,
-      "name": "كينتبري",
+      "name": "كينتبوري",
       "name_default": "Kintbury",
       "native": "Kintbury",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 50230,
-      "name": "لامبورن",
+      "name": "لمبورن",
       "name_default": "Lambourn",
       "native": "Lambourn",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 51590,
-      "name": "ثيل",
+      "name": "تهيل",
       "name_default": "Theale",
       "native": "Theale",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51745,
-      "name": "وانتاج",
-      "name_default": "Wantage",
-      "native": "Wantage",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18505,
-      "latitude": "51.58846000",
-      "longitude": "-1.42565000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q953957",
-      "country_code": "GB",
-      "state_code": "WBK",
-      "state_id": 2471,
-      "country_id": 232
-    },
-    {
       "id": 51806,
-      "name": "غرب بيركشاير",
+      "name": "West Berkshire",
       "name_default": "West Berkshire",
       "native": "West Berkshire",
       "type": "area",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51821,
-      "name": "غرب إلسلي",
+      "name": "West Ilsley",
       "name_default": "West Ilsley",
       "native": "West Ilsley",
       "type": "adm1",

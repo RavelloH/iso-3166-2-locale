@@ -307,7 +307,7 @@
     },
     {
       "id": 111290,
-      "name": "Дружелюбие",
+      "name": "Амити",
       "name_default": "Amity",
       "native": "Amity",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111540,
-      "name": "Эшленд",
+      "name": "Ашленд",
       "name_default": "Ashland",
       "native": "Ashland",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111790,
-      "name": "Бэндон",
+      "name": "Бандон",
       "name_default": "Bandon",
       "native": "Bandon",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 111797,
-      "name": "Банки",
+      "name": "Банкс",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 112166,
-      "name": "Сгибать",
+      "name": "Бенд",
       "name_default": "Bend",
       "native": "Bend",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 113087,
-      "name": "Ожоги",
+      "name": "Бернс",
       "name_default": "Burns",
       "native": "Burns",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 113322,
-      "name": "Кэнби",
+      "name": "Канби",
       "name_default": "Canby",
       "native": "Canby",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113516,
-      "name": "Каскадные замки",
+      "name": "Каскейд-Локс",
       "name_default": "Cascade Locks",
       "native": "Cascade Locks",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 113680,
-      "name": "Центральная точка",
+      "name": "Сентрал-Пойнт",
       "name_default": "Central Point",
       "native": "Central Point",
       "type": "city",
@@ -957,7 +957,7 @@
       "id": 114623,
       "name": "Кокиль",
       "name_default": "Coquille",
-      "native": "Shell",
+      "native": "Coquille",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 114693,
-      "name": "Коттедж Гроув",
+      "name": "Коттидж-Гров",
       "name_default": "Cottage Grove",
       "native": "Cottage Grove",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 115010,
-      "name": "Дамаск",
+      "name": "Дамаскус",
       "name_default": "Damascus",
       "native": "Damascus",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 115278,
-      "name": "Леса реки Дешут",
+      "name": "Deschutes River Woods",
       "name_default": "Deschutes River Woods",
       "native": "Deschutes River Woods",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 115536,
-      "name": "Город дюн",
+      "name": "Dunes City",
       "name_default": "Dunes City",
       "native": "Dunes City",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 116150,
-      "name": "Предприятие",
+      "name": "Энтерпрайз",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -1315,9 +1315,9 @@
     },
     {
       "id": 116202,
-      "name": "Эстакада",
+      "name": "Эстакейда",
       "name_default": "Estacada",
-      "native": "Lurch",
+      "native": "Estacada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 116586,
-      "name": "Флоренция",
+      "name": "Флоренс",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 116653,
-      "name": "Форест Гроув",
+      "name": "Форест-Гров",
       "name_default": "Forest Grove",
       "native": "Forest Grove",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 116772,
-      "name": "Ископаемое",
+      "name": "Фоссил",
       "name_default": "Fossil",
       "native": "Fossil",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 117340,
-      "name": "Золотой пляж",
+      "name": "Голд-Бич",
       "name_default": "Gold Beach",
       "native": "Gold Beach",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 117343,
-      "name": "Золотой Холм",
+      "name": "Gold Hill",
       "name_default": "Gold Hill",
       "native": "Gold Hill",
       "type": "city",
@@ -1587,7 +1587,7 @@
       "id": 117474,
       "name": "Гранд Ронд",
       "name_default": "Grand Ronde",
-      "native": "Grand round",
+      "native": "Grand Ronde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 117528,
-      "name": "Грантс Пасс",
+      "name": "Грантс-Пасс",
       "name_default": "Grants Pass",
       "native": "Grants Pass",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 117589,
-      "name": "Зеленый",
+      "name": "Green",
       "name_default": "Green",
       "native": "Green",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 117983,
-      "name": "Счастливая долина",
+      "name": "Хаппи-Валли",
       "name_default": "Happy Valley",
       "native": "Happy Valley",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 118310,
-      "name": "Хеппнер",
+      "name": "Хепнер",
       "name_default": "Heppner",
       "native": "Heppner",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 118452,
-      "name": "Хиллсборо",
+      "name": "Хилсборо",
       "name_default": "Hillsboro",
       "native": "Hillsboro",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 118897,
-      "name": "Независимость",
+      "name": "Индепенденс",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 119251,
-      "name": "Джон Дэй",
+      "name": "Джон-Дей",
       "name_default": "John Day",
       "native": "John Day",
       "type": "city",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 119580,
-      "name": "Город Короля",
+      "name": "King City",
       "name_default": "King City",
       "native": "King City",
       "type": "city",
@@ -2071,9 +2071,9 @@
     },
     {
       "id": 119748,
-      "name": "Ла Гранд",
+      "name": "Ла-Гранд",
       "name_default": "La Grande",
-      "native": "The big one",
+      "native": "La Grande",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2091,7 +2091,7 @@
       "id": 119772,
       "name": "Ла Пайн",
       "name_default": "La Pine",
-      "native": "Pine",
+      "native": "La Pine",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 119837,
-      "name": "Лафайет",
+      "name": "Лафейетт",
       "name_default": "Lafayette",
       "native": "Lafayette",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 119955,
-      "name": "Озеро Освего",
+      "name": "Лейк-Осуэго",
       "name_default": "Lake Oswego",
       "native": "Lake Oswego",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 120294,
-      "name": "Ливан",
+      "name": "Лебанон",
       "name_default": "Lebanon",
       "native": "Lebanon",
       "type": "city",
@@ -2199,7 +2199,7 @@
       "id": 120377,
       "name": "Лентс",
       "name_default": "Lents",
-      "native": "Lens",
+      "native": "Lents",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 121541,
-      "name": "Макминнвилл",
+      "name": "Мак-Минвилл",
       "name_default": "McMinnville",
       "native": "McMinnville",
       "type": "city",
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 122332,
-      "name": "Гора Ангел",
+      "name": "Маунт-Эйнджел",
       "name_default": "Mount Angel",
       "native": "Mount Angel",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 122352,
-      "name": "Деревня Маунт-Худ",
+      "name": "Mount Hood Village",
       "name_default": "Mount Hood Village",
       "native": "Mount Hood Village",
       "type": "city",
@@ -2559,7 +2559,7 @@
       "id": 122458,
       "name": "Мулино",
       "name_default": "Mulino",
-      "native": "Mill",
+      "native": "Mulino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 122524,
-      "name": "Миртл-Пойнт",
+      "name": "Мертл-Пойнт",
       "name_default": "Myrtle Point",
       "native": "Myrtle Point",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 122728,
-      "name": "Новая Надежда",
+      "name": "New Hope",
       "name_default": "New Hope",
       "native": "New Hope",
       "type": "city",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": 123081,
-      "name": "Северные равнины",
+      "name": "North Plains",
       "name_default": "North Plains",
       "native": "North Plains",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 123086,
-      "name": "Северный Портленд",
+      "name": "North Portland",
       "name_default": "North Portland",
       "native": "North Portland",
       "type": "city",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 123487,
-      "name": "Онтарио",
+      "name": "Онтэрио",
       "name_default": "Ontario",
       "native": "Ontario",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 124526,
-      "name": "Порт Орфорд",
+      "name": "Порт-Орфорд",
       "name_default": "Port Orford",
       "native": "Port Orford",
       "type": "city",
@@ -2989,7 +2989,7 @@
     },
     {
       "id": 124697,
-      "name": "Прайнвилль",
+      "name": "Прайнвилл",
       "name_default": "Prineville",
       "native": "Prineville",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 125113,
-      "name": "Загадка",
+      "name": "Ридл",
       "name_default": "Riddle",
       "native": "Riddle",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 125357,
-      "name": "Река Роуг",
+      "name": "Rogue River",
       "name_default": "Rogue River",
       "native": "Rogue River",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 125414,
-      "name": "Роузберг",
+      "name": "Розберг",
       "name_default": "Roseburg",
       "native": "Roseburg",
       "type": "city",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 125740,
-      "name": "Салем",
+      "name": "Сейлем",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 125880,
-      "name": "Сэнди",
+      "name": "Санди",
       "name_default": "Sandy",
       "native": "Sandy",
       "type": "city",
@@ -3279,7 +3279,7 @@
       "id": 125996,
       "name": "Скаппуз",
       "name_default": "Scappoose",
-      "native": "Lash",
+      "native": "Scappoose",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 126100,
-      "name": "Побережье",
+      "name": "Сисайд",
       "name_default": "Seaside",
       "native": "Seaside",
       "type": "city",
@@ -3333,7 +3333,7 @@
       "id": 126322,
       "name": "Шеридан",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 126442,
-      "name": "Сильвертон",
+      "name": "Силвертон",
       "name_default": "Silverton",
       "native": "Silverton",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 126688,
-      "name": "Южный Ливан",
+      "name": "South Lebanon",
       "name_default": "South Lebanon",
       "native": "South Lebanon",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 127557,
-      "name": "Даллес",
+      "name": "Те-Далс",
       "name_default": "The Dalles",
       "native": "The Dalles",
       "type": "city",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 127643,
-      "name": "Тигард",
+      "name": "Тайгард",
       "name_default": "Tigard",
       "native": "Tigard",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 127978,
-      "name": "Союз",
+      "name": "Union",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 128086,
-      "name": "Долина",
+      "name": "Вейл",
       "name_default": "Vale",
       "native": "Vale",
       "type": "city",
@@ -3927,7 +3927,7 @@
       "id": 128485,
       "name": "Уоррен",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 128919,
-      "name": "Вест-Линн",
+      "name": "Уэст-Линн",
       "name_default": "West Linn",
       "native": "West Linn",
       "type": "city",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 128983,
-      "name": "Западный склон",
+      "name": "West Slope",
       "name_default": "West Slope",
       "native": "West Slope",
       "type": "section",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 129131,
-      "name": "Белый город",
+      "name": "White City",
       "name_default": "White City",
       "native": "White City",
       "type": "city",
@@ -4051,7 +4051,7 @@
     },
     {
       "id": 129256,
-      "name": "Вильямина",
+      "name": "Уилламина",
       "name_default": "Willamina",
       "native": "Willamina",
       "type": "city",
@@ -4123,7 +4123,7 @@
     },
     {
       "id": 129490,
-      "name": "Деревня Вуд",
+      "name": "Wood Village",
       "name_default": "Wood Village",
       "native": "Wood Village",
       "type": "city",

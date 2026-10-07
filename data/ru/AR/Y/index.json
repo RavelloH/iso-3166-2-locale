@@ -191,7 +191,7 @@
       "name": "Departamento de Cochinoca",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1155,
-      "name": "Ингенио Ла Эсперанса",
+      "name": "Ла-Эсперанса",
       "name_default": "La Esperanza",
       "native": "Ingenio La Esperanza",
       "type": "city",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1199,
-      "name": "Ла Киака",
+      "name": "Ла-Кьяка",
       "name_default": "La Quiaca",
       "native": "La Quiaca",
       "type": "adm2",

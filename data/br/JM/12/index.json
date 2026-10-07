@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62304,
-      "name": "Poull an alligator",
+      "name": "Alligator Pond",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62303,
-      "name": "Poull an alligator",
+      "name": "Alligator Pond",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 62321,
-      "name": "Azia/Pratville",
+      "name": "Asia/Pratville",
       "name_default": "Asia/Pratville",
-      "native": "Thing/pratville",
+      "native": "Asia/Pratville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 62323,
       "name": "Auchtembeddie",
       "name_default": "Auchtembeddie",
-      "native": "AUREGEMBERY",
+      "native": "Auchtembeddie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 62354,
-      "name": "Betania",
+      "name": "Bethany",
       "name_default": "Bethany",
       "native": "Bethany",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 62366,
-      "name": "Menez Glas",
+      "name": "Blue Mountain",
       "name_default": "Blue Mountain",
       "native": "Blue Mountain",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62467,
-      "name": "Frealziñ",
+      "name": "Comfort",
       "name_default": "Comfort",
       "native": "Comfort",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62470,
-      "name": "Sal ar c'hoant",
+      "name": "Comfort Hall",
       "name_default": "Comfort Hall",
       "native": "Comfort Hall",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 62474,
-      "name": "Danvez",
+      "name": "Content",
       "name_default": "Content",
       "native": "Content",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 62492,
-      "name": "Alc'hwezioù kroaziet",
+      "name": "Cross Keys",
       "name_default": "Cross Keys",
       "native": "Cross Keys",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 62517,
-      "name": "Diskenn",
+      "name": "Downs",
       "name_default": "Downs",
       "native": "Downs",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62536,
-      "name": "Straed Ellen",
+      "name": "Ellen Street",
       "name_default": "Ellen Street",
       "native": "Ellen Street",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62543,
-      "name": "Bepred glas",
+      "name": "Evergreen",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62571,
-      "name": "Park gall",
+      "name": "French Park",
       "name_default": "French Park",
       "native": "French Park",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62581,
-      "name": "Traoñienn George",
+      "name": "George's Valley",
       "name_default": "George's Valley",
       "native": "George's Valley",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 62595,
-      "name": "Mennozh mat",
+      "name": "Good Intent",
       "name_default": "Good Intent",
       "native": "Good Intent",
       "type": "city",
@@ -563,7 +563,7 @@
       "id": 62613,
       "name": "Greenvale",
       "name_default": "Greenvale",
-      "native": "GREENVAL",
+      "native": "Greenvale",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 62617,
-      "name": "Lec'h Grove",
+      "name": "Grove Place",
       "name_default": "Grove Place",
       "native": "Grove Place",
       "type": "adm1",
@@ -597,7 +597,7 @@
     },
     {
       "id": 62618,
-      "name": "Kêr Grove",
+      "name": "Grove Town",
       "name_default": "Grove Town",
       "native": "Grove Town",
       "type": "adm1",
@@ -669,7 +669,7 @@
     },
     {
       "id": 62641,
-      "name": "Poan-kalon",
+      "name": "Heartease",
       "name_default": "Heartease",
       "native": "Heartease",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 62763,
-      "name": "Kentañ Mae",
+      "name": "May Day",
       "name_default": "May Day",
       "native": "May Day",
       "type": "adm1",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62813,
-      "name": "Koad Nevez",
+      "name": "New Forest",
       "name_default": "New Forest",
       "native": "New Forest",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62814,
-      "name": "Glas Nevez",
+      "name": "New Green",
       "name_default": "New Green",
       "native": "New Green",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62837,
-      "name": "Bro-Saoz kozh",
+      "name": "Old England",
       "name_default": "Old England",
       "native": "Old England",
       "type": "adm1",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62856,
-      "name": "Ul lodenn eus an douar bananez",
+      "name": "Part Of Banana Ground",
       "name_default": "Part Of Banana Ground",
       "native": "Part Of Banana Ground",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62857,
-      "name": "Ul lodenn eus ar c'hoadoù",
+      "name": "Part Of Gutters",
       "name_default": "Part Of Gutters",
       "native": "Part Of Gutters",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62864,
-      "name": "Ul lodenn eus Spaldings",
+      "name": "Part of Spaldings",
       "name_default": "Part of Spaldings",
       "native": "Part of Spaldings",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62882,
-      "name": "Broc'h",
+      "name": "Pike",
       "name_default": "Pike",
       "native": "Pike",
       "type": "city",
@@ -1103,7 +1103,7 @@
       "id": 62900,
       "name": "Porus",
       "name_default": "Porus",
-      "native": "Pores",
+      "native": "Porus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 62905,
-      "name": "Perspektivenn",
+      "name": "Prospect",
       "name_default": "Prospect",
       "native": "Prospect",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 62941,
-      "name": "Sal ar Robins",
+      "name": "Robins Hall",
       "name_default": "Robins Hall",
       "native": "Robins Hall",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 62953,
-      "name": "Menez ar Roz",
+      "name": "Rose Hill",
       "name_default": "Rose Hill",
       "native": "Rose Hill",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62958,
-      "name": "Flat roueel",
+      "name": "Royal Flat",
       "name_default": "Royal Flat",
       "native": "Royal Flat",
       "type": "adm1",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 62978,
-      "name": "Tremen Scotts",
+      "name": "Scotts Pass",
       "name_default": "Scotts Pass",
       "native": "Scotts Pass",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 63014,
-      "name": "Douar an nevezamzer",
+      "name": "Spring Ground",
       "name_default": "Spring Ground",
       "native": "Spring Ground",
       "type": "city",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 63018,
-      "name": "Gwezenn-spur",
+      "name": "Spur Tree",
       "name_default": "Spur Tree",
       "native": "Spur Tree",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 63025,
-      "name": "Sant Paol",
+      "name": "St. Paul's",
       "name_default": "St. Paul's",
       "native": "St. Paul's",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 63043,
-      "name": "Spered Swaby",
+      "name": "Swaby's Hope",
       "name_default": "Swaby's Hope",
       "native": "Swaby's Hope",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 63076,
-      "name": "Kêr Victoria",
+      "name": "Victoria Town",
       "name_default": "Victoria Town",
       "native": "Victoria Town",
       "type": "city",

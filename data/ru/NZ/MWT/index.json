@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79779,
-      "name": "Быки",
+      "name": "Буллс",
       "name_default": "Bulls",
       "native": "Bulls",
       "type": "city",
@@ -102,7 +102,7 @@
       "id": 79803,
       "name": "Район Хоровенуа",
       "name_default": "Horowhenua",
-      "native": "Horowhenua District",
+      "native": "Horowhenua",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -138,7 +138,7 @@
       "id": 79822,
       "name": "Район Манавату",
       "name_default": "Manawatu",
-      "native": "Manawatu District",
+      "native": "Manawatu",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -190,9 +190,9 @@
     },
     {
       "id": 79913,
-      "name": "Вангануи",
+      "name": "Уонгануи",
       "name_default": "Whanganui",
-      "native": "Wanganui",
+      "native": "Whanganui",
       "type": "city",
       "level": null,
       "parent_id": null,

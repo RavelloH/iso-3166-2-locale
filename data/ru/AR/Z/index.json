@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28 ноября",
+      "name": "Вейнтиочо-де-Новьембре",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -152,7 +152,7 @@
     },
     {
       "id": 711,
-      "name": "Калета Оливия",
+      "name": "Калета-Оливия",
       "name_default": "Caleta Olivia",
       "native": "Caleta Olivia",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Команданте Луис Пьедра Буэна",
+      "name": "Команданте-Луис-Пьедрабуэна",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -227,7 +227,7 @@
       "name": "Департамент Лаго Аргентино",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "Департамент Магальянес",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Губернатор Грегорес",
+      "name": "Гобернадор-Грегорес",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",
@@ -314,7 +314,7 @@
     },
     {
       "id": 1220,
-      "name": "Лас-Херас",
+      "name": "Лас-Эрас",
       "name_default": "Las Heras",
       "native": "Las Heras",
       "type": "city",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1326,
-      "name": "Перито Морено",
+      "name": "Перито-Морено",
       "name_default": "Perito Moreno",
       "native": "Perito Moreno",
       "type": "adm2",
@@ -368,7 +368,7 @@
     },
     {
       "id": 1329,
-      "name": "Пико Трункадо",
+      "name": "Пико-Трункадо",
       "name_default": "Pico Truncado",
       "native": "Pico Truncado",
       "type": "city",
@@ -386,7 +386,7 @@
     },
     {
       "id": 1352,
-      "name": "Пуэрто Десеадо",
+      "name": "Пуэрто-Десеадо",
       "name_default": "Puerto Deseado",
       "native": "Puerto Deseado",
       "type": "adm2",
@@ -404,7 +404,7 @@
     },
     {
       "id": 1362,
-      "name": "Пуэрто Санта-Крус",
+      "name": "Пуэрто-Санта-Крус",
       "name_default": "Puerto Santa Cruz",
       "native": "Puerto Santa Cruz",
       "type": "adm2",
@@ -440,7 +440,7 @@
     },
     {
       "id": 1397,
-      "name": "Рио Турбио",
+      "name": "Рио-Турбио",
       "name_default": "Río Turbio",
       "native": "Río Turbio",
       "type": "city",

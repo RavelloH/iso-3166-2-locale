@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48318,
-      "name": "أفيلي",
+      "name": "أفيلاي",
       "name_default": "Aveley",
       "native": "Aveley",
       "type": "city",
@@ -113,7 +113,7 @@
       "id": 48906,
       "name": "تشادويل سانت ماري",
       "name_default": "Chadwell St Mary",
-      "native": "St. Mary",
+      "native": "Chadwell St Mary",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 49412,
-      "name": "شرق تيلبوري",
+      "name": "East Tilbury",
       "name_default": "East Tilbury",
       "native": "East Tilbury",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49704,
-      "name": "الرمادي",
+      "name": "غرايز",
       "name_default": "Grays",
       "native": "Grays",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 51363,
-      "name": "جنوب أوكيندون",
+      "name": "South Ockendon",
       "name_default": "South Ockendon",
       "native": "South Ockendon",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 51832,
-      "name": "غرب ثوروك",
+      "name": "West Thurrock",
       "name_default": "West Thurrock",
       "native": "West Thurrock",
       "type": "city",
@@ -302,24 +302,6 @@
       "longitude": "0.27672000",
       "timezone": "Europe/London",
       "wikiDataId": "Q971550",
-      "country_code": "GB",
-      "state_code": "THR",
-      "state_id": 2468,
-      "country_id": 232
-    },
-    {
-      "id": 51891,
-      "name": "ويكفورد",
-      "name_default": "Wickford",
-      "native": "Wickford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 27601,
-      "latitude": "51.61101000",
-      "longitude": "0.52331000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q932841",
       "country_code": "GB",
       "state_code": "THR",
       "state_id": 2468,

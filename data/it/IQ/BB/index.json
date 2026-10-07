@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134488,
-      "name": "Al Ḩillah",
+      "name": "Al-Hilla",
       "name_default": "Al Ḩillah",
       "native": "الحلة",
       "type": "adm1",
@@ -75,7 +75,7 @@
     },
     {
       "id": 134486,
-      "name": "Al Musayyib",
+      "name": "Musayyib",
       "name_default": "Al Musayyib",
       "native": "المسيب",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.29799000",
       "longitude": "44.68282000",
       "timezone": "Asia/Baghdad",
-      "wikiDataId": "Q4119531",
+      "wikiDataId": null,
       "country_code": "IQ",
       "state_code": "BB",
       "state_id": 3955,

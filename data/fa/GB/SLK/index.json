@@ -93,7 +93,7 @@
     },
     {
       "id": 48836,
-      "name": "کامبوسلانگ",
+      "name": "کمبسلنگ",
       "name_default": "Cambuslang",
       "native": "Cambuslang",
       "type": "city",
@@ -254,8 +254,26 @@
       "country_id": 232
     },
     {
+      "id": 49924,
+      "name": "های بلانتیر",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
       "id": 50234,
-      "name": "لانارک",
+      "name": "لنارک",
       "name_default": "Lanark",
       "native": "Lanark",
       "type": "city",
@@ -273,7 +291,7 @@
     },
     {
       "id": 50252,
-      "name": "لارخال",
+      "name": "لارکهال",
       "name_default": "Larkhall",
       "native": "Larkhall",
       "type": "city",
@@ -327,7 +345,7 @@
     },
     {
       "id": 50611,
-      "name": "موفات",
+      "name": "موفت",
       "name_default": "Moffat",
       "native": "Moffat",
       "type": "city",
@@ -345,7 +363,7 @@
     },
     {
       "id": 51149,
-      "name": "راترگلن",
+      "name": "رودرگلن",
       "name_default": "Rutherglen",
       "native": "Rutherglen",
       "type": "city",
@@ -399,7 +417,7 @@
     },
     {
       "id": 51491,
-      "name": "استراتاون",
+      "name": "استراتی‌ون",
       "name_default": "Strathaven",
       "native": "Strathaven",
       "type": "city",

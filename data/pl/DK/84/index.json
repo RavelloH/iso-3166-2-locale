@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 30990,
-      "name": "Åkirkeby",
+      "name": "Aakirkeby",
       "name_default": "Åkirkeby",
       "native": "Åkirkeby",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 30578,
-      "name": "Gmina Albertslund",
+      "name": "Albertslund Kommune",
       "name_default": "Albertslund Kommune",
       "native": "Albertslund Kommune",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 30579,
-      "name": "Allerød Kommune",
+      "name": "Gmina Allerød",
       "name_default": "Allerød Kommune",
       "native": "Allerød Kommune",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 30590,
-      "name": "Kommune Ballerup",
+      "name": "Ballerup Kommune",
       "name_default": "Ballerup Kommune",
       "native": "Ballerup Kommune",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 30601,
-      "name": "Gmina Bornholm",
+      "name": "Gmina regionalna Bornholm",
       "name_default": "Bornholm Kommune",
       "native": "Bornholm Kommune",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 30610,
-      "name": "Gmina Brøndby",
+      "name": "Brøndby Kommune",
       "name_default": "Brøndby Kommune",
       "native": "Brøndby Kommune",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 30623,
-      "name": "Kommune Dragør",
+      "name": "Dragør Kommune",
       "name_default": "Dragør Kommune",
       "native": "Dragør Kommune",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 30627,
-      "name": "Gmina Egedal",
+      "name": "Egedal Kommune",
       "name_default": "Egedal Kommune",
       "native": "Egedal Kommune",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 30649,
-      "name": "Komuna Fredensborg",
+      "name": "Fredensborg Kommune",
       "name_default": "Fredensborg Kommune",
       "native": "Fredensborg Kommune",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 30654,
-      "name": "Komuna Frederiksberg",
+      "name": "Frederiksberg Kommune",
       "name_default": "Frederiksberg Kommune",
       "native": "Frederiksberg Kommune",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 30658,
-      "name": "Komuna Frederikssund",
+      "name": "Frederikssund Kommune",
       "name_default": "Frederikssund Kommune",
       "native": "Frederikssund Kommune",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 30670,
-      "name": "Gmina Gladsaxe",
+      "name": "Gladsaxe",
       "name_default": "Gladsaxe",
       "native": "Gladsaxe Municipality",
       "type": "municipality",
@@ -651,7 +651,7 @@
     },
     {
       "id": 30673,
-      "name": "Gmina Glostrup",
+      "name": "Glostrup Kommune",
       "name_default": "Glostrup Kommune",
       "native": "Glostrup Kommune",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 30678,
-      "name": "Gmina Gribskov",
+      "name": "Gribskov Kommune",
       "name_default": "Gribskov Kommune",
       "native": "Gribskov Kommune",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 30691,
-      "name": "Kommune Halsnæs",
+      "name": "Halsnæs Kommune",
       "name_default": "Halsnæs Kommune",
       "native": "Halsnæs Kommune",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 30703,
-      "name": "Kommune Helsingør",
+      "name": "Helsingør Kommune",
       "name_default": "Helsingør Kommune",
       "native": "Helsingør Kommune",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 30704,
-      "name": "Gmina Herlev",
+      "name": "Herlev Kommune",
       "name_default": "Herlev Kommune",
       "native": "Herlev Kommune",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 30708,
-      "name": "Gmina Hillerød",
+      "name": "Hillerød Kommune",
       "name_default": "Hillerød Kommune",
       "native": "Hillerød Kommune",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 30740,
-      "name": "Gmina Hørsholm",
+      "name": "Hørsholm Kommune",
       "name_default": "Hørsholm Kommune",
       "native": "Hørsholm Kommune",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 30732,
-      "name": "Gmina Hvidovre",
+      "name": "Hvidovre Kommune",
       "name_default": "Hvidovre Kommune",
       "native": "Hvidovre Kommune",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 30746,
-      "name": "Gmina Ishøj",
+      "name": "Ishøj Kommune",
       "name_default": "Ishøj Kommune",
       "native": "Ishøj Kommune",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 30770,
-      "name": "Kopenhaga",
+      "name": "København",
       "name_default": "København",
       "native": "København",
       "type": "capital",
@@ -1227,9 +1227,9 @@
     },
     {
       "id": 30810,
-      "name": "Niva",
+      "name": "Nivå",
       "name_default": "Nivå",
-      "native": "Niveau",
+      "native": "Nivå",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 30858,
-      "name": "Gmina Rødovre",
+      "name": "Rødovre Kommune",
       "name_default": "Rødovre Kommune",
       "native": "Rødovre Kommune",
       "type": "adm2",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 30849,
-      "name": "Gmina Rudersdal",
+      "name": "Rudersdal Kommune",
       "name_default": "Rudersdal Kommune",
       "native": "Rudersdal Kommune",
       "type": "adm2",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 30947,
-      "name": "Gmina Tårnby",
+      "name": "Tårnby Kommune",
       "name_default": "Tårnby Kommune",
       "native": "Tårnby Kommune",
       "type": "adm2",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 30957,
-      "name": "Plaża Vallensbæk",
+      "name": "Vallensbæk Strand",
       "name_default": "Vallensbæk Strand",
       "native": "Vallensbæk Strand",
       "type": "city",

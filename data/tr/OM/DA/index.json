@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79926,
-      "name": "Adem",
+      "name": "Adam",
       "name_default": "Adam",
       "native": "آدم",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 79930,
-      "name": "Behlā’",
+      "name": "Bahlā’",
       "name_default": "Bahlā’",
-      "native": "البكل",
+      "native": "بهلاء",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 79934,
-      "name": "Teklif",
+      "name": "Bidbid",
       "name_default": "Bidbid",
       "native": "bidbid",
       "type": "city",
@@ -103,7 +103,7 @@
       "latitude": "23.40787000",
       "longitude": "58.12830000",
       "timezone": "Asia/Muscat",
-      "wikiDataId": "Q2892151",
+      "wikiDataId": null,
       "country_code": "OM",
       "state_code": "DA",
       "state_id": 3058,
@@ -111,7 +111,7 @@
     },
     {
       "id": 79937,
-      "name": "İzkî",
+      "name": "Izki",
       "name_default": "Izkī",
       "native": "إيزكي",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 79942,
-      "name": "Nizwa",
+      "name": "Nizve",
       "name_default": "Nizwá",
       "native": "نيزو",
       "type": "adm1",
@@ -149,7 +149,7 @@
       "id": 79948,
       "name": "Sufālat Samā’il",
       "name_default": "Sufālat Samā’il",
-      "native": "صوف Samā'il",
+      "native": "Sufālat Samā’il",
       "type": "city",
       "level": null,
       "parent_id": null,

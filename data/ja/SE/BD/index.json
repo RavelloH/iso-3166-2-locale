@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 103993,
-      "name": "エルヴスビン",
+      "name": "アルスベイン",
       "name_default": "Älvsbyn",
       "native": "Älvsbyn",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 103015,
-      "name": "アルヴィドシャウル",
+      "name": "アルヴィツヤウル",
       "name_default": "Arvidsjaur",
       "native": "Arvidsjaur",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 103237,
-      "name": "イェリヴァレ",
+      "name": "イェリヴァーレ",
       "name_default": "Gällivare",
       "native": "Gällivare",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 103369,
-      "name": "カリックス",
+      "name": "カーリクス",
       "name_default": "Kalix",
       "native": "Kalix",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104052,
-      "name": "オーバーカリックス",
+      "name": "エーヴェルカリックス",
       "name_default": "Överkalix",
       "native": "Överkalix",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 104054,
-      "name": "オーバートルネオー",
+      "name": "エーヴェルトルネオ",
       "name_default": "Övertorneå",
       "native": "Övertorneå",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 103630,
-      "name": "パジャラ",
+      "name": "パヤラ",
       "name_default": "Pajala",
       "native": "Pajala",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 103637,
-      "name": "ピテオ",
+      "name": "ピーテオ",
       "name_default": "Piteå",
       "native": "Piteå",
       "type": "adm2",
@@ -563,7 +563,7 @@
       "id": 103891,
       "name": "トーレ",
       "name_default": "Töre",
-      "native": "Beställnings",
+      "native": "Töre",
       "type": "city",
       "level": null,
       "parent_id": null,

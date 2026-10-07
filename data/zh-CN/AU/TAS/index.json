@@ -141,7 +141,7 @@
   "cities": [
     {
       "id": 3916,
-      "name": "阿克顿公园",
+      "name": "Acton Park",
       "name_default": "Acton Park",
       "native": "Acton Park",
       "type": "section",
@@ -231,7 +231,7 @@
     },
     {
       "id": 4170,
-      "name": "美丽点",
+      "name": "Beauty Point",
       "name_default": "Beauty Point",
       "native": "Beauty Point",
       "type": "city",
@@ -285,7 +285,7 @@
     },
     {
       "id": 4289,
-      "name": "布莱克曼斯湾",
+      "name": "Blackmans Bay",
       "name_default": "Blackmans Bay",
       "native": "Blackmans Bay",
       "type": "section",
@@ -303,7 +303,7 @@
     },
     {
       "id": 4292,
-      "name": "黑石高地",
+      "name": "Blackstone Heights",
       "name_default": "Blackstone Heights",
       "native": "Blackstone Heights",
       "type": "section",
@@ -519,7 +519,7 @@
     },
     {
       "id": 4720,
-      "name": "克拉伦斯",
+      "name": "克拉伦斯市",
       "name_default": "Clarence",
       "native": "Clarence",
       "type": "section",
@@ -627,7 +627,7 @@
     },
     {
       "id": 4981,
-      "name": "德文特谷",
+      "name": "Derwent Valley",
       "name_default": "Derwent Valley",
       "native": "Derwent Valley",
       "type": "city",
@@ -701,7 +701,7 @@
       "id": 5052,
       "name": "戴尼恩",
       "name_default": "Dynnyrne",
-      "native": "Tight",
+      "native": "Dynnyrne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -717,7 +717,7 @@
     },
     {
       "id": 5073,
-      "name": "东德文波特",
+      "name": "East Devonport",
       "name_default": "East Devonport",
       "native": "East Devonport",
       "type": "city",
@@ -735,7 +735,7 @@
     },
     {
       "id": 5085,
-      "name": "东朗塞斯顿",
+      "name": "East Launceston",
       "name_default": "East Launceston",
       "native": "East Launceston",
       "type": "section",
@@ -843,7 +843,7 @@
     },
     {
       "id": 5320,
-      "name": "盖尔斯顿湾",
+      "name": "Geilston Bay",
       "name_default": "Geilston Bay",
       "native": "Geilston Bay",
       "type": "section",
@@ -879,7 +879,7 @@
     },
     {
       "id": 5350,
-      "name": "格拉摩根/斯普林湾",
+      "name": "Glamorgan/Spring Bay",
       "name_default": "Glamorgan/Spring Bay",
       "native": "Glamorgan/Spring Bay",
       "type": "area",
@@ -897,7 +897,7 @@
     },
     {
       "id": 5385,
-      "name": "格伦诺基",
+      "name": "格兰诺奇市",
       "name_default": "Glenorchy",
       "native": "Glenorchy",
       "type": "section",
@@ -953,7 +953,7 @@
       "id": 5503,
       "name": "哈德斯彭",
       "name_default": "Hadspen",
-      "native": "Had -pear",
+      "native": "Hadspen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1059,9 +1059,9 @@
     },
     {
       "id": 5673,
-      "name": "霍恩谷",
+      "name": "Huon Valley",
       "name_default": "Huon Valley",
-      "native": "Eat Valley",
+      "native": "Huon Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1079,7 +1079,7 @@
       "id": 5674,
       "name": "霍恩维尔",
       "name_default": "Huonville",
-      "native": "Badly",
+      "native": "Huonville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1131,7 +1131,7 @@
     },
     {
       "id": 5865,
-      "name": "国王岛",
+      "name": "King Island",
       "name_default": "King Island",
       "native": "King Island",
       "type": "city",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": 5887,
-      "name": "金斯顿海滩",
+      "name": "Kingston Beach",
       "name_default": "Kingston Beach",
       "native": "Kingston Beach",
       "type": "section",
@@ -1295,7 +1295,7 @@
       "id": 6000,
       "name": "莱加纳",
       "name_default": "Legana",
-      "native": "relieved",
+      "native": "Legana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1311,7 +1311,7 @@
     },
     {
       "id": 6005,
-      "name": "莱纳山谷",
+      "name": "Lenah Valley",
       "name_default": "Lenah Valley",
       "native": "Lenah Valley",
       "type": "section",
@@ -1419,7 +1419,7 @@
     },
     {
       "id": 6229,
-      "name": "蜿蜒谷",
+      "name": "Meander Valley",
       "name_default": "Meander Valley",
       "native": "Meander Valley",
       "type": "city",
@@ -1439,7 +1439,7 @@
       "id": 6268,
       "name": "米安德塔",
       "name_default": "Miandetta",
-      "native": "Mianadet",
+      "native": "Miandetta",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1455,7 +1455,7 @@
     },
     {
       "id": 6282,
-      "name": "中途点",
+      "name": "Midway Point",
       "name_default": "Midway Point",
       "native": "Midway Point",
       "type": "city",
@@ -1545,7 +1545,7 @@
     },
     {
       "id": 6446,
-      "name": "纳尔逊山",
+      "name": "Mount Nelson",
       "name_default": "Mount Nelson",
       "native": "Mount Nelson",
       "type": "section",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": 6459,
-      "name": "斯图尔特山",
+      "name": "Mount Stuart",
       "name_default": "Mount Stuart",
       "native": "Mount Stuart",
       "type": "section",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": 6561,
-      "name": "新城",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "section",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": 6632,
-      "name": "北霍巴特",
+      "name": "North Hobart",
       "name_default": "North Hobart",
       "native": "North Hobart",
       "type": "section",
@@ -1743,7 +1743,7 @@
     },
     {
       "id": 6715,
-      "name": "老海滩",
+      "name": "Old Beach",
       "name_default": "Old Beach",
       "native": "Old Beach",
       "type": "section",
@@ -1979,7 +1979,7 @@
       "id": 7050,
       "name": "罗克比",
       "name_default": "Rokeby",
-      "native": "Rake",
+      "native": "Rokeby",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2067,7 +2067,7 @@
     },
     {
       "id": 7141,
-      "name": "桑迪湾",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
       "native": "Sandy Bay",
       "type": "section",
@@ -2103,7 +2103,7 @@
     },
     {
       "id": 7185,
-      "name": "七英里海滩",
+      "name": "Seven Mile Beach",
       "name_default": "Seven Mile Beach",
       "native": "Seven Mile Beach",
       "type": "city",
@@ -2157,7 +2157,7 @@
     },
     {
       "id": 7209,
-      "name": "肖尔韦尔公园",
+      "name": "Shorewell Park",
       "name_default": "Shorewell Park",
       "native": "Shorewell Park",
       "type": "section",
@@ -2231,7 +2231,7 @@
       "id": 7246,
       "name": "索雷尔",
       "name_default": "Sorell",
-      "native": "Sore",
+      "native": "Sorell",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2247,7 +2247,7 @@
     },
     {
       "id": 7265,
-      "name": "南霍巴特",
+      "name": "South Hobart",
       "name_default": "South Hobart",
       "native": "South Hobart",
       "type": "section",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": 7272,
-      "name": "南朗塞斯顿",
+      "name": "South Launceston",
       "name_default": "South Launceston",
       "native": "South Launceston",
       "type": "section",
@@ -2303,7 +2303,7 @@
       "id": 7306,
       "name": "斯普雷顿",
       "name_default": "Spreyton",
-      "native": "Spray",
+      "native": "Spreyton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2427,7 +2427,7 @@
     },
     {
       "id": 7583,
-      "name": "特纳斯海滩",
+      "name": "Turners Beach",
       "name_default": "Turners Beach",
       "native": "Turners Beach",
       "type": "city",
@@ -2535,7 +2535,7 @@
     },
     {
       "id": 7782,
-      "name": "西海岸",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast",
       "type": "city",
@@ -2571,7 +2571,7 @@
     },
     {
       "id": 7796,
-      "name": "西朗塞斯顿",
+      "name": "West Launceston",
       "name_default": "West Launceston",
       "native": "West Launceston",
       "type": "section",
@@ -2589,7 +2589,7 @@
     },
     {
       "id": 7800,
-      "name": "西穆纳",
+      "name": "West Moonah",
       "name_default": "West Moonah",
       "native": "West Moonah",
       "type": "section",
@@ -2607,7 +2607,7 @@
     },
     {
       "id": 7807,
-      "name": "西塔玛",
+      "name": "West Tamar",
       "name_default": "West Tamar",
       "native": "West Tamar",
       "type": "area",
@@ -2625,7 +2625,7 @@
     },
     {
       "id": 7809,
-      "name": "西阿尔弗斯通",
+      "name": "West Ulverstone",
       "name_default": "West Ulverstone",
       "native": "West Ulverstone",
       "type": "section",
@@ -2663,7 +2663,7 @@
       "id": 7975,
       "name": "温亚德",
       "name_default": "Wynyard",
-      "native": "White",
+      "native": "Wynyard",
       "type": "city",
       "level": null,
       "parent_id": null,

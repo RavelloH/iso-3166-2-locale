@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48499,
-      "name": "比格尔",
+      "name": "比加",
       "name_default": "Biggar",
       "native": "Biggar",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49401,
-      "name": "东基尔布赖德",
+      "name": "东奇尔布莱德",
       "name_default": "East Kilbride",
       "native": "East Kilbride",
       "type": "city",
@@ -254,8 +254,26 @@
       "country_id": 232
     },
     {
+      "id": 49924,
+      "name": "High Blantyre",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
       "id": 50234,
-      "name": "拉纳克",
+      "name": "拉奈克",
       "name_default": "Lanark",
       "native": "Lanark",
       "type": "city",
@@ -273,7 +291,7 @@
     },
     {
       "id": 50252,
-      "name": "拉克霍尔",
+      "name": "拉克豪尔",
       "name_default": "Larkhall",
       "native": "Larkhall",
       "type": "city",
@@ -327,7 +345,7 @@
     },
     {
       "id": 50611,
-      "name": "莫法特",
+      "name": "莫弗特",
       "name_default": "Moffat",
       "native": "Moffat",
       "type": "city",
@@ -399,7 +417,7 @@
     },
     {
       "id": 51491,
-      "name": "斯特拉特海文",
+      "name": "斯特雷文",
       "name_default": "Strathaven",
       "native": "Strathaven",
       "type": "city",

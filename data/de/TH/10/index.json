@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -921,7 +921,7 @@
     },
     {
       "id": 106741,
-      "name": "Vadhana",
+      "name": "Watthana",
       "name_default": "Vadhana",
       "native": "วัฒนา",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

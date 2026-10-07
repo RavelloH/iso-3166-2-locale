@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 30573,
-      "name": "Aabenraa",
+      "name": "Åbenrå",
       "name_default": "Aabenraa",
       "native": "Aabenraa",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 30996,
-      "name": "Arup",
+      "name": "Årup",
       "name_default": "Årup",
       "native": "Årup",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 30594,
-      "name": "Comunidade de Billund",
+      "name": "Billund Kommune",
       "name_default": "Billund Kommune",
       "native": "Billund Kommune",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 30635,
-      "name": "Comunidade Faaborg-Midtfyn",
+      "name": "Faaborg-Midtfyn Kommune",
       "name_default": "Faaborg-Midtfyn Kommune",
       "native": "Faaborg-Midtfyn Kommune",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 30668,
-      "name": "Dar",
+      "name": "Give",
       "name_default": "Give",
       "native": "Give",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 30674,
-      "name": "Grama",
+      "name": "Gram",
       "name_default": "Gram",
       "native": "Gram",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 30733,
-      "name": "Hårby",
+      "name": "Haarby",
       "name_default": "Haarby",
       "native": "Hårby",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 30748,
-      "name": "Gelatina",
+      "name": "Jelling",
       "name_default": "Jelling",
       "native": "Jelling",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 30791,
-      "name": "Mosteiro de Løgum",
+      "name": "Løgumkloster",
       "name_default": "Løgumkloster",
       "native": "Løgumkloster",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 30800,
-      "name": "Comunidade de Middelfart",
+      "name": "Middelfart Kommune",
       "name_default": "Middelfart Kommune",
       "native": "Middelfart Kommune",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 30816,
-      "name": "Nyborg Kommune",
+      "name": "Nyborg",
       "name_default": "Nyborg Kommune",
       "native": "Nyborg Kommune",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 30830,
-      "name": "Odense Kommune",
+      "name": "Odense",
       "name_default": "Odense Kommune",
       "native": "Odense Kommune",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 30834,
-      "name": "Lontra",
+      "name": "Otterup",
       "name_default": "Otterup",
       "native": "Otterup",
       "type": "city",
@@ -1337,7 +1337,7 @@
       "id": 30841,
       "name": "Ribe",
       "name_default": "Ribe",
-      "native": "Fisk",
+      "native": "Ribe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 30842,
-      "name": "Anel",
+      "name": "Ringe",
       "name_default": "Ringe",
       "native": "Ringe",
       "type": "adm2",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 30855,
-      "name": "Rodagem",
+      "name": "Rødding",
       "name_default": "Rødding",
       "native": "Rødding",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 30866,
       "name": "Seden",
       "name_default": "Seden",
-      "native": "Skikken",
+      "native": "Seden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1445,7 +1445,7 @@
       "id": 30870,
       "name": "Skaerbaek",
       "name_default": "Skaerbaek",
-      "native": "Shauled",
+      "native": "Skaerbaek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 30928,
-      "name": "Comunidade de Sønderborg",
+      "name": "Sønderborg Kommune",
       "name_default": "Sønderborg Kommune",
       "native": "Sønderborg Kommune",
       "type": "adm2",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 30895,
-      "name": "Inicialização",
+      "name": "Starup",
       "name_default": "Starup",
       "native": "Starup",
       "type": "city",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 30919,
-      "name": "Comunidade de Svendborg",
+      "name": "Svendborg Kommune",
       "name_default": "Svendborg Kommune",
       "native": "Svendborg Kommune",
       "type": "adm2",
@@ -1659,9 +1659,9 @@
     },
     {
       "id": 30935,
-      "name": "Thurø Por",
+      "name": "Thurø By",
       "name_default": "Thurø By",
-      "native": "Thurø af",
+      "native": "Thurø By",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 30941,
-      "name": "Estação Tommerup por",
+      "name": "Tommerup Stationsby",
       "name_default": "Tommerup Stationsby",
       "native": "Tommerup Stationsby",
       "type": "city",

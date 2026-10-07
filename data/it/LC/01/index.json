@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 65965,
-      "name": "Anse La Raye",
+      "name": "Anse-la-Raye",
       "name_default": "Anse La Raye",
       "native": "Anse la Raye",
       "type": "adm1",
@@ -75,9 +75,9 @@
     },
     {
       "id": 65969,
-      "name": "Al Tabor",
+      "name": "Au Tabor",
       "name_default": "Au Tabor",
-      "native": "I'm Bator",
+      "native": "Au Tabor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 66019,
       "name": "Bois D'Inde",
       "name_default": "Bois D'Inde",
-      "native": "India wood",
+      "native": "Bois D'Inde",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 66037,
-      "name": "Caico/Miglio",
+      "name": "Caico/Millet",
       "name_default": "Caico/Millet",
       "native": "Caico/Millet",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66040,
-      "name": "Canarini",
+      "name": "Canarie",
       "name_default": "Canaries",
       "native": "Canaries",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 66064,
-      "name": "Tenuta Champen",
+      "name": "Champen Estate",
       "name_default": "Champen Estate",
       "native": "Champen Estate",
       "type": "adm1",
@@ -183,7 +183,7 @@
     },
     {
       "id": 66112,
-      "name": "Laguna di Derriere",
+      "name": "Derriere Lagoon",
       "name_default": "Derriere Lagoon",
       "native": "Derriere Lagoon",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 66200,
-      "name": "Giovanni Battista",
+      "name": "Jean Baptiste",
       "name_default": "Jean Baptiste",
       "native": "Jean Baptiste",
       "type": "adm1",
@@ -291,7 +291,7 @@
     },
     {
       "id": 66260,
-      "name": "Massacro",
+      "name": "Massacre",
       "name_default": "Massacre",
       "native": "Massacre",
       "type": "capital",
@@ -309,7 +309,7 @@
     },
     {
       "id": 66266,
-      "name": "Miglio",
+      "name": "Millet",
       "name_default": "Millet",
       "native": "Millet",
       "type": "city",
@@ -329,7 +329,7 @@
       "id": 66294,
       "name": "Morne Ciseaux",
       "name_default": "Morne Ciseaux",
-      "native": "Grine scissors",
+      "native": "Morne Ciseaux",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 66365,
-      "name": "Valle di Roseau",
+      "name": "Roseau Valley",
       "name_default": "Roseau Valley",
       "native": "Roseau Valley",
       "type": "adm1",
@@ -381,7 +381,7 @@
     },
     {
       "id": 66381,
-      "name": "San Lorenzo",
+      "name": "St Lawrence",
       "name_default": "St Lawrence",
       "native": "St Lawrence",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 66382,
-      "name": "Tenuta di San Lorenzo",
+      "name": "St Lawrence Estate",
       "name_default": "St Lawrence Estate",
       "native": "St Lawrence Estate",
       "type": "city",
@@ -419,7 +419,7 @@
       "id": 66392,
       "name": "Tete Chemin",
       "name_default": "Tete Chemin",
-      "native": "Head",
+      "native": "Tete Chemin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 66417,
-      "name": "Venere",
+      "name": "Venus",
       "name_default": "Venus",
       "native": "Venus",
       "type": "adm1",
@@ -471,7 +471,7 @@
     },
     {
       "id": 66427,
-      "name": "Villaggio",
+      "name": "Village",
       "name_default": "Village",
       "native": "Village",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 66429,
-      "name": "Villaggio/Petite Bourgh",
+      "name": "Village/Petite Bourgh",
       "name_default": "Village/Petite Bourgh",
       "native": "Village/Petite Bourgh",
       "type": "city",

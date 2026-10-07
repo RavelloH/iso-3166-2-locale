@@ -239,7 +239,7 @@
       "id": 90223,
       "name": "Bordeasca Veche",
       "name_default": "Bordeasca Veche",
-      "native": "Vech",
+      "native": "Bordeasca Veche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -311,7 +311,7 @@
       "id": 90415,
       "name": "Burca",
       "name_default": "Burca",
-      "native": "Semn",
+      "native": "Burca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -401,7 +401,7 @@
       "id": 90603,
       "name": "Ceardac",
       "name_default": "Ceardac",
-      "native": "Atingere",
+      "native": "Ceardac",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 90868,
-      "name": "Kumuniezh Andreiaşu de Jos",
+      "name": "Comuna Andreiaşu de Jos",
       "name_default": "Comuna Andreiaşu de Jos",
       "native": "Comuna Andreiaşu de Jos",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 91215,
-      "name": "Kumuniezh Băleşti",
+      "name": "Comuna Băleşti",
       "name_default": "Comuna Băleşti",
       "native": "Comuna Băleşti",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 91193,
-      "name": "Kumuniezh Bârseşti",
+      "name": "Comuna Bârseşti",
       "name_default": "Comuna Bârseşti",
       "native": "Comuna Bârseşti",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 91030,
-      "name": "Kumuniezh Bogheşti",
+      "name": "Comuna Bogheşti",
       "name_default": "Comuna Bogheşti",
       "native": "Comuna Bogheşti",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 91042,
-      "name": "Kumuniezh Boloteşti",
+      "name": "Comuna Boloteşti",
       "name_default": "Comuna Boloteşti",
       "native": "Comuna Boloteşti",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 91048,
-      "name": "Kumuniezh Bordeşti",
+      "name": "Comuna Bordeşti",
       "name_default": "Comuna Bordeşti",
       "native": "Comuna Bordeşti",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 91104,
-      "name": "Kumuniezh Broşteni",
+      "name": "Comuna Broşteni",
       "name_default": "Comuna Broşteni",
       "native": "Comuna Broşteni",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 91543,
-      "name": "Kumuniezh Câmpineanca",
+      "name": "Comuna Câmpineanca",
       "name_default": "Comuna Câmpineanca",
       "native": "Comuna Câmpineanca",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 91545,
-      "name": "Kumuniezh Kampuri",
+      "name": "Comuna Câmpuri",
       "name_default": "Comuna Câmpuri",
       "native": "Comuna Câmpuri",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 91552,
-      "name": "Kumuniezh Cârligele",
+      "name": "Comuna Cârligele",
       "name_default": "Comuna Cârligele",
       "native": "Comuna Cârligele",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 91319,
-      "name": "Kumuniezh Chiojdeni",
+      "name": "Comuna Chiojdeni",
       "name_default": "Comuna Chiojdeni",
       "native": "Comuna Chiojdeni",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 91357,
-      "name": "Kumuniezh Ciorăşti",
+      "name": "Comuna Ciorăşti",
       "name_default": "Comuna Ciorăşti",
       "native": "Comuna Ciorăşti",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 91427,
-      "name": "Kumuniezh Korbiz",
+      "name": "Comuna Corbiţa",
       "name_default": "Comuna Corbiţa",
       "native": "Comuna Corbiţa",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 91464,
-      "name": "Kumuniezh Coteşti",
+      "name": "Comuna Coteşti",
       "name_default": "Comuna Coteşti",
       "native": "Comuna Coteşti",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 93584,
-      "name": "Kumuniezh Dumbrăveni",
+      "name": "Comună Dumbrăveni",
       "name_default": "Comună Dumbrăveni",
       "native": "Comună Dumbrăveni",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 91723,
-      "name": "Kumuniezh Dumitreşti",
+      "name": "Comuna Dumitreşti",
       "name_default": "Comuna Dumitreşti",
       "native": "Comuna Dumitreşti",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 91768,
-      "name": "Kumuniezh Fitioneşti",
+      "name": "Comuna Fitioneşti",
       "name_default": "Comuna Fitioneşti",
       "native": "Comuna Fitioneşti",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91833,
-      "name": "Kumuniezh Garoafa",
+      "name": "Comuna Garoafa",
       "name_default": "Comuna Garoafa",
       "native": "Comuna Garoafa",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 91896,
-      "name": "Kumuniezh Goleşti",
+      "name": "Comuna Goleşti",
       "name_default": "Comuna Goleşti",
       "native": "Comuna Goleşti",
       "type": "adm2",
@@ -831,7 +831,7 @@
     },
     {
       "id": 91945,
-      "name": "Kumuniezh Gugeşti",
+      "name": "Comuna Gugeşti",
       "name_default": "Comuna Gugeşti",
       "native": "Comuna Gugeşti",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 91946,
-      "name": "Kumuniezh Gura Caliţei",
+      "name": "Comuna Gura Caliţei",
       "name_default": "Comuna Gura Caliţei",
       "native": "Comuna Gura Caliţei",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 92011,
-      "name": "Kumuniezh Homocea",
+      "name": "Comuna Homocea",
       "name_default": "Comuna Homocea",
       "native": "Comuna Homocea",
       "type": "section",
@@ -885,7 +885,7 @@
     },
     {
       "id": 92115,
-      "name": "Kumuniezh Jariştea",
+      "name": "Comuna Jariştea",
       "name_default": "Comuna Jariştea",
       "native": "Comuna Jariştea",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 92127,
-      "name": "Kumuniezh Jitia",
+      "name": "Comuna Jitia",
       "name_default": "Comuna Jitia",
       "native": "Comuna Jitia",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 92394,
-      "name": "Kumuniezh Măicăneşti",
+      "name": "Comuna Măicăneşti",
       "name_default": "Comuna Măicăneşti",
       "native": "Comuna Măicăneşti",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 92254,
-      "name": "Kumuniezh Mera",
+      "name": "Comuna Mera",
       "name_default": "Comuna Mera",
       "native": "Comuna Mera",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 92290,
-      "name": "Kumuniezh Milcovul",
+      "name": "Comuna Milcovul",
       "name_default": "Comuna Milcovul",
       "native": "Comuna Milcovul",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 92344,
-      "name": "Kumuniezh Moviliţa",
+      "name": "Comuna Moviliţa",
       "name_default": "Comuna Moviliţa",
       "native": "Comuna Moviliţa",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 92463,
-      "name": "Kumuniezh Năneşti",
+      "name": "Comuna Năneşti",
       "name_default": "Comuna Năneşti",
       "native": "Comuna Năneşti",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 92465,
-      "name": "Kumuniezh Năruja",
+      "name": "Comuna Năruja",
       "name_default": "Comuna Năruja",
       "native": "Comuna Năruja",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 92438,
-      "name": "Kumuniezh Nereju",
+      "name": "Comuna Nereju",
       "name_default": "Comuna Nereju",
       "native": "Comuna Nereju",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 92449,
-      "name": "Kumuniezh Nistoreşti",
+      "name": "Comuna Nistoreşti",
       "name_default": "Comuna Nistoreşti",
       "native": "Comuna Nistoreşti",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 92532,
-      "name": "Kumuniezh Paltin",
+      "name": "Comuna Paltin",
       "name_default": "Comuna Paltin",
       "native": "Comuna Paltin",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 92726,
-      "name": "Kumuniezh Păuleşti",
+      "name": "Comuna Păuleşti",
       "name_default": "Comuna Păuleşti",
       "native": "Comuna Păuleşti",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 92729,
-      "name": "Kumuniezh Păuneşti",
+      "name": "Comuna Păuneşti",
       "name_default": "Comuna Păuneşti",
       "native": "Comuna Păuneşti",
       "type": "adm2",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 92603,
-      "name": "Kumuniezh Ploscuţeni",
+      "name": "Comuna Ploscuţeni",
       "name_default": "Comuna Ploscuţeni",
       "native": "Comuna Ploscuţeni",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 92626,
-      "name": "Kumuniezh Poiana Cristei",
+      "name": "Comuna Poiana Cristei",
       "name_default": "Comuna Poiana Cristei",
       "native": "Comuna Poiana Cristei",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 92655,
-      "name": "Kumuniezh ar Pab",
+      "name": "Comuna Popeşti",
       "name_default": "Comuna Popeşti",
       "native": "Comuna Popeşti",
       "type": "adm2",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 92692,
-      "name": "Kumuniezh Pufeşti",
+      "name": "Comuna Pufeşti",
       "name_default": "Comuna Pufeşti",
       "native": "Comuna Pufeşti",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 92839,
-      "name": "Kumuniezh Răcoasa",
+      "name": "Comuna Răcoasa",
       "name_default": "Comuna Răcoasa",
       "native": "Comuna Răcoasa",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 92762,
-      "name": "Kumuniezh Reghiu",
+      "name": "Comuna Reghiu",
       "name_default": "Comuna Reghiu",
       "native": "Comuna Reghiu",
       "type": "adm2",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 92807,
-      "name": "Kumuniezh Rugineşti",
+      "name": "Comuna Rugineşti",
       "name_default": "Comuna Rugineşti",
       "native": "Comuna Rugineşti",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 92928,
-      "name": "Kumuniezh Sihlea",
+      "name": "Comuna Sihlea",
       "name_default": "Comuna Sihlea",
       "native": "Comuna Sihlea",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 92955,
-      "name": "Kumuniezh Slobozia Bradului",
+      "name": "Comuna Slobozia Bradului",
       "name_default": "Comuna Slobozia Bradului",
       "native": "Comuna Slobozia Bradului",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 92958,
-      "name": "Kumuniezh Slobozia-Ciorăşti",
+      "name": "Comuna Slobozia-Ciorăşti",
       "name_default": "Comuna Slobozia-Ciorăşti",
       "native": "Comuna Slobozia-Ciorăşti",
       "type": "adm2",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 92979,
-      "name": "Kumuniezh Soveja",
+      "name": "Comuna Soveja",
       "name_default": "Comuna Soveja",
       "native": "Comuna Soveja",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 92985,
-      "name": "Kumuniezh Spulber",
+      "name": "Comuna Spulber",
       "name_default": "Comuna Spulber",
       "native": "Comuna Spulber",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 93009,
-      "name": "Kumuniezh Străoane",
+      "name": "Comuna Străoane",
       "name_default": "Comuna Străoane",
       "native": "Comuna Străoane",
       "type": "adm2",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 93035,
-      "name": "Kumuniezh Suraia",
+      "name": "Comuna Suraia",
       "name_default": "Comuna Suraia",
       "native": "Comuna Suraia",
       "type": "adm2",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 93222,
-      "name": "Kumuniezh Tâmboeşti",
+      "name": "Comuna Tâmboeşti",
       "name_default": "Comuna Tâmboeşti",
       "native": "Comuna Tâmboeşti",
       "type": "adm2",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 93238,
-      "name": "Kumuniezh Tănăsoaia",
+      "name": "Comuna Tănăsoaia",
       "name_default": "Comuna Tănăsoaia",
       "native": "Comuna Tănăsoaia",
       "type": "adm2",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 93235,
-      "name": "Kumuniezh Tãtãranu",
+      "name": "Comuna Tãtãranu",
       "name_default": "Comuna Tãtãranu",
       "native": "Comuna Tãtãranu",
       "type": "adm2",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 93573,
-      "name": "Kumuniezh Ţifeşti",
+      "name": "Comuna Ţifeşti",
       "name_default": "Comuna Ţifeşti",
       "native": "Comuna Ţifeşti",
       "type": "adm2",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 93205,
-      "name": "Kumuniezh Tulnic",
+      "name": "Comuna Tulnici",
       "name_default": "Comuna Tulnici",
       "native": "Comuna Tulnici",
       "type": "adm2",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 93281,
-      "name": "Kumuniezh Urecheşti",
+      "name": "Comuna Urecheşti",
       "name_default": "Comuna Urecheşti",
       "native": "Comuna Urecheşti",
       "type": "adm2",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 93325,
-      "name": "Kumuniezh Valea Sării",
+      "name": "Comuna Valea Sării",
       "name_default": "Comuna Valea Sării",
       "native": "Comuna Valea Sării",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 93435,
-      "name": "Kumuniezh Vânători",
+      "name": "Comuna Vânători",
       "name_default": "Comuna Vânători",
       "native": "Comuna Vânători",
       "type": "adm2",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 93444,
-      "name": "Kumuniezh Vârteşcoiu",
+      "name": "Comuna Vârteşcoiu",
       "name_default": "Comuna Vârteşcoiu",
       "native": "Comuna Vârteşcoiu",
       "type": "adm2",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 93356,
-      "name": "Kumuniezh Vidra",
+      "name": "Comuna Vidra",
       "name_default": "Comuna Vidra",
       "native": "Comuna Vidra",
       "type": "adm2",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 93366,
-      "name": "Kumuniezh Vintileasca",
+      "name": "Comuna Vintileasca",
       "name_default": "Comuna Vintileasca",
       "native": "Comuna Vintileasca",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 93372,
-      "name": "Kumuniezh Vizantea-Livezi",
+      "name": "Comuna Vizantea-Livezi",
       "name_default": "Comuna Vizantea-Livezi",
       "native": "Comuna Vizantea-Livezi",
       "type": "city",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 93411,
-      "name": "Kumuniezh Vrâncioaia",
+      "name": "Comuna Vrâncioaia",
       "name_default": "Comuna Vrâncioaia",
       "native": "Comuna Vrâncioaia",
       "type": "adm2",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 93422,
-      "name": "Kumuniezh Vulturu",
+      "name": "Comuna Vulturu",
       "name_default": "Comuna Vulturu",
       "native": "Comuna Vulturu",
       "type": "adm2",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 95002,
-      "name": "Milkovul",
+      "name": "Milcovul",
       "name_default": "Milcovul",
       "native": "Milcovul",
       "type": "adm2",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 95101,
-      "name": "Adjud ar gumun",
+      "name": "Municipiul Adjud",
       "name_default": "Municipiul Adjud",
       "native": "Municipiul  Adjud",
       "type": "city",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 95141,
-      "name": "Kumun Focşani",
+      "name": "Municipiul Focşani",
       "name_default": "Municipiul Focşani",
       "native": "Municipiul Focşani",
       "type": "city",
@@ -2255,7 +2255,7 @@
       "id": 95329,
       "name": "Nereju",
       "name_default": "Nereju",
-      "native": "Mizerie",
+      "native": "Nereju",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2615,7 +2615,7 @@
       "id": 96080,
       "name": "Reghiu",
       "name_default": "Reghiu",
-      "native": "AGIU",
+      "native": "Reghiu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 96147,
-      "name": "Rugineşti",
+      "name": "Ruginești",
       "name_default": "Rugineşti",
       "native": "Rugineşti",
       "type": "adm2",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": 96905,
-      "name": "Vulcaneasa",
+      "name": "Vulcăneasa",
       "name_default": "Vulcăneasa",
       "native": "Vulcăneasa",
       "type": "city",

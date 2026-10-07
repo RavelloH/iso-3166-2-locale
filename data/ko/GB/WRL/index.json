@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48442,
-      "name": "베빙턴",
+      "name": "베딩턴",
       "name_default": "Bebington",
       "native": "Bebington",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48520,
-      "name": "버켄헤드",
+      "name": "비컨헤드",
       "name_default": "Birkenhead",
       "native": "Birkenhead",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48718,
-      "name": "브롬버러",
+      "name": "브롬보로",
       "name_default": "Bromborough",
       "native": "Bromborough",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49915,
-      "name": "헤스월",
+      "name": "허스웰",
       "name_default": "Heswall",
       "native": "Heswall",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 50015,
-      "name": "호일레이크",
+      "name": "호이레이크",
       "name_default": "Hoylake",
       "native": "Hoylake",
       "type": "city",
@@ -194,24 +194,6 @@
       "longitude": "-3.11667000",
       "timezone": "Europe/London",
       "wikiDataId": "Q3862955",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2408,
-      "country_id": 232
-    },
-    {
-      "id": 50676,
-      "name": "네스톤",
-      "name_default": "Neston",
-      "native": "Nest",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 15352,
-      "latitude": "53.28333000",
-      "longitude": "-3.05000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q925760",
       "country_code": "GB",
       "state_code": "WRL",
       "state_id": 2408,

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 20490,
-      "name": "آچی",
+      "name": "اچی",
       "name_default": "Achí",
       "native": "Ahí",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 20510,
-      "name": "آلتوس دل روساریو",
+      "name": "التاس دل روساریو",
       "name_default": "Altos del Rosario",
       "native": "Altos del Rosario",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 20573,
-      "name": "بارانکو دِ لوبا",
+      "name": "بارانکو د لوبا",
       "name_default": "Barranco de Loba",
       "native": "Barranco de Loba",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 20659,
-      "name": "کارتاخنا دِ ایندیاس",
+      "name": "کارتاگینا",
       "name_default": "Cartagena de Indias",
       "native": "Cartagena de Indias",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 20707,
-      "name": "چیکوکو",
+      "name": "سیکوکو",
       "name_default": "Cicuco",
       "native": "Cicuco",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 20796,
-      "name": "ال کارمن دو بولیوار",
+      "name": "کارمن ده بولیوار",
       "name_default": "El Carmen de Bolívar",
       "native": "El Carmen de Bolívar",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 20818,
-      "name": "ال پنیون",
+      "name": "ال پنون",
       "name_default": "El Peñón",
       "native": "El Peñón",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 20935,
-      "name": "هاتیلو دِ لوبا",
+      "name": "هاتیلو د لوبا",
       "name_default": "Hatillo de Loba",
       "native": "Hatillo de Loba",
       "type": "adm2",
@@ -363,9 +363,9 @@
     },
     {
       "id": 21050,
-      "name": "ماهاتس",
+      "name": "ماآتس",
       "name_default": "Mahates",
-      "native": "Asalto",
+      "native": "Mahates",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -419,7 +419,7 @@
       "id": 21093,
       "name": "مومپوس",
       "name_default": "Mompós",
-      "native": "Momento",
+      "native": "Mompós",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -435,7 +435,7 @@
     },
     {
       "id": 21098,
-      "name": "مونته‌کریستو",
+      "name": "مونته کریستو",
       "name_default": "Montecristo",
       "native": "Montecristo",
       "type": "adm2",
@@ -455,7 +455,7 @@
       "id": 21104,
       "name": "مورالس",
       "name_default": "Morales",
-      "native": "Moral",
+      "native": "Morales",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -473,7 +473,7 @@
       "id": 21138,
       "name": "نوروسی",
       "name_default": "Norosí",
-      "native": "Ninosi",
+      "native": "Norosí",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 21207,
-      "name": "پینیلوس",
+      "name": "پینییوس",
       "name_default": "Pinillos",
       "native": "Pinillos",
       "type": "adm2",
@@ -509,7 +509,7 @@
       "id": 21280,
       "name": "رجیدور",
       "name_default": "Regidor",
-      "native": "Concejal",
+      "native": "Regidor",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 21353,
-      "name": "سن استانیسلائو",
+      "name": "سن استانیسلاو",
       "name_default": "San Estanislao",
       "native": "San Estanislao",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 21360,
-      "name": "سن جاسینتو",
+      "name": "سان خاسینتو",
       "name_default": "San Jacinto",
       "native": "San Jacinto",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 21423,
-      "name": "سانتا روزا",
+      "name": "سانتا روسا",
       "name_default": "Santa Rosa",
       "native": "Santa Rosa",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 21427,
-      "name": "سانتا روزا دل سور",
+      "name": "سانتا روسا دل سور",
       "name_default": "Santa Rosa del Sur",
       "native": "Santa Rosa del Sur",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 21505,
-      "name": "تالایگوا نوئوو",
+      "name": "تالایگوآ نوو",
       "name_default": "Talaigua Nuevo",
       "native": "Talaigua Nuevo",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 21531,
-      "name": "تیکوئیسیو",
+      "name": "تیکیسیو",
       "name_default": "Tiquisio",
       "native": "Tiquisio",
       "type": "adm2",
@@ -833,7 +833,7 @@
       "id": 21556,
       "name": "توربانا",
       "name_default": "Turbaná",
-      "native": "Turbante",
+      "native": "Turbaná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 21609,
-      "name": "ویلانوئوا",
+      "name": "ویلانووا",
       "name_default": "Villanueva",
       "native": "Villanueva",
       "type": "adm2",

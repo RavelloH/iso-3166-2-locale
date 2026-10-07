@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48964,
-      "name": "Чигвелл",
-      "name_default": "Chigwell",
-      "native": "Chigwell",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10354,
-      "latitude": "51.61999000",
-      "longitude": "0.07596000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q944734",
-      "country_code": "GB",
-      "state_code": "RDB",
-      "state_id": 2397,
-      "country_id": 232
-    },
-    {
       "id": 49696,
       "name": "Грейндж-Хилл",
       "name_default": "Grange Hill",
@@ -111,7 +93,7 @@
     },
     {
       "id": 51592,
-      "name": "Тейдон Буа",
+      "name": "Тейдон-Бойс",
       "name_default": "Theydon Bois",
       "native": "Theydon Bois",
       "type": "city",

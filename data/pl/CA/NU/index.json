@@ -246,7 +246,7 @@
   "cities": [
     {
       "id": 16315,
-      "name": "Rzeka Clyde",
+      "name": "Clyde River",
       "name_default": "Clyde River",
       "native": "Clyde River",
       "type": "locality",
@@ -284,7 +284,7 @@
       "id": 16524,
       "name": "Iqaluit",
       "name_default": "Iqaluit",
-      "native": "Fish",
+      "native": "Iqaluit",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -302,7 +302,7 @@
       "id": 16555,
       "name": "Kugluktuk",
       "name_default": "Kugluktuk",
-      "native": "Bullet",
+      "native": "Kugluktuk",
       "type": "locality",
       "level": null,
       "parent_id": null,
@@ -336,7 +336,7 @@
     },
     {
       "id": 16869,
-      "name": "Zatoka Rankin",
+      "name": "Rankin Inlet",
       "name_default": "Rankin Inlet",
       "native": "Rankin Inlet",
       "type": "locality",

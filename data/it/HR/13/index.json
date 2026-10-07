@@ -93,7 +93,7 @@
     },
     {
       "id": 54400,
-      "name": "Biograd na Moru",
+      "name": "Zaravecchia",
       "name_default": "Biograd na Moru",
       "native": "Biograd na Moru",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 54488,
-      "name": "Galovac",
+      "name": "Gallovaz",
       "name_default": "Galovac",
       "native": "Alovac",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 54625,
-      "name": "Kali",
+      "name": "Calle",
       "name_default": "Kali",
       "native": "Kali",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 54754,
-      "name": "Nin",
+      "name": "Nona",
       "name_default": "Nin",
       "native": "N",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 54797,
-      "name": "Pag",
+      "name": "Pago",
       "name_default": "Pag",
       "native": "Pal",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 54798,
-      "name": "Pakoštane",
+      "name": "Poschiane",
       "name_default": "Pakoštane",
       "native": "Pakoštane",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 54822,
-      "name": "Polača",
+      "name": "Polazza",
       "name_default": "Polača",
       "native": "Polača",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 54823,
-      "name": "Poličnik",
+      "name": "Polisano",
       "name_default": "Poličnik",
       "native": "Poličnik",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 54828,
-      "name": "Posedarje",
+      "name": "Possedaria",
       "name_default": "Posedarje",
       "native": "Posedarje",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 54833,
-      "name": "Preko",
+      "name": "Oltre",
       "name_default": "Preko",
       "native": "Preko",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54856,
-      "name": "Ražanac",
+      "name": "Rasanze",
       "name_default": "Ražanac",
       "native": "Ražanac",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 54875,
-      "name": "Sali",
+      "name": "Sale",
       "name_default": "Sali",
       "native": "Sali",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 54928,
-      "name": "Sveti Filip i Jakov",
+      "name": "Santi Filippo e Giacomo",
       "name_default": "Sveti Filip i Jakov",
       "native": "Sveti Filip i Jakov",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 54948,
-      "name": "Ugliano",
+      "name": "Ugljan",
       "name_default": "Ugljan",
       "native": "Ugljan",
       "type": "city",
@@ -617,7 +617,7 @@
       "id": 54971,
       "name": "Vir",
       "name_default": "Vir",
-      "native": "Za",
+      "native": "Vir",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 54998,
-      "name": "Vrsi",
+      "name": "Verchè",
       "name_default": "Vrsi",
       "native": "Vrsi",
       "type": "adm2",

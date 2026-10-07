@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48165,
-      "name": "ابرکیردر",
+      "name": "ابرچیردر",
       "name_default": "Aberchirder",
       "native": "Aberchirder",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 48747,
-      "name": "باکی",
+      "name": "بوکی",
       "name_default": "Buckie",
-      "native": "Bucky",
+      "native": "Buckie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 48924,
-      "name": "چارلزتاون از آبرلور",
+      "name": "ابرلور",
       "name_default": "Charlestown of Aberlour",
       "native": "Charlestown of Aberlour",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49556,
-      "name": "فیندوکتی",
+      "name": "فنداکتی",
       "name_default": "Findochty",
       "native": "Findochty",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49579,
-      "name": "فوچابرها",
+      "name": "فوکبرز",
       "name_default": "Fochabers",
       "native": "Fochabers",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 50106,
-      "name": "کیت",
+      "name": "کیث",
       "name_default": "Keith",
       "native": "Keith",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50185,
-      "name": "کینگاسی",
+      "name": "کینگوسی",
       "name_default": "Kingussie",
       "native": "Kingussie",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 50416,
-      "name": "لوسیموث",
+      "name": "لاسیموث",
       "name_default": "Lossiemouth",
       "native": "Lossiemouth",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 50623,
-      "name": "موری",
+      "name": "مورای",
       "name_default": "Moray",
       "native": "Moray",
       "type": "area",
@@ -428,24 +428,6 @@
       "longitude": "-3.25000000",
       "timezone": "Europe/London",
       "wikiDataId": "Q211106",
-      "country_code": "GB",
-      "state_code": "MRY",
-      "state_id": 2360,
-      "country_id": 232
-    },
-    {
-      "id": 50661,
-      "name": "نایرن",
-      "name_default": "Nairn",
-      "native": "Nairn",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10022,
-      "latitude": "57.58094000",
-      "longitude": "-3.87973000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q980084",
       "country_code": "GB",
       "state_code": "MRY",
       "state_id": 2360,
@@ -489,7 +471,7 @@
     },
     {
       "id": 51118,
-      "name": "روتس",
+      "name": "روثس",
       "name_default": "Rothes",
       "native": "Rothes",
       "type": "city",
@@ -507,7 +489,7 @@
     },
     {
       "id": 51547,
-      "name": "تین",
+      "name": "تاین",
       "name_default": "Tain",
       "native": "Tain",
       "type": "city",

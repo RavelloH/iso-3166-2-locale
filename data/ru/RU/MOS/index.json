@@ -934,7 +934,7 @@
     },
     {
       "id": 98255,
-      "name": "Деденево",
+      "name": "Деденёво",
       "name_default": "Dedenëvo",
       "native": "Деденево",
       "type": "city",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": 98668,
-      "name": "Имени Цюрупы",
+      "name": "Посёлок имени Цюрупы",
       "name_default": "Imeni Tsyurupy",
       "native": "Имени Цюрупы",
       "type": "city",
@@ -1582,7 +1582,7 @@
     },
     {
       "id": 98671,
-      "name": "Имени Воровского",
+      "name": "Посёлок имени Воровского",
       "name_default": "Imeni Vorovskogo",
       "native": "Имени Воровского",
       "type": "city",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 99214,
-      "name": "Королев",
+      "name": "Королёв",
       "name_default": "Korolev",
       "native": "Королев",
       "type": "adm2",
@@ -2032,7 +2032,7 @@
     },
     {
       "id": 99215,
-      "name": "Королев",
+      "name": "Королёв",
       "name_default": "Korolyov",
       "native": "Королев",
       "type": "adm2",
@@ -2230,7 +2230,7 @@
     },
     {
       "id": 99374,
-      "name": "Красный Ткач",
+      "name": "Шувое",
       "name_default": "Krasnyy Tkach",
       "native": "Красный Ткач",
       "type": "city",
@@ -2403,24 +2403,6 @@
       "longitude": "37.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2627647",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 99575,
-      "name": "Ленинские горы",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -2896,7 +2878,7 @@
     },
     {
       "id": 99907,
-      "name": "Михнёво",
+      "name": "Михнево",
       "name_default": "Mikhnëvo",
       "native": "Михнёво",
       "type": "city",
@@ -3652,7 +3634,7 @@
     },
     {
       "id": 100575,
-      "name": "Павловская слобода",
+      "name": "Павловская Слобода",
       "name_default": "Pavlovskaya Sloboda",
       "native": "Павловская слобода",
       "type": "city",
@@ -3814,7 +3796,7 @@
     },
     {
       "id": 100683,
-      "name": "Пироговский",
+      "name": "микрорайон Посёлок Пироговский",
       "name_default": "Pirogovskiy",
       "native": "Пироговский",
       "type": "city",
@@ -4264,7 +4246,7 @@
     },
     {
       "id": 100981,
-      "name": "Рогачево",
+      "name": "Рогачёво",
       "name_default": "Rogachëvo",
       "native": "Рогачево",
       "type": "city",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "Щелково",
+      "name": "Щёлково",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -5416,7 +5398,7 @@
     },
     {
       "id": 102353,
-      "name": "Володарского",
+      "name": "Посёлок Володарского",
       "name_default": "Volodarskogo",
       "native": "Володарского",
       "type": "city",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "Востряково",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "Высоковск",
       "name_default": "Vysokovsk",
@@ -5578,9 +5542,9 @@
     },
     {
       "id": 102477,
-      "name": "сладкий картофель",
+      "name": "Ям",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -59,7 +59,7 @@
       "id": 135753,
       "name": "Bagnarola",
       "name_default": "Bagnarola",
-      "native": "BAGNO",
+      "native": "Bagnarola",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 137378,
-      "name": "Castrocaro Terme et Terra del Sole",
+      "name": "Castrocaro Terme e Terra del Sole",
       "name_default": "Castrocaro Terme e Terra del Sole",
       "native": "Castrocaro Terme e Terra del Sole",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 137611,
-      "name": "Césène",
+      "name": "Cesena",
       "name_default": "Cesena",
       "native": "Cesena",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 138213,
-      "name": "Cuscicolini",
+      "name": "Cusercoli",
       "name_default": "Cusercoli",
       "native": "Cusercoli",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 138799,
-      "name": "Galéata",
+      "name": "Galeata",
       "name_default": "Galeata",
       "native": "Galeata",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 140078,
-      "name": "Marché Saraceno",
+      "name": "Mercato Saraceno",
       "name_default": "Mercato Saraceno",
       "native": "Mercato Saraceno",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 58919,
-      "name": "Portique de Romagne",
+      "name": "Portico di Romagna",
       "name_default": "Portico di Romagna",
       "native": "Portico di Romagna",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 58920,
-      "name": "Portique et San Benedetto",
+      "name": "Portico e San Benedetto",
       "name_default": "Portico e San Benedetto",
       "native": "Portico e San Benedetto",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 59043,
-      "name": "Prédappio",
+      "name": "Predappio",
       "name_default": "Predappio",
       "native": "Predappio",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 59057,
-      "name": "Prémilcuore",
+      "name": "Premilcuore",
       "name_default": "Premilcuore",
       "native": "Premilcuore",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 59737,
-      "name": "Salle",
+      "name": "Sala",
       "name_default": "Sala",
       "native": "Sala",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 60491,
-      "name": "Sainte Sophie",
+      "name": "Santa Sofia",
       "name_default": "Santa Sofia",
       "native": "Santa Sofia",
       "type": "adm3",
@@ -794,26 +794,8 @@
       "country_id": 107
     },
     {
-      "id": 60503,
-      "name": "Santarcangelo",
-      "name_default": "Santarcangelo",
-      "native": "Santarcangelo",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 10934,
-      "latitude": "44.06326000",
-      "longitude": "12.44657000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
-      "country_code": "IT",
-      "state_code": "FC",
-      "state_id": 1779,
-      "country_id": 107
-    },
-    {
       "id": 60558,
-      "name": "Sarsine",
+      "name": "Sarsina",
       "name_default": "Sarsina",
       "native": "Sarsina",
       "type": "adm3",

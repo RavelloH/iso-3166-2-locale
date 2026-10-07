@@ -110,8 +110,26 @@
       "country_id": 4
     },
     {
+      "id": 31381,
+      "name": "ملوزا",
+      "name_default": "Melouza",
+      "native": "ميلوزا",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 25701,
+      "latitude": "35.97999000",
+      "longitude": "4.18665000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q23802689",
+      "country_code": "DZ",
+      "state_code": "28",
+      "state_id": 1134,
+      "country_id": 4
+    },
+    {
       "id": 31426,
-      "name": "سیدی آیسا",
+      "name": "سیدی عیسى",
       "name_default": "Sidi Aïssa",
       "native": "سيدي عيسى",
       "type": "city",

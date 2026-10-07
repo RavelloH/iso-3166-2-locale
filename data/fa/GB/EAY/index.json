@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 48312,
-      "name": "اوچینلک",
+      "name": "اوکینلک",
       "name_default": "Auchinleck",
-      "native": "Also inin",
+      "native": "Auchinleck",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -131,7 +131,7 @@
       "id": 49242,
       "name": "دارول",
       "name_default": "Darvel",
-      "native": "Fool",
+      "native": "Darvel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -149,7 +149,7 @@
       "id": 49330,
       "name": "درونگان",
       "name_default": "Drongan",
-      "native": "Dringan",
+      "native": "Drongan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 49384,
-      "name": "ایست ایرشر",
+      "name": "ایرشر شرقی",
       "name_default": "East Ayrshire",
       "native": "East Ayrshire",
       "type": "area",
@@ -218,6 +218,24 @@
       "country_id": 232
     },
     {
+      "id": 50150,
+      "name": "کیلمارناک",
+      "name_default": "Kilmarnock",
+      "native": "Kilmarnock",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 46770,
+      "latitude": "55.61171000",
+      "longitude": "-4.49581000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q576562",
+      "country_code": "GB",
+      "state_code": "EAY",
+      "state_id": 2374,
+      "country_id": 232
+    },
+    {
       "id": 50387,
       "name": "لوگان",
       "name_default": "Logan",
@@ -237,7 +255,7 @@
     },
     {
       "id": 50528,
-      "name": "ماچلاین",
+      "name": "ماکلین",
       "name_default": "Mauchline",
       "native": "Mauchline",
       "type": "city",
@@ -273,7 +291,7 @@
     },
     {
       "id": 50649,
-      "name": "مویرکرک",
+      "name": "مویرکیرک",
       "name_default": "Muirkirk",
       "native": "Muirkirk",
       "type": "city",

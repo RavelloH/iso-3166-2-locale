@@ -246,7 +246,7 @@
   "cities": [
     {
       "id": 16315,
-      "name": "克莱德河",
+      "name": "克莱德里弗",
       "name_default": "Clyde River",
       "native": "Clyde River",
       "type": "locality",
@@ -284,7 +284,7 @@
       "id": 16524,
       "name": "伊魁特",
       "name_default": "Iqaluit",
-      "native": "Fish",
+      "native": "Iqaluit",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -300,9 +300,9 @@
     },
     {
       "id": 16555,
-      "name": "库格鲁克图克",
+      "name": "库格卢克图克",
       "name_default": "Kugluktuk",
-      "native": "Bullet",
+      "native": "Kugluktuk",
       "type": "locality",
       "level": null,
       "parent_id": null,
@@ -318,7 +318,7 @@
     },
     {
       "id": 16793,
-      "name": "庞纳通",
+      "name": "庞纳唐",
       "name_default": "Pangnirtung",
       "native": "Pangnirtung",
       "type": "locality",
@@ -336,7 +336,7 @@
     },
     {
       "id": 16869,
-      "name": "兰金湾",
+      "name": "兰金",
       "name_default": "Rankin Inlet",
       "native": "Rankin Inlet",
       "type": "locality",

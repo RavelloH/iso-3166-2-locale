@@ -110,6 +110,24 @@
       "country_id": 83
     },
     {
+      "id": 52166,
+      "name": "Bibiani",
+      "name_default": "Bibiani",
+      "native": "Bibiani",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 36487,
+      "latitude": "6.46346000",
+      "longitude": "-2.31938000",
+      "timezone": "Africa/Accra",
+      "wikiDataId": "Q4903040",
+      "country_code": "GH",
+      "state_code": "WN",
+      "state_id": 4963,
+      "country_id": 83
+    },
+    {
       "id": 149122,
       "name": "Bibiani-Anhwiaso-Bekwai",
       "name_default": "Bibiani-Anhwiaso-Bekwai",
@@ -129,7 +147,7 @@
     },
     {
       "id": 149123,
-      "name": "Cuerpo",
+      "name": "Bodi",
       "name_default": "Bodi",
       "native": "Bodi",
       "type": "city",
@@ -147,7 +165,7 @@
     },
     {
       "id": 149124,
-      "name": "Juaboso",
+      "name": "Juabeso",
       "name_default": "Juaboso",
       "native": "Juaboso",
       "type": "area",
@@ -183,7 +201,7 @@
     },
     {
       "id": 149126,
-      "name": "Sefwi-Wiawso",
+      "name": "Sefwi Wiawso",
       "name_default": "Sefwi-Wiawso",
       "native": "Sefwi-Wiawso",
       "type": "adm1",
@@ -203,7 +221,7 @@
       "id": 149127,
       "name": "Suaman",
       "name_default": "Suaman",
-      "native": "Jushate",
+      "native": "Suaman",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -57,10 +57,10 @@
   "cities": [
     {
       "id": 130673,
-      "name": "اهوار",
+      "name": "ناحیه احور",
       "name_default": "Ahwar",
       "native": "أهوار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25246,
@@ -78,7 +78,7 @@
       "name": "المحفد",
       "name_default": "Al Mahfad",
       "native": "المحفد",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 26870,
@@ -129,10 +129,10 @@
     },
     {
       "id": 130881,
-      "name": "جایشان",
+      "name": "ناحیه جیشان",
       "name_default": "Jayshan",
       "native": "جايشان",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14800,
@@ -147,7 +147,7 @@
     },
     {
       "id": 130887,
-      "name": "خانفیر",
+      "name": "ناحیه خنفر",
       "name_default": "Khanfir",
       "native": "خنفير",
       "type": "area",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130900,
-      "name": "لاودار",
+      "name": "ناحیه لودر",
       "name_default": "Lawdar",
       "native": "لودر",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 130928,
-      "name": "مودیه",
+      "name": "ناحیه مودیه",
       "name_default": "Mudiyah",
       "native": "مودية",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 130952,
-      "name": "رصد",
+      "name": "ناحیه رصد",
       "name_default": "Rasad",
       "native": "راساد",
       "type": "area",
@@ -219,10 +219,10 @@
     },
     {
       "id": 130967,
-      "name": "سارار",
+      "name": "ناحیه سرار",
       "name_default": "Sarar",
       "native": "سرار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15093,
@@ -237,7 +237,7 @@
     },
     {
       "id": 130981,
-      "name": "سیباه",
+      "name": "ناحیه سباح",
       "name_default": "Sibah",
       "native": "سيباه",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 131008,
-      "name": "زنجبیل",
+      "name": "ناحیه زنجبار",
       "name_default": "Zingibar",
       "native": "زينجيبار",
       "type": "adm1",

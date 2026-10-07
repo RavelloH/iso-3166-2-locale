@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68009,
-      "name": "31 Ekim",
+      "name": "31 de Octubre",
       "name_default": "31 de Octubre",
       "native": "31 de Octubre",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 76392,
-      "name": "Alamos",
+      "name": "Álamos",
       "name_default": "Álamos",
       "native": "Álamos",
       "type": "adm2",
@@ -298,7 +298,7 @@
       "id": 68352,
       "name": "Arivechi",
       "name_default": "Arivechi",
-      "native": "Llegó",
+      "native": "Arivechi",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -332,9 +332,9 @@
     },
     {
       "id": 68405,
-      "name": "Atıl",
+      "name": "Átil",
       "name_default": "Átil",
-      "native": "Illinois",
+      "native": "Átil",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -458,9 +458,9 @@
     },
     {
       "id": 68695,
-      "name": "Bacum",
+      "name": "Bácum",
       "name_default": "Bácum",
-      "native": "Cachorro",
+      "native": "Bácum",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -548,7 +548,7 @@
     },
     {
       "id": 68607,
-      "name": "Benjamin Hill",
+      "name": "Benjamín Hill",
       "name_default": "Benjamín Hill",
       "native": "Benjamin Hill",
       "type": "adm2",
@@ -584,7 +584,7 @@
     },
     {
       "id": 68655,
-      "name": "Buayumlar",
+      "name": "Buayums",
       "name_default": "Buayums",
       "native": "Buayums",
       "type": "city",
@@ -656,7 +656,7 @@
     },
     {
       "id": 68816,
-      "name": "Karbonhidrat",
+      "name": "Carbó",
       "name_default": "Carbó",
       "native": "Carbo",
       "type": "adm2",
@@ -674,7 +674,7 @@
     },
     {
       "id": 68902,
-      "name": "Centro de Readaptación Sosyal Yeni",
+      "name": "Centro de Readaptación Social Nuevo",
       "name_default": "Centro de Readaptación Social Nuevo",
       "native": "Centro de Readaptación Social Nuevo",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 69110,
-      "name": "Çukarit",
+      "name": "Chucarit",
       "name_default": "Chucarit",
       "native": "Chucarit",
       "type": "city",
@@ -710,7 +710,7 @@
     },
     {
       "id": 69174,
-      "name": "Ciudad Obregón",
+      "name": "Ciudad Obregon",
       "name_default": "Ciudad Obregón",
       "native": "Ciudad Obregón",
       "type": "adm2",
@@ -728,7 +728,7 @@
     },
     {
       "id": 69238,
-      "name": "Cocorit",
+      "name": "Cócorit",
       "name_default": "Cócorit",
       "native": "Cocorit",
       "type": "city",
@@ -764,7 +764,7 @@
     },
     {
       "id": 69608,
-      "name": "Salatalık",
+      "name": "Cucurpe",
       "name_default": "Cucurpe",
       "native": "Cucurpe",
       "type": "adm2",
@@ -818,7 +818,7 @@
     },
     {
       "id": 69932,
-      "name": "El Çakal",
+      "name": "El Coyote",
       "name_default": "El Coyote",
       "native": "El Coyote",
       "type": "city",
@@ -980,7 +980,7 @@
     },
     {
       "id": 70329,
-      "name": "Umut",
+      "name": "Esperanza",
       "name_default": "Esperanza",
       "native": "Esperanza",
       "type": "city",
@@ -1016,7 +1016,7 @@
     },
     {
       "id": 70340,
-      "name": "Corral İstasyonu",
+      "name": "Estación Corral",
       "name_default": "Estación Corral",
       "native": "Estación Corral",
       "type": "city",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 70346,
-      "name": "Llano İstasyonu",
+      "name": "Estación Llano",
       "name_default": "Estación Llano",
       "native": "Estación Llano",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 70375,
-      "name": "Eçoropo",
+      "name": "Etchoropo",
       "name_default": "Etchoropo",
       "native": "Ettropopo",
       "type": "city",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": 70494,
-      "name": "Sınırlar",
+      "name": "Fronteras",
       "name_default": "Fronteras",
       "native": "Fronteras",
       "type": "adm2",
@@ -1124,7 +1124,7 @@
     },
     {
       "id": 70553,
-      "name": "Santa Clara Golfo",
+      "name": "El Golfo de Santa Clara",
       "name_default": "Golfo de Santa Clara",
       "native": "Golfo de Santa Clara",
       "type": "city",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": 70672,
-      "name": "Güzel",
+      "name": "Hermosillo",
       "name_default": "Hermosillo",
       "native": "Hermosillo",
       "type": "adm1",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": 70675,
-      "name": "Kahramanca Caborca",
+      "name": "Heroica Caborca",
       "name_default": "Heroica Caborca",
       "native": "Heroica Caborca",
       "type": "adm2",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": 70679,
-      "name": "Kahraman Guaymas",
+      "name": "Guaymas",
       "name_default": "Heroica Guaymas",
       "native": "Heroica Guaymas",
       "type": "adm2",
@@ -1322,7 +1322,7 @@
     },
     {
       "id": 70867,
-      "name": "İmuris",
+      "name": "Imuris",
       "name_default": "Imuris",
       "native": "Imuris",
       "type": "city",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": 71356,
-      "name": "Özgürlük",
+      "name": "La Libertad",
       "name_default": "La Libertad",
       "native": "La Libertad",
       "type": "city",
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 71461,
-      "name": "Providencia",
+      "name": "La Providencia",
       "name_default": "La Providencia",
       "native": "La Providencia",
       "type": "city",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": 71521,
-      "name": "Birlik",
+      "name": "La Unión",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "city",
@@ -1556,7 +1556,7 @@
     },
     {
       "id": 71534,
-      "name": "Victoria",
+      "name": "La Victoria",
       "name_default": "La Victoria",
       "native": "La Victoria",
       "type": "city",
@@ -1612,7 +1612,7 @@
       "id": 71725,
       "name": "Loma de Bácum",
       "name_default": "Loma de Bácum",
-      "native": "Atrás",
+      "native": "Loma de Bácum",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1646,7 +1646,7 @@
     },
     {
       "id": 71738,
-      "name": "Sığınak Loma",
+      "name": "Loma del Refugio",
       "name_default": "Loma del Refugio",
       "native": "Loma del Refugio",
       "type": "city",
@@ -1808,7 +1808,7 @@
     },
     {
       "id": 72178,
-      "name": "Montezuma",
+      "name": "Moctezuma",
       "name_default": "Moctezuma",
       "native": "Moctezuma",
       "type": "adm2",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": 72239,
-      "name": "Moroncarit",
+      "name": "Moroncárit",
       "name_default": "Moroncárit",
       "native": "Moroncarit",
       "type": "city",
@@ -2006,7 +2006,7 @@
     },
     {
       "id": 72509,
-      "name": "Onavalar",
+      "name": "Onavas",
       "name_default": "Onavas",
       "native": "Onava",
       "type": "adm2",
@@ -2026,7 +2026,7 @@
       "id": 72513,
       "name": "Opodepe",
       "name_default": "Opodepe",
-      "native": "Oponerse a",
+      "native": "Opodepe",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2096,7 +2096,7 @@
     },
     {
       "id": 70093,
-      "name": "El Paredoncito",
+      "name": "Paredoncito",
       "name_default": "Paredoncito",
       "native": "El Paredoncito",
       "type": "city",
@@ -2114,9 +2114,9 @@
     },
     {
       "id": 72739,
-      "name": "Balıkçılık",
+      "name": "Pesqueira",
       "name_default": "Pesqueira",
-      "native": "Pesca",
+      "native": "Pesqueira",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2168,9 +2168,9 @@
     },
     {
       "id": 72859,
-      "name": "Potam",
+      "name": "Pótam",
       "name_default": "Pótam",
-      "native": "Beber",
+      "native": "Pótam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2186,7 +2186,7 @@
     },
     {
       "id": 72871,
-      "name": "Pozo Tatlı",
+      "name": "Pozo Dulce",
       "name_default": "Pozo Dulce",
       "native": "Pozo Dulce",
       "type": "city",
@@ -2258,7 +2258,7 @@
     },
     {
       "id": 72935,
-      "name": "Mayo Eyaleti",
+      "name": "Pueblo Mayo",
       "name_default": "Pueblo Mayo",
       "native": "Pueblo Mayo",
       "type": "city",
@@ -2330,7 +2330,7 @@
     },
     {
       "id": 73027,
-      "name": "Quetchueca",
+      "name": "Quetchehueca",
       "name_default": "Quetchehueca",
       "native": "Quetchehueca",
       "type": "city",
@@ -2366,7 +2366,7 @@
     },
     {
       "id": 73088,
-      "name": "Rayon",
+      "name": "Rayón",
       "name_default": "Rayón",
       "native": "Rayón",
       "type": "adm2",
@@ -2420,7 +2420,7 @@
     },
     {
       "id": 73201,
-      "name": "Otero Sahuaral",
+      "name": "Sahuaral de Otero",
       "name_default": "Sahuaral de Otero",
       "native": "Sahuaral de Otero",
       "type": "city",
@@ -2600,7 +2600,7 @@
     },
     {
       "id": 74052,
-      "name": "San Luis Rio Colorado",
+      "name": "San Luis Río Colorado",
       "name_default": "San Luis Río Colorado",
       "native": "San Luis Río Colorado",
       "type": "adm2",
@@ -2708,7 +2708,7 @@
     },
     {
       "id": 74806,
-      "name": "Santa Maria de Guaymas",
+      "name": "Santa María de Guaymas",
       "name_default": "Santa María de Guaymas",
       "native": "Santa María de Guaymas",
       "type": "city",
@@ -2726,7 +2726,7 @@
     },
     {
       "id": 74810,
-      "name": "Santa Maria del Buáraje",
+      "name": "Santa María del Buáraje",
       "name_default": "Santa María del Buáraje",
       "native": "Santa María del Buáraje",
       "type": "city",
@@ -2762,9 +2762,9 @@
     },
     {
       "id": 75088,
-      "name": "Sinahuiza",
+      "name": "Sinahuisa",
       "name_default": "Sinahuisa",
-      "native": "No creo",
+      "native": "Sinahuisa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2798,7 +2798,7 @@
     },
     {
       "id": 75121,
-      "name": "Sonoita",
+      "name": "Sonoyta",
       "name_default": "Sonoyta",
       "native": "Sonoita",
       "type": "adm2",
@@ -2836,7 +2836,7 @@
       "id": 75135,
       "name": "Suaqui Grande",
       "name_default": "Suaqui Grande",
-      "native": "Tu gran",
+      "native": "Suaqui Grande",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2870,7 +2870,7 @@
     },
     {
       "id": 75544,
-      "name": "Beyaz Topraklar",
+      "name": "Tierra Blanca",
       "name_default": "Tierra Blanca",
       "native": "Tierra Blanca",
       "type": "city",
@@ -2944,7 +2944,7 @@
       "id": 75969,
       "name": "Vicam",
       "name_default": "Vicam",
-      "native": "Conquistado",
+      "native": "Vicam",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3052,7 +3052,7 @@
       "id": 76252,
       "name": "Yécora",
       "name_default": "Yécora",
-      "native": "Yeak",
+      "native": "Yécora",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3068,7 +3068,7 @@
     },
     {
       "id": 70358,
-      "name": "Zamora İstasyonu",
+      "name": "Zamora",
       "name_default": "Zamora",
       "native": "Estación Zamora",
       "type": "city",

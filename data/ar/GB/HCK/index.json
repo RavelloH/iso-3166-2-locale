@@ -54,24 +54,5 @@
     "wikiDataId": "Q205679",
     "country_code": "GB"
   },
-  "cities": [
-    {
-      "id": 48482,
-      "name": "بيثنال جرين",
-      "name_default": "Bethnal Green",
-      "native": "Bethnal Green",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 17590,
-      "latitude": "51.52718000",
-      "longitude": "-0.06109000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q124204",
-      "country_code": "GB",
-      "state_code": "HCK",
-      "state_id": 2411,
-      "country_id": 232
-    }
-  ]
+  "cities": []
 }

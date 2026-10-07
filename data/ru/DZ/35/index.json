@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31235,
-      "name": "Арбатахе",
+      "name": "Арбаташ",
       "name_default": "Arbatache",
       "native": "أرباتاشي",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 31261,
-      "name": "Бени Амране",
+      "name": "Бени-Амран",
       "name_default": "Beni Amrane",
       "native": "بني عمران",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 31299,
-      "name": "Chabet el Ameur",
+      "name": "Шавет-эль-Амёр",
       "name_default": "Chabet el Ameur",
       "native": "شابيت العامور",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 31362,
-      "name": "Хемис эль Хечна",
+      "name": "Хемис-эль-Хешна",
       "name_default": "Khemis el Khechna",
       "native": "خميس الخشنة",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 31403,
-      "name": "Улед Мусса",
+      "name": "Улад-Муса",
       "name_default": "Ouled Moussa",
       "native": "أولاد موسى",
       "type": "city",
@@ -212,24 +212,6 @@
       "longitude": "3.36661000",
       "timezone": "Africa/Algiers",
       "wikiDataId": "Q3055250",
-      "country_code": "DZ",
-      "state_code": "35",
-      "state_id": 1125,
-      "country_id": 4
-    },
-    {
-      "id": 31441,
-      "name": "Тадмаит",
-      "name_default": "Tadmaït",
-      "native": "تادميت",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22838,
-      "latitude": "36.74413000",
-      "longitude": "3.90045000",
-      "timezone": "Africa/Algiers",
-      "wikiDataId": "Q3513734",
       "country_code": "DZ",
       "state_code": "35",
       "state_id": 1125,

@@ -129,7 +129,7 @@
     },
     {
       "id": 48309,
-      "name": "أثيرتون",
+      "name": "أثرتون",
       "name_default": "Atherton",
       "native": "Atherton",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 49100,
       "name": "كوبول",
       "name_default": "Coppull",
-      "native": "COPLL",
+      "native": "Coppull",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 49674,
-      "name": "جولبورن",
+      "name": "كلبورن",
       "name_default": "Golborne",
       "native": "Golborne",
       "type": "city",
@@ -344,24 +344,6 @@
       "country_id": 232
     },
     {
-      "id": 51320,
-      "name": "سكيلمرسديل",
-      "name_default": "Skelmersdale",
-      "native": "Saccompan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38944,
-      "latitude": "53.55024000",
-      "longitude": "-2.77348000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668237",
-      "country_code": "GB",
-      "state_code": "WGN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 51685,
       "name": "تيلديسلي",
       "name_default": "Tyldesley",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51898,
-      "name": "ويجان",
+      "name": "ويغان",
       "name_default": "Wigan",
       "native": "Wigan",
       "type": "adm2",

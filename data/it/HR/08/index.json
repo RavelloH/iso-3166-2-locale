@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54383,
-      "name": "Bakar",
+      "name": "Buccari",
       "name_default": "Bakar",
       "native": "Bakar",
       "type": "adm2",
@@ -75,9 +75,9 @@
     },
     {
       "id": 54386,
-      "name": "Banjol",
+      "name": "Bagnoli",
       "name_default": "Banjol",
-      "native": "Bajd",
+      "native": "Banjol",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 54388,
-      "name": "Baška",
+      "name": "Bescanuova",
       "name_default": "Baška",
       "native": "Baška",
       "type": "adm2",
@@ -113,7 +113,7 @@
       "id": 54420,
       "name": "Bribir",
       "name_default": "Bribir",
-      "native": "Podmićivač",
+      "native": "Bribir",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 55016,
-      "name": "Čavle",
+      "name": "Zaule di Liburnia",
       "name_default": "Čavle",
       "native": "Čavle",
       "type": "adm2",
@@ -219,9 +219,9 @@
     },
     {
       "id": 54452,
-      "name": "Delnice",
+      "name": "Delnizza",
       "name_default": "Delnice",
-      "native": "Zaliha",
+      "native": "Delnice",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -239,7 +239,7 @@
       "id": 54465,
       "name": "Dražice",
       "name_default": "Dražice",
-      "native": "Zmaj",
+      "native": "Dražice",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,9 +273,9 @@
     },
     {
       "id": 54485,
-      "name": "Fužine",
+      "name": "Fusine",
       "name_default": "Fužine",
-      "native": "Željezo",
+      "native": "Fužine",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 54598,
-      "name": "Hreljin",
+      "name": "Creglino",
       "name_default": "Hreljin",
       "native": "Hreljin",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 54609,
-      "name": "Jadranovo",
+      "name": "San Giacomo Siglievizza",
       "name_default": "Jadranovo",
       "native": "Jadranovo",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 54647,
-      "name": "Klana",
+      "name": "Clana",
       "name_default": "Klana",
       "native": "Klana",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 54666,
-      "name": "Kraljevica",
+      "name": "Porto Re",
       "name_default": "Kraljevica",
       "native": "Kraljevica",
       "type": "adm2",
@@ -561,7 +561,7 @@
     },
     {
       "id": 54696,
-      "name": "Lopar",
+      "name": "Loparo",
       "name_default": "Lopar",
       "native": "Lopar",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 54723,
-      "name": "Marčelji",
+      "name": "Marceglia",
       "name_default": "Marčelji",
       "native": "Marčelji",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 54724,
-      "name": "Matulji",
+      "name": "Mattuglie",
       "name_default": "Matulji",
       "native": "Matulji",
       "type": "adm2",
@@ -707,7 +707,7 @@
       "id": 54729,
       "name": "Mihotići",
       "name_default": "Mihotići",
-      "native": "Um",
+      "native": "Mihotići",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 54743,
-      "name": "Mrkopalj",
+      "name": "Mercopaglio",
       "name_default": "Mrkopalj",
       "native": "Mrkopalj",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 54759,
-      "name": "Novi Vinodolski",
+      "name": "Novi",
       "name_default": "Novi Vinodolski",
       "native": "Novi Vinodolski",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 54776,
-      "name": "Omišalj",
+      "name": "Castelmuschio",
       "name_default": "Omišalj",
       "native": "Omišalj",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 54777,
-      "name": "Abbazia",
+      "name": "Opatija",
       "name_default": "Opatija",
       "native": "Opatija",
       "type": "city",
@@ -833,7 +833,7 @@
       "id": 54846,
       "name": "Ponte",
       "name_default": "Punat",
-      "native": "Gumb",
+      "native": "Punat",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -867,7 +867,7 @@
     },
     {
       "id": 54863,
-      "name": "Fiume",
+      "name": "Rijeka",
       "name_default": "Rijeka",
       "native": "Rijeka",
       "type": "adm1",
@@ -885,7 +885,7 @@
     },
     {
       "id": 54870,
-      "name": "Rubeši",
+      "name": "Rubessi",
       "name_default": "Rubeši",
       "native": "Rubeši",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 54882,
-      "name": "Selce",
+      "name": "Selze",
       "name_default": "Selce",
       "native": "Selce",
       "type": "city",
@@ -941,7 +941,7 @@
       "id": 55033,
       "name": "Škrljevo",
       "name_default": "Škrljevo",
-      "native": "Novčanik",
+      "native": "Škrljevo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -993,7 +993,7 @@
     },
     {
       "id": 54976,
-      "name": "Viškovo",
+      "name": "San Mattia di Liburnia",
       "name_default": "Viškovo",
       "native": "Viškovo",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 54990,
-      "name": "Vrbnik",
+      "name": "Verbenico",
       "name_default": "Vrbnik",
       "native": "Vrbnik",
       "type": "adm2",

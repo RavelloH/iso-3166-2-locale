@@ -54,5 +54,24 @@
     "wikiDataId": "Q643400",
     "country_code": "CZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 23028,
+      "name": "ロキツァニ",
+      "name_default": "Rokycany",
+      "native": "Rokycany",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14381,
+      "latitude": "49.74270000",
+      "longitude": "13.59459000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q986072",
+      "country_code": "CZ",
+      "state_code": "326",
+      "state_id": 4583,
+      "country_id": 58
+    }
+  ]
 }

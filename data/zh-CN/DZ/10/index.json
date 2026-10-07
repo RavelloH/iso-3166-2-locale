@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31241,
-      "name": "艾因·贝塞姆",
+      "name": "艾因贝塞姆",
       "name_default": "Aïn Bessem",
       "native": "عين بسام",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 31295,
-      "name": "布伊拉",
+      "name": "布维拉",
       "name_default": "Bouïra",
       "native": "بويرة",
       "type": "adm1",
@@ -110,24 +110,6 @@
       "country_id": 4
     },
     {
-      "id": 31322,
-      "name": "德拉埃尔米赞",
-      "name_default": "Draa el Mizan",
-      "native": "درع الميزان",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38886,
-      "latitude": "36.53628000",
-      "longitude": "3.83340000",
-      "timezone": "Africa/Algiers",
-      "wikiDataId": "Q4119323",
-      "country_code": "DZ",
-      "state_code": "10",
-      "state_id": 1104,
-      "country_id": 4
-    },
-    {
       "id": 31368,
       "name": "拉赫达里亚",
       "name_default": "Lakhdaria",
@@ -147,7 +129,7 @@
     },
     {
       "id": 31439,
-      "name": "索尔·埃尔·戈兹拉内",
+      "name": "苏尔古兹兰",
       "name_default": "Sour el Ghozlane",
       "native": "سور الغزلان",
       "type": "city",

@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28 a viz Du",
+      "name": "28 de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Ar c'homandant Luis Piedra Buena",
+      "name": "Comandante Luis Piedrabuena",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -188,7 +188,7 @@
     },
     {
       "id": 874,
-      "name": "Departamant an Deseado",
+      "name": "Departamento de Deseado",
       "name_default": "Departamento de Deseado",
       "native": "Departamento de Deseado",
       "type": "area",
@@ -206,7 +206,7 @@
     },
     {
       "id": 906,
-      "name": "Departamant Güer Aiki",
+      "name": "Departamento de Güer Aike",
       "name_default": "Departamento de Güer Aike",
       "native": "Departamento de Güer Aike",
       "type": "area",
@@ -224,10 +224,10 @@
     },
     {
       "id": 922,
-      "name": "Departamant al Lago Arc'hantina",
+      "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -242,10 +242,10 @@
     },
     {
       "id": 935,
-      "name": "Departamant ar Magallanes",
+      "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -260,7 +260,7 @@
     },
     {
       "id": 972,
-      "name": "Departamant Río Chico",
+      "name": "Departamento de Río Chico",
       "name_default": "Departamento de Río Chico",
       "native": "Departamento de Río Chico",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Gouarnour Gregores",
+      "name": "Gobernador Gregores",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",

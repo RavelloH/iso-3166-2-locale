@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31476,
-      "name": "Ain el Hammam",
+      "name": "’Aïn el Hammam",
       "name_default": "’Aïn el Hammam",
       "native": "عين الحمام",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 31285,
-      "name": "Boudžima",
+      "name": "Boudjima",
       "name_default": "Boudjima",
       "native": "بودجيما",
       "type": "city",
@@ -182,6 +182,24 @@
       "country_id": 4
     },
     {
+      "id": 31322,
+      "name": "Draa el Mizan",
+      "name_default": "Draa el Mizan",
+      "native": "درع الميزان",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 38886,
+      "latitude": "36.53628000",
+      "longitude": "3.83340000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q4119323",
+      "country_code": "DZ",
+      "state_code": "15",
+      "state_id": 1131,
+      "country_id": 4
+    },
+    {
       "id": 31345,
       "name": "Freha",
       "name_default": "Freha",
@@ -201,7 +219,7 @@
     },
     {
       "id": 31371,
-      "name": "L'Arbaa Naït Irathen",
+      "name": "L’Arbaa Naït Irathen",
       "name_default": "L’Arbaa Naït Irathen",
       "native": "L’Arbaa Naït Irathen",
       "type": "city",
@@ -254,6 +272,24 @@
       "country_id": 4
     },
     {
+      "id": 31441,
+      "name": "Tadmaït",
+      "name_default": "Tadmaït",
+      "native": "تادميت",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22838,
+      "latitude": "36.74413000",
+      "longitude": "3.90045000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q3513734",
+      "country_code": "DZ",
+      "state_code": "15",
+      "state_id": 1131,
+      "country_id": 4
+    },
+    {
       "id": 31451,
       "name": "Timizart",
       "name_default": "Timizart",
@@ -273,7 +309,7 @@
     },
     {
       "id": 31454,
-      "name": "Tirmitin",
+      "name": "Tirmitine",
       "name_default": "Tirmitine",
       "native": "تيرميتين",
       "type": "city",

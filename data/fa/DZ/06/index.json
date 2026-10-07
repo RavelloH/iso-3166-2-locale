@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31229,
-      "name": "آکبو",
+      "name": "اقبو",
       "name_default": "Akbou",
       "native": "أكبو",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 31231,
-      "name": "آمیژور",
+      "name": "امیزور",
       "name_default": "Amizour",
       "native": "أميزور",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 31256,
-      "name": "بارباخا",
+      "name": "برباشه",
       "name_default": "Barbacha",
       "native": "بارباشا",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 31259,
-      "name": "بجایا",
+      "name": "بجایه",
       "name_default": "Béjaïa",
       "native": "بجاية",
       "type": "adm1",
@@ -129,7 +129,7 @@
     },
     {
       "id": 31303,
-      "name": "چمینی",
+      "name": "شمینی",
       "name_default": "Chemini",
       "native": "شيميني",
       "type": "city",
@@ -157,7 +157,7 @@
       "latitude": "36.65000000",
       "longitude": "4.77361000",
       "timezone": "Africa/Algiers",
-      "wikiDataId": "Q3575264",
+      "wikiDataId": null,
       "country_code": "DZ",
       "state_code": "06",
       "state_id": 1128,
@@ -201,7 +201,7 @@
     },
     {
       "id": 31357,
-      "name": "ایغرام",
+      "name": "اغرام",
       "name_default": "Ighram",
       "native": "إغرام",
       "type": "city",

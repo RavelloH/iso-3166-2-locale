@@ -193,7 +193,7 @@
       "latitude": "13.99904000",
       "longitude": "100.54962000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q4784166",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "14",
       "state_id": 3494,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105213,
-      "name": "Amphoe Ban Phraek",
+      "name": "Ban Phraek",
       "name_default": "Ban Phraek",
       "native": "อำเภอบ้านแพรก",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105235,
-      "name": "Amphoe Bang Pahan",
+      "name": "Bang Pahan",
       "name_default": "Bang Pahan",
       "native": "อำเภอบางปะหัน",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105242,
-      "name": "Amphoe Bang Sai",
+      "name": "Bang Sai",
       "name_default": "Bang Sai",
       "native": "อำเภอบางไทร",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105487,
-      "name": "Amphoe Lat Bua Luang",
+      "name": "Lat Bua Luang",
       "name_default": "Lat Bua Luang",
       "native": "อำเภอลาดบัวหลวง",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105521,
-      "name": "Amphoe Maha Rat",
+      "name": "Maha Rat",
       "name_default": "Maha Rat",
       "native": "อำเภอมหาราช",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105717,
-      "name": "Amphoe Phachi",
+      "name": "Phachi",
       "name_default": "Phachi",
       "native": "อำเภอภาชี",
       "type": "district",
@@ -381,7 +381,7 @@
     },
     {
       "id": 106644,
-      "name": "Phra Nakhon Si Ayutthaya",
+      "name": "Ayutthaya",
       "name_default": "Phra Nakhon Si Ayutthaya",
       "native": "พระนครศรีอยุธยา",
       "type": "adm1",
@@ -399,7 +399,7 @@
     },
     {
       "id": 106207,
-      "name": "Amphoe Sena",
+      "name": "Sena",
       "name_default": "Sena",
       "native": "อำเภอเสนา",
       "type": "district",
@@ -417,7 +417,7 @@
     },
     {
       "id": 106724,
-      "name": "La Ruea",
+      "name": "Tha Ruea",
       "name_default": "Tha Ruea",
       "native": "ท่าเรือ",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 106327,
-      "name": "Amphoe Uthai",
+      "name": "Uthai",
       "name_default": "Uthai",
       "native": "อำเภออุทัย",
       "type": "district",

@@ -129,7 +129,7 @@
     },
     {
       "id": 48776,
-      "name": "Бернхэм-он-Си",
+      "name": "Бернем-он-Си",
       "name_default": "Burnham-on-Sea",
       "native": "Burnham-on-Sea",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 48920,
-      "name": "Мангольд",
+      "name": "Чард",
       "name_default": "Chard",
       "native": "Chard",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48939,
-      "name": "чеддер",
+      "name": "Чеддер",
       "name_default": "Cheddar",
       "native": "Cheddar",
       "type": "city",
@@ -257,7 +257,7 @@
       "id": 49155,
       "name": "Крюкерн",
       "name_default": "Crewkerne",
-      "native": "Crew kernel",
+      "native": "Crewkerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 49614,
-      "name": "Фром",
+      "name": "Фрум",
       "name_default": "Frome",
       "native": "Frome",
       "type": "city",
@@ -398,28 +398,10 @@
       "country_id": 232
     },
     {
-      "id": 49977,
-      "name": "Хонитон",
-      "name_default": "Honiton",
-      "native": "Assert",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11334,
-      "latitude": "50.79960000",
-      "longitude": "-3.18899000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q647123",
-      "country_code": "GB",
-      "state_code": "SOM",
-      "state_id": 2386,
-      "country_id": 232
-    },
-    {
       "id": 50029,
       "name": "Хантспилл",
       "name_default": "Huntspill",
-      "native": "Hunny game",
+      "native": "Huntspill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,9 +435,9 @@
     },
     {
       "id": 50044,
-      "name": "Ильминстер",
+      "name": "Илминстер",
       "name_default": "Ilminster",
-      "native": "Dont",
+      "native": "Ilminster",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +543,7 @@
     },
     {
       "id": 50679,
-      "name": "Нетер Стоуи",
+      "name": "Нетер-Стои",
       "name_default": "Nether Stowey",
       "native": "Nether Stowey",
       "type": "city",
@@ -579,7 +561,7 @@
     },
     {
       "id": 50761,
-      "name": "Северный Петертон",
+      "name": "Норф-Петертон",
       "name_default": "North Petherton",
       "native": "North Petherton",
       "type": "city",
@@ -633,7 +615,7 @@
     },
     {
       "id": 51264,
-      "name": "Шептон Маллет",
+      "name": "Шептон-Маллет",
       "name_default": "Shepton Mallet",
       "native": "Shepton Mallet",
       "type": "city",
@@ -669,7 +651,7 @@
     },
     {
       "id": 51364,
-      "name": "Южный Петертон",
+      "name": "South Petherton",
       "name_default": "South Petherton",
       "native": "South Petherton",
       "type": "city",
@@ -705,7 +687,7 @@
     },
     {
       "id": 51496,
-      "name": "Улица",
+      "name": "Стрит",
       "name_default": "Street",
       "native": "Street",
       "type": "city",
@@ -795,7 +777,7 @@
     },
     {
       "id": 51792,
-      "name": "Уэллс",
+      "name": "Уэлс",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",
@@ -813,7 +795,7 @@
     },
     {
       "id": 51812,
-      "name": "Вест Кокер",
+      "name": "Вест-Кокер",
       "name_default": "West Coker",
       "native": "West Coker",
       "type": "city",
@@ -867,7 +849,7 @@
     },
     {
       "id": 51918,
-      "name": "Винкантон",
+      "name": "Уинкантон",
       "name_default": "Wincanton",
       "native": "Wincanton",
       "type": "city",

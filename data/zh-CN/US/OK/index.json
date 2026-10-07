@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111005,
-      "name": "艾达",
+      "name": "埃达",
       "name_default": "Ada",
       "native": "Ada",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 111374,
-      "name": "鹿角",
+      "name": "安特勒斯",
       "name_default": "Antlers",
       "native": "Antlers",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111442,
-      "name": "阿德莫尔",
+      "name": "阿德摩尔",
       "name_default": "Ardmore",
       "native": "Ardmore",
       "type": "city",
@@ -415,9 +415,9 @@
     },
     {
       "id": 111459,
-      "name": "阿科玛",
+      "name": "阿科马",
       "name_default": "Arkoma",
-      "native": "Arcomate",
+      "native": "Arkoma",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
       "id": 111603,
       "name": "阿托卡",
       "name_default": "Atoka",
-      "native": "Index",
+      "native": "Atoka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -505,7 +505,7 @@
     },
     {
       "id": 111994,
-      "name": "海狸",
+      "name": "比佛",
       "name_default": "Beaver",
       "native": "Beaver",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 112273,
-      "name": "伯大尼",
+      "name": "贝瑟尼",
       "name_default": "Bethany",
       "native": "Bethany",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 112283,
-      "name": "伯特利英亩",
+      "name": "贝塞尔埃克斯",
       "name_default": "Bethel Acres",
       "native": "Bethel Acres",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 112396,
-      "name": "布莱克威尔",
+      "name": "布莱克韦尔",
       "name_default": "Blackwell",
       "native": "Blackwell",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 112509,
-      "name": "博伊西市",
+      "name": "博伊斯城",
       "name_default": "Boise City",
       "native": "Boise City",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 112702,
-      "name": "嘶叫",
+      "name": "布雷",
       "name_default": "Bray",
       "native": "Bray",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 112841,
-      "name": "断箭",
+      "name": "布罗肯阿罗",
       "name_default": "Broken Arrow",
       "native": "Broken Arrow",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 112842,
-      "name": "断弓",
+      "name": "布罗肯鲍",
       "name_default": "Broken Bow",
       "native": "Broken Bow",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113008,
-      "name": "水牛",
+      "name": "布法罗",
       "name_default": "Buffalo",
       "native": "Buffalo",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 113137,
-      "name": "拜恩",
+      "name": "宾",
       "name_default": "Byng",
       "native": "Byng",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 113155,
-      "name": "缓存",
+      "name": "卡什",
       "name_default": "Cache",
       "native": "Cache",
       "type": "city",
@@ -885,7 +885,7 @@
       "id": 113576,
       "name": "卡图萨",
       "name_default": "Catoosa",
-      "native": "Fattaosaa",
+      "native": "Catoosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,7 +901,7 @@
     },
     {
       "id": 113677,
-      "name": "中央高中",
+      "name": "森特勒尔海",
       "name_default": "Central High",
       "native": "Central High",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 113823,
-      "name": "切科塔",
+      "name": "舍科塔",
       "name_default": "Checotah",
       "native": "Checotah",
       "type": "city",
@@ -1009,9 +1009,9 @@
     },
     {
       "id": 113941,
-      "name": "奇卡莎",
+      "name": "奇克谢",
       "name_default": "Chickasha",
-      "native": "Chicken",
+      "native": "Chickasha",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 114523,
-      "name": "商业",
+      "name": "科默斯",
       "name_default": "Commerce",
       "native": "Commerce",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 114794,
-      "name": "新月",
+      "name": "克雷森特",
       "name_default": "Crescent",
       "native": "Crescent",
       "type": "city",
@@ -1477,9 +1477,9 @@
     },
     {
       "id": 115935,
-      "name": "埃尔雷诺",
+      "name": "埃尔里诺",
       "name_default": "El Reno",
-      "native": "The reindeer",
+      "native": "El Reno",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 116138,
-      "name": "伊妮德",
+      "name": "伊尼德",
       "name_default": "Enid",
       "native": "Enid",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 116665,
-      "name": "森林公园",
+      "name": "福里斯特帕克",
       "name_default": "Forest Park",
       "native": "Forest Park",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 117130,
-      "name": "吉尔里",
+      "name": "吉里",
       "name_default": "Geary",
       "native": "Geary",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 117365,
-      "name": "戈兹比",
+      "name": "戈尔兹比",
       "name_default": "Goldsby",
       "native": "Goldsby",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 117491,
-      "name": "花岗岩",
+      "name": "格拉尼特",
       "name_default": "Granite",
       "native": "Granite",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 117754,
-      "name": "树林",
+      "name": "格罗夫",
       "name_default": "Grove",
       "native": "Grove",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 117812,
-      "name": "格思里",
+      "name": "加斯里",
       "name_default": "Guthrie",
       "native": "Guthrie",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 117867,
-      "name": "霍尔公园",
+      "name": "霍尔帕克",
       "name_default": "Hall Park",
       "native": "Hall Park",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 118218,
-      "name": "希尔顿",
+      "name": "希尔敦",
       "name_default": "Healdton",
       "native": "Healdton",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 118226,
-      "name": "希文纳",
+      "name": "希夫纳",
       "name_default": "Heavener",
       "native": "Heavener",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 118292,
-      "name": "轩尼诗",
+      "name": "亨尼西",
       "name_default": "Hennessey",
       "native": "Hennessey",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 118609,
-      "name": "玉米粥",
+      "name": "霍米尼",
       "name_default": "Hominy",
       "native": "Hominy",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 118628,
-      "name": "妓女",
+      "name": "胡克",
       "name_default": "Hooker",
       "native": "Hooker",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 118868,
-      "name": "伊达贝尔",
+      "name": "艾达贝尔",
       "name_default": "Idabel",
       "native": "Idabel",
       "type": "city",
@@ -2181,7 +2181,7 @@
       "id": 118948,
       "name": "伊诺拉",
       "name_default": "Inola",
-      "native": "In any way",
+      "native": "Inola",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2197,7 +2197,7 @@
     },
     {
       "id": 119153,
-      "name": "杰伊",
+      "name": "杰里",
       "name_default": "Jay",
       "native": "Jay",
       "type": "city",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 119344,
-      "name": "正义",
+      "name": "贾斯蒂斯",
       "name_default": "Justice",
       "native": "Justice",
       "type": "city",
@@ -2271,7 +2271,7 @@
       "id": 119430,
       "name": "凯利维尔",
       "name_default": "Kellyville",
-      "native": "Stingy",
+      "native": "Kellyville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2287,7 +2287,7 @@
     },
     {
       "id": 119503,
-      "name": "建伍",
+      "name": "肯伍德",
       "name_default": "Kenwood",
       "native": "Kenwood",
       "type": "city",
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 119592,
-      "name": "翠鸟",
+      "name": "金菲舍",
       "name_default": "Kingfisher",
       "native": "Kingfisher",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 119704,
-      "name": "科纳瓦",
+      "name": "科纳沃",
       "name_default": "Konawa",
       "native": "Konawa",
       "type": "city",
@@ -2413,9 +2413,9 @@
     },
     {
       "id": 120218,
-      "name": "拉维恩",
+      "name": "拉文",
       "name_default": "Laverne",
-      "native": "The laerne",
+      "native": "Laverne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 120445,
-      "name": "列克星敦",
+      "name": "列克星顿",
       "name_default": "Lexington",
       "native": "Lexington",
       "type": "city",
@@ -2485,7 +2485,7 @@
     },
     {
       "id": 120687,
-      "name": "蝗虫林",
+      "name": "洛克斯特格罗夫",
       "name_default": "Locust Grove",
       "native": "Locust Grove",
       "type": "city",
@@ -2503,7 +2503,7 @@
     },
     {
       "id": 120726,
-      "name": "孤树林",
+      "name": "隆格罗夫",
       "name_default": "Lone Grove",
       "native": "Lone Grove",
       "type": "city",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 120894,
-      "name": "路德",
+      "name": "卢瑟",
       "name_default": "Luther",
       "native": "Luther",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 121110,
-      "name": "曼古姆",
+      "name": "曼格姆",
       "name_default": "Mangum",
       "native": "Mangum",
       "type": "city",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 121416,
-      "name": "莫德",
+      "name": "毛德",
       "name_default": "Maud",
       "native": "Maud",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 121481,
-      "name": "麦考德",
+      "name": "麦科德",
       "name_default": "McCord",
       "native": "McCord",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 121612,
-      "name": "米克尔",
+      "name": "米克",
       "name_default": "Meeker",
       "native": "Meeker",
       "type": "city",
@@ -2773,7 +2773,7 @@
     },
     {
       "id": 121691,
-      "name": "子午线",
+      "name": "默里迪恩",
       "name_default": "Meridian",
       "native": "Meridian",
       "type": "city",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": 121824,
-      "name": "中西部城市",
+      "name": "米德韦斯特城",
       "name_default": "Midwest City",
       "native": "Midwest City",
       "type": "city",
@@ -2829,7 +2829,7 @@
       "id": 121927,
       "name": "明科",
       "name_default": "Minco",
-      "native": "Mince",
+      "native": "Minco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 122200,
-      "name": "摩尔",
+      "name": "穆尔",
       "name_default": "Moore",
       "native": "Moore",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 122206,
-      "name": "摩尔兰",
+      "name": "穆尔兰",
       "name_default": "Mooreland",
       "native": "Mooreland",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 122325,
-      "name": "土墩",
+      "name": "芒兹",
       "name_default": "Mounds",
       "native": "Mounds",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 122515,
-      "name": "野马",
+      "name": "马斯坦",
       "name_default": "Mustang",
       "native": "Mustang",
       "type": "city",
@@ -3007,7 +3007,7 @@
     },
     {
       "id": 122891,
-      "name": "尼科尔斯山",
+      "name": "尼科尔斯希尔斯",
       "name_default": "Nichols Hills",
       "native": "Nichols Hills",
       "type": "city",
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 122897,
-      "name": "尼科玛公园",
+      "name": "尼科马帕克",
       "name_default": "Nicoma Park",
       "native": "Nicoma Park",
       "type": "city",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 122903,
-      "name": "宁尼卡",
+      "name": "宁卡",
       "name_default": "Ninnekah",
       "native": "Ninnekah",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 122916,
-      "name": "高贵",
+      "name": "诺布尔",
       "name_default": "Noble",
       "native": "Noble",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 123209,
-      "name": "野田",
+      "name": "诺瓦塔",
       "name_default": "Nowata",
       "native": "Nowata",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 123389,
-      "name": "奥尔顿",
+      "name": "奥伊尔顿",
       "name_default": "Oilton",
       "native": "Oilton",
       "type": "city",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 123395,
-      "name": "奥卡切",
+      "name": "奥卡奇",
       "name_default": "Okarche",
       "native": "Okarche",
       "type": "city",
@@ -3187,9 +3187,9 @@
     },
     {
       "id": 123400,
-      "name": "奥基尼",
+      "name": "奥金",
       "name_default": "Okeene",
-      "native": "Mostly",
+      "native": "Okeene",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3205,9 +3205,9 @@
     },
     {
       "id": 123401,
-      "name": "奥克马",
+      "name": "奥基马",
       "name_default": "Okemah",
-      "native": "Okay",
+      "native": "Okemah",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3223,9 +3223,9 @@
     },
     {
       "id": 123404,
-      "name": "俄克拉荷马城",
+      "name": "俄克拉何马城",
       "name_default": "Oklahoma City",
-      "native": "Ololama City",
+      "native": "Oklahoma City",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 123492,
-      "name": "奥洛加",
+      "name": "乌洛加",
       "name_default": "Oologah",
       "native": "OOLOGAH",
       "type": "city",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 123925,
-      "name": "保尔斯谷",
+      "name": "保罗斯瓦利",
       "name_default": "Pauls Valley",
       "native": "Pauls Valley",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 123930,
-      "name": "帕乌斯卡",
+      "name": "波哈斯卡",
       "name_default": "Pawhuska",
       "native": "Pawhuska",
       "type": "city",
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 123934,
-      "name": "波尼族",
+      "name": "波尼",
       "name_default": "Pawnee",
       "native": "Pawnee",
       "type": "city",
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 124062,
-      "name": "帕金斯",
+      "name": "珀金斯",
       "name_default": "Perkins",
       "native": "Perkins",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 124167,
-      "name": "皮埃蒙特",
+      "name": "皮德蒙特",
       "name_default": "Piedmont",
       "native": "Piedmont",
       "type": "city",
@@ -3439,7 +3439,7 @@
     },
     {
       "id": 124270,
-      "name": "粉色的",
+      "name": "平克",
       "name_default": "Pink",
       "native": "Pink",
       "type": "city",
@@ -3495,7 +3495,7 @@
       "id": 124579,
       "name": "波托",
       "name_default": "Poteau",
-      "native": "Post",
+      "native": "Poteau",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 124727,
-      "name": "普赖尔溪",
+      "name": "Pryor Creek",
       "name_default": "Pryor Creek",
       "native": "Pryor Creek",
       "type": "city",
@@ -3601,7 +3601,7 @@
     },
     {
       "id": 125144,
-      "name": "林林",
+      "name": "灵林",
       "name_default": "Ringling",
       "native": "Ringling",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 125522,
-      "name": "拉什泉",
+      "name": "拉什斯普林斯",
       "name_default": "Rush Springs",
       "native": "Rush Springs",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 125861,
-      "name": "沙泉",
+      "name": "桑德斯普林斯",
       "name_default": "Sand Springs",
       "native": "Sand Springs",
       "type": "city",
@@ -3709,9 +3709,9 @@
     },
     {
       "id": 125933,
-      "name": "萨普尔帕",
+      "name": "萨帕尔帕",
       "name_default": "Sapulpa",
-      "native": "Assembly",
+      "native": "Sapulpa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 126250,
-      "name": "肖尼族",
+      "name": "肖尼",
       "name_default": "Shawnee",
       "native": "Shawnee",
       "type": "city",
@@ -3799,7 +3799,7 @@
     },
     {
       "id": 126478,
-      "name": "斯基亚图克",
+      "name": "斯凯图克",
       "name_default": "Skiatook",
       "native": "Skiatook",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 126494,
-      "name": "斯劳特维尔",
+      "name": "斯洛特维尔",
       "name_default": "Slaughterville",
       "native": "Slaughterville",
       "type": "city",
@@ -3837,7 +3837,7 @@
       "id": 126549,
       "name": "斯奈德",
       "name_default": "Snyder",
-      "native": "Cheating",
+      "native": "Snyder",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3853,7 +3853,7 @@
     },
     {
       "id": 126822,
-      "name": "斯宾塞",
+      "name": "斯潘塞",
       "name_default": "Spencer",
       "native": "Spencer",
       "type": "city",
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 126840,
-      "name": "斯皮罗",
+      "name": "斯波罗",
       "name_default": "Spiro",
       "native": "Spiro",
       "type": "city",
@@ -3925,7 +3925,7 @@
     },
     {
       "id": 127060,
-      "name": "死水",
+      "name": "斯蒂尔沃特",
       "name_default": "Stillwater",
       "native": "Stillwater",
       "type": "city",
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 127195,
-      "name": "硫",
+      "name": "萨尔弗",
       "name_default": "Sulphur",
       "native": "Sulphur",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 127388,
-      "name": "塔利希娜",
+      "name": "塔利希纳",
       "name_default": "Talihina",
       "native": "Talihina",
       "type": "city",
@@ -4053,7 +4053,7 @@
       "id": 127398,
       "name": "塔洛加",
       "name_default": "Taloga",
-      "native": "Precipitate",
+      "native": "Taloga",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 127478,
-      "name": "特库姆塞",
+      "name": "库姆姆塞",
       "name_default": "Tecumseh",
       "native": "Tecumseh",
       "type": "city",
@@ -4159,7 +4159,7 @@
     },
     {
       "id": 127721,
-      "name": "通川",
+      "name": "通卡瓦",
       "name_default": "Tonkawa",
       "native": "Tonkawa",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 127981,
-      "name": "联合城",
+      "name": "尤宁城",
       "name_default": "Union City",
       "native": "Union City",
       "type": "city",
@@ -4249,7 +4249,7 @@
     },
     {
       "id": 128181,
-      "name": "铜绿",
+      "name": "弗迪格里斯",
       "name_default": "Verdigris",
       "native": "Verdigris",
       "type": "city",
@@ -4267,9 +4267,9 @@
     },
     {
       "id": 128214,
-      "name": "维安",
+      "name": "怀安",
       "name_default": "Vian",
-      "native": "Your",
+      "native": "Vian",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4303,7 +4303,7 @@
     },
     {
       "id": 128329,
-      "name": "瓦格纳",
+      "name": "瓦戈纳",
       "name_default": "Wagoner",
       "native": "Wagoner",
       "type": "city",
@@ -4339,7 +4339,7 @@
     },
     {
       "id": 128473,
-      "name": "华纳",
+      "name": "沃纳",
       "name_default": "Warner",
       "native": "Warner",
       "type": "city",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": 128475,
-      "name": "沃尔英亩",
+      "name": "沃尔埃克斯",
       "name_default": "Warr Acres",
       "native": "Warr Acres",
       "type": "city",
@@ -4377,7 +4377,7 @@
       "id": 128636,
       "name": "沃通加",
       "name_default": "Watonga",
-      "native": "Tonga",
+      "native": "Watonga",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4413,7 +4413,7 @@
       "id": 128659,
       "name": "沃里卡",
       "name_default": "Waurika",
-      "native": "Wad",
+      "native": "Waurika",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 129091,
-      "name": "韦图姆卡",
+      "name": "韦塔姆卡",
       "name_default": "Wetumka",
       "native": "Wetumka",
       "type": "city",
@@ -4483,7 +4483,7 @@
     },
     {
       "id": 129096,
-      "name": "韦沃卡",
+      "name": "威沃卡",
       "name_default": "Wewoka",
       "native": "Wewoka",
       "type": "city",
@@ -4575,7 +4575,7 @@
       "id": 129633,
       "name": "温尼伍德",
       "name_default": "Wynnewood",
-      "native": "White",
+      "native": "Wynnewood",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4609,7 +4609,7 @@
     },
     {
       "id": 129730,
-      "name": "育空地区",
+      "name": "育空",
       "name_default": "Yukon",
       "native": "Yukon",
       "type": "city",

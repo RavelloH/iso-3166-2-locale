@@ -471,7 +471,7 @@
     },
     {
       "id": 102839,
-      "name": "アル・ウラ",
+      "name": "ウラー",
       "name_default": "Al-Ula",
       "native": "العلا",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 148828,
-      "name": "サフラとして",
+      "name": "As Safra'",
       "name_default": "As Safra'",
       "native": "الصفراء",
       "type": "city",
@@ -669,9 +669,9 @@
     },
     {
       "id": 148839,
-      "name": "遠い",
+      "name": "Far`",
       "name_default": "Far`",
-      "native": "بعيد",
+      "native": "فرع",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 102865,
-      "name": "メディナ",
+      "name": "マディーナ",
       "name_default": "Medina",
       "native": "المدينة المنورة",
       "type": "adm1",

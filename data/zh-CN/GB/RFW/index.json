@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48537,
-      "name": "毕晓普顿",
+      "name": "比索普顿",
       "name_default": "Bishopton",
       "native": "Bishopton",
       "type": "city",
@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 49043,
-      "name": "克莱德班克",
-      "name_default": "Clydebank",
-      "native": "Clydebank",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 26320,
-      "latitude": "55.90137000",
-      "longitude": "-4.40570000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q996502",
-      "country_code": "GB",
-      "state_code": "RFW",
-      "state_id": 2443,
-      "country_id": 232
-    },
-    {
       "id": 49450,
       "name": "埃尔德斯利",
       "name_default": "Elderslie",
@@ -129,7 +111,7 @@
     },
     {
       "id": 49483,
-      "name": "厄斯金",
+      "name": "厄斯金恩",
       "name_default": "Erskine",
       "native": "Erskine",
       "type": "city",
@@ -185,7 +167,7 @@
       "id": 50048,
       "name": "因钦南",
       "name_default": "Inchinnan",
-      "native": "Inchinna",
+      "native": "Inchinnan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +255,7 @@
     },
     {
       "id": 50848,
-      "name": "佩斯利花纹",
+      "name": "佩斯利",
       "name_default": "Paisley",
       "native": "Paisley",
       "type": "adm2",
@@ -291,7 +273,7 @@
     },
     {
       "id": 51060,
-      "name": "伦弗鲁",
+      "name": "温夫鲁",
       "name_default": "Renfrew",
       "native": "Renfrew",
       "type": "city",

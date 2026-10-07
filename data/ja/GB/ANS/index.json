@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48238,
-      "name": "アリス",
+      "name": "エイリス",
       "name_default": "Alyth",
       "native": "Alyth",
       "type": "city",
@@ -128,6 +128,24 @@
       "country_id": 232
     },
     {
+      "id": 48868,
+      "name": "カーヌスティ",
+      "name_default": "Carnoustie",
+      "native": "Carnoustie",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11360,
+      "latitude": "56.50263000",
+      "longitude": "-2.70530000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1012395",
+      "country_code": "GB",
+      "state_code": "ANS",
+      "state_id": 2387,
+      "country_id": 232
+    },
+    {
       "id": 49587,
       "name": "フォーファー",
       "name_default": "Forfar",
@@ -183,7 +201,7 @@
     },
     {
       "id": 50211,
-      "name": "キリミュア",
+      "name": "キリミューア",
       "name_default": "Kirriemuir",
       "native": "Kirriemuir",
       "type": "city",
@@ -255,7 +273,7 @@
     },
     {
       "id": 51169,
-      "name": "聖キュロス",
+      "name": "セント・サイラス",
       "name_default": "Saint Cyrus",
       "native": "Saint Cyrus",
       "type": "city",

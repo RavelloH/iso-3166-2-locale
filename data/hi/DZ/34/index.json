@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31278,
-      "name": "बोर्दज बौ अर्रेरिज",
+      "name": "बोर्ज बू अरेरीज",
       "name_default": "Bordj Bou Arreridj",
       "native": "برج بوعريريج",
       "type": "adm1",
@@ -140,24 +140,6 @@
       "longitude": "4.45192000",
       "timezone": "Africa/Algiers",
       "wikiDataId": "Q3286577",
-      "country_code": "DZ",
-      "state_code": "34",
-      "state_id": 1116,
-      "country_id": 4
-    },
-    {
-      "id": 31381,
-      "name": "मेलौज़ा",
-      "name_default": "Melouza",
-      "native": "ميلوزا",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 25701,
-      "latitude": "35.97999000",
-      "longitude": "4.18665000",
-      "timezone": "Africa/Algiers",
-      "wikiDataId": "Q23802689",
       "country_code": "DZ",
       "state_code": "34",
       "state_id": 1116,

@@ -206,7 +206,7 @@
     },
     {
       "id": 69151,
-      "name": "Città della Costituzione",
+      "name": "Ciudad Constitución",
       "name_default": "Ciudad Constitución",
       "native": "Ciudad Constitución",
       "type": "adm2",
@@ -224,7 +224,7 @@
     },
     {
       "id": 69162,
-      "name": "Città Insurgentes",
+      "name": "Ciudad Insurgentes",
       "name_default": "Ciudad Insurgentes",
       "native": "Ciudad Insurgentes",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 69893,
-      "name": "Il Centenario",
+      "name": "El Centenario",
       "name_default": "El Centenario",
       "native": "El Centenario",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 70206,
-      "name": "Il Silenzio",
+      "name": "El Silencio",
       "name_default": "El Silencio",
       "native": "El Silencio",
       "type": "city",
@@ -331,8 +331,26 @@
       "country_id": 142
     },
     {
+      "id": 70633,
+      "name": "Guerrero Negro",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
       "id": 71436,
-      "name": "La Pace",
+      "name": "La Paz",
       "name_default": "La Paz",
       "native": "La Paz",
       "type": "adm1",
@@ -548,7 +566,7 @@
     },
     {
       "id": 72965,
-      "name": "Porto Adolfo Lopez Mateos",
+      "name": "Puerto Adolfo López Mateos",
       "name_default": "Puerto Adolfo López Mateos",
       "native": "Puerto Adolfo Lopez Mateos",
       "type": "city",
@@ -566,7 +584,7 @@
     },
     {
       "id": 72974,
-      "name": "Porto San Carlos",
+      "name": "Puerto San Carlos",
       "name_default": "Puerto San Carlos",
       "native": "Puerto San Carlos",
       "type": "city",
@@ -620,7 +638,7 @@
     },
     {
       "id": 74855,
-      "name": "Santa Rosalia",
+      "name": "Santa Rosalía",
       "name_default": "Santa Rosalía",
       "native": "Santa Rosalía",
       "type": "adm2",
@@ -638,7 +656,7 @@
     },
     {
       "id": 75719,
-      "name": "Tutti i santi",
+      "name": "Todos los Santos",
       "name_default": "Todos Santos",
       "native": "Todos Santos",
       "type": "city",

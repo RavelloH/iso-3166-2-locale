@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130758,
-      "name": "El İnan",
+      "name": "Al ‘Inān",
       "name_default": "Al ‘Inān",
       "native": "العنان",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 130688,
-      "name": "El-Gayl",
+      "name": "Al Ghayl",
       "name_default": "Al Ghayl",
       "native": "الغيل",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130698,
-      "name": "El Hazm",
+      "name": "Al Hazm",
       "name_default": "Al Hazm",
       "native": "الحزم",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 130699,
-      "name": "El Humeydat",
+      "name": "Al Humaydat",
       "name_default": "Al Humaydat",
       "native": "الحميدات",
       "type": "adm2",
@@ -129,10 +129,10 @@
     },
     {
       "id": 130706,
-      "name": "El Halk",
+      "name": "Al Khalq",
       "name_default": "Al Khalq",
       "native": "الخلق",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14123,
@@ -147,7 +147,7 @@
     },
     {
       "id": 130725,
-      "name": "El Meslub",
+      "name": "Al Maslub",
       "name_default": "Al Maslub",
       "native": "المصلوب",
       "type": "city",
@@ -168,7 +168,7 @@
       "name": "Al Matammah",
       "name_default": "Al Matammah",
       "native": "المطمة",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 28935,
@@ -186,7 +186,7 @@
       "name": "Al Maton",
       "name_default": "Al Maton",
       "native": "آل ماتون",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 28411,
@@ -219,7 +219,7 @@
     },
     {
       "id": 130885,
-      "name": "Habb ve eş Şa'af",
+      "name": "Khabb wa ash Sha'af",
       "name_default": "Khabb wa ash Sha'af",
       "native": "خَبَّبٌ وَالشَّعَاف",
       "type": "area",

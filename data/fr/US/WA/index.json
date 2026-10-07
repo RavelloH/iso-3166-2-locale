@@ -289,7 +289,7 @@
     },
     {
       "id": 111072,
-      "name": "Hauteurs des voies respiratoires",
+      "name": "Airway Heights",
       "name_default": "Airway Heights",
       "native": "Airway Heights",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111139,
-      "name": "Manoir d'Alderwood",
+      "name": "Alderwood Manor",
       "name_default": "Alderwood Manor",
       "native": "Alderwood Manor",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111278,
-      "name": "Lac Ames",
+      "name": "Ames Lake",
       "name_default": "Ames Lake",
       "native": "Ames Lake",
       "type": "city",
@@ -471,7 +471,7 @@
       "id": 111501,
       "name": "Artondale",
       "name_default": "Artondale",
-      "native": "Artone",
+      "native": "Artondale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
       "id": 111550,
       "name": "Asotin",
       "name_default": "Asotin",
-      "native": "Asoter",
+      "native": "Asotin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -523,7 +523,7 @@
     },
     {
       "id": 111654,
-      "name": "Champ d'Ault",
+      "name": "Ault Field",
       "name_default": "Ault Field",
       "native": "Ault Field",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 111735,
-      "name": "Île de Bainbridge",
+      "name": "île de Bainbridge",
       "name_default": "Bainbridge Island",
       "native": "Bainbridge Island",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 111795,
-      "name": "Base Trident de Bangor",
+      "name": "Bangor Trident Base",
       "name_default": "Bangor Trident Base",
       "native": "Bangor Trident Base",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 111907,
-      "name": "Champ de bataille",
+      "name": "Battle Ground",
       "name_default": "Battle Ground",
       "native": "Battle Ground",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 112198,
-      "name": "Ville de Benton",
+      "name": "Benton City",
       "name_default": "Benton City",
       "native": "Benton City",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 112282,
-      "name": "Béthel",
+      "name": "Bethel",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 112326,
-      "name": "Grand Lac",
+      "name": "Big Lake",
       "name_default": "Big Lake",
       "native": "Big Lake",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 112353,
-      "name": "Baie des bouleaux",
+      "name": "Birch Bay",
       "name_default": "Birch Bay",
       "native": "Birch Bay",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 112374,
-      "name": "Diamant noir",
+      "name": "Black Diamond",
       "name_default": "Black Diamond",
       "native": "Black Diamond",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 112547,
-      "name": "Lac Bonney",
+      "name": "Bonney Lake",
       "name_default": "Bonney Lake",
       "native": "Bonney Lake",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 112596,
-      "name": "Bothell Est",
+      "name": "Bothell East",
       "name_default": "Bothell East",
       "native": "Bothell East",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 112597,
-      "name": "Bothell Ouest",
+      "name": "Bothell West",
       "name_default": "Bothell West",
       "native": "Bothell West",
       "type": "city",
@@ -865,7 +865,7 @@
     },
     {
       "id": 112607,
-      "name": "Parc du boulevard",
+      "name": "Boulevard Park",
       "name_default": "Boulevard Park",
       "native": "Boulevard Park",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 112782,
-      "name": "Bruyère",
+      "name": "Brier",
       "name_default": "Brier",
       "native": "Brier",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 112922,
-      "name": "Pointe Browns",
+      "name": "Browns Point",
       "name_default": "Browns Point",
       "native": "Browns Point",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 112955,
-      "name": "Prairie de broussailles",
+      "name": "Brush Prairie",
       "name_default": "Brush Prairie",
       "native": "Brush Prairie",
       "type": "city",
@@ -1011,7 +1011,7 @@
       "id": 112967,
       "name": "Bryn Mawr-Skyway",
       "name_default": "Bryn Mawr-Skyway",
-      "native": "Big-skyway hill",
+      "native": "Bryn Mawr-Skyway",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1083,7 +1083,7 @@
       "id": 113052,
       "name": "Burien",
       "name_default": "Burien",
-      "native": "Head",
+      "native": "Burien",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 113243,
-      "name": "Lits",
+      "name": "Camas",
       "name_default": "Camas",
       "native": "Camas",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 113424,
-      "name": "Œillet",
+      "name": "Carnation",
       "name_default": "Carnation",
       "native": "Carnation",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 113517,
-      "name": "Vallée des Cascades",
+      "name": "cascade Valley",
       "name_default": "Cascade Valley",
       "native": "Cascade Valley",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 113522,
-      "name": "Cachemire",
+      "name": "Cashmere",
       "name_default": "Cashmere",
       "native": "Cashmere",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 113550,
-      "name": "Château de Rocher",
+      "name": "Castle Rock",
       "name_default": "Castle Rock",
       "native": "Castle Rock",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 113679,
-      "name": "Parc central",
+      "name": "Central Park",
       "name_default": "Central Park",
       "native": "Central Park",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 113826,
-      "name": "Chélan",
+      "name": "Chelan",
       "name_default": "Chelan",
       "native": "Chelan",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 114083,
-      "name": "Ville de Sammamish",
+      "name": "City of Sammamish",
       "name_default": "City of Sammamish",
       "native": "City of Sammamish",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 114207,
-      "name": "Clé Elum",
+      "name": "Cle Elum",
       "name_default": "Cle Elum",
       "native": "Cle Elum",
       "type": "city",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 114212,
-      "name": "Lac Clair",
+      "name": "Clear Lake",
       "name_default": "Clear Lake",
       "native": "Clear Lake",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 114221,
-      "name": "Vue dégagée",
+      "name": "Clearview",
       "name_default": "Clearview",
       "native": "Clearview",
       "type": "city",
@@ -1569,7 +1569,7 @@
       "id": 114409,
       "name": "Colfax",
       "name_default": "Colfax",
-      "native": "Com",
+      "native": "Colfax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 114415,
-      "name": "Place du Collège",
+      "name": "College Place",
       "name_default": "College Place",
       "native": "College Place",
       "type": "city",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 114694,
-      "name": "Lac Cottage",
+      "name": "Cottage Lake",
       "name_default": "Cottage Lake",
       "native": "Cottage Lake",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 114710,
-      "name": "Barrage de Coulee",
+      "name": "Coulee Dam",
       "name_default": "Coulee Dam",
       "native": "Coulee Dam",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 114720,
-      "name": "Maisons de campagne",
+      "name": "Country Homes",
       "name_default": "Country Homes",
       "native": "Country Homes",
       "type": "city",
@@ -1767,7 +1767,7 @@
       "id": 115000,
       "name": "Dallesport",
       "name_default": "Dallesport",
-      "native": "Tiles",
+      "native": "Dallesport",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 115060,
-      "name": "Canapé",
+      "name": "Davenport",
       "name_default": "Davenport",
       "native": "Davenport",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 115179,
-      "name": "Parc aux cerfs",
+      "name": "Deer Park",
       "name_default": "Deer Park",
       "native": "Deer Park",
       "type": "city",
@@ -1857,7 +1857,7 @@
       "id": 115272,
       "name": "Des Moines",
       "name_default": "Des Moines",
-      "native": "Monks",
+      "native": "Des Moines",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 115279,
-      "name": "Aire du désert",
+      "name": "Desert Aire",
       "name_default": "Desert Aire",
       "native": "Desert Aire",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 115389,
-      "name": "Coin du dollar",
+      "name": "Dollar Corner",
       "name_default": "Dollar Corner",
       "native": "Dollar Corner",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 115691,
-      "name": "East Hill-Méridien",
+      "name": "East Hill-Meridian",
       "name_default": "East Hill-Meridian",
       "native": "East Hill-Meridian",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 115738,
-      "name": "Verger de l'Est de Port",
+      "name": "East Port Orchard",
       "name_default": "East Port Orchard",
       "native": "East Port Orchard",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 115771,
-      "name": "Wenatchee Est",
+      "name": "East Wenatchee",
       "name_default": "East Wenatchee",
       "native": "East Wenatchee",
       "type": "city",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 115772,
-      "name": "Banc East Wenatchee",
+      "name": "East Wenatchee Bench",
       "name_default": "East Wenatchee Bench",
       "native": "East Wenatchee Bench",
       "type": "city",
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 115960,
-      "name": "Ville électrique",
+      "name": "Electric City",
       "name_default": "Electric City",
       "native": "Electric City",
       "type": "city",
@@ -2161,9 +2161,9 @@
     },
     {
       "id": 115989,
-      "name": "Plaine des élans",
+      "name": "Elk Plain",
       "name_default": "Elk Plain",
-      "native": "Elke Plain",
+      "native": "Elk Plain",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2217,7 +2217,7 @@
       "id": 116123,
       "name": "Enetai",
       "name_default": "Enetai",
-      "native": "Eetai",
+      "native": "Enetai",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2235,7 +2235,7 @@
       "id": 116152,
       "name": "Entiat",
       "name_default": "Entiat",
-      "native": "Entiust",
+      "native": "Entiat",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 116156,
-      "name": "Éphrata",
+      "name": "Ephrata",
       "name_default": "Ephrata",
       "native": "Ephrata",
       "type": "city",
@@ -2287,7 +2287,7 @@
     },
     {
       "id": 116171,
-      "name": "Erlands Point-Lac Kitsap",
+      "name": "Erlands Point-Kitsap Lake",
       "name_default": "Erlands Point-Kitsap Lake",
       "native": "Erlands Point-Kitsap Lake",
       "type": "city",
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 116189,
-      "name": "Espérance",
+      "name": "Esperance",
       "name_default": "Esperance",
       "native": "Esperance",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 116297,
-      "name": "Base aérienne de Fairchild",
+      "name": "base aérienne de Fairchild",
       "name_default": "Fairchild Air Force Base",
       "native": "Fairchild Air Force Base",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 116371,
-      "name": "Ville d'automne",
+      "name": "Fall City",
       "name_default": "Fall City",
       "native": "Fall City",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 116465,
-      "name": "Chemin fédéral",
+      "name": "Federal Way",
       "name_default": "Federal Way",
       "native": "Federal Way",
       "type": "city",
@@ -2431,7 +2431,7 @@
     },
     {
       "id": 116467,
-      "name": "Félida",
+      "name": "Felida",
       "name_default": "Felida",
       "native": "Felida",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 116484,
-      "name": "Prairie de fougères",
+      "name": "Fern Prairie",
       "name_default": "Fern Prairie",
       "native": "Fern Prairie",
       "type": "city",
@@ -2485,7 +2485,7 @@
     },
     {
       "id": 116504,
-      "name": "Fifre",
+      "name": "Fife",
       "name_default": "Fife",
       "native": "Fife",
       "type": "city",
@@ -2557,7 +2557,7 @@
     },
     {
       "id": 116538,
-      "name": "Cinq coins",
+      "name": "Five Corners",
       "name_default": "Five Corners",
       "native": "Five Corners",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 116617,
-      "name": "Colline de Fobes",
+      "name": "Fobes Hill",
       "name_default": "Fobes Hill",
       "native": "Fobes Hill",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 116675,
-      "name": "Fourches",
+      "name": "Forks",
       "name_default": "Forks",
       "native": "Forks",
       "type": "city",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 116802,
-      "name": "L'île Fox",
+      "name": "Fox Island",
       "name_default": "Fox Island",
       "native": "Fox Island",
       "type": "city",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 117145,
-      "name": "Genève",
+      "name": "Geneva",
       "name_default": "Geneva",
       "native": "Geneva",
       "type": "city",
@@ -2757,7 +2757,7 @@
       "id": 117258,
       "name": "Gleed",
       "name_default": "Gleed",
-      "native": "Slide",
+      "native": "Gleed",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2773,7 +2773,7 @@
     },
     {
       "id": 117339,
-      "name": "Lingot d'or",
+      "name": "Gold Bar",
       "name_default": "Gold Bar",
       "native": "Gold Bar",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 117469,
-      "name": "Grand Monticule",
+      "name": "Grand Mound",
       "name_default": "Grand Mound",
       "native": "Grand Mound",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 117498,
-      "name": "Chutes de granit",
+      "name": "Granite Falls",
       "name_default": "Granite Falls",
       "native": "Granite Falls",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 118399,
-      "name": "Montagnes",
+      "name": "Highland",
       "name_default": "Highland",
       "native": "Highland",
       "type": "city",
@@ -3007,7 +3007,7 @@
     },
     {
       "id": 118585,
-      "name": "Maison",
+      "name": "Home",
       "name_default": "Home",
       "native": "Home",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 119287,
-      "name": "Base interarmées Lewis McChord",
+      "name": "Joint Base Lewis McChord",
       "name_default": "Joint Base Lewis McChord",
       "native": "Joint Base Lewis McChord",
       "type": "city",
@@ -3117,7 +3117,7 @@
       "id": 119359,
       "name": "Kalama",
       "name_default": "Kalama",
-      "native": "Grams",
+      "native": "Kalama",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 119527,
-      "name": "Chutes de Kettle",
+      "name": "Kettle Falls",
       "name_default": "Kettle Falls",
       "native": "Kettle Falls",
       "type": "city",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": 119538,
-      "name": "Centre clé",
+      "name": "Key Center",
       "name_default": "Key Center",
       "native": "Key Center",
       "type": "city",
@@ -3315,7 +3315,7 @@
       "id": 119669,
       "name": "Klahanie",
       "name_default": "Klahanie",
-      "native": "Ko liked",
+      "native": "Klahanie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3331,9 +3331,9 @@
     },
     {
       "id": 119738,
-      "name": "La Centre",
+      "name": "La Center",
       "name_default": "La Center",
-      "native": "The Center",
+      "native": "La Center",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 119912,
-      "name": "Parc du lac Forest",
+      "name": "Lake Forest Park",
       "name_default": "Lake Forest Park",
       "native": "Lake Forest Park",
       "type": "city",
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 119938,
-      "name": "Lac Marcel-Stillwater",
+      "name": "Lake Marcel-Stillwater",
       "name_default": "Lake Marcel-Stillwater",
       "native": "Lake Marcel-Stillwater",
       "type": "city",
@@ -3403,7 +3403,7 @@
     },
     {
       "id": 119948,
-      "name": "Lac Morton-Berrydale",
+      "name": "Lake Morton-Berrydale",
       "name_default": "Lake Morton-Berrydale",
       "native": "Lake Morton-Berrydale",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 119978,
-      "name": "rive du lac",
+      "name": "Lake Shore",
       "name_default": "Lake Shore",
       "native": "Lake Shore",
       "type": "city",
@@ -3439,7 +3439,7 @@
     },
     {
       "id": 119980,
-      "name": "Lac Stevens",
+      "name": "Lake Stevens",
       "name_default": "Lake Stevens",
       "native": "Lake Stevens",
       "type": "city",
@@ -3457,7 +3457,7 @@
     },
     {
       "id": 119981,
-      "name": "Lac Stickney",
+      "name": "Lake Stickney",
       "name_default": "Lake Stickney",
       "native": "Lake Stickney",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 120018,
-      "name": "Lakeland Nord",
+      "name": "Lakeland North",
       "name_default": "Lakeland North",
       "native": "Lakeland North",
       "type": "city",
@@ -3493,7 +3493,7 @@
     },
     {
       "id": 120019,
-      "name": "Lakeland Sud",
+      "name": "Lakeland South",
       "name_default": "Lakeland South",
       "native": "Lakeland South",
       "type": "city",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 120140,
-      "name": "Chemin du Mélèze",
+      "name": "Larch Way",
       "name_default": "Larch Way",
       "native": "Larch Way",
       "type": "city",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 120268,
-      "name": "Léa Hill",
+      "name": "Lea Hill",
       "name_default": "Lea Hill",
       "native": "Lea Hill",
       "type": "city",
@@ -3619,7 +3619,7 @@
     },
     {
       "id": 120475,
-      "name": "Lac de la Liberté",
+      "name": "Liberty Lake",
       "name_default": "Liberty Lake",
       "native": "Liberty Lake",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 120752,
-      "name": "Longue branche",
+      "name": "Longbranch",
       "name_default": "Longbranch",
       "native": "LongBranch",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 121168,
-      "name": "Maple Heights-Lac Désir",
+      "name": "Maple Heights-Lake Desire",
       "name_default": "Maple Heights-Lake Desire",
       "native": "Maple Heights-Lake Desire",
       "type": "city",
@@ -3907,7 +3907,7 @@
     },
     {
       "id": 121180,
-      "name": "Bois d'érable",
+      "name": "Maplewood",
       "name_default": "Maplewood",
       "native": "Maplewood",
       "type": "city",
@@ -3961,7 +3961,7 @@
     },
     {
       "id": 121333,
-      "name": "Lac Martha",
+      "name": "Martha Lake",
       "name_default": "Martha Lake",
       "native": "Martha Lake",
       "type": "city",
@@ -3999,7 +3999,7 @@
       "id": 121409,
       "name": "Mattawa",
       "name_default": "Mattawa",
-      "native": "Matthew",
+      "native": "Mattawa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 121468,
-      "name": "Base aérienne de McChord",
+      "name": "McChord Air Force Base",
       "name_default": "McChord Air Force Base",
       "native": "McChord Air Force Base",
       "type": "city",
@@ -4053,7 +4053,7 @@
       "id": 121538,
       "name": "McMillin",
       "name_default": "McMillin",
-      "native": "McMill",
+      "native": "McMillin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 121553,
-      "name": "Hydromel",
+      "name": "Mead",
       "name_default": "Mead",
       "native": "Mead",
       "type": "city",
@@ -4087,7 +4087,7 @@
     },
     {
       "id": 121559,
-      "name": "Clairière des prés",
+      "name": "Meadow Glade",
       "name_default": "Meadow Glade",
       "native": "Meadow Glade",
       "type": "city",
@@ -4123,7 +4123,7 @@
     },
     {
       "id": 121600,
-      "name": "Lac Médical",
+      "name": "Medical Lake",
       "name_default": "Medical Lake",
       "native": "Medical Lake",
       "type": "city",
@@ -4141,7 +4141,7 @@
     },
     {
       "id": 121606,
-      "name": "Médine",
+      "name": "Medina",
       "name_default": "Medina",
       "native": "Medina",
       "type": "city",
@@ -4159,7 +4159,7 @@
     },
     {
       "id": 121682,
-      "name": "Île Mercer",
+      "name": "Mercer Island",
       "name_default": "Mercer Island",
       "native": "Mercer Island",
       "type": "city",
@@ -4195,7 +4195,7 @@
     },
     {
       "id": 121863,
-      "name": "Ruisseau Mill",
+      "name": "Mill Creek",
       "name_default": "Mill Creek",
       "native": "Mill Creek",
       "type": "city",
@@ -4213,7 +4213,7 @@
     },
     {
       "id": 121864,
-      "name": "Mill Creek Est",
+      "name": "Mill Creek East",
       "name_default": "Mill Creek East",
       "native": "Mill Creek East",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 121867,
-      "name": "Plaine du Moulin",
+      "name": "Mill Plain",
       "name_default": "Mill Plain",
       "native": "Mill Plain",
       "type": "city",
@@ -4339,7 +4339,7 @@
     },
     {
       "id": 122083,
-      "name": "Monroe Nord",
+      "name": "Monroe North",
       "name_default": "Monroe North",
       "native": "Monroe North",
       "type": "city",
@@ -4393,7 +4393,7 @@
     },
     {
       "id": 122302,
-      "name": "Lac Moïse",
+      "name": "Moses Lake",
       "name_default": "Moses Lake",
       "native": "Moses Lake",
       "type": "city",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": 122303,
-      "name": "Lac Moses Nord",
+      "name": "Moses Lake North",
       "name_default": "Moses Lake North",
       "native": "Moses Lake North",
       "type": "city",
@@ -4429,7 +4429,7 @@
     },
     {
       "id": 122403,
-      "name": "Mont Vernon",
+      "name": "Mount Vernon",
       "name_default": "Mount Vernon",
       "native": "Mount Vernon",
       "type": "city",
@@ -4447,7 +4447,7 @@
     },
     {
       "id": 122405,
-      "name": "Mont Vista",
+      "name": "Mount Vista",
       "name_default": "Mount Vista",
       "native": "Mount Vista",
       "type": "city",
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 122439,
-      "name": "Terrasse Mountlake",
+      "name": "Mountlake Terrace",
       "name_default": "Mountlake Terrace",
       "native": "Mountlake Terrace",
       "type": "city",
@@ -4591,7 +4591,7 @@
     },
     {
       "id": 122952,
-      "name": "Parc de Normandie",
+      "name": "Normandy Park",
       "name_default": "Normandy Park",
       "native": "Normandy Park",
       "type": "city",
@@ -4627,7 +4627,7 @@
     },
     {
       "id": 123011,
-      "name": "Ruisseau du Nord",
+      "name": "North Creek",
       "name_default": "North Creek",
       "native": "North Creek",
       "type": "city",
@@ -4645,7 +4645,7 @@
     },
     {
       "id": 123028,
-      "name": "Fort Lewis Nord",
+      "name": "North Fort Lewis",
       "name_default": "North Fort Lewis",
       "native": "North Fort Lewis",
       "type": "city",
@@ -4663,7 +4663,7 @@
     },
     {
       "id": 123090,
-      "name": "Puyallup Nord",
+      "name": "North Puyallup",
       "name_default": "North Puyallup",
       "native": "North Puyallup",
       "type": "city",
@@ -4681,7 +4681,7 @@
     },
     {
       "id": 123132,
-      "name": "Yelm du Nord",
+      "name": "North Yelm",
       "name_default": "North Yelm",
       "native": "North Yelm",
       "type": "city",
@@ -4717,7 +4717,7 @@
     },
     {
       "id": 123332,
-      "name": "Parc océanique",
+      "name": "Ocean Park",
       "name_default": "Ocean Park",
       "native": "Ocean Park",
       "type": "city",
@@ -4735,7 +4735,7 @@
     },
     {
       "id": 123336,
-      "name": "Rivages océaniques",
+      "name": "Ocean Shores",
       "name_default": "Ocean Shores",
       "native": "Ocean Shores",
       "type": "city",
@@ -4771,7 +4771,7 @@
     },
     {
       "id": 123459,
-      "name": "Olympie",
+      "name": "Olympia",
       "name_default": "Olympia",
       "native": "Olympia",
       "type": "city",
@@ -4791,7 +4791,7 @@
       "id": 123464,
       "name": "Omak",
       "name_default": "Omak",
-      "native": "Feel",
+      "native": "Omak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4807,7 +4807,7 @@
     },
     {
       "id": 123499,
-      "name": "Opportunité",
+      "name": "Opportunity",
       "name_default": "Opportunity",
       "native": "Opportunity",
       "type": "section",
@@ -4825,7 +4825,7 @@
     },
     {
       "id": 123539,
-      "name": "Vergers",
+      "name": "Orchards",
       "name_default": "Orchards",
       "native": "Orchards",
       "type": "city",
@@ -4861,7 +4861,7 @@
     },
     {
       "id": 123582,
-      "name": "Trier",
+      "name": "Orting",
       "name_default": "Orting",
       "native": "Orting",
       "type": "city",
@@ -4897,7 +4897,7 @@
     },
     {
       "id": 123629,
-      "name": "Vergers Otis-East Farms",
+      "name": "Otis Orchards-East Farms",
       "name_default": "Otis Orchards-East Farms",
       "native": "Otis Orchards-East Farms",
       "type": "city",
@@ -4915,7 +4915,7 @@
     },
     {
       "id": 123707,
-      "name": "Pacifique",
+      "name": "Pacific",
       "name_default": "Pacific",
       "native": "Pacific",
       "type": "city",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 123872,
-      "name": "Parc",
+      "name": "Parkland",
       "name_default": "Parkland",
       "native": "Parkland",
       "type": "city",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": 123955,
-      "name": "Vallée paisible",
+      "name": "Peaceful Valley",
       "name_default": "Peaceful Valley",
       "native": "Peaceful Valley",
       "type": "city",
@@ -5023,7 +5023,7 @@
     },
     {
       "id": 124160,
-      "name": "Point de pique-nique",
+      "name": "Picnic Point",
       "name_default": "Picnic Point",
       "native": "Picnic Point",
       "type": "city",
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 124494,
-      "name": "Port Angeles Est",
+      "name": "Port Angeles East",
       "name_default": "Port Angeles East",
       "native": "Port Angeles East",
       "type": "city",
@@ -5437,7 +5437,7 @@
     },
     {
       "id": 125032,
-      "name": "République",
+      "name": "Republic",
       "name_default": "Republic",
       "native": "Republic",
       "type": "city",
@@ -5509,7 +5509,7 @@
     },
     {
       "id": 125191,
-      "name": "Courbe de la rivière",
+      "name": "Riverbend",
       "name_default": "Riverbend",
       "native": "Riverbend",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 125339,
-      "name": "Pointe Rocheuse",
+      "name": "Rocky Point",
       "name_default": "Rocky Point",
       "native": "Rocky Point",
       "type": "city",
@@ -5599,7 +5599,7 @@
     },
     {
       "id": 125488,
-      "name": "Cité Royale",
+      "name": "Royal City",
       "name_default": "Royal City",
       "native": "Royal City",
       "type": "city",
@@ -5709,7 +5709,7 @@
       "id": 126122,
       "name": "Sedro-Woolley",
       "name_default": "Sedro-Woolley",
-      "native": "fleet",
+      "native": "Sedro-Woolley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5725,7 +5725,7 @@
     },
     {
       "id": 126129,
-      "name": "Sélah",
+      "name": "Selah",
       "name_default": "Selah",
       "native": "Selah",
       "type": "city",
@@ -5743,7 +5743,7 @@
     },
     {
       "id": 126164,
-      "name": "Séquim",
+      "name": "Sequim",
       "name_default": "Sequim",
       "native": "Sequim",
       "type": "city",
@@ -5779,7 +5779,7 @@
     },
     {
       "id": 126368,
-      "name": "Littoral",
+      "name": "Shoreline",
       "name_default": "Shoreline",
       "native": "Shoreline",
       "type": "city",
@@ -5797,7 +5797,7 @@
     },
     {
       "id": 126424,
-      "name": "Sapins argentés",
+      "name": "Silver Firs",
       "name_default": "Silver Firs",
       "native": "Silver Firs",
       "type": "city",
@@ -5905,7 +5905,7 @@
     },
     {
       "id": 126553,
-      "name": "Lac Soap",
+      "name": "Soap Lake",
       "name_default": "Soap Lake",
       "native": "Soap Lake",
       "type": "city",
@@ -5941,7 +5941,7 @@
     },
     {
       "id": 126673,
-      "name": "Colline du Sud",
+      "name": "South Hill",
       "name_default": "South Hill",
       "native": "South Hill",
       "type": "city",
@@ -5959,7 +5959,7 @@
     },
     {
       "id": 126746,
-      "name": "Sud de Wenatchee",
+      "name": "South Wenatchee",
       "name_default": "South Wenatchee",
       "native": "South Wenatchee",
       "type": "city",
@@ -6031,7 +6031,7 @@
     },
     {
       "id": 126844,
-      "name": "Vallée de Spokane",
+      "name": "Spokane Valley",
       "name_default": "Spokane Valley",
       "native": "Spokane Valley",
       "type": "city",
@@ -6103,7 +6103,7 @@
     },
     {
       "id": 127162,
-      "name": "Vallée soudaine",
+      "name": "Sudden Valley",
       "name_default": "Sudden Valley",
       "native": "Sudden Valley",
       "type": "city",
@@ -6141,7 +6141,7 @@
       "id": 127199,
       "name": "Sumas",
       "name_default": "Sumas",
-      "native": "Amounts",
+      "native": "Sumas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6157,7 +6157,7 @@
     },
     {
       "id": 127215,
-      "name": "Sommet",
+      "name": "Summit",
       "name_default": "Summit",
       "native": "Summit",
       "type": "city",
@@ -6175,7 +6175,7 @@
     },
     {
       "id": 127220,
-      "name": "Vue du sommet",
+      "name": "Summit View",
       "name_default": "Summit View",
       "native": "Summit View",
       "type": "city",
@@ -6249,7 +6249,7 @@
       "id": 127284,
       "name": "Suquamish",
       "name_default": "Suquamish",
-      "native": "Suchamish",
+      "native": "Suquamish",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6301,7 +6301,7 @@
     },
     {
       "id": 127417,
-      "name": "Place Tanglewilde-Thompson",
+      "name": "Tanglewilde-Thompson Place",
       "name_default": "Tanglewilde-Thompson Place",
       "native": "Tanglewilde-Thompson Place",
       "type": "city",
@@ -6319,7 +6319,7 @@
     },
     {
       "id": 127418,
-      "name": "Tanneur",
+      "name": "Tanner",
       "name_default": "Tanner",
       "native": "Tanner",
       "type": "city",
@@ -6339,7 +6339,7 @@
       "id": 127509,
       "name": "Tenino",
       "name_default": "Tenino",
-      "native": "Tenin",
+      "native": "Tenino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6355,7 +6355,7 @@
     },
     {
       "id": 127518,
-      "name": "Terrasse Heights",
+      "name": "Terrace Heights",
       "name_default": "Terrace Heights",
       "native": "Terrace Heights",
       "type": "city",
@@ -6373,7 +6373,7 @@
     },
     {
       "id": 127613,
-      "name": "Trois Lacs",
+      "name": "Three Lakes",
       "name_default": "Three Lakes",
       "native": "Three Lakes",
       "type": "city",
@@ -6393,7 +6393,7 @@
       "id": 127639,
       "name": "Tieton",
       "name_default": "Tieton",
-      "native": "Impassable",
+      "native": "Tieton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6445,7 +6445,7 @@
     },
     {
       "id": 127760,
-      "name": "Ville et campagne",
+      "name": "Town and Country",
       "name_default": "Town and Country",
       "native": "Town and Country",
       "type": "city",
@@ -6501,7 +6501,7 @@
       "id": 127879,
       "name": "Tukwila",
       "name_default": "Tukwila",
-      "native": "Let us go",
+      "native": "Tukwila",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6535,9 +6535,9 @@
     },
     {
       "id": 127881,
-      "name": "Baie de Tulalip",
+      "name": "Tulalip Bay",
       "name_default": "Tulalip Bay",
-      "native": "Flying Bay",
+      "native": "Tulalip Bay",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6555,7 +6555,7 @@
       "id": 127890,
       "name": "Tumwater",
       "name_default": "Tumwater",
-      "native": "Tunteater",
+      "native": "Tumwater",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 128004,
-      "name": "Écart syndical",
+      "name": "Union Gap",
       "name_default": "Union Gap",
       "native": "Union Gap",
       "type": "city",
@@ -6607,7 +6607,7 @@
     },
     {
       "id": 128036,
-      "name": "Place de l'Université",
+      "name": "University Place",
       "name_default": "University Place",
       "native": "University Place",
       "type": "city",
@@ -6679,7 +6679,7 @@
     },
     {
       "id": 128178,
-      "name": "Véradale",
+      "name": "Veradale",
       "name_default": "Veradale",
       "native": "Veradale",
       "type": "section",
@@ -6733,7 +6733,7 @@
     },
     {
       "id": 128395,
-      "name": "Walla Walla Est",
+      "name": "Walla Walla East",
       "name_default": "Walla Walla East",
       "native": "Walla Walla East",
       "type": "city",
@@ -6789,7 +6789,7 @@
       "id": 128453,
       "name": "Wapato",
       "name_default": "Wapato",
-      "native": "Matters",
+      "native": "Wapato",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6805,7 +6805,7 @@
     },
     {
       "id": 128460,
-      "name": "Directeur",
+      "name": "Warden",
       "name_default": "Warden",
       "native": "Warden",
       "type": "city",
@@ -6823,7 +6823,7 @@
     },
     {
       "id": 128467,
-      "name": "Plage chaude",
+      "name": "Warm Beach",
       "name_default": "Warm Beach",
       "native": "Warm Beach",
       "type": "city",
@@ -6843,7 +6843,7 @@
       "id": 128591,
       "name": "Washougal",
       "name_default": "Washougal",
-      "native": "Washogal",
+      "native": "Washougal",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6879,7 +6879,7 @@
       "id": 128653,
       "name": "Wauna",
       "name_default": "Wauna",
-      "native": "Instruments",
+      "native": "Wauna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6931,7 +6931,7 @@
     },
     {
       "id": 128910,
-      "name": "Lac de l'Ouest Sammamish",
+      "name": "West Lake Sammamish",
       "name_default": "West Lake Sammamish",
       "native": "West Lake Sammamish",
       "type": "city",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": 128968,
-      "name": "Richland Ouest",
+      "name": "West Richland",
       "name_default": "West Richland",
       "native": "West Richland",
       "type": "city",
@@ -7021,7 +7021,7 @@
     },
     {
       "id": 128981,
-      "name": "Autoroute du côté ouest",
+      "name": "West Side Highway",
       "name_default": "West Side Highway",
       "native": "West Side Highway",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 128996,
-      "name": "Vallée de l'Ouest",
+      "name": "West Valley",
       "name_default": "West Valley",
       "native": "West Valley",
       "type": "city",
@@ -7057,7 +7057,7 @@
     },
     {
       "id": 129003,
-      "name": "Wenatchee Ouest",
+      "name": "West Wenatchee",
       "name_default": "West Wenatchee",
       "native": "West Wenatchee",
       "type": "city",
@@ -7093,7 +7093,7 @@
     },
     {
       "id": 129129,
-      "name": "Centre blanc",
+      "name": "White Center",
       "name_default": "White Center",
       "native": "White Center",
       "type": "city",
@@ -7111,7 +7111,7 @@
     },
     {
       "id": 129159,
-      "name": "Saumon blanc",
+      "name": "White Salmon",
       "name_default": "White Salmon",
       "native": "White Salmon",
       "type": "city",
@@ -7129,7 +7129,7 @@
     },
     {
       "id": 129234,
-      "name": "Bordure sauvage",
+      "name": "Wilderness Rim",
       "name_default": "Wilderness Rim",
       "native": "Wilderness Rim",
       "type": "city",
@@ -7201,7 +7201,7 @@
     },
     {
       "id": 129527,
-      "name": "Des bois",
+      "name": "Woodland",
       "name_default": "Woodland",
       "native": "Woodland",
       "type": "city",
@@ -7219,7 +7219,7 @@
     },
     {
       "id": 129550,
-      "name": "Ruisseau Woods",
+      "name": "Woods Creek",
       "name_default": "Woods Creek",
       "native": "Woods Creek",
       "type": "city",
@@ -7237,7 +7237,7 @@
     },
     {
       "id": 129579,
-      "name": "Chemin des bois",
+      "name": "Woodway",
       "name_default": "Woodway",
       "native": "Woodway",
       "type": "city",

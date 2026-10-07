@@ -129,7 +129,7 @@
     },
     {
       "id": 130739,
-      "name": "Al Mukhā’",
+      "name": "Al Mukha",
       "name_default": "Al Mukhā’",
       "native": "المخاء",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130747,
-      "name": "Al-Qahirah",
+      "name": "Al Qahirah",
       "name_default": "Al Qahirah",
       "native": "القاهرة",
       "type": "adm1",
@@ -183,9 +183,9 @@
     },
     {
       "id": 130783,
-      "name": "Comme Silw",
+      "name": "As Silw",
       "name_default": "As Silw",
-      "native": "كما سيلو",
+      "native": "مديرية الصلو",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 130798,
-      "name": "À Ta‘izzīyah",
+      "name": "At Ta'iziyah",
       "name_default": "At Ta‘izzīyah",
-      "native": "في التعزية",
+      "native": "مديرية التعزية",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 130932,
-      "name": "Māwīyah",
+      "name": "Mawiyah",
       "name_default": "Māwīyah",
       "native": "ماوية",
       "type": "area",
@@ -435,10 +435,10 @@
     },
     {
       "id": 130963,
-      "name": "Même",
+      "name": "Sama",
       "name_default": "Sama",
       "native": "ساما",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41464,
@@ -489,7 +489,7 @@
     },
     {
       "id": 130988,
-      "name": "Ta'izz",
+      "name": "Ta‘izz",
       "name_default": "Ta‘izz",
       "native": "تعز",
       "type": "adm1",
@@ -507,7 +507,7 @@
     },
     {
       "id": 130995,
-      "name": "Village d'Alamrah",
+      "name": "Village of Alamrah",
       "name_default": "Village of Alamrah",
       "native": "قرية علمرة",
       "type": "village",

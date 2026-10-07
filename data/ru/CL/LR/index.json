@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 18975,
-      "name": "Загон",
+      "name": "Корраль",
       "name_default": "Corral",
       "native": "Corral",
       "type": "city",
@@ -98,7 +98,7 @@
       "id": 148493,
       "name": "Футроно",
       "name_default": "Futrono",
-      "native": "Combustible",
+      "native": "Futrono",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -114,7 +114,7 @@
     },
     {
       "id": 18995,
-      "name": "Ла Унион",
+      "name": "Ла-Уньон",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "adm2",
@@ -152,7 +152,7 @@
       "id": 148495,
       "name": "Ланко",
       "name_default": "Lanco",
-      "native": "Lanza",
+      "native": "Lanco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -186,9 +186,9 @@
     },
     {
       "id": 148498,
-      "name": "Мафил",
+      "name": "Мафиль",
       "name_default": "Máfil",
-      "native": "Hormiga",
+      "native": "Máfil",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": 148499,
-      "name": "Пайяко",
+      "name": "Паильяко",
       "name_default": "Paillaco",
       "native": "Paillaco",
       "type": "city",
@@ -258,7 +258,7 @@
     },
     {
       "id": 19098,
-      "name": "Рио Буэно",
+      "name": "Рио-Буэно",
       "name_default": "Río Bueno",
       "native": "Río Bueno",
       "type": "city",

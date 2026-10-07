@@ -78,9 +78,9 @@
   "cities": [
     {
       "id": 109345,
-      "name": "Jogunast",
+      "name": "Balky",
       "name_default": "Balky",
-      "native": "Впертий",
+      "native": "Балки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -114,7 +114,7 @@
     },
     {
       "id": 109369,
-      "name": "Berdjanska miskrada",
+      "name": "Berdyans’ka Mis’krada",
       "name_default": "Berdyans’ka Mis’krada",
       "native": "Бердянська міськрада",
       "type": "city",
@@ -132,7 +132,7 @@
     },
     {
       "id": 109368,
-      "name": "Berdjansk",
+      "name": "Berdyansk",
       "name_default": "Berdyansk",
       "native": "Бердянськ",
       "type": "adm2",
@@ -150,7 +150,7 @@
     },
     {
       "id": 109482,
-      "name": "Černihivski rajon",
+      "name": "Chernihivka",
       "name_default": "Chernihivka",
       "native": "Чернігівський район",
       "type": "district",
@@ -168,7 +168,7 @@
     },
     {
       "id": 109551,
-      "name": "Dnjeprorudne",
+      "name": "Dniprorudne",
       "name_default": "Dniprorudne",
       "native": "Дніпрорудне",
       "type": "city",
@@ -186,7 +186,7 @@
     },
     {
       "id": 109552,
-      "name": "Dnjeprovka",
+      "name": "Dniprovka",
       "name_default": "Dniprovka",
       "native": "Дніпровка",
       "type": "city",
@@ -204,7 +204,7 @@
     },
     {
       "id": 109595,
-      "name": "Energodar",
+      "name": "Enerhodar",
       "name_default": "Enerhodar",
       "native": "Енергодар",
       "type": "city",
@@ -222,7 +222,7 @@
     },
     {
       "id": 109660,
-      "name": "Huljajpole",
+      "name": "Hulyaypole",
       "name_default": "Hulyaypole",
       "native": "Гуляйполе",
       "type": "adm2",
@@ -240,7 +240,7 @@
     },
     {
       "id": 109748,
-      "name": "Kirov",
+      "name": "Kirove",
       "name_default": "Kirove",
       "native": "Кірове",
       "type": "adm2",
@@ -258,7 +258,7 @@
     },
     {
       "id": 109785,
-      "name": "Komyš-Zorja",
+      "name": "Komysh-Zorya",
       "name_default": "Komysh-Zorya",
       "native": "Комиш-Зоря",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109787,
-      "name": "Komišuvaha",
+      "name": "Komyshuvakha",
       "name_default": "Komyshuvakha",
       "native": "Комишуваха",
       "type": "city",
@@ -294,7 +294,7 @@
     },
     {
       "id": 109816,
-      "name": "Konstantinivka",
+      "name": "Kostyantynivka",
       "name_default": "Kostyantynivka",
       "native": "Костянтинівка",
       "type": "city",
@@ -312,9 +312,9 @@
     },
     {
       "id": 109892,
-      "name": "Kušuhum",
+      "name": "Kushuhum",
       "name_default": "Kushuhum",
-      "native": "Кушухум",
+      "native": "Кушугум",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -330,7 +330,7 @@
     },
     {
       "id": 109895,
-      "name": "Kujbiševo",
+      "name": "Kuybysheve",
       "name_default": "Kuybysheve",
       "native": "Куйбишеве",
       "type": "city",
@@ -348,7 +348,7 @@
     },
     {
       "id": 109899,
-      "name": "Kirilivka",
+      "name": "Kyrylivka",
       "name_default": "Kyrylivka",
       "native": "Кирилівка",
       "type": "city",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109980,
-      "name": "Mala Tokmačka",
+      "name": "Mala Tokmachka",
       "name_default": "Mala Tokmachka",
       "native": "Мала Токмачка",
       "type": "city",
@@ -402,7 +402,7 @@
     },
     {
       "id": 109984,
-      "name": "Malokaterinivka",
+      "name": "Malokaterynivka",
       "name_default": "Malokaterynivka",
       "native": "Малокатеринівка",
       "type": "city",
@@ -420,7 +420,7 @@
     },
     {
       "id": 110008,
-      "name": "Matvijivka",
+      "name": "Matviivka",
       "name_default": "Matviivka",
       "native": "Матвіївка",
       "type": "city",
@@ -438,7 +438,7 @@
     },
     {
       "id": 110018,
-      "name": "Melitopolj",
+      "name": "Melitopol",
       "name_default": "Melitopol",
       "native": "Мелітополь",
       "type": "adm2",
@@ -474,7 +474,7 @@
     },
     {
       "id": 110068,
-      "name": "Mihajlivka",
+      "name": "Mykhaylivka",
       "name_default": "Mykhaylivka",
       "native": "Михайлівка",
       "type": "city",
@@ -510,7 +510,7 @@
     },
     {
       "id": 110121,
-      "name": "Novobogdanivka",
+      "name": "Novobohdanivka",
       "name_default": "Novobohdanivka",
       "native": "Новобогданівка",
       "type": "city",
@@ -528,7 +528,7 @@
     },
     {
       "id": 110133,
-      "name": "Novomikolajivka",
+      "name": "Novomykolayivka",
       "name_default": "Novomykolayivka",
       "native": "Новомиколаївка",
       "type": "adm2",
@@ -546,7 +546,7 @@
     },
     {
       "id": 110151,
-      "name": "Novovasilivka",
+      "name": "Novovasylivka",
       "name_default": "Novovasylivka",
       "native": "Нововасилівка",
       "type": "city",
@@ -564,7 +564,7 @@
     },
     {
       "id": 110203,
-      "name": "Orihiv",
+      "name": "Orikhiv",
       "name_default": "Orikhiv",
       "native": "Оріхів",
       "type": "adm2",
@@ -582,7 +582,7 @@
     },
     {
       "id": 110211,
-      "name": "Osipenko",
+      "name": "Osypenko",
       "name_default": "Osypenko",
       "native": "Осипенко",
       "type": "city",
@@ -600,7 +600,7 @@
     },
     {
       "id": 110293,
-      "name": "Položaj",
+      "name": "Polohy",
       "name_default": "Polohy",
       "native": "Пологи",
       "type": "adm2",
@@ -654,7 +654,7 @@
     },
     {
       "id": 110322,
-      "name": "Primorsk",
+      "name": "Prymors’k",
       "name_default": "Prymors’k",
       "native": "Приморськ",
       "type": "city",
@@ -690,7 +690,7 @@
     },
     {
       "id": 110323,
-      "name": "Prishib",
+      "name": "Pryshyb",
       "name_default": "Pryshyb",
       "native": "Пришиб",
       "type": "city",
@@ -746,7 +746,7 @@
       "id": 110603,
       "name": "Ternuvate",
       "name_default": "Ternuvate",
-      "native": "Тернуват",
+      "native": "Тернувате",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -762,7 +762,7 @@
     },
     {
       "id": 110605,
-      "name": "Terpinnya",
+      "name": "Terpinnia",
       "name_default": "Terpinnia",
       "native": "Терпіння",
       "type": "city",
@@ -798,7 +798,7 @@
     },
     {
       "id": 110612,
-      "name": "Tokmački okrug",
+      "name": "Tokmak Raion",
       "name_default": "Tokmak Raion",
       "native": "Токмацький район",
       "type": "district",
@@ -816,7 +816,7 @@
     },
     {
       "id": 110641,
-      "name": "Timošivka",
+      "name": "Tymoshivka",
       "name_default": "Tymoshivka",
       "native": "Тимошівка",
       "type": "city",
@@ -834,7 +834,7 @@
     },
     {
       "id": 110677,
-      "name": "Vasilivka",
+      "name": "Vasylivka",
       "name_default": "Vasylivka",
       "native": "Василівка",
       "type": "adm2",
@@ -852,7 +852,7 @@
     },
     {
       "id": 110683,
-      "name": "Velika Bilozerka",
+      "name": "Velyka Bilozerka",
       "name_default": "Velyka Bilozerka",
       "native": "Велика Білозерка",
       "type": "city",
@@ -924,7 +924,7 @@
     },
     {
       "id": 110730,
-      "name": "Vodjane",
+      "name": "Vodiane",
       "name_default": "Vodiane",
       "native": "Водяне",
       "type": "city",
@@ -942,9 +942,9 @@
     },
     {
       "id": 109471,
-      "name": "Čapajevka",
+      "name": "Voskresenka",
       "name_default": "Voskresenka",
-      "native": "Чапаєвка",
+      "native": "Воскресенка",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -978,7 +978,7 @@
     },
     {
       "id": 110775,
-      "name": "Jakimivka",
+      "name": "Yakymivka",
       "name_default": "Yakymivka",
       "native": "Якимівка",
       "type": "city",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": 110821,
-      "name": "Zaporiška mis'krada",
+      "name": "Zaporiz’ka Mis’krada",
       "name_default": "Zaporiz’ka Mis’krada",
       "native": "Запорізька міськрада",
       "type": "city",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 110820,
-      "name": "Zaporižje",
+      "name": "Zaporizhia",
       "name_default": "Zaporizhia",
       "native": "Запоріжжя",
       "type": "city",

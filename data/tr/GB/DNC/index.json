@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48199,
-      "name": "Adwick le Caddesi",
+      "name": "Adwick le Street",
       "name_default": "Adwick le Street",
       "native": "Adwick Le Street",
       "type": "city",
@@ -77,7 +77,7 @@
       "id": 48280,
       "name": "Armthorpe",
       "name_default": "Armthorpe",
-      "native": "HREATHORPE",
+      "native": "Armthorpe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -95,7 +95,7 @@
       "id": 48301,
       "name": "Askern",
       "name_default": "Askern",
-      "native": "The asker",
+      "native": "Askern",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 50604,
-      "name": "Bayton",
+      "name": "Misterton",
       "name_default": "Misterton",
       "native": "Misterton",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 50633,
-      "name": "Yosun",
+      "name": "Moss",
       "name_default": "Moss",
       "native": "Moss",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 51596,
-      "name": "Diken",
+      "name": "Thorne",
       "name_default": "Thorne",
       "native": "Thorne",
       "type": "city",

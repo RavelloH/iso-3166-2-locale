@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68113,
-      "name": "Água Gorda",
+      "name": "Agua Gorda",
       "name_default": "Agua Gorda",
       "native": "Agua Gorda",
       "type": "city",
@@ -190,7 +190,7 @@
       "id": 68425,
       "name": "Atolinga",
       "name_default": "Atolinga",
-      "native": "Intentos",
+      "native": "Atolinga",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -368,7 +368,7 @@
     },
     {
       "id": 68959,
-      "name": "Calchihuites",
+      "name": "Chalchihuites",
       "name_default": "Chalchihuites",
       "native": "Chalchihuites",
       "type": "adm2",
@@ -512,7 +512,7 @@
     },
     {
       "id": 69299,
-      "name": "Colônia Felipe Ángeles",
+      "name": "Colonia Felipe Ángeles",
       "name_default": "Colonia Felipe Ángeles",
       "native": "Colonia Felipe Ángeles",
       "type": "city",
@@ -566,7 +566,7 @@
     },
     {
       "id": 69316,
-      "name": "Colônia José María Morelos",
+      "name": "Colonia José María Morelos",
       "name_default": "Colonia José María Morelos",
       "native": "Colonia José María Morelos",
       "type": "city",
@@ -602,7 +602,7 @@
     },
     {
       "id": 69351,
-      "name": "Colônia Plenitude",
+      "name": "Colonia Plenitud",
       "name_default": "Colonia Plenitud",
       "native": "Colonia Plenitud",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 69801,
-      "name": "Ejido Saragoça",
+      "name": "Ejido Zaragoza",
       "name_default": "Ejido Zaragoza",
       "native": "Ejido Zaragoza",
       "type": "city",
@@ -710,7 +710,7 @@
     },
     {
       "id": 69890,
-      "name": "O Cazadero",
+      "name": "El Cazadero",
       "name_default": "El Cazadero",
       "native": "El Cazadero",
       "type": "city",
@@ -728,7 +728,7 @@
     },
     {
       "id": 69926,
-      "name": "O Copetillo",
+      "name": "El Copetillo",
       "name_default": "El Copetillo",
       "native": "El Copetillo",
       "type": "city",
@@ -746,7 +746,7 @@
     },
     {
       "id": 69971,
-      "name": "O Forte",
+      "name": "El Fuerte",
       "name_default": "El Fuerte",
       "native": "El Fuerte",
       "type": "city",
@@ -764,7 +764,7 @@
     },
     {
       "id": 70009,
-      "name": "O Lampotal",
+      "name": "El Lampotal",
       "name_default": "El Lampotal",
       "native": "El Lampotal",
       "type": "city",
@@ -836,7 +836,7 @@
     },
     {
       "id": 70152,
-      "name": "O Refúgio",
+      "name": "El Refugio",
       "name_default": "El Refugio",
       "native": "El Refugio",
       "type": "city",
@@ -926,7 +926,7 @@
     },
     {
       "id": 70207,
-      "name": "O Sítio",
+      "name": "El Sitio",
       "name_default": "El Sitio",
       "native": "El Sitio",
       "type": "city",
@@ -946,7 +946,7 @@
       "id": 70241,
       "name": "El Tule",
       "name_default": "El Tule",
-      "native": "El",
+      "native": "El Tule",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -980,7 +980,7 @@
     },
     {
       "id": 70294,
-      "name": "Emílio Carranza",
+      "name": "Emilio Carranza",
       "name_default": "Emilio Carranza",
       "native": "Emilio Carranza",
       "type": "city",
@@ -1016,7 +1016,7 @@
     },
     {
       "id": 70334,
-      "name": "Estação Camacho",
+      "name": "Estación Camacho",
       "name_default": "Estación Camacho",
       "native": "Estación Camacho",
       "type": "city",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 70353,
-      "name": "Estação San José",
+      "name": "Estación San José",
       "name_default": "Estación San José",
       "native": "Estación San José",
       "type": "city",
@@ -1052,7 +1052,7 @@
     },
     {
       "id": 70363,
-      "name": "Estância de Ánimas",
+      "name": "Estancia de Ánimas",
       "name_default": "Estancia de Ánimas",
       "native": "Estancia de Ánimas",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 70362,
-      "name": "Estância de Guadalupe",
+      "name": "Estancia de Guadalupe",
       "name_default": "Estancia de Guadalupe",
       "native": "Estancia de Guadalupe",
       "type": "city",
@@ -1088,7 +1088,7 @@
     },
     {
       "id": 70406,
-      "name": "Florença",
+      "name": "Benito Juárez",
       "name_default": "Florencia",
       "native": "Florencia",
       "type": "adm2",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": 70554,
-      "name": "González Ortega",
+      "name": "Gonzales Ortega",
       "name_default": "Gonzales Ortega",
       "native": "Gonzales Ortega",
       "type": "city",
@@ -1268,7 +1268,7 @@
     },
     {
       "id": 70652,
-      "name": "Fazenda Nova",
+      "name": "Hacienda Nueva",
       "name_default": "Hacienda Nueva",
       "native": "Hacienda Nueva",
       "type": "city",
@@ -1286,7 +1286,7 @@
     },
     {
       "id": 70656,
-      "name": "Fazenda Toribio",
+      "name": "Hacienda Toribio",
       "name_default": "Hacienda Toribio",
       "native": "Hacienda Toribio",
       "type": "city",
@@ -1304,7 +1304,7 @@
     },
     {
       "id": 70685,
-      "name": "Fidalgo",
+      "name": "Hidalgo",
       "name_default": "Hidalgo",
       "native": "Hidalgo",
       "type": "city",
@@ -1322,7 +1322,7 @@
     },
     {
       "id": 70850,
-      "name": "Inácio Zaragoza",
+      "name": "Ignacio Zaragoza",
       "name_default": "Ignacio Zaragoza",
       "native": "Ignacio Zaragoza",
       "type": "city",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": 71018,
-      "name": "Jerez de García Salinas",
+      "name": "Jeréz",
       "name_default": "Jerez de García Salinas",
       "native": "Jerez de García Salinas",
       "type": "adm2",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": 71101,
-      "name": "José Maria Morelos",
+      "name": "José María Morelos",
       "name_default": "José María Morelos",
       "native": "José María Morelos",
       "type": "city",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": 71106,
-      "name": "José María Morelos e Pavón",
+      "name": "José María Morelos y Pavón",
       "name_default": "José María Morelos y Pavón",
       "native": "José María Morelos y Pavón",
       "type": "city",
@@ -1504,7 +1504,7 @@
       "id": 71130,
       "name": "Juchipila",
       "name_default": "Juchipila",
-      "native": "Juchiland",
+      "native": "Juchipila",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 71180,
-      "name": "A Baleia",
+      "name": "La Ballena",
       "name_default": "La Ballena",
       "native": "La Ballena",
       "type": "city",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": 71202,
-      "name": "A Capela",
+      "name": "La Capilla",
       "name_default": "La Capilla",
       "native": "La Capilla",
       "type": "city",
@@ -1556,7 +1556,7 @@
     },
     {
       "id": 71231,
-      "name": "A Conceição",
+      "name": "La Concepción",
       "name_default": "La Concepción",
       "native": "La Concepción",
       "type": "city",
@@ -1574,7 +1574,7 @@
     },
     {
       "id": 71294,
-      "name": "A Flórida",
+      "name": "La Florida",
       "name_default": "La Florida",
       "native": "La Florida",
       "type": "city",
@@ -1592,7 +1592,7 @@
     },
     {
       "id": 71345,
-      "name": "A Lagoa",
+      "name": "La Laguna",
       "name_default": "La Laguna",
       "native": "La Laguna",
       "type": "city",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": 71439,
-      "name": "A Pendência",
+      "name": "La Pendencia",
       "name_default": "La Pendencia",
       "native": "La Pendencia",
       "type": "city",
@@ -1646,7 +1646,7 @@
     },
     {
       "id": 71501,
-      "name": "A Tesoureira",
+      "name": "La Tesorera",
       "name_default": "La Tesorera",
       "native": "La Tesorera",
       "type": "city",
@@ -1664,7 +1664,7 @@
     },
     {
       "id": 71533,
-      "name": "A Vitória",
+      "name": "La Victoria",
       "name_default": "La Victoria",
       "native": "La Victoria",
       "type": "city",
@@ -1700,7 +1700,7 @@
     },
     {
       "id": 71550,
-      "name": "Lagoa Seca",
+      "name": "Laguna Seca",
       "name_default": "Laguna Seca",
       "native": "Laguna Seca",
       "type": "city",
@@ -1718,7 +1718,7 @@
     },
     {
       "id": 71582,
-      "name": "As Catarinas",
+      "name": "Las Catarinas",
       "name_default": "Las Catarinas",
       "native": "Las Catarinas",
       "type": "city",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": 71882,
-      "name": "Luís Moya",
+      "name": "Luis Moya",
       "name_default": "Luis Moya",
       "native": "Luis Moya",
       "type": "city",
@@ -1882,7 +1882,7 @@
       "id": 71947,
       "name": "Malpaso",
       "name_default": "Malpaso",
-      "native": "Travesura",
+      "native": "Malpaso",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1898,7 +1898,7 @@
     },
     {
       "id": 71983,
-      "name": "Maravilhas",
+      "name": "Maravillas",
       "name_default": "Maravillas",
       "native": "Maravillas",
       "type": "city",
@@ -1952,7 +1952,7 @@
     },
     {
       "id": 72108,
-      "name": "Mesquita do Ouro",
+      "name": "Mezquital del Oro",
       "name_default": "Mezquital del Oro",
       "native": "Mezquital del Oro",
       "type": "city",
@@ -2062,7 +2062,7 @@
       "id": 72244,
       "name": "Moyahua de Estrada",
       "name_default": "Moyahua de Estrada",
-      "native": "Moyahua de Road",
+      "native": "Moyahua de Estrada",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2078,7 +2078,7 @@
     },
     {
       "id": 72330,
-      "name": "Neves",
+      "name": "Nieves",
       "name_default": "Nieves",
       "native": "Nieves",
       "type": "adm2",
@@ -2222,7 +2222,7 @@
     },
     {
       "id": 72765,
-      "name": "Pedra Gorda",
+      "name": "Piedra Gorda",
       "name_default": "Piedra Gorda",
       "native": "Piedra Gorda",
       "type": "city",
@@ -2242,7 +2242,7 @@
       "id": 72780,
       "name": "Pinos",
       "name_default": "Pinos",
-      "native": "Patas",
+      "native": "Pinos",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2294,7 +2294,7 @@
     },
     {
       "id": 72875,
-      "name": "Poços de Gamboa",
+      "name": "Pozos de Gamboa",
       "name_default": "Pozos de Gamboa",
       "native": "Pozos de Gamboa",
       "type": "adm1",
@@ -2366,7 +2366,7 @@
     },
     {
       "id": 73139,
-      "name": "Rio de Medina",
+      "name": "Río de Medina",
       "name_default": "Río de Medina",
       "native": "Río de Medina",
       "type": "city",
@@ -2402,7 +2402,7 @@
     },
     {
       "id": 73176,
-      "name": "Rio Grande",
+      "name": "Río Grande",
       "name_default": "Río Grande",
       "native": "Río Grande",
       "type": "adm2",
@@ -2420,9 +2420,9 @@
     },
     {
       "id": 73205,
-      "name": "Santo Alto",
+      "name": "Sain Alto",
       "name_default": "Sain Alto",
-      "native": "Tengo Alto",
+      "native": "Sain Alto",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2492,7 +2492,7 @@
     },
     {
       "id": 73473,
-      "name": "São Cristóvão",
+      "name": "San Cristóbal",
       "name_default": "San Cristóbal",
       "native": "San Cristóbal",
       "type": "city",
@@ -2510,7 +2510,7 @@
     },
     {
       "id": 73699,
-      "name": "São Jerônimo",
+      "name": "San Jerónimo",
       "name_default": "San Jerónimo",
       "native": "San Jerónimo",
       "type": "city",
@@ -2564,7 +2564,7 @@
     },
     {
       "id": 73735,
-      "name": "São José de Lourdes",
+      "name": "San Jose de Lourdes",
       "name_default": "San Jose de Lourdes",
       "native": "San Jose de Lourdes",
       "type": "city",
@@ -2600,7 +2600,7 @@
     },
     {
       "id": 74066,
-      "name": "São Marcos",
+      "name": "San Marcos",
       "name_default": "San Marcos",
       "native": "San Marcos",
       "type": "city",
@@ -2618,7 +2618,7 @@
     },
     {
       "id": 74082,
-      "name": "São Martinho",
+      "name": "San Martin",
       "name_default": "San Martin",
       "native": "San Martín",
       "type": "city",
@@ -2636,7 +2636,7 @@
     },
     {
       "id": 74279,
-      "name": "São Paulo",
+      "name": "San Pablo",
       "name_default": "San Pablo",
       "native": "San Pablo",
       "type": "city",
@@ -2708,7 +2708,7 @@
     },
     {
       "id": 74808,
-      "name": "Santa Maria dos Anjos",
+      "name": "Santa María de los Ángeles",
       "name_default": "Santa María de los Ángeles",
       "native": "Santa María de los Ángeles",
       "type": "city",
@@ -2726,7 +2726,7 @@
     },
     {
       "id": 74826,
-      "name": "Santa Mônica",
+      "name": "Santa Mónica",
       "name_default": "Santa Mónica",
       "native": "Santa Mónica",
       "type": "city",
@@ -2962,7 +2962,7 @@
       "id": 75430,
       "name": "Tepetongo",
       "name_default": "Tepetongo",
-      "native": "Clanes",
+      "native": "Tepetongo",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3032,7 +3032,7 @@
     },
     {
       "id": 75545,
-      "name": "Terra Branca",
+      "name": "Tierra Blanca",
       "name_default": "Tierra Blanca",
       "native": "Tierra Blanca",
       "type": "city",
@@ -3140,7 +3140,7 @@
     },
     {
       "id": 76104,
-      "name": "Victor Rosales",
+      "name": "Víctor Rosales",
       "name_default": "Víctor Rosales",
       "native": "Víctor Rosales",
       "type": "city",
@@ -3158,7 +3158,7 @@
     },
     {
       "id": 76061,
-      "name": "Vila de Cos",
+      "name": "Villa de Cos",
       "name_default": "Villa de Cos",
       "native": "Villa de Cos",
       "type": "adm2",
@@ -3176,7 +3176,7 @@
     },
     {
       "id": 76002,
-      "name": "Vila García",
+      "name": "Villa García",
       "name_default": "Villa García",
       "native": "Villa García",
       "type": "adm2",
@@ -3194,7 +3194,7 @@
     },
     {
       "id": 76003,
-      "name": "Vila González Ortega",
+      "name": "Villa González Ortega",
       "name_default": "Villa González Ortega",
       "native": "Villa González Ortega",
       "type": "adm2",
@@ -3212,7 +3212,7 @@
     },
     {
       "id": 76012,
-      "name": "Vila Hidalgo",
+      "name": "Villa Hidalgo",
       "name_default": "Villa Hidalgo",
       "native": "Villa Hidalgo",
       "type": "adm2",
@@ -3248,7 +3248,7 @@
     },
     {
       "id": 76085,
-      "name": "Vila Nova",
+      "name": "Villanueva",
       "name_default": "Villanueva",
       "native": "Villanueva",
       "type": "adm2",

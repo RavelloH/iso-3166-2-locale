@@ -77,7 +77,7 @@
       "id": 54407,
       "name": "Bol",
       "name_default": "Bol",
-      "native": "On je bio",
+      "native": "Bol",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 54472,
-      "name": "Općina Dugi Rat",
+      "name": "Dugi Rat Općina",
       "name_default": "Dugi Rat Općina",
       "native": "Dugi Rat Općina",
       "type": "adm2",
@@ -273,9 +273,9 @@
     },
     {
       "id": 54519,
-      "name": "Grado Hvar",
+      "name": "Grad Hvar",
       "name_default": "Grad Hvar",
-      "native": "Stupanj HVAR -a",
+      "native": "Grad Hvar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 54520,
-      "name": "Graduado Imotski",
+      "name": "Grad Imotski",
       "name_default": "Grad Imotski",
       "native": "Grad Imotski",
       "type": "adm2",
@@ -309,9 +309,9 @@
     },
     {
       "id": 54532,
-      "name": "Grado Makarska",
+      "name": "Grad Makarska",
       "name_default": "Grad Makarska",
-      "native": "Makarska diploma",
+      "native": "Grad Makarska",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 54537,
-      "name": "Grado Omiš",
+      "name": "Grad Omiš",
       "name_default": "Grad Omiš",
       "native": "Grad Omiš",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 54548,
-      "name": "Grado Sinj",
+      "name": "Grad Sinj",
       "name_default": "Grad Sinj",
       "native": "Grad Sinj",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 54553,
-      "name": "Grad Supertar",
+      "name": "Grad Supetar",
       "name_default": "Grad Supetar",
       "native": "Grad Supetar",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 54555,
-      "name": "Grado Trogir",
+      "name": "Grad Trogir",
       "name_default": "Grad Trogir",
       "native": "Grad Trogir",
       "type": "adm2",
@@ -419,7 +419,7 @@
       "id": 54561,
       "name": "Grad Vis",
       "name_default": "Grad Vis",
-      "native": "Stupanj",
+      "native": "Grad Vis",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -435,7 +435,7 @@
     },
     {
       "id": 54564,
-      "name": "Grado Vrgorac",
+      "name": "Grad Vrgorac",
       "name_default": "Grad Vrgorac",
       "native": "Grad Vrgorac",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 54637,
-      "name": "Castillo de Gomilica",
+      "name": "Kaštel Gomilica",
       "name_default": "Kaštel Gomilica",
       "native": "Kaštel Gomilica",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 54638,
-      "name": "Castillo Kambelovac",
+      "name": "Kaštel Kambelovac",
       "name_default": "Kaštel Kambelovac",
       "native": "Kaštel Kambelovac",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 54640,
-      "name": "Castillo Novi",
+      "name": "Kaštel Novi",
       "name_default": "Kaštel Novi",
       "native": "Kaštel Novi",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 54642,
-      "name": "Castillo de Štafilić",
+      "name": "Kaštel Štafilić",
       "name_default": "Kaštel Štafilić",
       "native": "Kaštel Štafilić",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 54641,
-      "name": "Castillo Stari",
+      "name": "Kaštel Stari",
       "name_default": "Kaštel Stari",
       "native": "Kaštel Stari",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 54772,
-      "name": "Distrito",
+      "name": "Okrug",
       "name_default": "Okrug",
       "native": "Okrug",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 54773,
-      "name": "Distrito de Gornji",
+      "name": "Okrug Gornji",
       "name_default": "Okrug Gornji",
       "native": "Okrug Gornji",
       "type": "adm2",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 55035,
-      "name": "Solta",
+      "name": "Šolta",
       "name_default": "Šolta",
       "native": "Šolta",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 54904,
-      "name": "Dividir",
+      "name": "Split",
       "name_default": "Split",
       "native": "Split",
       "type": "adm1",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 54923,
-      "name": "Superar",
+      "name": "Supetar",
       "name_default": "Supetar",
       "native": "Supetar",
       "type": "adm2",
@@ -1391,7 +1391,7 @@
       "id": 54945,
       "name": "Turjaci",
       "name_default": "Turjaci",
-      "native": "Travnjak",
+      "native": "Turjaci",
       "type": "city",
       "level": null,
       "parent_id": null,

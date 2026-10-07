@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79964,
-      "name": "Alto de Jesus",
+      "name": "Alto de Jesús",
       "name_default": "Alto de Jesús",
       "native": "Alto de Jesús",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80024,
-      "name": "Calidônia",
+      "name": "Calidonia",
       "name_default": "Calidonia",
       "native": "Calidonia",
       "type": "adm3",
@@ -221,7 +221,7 @@
       "id": 80026,
       "name": "Calovébora",
       "name_default": "Calovébora",
-      "native": "Calvo",
+      "native": "Calovébora",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -294,7 +294,7 @@
       "name": "Distrito de Atalaya",
       "name_default": "Distrito de Atalaya",
       "native": "Distrito de Atalaya",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11321,
@@ -417,7 +417,7 @@
     },
     {
       "id": 80136,
-      "name": "Distrito de São Francisco",
+      "name": "Distrito de San Francisco",
       "name_default": "Distrito de San Francisco",
       "native": "Distrito de San Francisco",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 80150,
-      "name": "O Barrito",
+      "name": "El Barrito",
       "name_default": "El Barrito",
       "native": "El Barrito",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 80182,
-      "name": "O Marañón",
+      "name": "El Marañón",
       "name_default": "El Marañón",
       "native": "El Marañón",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80183,
-      "name": "El Maria",
+      "name": "El María",
       "name_default": "El María",
       "native": "El María",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80187,
-      "name": "O Pântano",
+      "name": "El Pantano",
       "name_default": "El Pantano",
       "native": "El Pantano",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 80190,
-      "name": "O Peñón",
+      "name": "El Peñón",
       "name_default": "El Peñón",
       "native": "El Peñón",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80191,
-      "name": "O Picador",
+      "name": "El Picador",
       "name_default": "El Picador",
       "native": "El Picador",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80194,
-      "name": "O Potrero",
+      "name": "El Potrero",
       "name_default": "El Potrero",
       "native": "El Potrero",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80199,
-      "name": "O Rincón",
+      "name": "El Rincón",
       "name_default": "El Rincón",
       "native": "El Rincón",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80205,
-      "name": "O Uvito",
+      "name": "El Uvito",
       "name_default": "El Uvito",
       "native": "El Uvito",
       "type": "section",
@@ -723,7 +723,7 @@
     },
     {
       "id": 80223,
-      "name": "Guaramal",
+      "name": "Guarumal",
       "name_default": "Guarumal",
       "native": "Guarumal",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80258,
-      "name": "A Lagoa",
+      "name": "La Laguna",
       "name_default": "La Laguna",
       "native": "La Laguna",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 80269,
-      "name": "A Montañuela",
+      "name": "La Montañuela",
       "name_default": "La Montañuela",
       "native": "La Montañuela",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 80281,
-      "name": "A Yeguada",
+      "name": "La Yeguada",
       "name_default": "La Yeguada",
       "native": "La Yeguada",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 80291,
-      "name": "Las Guias Abajo",
+      "name": "Las Guías Abajo",
       "name_default": "Las Guías Abajo",
       "native": "Las Guías Abajo",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80331,
-      "name": "Os Castelos",
+      "name": "Los Castillos",
       "name_default": "Los Castillos",
       "native": "Los Castillos",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80349,
-      "name": "Distrito de Mariato",
+      "name": "Mariato",
       "name_default": "Mariato",
       "native": "Distrito de Mariato",
       "type": "district",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 80411,
-      "name": "Pedras Gordas",
+      "name": "Piedras Gordas",
       "name_default": "Piedras Gordas",
       "native": "Piedras Gordas",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 80421,
       "name": "Ponuga",
       "name_default": "Ponuga",
-      "native": "Oferta",
+      "native": "Ponuga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 80436,
-      "name": "Porto Vidal",
+      "name": "Puerto Vidal",
       "name_default": "Puerto Vidal",
       "native": "Puerto Vidal",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80466,
-      "name": "Rio de Jesus",
+      "name": "Río de Jesús",
       "name_default": "Río de Jesús",
       "native": "Río de Jesús",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 80460,
-      "name": "Rio Grande",
+      "name": "Río Grande",
       "name_default": "Río Grande",
       "native": "Río Grande",
       "type": "adm3",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 80454,
-      "name": "Rodeio Velho",
+      "name": "Rodeo Viejo",
       "name_default": "Rodeo Viejo",
       "native": "Rodeo Viejo",
       "type": "adm3",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 80473,
-      "name": "São Bartolo",
+      "name": "San Bartolo",
       "name_default": "San Bartolo",
       "native": "San Bartolo",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 80477,
-      "name": "São Francisco",
+      "name": "San Francisco",
       "name_default": "San Francisco",
       "native": "San Francisco",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 80484,
-      "name": "São João",
+      "name": "San Juan",
       "name_default": "San Juan",
       "native": "San Juan",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80488,
-      "name": "São Marcelo",
+      "name": "San Marcelo",
       "name_default": "San Marcelo",
       "native": "San Marcelo",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 80500,
-      "name": "Santa Fé",
+      "name": "Santa Fe",
       "name_default": "Santa Fe",
       "native": "Santa Fe",
       "type": "adm2",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 80508,
-      "name": "Santiago de Veraguas",
+      "name": "Santiago de Veráguas",
       "name_default": "Santiago de Veraguas",
       "native": "Santiago de Veraguas",
       "type": "adm1",
@@ -1319,7 +1319,7 @@
       "id": 80516,
       "name": "Soná",
       "name_default": "Soná",
-      "native": "Hijo",
+      "native": "Soná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 80519,
-      "name": "Tebário",
+      "name": "Tebario",
       "name_default": "Tebario",
       "native": "Tebario",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 80542,
-      "name": "Vigui",
+      "name": "Viguí",
       "name_default": "Viguí",
       "native": "Viguí",
       "type": "adm3",

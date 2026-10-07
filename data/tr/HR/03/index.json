@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54429,
-      "name": "Budaşevo",
+      "name": "Budaševo",
       "name_default": "Budaševo",
       "native": "Budaševo",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 54516,
-      "name": "Mezun Glina",
+      "name": "Grad Glina",
       "name_default": "Grad Glina",
       "native": "Grad Glina",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 54529,
-      "name": "Mezun Kutina",
+      "name": "Grad Kutina",
       "name_default": "Grad Kutina",
       "native": "Grad Kutina",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 54536,
-      "name": "Mezun Novska",
+      "name": "Grad Novska",
       "name_default": "Grad Novska",
       "native": "Grad Novska",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 54543,
-      "name": "Mezun Petrinja",
+      "name": "Grad Petrinja",
       "name_default": "Grad Petrinja",
       "native": "Grad Petrinja",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 54549,
-      "name": "Mezun Sisak",
+      "name": "Grad Sisak",
       "name_default": "Grad Sisak",
       "native": "Grad Sisak",
       "type": "adm1",
@@ -237,7 +237,7 @@
     },
     {
       "id": 54600,
-      "name": "Hrvatska Kostajnica",
+      "name": "Kostaniçe",
       "name_default": "Hrvatska Kostajnica",
       "native": "Hrvatska Kostajnica",
       "type": "adm2",
@@ -257,7 +257,7 @@
       "id": 54676,
       "name": "Kutina",
       "name_default": "Kutina",
-      "native": "Svrbež",
+      "native": "Kutina",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -327,9 +327,9 @@
     },
     {
       "id": 54768,
-      "name": "Yenişka",
+      "name": "Novska",
       "name_default": "Novska",
-      "native": "Studeni",
+      "native": "Novska",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 54859,
-      "name": "Cumhuriyet",
+      "name": "Repušnica",
       "name_default": "Repušnica",
       "native": "Repušnica",
       "type": "city",

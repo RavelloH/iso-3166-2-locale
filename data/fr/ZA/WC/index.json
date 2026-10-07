@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131016,
-      "name": "Albertine",
+      "name": "Albertina",
       "name_default": "Albertina",
       "native": "Albertine",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 131025,
-      "name": "Atlantide",
+      "name": "Atlantis",
       "name_default": "Atlantis",
       "native": "Atlantis",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 131030,
-      "name": "Beaufort Ouest",
+      "name": "Beaufort West",
       "name_default": "Beaufort West",
       "native": "Beaufort West",
       "type": "adm2",
@@ -149,7 +149,7 @@
       "id": 131034,
       "name": "Bergvliet",
       "name_default": "Bergvliet",
-      "native": "Mountain flight",
+      "native": "Bergvliet",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 131056,
-      "name": "Calédon",
+      "name": "Caledon",
       "name_default": "Caledon",
       "native": "Caledon",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 131060,
-      "name": "Municipalité du district de Cape Winelands",
+      "name": "Cape Winelands",
       "name_default": "Cape Winelands",
       "native": "Cape Winelands District Municipality",
       "type": "municipality",
@@ -255,7 +255,7 @@
     },
     {
       "id": 131065,
-      "name": "Municipalité du district central de Karoo",
+      "name": "Central Karoo",
       "name_default": "Central Karoo",
       "native": "Central Karoo District Municipality",
       "type": "municipality",
@@ -273,7 +273,7 @@
     },
     {
       "id": 131067,
-      "name": "Cérès",
+      "name": "Ceres",
       "name_default": "Ceres",
       "native": "Ceres",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 131070,
-      "name": "Ville du Cap",
+      "name": "City of Cape Town",
       "name_default": "City of Cape Town",
       "native": "City of Cape Town",
       "type": "adm1",
@@ -365,7 +365,7 @@
       "id": 131082,
       "name": "De Rust",
       "name_default": "De Rust",
-      "native": "Tranquility",
+      "native": "De Rust",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -651,7 +651,7 @@
     },
     {
       "id": 131186,
-      "name": "Mooresburg",
+      "name": "Moorreesburg",
       "name_default": "Moorreesburg",
       "native": "Moorreesburg",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 131200,
-      "name": "Nouvelles Terres",
+      "name": "Newlands",
       "name_default": "Newlands",
       "native": "Newlands",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 131211,
-      "name": "Municipalité du district d'Overberg",
+      "name": "Overberg",
       "name_default": "Overberg",
       "native": "Overberg District Municipality",
       "type": "municipality",
@@ -813,7 +813,7 @@
     },
     {
       "id": 131238,
-      "name": "Retraite",
+      "name": "Retreat",
       "name_default": "Retreat",
       "native": "Retreat",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 131268,
-      "name": "Plage du coucher du soleil",
+      "name": "Sunset Beach",
       "name_default": "Sunset Beach",
       "native": "Sunset Beach",
       "type": "section",
@@ -995,7 +995,7 @@
       "id": 131295,
       "name": "Vredendal",
       "name_default": "Vredendal",
-      "native": "Peace",
+      "native": "Vredendal",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 131304,
-      "name": "Municipalité du district de la côte ouest",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast District Municipality",
       "type": "municipality",
@@ -1067,7 +1067,7 @@
       "id": 131317,
       "name": "Zoar",
       "name_default": "Zoar",
-      "native": "Joke",
+      "native": "Zoar",
       "type": "city",
       "level": null,
       "parent_id": null,

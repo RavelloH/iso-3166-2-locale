@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104956,
-      "name": "Al Ḩhāk",
+      "name": "Al Ḩarāk",
       "name_default": "Al Ḩarāk",
       "native": "الحراك",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 104949,
-      "name": "El Müzeyrib",
+      "name": "Al Muzayrīb",
       "name_default": "Al Muzayrīb",
       "native": "المزيريب",
       "type": "adm3",
@@ -93,9 +93,9 @@
     },
     {
       "id": 104963,
-      "name": "El-Sanamayn İlçesi",
+      "name": "Al-Sanamayn",
       "name_default": "Al-Sanamayn",
-      "native": "مديرية الصنمين",
+      "native": "منطقة الصنمين",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 104990,
-      "name": "Dar‘ā",
+      "name": "Dera",
       "name_default": "Dar‘ā",
       "native": "درعا",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104996,
-      "name": "Gabāghib",
+      "name": "Ghabāghib",
       "name_default": "Ghabāghib",
       "native": "غباغب",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 105004,
-      "name": "Izra İlçesi",
+      "name": "Izra",
       "name_default": "Izra",
       "native": "منطقة إزرع",
       "type": "district",
@@ -255,7 +255,7 @@
     },
     {
       "id": 105005,
-      "name": "İzra'",
+      "name": "Izra‘",
       "name_default": "Izra‘",
       "native": "إزرع",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105014,
-      "name": "Jasim",
+      "name": "Jassem",
       "name_default": "Jāsim",
       "native": "جاسم",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105037,
-      "name": "Nava",
+      "name": "Neva",
       "name_default": "Nawá",
       "native": "نوا",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105073,
-      "name": "Ţafas",
+      "name": "Tafas",
       "name_default": "Ţafas",
       "native": "طفس",
       "type": "city",

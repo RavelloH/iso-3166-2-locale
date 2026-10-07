@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79964,
-      "name": "Alto de Jesus",
+      "name": "Alto de Jesús",
       "name_default": "Alto de Jesús",
       "native": "Alto de Jesús",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 79970,
-      "name": "Arenaoù",
+      "name": "Arenas",
       "name_default": "Arenas",
       "native": "Arena",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80024,
-      "name": "Kalidonia",
+      "name": "Calidonia",
       "name_default": "Calidonia",
       "native": "Calidonia",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80025,
-      "name": "Kalobre",
+      "name": "Calobre",
       "name_default": "Calobre",
       "native": "Calobre",
       "type": "adm2",
@@ -221,7 +221,7 @@
       "id": 80026,
       "name": "Calovébora",
       "name_default": "Calovébora",
-      "native": "Calvo",
+      "native": "Calovébora",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 80031,
-      "name": "Kanto del Llano",
+      "name": "Canto del Llano",
       "name_default": "Canto del Llano",
       "native": "Canto del Llano",
       "type": "adm3",
@@ -294,7 +294,7 @@
       "name": "Distrito de Atalaya",
       "name_default": "Distrito de Atalaya",
       "native": "Distrito de Atalaya",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11321,
@@ -399,7 +399,7 @@
     },
     {
       "id": 80134,
-      "name": "Distrito de Río de Jesus",
+      "name": "Distrito de Río de Jesús",
       "name_default": "Distrito de Río de Jesús",
       "native": "Distrito de Río de Jesús",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80136,
-      "name": "Rannvro San Francisco",
+      "name": "Distrito de San Francisco",
       "name_default": "Distrito de San Francisco",
       "native": "Distrito de San Francisco",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80349,
-      "name": "Distrig Mariato",
+      "name": "Mariato",
       "name_default": "Mariato",
       "native": "Distrito de Mariato",
       "type": "district",
@@ -1085,7 +1085,7 @@
       "id": 80421,
       "name": "Ponuga",
       "name_default": "Ponuga",
-      "native": "Oferta",
+      "native": "Ponuga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 80446,
-      "name": "Kebrada de Oro",
+      "name": "Quebrada de Oro",
       "name_default": "Quebrada de Oro",
       "native": "Quebrada de Oro",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80466,
-      "name": "Río de Jesus",
+      "name": "Río de Jesús",
       "name_default": "Río de Jesús",
       "native": "Río de Jesús",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 80500,
-      "name": "Santa Fé",
+      "name": "Santa Fe",
       "name_default": "Santa Fe",
       "native": "Santa Fe",
       "type": "adm2",
@@ -1319,7 +1319,7 @@
       "id": 80516,
       "name": "Soná",
       "name_default": "Soná",
-      "native": "Hijo",
+      "native": "Soná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 80542,
-      "name": "Gwelet",
+      "name": "Viguí",
       "name_default": "Viguí",
       "native": "Viguí",
       "type": "adm3",

@@ -147,7 +147,7 @@
     },
     {
       "id": 49396,
-      "name": "东汉尼",
+      "name": "East Hanney",
       "name_default": "East Hanney",
       "native": "East Hanney",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50023,
-      "name": "亨格福德",
+      "name": "亨格福特",
       "name_default": "Hungerford",
       "native": "Hungerford",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 50171,
       "name": "金斯克莱尔",
       "name_default": "Kingsclere",
-      "native": "Kingscere",
+      "native": "Kingsclere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 50230,
-      "name": "兰伯恩",
+      "name": "兰姆博恩",
       "name_default": "Lambourn",
       "native": "Lambourn",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50706,
-      "name": "纽伯里",
+      "name": "纽布利",
       "name_default": "Newbury",
       "native": "Newbury",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 51586,
-      "name": "萨彻姆",
+      "name": "莱彻汉姆",
       "name_default": "Thatcham",
       "native": "Thatcham",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 51590,
-      "name": "泰阿莱",
+      "name": "提奥尔",
       "name_default": "Theale",
       "native": "Theale",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51745,
-      "name": "旺蒂奇",
-      "name_default": "Wantage",
-      "native": "Wantage",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18505,
-      "latitude": "51.58846000",
-      "longitude": "-1.42565000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q953957",
-      "country_code": "GB",
-      "state_code": "WBK",
-      "state_id": 2471,
-      "country_id": 232
-    },
-    {
       "id": 51806,
-      "name": "西伯克郡",
+      "name": "West Berkshire",
       "name_default": "West Berkshire",
       "native": "West Berkshire",
       "type": "area",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51821,
-      "name": "西伊尔斯利",
+      "name": "West Ilsley",
       "name_default": "West Ilsley",
       "native": "West Ilsley",
       "type": "adm1",

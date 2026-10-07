@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 89926,
-      "name": "Aleksandru I. Kuza",
+      "name": "Alexandru I. Cuza",
       "name_default": "Alexandru I. Cuza",
       "native": "Alexandru I. Cuza",
       "type": "adm2",
@@ -95,7 +95,7 @@
       "id": 89997,
       "name": "Aroneanu",
       "name_default": "Aroneanu",
-      "native": "Ei vor",
+      "native": "Aroneanu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 90526,
-      "name": "Baltaži",
+      "name": "Bălţaţi",
       "name_default": "Bălţaţi",
       "native": "Bălţaţi",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 90325,
-      "name": "Bradicești",
+      "name": "Brădicești",
       "name_default": "Brădicești",
       "native": "Brădicești",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 90689,
-      "name": "Kiščareni",
+      "name": "Chișcăreni",
       "name_default": "Chișcăreni",
       "native": "Chișcăreni",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 90848,
-      "name": "Općina Alexandru I. Cuza",
+      "name": "Comuna Alexandru I. Cuza",
       "name_default": "Comuna Alexandru I. Cuza",
       "native": "Comuna Alexandru I. Cuza",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 91227,
-      "name": "Comuna Bălţaţu",
+      "name": "Comuna Bălţaţi",
       "name_default": "Comuna Bălţaţi",
       "native": "Comuna Bălţaţi",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 90999,
-      "name": "Općina Bivolari",
+      "name": "Comuna Bivolari",
       "name_default": "Comuna Bivolari",
       "native": "Comuna Bivolari",
       "type": "adm2",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 91644,
-      "name": "Općina Dobrovăţ",
+      "name": "Comuna Dobrovăţ",
       "name_default": "Comuna Dobrovăţ",
       "native": "Comuna Dobrovăţ",
       "type": "city",
@@ -1173,9 +1173,9 @@
     },
     {
       "id": 91900,
-      "name": "Općina Gorban",
+      "name": "Comuna Gorban",
       "name_default": "Comuna Gorban",
-      "native": "Utilizarea lui Gorban",
+      "native": "Comuna Gorban",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1409,7 +1409,7 @@
       "id": 92211,
       "name": "Comuna Lungani",
       "name_default": "Comuna Lungani",
-      "native": "Conga",
+      "native": "Comuna Lungani",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 92300,
-      "name": "Općina Miroslava",
+      "name": "Comuna Miroslava",
       "name_default": "Comuna Miroslava",
       "native": "Comuna Miroslava",
       "type": "adm2",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 92320,
-      "name": "Općina Mogoşeşti-Siret",
+      "name": "Comuna Mogoşeşti-Siret",
       "name_default": "Comuna Mogoşeşti-Siret",
       "native": "Comuna Mogoşeşti-Siret",
       "type": "adm2",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 92351,
-      "name": "Comuna Moćca",
+      "name": "Comuna Moţca",
       "name_default": "Comuna Moţca",
       "native": "Comuna Moţca",
       "type": "adm2",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 92658,
-      "name": "Comuna Popričani",
+      "name": "Comuna Popricani",
       "name_default": "Comuna Popricani",
       "native": "Comuna Popricani",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 92680,
-      "name": "Općina Probota",
+      "name": "Comuna Probota",
       "name_default": "Comuna Probota",
       "native": "Comuna Probota",
       "type": "adm2",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 92787,
-      "name": "Româneşti",
+      "name": "Comuna Româneşti",
       "name_default": "Comuna Româneşti",
       "native": "Comuna Româneşti",
       "type": "adm2",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 92892,
-      "name": "Comuna Scobinti",
+      "name": "Comuna Scobinţi",
       "name_default": "Comuna Scobinţi",
       "native": "Comuna Scobinţi",
       "type": "city",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 93528,
-      "name": "Općina Šipote",
+      "name": "Comuna Şipote",
       "name_default": "Comuna Şipote",
       "native": "Comuna Şipote",
       "type": "adm2",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 93578,
-      "name": "Comuna Ţućora",
+      "name": "Comuna Ţuţora",
       "name_default": "Comuna Ţuţora",
       "native": "Comuna Ţuţora",
       "type": "adm2",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 93353,
-      "name": "Općina Viktorija",
+      "name": "Comuna Victoria",
       "name_default": "Comuna Victoria",
       "native": "Comuna Victoria",
       "type": "city",
@@ -2667,7 +2667,7 @@
     },
     {
       "id": 94241,
-      "name": "Fantânele",
+      "name": "Fântânele",
       "name_default": "Fântânele",
       "native": "Fântânele",
       "type": "adm2",
@@ -2901,7 +2901,7 @@
     },
     {
       "id": 94602,
-      "name": "Halučešti",
+      "name": "Hălăuceşti",
       "name_default": "Hălăuceşti",
       "native": "Hălăuceşti",
       "type": "adm2",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 94607,
-      "name": "Stari Hărmăneștii",
+      "name": "Hărmăneștii Vechi",
       "name_default": "Hărmăneștii Vechi",
       "native": "Hărmăneștii Vechi",
       "type": "city",
@@ -3065,7 +3065,7 @@
       "id": 94564,
       "name": "Horleşti",
       "name_default": "Horleşti",
-      "native": "Smuls",
+      "native": "Horleşti",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3081,7 +3081,7 @@
     },
     {
       "id": 94630,
-      "name": "Jaşi",
+      "name": "Iaşi",
       "name_default": "Iaşi",
       "native": "Iaşi",
       "type": "adm1",
@@ -3137,7 +3137,7 @@
       "id": 94683,
       "name": "Ipatele",
       "name_default": "Ipatele",
-      "native": "Ascunde",
+      "native": "Ipatele",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3281,7 +3281,7 @@
       "id": 94880,
       "name": "Lungani",
       "name_default": "Lungani",
-      "native": "Ce",
+      "native": "Lungani",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 95261,
-      "name": "Manastirea",
+      "name": "Mănăstirea",
       "name_default": "Mănăstirea",
       "native": "Mănăstirea",
       "type": "city",
@@ -3333,7 +3333,7 @@
     },
     {
       "id": 94940,
-      "name": "Maksut",
+      "name": "Maxut",
       "name_default": "Maxut",
       "native": "Maxut",
       "type": "city",
@@ -3459,9 +3459,9 @@
     },
     {
       "id": 95088,
-      "name": "Mošna",
+      "name": "Moşna",
       "name_default": "Moşna",
-      "native": "Mopping",
+      "native": "Moşna",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 95092,
-      "name": "Moćca",
+      "name": "Moţca",
       "name_default": "Moţca",
       "native": "Moţca",
       "type": "adm2",
@@ -3531,7 +3531,7 @@
     },
     {
       "id": 95150,
-      "name": "Općina Iaşi",
+      "name": "Municipiul Iaşi",
       "name_default": "Municipiul Iaşi",
       "native": "Municipiul Iaşi",
       "type": "adm1",
@@ -3549,7 +3549,7 @@
     },
     {
       "id": 95166,
-      "name": "Općina Paşcani",
+      "name": "Municipiul Paşcani",
       "name_default": "Municipiul Paşcani",
       "native": "Municipiul Paşcani",
       "type": "adm2",
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 95531,
-      "name": "Grad Hârlãu",
+      "name": "Oraş Hârlãu",
       "name_default": "Oraş Hârlãu",
       "native": "Oraş Hârlãu",
       "type": "city",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 95569,
-      "name": "Grad Podu Iloaiei",
+      "name": "Oraş Podu Iloaiei",
       "name_default": "Oraş Podu Iloaiei",
       "native": "Oraş Podu Iloaiei",
       "type": "city",
@@ -3621,7 +3621,7 @@
     },
     {
       "id": 95607,
-      "name": "Grad Târgu Frumos",
+      "name": "Oraş Târgu Frumos",
       "name_default": "Oraş Târgu Frumos",
       "native": "Oraş Târgu Frumos",
       "type": "city",
@@ -3675,7 +3675,7 @@
     },
     {
       "id": 95998,
-      "name": "Parcovaci",
+      "name": "Pârcovaci",
       "name_default": "Pârcovaci",
       "native": "Pârcovaci",
       "type": "city",
@@ -3693,7 +3693,7 @@
     },
     {
       "id": 95718,
-      "name": "Paškani",
+      "name": "Paşcani",
       "name_default": "Paşcani",
       "native": "Paşcani",
       "type": "adm2",
@@ -3873,7 +3873,7 @@
     },
     {
       "id": 95909,
-      "name": "Popešti",
+      "name": "Popești",
       "name_default": "Popeşti",
       "native": "Popeşti",
       "type": "adm2",
@@ -3891,9 +3891,9 @@
     },
     {
       "id": 95919,
-      "name": "Popričani",
+      "name": "Popricani",
       "name_default": "Popricani",
-      "native": "Popry",
+      "native": "Popricani",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -3981,7 +3981,7 @@
     },
     {
       "id": 96213,
-      "name": "Razboieni",
+      "name": "Războieni",
       "name_default": "Războieni",
       "native": "Războieni",
       "type": "city",
@@ -4073,7 +4073,7 @@
       "id": 96259,
       "name": "Satu Nou",
       "name_default": "Satu Nou",
-      "native": "Un nou",
+      "native": "Satu Nou",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4107,7 +4107,7 @@
     },
     {
       "id": 96265,
-      "name": "Šeja",
+      "name": "Scheia",
       "name_default": "Scheia",
       "native": "Scheia",
       "type": "city",
@@ -4143,7 +4143,7 @@
     },
     {
       "id": 96277,
-      "name": "Scobinti",
+      "name": "Scobinţi",
       "name_default": "Scobinţi",
       "native": "Scobinţi",
       "type": "city",
@@ -4179,7 +4179,7 @@
     },
     {
       "id": 97057,
-      "name": "Šipote",
+      "name": "Şipote",
       "name_default": "Şipote",
       "native": "Şipote",
       "type": "adm2",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": 96371,
-      "name": "Slobozija",
+      "name": "Slobozia",
       "name_default": "Slobozia",
       "native": "Slobozia",
       "type": "city",
@@ -4269,7 +4269,7 @@
     },
     {
       "id": 96431,
-      "name": "Stiklăria",
+      "name": "Sticlăria",
       "name_default": "Sticlăria",
       "native": "Sticlăria",
       "type": "city",
@@ -4503,7 +4503,7 @@
     },
     {
       "id": 106121,
-      "name": "Tomešti",
+      "name": "Tomeşti",
       "name_default": "Tomeşti",
       "native": "Tomeşti",
       "type": "adm2",
@@ -4523,7 +4523,7 @@
       "id": 106129,
       "name": "Topile",
       "name_default": "Topile",
-      "native": "Scoate.",
+      "native": "Topile",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 106143,
-      "name": "Totoesti",
+      "name": "Totoești",
       "name_default": "Totoești",
       "native": "Totoești",
       "type": "city",
@@ -4575,7 +4575,7 @@
     },
     {
       "id": 97110,
-      "name": "Ţućora",
+      "name": "Ţuţora",
       "name_default": "Ţuţora",
       "native": "Ţuţora",
       "type": "adm2",
@@ -4683,7 +4683,7 @@
     },
     {
       "id": 96805,
-      "name": "Viktorija",
+      "name": "Victoria",
       "name_default": "Victoria",
       "native": "Victoria",
       "type": "adm2",

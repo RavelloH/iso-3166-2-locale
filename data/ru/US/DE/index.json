@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111974,
-      "name": "Медведь",
+      "name": "Бэр",
       "name_default": "Bear",
       "native": "Bear",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 112098,
-      "name": "Беллефонте",
+      "name": "Белфонт",
       "name_default": "Bellefonte",
       "native": "Bellefonte",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 112401,
-      "name": "Лезвия",
+      "name": "Блейдс",
       "name_default": "Blades",
       "native": "Blades",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 112772,
-      "name": "Бриджвилль",
+      "name": "Бриджвилл",
       "name_default": "Bridgeville",
       "native": "Bridgeville",
       "type": "city",
@@ -363,7 +363,7 @@
       "id": 113261,
       "name": "Камден",
       "name_default": "Camden",
-      "native": "Cam",
+      "native": "Camden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -379,7 +379,7 @@
     },
     {
       "id": 113914,
-      "name": "Чесволд",
+      "name": "Чезуолд",
       "name_default": "Cheswold",
       "native": "Cheswold",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 115217,
-      "name": "Дельмар",
+      "name": "Делмар",
       "name_default": "Delmar",
       "native": "Delmar",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 115445,
-      "name": "Дувр",
+      "name": "Довер",
       "name_default": "Dover",
       "native": "Dover",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115847,
-      "name": "Эджмур",
+      "name": "Эджмор",
       "name_default": "Edgemoor",
       "native": "Edgemoor",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 117245,
-      "name": "Глазго",
+      "name": "Гласгоу",
       "name_default": "Glasgow",
       "native": "Glasgow",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 118401,
-      "name": "Хайленд Эйкерс",
+      "name": "Хайленд-Эйкрс",
       "name_default": "Highland Acres",
       "native": "Highland Acres",
       "type": "city",
@@ -669,7 +669,7 @@
       "id": 118503,
       "name": "Хокессин",
       "name_default": "Hockessin",
-      "native": "Hockess",
+      "native": "Hockessin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -685,7 +685,7 @@
     },
     {
       "id": 119488,
-      "name": "Кент Эйкерс",
+      "name": "Кент-Эйкрс",
       "name_default": "Kent Acres",
       "native": "Kent Acres",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 120748,
-      "name": "Длинная шея",
+      "name": "Лонг-Нек",
       "name_default": "Long Neck",
       "native": "Long Neck",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 121900,
-      "name": "Миллсборо",
+      "name": "Милсборо",
       "name_default": "Millsboro",
       "native": "Millsboro",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 122683,
-      "name": "Новый замок",
+      "name": "Нью-Касл",
       "name_default": "New Castle",
       "native": "New Castle",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 123338,
-      "name": "Вид на океан",
+      "name": "Ошен-Вью",
       "name_default": "Ocean View",
       "native": "Ocean View",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 124195,
-      "name": "Долина Пайк-Крик",
+      "name": "Пайк-Крик-Валли",
       "name_default": "Pike Creek Valley",
       "native": "Pike Creek Valley",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 125342,
-      "name": "Деревня Родни",
+      "name": "Родни-Виллидж",
       "name_default": "Rodney Village",
       "native": "Rodney Village",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 126132,
-      "name": "Селбивилль",
+      "name": "Селбивилл",
       "name_default": "Selbyville",
       "native": "Selbyville",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 126534,
-      "name": "Смирна",
+      "name": "Смерна",
       "name_default": "Smyrna",
       "native": "Smyrna",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 129326,
-      "name": "Усадьба Уилмингтон",
+      "name": "Уилмингтон-Манор",
       "name_default": "Wilmington Manor",
       "native": "Wilmington Manor",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 129557,
-      "name": "Вудсайд Ист",
+      "name": "Вудсайд-Ист",
       "name_default": "Woodside East",
       "native": "Woodside East",
       "type": "city",

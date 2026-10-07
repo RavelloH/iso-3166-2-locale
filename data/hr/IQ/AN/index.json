@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134552,
-      "name": "Ana",
+      "name": "‘Anah",
       "name_default": "‘Anah",
       "native": "عنة",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 134553,
-      "name": "‘Anat al-Qadimah",
+      "name": "‘Anat al Qadīmah",
       "name_default": "‘Anat al Qadīmah",
       "native": "عنة القديمة",
       "type": "destroyed",
@@ -93,7 +93,7 @@
     },
     {
       "id": 134478,
-      "name": "Al Fallujah",
+      "name": "Al Fallūjah",
       "name_default": "Al Fallūjah",
       "native": "الفلوجة",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 134548,
-      "name": "Hadita",
+      "name": "Ḩadīthah",
       "name_default": "Ḩadīthah",
       "native": "حديث",
       "type": "adm2",
@@ -165,9 +165,9 @@
     },
     {
       "id": 134514,
-      "name": "Hit",
+      "name": "Hīt",
       "name_default": "Hīt",
-      "native": "يضرب",
+      "native": "هيت",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 134515,
-      "name": "Okrug Hīt",
+      "name": "Hīt District",
       "name_default": "Hīt District",
       "native": "منطقة هيت",
       "type": "district",
@@ -219,7 +219,7 @@
     },
     {
       "id": 134535,
-      "name": "Rawah",
+      "name": "Rāwah",
       "name_default": "Rāwah",
       "native": "راوة",
       "type": "adm2",

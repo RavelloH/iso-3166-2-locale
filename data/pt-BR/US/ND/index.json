@@ -255,7 +255,7 @@
       "id": 111287,
       "name": "Amidon",
       "name_default": "Amidon",
-      "native": "Starch",
+      "native": "Amidon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -289,7 +289,7 @@
     },
     {
       "id": 111962,
-      "name": "Praia",
+      "name": "Beach",
       "name_default": "Beach",
       "native": "Beach",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 112632,
-      "name": "Arqueiro",
+      "name": "Bowman",
       "name_default": "Bowman",
       "native": "Bowman",
       "type": "city",
@@ -453,7 +453,7 @@
       "id": 113326,
       "name": "Cando",
       "name_default": "Cando",
-      "native": "When",
+      "native": "Cando",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -523,7 +523,7 @@
     },
     {
       "id": 113581,
-      "name": "Cavaleiro",
+      "name": "Cavalier",
       "name_default": "Cavalier",
       "native": "Cavalier",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 113639,
-      "name": "Centro",
+      "name": "Center",
       "name_default": "Center",
       "native": "Center",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 115298,
-      "name": "Lago do Diabo",
+      "name": "Devils Lake",
       "name_default": "Devils Lake",
       "native": "Devils Lake",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 116756,
-      "name": "Forte Totten",
+      "name": "Fort Totten",
       "name_default": "Fort Totten",
       "native": "Fort Totten",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 116766,
-      "name": "Forte Yates",
+      "name": "Fort Yates",
       "name_default": "Fort Yates",
       "native": "Fort Yates",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 117103,
-      "name": "Guarnição",
+      "name": "Garrison",
       "name_default": "Garrison",
       "native": "Garrison",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 117458,
-      "name": "Base Aérea de Grand Forks",
+      "name": "Grand Forks Air Force Base",
       "name_default": "Grand Forks Air Force Base",
       "native": "Grand Forks Air Force Base",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 118661,
-      "name": "Horácio",
+      "name": "Horace",
       "name_default": "Horace",
       "native": "Horace",
       "type": "city",
@@ -957,7 +957,7 @@
       "id": 119558,
       "name": "Killdeer",
       "name_default": "Killdeer",
-      "native": "Kill",
+      "native": "Killdeer",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 120600,
-      "name": "Lisboa",
+      "name": "Lisbon",
       "name_default": "Lisbon",
       "native": "Lisbon",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 121136,
-      "name": "Tripulação",
+      "name": "Manning",
       "name_default": "Manning",
       "native": "Manning",
       "type": "city",
@@ -1155,7 +1155,7 @@
       "id": 121608,
       "name": "Medora",
       "name_default": "Medora",
-      "native": "Meter",
+      "native": "Medora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1173,7 +1173,7 @@
       "id": 121959,
       "name": "Minnewaukan",
       "name_default": "Minnewaukan",
-      "native": "Minnewauka",
+      "native": "Minnewaukan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 121967,
-      "name": "Base Aérea de Minot",
+      "name": "Minot Air Force Base",
       "name_default": "Minot Air Force Base",
       "native": "Minot Air Force Base",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 122559,
-      "name": "Napoleão",
+      "name": "Napoleon",
       "name_default": "Napoleon",
       "native": "Napoleon",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 122774,
-      "name": "Nova Rockford",
+      "name": "New Rockford",
       "name_default": "New Rockford",
       "native": "New Rockford",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 122787,
-      "name": "Cidade Nova",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 123853,
-      "name": "Rio Parque",
+      "name": "Park River",
       "name_default": "Park River",
       "native": "Park River",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 125364,
-      "name": "Rola",
+      "name": "Rolla",
       "name_default": "Rolla",
       "native": "Rolla",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 125503,
-      "name": "Rúgbi",
+      "name": "Rugby",
       "name_default": "Rugby",
       "native": "Rugby",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 126293,
-      "name": "Vale das Conchas",
+      "name": "Shell Valley",
       "name_default": "Shell Valley",
       "native": "Shell Valley",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 127761,
-      "name": "Morador da cidade",
+      "name": "Towner",
       "name_default": "Towner",
       "native": "Towner",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 128101,
-      "name": "Cidade do Vale",
+      "name": "Valley City",
       "name_default": "Valley City",
       "native": "Valley City",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 128632,
-      "name": "Cidade de Watford",
+      "name": "Watford City",
       "name_default": "Watford City",
       "native": "Watford City",
       "type": "city",

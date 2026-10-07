@@ -75,7 +75,7 @@
     },
     {
       "id": 48730,
-      "name": "Broughton",
+      "name": "Brychdyn",
       "name_default": "Broughton",
       "native": "Broughton",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48750,
-      "name": "Buckley",
+      "name": "Bwcle",
       "name_default": "Buckley",
       "native": "Buckley",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49123,
-      "name": "Kontelezh Sir y Fflint",
+      "name": "Sir y Fflint",
       "name_default": "County of Flintshire",
       "native": "County of Flintshire",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49254,
-      "name": "Deeside",
+      "name": "Glannau Dyfrdwy",
       "name_default": "Deeside",
       "native": "Deeside",
       "type": "locality",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49574,
-      "name": "Flint",
+      "name": "Fflint",
       "name_default": "Flint",
       "native": "Flint",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49740,
-      "name": "Greenfield",
+      "name": "Maes-glas",
       "name_default": "Greenfield",
       "native": "Greenfield",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 49756,
       "name": "Gronant",
       "name_default": "Gronant",
-      "native": "Accumulate",
+      "native": "Gronant",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 49850,
-      "name": "Hawarden",
+      "name": "Penarlâg",
       "name_default": "Hawarden",
-      "native": "Warden",
+      "native": "Hawarden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 49973,
-      "name": "Holywell",
+      "name": "Treffynnon",
       "name_default": "Holywell",
       "native": "Holywell",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49983,
-      "name": "Spi",
+      "name": "Yr Hob",
       "name_default": "Hope",
       "native": "Hope",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 50273,
-      "name": "Leeswood",
+      "name": "Coed-Llai",
       "name_default": "Leeswood",
       "native": "Leeswood",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 50614,
-      "name": "Moull",
+      "name": "Yr Wyddgrug",
       "name_default": "Mold",
       "native": "Mold",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50779,
-      "name": "Northop",
+      "name": "Llaneurgain",
       "name_default": "Northop",
       "native": "Northop",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 50892,
-      "name": "Penyffordd",
+      "name": "Pen-y-ffordd",
       "name_default": "Penyffordd",
-      "native": "Road",
+      "native": "Penyffordd",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -365,7 +365,7 @@
       "id": 51668,
       "name": "Treuddyn",
       "name_default": "Treuddyn",
-      "native": "Treachery",
+      "native": "Treuddyn",
       "type": "city",
       "level": null,
       "parent_id": null,

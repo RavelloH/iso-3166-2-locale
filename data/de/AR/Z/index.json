@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28. November",
+      "name": "Veintiocho de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -227,7 +227,7 @@
       "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Gouverneur Gregores",
+      "name": "Gobernador Gregores",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",

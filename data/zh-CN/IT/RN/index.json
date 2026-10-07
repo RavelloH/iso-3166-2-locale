@@ -75,7 +75,7 @@
     },
     {
       "id": 137189,
-      "name": "卡斯特尔德尔奇",
+      "name": "卡斯泰尔德尔奇",
       "name_default": "Casteldelci",
       "native": "Casteldelci",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 138038,
       "name": "科波洛",
       "name_default": "Corpolò",
-      "native": "Corpo",
+      "native": "Corpolò",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 140356,
-      "name": "蒙特哥伦布",
+      "name": "蒙特科隆博",
       "name_default": "Monte Colombo",
       "native": "Monte Colombo",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 140439,
-      "name": "蒙蒂菲奥里·孔卡",
+      "name": "蒙特菲奥雷孔卡",
       "name_default": "Montefiore Conca",
       "native": "Montefiore Conca",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 140605,
-      "name": "罗马涅的莫尔恰诺",
+      "name": "罗马涅区莫尔恰诺",
       "name_default": "Morciano di Romagna",
       "native": "Morciano di Romagna",
       "type": "adm3",
@@ -383,7 +383,7 @@
       "id": 58610,
       "name": "皮特拉库塔",
       "name_default": "Pietracuta",
-      "native": "Pastacuta",
+      "native": "Pietracuta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -437,7 +437,7 @@
       "id": 59433,
       "name": "里瓦祖拉",
       "name_default": "Rivazzurra",
-      "native": "Brivido",
+      "native": "Rivazzurra",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 59783,
-      "name": "萨卢德西奥",
+      "name": "萨卢代乔",
       "name_default": "Saludecio",
       "native": "Saludecio",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 59999,
-      "name": "圣乔凡尼因马里尼亚诺",
+      "name": "圣乔瓦尼-因马里尼亚诺",
       "name_default": "San Giovanni in Marignano",
       "native": "San Giovanni in Marignano",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 60028,
-      "name": "圣利奥",
+      "name": "圣莱奥",
       "name_default": "San Leo",
       "native": "San Leo",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 60316,
-      "name": "圣阿加塔费尔特里亚",
+      "name": "圣阿加塔-费尔特里亚",
       "name_default": "Sant'Agata Feltria",
       "native": "Sant'Agata Feltria",
       "type": "adm3",
@@ -596,6 +596,24 @@
       "country_id": 107
     },
     {
+      "id": 60503,
+      "name": "圣阿尔坎杰洛",
+      "name_default": "Santarcangelo",
+      "native": "Santarcangelo",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10934,
+      "latitude": "44.06326000",
+      "longitude": "12.44657000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": null,
+      "country_code": "IT",
+      "state_code": "RN",
+      "state_id": 1713,
+      "country_id": 107
+    },
+    {
       "id": 60675,
       "name": "塞基亚诺",
       "name_default": "Secchiano",
@@ -651,7 +669,7 @@
     },
     {
       "id": 61397,
-      "name": "托里亚娜",
+      "name": "托里亚纳",
       "name_default": "Torriana",
       "native": "Torriana",
       "type": "adm3",

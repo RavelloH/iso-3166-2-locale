@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 157036,
-      "name": "Bekaa",
+      "name": "Baqaa",
       "name_default": "Baqaa",
-      "native": "خائف",
+      "native": "Baqaa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 157038,
-      "name": "Gazâlî",
+      "name": "Ghazalah",
       "name_default": "Ghazalah",
       "native": "غزالة",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 148564,
-      "name": "Dolu",
+      "name": "Hail",
       "name_default": "Ha'il",
-      "native": "يشيد ",
+      "native": "حائل",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -111,9 +111,9 @@
     },
     {
       "id": 157035,
-      "name": "Dolu",
+      "name": "Hail",
       "name_default": "Hail",
-      "native": "يشيد",
+      "native": "Hail",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 148582,
-      "name": "Cübbe",
+      "name": "Jubbah",
       "name_default": "Jubbah",
       "native": "جبة",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 148583,
-      "name": "Mavkak",
+      "name": "Mawqaq",
       "name_default": "Mawqaq",
       "native": "موقاق",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 148584,
-      "name": "Kufar",
+      "name": "Qufar",
       "name_default": "Qufar",
       "native": "قفار",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 157041,
-      "name": "Şamlı",
+      "name": "Shamli",
       "name_default": "Shamli",
       "native": "شاملي",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 157037,
-      "name": "Şanan",
+      "name": "Shanan",
       "name_default": "Shanan",
       "native": "شنان",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 157042,
-      "name": "Sümeyra",
+      "name": "Sumairah",
       "name_default": "Sumairah",
       "native": "سميرة",
       "type": "city",

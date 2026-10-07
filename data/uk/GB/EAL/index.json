@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48193,
-      "name": "Актон",
+      "name": "Ектон",
       "name_default": "Acton",
       "native": "Acton",
       "type": "city",
@@ -86,24 +86,6 @@
       "longitude": "-0.30230000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2197855",
-      "country_code": "GB",
-      "state_code": "EAL",
-      "state_id": 2532,
-      "country_id": 232
-    },
-    {
-      "id": 48676,
-      "name": "Брентфорд",
-      "name_default": "Brentford",
-      "native": "Brentford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10750,
-      "latitude": "51.48619000",
-      "longitude": "-0.30830000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1013528",
       "country_code": "GB",
       "state_code": "EAL",
       "state_id": 2532,

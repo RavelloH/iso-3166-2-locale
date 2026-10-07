@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 283,
-      "name": "Agarak",
+      "name": "Ekerek",
       "name_default": "Agarak",
       "native": "Ագարակ",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 290,
-      "name": "Akht'ala",
+      "name": "Akht’ala",
       "name_default": "Akht’ala",
       "native": "Ախտալա",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 316,
-      "name": "Arevaşoğ",
+      "name": "Çıkdamar",
       "name_default": "Arevashogh",
       "native": "Արևաշող",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 353,
-      "name": "Bazum",
+      "name": "Bozabdal",
       "name_default": "Bazum",
       "native": "Բազում",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 376,
-      "name": "Dsegh",
+      "name": "Düseks",
       "name_default": "Dsegh",
       "native": "Դսեղ",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 399,
-      "name": "Gogaran",
+      "name": "Goran",
       "name_default": "Gogaran",
       "native": "Գոգարան",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 404,
-      "name": "Gugark'",
+      "name": "Gugark’",
       "name_default": "Gugark’",
       "native": "Գուգարք",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 405,
-      "name": "Gyulagarak",
+      "name": "Gülegerek",
       "name_default": "Gyulagarak",
       "native": "Գյուլագարակ",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 423,
-      "name": "Jrashen",
+      "name": "Vardnav",
       "name_default": "Jrashen",
       "native": "Ջրաշեն",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 453,
-      "name": "Margahovit",
+      "name": "Bozköy",
       "name_default": "Margahovit",
       "native": "Մարգահովիտ",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 468,
-      "name": "Mets Parni",
+      "name": "Büyük Beykent",
       "name_default": "Mets Parni",
       "native": "Մեծ Պարնի",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 470,
-      "name": "Metsavan",
+      "name": "Şahnəzər",
       "name_default": "Metsavan",
       "native": "Մեծավան",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 490,
-      "name": "Noraşen",
+      "name": "Bokdanovka",
       "name_default": "Norashen",
       "native": "Նորաշեն",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 496,
-      "name": "Odzun",
+      "name": "Uzunlar",
       "name_default": "Odzun",
       "native": "Օձուն",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 506,
-      "name": "Sarahart'",
+      "name": "Sarahart’",
       "name_default": "Sarahart’",
       "native": "Սարահարթ",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 507,
-      "name": "Saramej",
+      "name": "Çotur",
       "name_default": "Saramej",
       "native": "Սարամեջ",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 523,
-      "name": "Şirakamut",
+      "name": "Nalbent",
       "name_default": "Shirakamut",
       "native": "Շիրակամուտ",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 524,
-      "name": "Şnoğ",
+      "name": "Şınık",
       "name_default": "Shnogh",
       "native": "Շնող",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 530,
-      "name": "Stepanavan",
+      "name": "Step’anavan",
       "name_default": "Step’anavan",
       "native": "Ստեփանավան",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 534,
-      "name": "Tashir",
+      "name": "Taşir",
       "name_default": "Tashir",
       "native": "Տաշիր",
       "type": "adm2",
@@ -615,7 +615,7 @@
     },
     {
       "id": 536,
-      "name": "Tsağkaber",
+      "name": "Ağdıbey",
       "name_default": "Tsaghkaber",
       "native": "Ծաղկաբեր",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 551,
-      "name": "Vahagni",
+      "name": "Şeheli",
       "name_default": "Vahagni",
       "native": "Վահագնի",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 576,
-      "name": "Yeghegnut",
+      "name": "Kamışkut",
       "name_default": "Yeghegnut",
       "native": "Եղեգնուտ",
       "type": "city",

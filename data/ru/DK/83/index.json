@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 30573,
-      "name": "Аабенраа",
+      "name": "Обенро",
       "name_default": "Aabenraa",
       "native": "Aabenraa",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 30995,
-      "name": "Арслев",
+      "name": "Орслев",
       "name_default": "Årslev",
       "native": "Årslev",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 30586,
-      "name": "Аугустенборг",
+      "name": "Августенборг",
       "name_default": "Augustenborg",
       "native": "Augustenborg",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 30998,
-      "name": "Ærøskøbing",
+      "name": "Эрёскёбинг",
       "name_default": "Ærøskøbing",
       "native": "Ærøskøbing",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 30593,
-      "name": "Биллунд",
+      "name": "Биллунн",
       "name_default": "Billund",
       "native": "Billund",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 30603,
-      "name": "Брэмминг",
+      "name": "Брамминг",
       "name_default": "Bramming",
       "native": "Bramming",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 30613,
-      "name": "Brørup",
+      "name": "Брёруп",
       "name_default": "Brørup",
       "native": "Brørup",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 30625,
-      "name": "Дюббель",
+      "name": "Дюббёль",
       "name_default": "Dybbøl",
       "native": "Dybbøl",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 30636,
-      "name": "Fanø Kommune",
+      "name": "Фанё",
       "name_default": "Fanø Kommune",
       "native": "Fanø Kommune",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 30668,
-      "name": "Давать",
+      "name": "Гиве",
       "name_default": "Give",
       "native": "Give",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 30679,
-      "name": "Гринстед",
+      "name": "Гриннстед",
       "name_default": "Grindsted",
       "native": "Grindsted",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 30733,
-      "name": "Харби",
+      "name": "Хорбю",
       "name_default": "Haarby",
       "native": "Hårby",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 30748,
-      "name": "Джеллинг",
+      "name": "Еллинг",
       "name_default": "Jelling",
       "native": "Jelling",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 30756,
-      "name": "Кертеминде",
+      "name": "Кертеминне",
       "name_default": "Kerteminde",
       "native": "Kerteminde",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 30763,
-      "name": "Колдинг",
+      "name": "Коллинг",
       "name_default": "Kolding",
       "native": "Kolding",
       "type": "adm2",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 30811,
-      "name": "Нордборг",
+      "name": "Норборг",
       "name_default": "Nordborg",
       "native": "Nordborg",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 30812,
-      "name": "Нордби",
+      "name": "Норбю",
       "name_default": "Nordby",
       "native": "Nordby",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 30816,
-      "name": "Нюборгская коммуна",
+      "name": "Нюборг",
       "name_default": "Nyborg Kommune",
       "native": "Nyborg Kommune",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 30830,
-      "name": "Оденсе Коммуна",
+      "name": "Оденсе",
       "name_default": "Odense Kommune",
       "native": "Odense Kommune",
       "type": "adm2",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 30999,
-      "name": "Ølgod",
+      "name": "Эльгод",
       "name_default": "Ølgod",
       "native": "Ølgod",
       "type": "city",
@@ -1337,7 +1337,7 @@
       "id": 30841,
       "name": "Рибе",
       "name_default": "Ribe",
-      "native": "Fisk",
+      "native": "Ribe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1427,7 +1427,7 @@
       "id": 30866,
       "name": "Седен",
       "name_default": "Seden",
-      "native": "Skikken",
+      "native": "Seden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1445,7 +1445,7 @@
       "id": 30870,
       "name": "Скербек",
       "name_default": "Skaerbaek",
-      "native": "Shauled",
+      "native": "Skaerbaek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 30918,
-      "name": "Свендборг",
+      "name": "Свеннборг",
       "name_default": "Svendborg",
       "native": "Svendborg",
       "type": "adm2",
@@ -1661,7 +1661,7 @@
       "id": 30935,
       "name": "Турё Бай",
       "name_default": "Thurø By",
-      "native": "Thurø af",
+      "native": "Thurø By",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 30950,
-      "name": "Тёндер",
+      "name": "Тённер",
       "name_default": "Tønder",
       "native": "Tønder",
       "type": "adm2",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 30963,
-      "name": "Вейен",
+      "name": "Вайен",
       "name_default": "Vejen",
       "native": "Vejen",
       "type": "adm2",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 30984,
-      "name": "Военс",
+      "name": "Войенс",
       "name_default": "Vojens",
       "native": "Vojens",
       "type": "city",

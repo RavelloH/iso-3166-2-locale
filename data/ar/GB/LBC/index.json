@@ -146,6 +146,24 @@
       "country_id": 232
     },
     {
+      "id": 49348,
+      "name": "دوندونالد",
+      "name_default": "Dundonald",
+      "native": "Dundonald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13985,
+      "latitude": "54.59196000",
+      "longitude": "-5.79803000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q116756",
+      "country_code": "GB",
+      "state_code": "LBC",
+      "state_id": 2460,
+      "country_id": 232
+    },
+    {
       "id": 49350,
       "name": "دوندروم",
       "name_default": "Dundrum",
@@ -201,7 +219,7 @@
     },
     {
       "id": 50317,
-      "name": "ليزبورن",
+      "name": "ليسبورن",
       "name_default": "Lisburn",
       "native": "Lisburn",
       "type": "adm2",

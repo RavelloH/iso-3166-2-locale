@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "Antwoord",
+      "name": "‘Ans",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -96,7 +96,7 @@
       "name": "Al Manar",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -111,7 +111,7 @@
     },
     {
       "id": 130761,
-      "name": "Al-Medy Village ligt in de buurt",
+      "name": "Al-Medy Village قرية المدي",
       "name_default": "Al-Medy Village قرية المدي",
       "native": "قرية المادى قرية المادى",
       "type": "village",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130834,
-      "name": "Dhamār",
+      "name": "Dhamar",
       "name_default": "Dhamār",
       "native": "ذمار",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 130904,
-      "name": "Maghirib Antwoord",
+      "name": "Maghirib Ans",
       "name_default": "Maghirib Ans",
       "native": "المغرب أنس",
       "type": "area",

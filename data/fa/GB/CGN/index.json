@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 48162,
-      "name": "آبرارون",
+      "name": "ابرئیرون",
       "name_default": "Aberaeron",
-      "native": "Extant",
+      "native": "Aberaeron",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 48180,
-      "name": "آبرپورت",
+      "name": "ابرپورث",
       "name_default": "Aberporth",
       "native": "Aberporth",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48183,
-      "name": "ابریستویث",
+      "name": "آبریستویث",
       "name_default": "Aberystwyth",
       "native": "Aberystwyth",
       "type": "adm3",
@@ -113,7 +113,7 @@
       "id": 48613,
       "name": "بورث",
       "name_default": "Borth",
-      "native": "Portal",
+      "native": "Borth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 48855,
-      "name": "ژاکت کش باف پشمی",
+      "name": "کاردیگان",
       "name_default": "Cardigan",
       "native": "Cardigan",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49122,
-      "name": "شهرستان کردیگیون",
+      "name": "کردیگیون",
       "name_default": "County of Ceredigion",
       "native": "County of Ceredigion",
       "type": "area",
@@ -183,9 +183,9 @@
     },
     {
       "id": 50233,
-      "name": "لامپتر",
+      "name": "لمپتر",
       "name_default": "Lampeter",
-      "native": "Lampset",
+      "native": "Lampeter",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 50340,
-      "name": "لانارت",
+      "name": "لنارث",
       "name_default": "Llanarth",
       "native": "Llanarth",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50349,
-      "name": "لاندیسول",
+      "name": "لندیسول",
       "name_default": "Llandysul",
       "native": "Llandysul",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50694,
-      "name": "اسکله جدید",
+      "name": "نیو کی",
       "name_default": "New Quay",
       "native": "New Quay",
       "type": "adm3",
@@ -275,7 +275,7 @@
       "id": 50885,
       "name": "پنپارکائو",
       "name_default": "Penparcau",
-      "native": "Penparca",
+      "native": "Penparcau",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -293,7 +293,7 @@
       "id": 51664,
       "name": "ترگارون",
       "name_default": "Tregaron",
-      "native": "Collabble",
+      "native": "Tregaron",
       "type": "city",
       "level": null,
       "parent_id": null,

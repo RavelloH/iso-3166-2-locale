@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111095,
-      "name": "آلامو",
+      "name": "الامو",
       "name_default": "Alamo",
       "native": "Alamo",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111908,
-      "name": "کوه نبرد",
+      "name": "بتل مونتین",
       "name_default": "Battle Mountain",
       "native": "Battle Mountain",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 113043,
-      "name": "بانکرویل",
+      "name": "بوکرویل",
       "name_default": "Bunkerville",
       "native": "Bunkerville",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 113478,
-      "name": "کارسون سیتی",
+      "name": "کارسون‌سیتی",
       "name_default": "Carson City",
       "native": "Carson City",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 114389,
-      "name": "چشمه‌های سرد",
+      "name": "کولد اسپرینگز",
       "name_default": "Cold Springs",
       "native": "Cold Springs",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 115768,
-      "name": "دره شرقی",
+      "name": "ایست ولی",
       "name_default": "East Valley",
       "native": "East Valley",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 116008,
-      "name": "الکو",
+      "name": "ایلکو",
       "name_default": "Elko",
       "native": "Elko",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 116149,
-      "name": "تصدی",
+      "name": "انترپرایز",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 116237,
-      "name": "یوریکا",
+      "name": "یورکا",
       "name_default": "Eureka",
       "native": "Eureka",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 116378,
-      "name": "فالون",
+      "name": "فالن",
       "name_default": "Fallon",
       "native": "Fallon",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 117079,
-      "name": "گاردنرویل رانچوس",
+      "name": "گاردنرویل رنچوس",
       "name_default": "Gardnerville Ranchos",
       "native": "Gardnerville Ranchos",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 117357,
-      "name": "دره طلایی",
+      "name": "گلدن ولی",
       "name_default": "Golden Valley",
       "native": "Golden Valley",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 117363,
-      "name": "گلدفیلد",
+      "name": "گولدفیلد",
       "name_default": "Goldfield",
       "native": "Goldfield",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 118176,
-      "name": "هاثورن",
+      "name": "هاوثورن",
       "name_default": "Hawthorne",
       "native": "Hawthorne",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 118888,
-      "name": "روستای اینشلین",
+      "name": "این‌کلاین ویلیج",
       "name_default": "Incline Village",
       "native": "Incline Village",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 118909,
-      "name": "تپه‌های ایندیان",
+      "name": "ایندین هیلز",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 119057,
-      "name": "جک‌پات",
+      "name": "جکپات",
       "name_default": "Jackpot",
       "native": "Jackpot",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 120163,
-      "name": "لاس وگاس",
+      "name": "لاس‌وگاس",
       "name_default": "Las Vegas",
       "native": "Las Vegas",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 120358,
-      "name": "دره لیمون",
+      "name": "لمون ولی",
       "name_default": "Lemmon Valley",
       "native": "Lemmon Valley",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 120825,
-      "name": "لاولاک",
+      "name": "لاولک",
       "name_default": "Lovelock",
       "native": "Lovelock",
       "type": "city",
@@ -865,9 +865,9 @@
     },
     {
       "id": 121930,
-      "name": "میندن",
+      "name": "مایندن",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
       "id": 122007,
       "name": "شهر موآپا",
       "name_default": "Moapa Town",
-      "native": "Moabo Town",
+      "native": "Moapa Town",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,9 +901,9 @@
     },
     {
       "id": 122008,
-      "name": "دره موآپا",
+      "name": "موآپا ولی",
       "name_default": "Moapa Valley",
-      "native": "Moab Valley",
+      "native": "Moapa Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 122017,
-      "name": "مغول",
+      "name": "موگل",
       "name_default": "Mogul",
       "native": "Mogul",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 123052,
-      "name": "شمال لاس وگاس",
+      "name": "لاس وگاس شمالی",
       "name_default": "North Las Vegas",
       "native": "North Las Vegas",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 123724,
-      "name": "پهرامپ",
+      "name": "فرامپ",
       "name_default": "Pahrump",
       "native": "Pahrump",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 123819,
-      "name": "بهشت",
+      "name": "پارادایس",
       "name_default": "Paradise",
       "native": "Paradise",
       "type": "city",
@@ -1009,9 +1009,9 @@
     },
     {
       "id": 124273,
-      "name": "پیوچه",
+      "name": "پیوش",
       "name_default": "Pioche",
-      "native": "Pickaxe",
+      "native": "Pioche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 125020,
-      "name": "رنو",
+      "name": "رینو",
       "name_default": "Reno",
       "native": "Reno",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 126517,
-      "name": "دره اسمیت",
+      "name": "اسمیت ولی",
       "name_default": "Smith Valley",
       "native": "Smith Valley",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 126801,
-      "name": "چشمه‌های اسپانیایی",
+      "name": "اسپنیش اسپرینگ",
       "name_default": "Spanish Springs",
       "native": "Spanish Springs",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 126805,
-      "name": "جرقه‌ها",
+      "name": "اسپارکس",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 126854,
-      "name": "نهر اسپرینگ",
+      "name": "اسپرینگ کریک",
       "name_default": "Spring Creek",
       "native": "Spring Creek",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 126881,
-      "name": "دره بهاری",
+      "name": "اسپرینگ ولی",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 126939,
-      "name": "استیج‌کوچ",
+      "name": "استیجکوچ",
       "name_default": "Stagecoach",
       "native": "Stagecoach",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 127205,
-      "name": "سامرلین جنوبی",
+      "name": "سومرلین جنوبی",
       "name_default": "Summerlin South",
       "native": "Summerlin South",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 127269,
-      "name": "عمارت طلوع آفتاب",
+      "name": "سانرایز مانور",
       "name_default": "Sunrise Manor",
       "native": "Sunrise Manor",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 127722,
-      "name": "تونوپا",
+      "name": "تنوپا",
       "name_default": "Tonopah",
       "native": "Tonopah",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 128290,
-      "name": "ویرجینیا سیتی",
+      "name": "ورجینیا سیتی",
       "name_default": "Virginia City",
       "native": "Virginia City",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 129004,
-      "name": "وست وندوور",
+      "name": "وست وندور",
       "name_default": "West Wendover",
       "native": "West Wendover",
       "type": "city",

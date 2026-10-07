@@ -75,7 +75,7 @@
     },
     {
       "id": 79967,
-      "name": "Altos de São Francisco",
+      "name": "Altos de San Francisco",
       "name_default": "Altos de San Francisco",
       "native": "Altos de San Francisco",
       "type": "section",
@@ -167,7 +167,7 @@
       "id": 80033,
       "name": "Capira",
       "name_default": "Capira",
-      "native": "Cabeza",
+      "native": "Capira",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 80053,
-      "name": "Chama",
+      "name": "Chame",
       "name_default": "Chame",
-      "native": "Semen",
+      "native": "Chame",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -294,7 +294,7 @@
       "name": "Distrito de Chame",
       "name_default": "Distrito de Chame",
       "native": "Distrito de Chame",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 31373,
@@ -363,7 +363,7 @@
     },
     {
       "id": 80163,
-      "name": "O Coco",
+      "name": "El Coco",
       "name_default": "El Coco",
       "native": "El Coco",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80179,
-      "name": "O Líbano",
+      "name": "El Líbano",
       "name_default": "El Líbano",
       "native": "El Líbano",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 80250,
-      "name": "A Ermita",
+      "name": "La Ermita",
       "name_default": "La Ermita",
       "native": "La Ermita",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80286,
-      "name": "As Colinas",
+      "name": "Las Colinas",
       "name_default": "Las Colinas",
       "native": "Las Colinas",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80308,
-      "name": "As Uvas",
+      "name": "Las Uvas",
       "name_default": "Las Uvas",
       "native": "Las Uvas",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80371,
-      "name": "Nova Arenosa",
+      "name": "Nueva Arenosa",
       "name_default": "Nueva Arenosa",
       "native": "Nueva Arenosa",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80373,
-      "name": "Nova Górgona",
+      "name": "Nueva Gorgona",
       "name_default": "Nueva Gorgona",
       "native": "Nueva Gorgona",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 80374,
-      "name": "Novo Arraiján",
+      "name": "Nuevo Arraiján",
       "name_default": "Nuevo Arraiján",
       "native": "Nuevo Arraiján",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 80377,
-      "name": "Novo Imperador",
+      "name": "Nuevo Emperador",
       "name_default": "Nuevo Emperador",
       "native": "Nuevo Emperador",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80416,
-      "name": "Praia Leona",
+      "name": "Playa Leona",
       "name_default": "Playa Leona",
       "native": "Playa Leona",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 80432,
-      "name": "Porto Caimito",
+      "name": "Puerto Caimito",
       "name_default": "Puerto Caimito",
       "native": "Puerto Caimito",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 80458,
-      "name": "Rio Congo",
+      "name": "Río Congo",
       "name_default": "Río Congo",
       "native": "Río Congo",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 80474,
-      "name": "São Carlos",
+      "name": "San Carlos",
       "name_default": "San Carlos",
       "native": "San Carlos",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80481,
-      "name": "São José",
+      "name": "San José",
       "name_default": "San José",
       "native": "San José",
       "type": "section",
@@ -867,7 +867,7 @@
     },
     {
       "id": 80495,
-      "name": "São Vicente de Bique",
+      "name": "San Vicente de Bique",
       "name_default": "San Vicente de Bique",
       "native": "San Vicente de Bique",
       "type": "section",
@@ -923,7 +923,7 @@
       "id": 80518,
       "name": "Sorá",
       "name_default": "Sorá",
-      "native": "Frotis",
+      "native": "Sorá",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 80543,
-      "name": "Vila Carmen",
+      "name": "Villa Carmen",
       "name_default": "Villa Carmen",
       "native": "Villa Carmen",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80545,
-      "name": "Vila Rosário",
+      "name": "Villa Rosario",
       "name_default": "Villa Rosario",
       "native": "Villa Rosario",
       "type": "adm3",

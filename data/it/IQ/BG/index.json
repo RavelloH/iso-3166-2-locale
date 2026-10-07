@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134473,
-      "name": "Distretto di Abu Ghraib",
+      "name": "Abu Ghraib",
       "name_default": "Abu Ghraib",
       "native": "قضاء أبو غريب",
       "type": "district",
@@ -165,7 +165,7 @@
     },
     {
       "id": 153206,
-      "name": "Parco Al Saadoon",
+      "name": "Al Saadoon Park",
       "name_default": "Al Saadoon Park",
       "native": "حديقة السعدون",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 153211,
-      "name": "America",
+      "name": "Ameria",
       "name_default": "Ameria",
       "native": "أميريا",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 153212,
-      "name": "Distretto di Amil",
+      "name": "Amil",
       "name_default": "Amil",
       "native": "منطقة أميل",
       "type": "district",
@@ -327,9 +327,9 @@
     },
     {
       "id": 153215,
-      "name": "A Taifiya",
+      "name": "At Taifiya",
       "name_default": "At Taifiya",
-      "native": "في الطائفية",
+      "native": "At Taifiya",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -507,7 +507,7 @@
     },
     {
       "id": 153224,
-      "name": "Campo Sarah",
+      "name": "Camp Sarah",
       "name_default": "Camp Sarah",
       "native": "مخيم سارة",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 153230,
-      "name": "Zona Verde",
+      "name": "Zona verde",
       "name_default": "Green Zone",
       "native": "المنطقة الخضراء",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 153238,
-      "name": "Kadhimiya",
+      "name": "Al-Kazimiyya",
       "name_default": "Kadhimiya",
       "native": "الكاظمية",
       "type": "section",
@@ -903,7 +903,7 @@
     },
     {
       "id": 153246,
-      "name": "Città di Sadr",
+      "name": "Sadr City",
       "name_default": "Sadr City",
       "native": "مدينة الصدر",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 153249,
-      "name": "Sceicco Maaruf",
+      "name": "Sheik Maaruf",
       "name_default": "Sheik Maaruf",
       "native": "الشيخ معروف",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 153251,
-      "name": "Solikh",
+      "name": "Suleikh",
       "name_default": "Suleikh",
       "native": "الصليخ",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 153252,
-      "name": "Il tuo distretto",
+      "name": "Ur",
       "name_default": "Ur",
       "native": "منطقة أور",
       "type": "district",

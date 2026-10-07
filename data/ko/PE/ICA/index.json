@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80616,
-      "name": "친차 알타",
+      "name": "친차알타",
       "name_default": "Chincha Alta",
       "native": "Chincha Alta",
       "type": "adm3",
@@ -258,7 +258,7 @@
       "name": "팔파 주",
       "name_default": "Provincia de Palpa",
       "native": "Provincia de Palpa",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 13232,
@@ -391,7 +391,7 @@
       "latitude": "-13.71135000",
       "longitude": "-76.14980000",
       "timezone": "America/Lima",
-      "wikiDataId": "Q941183",
+      "wikiDataId": null,
       "country_code": "PE",
       "state_code": "ICA",
       "state_id": 3700,

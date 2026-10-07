@@ -92,6 +92,24 @@
       "country_id": 232
     },
     {
+      "id": 48692,
+      "name": "ब्रिगहाउस",
+      "name_default": "Brighouse",
+      "native": "Brighouse",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 32360,
+      "latitude": "53.70322000",
+      "longitude": "-1.78428000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q183296",
+      "country_code": "GB",
+      "state_code": "CLD",
+      "state_id": 2517,
+      "country_id": 232
+    },
+    {
       "id": 48823,
       "name": "काल्डरडेल",
       "name_default": "Calderdale",
@@ -272,6 +290,24 @@
       "country_id": 232
     },
     {
+      "id": 51032,
+      "name": "रैस्ट्रिक",
+      "name_default": "Rastrick",
+      "native": "Rastrick",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11351,
+      "latitude": "53.69210000",
+      "longitude": "-1.78830000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2179656",
+      "country_code": "GB",
+      "state_code": "CLD",
+      "state_id": 2517,
+      "country_id": 232
+    },
+    {
       "id": 51087,
       "name": "रिप्पोंडेन",
       "name_default": "Ripponden",
@@ -329,7 +365,7 @@
       "id": 51636,
       "name": "टोडमॉर्डेन",
       "name_default": "Todmorden",
-      "native": "Tod murder",
+      "native": "Todmorden",
       "type": "city",
       "level": null,
       "parent_id": null,

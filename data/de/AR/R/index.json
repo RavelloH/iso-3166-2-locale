@@ -242,7 +242,7 @@
     },
     {
       "id": 768,
-      "name": "Fünf Saltos",
+      "name": "Cinco Saltos",
       "name_default": "Cinco Saltos",
       "native": "Cinco Saltos",
       "type": "city",
@@ -314,9 +314,9 @@
     },
     {
       "id": 798,
-      "name": "Oberst Belisle",
+      "name": "Coronel Belisle",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "Departamento de Avellaneda",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -584,9 +584,9 @@
     },
     {
       "id": 1263,
-      "name": "Mainque",
+      "name": "Mainqué",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -656,7 +656,7 @@
     },
     {
       "id": 1389,
-      "name": "Rio Colorado",
+      "name": "Río Colorado",
       "name_default": "Río Colorado",
       "native": "Río Colorado",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1418,
-      "name": "San Carlos de Bariloche",
+      "name": "Bariloche",
       "name_default": "San Carlos de Bariloche",
       "native": "San Carlos de Bariloche",
       "type": "adm3",
@@ -710,7 +710,7 @@
     },
     {
       "id": 1486,
-      "name": "Sierra Colorado",
+      "name": "Sierra Colorada",
       "name_default": "Sierra Colorada",
       "native": "Sierra Colorada",
       "type": "adm2",

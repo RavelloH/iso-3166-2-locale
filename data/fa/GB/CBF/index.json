@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48247,
-      "name": "آمپت‌هیل",
+      "name": "امپتیل",
       "name_default": "Ampthill",
       "native": "Ampthill",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48275,
-      "name": "آرلسی",
+      "name": "ارلسی",
       "name_default": "Arlesey",
       "native": "Arlesey",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48417,
-      "name": "بارتون-لو-کلی",
+      "name": "بارتون لو کلی",
       "name_default": "Barton-le-Clay",
       "native": "Barton-le-Clay",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48501,
-      "name": "بیگلزوید",
+      "name": "بیگلسوید",
       "name_default": "Biggleswade",
       "native": "Biggleswade",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48575,
-      "name": "بلونام",
+      "name": "بلانهم",
       "name_default": "Blunham",
       "native": "Blunham",
       "type": "adm3",
@@ -183,9 +183,9 @@
     },
     {
       "id": 48913,
-      "name": "چالتون",
+      "name": "چلتون",
       "name_default": "Chalton",
-      "native": "Chalfon",
+      "native": "Chalton",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 49143,
-      "name": "کرانفیلد",
+      "name": "کرنفیلد",
       "name_default": "Cranfield",
       "native": "Cranfield",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 49575,
-      "name": "فلیت‌ویک",
+      "name": "فلیتویک",
       "name_default": "Flitwick",
       "native": "Flitwick",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 49865,
-      "name": "هاینز",
+      "name": "هینز",
       "name_default": "Haynes",
       "native": "Haynes",
       "type": "adm3",
@@ -434,24 +434,6 @@
       "country_id": 232
     },
     {
-      "id": 49952,
-      "name": "هیچین",
-      "name_default": "Hitchin",
-      "native": "Hitchin",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 34266,
-      "latitude": "51.94924000",
-      "longitude": "-0.28496000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q19798",
-      "country_code": "GB",
-      "state_code": "CBF",
-      "state_id": 2303,
-      "country_id": 232
-    },
-    {
       "id": 49955,
       "name": "هاکلیف",
       "name_default": "Hockliffe",
@@ -471,7 +453,7 @@
     },
     {
       "id": 50006,
-      "name": "فتح هوتون",
+      "name": "هوتون کانکوئست",
       "name_default": "Houghton Conquest",
       "native": "Houghton Conquest",
       "type": "adm3",
@@ -489,7 +471,7 @@
     },
     {
       "id": 50034,
-      "name": "هاسبورن کراولی",
+      "name": "هازبورن کراولی",
       "name_default": "Husborne Crawley",
       "native": "Husborne Crawley",
       "type": "adm3",
@@ -507,7 +489,7 @@
     },
     {
       "id": 50240,
-      "name": "لانگفورد",
+      "name": "لنگفورد",
       "name_default": "Langford",
       "native": "Langford",
       "type": "adm3",
@@ -525,7 +507,7 @@
     },
     {
       "id": 50277,
-      "name": "لیتون بازارد",
+      "name": "لیتون بوزارد",
       "name_default": "Leighton Buzzard",
       "native": "Leighton Buzzard",
       "type": "city",
@@ -615,7 +597,7 @@
     },
     {
       "id": 50550,
-      "name": "مپرشهال",
+      "name": "مپرشال",
       "name_default": "Meppershall",
       "native": "Meppershall",
       "type": "adm3",
@@ -633,7 +615,7 @@
     },
     {
       "id": 50584,
-      "name": "میل‌بروک",
+      "name": "میلبروک",
       "name_default": "Millbrook",
       "native": "Millbrook",
       "type": "adm3",
@@ -651,7 +633,7 @@
     },
     {
       "id": 51003,
-      "name": "پولوکس‌هیل",
+      "name": "پولاکس‌هیل",
       "name_default": "Pulloxhill",
       "native": "Pulloxhill",
       "type": "adm3",
@@ -680,6 +662,24 @@
       "longitude": "-0.57871000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1520197",
+      "country_code": "GB",
+      "state_code": "CBF",
+      "state_id": 2303,
+      "country_id": 232
+    },
+    {
+      "id": 51198,
+      "name": "سندی",
+      "name_default": "Sandy",
+      "native": "Sandy",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 12172,
+      "latitude": "52.12927000",
+      "longitude": "-0.28925000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1750378",
       "country_code": "GB",
       "state_code": "CBF",
       "state_id": 2303,
@@ -777,7 +777,7 @@
     },
     {
       "id": 51495,
-      "name": "استریتلی",
+      "name": "استریت‌لی",
       "name_default": "Streatley",
       "native": "Streatley",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 51635,
-      "name": "تادینگتون",
+      "name": "تودینگتون",
       "name_default": "Toddington",
       "native": "Toddington",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 51954,
-      "name": "ووبرن",
+      "name": "ووبورن",
       "name_default": "Woburn",
       "native": "Woburn",
       "type": "adm3",

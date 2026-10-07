@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54384,
-      "name": "Baal",
+      "name": "Bale",
       "name_default": "Bale",
       "native": "Bala",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 54530,
-      "name": "Afgestudeerd Labin",
+      "name": "Grad Labin",
       "name_default": "Grad Labin",
       "native": "Grad Labin",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 54691,
-      "name": "Liznjan",
+      "name": "Ližnjan",
       "name_default": "Ližnjan",
       "native": "Ližnjan",
       "type": "adm2",
@@ -707,7 +707,7 @@
       "id": 54844,
       "name": "Pula",
       "name_default": "Pula",
-      "native": "U svakom slučaju",
+      "native": "Pula",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 54855,
-      "name": "Rasa",
+      "name": "Raša",
       "name_default": "Raša",
       "native": "Raša",
       "type": "adm2",
@@ -823,7 +823,7 @@
       "latitude": "45.14932000",
       "longitude": "14.09889000",
       "timezone": "Europe/Zagreb",
-      "wikiDataId": "Q925754",
+      "wikiDataId": null,
       "country_code": "HR",
       "state_code": "18",
       "state_id": 743,
@@ -833,7 +833,7 @@
       "id": 54931,
       "name": "Sveti Lovreč",
       "name_default": "Sveti Lovreč",
-      "native": "Svet",
+      "native": "Sveti Lovreč",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,9 +849,9 @@
     },
     {
       "id": 54933,
-      "name": "Teer",
+      "name": "Tar",
       "name_default": "Tar",
-      "native": "Katran",
+      "native": "Tar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -939,7 +939,7 @@
     },
     {
       "id": 54967,
-      "name": "Wijn",
+      "name": "Vinež",
       "name_default": "Vinež",
       "native": "Vinov",
       "type": "city",

@@ -255,7 +255,7 @@
       "id": 111081,
       "name": "Акутан",
       "name_default": "Akutan",
-      "native": "Acute",
+      "native": "Akutan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -271,7 +271,7 @@
     },
     {
       "id": 111303,
-      "name": "Точка прив'язки",
+      "name": "Анкор-Пойнт",
       "name_default": "Anchor Point",
       "native": "Anchor Point",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 111724,
-      "name": "Борсук",
+      "name": "Badger",
       "name_default": "Badger",
       "native": "Badger",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111976,
-      "name": "Ведмежий струмок",
+      "name": "Бер-Крік",
       "name_default": "Bear Creek",
       "native": "Bear Creek",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112281,
-      "name": "Бетель",
+      "name": "Бетел",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 112325,
-      "name": "Велике озеро",
+      "name": "Біг-Лейк",
       "name_default": "Big Lake",
       "native": "Big Lake",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 113124,
-      "name": "Бьютт",
+      "name": "Бютт",
       "name_default": "Butte",
       "native": "Butte",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 114412,
-      "name": "Коледж",
+      "name": "Колледж",
       "name_default": "College",
       "native": "College",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115315,
-      "name": "Даймонд-Рідж",
+      "name": "Даймонд-Ридж",
       "name_default": "Diamond Ridge",
       "native": "Diamond Ridge",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 116290,
-      "name": "Фербенкс",
+      "name": "Фербанкс",
       "name_default": "Fairbanks",
       "native": "Fairbanks",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 116401,
-      "name": "Фермерська петля",
+      "name": "Фарм-Луп",
       "name_default": "Farm Loop",
       "native": "Farm Loop",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 117124,
-      "name": "Шлюз",
+      "name": "Гейтвей",
       "name_default": "Gateway",
       "native": "Gateway",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 118634,
-      "name": "Хупер-Бей",
+      "name": "Гупер-Бей",
       "name_default": "Hooper Bay",
       "native": "Hooper Bay",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 118701,
-      "name": "Х'юстон",
+      "name": "Г'юстон",
       "name_default": "Houston",
       "native": "Houston",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 119364,
       "name": "Каліфорнійський",
       "name_default": "Kalifornsky",
-      "native": "California",
+      "native": "Kalifornsky",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -883,7 +883,7 @@
     },
     {
       "id": 119440,
-      "name": "Кенай",
+      "name": "Кінай",
       "name_default": "Kenai",
       "native": "Kenai",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 119523,
-      "name": "Кетчікан",
+      "name": "Кетчикан",
       "name_default": "Ketchikan",
       "native": "Ketchikan",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 119677,
-      "name": "Нік-Фервью",
+      "name": "Нік-Фейрв'ю",
       "name_default": "Knik-Fairview",
       "native": "Knik-Fairview",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 119698,
-      "name": "Кодьяк",
+      "name": "Кадьяк",
       "name_default": "Kodiak",
-      "native": "Kodiac",
+      "native": "Kodiak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 120024,
-      "name": "Озера",
+      "name": "Лейкс",
       "name_default": "Lakes",
       "native": "Lakes",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 120256,
-      "name": "Лінива гора",
+      "name": "Лейзі-Маунтен",
       "name_default": "Lazy Mountain",
       "native": "Lazy Mountain",
       "type": "city",
@@ -1083,7 +1083,7 @@
       "id": 121735,
       "name": "Метлакатла",
       "name_default": "Metlakatla",
-      "native": "Mastakatla",
+      "native": "Metlakatla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
       "id": 122898,
       "name": "Нікіскі",
       "name_default": "Nikiski",
-      "native": "Nichisko",
+      "native": "Nikiski",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
       "id": 122934,
       "name": "Ном",
       "name_default": "Nome",
-      "native": "Name",
+      "native": "Nome",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 123084,
-      "name": "Північний полюс",
+      "name": "Норт-Поль",
       "name_default": "North Pole",
       "native": "North Pole",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 124108,
-      "name": "Петербург",
+      "name": "Пітерсберг",
       "name_default": "Petersburg",
       "native": "Petersburg",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 124724,
-      "name": "Прудо-Бей",
+      "name": "Прадхо-Бей",
       "name_default": "Prudhoe Bay",
       "native": "Prudhoe bay",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 125130,
-      "name": "Ріджвей",
+      "name": "Риджвей",
       "name_default": "Ridgeway",
       "native": "Ridgeway",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 125860,
-      "name": "Сенд-Пойнт",
+      "name": "Санд-Пойнт",
       "name_default": "Sand Point",
       "native": "Sand Point",
       "type": "city",
@@ -1299,7 +1299,7 @@
       "id": 126475,
       "name": "Муніципалітет Скагвей",
       "name_default": "Skagway",
-      "native": "Skagway Municipality",
+      "native": "Skagway",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 127966,
-      "name": "Уналашка",
+      "name": "Уналаска",
       "name_default": "Unalaska",
       "native": "Unalaska",
       "type": "city",
@@ -1423,9 +1423,9 @@
     },
     {
       "id": 111852,
-      "name": "Барроу",
+      "name": "Мис Барроу",
       "name_default": "Utqiagvik",
-      "native": "Barrow",
+      "native": "Utqiagvik",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 128083,
-      "name": "Вальдес",
+      "name": "Валдіз",
       "name_default": "Valdez",
       "native": "Valdez",
       "type": "city",
@@ -1459,9 +1459,9 @@
     },
     {
       "id": 128593,
-      "name": "Василла",
+      "name": "Васілла",
       "name_default": "Wasilla",
-      "native": "Wasil",
+      "native": "Wasilla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 129304,
-      "name": "Верба",
+      "name": "Віллоу",
       "name_default": "Willow",
       "native": "Willow",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 129652,
-      "name": "Місто та район Якутат",
+      "name": "Yakutat City and Borough",
       "name_default": "Yakutat City and Borough",
       "native": "Yakutat City and Borough",
       "type": "city",

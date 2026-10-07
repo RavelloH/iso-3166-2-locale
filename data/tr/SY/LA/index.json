@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 104959,
-      "name": "El-Haffah Bölgesi",
+      "name": "Al-Haffah",
       "name_default": "Al-Haffah",
-      "native": "حي الحفة",
+      "native": "منطقة الحفة",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 105007,
-      "name": "Ceblah",
+      "name": "Jablah",
       "name_default": "Jablah",
       "native": "جبلة",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 105008,
-      "name": "Jableh Bölgesi",
+      "name": "Jableh",
       "name_default": "Jableh",
       "native": "قضاء جبلة",
       "type": "district",
@@ -165,7 +165,7 @@
     },
     {
       "id": 105025,
-      "name": "Lazkiye Bölgesi",
+      "name": "Latakia District",
       "name_default": "Latakia District",
       "native": "منطقة اللاذقية",
       "type": "district",
@@ -183,9 +183,9 @@
     },
     {
       "id": 105039,
-      "name": "Qardaha Bölgesi",
+      "name": "Qardaha",
       "name_default": "Qardaha",
-      "native": "قضاء القرداحة",
+      "native": "منطقة القرداحة",
       "type": "district",
       "level": null,
       "parent_id": null,

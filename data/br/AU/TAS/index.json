@@ -141,7 +141,7 @@
   "cities": [
     {
       "id": 3916,
-      "name": "Park Acton",
+      "name": "Acton Park",
       "name_default": "Acton Park",
       "native": "Acton Park",
       "type": "section",
@@ -195,7 +195,7 @@
     },
     {
       "id": 4145,
-      "name": "Poent ar pilenn",
+      "name": "Battery Point",
       "name_default": "Battery Point",
       "native": "Battery Point",
       "type": "section",
@@ -231,7 +231,7 @@
     },
     {
       "id": 4170,
-      "name": "Poent kaerder",
+      "name": "Beauty Point",
       "name_default": "Beauty Point",
       "native": "Beauty Point",
       "type": "city",
@@ -285,7 +285,7 @@
     },
     {
       "id": 4289,
-      "name": "Bae Blackmans",
+      "name": "Blackmans Bay",
       "name_default": "Blackmans Bay",
       "native": "Blackmans Bay",
       "type": "section",
@@ -303,7 +303,7 @@
     },
     {
       "id": 4292,
-      "name": "Uheldirioù Blackstone",
+      "name": "Blackstone Heights",
       "name_default": "Blackstone Heights",
       "native": "Blackstone Heights",
       "type": "section",
@@ -321,7 +321,7 @@
     },
     {
       "id": 4387,
-      "name": "Deiz-ha-bloaz",
+      "name": "Break O'Day",
       "name_default": "Break O'Day",
       "native": "Break O'Day",
       "type": "city",
@@ -411,7 +411,7 @@
     },
     {
       "id": 4540,
-      "name": "Kembre",
+      "name": "Cambridge",
       "name_default": "Cambridge",
       "native": "Cambridge",
       "type": "section",
@@ -429,7 +429,7 @@
     },
     {
       "id": 4649,
-      "name": "Arvor ar C'hreiz",
+      "name": "Central Coast",
       "name_default": "Central Coast",
       "native": "Central Coast",
       "type": "city",
@@ -447,7 +447,7 @@
     },
     {
       "id": 4653,
-      "name": "Uheldirioù Kreiz",
+      "name": "Central Highlands",
       "name_default": "Central Highlands",
       "native": "Central Highlands",
       "type": "city",
@@ -483,7 +483,7 @@
     },
     {
       "id": 4707,
-      "name": "Penn kelc'hiek",
+      "name": "Circular Head",
       "name_default": "Circular Head",
       "native": "Circular Head",
       "type": "city",
@@ -573,7 +573,7 @@
     },
     {
       "id": 4911,
-      "name": "Kari",
+      "name": "Currie",
       "name_default": "Currie",
       "native": "Currie",
       "type": "adm2",
@@ -627,7 +627,7 @@
     },
     {
       "id": 4981,
-      "name": "Traonienn Derwent",
+      "name": "Derwent Valley",
       "name_default": "Derwent Valley",
       "native": "Derwent Valley",
       "type": "city",
@@ -701,7 +701,7 @@
       "id": 5052,
       "name": "Dynnyrne",
       "name_default": "Dynnyrne",
-      "native": "Tight",
+      "native": "Dynnyrne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -843,7 +843,7 @@
     },
     {
       "id": 5320,
-      "name": "Bae Geilston",
+      "name": "Geilston Bay",
       "name_default": "Geilston Bay",
       "native": "Geilston Bay",
       "type": "section",
@@ -915,7 +915,7 @@
     },
     {
       "id": 5409,
-      "name": "Koad mat",
+      "name": "Goodwood",
       "name_default": "Goodwood",
       "native": "Goodwood",
       "type": "section",
@@ -953,7 +953,7 @@
       "id": 5503,
       "name": "Hadspen",
       "name_default": "Hadspen",
-      "native": "Had -pear",
+      "native": "Hadspen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1023,7 +1023,7 @@
     },
     {
       "id": 5622,
-      "name": "Kreiz-kêr Hobart",
+      "name": "Hobart city centre",
       "name_default": "Hobart city centre",
       "native": "Hobart city centre",
       "type": "section",
@@ -1059,9 +1059,9 @@
     },
     {
       "id": 5673,
-      "name": "Traoñienn Huon",
+      "name": "Huon Valley",
       "name_default": "Huon Valley",
-      "native": "Eat Valley",
+      "native": "Huon Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1079,7 +1079,7 @@
       "id": 5674,
       "name": "Huonville",
       "name_default": "Huonville",
-      "native": "Badly",
+      "native": "Huonville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1113,7 +1113,7 @@
     },
     {
       "id": 5835,
-      "name": "Kentiseg",
+      "name": "Kentish",
       "name_default": "Kentish",
       "native": "Kentish",
       "type": "city",
@@ -1131,7 +1131,7 @@
     },
     {
       "id": 5865,
-      "name": "Enez ar Roue",
+      "name": "King Island",
       "name_default": "King Island",
       "native": "King Island",
       "type": "city",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": 5887,
-      "name": "Traezhenn Kingston",
+      "name": "Kingston Beach",
       "name_default": "Kingston Beach",
       "native": "Kingston Beach",
       "type": "section",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": 5986,
-      "name": "Kreiz-kêr Launceston",
+      "name": "Launceston city centre",
       "name_default": "Launceston city centre",
       "native": "Launceston city centre",
       "type": "section",
@@ -1295,7 +1295,7 @@
       "id": 6000,
       "name": "Legana",
       "name_default": "Legana",
-      "native": "relieved",
+      "native": "Legana",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1419,7 +1419,7 @@
     },
     {
       "id": 6229,
-      "name": "Traoñienn ar Meander",
+      "name": "Meander Valley",
       "name_default": "Meander Valley",
       "native": "Meander Valley",
       "type": "city",
@@ -1439,7 +1439,7 @@
       "id": 6268,
       "name": "Miandetta",
       "name_default": "Miandetta",
-      "native": "Mianadet",
+      "native": "Miandetta",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1545,7 +1545,7 @@
     },
     {
       "id": 6446,
-      "name": "Menez Nelson",
+      "name": "Mount Nelson",
       "name_default": "Mount Nelson",
       "native": "Mount Nelson",
       "type": "section",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": 6459,
-      "name": "Menez Stuart",
+      "name": "Mount Stuart",
       "name_default": "Mount Stuart",
       "native": "Mount Stuart",
       "type": "section",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": 6561,
-      "name": "Kêr Nevez",
+      "name": "New Town",
       "name_default": "New Town",
       "native": "New Town",
       "type": "section",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": 6632,
-      "name": "Norzh Hobart",
+      "name": "North Hobart",
       "name_default": "North Hobart",
       "native": "North Hobart",
       "type": "section",
@@ -1743,7 +1743,7 @@
     },
     {
       "id": 6715,
-      "name": "Traezhenn gozh",
+      "name": "Old Beach",
       "name_default": "Old Beach",
       "native": "Old Beach",
       "type": "section",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 6828,
-      "name": "Pinguin",
+      "name": "Penguin",
       "name_default": "Penguin",
       "native": "Penguin",
       "type": "city",
@@ -1979,7 +1979,7 @@
       "id": 7050,
       "name": "Rokeby",
       "name_default": "Rokeby",
-      "native": "Rake",
+      "native": "Rokeby",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2013,7 +2013,7 @@
     },
     {
       "id": 7070,
-      "name": "Rozenn",
+      "name": "Rosetta",
       "name_default": "Rosetta",
       "native": "Rosetta",
       "type": "section",
@@ -2031,7 +2031,7 @@
     },
     {
       "id": 7115,
-      "name": "Sant Leonard",
+      "name": "Saint Leonards",
       "name_default": "Saint Leonards",
       "native": "Saint Leonards",
       "type": "section",
@@ -2103,7 +2103,7 @@
     },
     {
       "id": 7185,
-      "name": "Traezh Seizh Mil",
+      "name": "Seven Mile Beach",
       "name_default": "Seven Mile Beach",
       "native": "Seven Mile Beach",
       "type": "city",
@@ -2157,7 +2157,7 @@
     },
     {
       "id": 7209,
-      "name": "Park an aod",
+      "name": "Shorewell Park",
       "name_default": "Shorewell Park",
       "native": "Shorewell Park",
       "type": "section",
@@ -2231,7 +2231,7 @@
       "id": 7246,
       "name": "Sorell",
       "name_default": "Sorell",
-      "native": "Sore",
+      "native": "Sorell",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2247,7 +2247,7 @@
     },
     {
       "id": 7265,
-      "name": "Su Hobart",
+      "name": "South Hobart",
       "name_default": "South Hobart",
       "native": "South Hobart",
       "type": "section",
@@ -2303,7 +2303,7 @@
       "id": 7306,
       "name": "Spreyton",
       "name_default": "Spreyton",
-      "native": "Spray",
+      "native": "Spreyton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2373,7 +2373,7 @@
     },
     {
       "id": 7446,
-      "name": "Ledenez Tasman",
+      "name": "Tasman Peninsula",
       "name_default": "Tasman Peninsula",
       "native": "Tasman Peninsula",
       "type": "city",
@@ -2427,7 +2427,7 @@
     },
     {
       "id": 7583,
-      "name": "Traezhenn Turners",
+      "name": "Turners Beach",
       "name_default": "Turners Beach",
       "native": "Turners Beach",
       "type": "city",
@@ -2535,7 +2535,7 @@
     },
     {
       "id": 7782,
-      "name": "Arvor ar C'hornôg",
+      "name": "West Coast",
       "name_default": "West Coast",
       "native": "West Coast",
       "type": "city",
@@ -2589,7 +2589,7 @@
     },
     {
       "id": 7800,
-      "name": "Loar ar C'hornôg",
+      "name": "West Moonah",
       "name_default": "West Moonah",
       "native": "West Moonah",
       "type": "section",
@@ -2607,7 +2607,7 @@
     },
     {
       "id": 7807,
-      "name": "Tamar ar C'hornôg",
+      "name": "West Tamar",
       "name_default": "West Tamar",
       "native": "West Tamar",
       "type": "area",
@@ -2663,7 +2663,7 @@
       "id": 7975,
       "name": "Wynyard",
       "name_default": "Wynyard",
-      "native": "White",
+      "native": "Wynyard",
       "type": "city",
       "level": null,
       "parent_id": null,

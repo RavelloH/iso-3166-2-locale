@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48281,
-      "name": "Арнольд",
+      "name": "Арнолд",
       "name_default": "Arnold",
       "native": "Arnold",
       "type": "city",
@@ -182,6 +182,24 @@
       "country_id": 232
     },
     {
+      "id": 48514,
+      "name": "Бингам",
+      "name_default": "Bingham",
+      "native": "Bingham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10080,
+      "latitude": "52.94978000",
+      "longitude": "-0.95907000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q783269",
+      "country_code": "GB",
+      "state_code": "NTT",
+      "state_id": 2456,
+      "country_id": 232
+    },
+    {
       "id": 48517,
       "name": "Биркоты",
       "name_default": "Bircotes",
@@ -201,7 +219,7 @@
     },
     {
       "id": 48569,
-      "name": "Блидворт",
+      "name": "Билдворф",
       "name_default": "Blidworth",
       "native": "Blidworth",
       "type": "city",
@@ -327,7 +345,7 @@
     },
     {
       "id": 49402,
-      "name": "Ист-Лик",
+      "name": "Исл-Лик",
       "name_default": "East Leake",
       "native": "East Leake",
       "type": "city",
@@ -345,7 +363,7 @@
     },
     {
       "id": 49405,
-      "name": "Ист-Маркхэм",
+      "name": "Ист-Макхэм",
       "name_default": "East Markham",
       "native": "East Markham",
       "type": "city",
@@ -381,7 +399,7 @@
     },
     {
       "id": 49444,
-      "name": "Эдвинстоу",
+      "name": "Эдвинстоув",
       "name_default": "Edwinstowe",
       "native": "Edwinstowe",
       "type": "city",
@@ -435,7 +453,7 @@
     },
     {
       "id": 49805,
-      "name": "Деревня Хардвик",
+      "name": "Hardwick Village",
       "name_default": "Hardwick Village",
       "native": "Hardwick Village",
       "type": "city",
@@ -446,6 +464,24 @@
       "longitude": "-1.04320000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2459383",
+      "country_code": "GB",
+      "state_code": "NTT",
+      "state_id": 2456,
+      "country_id": 232
+    },
+    {
+      "id": 50017,
+      "name": "Хакнелл",
+      "name_default": "Hucknall",
+      "native": "Hucknall",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 35849,
+      "latitude": "53.03333000",
+      "longitude": "-1.20000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1633759",
       "country_code": "GB",
       "state_code": "NTT",
       "state_id": 2456,
@@ -543,7 +579,7 @@
     },
     {
       "id": 50485,
-      "name": "Мэнсфилд",
+      "name": "Мансфидд",
       "name_default": "Mansfield",
       "native": "Mansfield",
       "type": "city",
@@ -561,7 +597,7 @@
     },
     {
       "id": 50486,
-      "name": "Мэнсфилд Вудхаус",
+      "name": "Мансфилд-Вудхаус",
       "name_default": "Mansfield Woodhouse",
       "native": "Mansfield Woodhouse",
       "type": "city",
@@ -615,7 +651,7 @@
     },
     {
       "id": 50751,
-      "name": "Северный Коллингем",
+      "name": "North Collingham",
       "name_default": "North Collingham",
       "native": "North Collingham",
       "type": "city",
@@ -651,7 +687,7 @@
     },
     {
       "id": 51017,
-      "name": "Рэдклифф-он-Трент",
+      "name": "Радклиф-он-Трент",
       "name_default": "Radcliffe on Trent",
       "native": "Radcliffe on Trent",
       "type": "city",
@@ -669,7 +705,7 @@
     },
     {
       "id": 51025,
-      "name": "Рейнворт",
+      "name": "Рейнворф",
       "name_default": "Rainworth",
       "native": "Rainworth",
       "type": "city",
@@ -689,7 +725,7 @@
       "id": 51031,
       "name": "Ранскилл",
       "name_default": "Ranskill",
-      "native": "Robbery",
+      "native": "Ranskill",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -705,7 +741,7 @@
     },
     {
       "id": 51038,
-      "name": "Равенсхед",
+      "name": "Рейвенсхед",
       "name_default": "Ravenshead",
       "native": "Ravenshead",
       "type": "city",
@@ -725,7 +761,7 @@
       "id": 51065,
       "name": "Ретфорд",
       "name_default": "Retford",
-      "native": "Retord",
+      "native": "Retford",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -758,24 +794,6 @@
       "country_id": 232
     },
     {
-      "id": 51287,
-      "name": "Шайрбрук",
-      "name_default": "Shirebrook",
-      "native": "Shirebrook",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10744,
-      "latitude": "53.20333000",
-      "longitude": "-1.21336000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2345424",
-      "country_code": "GB",
-      "state_code": "NTT",
-      "state_id": 2456,
-      "country_id": 232
-    },
-    {
       "id": 51319,
       "name": "Скеллингторп",
       "name_default": "Skellingthorpe",
@@ -795,7 +813,7 @@
     },
     {
       "id": 51350,
-      "name": "Южный Коллингем",
+      "name": "South Collingham",
       "name_default": "South Collingham",
       "native": "South Collingham",
       "type": "city",
@@ -831,7 +849,7 @@
     },
     {
       "id": 51519,
-      "name": "Саттон Бонингтон",
+      "name": "Саттон-Бонингтон",
       "name_default": "Sutton Bonington",
       "native": "Sutton Bonington",
       "type": "city",
@@ -938,8 +956,26 @@
       "country_id": 232
     },
     {
+      "id": 51807,
+      "name": "Уэст-Бриджфорд",
+      "name_default": "West Bridgford",
+      "native": "West Bridgford",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 48314,
+      "latitude": "52.92979000",
+      "longitude": "-1.12537000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2079944",
+      "country_code": "GB",
+      "state_code": "NTT",
+      "state_id": 2456,
+      "country_id": 232
+    },
+    {
       "id": 51988,
-      "name": "Уорксоп",
+      "name": "Уэрксоп",
       "name_default": "Worksop",
       "native": "Worksop",
       "type": "city",

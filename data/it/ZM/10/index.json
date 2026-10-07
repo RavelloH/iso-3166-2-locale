@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 131330,
-      "name": "Chama",
-      "name_default": "Chama",
-      "native": "Party",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 12923,
-      "latitude": "-11.21303000",
-      "longitude": "33.15210000",
-      "timezone": "Africa/Lusaka",
-      "wikiDataId": "Q1060403",
-      "country_code": "ZM",
-      "state_code": "10",
-      "state_id": 1989,
-      "country_id": 246
-    },
-    {
       "id": 131337,
       "name": "Chinsali",
       "name_default": "Chinsali",
@@ -95,7 +77,7 @@
       "id": 131342,
       "name": "Isoka",
       "name_default": "Isoka",
-      "native": "Boyfriend",
+      "native": "Isoka",
       "type": "city",
       "level": null,
       "parent_id": null,

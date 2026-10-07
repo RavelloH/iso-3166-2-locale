@@ -54,5 +54,24 @@
     "wikiDataId": "Q13690",
     "country_code": "PH"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 82350,
+      "name": "Далипуга",
+      "name_default": "Dalipuga",
+      "native": "Dalipuga",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14242,
+      "latitude": "8.31583000",
+      "longitude": "124.25472000",
+      "timezone": "Asia/Manila",
+      "wikiDataId": "Q31559922",
+      "country_code": "PH",
+      "state_code": "10",
+      "state_id": 1339,
+      "country_id": 174
+    }
+  ]
 }

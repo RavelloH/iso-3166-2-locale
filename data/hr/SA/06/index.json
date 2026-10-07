@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 157036,
-      "name": "Baka",
+      "name": "Baqaa",
       "name_default": "Baqaa",
-      "native": "خائف",
+      "native": "Baqaa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 157038,
-      "name": "Gazala",
+      "name": "Ghazalah",
       "name_default": "Ghazalah",
       "native": "غزالة",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 148564,
       "name": "Ha'il",
       "name_default": "Ha'il",
-      "native": "يشيد ",
+      "native": "حائل",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -111,9 +111,9 @@
     },
     {
       "id": 157035,
-      "name": "Tuča",
+      "name": "Hail",
       "name_default": "Hail",
-      "native": "يشيد",
+      "native": "Hail",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 148582,
-      "name": "Džuba",
+      "name": "Jubbah",
       "name_default": "Jubbah",
       "native": "جبة",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 148584,
-      "name": "Kufar",
+      "name": "Qufar",
       "name_default": "Qufar",
       "native": "قفار",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 157041,
-      "name": "Šamli",
+      "name": "Shamli",
       "name_default": "Shamli",
       "native": "شاملي",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 157037,
-      "name": "Šanan",
+      "name": "Shanan",
       "name_default": "Shanan",
       "native": "شنان",
       "type": "city",

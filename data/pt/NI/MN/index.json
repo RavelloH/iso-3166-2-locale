@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 77169,
-      "name": "Cidade Sandino",
+      "name": "Ciudad Sandino",
       "name_default": "Ciudad Sandino",
       "native": "Ciudad Sandino",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 77182,
-      "name": "O Cruzeiro",
+      "name": "El Crucero",
       "name_default": "El Crucero",
       "native": "El Crucero",
       "type": "adm2",
@@ -93,9 +93,9 @@
     },
     {
       "id": 77213,
-      "name": "Manágua",
+      "name": "Managua",
       "name_default": "Managua",
-      "native": "Gerencia",
+      "native": "Managua",
       "type": "capital",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 77214,
       "name": "Masachapa",
       "name_default": "Masachapa",
-      "native": "Mascota",
+      "native": "Masachapa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 77287,
       "name": "Tipitapa",
       "name_default": "Tipitapa",
-      "native": "Tapa",
+      "native": "Tipitapa",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 77291,
-      "name": "Vale São Francisco",
+      "name": "Valle San Francisco",
       "name_default": "Valle San Francisco",
       "native": "Valle San Francisco",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 77292,
-      "name": "Vila El Carmen",
+      "name": "Villa El Carmen",
       "name_default": "Villa El Carmen",
       "native": "Villa El Carmen",
       "type": "adm2",

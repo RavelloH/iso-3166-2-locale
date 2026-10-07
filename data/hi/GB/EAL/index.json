@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48193,
-      "name": "पर कार्रवाई",
+      "name": "ऐक्टन",
       "name_default": "Acton",
       "native": "Acton",
       "type": "city",
@@ -92,26 +92,8 @@
       "country_id": 232
     },
     {
-      "id": 48676,
-      "name": "ब्रेंटफोर्ड",
-      "name_default": "Brentford",
-      "native": "Brentford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10750,
-      "latitude": "51.48619000",
-      "longitude": "-0.30830000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1013528",
-      "country_code": "GB",
-      "state_code": "EAL",
-      "state_id": 2532,
-      "country_id": 232
-    },
-    {
       "id": 49742,
-      "name": "ग्रीन्फोर्ड",
+      "name": "ग्रीनफ़र्ड",
       "name_default": "Greenford",
       "native": "Greenford",
       "type": "city",
@@ -129,7 +111,7 @@
     },
     {
       "id": 50778,
-      "name": "नॉर्थोल्ट",
+      "name": "नॉर्थहॉल्ट",
       "name_default": "Northolt",
       "native": "Northolt",
       "type": "city",

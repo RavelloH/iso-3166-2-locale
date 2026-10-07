@@ -74,8 +74,26 @@
       "country_id": 232
     },
     {
+      "id": 48435,
+      "name": "बेज़वॉटर",
+      "name_default": "Bayswater",
+      "native": "Bayswater",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 17500,
+      "latitude": "51.51116000",
+      "longitude": "-0.18426000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q41890",
+      "country_code": "GB",
+      "state_code": "WSM",
+      "state_id": 2357,
+      "country_id": 232
+    },
+    {
       "id": 49012,
-      "name": "वेस्टमिंस्टर शहर",
+      "name": "City of Westminster",
       "name_default": "City of Westminster",
       "native": "City of Westminster",
       "type": "adm3",
@@ -111,7 +129,7 @@
     },
     {
       "id": 51817,
-      "name": "लंदन का पश्चिमी छोर",
+      "name": "West End of London",
       "name_default": "West End of London",
       "native": "West End of London",
       "type": "section",

@@ -201,7 +201,7 @@
     },
     {
       "id": 136150,
-      "name": "孔径",
+      "name": "Bore",
       "name_default": "Bore",
       "native": "Bore",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 136193,
-      "name": "博尔戈瓦尔迪塔罗",
+      "name": "塔罗谷镇",
       "name_default": "Borgo Val di Taro",
       "native": "Borgo Val di Taro",
       "type": "adm3",
@@ -347,7 +347,7 @@
       "id": 137997,
       "name": "科尔卡尼亚诺",
       "name_default": "Corcagnano",
-      "native": "Corpagnano",
+      "native": "Corcagnano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 138032,
-      "name": "科尔尼利奥",
+      "name": "科尔尼廖",
       "name_default": "Corniglio",
       "native": "Corniglio",
       "type": "adm3",
@@ -383,7 +383,7 @@
       "id": 138466,
       "name": "费莱加拉",
       "name_default": "Felegara",
-      "native": "Metà",
+      "native": "Felegara",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 138613,
-      "name": "丰蒂维沃",
+      "name": "丰泰维沃",
       "name_default": "Fontevivo",
       "native": "Fontevivo",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 138660,
-      "name": "福尔诺沃·迪·塔罗",
+      "name": "塔罗河畔福尔诺沃",
       "name_default": "Fornovo di Taro",
       "native": "Fornovo di Taro",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 140019,
-      "name": "梅德萨诺",
+      "name": "梅代萨诺",
       "name_default": "Medesano",
       "native": "Medesano",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 140267,
-      "name": "科尔蒂蒙基奥",
+      "name": "蒙基奥德莱科尔蒂",
       "name_default": "Monchio delle Corti",
       "native": "Monchio delle Corti",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 140755,
-      "name": "阿尔杜伊尼的内维亚诺",
+      "name": "内维亚诺-德利阿尔杜伊尼",
       "name_default": "Neviano degli Arduini",
       "native": "Neviano degli Arduini",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 58393,
-      "name": "佩莱格里诺·帕尔门斯",
+      "name": "佩莱格里诺-帕尔门塞",
       "name_default": "Pellegrino Parmense",
       "native": "Pellegrino Parmense",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 58785,
-      "name": "波莱西纳·帕尔门塞",
+      "name": "波莱西内-帕尔门塞",
       "name_default": "Polesine Parmense",
       "native": "Polesine Parmense",
       "type": "adm3",
@@ -815,7 +815,7 @@
       "id": 59273,
       "name": "拉米奥拉",
       "name_default": "Ramiola",
-      "native": "CARMIOLA",
+      "native": "Ramiola",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -867,7 +867,7 @@
     },
     {
       "id": 59739,
-      "name": "巴甘扎沙拉",
+      "name": "萨拉巴甘扎",
       "name_default": "Sala Baganza",
       "native": "Sala Baganza",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 59780,
-      "name": "萨尔索马焦雷泰尔梅",
+      "name": "萨索温泉城",
       "name_default": "Salsomaggiore Terme",
       "native": "Salsomaggiore Terme",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 60240,
-      "name": "圣塞孔多帕尔门塞",
+      "name": "圣塞孔多-帕尔门塞",
       "name_default": "San Secondo Parmense",
       "native": "San Secondo Parmense",
       "type": "adm3",
@@ -939,9 +939,9 @@
     },
     {
       "id": 60880,
-      "name": "西萨",
+      "name": "锡萨",
       "name_default": "Sissa",
-      "native": "In",
+      "native": "Sissa",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -975,7 +975,7 @@
     },
     {
       "id": 60946,
-      "name": "索拉格纳",
+      "name": "索拉尼亚",
       "name_default": "Soragna",
       "native": "Soragna",
       "type": "adm3",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 61221,
-      "name": "特伦佐",
+      "name": "泰伦佐",
       "name_default": "Terenzo",
       "native": "Terenzo",
       "type": "adm3",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 61290,
-      "name": "蒂扎诺瓦尔帕尔马",
+      "name": "帕尔马河谷蒂扎诺",
       "name_default": "Tizzano Val Parma",
       "native": "Tizzano Val Parma",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 61762,
-      "name": "瓦拉诺·德·梅莱加里",
+      "name": "瓦拉诺-德梅莱加里",
       "name_default": "Varano De' Melegari",
       "native": "Varano De' Melegari",
       "type": "adm3",

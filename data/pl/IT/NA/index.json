@@ -219,7 +219,7 @@
     },
     {
       "id": 135715,
-      "name": "Adwokatka",
+      "name": "Avvocata",
       "name_default": "Avvocata",
       "native": "Avvocata",
       "type": "section",
@@ -545,7 +545,7 @@
       "id": 137031,
       "name": "Casarea",
       "name_default": "Casarea",
-      "native": "Demolizione",
+      "native": "Casarea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 137261,
-      "name": "Zamek Cisterna",
+      "name": "Castello di Cisterna",
       "name_default": "Castello di Cisterna",
       "native": "Castello di Cisterna",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 137944,
-      "name": "Komiziano",
+      "name": "Comiziano",
       "name_default": "Comiziano",
       "native": "Comiziano",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 138114,
-      "name": "Park Krajobrazowy",
+      "name": "Country Park",
       "name_default": "Country Park",
       "native": "Parco di campagna",
       "type": "city",
@@ -833,7 +833,7 @@
       "id": 138701,
       "name": "Franche",
       "name_default": "Franche",
-      "native": "Frank",
+      "native": "Franche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 138988,
-      "name": "Giugliano w Kampanii",
+      "name": "Giugliano in Campania",
       "name_default": "Giugliano in Campania",
       "native": "Giugliano in Campania",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 139478,
-      "name": "Listy",
+      "name": "Lettere",
       "name_default": "Lettere",
       "native": "Lettere",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 139976,
-      "name": "Masa Somma",
+      "name": "Massa di Somma",
       "name_default": "Massa di Somma",
       "native": "Massa di Somma",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 139972,
-      "name": "Masa Lubrense",
+      "name": "Massa Lubrense",
       "name_default": "Massa Lubrense",
       "native": "Massa Lubrense",
       "type": "adm3",
@@ -1193,7 +1193,7 @@
       "id": 140127,
       "name": "Miano",
       "name_default": "Miano",
-      "native": "Titolo",
+      "native": "Miano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 140385,
-      "name": "Góra Procida",
+      "name": "Monte di Procida",
       "name_default": "Monte di Procida",
       "native": "Monte di Procida",
       "type": "adm3",
@@ -1247,7 +1247,7 @@
       "id": 140529,
       "name": "Monterusciello",
       "name_default": "Monterusciello",
-      "native": "Monteruscello",
+      "native": "Monterusciello",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 140697,
-      "name": "Muzycy",
+      "name": "Musci",
       "name_default": "Musci",
       "native": "Musci",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 58253,
-      "name": "Palma Kampania",
+      "name": "Palma Campania",
       "name_default": "Palma Campania",
       "native": "Palma Campania",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 58545,
-      "name": "Fortepian Sorrento",
+      "name": "Piano di Sorrento",
       "name_default": "Piano di Sorrento",
       "native": "Piano di Sorrento",
       "type": "adm3",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 58568,
-      "name": "Plac Roma",
+      "name": "Piazza Roma",
       "name_default": "Piazza Roma",
       "native": "Piazza Roma",
       "type": "adm3",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 58574,
-      "name": "Piazzala",
+      "name": "Piazzola",
       "name_default": "Piazzola",
       "native": "Piazzola",
       "type": "city",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 58797,
-      "name": "Pyłek Trocchia",
+      "name": "Pollena Trocchia",
       "name_default": "Pollena Trocchia",
       "native": "Pollena Trocchia",
       "type": "adm3",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 59228,
-      "name": "Kwarto",
+      "name": "Quarto",
       "name_default": "Quarto",
       "native": "Quarto",
       "type": "adm3",
@@ -1823,7 +1823,7 @@
       "id": 59854,
       "name": "San Carlo All'Arena",
       "name_default": "San Carlo All'Arena",
-      "native": "San Carlo Arel'arena",
+      "native": "San Carlo All'Arena",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 59914,
-      "name": "Święty Ferdynand",
+      "name": "San Ferdinando",
       "name_default": "San Ferdinando",
       "native": "San Ferdinando",
       "type": "section",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 59935,
-      "name": "San Gennaro Wezuwiusz",
+      "name": "San Gennaro Vesuviano",
       "name_default": "San Gennaro Vesuviano",
       "native": "San Gennaro Vesuviano",
       "type": "adm3",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 60011,
-      "name": "Święty Józef",
+      "name": "San Giuseppe",
       "name_default": "San Giuseppe",
       "native": "San Giuseppe",
       "type": "section",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 60271,
-      "name": "Święty Vitaliano",
+      "name": "San Vitaliano",
       "name_default": "San Vitaliano",
       "native": "San Vitaliano",
       "type": "adm3",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 60340,
-      "name": "Święta Anastazja",
+      "name": "Sant'Anastasia",
       "name_default": "Sant'Anastasia",
       "native": "Sant'Anastasia",
       "type": "adm3",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 60352,
-      "name": "Święty Anioł",
+      "name": "Sant'Angelo",
       "name_default": "Sant'Angelo",
       "native": "Sant'angelo",
       "type": "city",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 60613,
-      "name": "Krewetki",
+      "name": "Scampia",
       "name_default": "Scampia",
       "native": "Scampia",
       "type": "section",
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 60929,
-      "name": "Somma Wezuwiana",
+      "name": "Somma Vesuviana",
       "name_default": "Somma Vesuviana",
       "native": "Somma Vesuviana",
       "type": "adm3",
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 61347,
-      "name": "Wieża Annunziata",
+      "name": "Torre Annunziata",
       "name_default": "Torre Annunziata",
       "native": "Torre Annunziata",
       "type": "adm3",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 61353,
-      "name": "Wieża Caracciolo",
+      "name": "Torre Caracciolo",
       "name_default": "Torre Caracciolo",
       "native": "Torre Caracciolo",
       "type": "city",
@@ -2415,7 +2415,7 @@
     },
     {
       "id": 61371,
-      "name": "Wieża Greco",
+      "name": "Torre del Greco",
       "name_default": "Torre del Greco",
       "native": "Torre del Greco",
       "type": "adm3",
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 61912,
-      "name": "Wikaria",
+      "name": "Vicaria",
       "name_default": "Vicaria",
       "native": "Vicaria",
       "type": "section",
@@ -2579,7 +2579,7 @@
       "id": 62224,
       "name": "Vomero",
       "name_default": "Vomero",
-      "native": "Vomeroro",
+      "native": "Vomero",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 62272,
-      "name": "Strefa przemysłowa",
+      "name": "Zona Industriale",
       "name_default": "Zona Industriale",
       "native": "Area industriale",
       "type": "section",

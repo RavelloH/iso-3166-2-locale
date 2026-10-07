@@ -75,7 +75,7 @@
     },
     {
       "id": 79970,
-      "name": "Arènes",
+      "name": "Arenas",
       "name_default": "Arenas",
       "native": "Arena",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80024,
-      "name": "Calidonie",
+      "name": "Calidonia",
       "name_default": "Calidonia",
       "native": "Calidonia",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80025,
-      "name": "Calibre",
+      "name": "Calobre",
       "name_default": "Calobre",
       "native": "Calobre",
       "type": "adm2",
@@ -221,7 +221,7 @@
       "id": 80026,
       "name": "Calovébora",
       "name_default": "Calovébora",
-      "native": "Calvo",
+      "native": "Calovébora",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 80031,
-      "name": "Chant du Llano",
+      "name": "Canto del Llano",
       "name_default": "Canto del Llano",
       "native": "Canto del Llano",
       "type": "adm3",
@@ -291,10 +291,10 @@
     },
     {
       "id": 80089,
-      "name": "District d'Atalaya",
+      "name": "Distrito de Atalaya",
       "name_default": "Distrito de Atalaya",
       "native": "Distrito de Atalaya",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11321,
@@ -309,7 +309,7 @@
     },
     {
       "id": 80096,
-      "name": "District de Calobre",
+      "name": "Distrito de Calobre",
       "name_default": "Distrito de Calobre",
       "native": "Distrito de Calobre",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80098,
-      "name": "District de Cañazas",
+      "name": "Distrito de Cañazas",
       "name_default": "Distrito de Cañazas",
       "native": "Distrito de Cañazas",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80121,
-      "name": "District de Montijo",
+      "name": "Distrito de Montijo",
       "name_default": "Distrito de Montijo",
       "native": "Distrito de Montijo",
       "type": "section",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80134,
-      "name": "District de Río de Jesús",
+      "name": "Distrito de Río de Jesús",
       "name_default": "Distrito de Río de Jesús",
       "native": "Distrito de Río de Jesús",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80136,
-      "name": "District de San Francisco",
+      "name": "Distrito de San Francisco",
       "name_default": "Distrito de San Francisco",
       "native": "Distrito de San Francisco",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 80150,
-      "name": "Le Barrito",
+      "name": "El Barrito",
       "name_default": "El Barrito",
       "native": "El Barrito",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 80162,
-      "name": "Le Coclá",
+      "name": "El Coclá",
       "name_default": "El Coclá",
       "native": "El Coclá",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80173,
-      "name": "L'Espino de Santa Rosa",
+      "name": "El Espino de Santa Rosa",
       "name_default": "El Espino de Santa Rosa",
       "native": "El Espino de Santa Rosa",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 80182,
-      "name": "Le Marañón",
+      "name": "El Marañón",
       "name_default": "El Marañón",
       "native": "El Marañón",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80183,
-      "name": "La María",
+      "name": "El María",
       "name_default": "El María",
       "native": "El María",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80197,
-      "name": "Le Pajaro",
+      "name": "El Pájaro",
       "name_default": "El Pájaro",
       "native": "El Pájaro",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80187,
-      "name": "Le Pantano",
+      "name": "El Pantano",
       "name_default": "El Pantano",
       "native": "El Pantano",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 80190,
-      "name": "Le Peñón",
+      "name": "El Peñón",
       "name_default": "El Peñón",
       "native": "El Peñón",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80191,
-      "name": "Le Picador",
+      "name": "El Picador",
       "name_default": "El Picador",
       "native": "El Picador",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80194,
-      "name": "Le Potrero",
+      "name": "El Potrero",
       "name_default": "El Potrero",
       "native": "El Potrero",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80199,
-      "name": "Le Rincón",
+      "name": "El Rincón",
       "name_default": "El Rincón",
       "native": "El Rincón",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80205,
-      "name": "L'Uvito",
+      "name": "El Uvito",
       "name_default": "El Uvito",
       "native": "El Uvito",
       "type": "section",
@@ -939,7 +939,7 @@
     },
     {
       "id": 80324,
-      "name": "Lola",
+      "name": "Lolá",
       "name_default": "Lolá",
       "native": "Lola",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 80326,
-      "name": "Les Algarrobos",
+      "name": "Los Algarrobos",
       "name_default": "Los Algarrobos",
       "native": "Los Algarrobos",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80331,
-      "name": "Les châteaux",
+      "name": "Los Castillos",
       "name_default": "Los Castillos",
       "native": "Los Castillos",
       "type": "adm3",
@@ -993,7 +993,7 @@
     },
     {
       "id": 80335,
-      "name": "Les Higos",
+      "name": "Los Higos",
       "name_default": "Los Higos",
       "native": "Los Higos",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80349,
-      "name": "District de Mariato",
+      "name": "Mariato",
       "name_default": "Mariato",
       "native": "Distrito de Mariato",
       "type": "district",
@@ -1085,7 +1085,7 @@
       "id": 80421,
       "name": "Ponuga",
       "name_default": "Ponuga",
-      "native": "Oferta",
+      "native": "Ponuga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 80454,
-      "name": "Rodéo Viejo",
+      "name": "Rodeo Viejo",
       "name_default": "Rodeo Viejo",
       "native": "Rodeo Viejo",
       "type": "adm3",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 80473,
-      "name": "Saint-Bartholo",
+      "name": "San Bartolo",
       "name_default": "San Bartolo",
       "native": "San Bartolo",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 80500,
-      "name": "Santa Fé",
+      "name": "Santa Fe",
       "name_default": "Santa Fe",
       "native": "Santa Fe",
       "type": "adm2",
@@ -1319,7 +1319,7 @@
       "id": 80516,
       "name": "Soná",
       "name_default": "Soná",
-      "native": "Hijo",
+      "native": "Soná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 80519,
-      "name": "Tébario",
+      "name": "Tebario",
       "name_default": "Tebario",
       "native": "Tebario",
       "type": "adm3",

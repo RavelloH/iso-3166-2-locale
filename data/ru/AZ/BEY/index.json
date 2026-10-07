@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 8059,
-      "name": "Бейлаганский район",
+      "name": "Бейлаган",
       "name_default": "Beylagan",
-      "native": "Cavabdeh",
+      "native": "Beylagan",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -93,9 +93,9 @@
     },
     {
       "id": 8078,
-      "name": "Dünyamalılar",
+      "name": "Дюнямаллар",
       "name_default": "Dünyamalılar",
-      "native": "Aləm",
+      "native": "Dünyamalılar",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 8128,
       "name": "Орджоникидзе (значения)",
       "name_default": "Orjonikidze",
-      "native": "Oriner",
+      "native": "Orjonikidze",
       "type": "city",
       "level": null,
       "parent_id": null,

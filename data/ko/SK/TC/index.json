@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104379,
-      "name": "Bánovce nad Bebravou",
+      "name": "바노우체나트베브라보우",
       "name_default": "Bánovce nad Bebravou",
       "native": "Bánovce nad Bebravou",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104384,
-      "name": "두브니차 나드 바홈",
+      "name": "두브니차나트바홈",
       "name_default": "Dubnica nad Váhom",
       "native": "Dubnica nad Váhom",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 104437,
-      "name": "넴소바",
+      "name": "넴쇼바",
       "name_default": "Nemšová",
       "native": "Nemšová",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 104444,
-      "name": "Nové Mesto nad Váhom",
+      "name": "노베메스토나트바홈",
       "name_default": "Nové Mesto nad Váhom",
       "native": "Nové Mesto nad Váhom",
       "type": "city",
@@ -294,7 +294,7 @@
       "name": "Okres Bánovce nad Bebravou",
       "name_default": "Okres Bánovce nad Bebravou",
       "native": "Okres Bánovce nad Bebravou",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 34910,
@@ -330,7 +330,7 @@
       "name": "오크레스 마이자바",
       "name_default": "Okres Myjava",
       "native": "Okres Myjava",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24809,
@@ -345,7 +345,7 @@
     },
     {
       "id": 104482,
-      "name": "Okres Nové Mesto nad Váhom",
+      "name": "노베메스토나트바홈구",
       "name_default": "Okres Nové Mesto nad Váhom",
       "native": "Okres Nové Mesto nad Váhom",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104484,
-      "name": "오크레스 파르티잔스케",
+      "name": "파르티잔스케구",
       "name_default": "Okres Partizánske",
       "native": "Okres Partizánske",
       "type": "area",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104489,
-      "name": "오크레스 포바즈스카 비스트리차",
+      "name": "포바슈스카비스트리차구",
       "name_default": "Okres Považská Bystrica",
       "native": "Okres Považská Bystrica",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 104491,
-      "name": "오크레스 프리에비자",
+      "name": "프리에비자구",
       "name_default": "Okres Prievidza",
       "native": "Okres Prievidza",
       "type": "area",
@@ -417,7 +417,7 @@
     },
     {
       "id": 104492,
-      "name": "오크레스 푸초프",
+      "name": "푸호우구",
       "name_default": "Okres Púchov",
       "native": "Okres Púchov",
       "type": "area",
@@ -435,7 +435,7 @@
     },
     {
       "id": 104508,
-      "name": "오크레스 트렌친",
+      "name": "트렌친구",
       "name_default": "Okres Trenčín",
       "native": "Okres Trenčín",
       "type": "area",
@@ -471,7 +471,7 @@
     },
     {
       "id": 104529,
-      "name": "포바즈스카 비스트리차",
+      "name": "포바슈스카비스트리차",
       "name_default": "Považská Bystrica",
       "native": "Považská Bystrica",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 104532,
-      "name": "프리비자",
+      "name": "프리에비자",
       "name_default": "Prievidza",
       "native": "Prievidza",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 104533,
-      "name": "푸초프",
+      "name": "푸호우",
       "name_default": "Púchov",
       "native": "Púchov",
       "type": "adm2",

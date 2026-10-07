@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111069,
-      "name": "Эйнсворт",
+      "name": "Эйнсуэрт",
       "name_default": "Ainsworth",
       "native": "Ainsworth",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111127,
-      "name": "Альбион",
+      "name": "Албион",
       "name_default": "Albion",
       "native": "Albion",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111200,
-      "name": "Альянс",
+      "name": "Аллайанс",
       "name_default": "Alliance",
       "native": "Alliance",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 111536,
-      "name": "Эшленд",
+      "name": "Ашленд",
       "name_default": "Ashland",
       "native": "Ashland",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 111981,
-      "name": "Беатрис",
+      "name": "Биатрис",
       "name_default": "Beatrice",
       "native": "Beatrice",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 112171,
-      "name": "Бенкельман",
+      "name": "Бенкелмен",
       "name_default": "Benkelman",
       "native": "Benkelman",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 112843,
-      "name": "Сломанный лук",
+      "name": "Брокен-Боу",
       "name_default": "Broken Bow",
       "native": "Broken Bow",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 113256,
-      "name": "Кембридж",
+      "name": "Кеймбридж",
       "name_default": "Cambridge",
       "native": "Cambridge",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113637,
-      "name": "Центр",
+      "name": "Сентер",
       "name_default": "Center",
       "native": "Center",
       "type": "city",
@@ -757,7 +757,7 @@
     },
     {
       "id": 113669,
-      "name": "Центральный город",
+      "name": "Central City",
       "name_default": "Central City",
       "native": "Central City",
       "type": "city",
@@ -775,9 +775,9 @@
     },
     {
       "id": 113707,
-      "name": "Чадрон",
+      "name": "Шадрон",
       "name_default": "Chadron",
-      "native": "Chaper",
+      "native": "Chadron",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -829,7 +829,7 @@
     },
     {
       "id": 114171,
-      "name": "Клей Центр",
+      "name": "Клей-Сентер",
       "name_default": "Clay Center",
       "native": "Clay Center",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 115061,
-      "name": "Дэвид Сити",
+      "name": "Дейвид-Сити",
       "name_default": "David City",
       "native": "David City",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 116381,
-      "name": "Фоллс-Сити",
+      "name": "Фолс-Сити",
       "name_default": "Falls City",
       "native": "Falls City",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 116923,
-      "name": "Фремонт",
+      "name": "Фримонт",
       "name_default": "Fremont",
       "native": "Fremont",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 116946,
-      "name": "Друг",
+      "name": "Френд",
       "name_default": "Friend",
       "native": "Friend",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 117143,
-      "name": "Женева",
+      "name": "Дженива",
       "name_default": "Geneva",
       "native": "Geneva",
       "type": "city",
@@ -1135,9 +1135,9 @@
     },
     {
       "id": 117170,
-      "name": "Геринг",
+      "name": "Гиринг",
       "name_default": "Gering",
-      "native": "Small amount",
+      "native": "Gering",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 117415,
-      "name": "Гетеборг",
+      "name": "Готенбург",
       "name_default": "Gothenburg",
       "native": "Gothenburg",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 118133,
-      "name": "Гастингс",
+      "name": "Хейстингс",
       "name_default": "Hastings",
       "native": "Hastings",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 118238,
-      "name": "Хеврон",
+      "name": "Хиброн",
       "name_default": "Hebron",
       "native": "Hebron",
       "type": "city",
@@ -1405,9 +1405,9 @@
     },
     {
       "id": 118528,
-      "name": "Холдридж",
+      "name": "Холдредж",
       "name_default": "Holdrege",
-      "native": "Holdger",
+      "native": "Holdrege",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 118843,
-      "name": "Хайаннис",
+      "name": "Хаянис",
       "name_default": "Hyannis",
       "native": "Hyannis",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 119408,
-      "name": "Кирни",
+      "name": "Карни",
       "name_default": "Kearney",
       "native": "Kearney",
       "type": "city",
@@ -1495,9 +1495,9 @@
     },
     {
       "id": 119796,
-      "name": "Ла Виста",
+      "name": "Ла-Виста",
       "name_default": "La Vista",
-      "native": "The view",
+      "native": "La Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 120818,
-      "name": "Город Луп",
+      "name": "Лоап-Сити",
       "name_default": "Loup City",
       "native": "Loup City",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 121479,
-      "name": "МакКук",
+      "name": "Мак-Кук",
       "name_default": "McCook",
       "native": "McCook",
       "type": "city",
@@ -1659,7 +1659,7 @@
       "id": 121929,
       "name": "Минден",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 123082,
-      "name": "Северный Платт",
+      "name": "Норт-Платт",
       "name_default": "North Platte",
       "native": "North Platte",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 123228,
-      "name": "О'Нил",
+      "name": "О’Нил",
       "name_default": "O'Neill",
       "native": "O'Neill",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 123601,
-      "name": "Оцеола",
+      "name": "Осеола",
       "name_default": "Osceola",
       "native": "Osceola",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 123814,
-      "name": "Папильон",
+      "name": "Папиллион",
       "name_default": "Papillion",
       "native": "Papillion",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 123935,
-      "name": "Город Пауни",
+      "name": "Пауни-Сити",
       "name_default": "Pawnee City",
       "native": "Pawnee City",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 124362,
-      "name": "Платтсмут",
+      "name": "Платсмут",
       "name_default": "Plattsmouth",
       "native": "Plattsmouth",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 124836,
-      "name": "Ралстон",
+      "name": "Ролстон",
       "name_default": "Ralston",
       "native": "Ralston",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 124944,
-      "name": "Красное Облако",
+      "name": "Ред-Клауд",
       "name_default": "Red Cloud",
       "native": "Red Cloud",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 125704,
-      "name": "Святой Павел",
+      "name": "Сент-Пол",
       "name_default": "Saint Paul",
       "native": "Saint Paul",
       "type": "city",
@@ -2197,7 +2197,7 @@
     },
     {
       "id": 126060,
-      "name": "Скоттсблафф",
+      "name": "Скотсблафф",
       "name_default": "Scottsbluff",
       "native": "Scottsbluff",
       "type": "city",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 126730,
-      "name": "Южный Су-Сити",
+      "name": "Саут-Су-Сити",
       "name_default": "South Sioux City",
       "native": "South Sioux City",
       "type": "city",
@@ -2433,7 +2433,7 @@
       "id": 127314,
       "name": "Саттон",
       "name_default": "Sutton",
-      "native": "Suton",
+      "native": "Sutton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 128091,
-      "name": "Валентина",
+      "name": "Валентайн",
       "name_default": "Valentine",
       "native": "Valentine",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 128098,
-      "name": "Долина",
+      "name": "Valley",
       "name_default": "Valley",
       "native": "Valley",
       "type": "city",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 128334,
-      "name": "Ваху",
+      "name": "Уаху",
       "name_default": "Wahoo",
       "native": "Wahoo",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 128961,
-      "name": "Вест-Пойнт",
+      "name": "Уэст-Пойнт",
       "name_default": "West Point",
       "native": "West Point",
       "type": "city",
@@ -2847,7 +2847,7 @@
       "id": 129737,
       "name": "Ютан",
       "name_default": "Yutan",
-      "native": "earthly",
+      "native": "Yutan",
       "type": "city",
       "level": null,
       "parent_id": null,

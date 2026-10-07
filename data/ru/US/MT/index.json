@@ -307,7 +307,7 @@
     },
     {
       "id": 112062,
-      "name": "Белград",
+      "name": "Белгрейд",
       "name_default": "Belgrade",
       "native": "Belgrade",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112338,
-      "name": "Большой лес",
+      "name": "Биг Тимбер",
       "name_default": "Big Timber",
       "native": "Big Timber",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112653,
-      "name": "Бозман",
+      "name": "Бозмен",
       "name_default": "Bozeman",
       "native": "Bozeman",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 114028,
-      "name": "Круг",
+      "name": "Серкл",
       "name_default": "Circle",
       "native": "Circle",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 114941,
-      "name": "Вырезать Банк",
+      "name": "Кат-Банк",
       "name_default": "Cut Bank",
       "native": "Cut Bank",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 115173,
-      "name": "Олений Лодж",
+      "name": "Дир-Лодж",
       "name_default": "Deer Lodge",
       "native": "Deer Lodge",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 115688,
-      "name": "Восточная Елена",
+      "name": "Ист-Хелена",
       "name_default": "East Helena",
       "native": "East Helena",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 115715,
-      "name": "Восточная Миссула",
+      "name": "East Missoula",
       "name_default": "East Missoula",
       "native": "East Missoula",
       "type": "city",
@@ -811,9 +811,9 @@
     },
     {
       "id": 115910,
-      "name": "Экалака",
+      "name": "Икалака",
       "name_default": "Ekalaka",
-      "native": "Ekamaka",
+      "native": "Ekalaka",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -829,7 +829,7 @@
     },
     {
       "id": 116236,
-      "name": "Эврика",
+      "name": "Юрика",
       "name_default": "Eureka",
       "native": "Eureka",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 116264,
-      "name": "Вечнозеленый",
+      "name": "Evergreen",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 116693,
-      "name": "Форт Бентон",
+      "name": "Форт-Бентон",
       "name_default": "Fort Benton",
       "native": "Fort Benton",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 117249,
-      "name": "Глазго",
+      "name": "Гласгоу",
       "name_default": "Glasgow",
       "native": "Glasgow",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 118154,
-      "name": "Гавр",
+      "name": "Хавр",
       "name_default": "Havre",
       "native": "Havre",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 118251,
-      "name": "Елена",
+      "name": "Хелена",
       "name_default": "Helena",
       "native": "Helena",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 118252,
-      "name": "Северо-восток долины Хелены",
+      "name": "Helena Valley Northeast",
       "name_default": "Helena Valley Northeast",
       "native": "Helena Valley Northeast",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 118253,
-      "name": "Северо-запад долины Хелены",
+      "name": "Helena Valley Northwest",
       "name_default": "Helena Valley Northwest",
       "native": "Helena Valley Northwest",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 118254,
-      "name": "Юго-восток долины Хелена",
+      "name": "Helena Valley Southeast",
       "name_default": "Helena Valley Southeast",
       "native": "Helena Valley Southeast",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 118255,
-      "name": "Западно-Центральная долина Хелены",
+      "name": "Helena Valley West Central",
       "name_default": "Helena Valley West Central",
       "native": "Helena Valley West Central",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 119317,
-      "name": "Иордания",
+      "name": "Джордан",
       "name_default": "Jordan",
       "native": "Jordan",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 119365,
-      "name": "Каллиспелл",
+      "name": "Калиспелл",
       "name_default": "Kalispell",
       "native": "Kalispell",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 121068,
-      "name": "Мальта",
+      "name": "Молта",
       "name_default": "Malta",
       "native": "Malta",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 121116,
-      "name": "Манхэттен",
+      "name": "Манхаттан",
       "name_default": "Manhattan",
       "native": "Manhattan",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 121844,
-      "name": "Майлз-Сити",
+      "name": "Майлс-Сити",
       "name_default": "Miles City",
       "native": "Miles City",
       "type": "city",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 121991,
-      "name": "Миссула",
+      "name": "Мизула",
       "name_default": "Missoula",
       "native": "Missoula",
       "type": "city",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 122998,
-      "name": "Северный Браунинг",
+      "name": "North Browning",
       "name_default": "North Browning",
       "native": "North Browning",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 124132,
-      "name": "Филипсбург",
+      "name": "Филипсберг",
       "name_default": "Philipsburg",
       "native": "Philipsburg",
       "type": "city",
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 124326,
-      "name": "Равнины",
+      "name": "Плейнс",
       "name_default": "Plains",
       "native": "Plains",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 124954,
-      "name": "Красный Лодж",
+      "name": "Ред-Лодж",
       "name_default": "Red Lodge",
       "native": "Red Lodge",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 125474,
-      "name": "Округлять",
+      "name": "Раундап",
       "name_default": "Roundup",
       "native": "Roundup",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 126125,
-      "name": "Озеро Сили",
+      "name": "Seeley Lake",
       "name_default": "Seeley Lake",
       "native": "Seeley Lake",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 126633,
-      "name": "Южный Браунинг",
+      "name": "South Browning",
       "name_default": "South Browning",
       "native": "South Browning",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 126955,
-      "name": "Стэнфорд",
+      "name": "Станфорд",
       "name_default": "Stanford",
       "native": "Stanford",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 127282,
-      "name": "Начальство",
+      "name": "Сьюпириор",
       "name_default": "Superior",
       "native": "Superior",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 127611,
-      "name": "Три вилки",
+      "name": "Три-Форкс",
       "name_default": "Three Forks",
       "native": "Three Forks",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 128289,
-      "name": "Вирджиния-Сити",
+      "name": "Верджиния-Сити",
       "name_default": "Virginia City",
       "native": "Virginia City",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 128878,
-      "name": "Западный Глендайв",
+      "name": "West Glendive",
       "name_default": "West Glendive",
       "native": "West Glendive",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 129009,
-      "name": "Западный Йеллоустоун",
+      "name": "Уэст-Йеллоустон",
       "name_default": "West Yellowstone",
       "native": "West Yellowstone",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 129166,
-      "name": "Сиг",
+      "name": "Уайтфиш",
       "name_default": "Whitefish",
       "native": "Whitefish",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 129213,
-      "name": "Вибо",
+      "name": "Уибо",
       "name_default": "Wibaux",
       "native": "Wibaux",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 129473,
-      "name": "Вольф Пойнт",
+      "name": "Вулф-Пойнт",
       "name_default": "Wolf Point",
       "native": "Wolf Point",
       "type": "city",

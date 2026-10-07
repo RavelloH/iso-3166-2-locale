@@ -206,7 +206,7 @@
     },
     {
       "id": 68757,
-      "name": "Camalù",
+      "name": "Camalú",
       "name_default": "Camalú",
       "native": "Camalú",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Stazione di Coahuila",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 70599,
-      "name": "Guadalupe Vittoria",
+      "name": "Ciudad Guadalupe Victoria",
       "name_default": "Ciudad Guadalupe Victoria",
       "native": "Guadalupe Victoria",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 69339,
-      "name": "Era di Colonia Nueva",
+      "name": "Colonia Nueva Era",
       "name_default": "Colonia Nueva Era",
       "native": "Colonia Nueva Era",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Dottor Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Ejido Dottor Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -800,7 +800,7 @@
     },
     {
       "id": 70116,
-      "name": "Il Porvenir",
+      "name": "El Porvenir",
       "name_default": "El Porvenir",
       "native": "El Porvenir",
       "type": "city",
@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "Guerrero Negro",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "Hacienda Tecate",
       "name_default": "Hacienda Tecate",
@@ -1070,9 +1052,9 @@
     },
     {
       "id": 73165,
-      "name": "Rumorosa",
+      "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1142,7 +1124,7 @@
     },
     {
       "id": 71676,
-      "name": "Licenzado Gustavo Díaz Ordaz",
+      "name": "Licenciado Gustavo Díaz Ordaz",
       "name_default": "Licenciado Gustavo Díaz Ordaz",
       "native": "Licenciado Gustavo Díaz Ordaz",
       "type": "city",
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "Portici di San Antonio",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "Progresso",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1574,7 +1556,7 @@
     },
     {
       "id": 73510,
-      "name": "San Filippo",
+      "name": "San Felipe",
       "name_default": "San Felipe",
       "native": "San Felipe",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "Santa Fe",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tecolots",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",

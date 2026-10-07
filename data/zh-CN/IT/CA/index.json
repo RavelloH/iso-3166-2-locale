@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135617,
-      "name": "阿尔蒙吉亚",
+      "name": "阿尔蒙贾",
       "name_default": "Armungia",
       "native": "Armungia",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 135790,
-      "name": "巴亚奥",
+      "name": "巴劳",
       "name_default": "Ballao",
       "native": "Ballao",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 138236,
-      "name": "德西莫曼努",
+      "name": "代奇莫曼努",
       "name_default": "Decimomannu",
       "native": "Decimomannu",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 138237,
-      "name": "德西莫普祖",
+      "name": "代奇莫普楚",
       "name_default": "Decimoputzu",
       "native": "Decimoputzu",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 138283,
-      "name": "多利亚诺娃",
+      "name": "多利亚诺瓦",
       "name_default": "Dolianova",
       "native": "Dolianova",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 138293,
-      "name": "玛丽亚之家",
+      "name": "多穆斯-德玛丽亚",
       "name_default": "Domus de Maria",
       "native": "Domus de Maria",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 138387,
-      "name": "埃斯特齐利",
+      "name": "埃斯泰尔齐利",
       "name_default": "Esterzili",
       "native": "Esterzili",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 138915,
-      "name": "盖尔盖",
+      "name": "杰尔杰伊",
       "name_default": "Gergei",
       "native": "Gergei",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138924,
-      "name": "盖西科",
+      "name": "杰西科",
       "name_default": "Gesico",
       "native": "Gesico",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 140261,
-      "name": "莫纳斯提尔",
+      "name": "莫纳斯蒂尔",
       "name_default": "Monastir",
       "native": "Monastir",
       "type": "adm3",
@@ -671,7 +671,7 @@
       "id": 140896,
       "name": "奥利亚·佩西奥萨",
       "name_default": "Olia Speciosa",
-      "native": "Olia bella",
+      "native": "Olia Speciosa",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 140980,
-      "name": "奥塔凯苏斯",
+      "name": "奥尔塔切苏斯",
       "name_default": "Ortacesus",
       "native": "Ortacesus",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 58669,
-      "name": "皮门特尔",
+      "name": "皮门泰尔",
       "name_default": "Pimentel",
       "native": "Pimentel",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 59800,
-      "name": "萨马特扎伊",
+      "name": "萨马蔡",
       "name_default": "Samatzai",
       "native": "Samatzai",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 60249,
-      "name": "圣斯佩拉特",
+      "name": "圣斯佩拉泰",
       "name_default": "San Sperate",
       "native": "San Sperate",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 60345,
-      "name": "圣安德烈亚·弗里乌斯",
+      "name": "圣安德烈亚-弗留斯",
       "name_default": "Sant'Andrea Frius",
       "native": "Sant'Andrea Frius",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 60693,
-      "name": "塞拉吉乌斯",
+      "name": "塞拉尔朱斯",
       "name_default": "Selargius",
       "native": "Selargius",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 60736,
-      "name": "塞尔迪亚娜",
+      "name": "塞尔迪亚纳",
       "name_default": "Serdiana",
       "native": "Serdiana",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 60814,
-      "name": "圣彼得罗节",
+      "name": "塞蒂莫圣皮耶特罗",
       "name_default": "Settimo San Pietro",
       "native": "Settimo San Pietro",
       "type": "adm3",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 60851,
-      "name": "长角果",
+      "name": "锡利夸",
       "name_default": "Siliqua",
       "native": "Siliqua",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 60852,
-      "name": "西利乌斯",
+      "name": "锡柳斯",
       "name_default": "Silius",
       "native": "Silius",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 60869,
-      "name": "辛内",
+      "name": "辛纳伊",
       "name_default": "Sinnai",
       "native": "Sinnai",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 60882,
-      "name": "西乌尔古斯·多尼加拉",
+      "name": "休尔古斯多尼加拉",
       "name_default": "Siurgus Donigala",
       "native": "Siurgus Donigala",
       "type": "adm3",
@@ -1175,7 +1175,7 @@
       "id": 61106,
       "name": "苏普兰努",
       "name_default": "Su Planu",
-      "native": "Sono un piano",
+      "native": "Su Planu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 61614,
-      "name": "乌萨娜",
+      "name": "乌萨纳",
       "name_default": "Ussana",
       "native": "Ussana",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 61620,
-      "name": "歌",
+      "name": "乌塔",
       "name_default": "Uta",
       "native": "Uta",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 62020,
-      "name": "圣彼得罗别墅",
+      "name": "维拉圣皮耶特罗",
       "name_default": "Villa San Pietro",
       "native": "Villa San Pietro",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 62104,
-      "name": "维拉诺瓦图洛",
+      "name": "图洛新村",
       "name_default": "Villanova Tulo",
       "native": "Villanova Tulo",
       "type": "adm3",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 62120,
-      "name": "维拉普特祖",
+      "name": "维拉普楚",
       "name_default": "Villaputzu",
       "native": "Villaputzu",
       "type": "adm3",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 62136,
-      "name": "维拉西米乌斯",
+      "name": "维拉西缪斯",
       "name_default": "Villasimius",
       "native": "Villasimius",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 62139,
-      "name": "维拉斯佩西奥萨",
+      "name": "维拉斯佩乔萨",
       "name_default": "Villaspeciosa",
       "native": "Villaspeciosa",
       "type": "adm3",

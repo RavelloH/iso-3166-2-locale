@@ -386,7 +386,7 @@
     },
     {
       "id": 69376,
-      "name": "Colonia Venustiano Carranza",
+      "name": "Venustiano Carranza",
       "name_default": "Colonia Venustiano Carranza",
       "native": "Colonia Venustiano Carranza",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "Dokter Alberto Oviedo Mota",
+      "name": "Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69762,
-      "name": "Ejido Dokter Alberto Oviedo Mota (El Indiviso)",
+      "name": "Ejido Doctor Alberto Oviedo Mota",
       "name_default": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "native": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69765,
-      "name": "Ejido-generaal Leandro Valle",
+      "name": "Ejido General Leandro Valle",
       "name_default": "Ejido General Leandro Valle",
       "native": "Ejido General Leandro Valle",
       "type": "city",
@@ -674,7 +674,7 @@
     },
     {
       "id": 69792,
-      "name": "Ejido Sinaloa",
+      "name": "Sinaloa",
       "name_default": "Ejido Sinaloa",
       "native": "Ejido Sinaloa",
       "type": "city",
@@ -836,7 +836,7 @@
     },
     {
       "id": 70203,
-      "name": "El Sauzal de Rodríguez",
+      "name": "El Sauzal",
       "name_default": "El Sauzal de Rodríguez",
       "native": "El Sauzal de Rodríguez",
       "type": "city",
@@ -943,24 +943,6 @@
       "country_id": 142
     },
     {
-      "id": 70633,
-      "name": "Guerrero Negro",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
       "id": 70655,
       "name": "Hacienda Tecate",
       "name_default": "Hacienda Tecate",
@@ -1052,7 +1034,7 @@
     },
     {
       "id": 71463,
-      "name": "De Voorzienigheid",
+      "name": "La Providencia",
       "name_default": "La Providencia",
       "native": "La Providencia",
       "type": "city",
@@ -1072,7 +1054,7 @@
       "id": 73165,
       "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1106,7 +1088,7 @@
     },
     {
       "id": 71597,
-      "name": "De lekkernijen",
+      "name": "Las Delicias",
       "name_default": "Las Delicias",
       "native": "Las Delicias",
       "type": "city",
@@ -1196,7 +1178,7 @@
     },
     {
       "id": 71766,
-      "name": "De Algodones",
+      "name": "Los Algodones",
       "name_default": "Los Algodones",
       "native": "Los Algodones",
       "type": "city",
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "Portieken van San Antonio",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "Vooruitgang",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1448,7 +1430,7 @@
     },
     {
       "id": 72930,
-      "name": "Dorp Benito García",
+      "name": "Pueblo Benito García",
       "name_default": "Pueblo Benito García",
       "native": "Pueblo Benito García",
       "type": "city",
@@ -1664,7 +1646,7 @@
     },
     {
       "id": 74663,
-      "name": "Santa Fé",
+      "name": "Santa Fe",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1682,7 +1664,7 @@
     },
     {
       "id": 74673,
-      "name": "Sint Isabel",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "city",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tecolotten",
+      "name": "Tecolots",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",
@@ -1826,7 +1808,7 @@
     },
     {
       "id": 76103,
-      "name": "Wijngaarden van de zon",
+      "name": "Viñas del Sol",
       "name_default": "Viñas del Sol",
       "native": "Viñas del Sol",
       "type": "city",

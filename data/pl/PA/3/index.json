@@ -111,7 +111,7 @@
     },
     {
       "id": 80073,
-      "name": "Okrężnica",
+      "name": "Colón",
       "name_default": "Colón",
       "native": "Colon",
       "type": "adm1",
@@ -147,10 +147,10 @@
     },
     {
       "id": 80099,
-      "name": "Dystrykt Chagres",
+      "name": "Distrito de Chagres",
       "name_default": "Distrito de Chagres",
       "native": "Distrito de Chagres",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11342,
@@ -165,7 +165,7 @@
     },
     {
       "id": 80106,
-      "name": "Dystrykt Colón",
+      "name": "Distrito de Colón",
       "name_default": "Distrito de Colón",
       "native": "Distrito de Colón",
       "type": "city",
@@ -183,10 +183,10 @@
     },
     {
       "id": 80109,
-      "name": "Dystrykt Donoso",
+      "name": "Distrito de Donoso",
       "name_default": "Distrito de Donoso",
       "native": "Distrito de Donoso",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14798,
@@ -201,7 +201,7 @@
     },
     {
       "id": 80131,
-      "name": "Dystrykt Portobelo",
+      "name": "Distrito de Portobelo",
       "name_default": "Distrito de Portobelo",
       "native": "Distrito de Portobelo",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 80140,
-      "name": "Dystrykt Santa Isabel",
+      "name": "Distrito de Santa Isabel",
       "name_default": "Distrito de Santa Isabel",
       "native": "Distrito de Santa Isabel",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 80206,
-      "name": "El Valle de la Union",
+      "name": "El Valle de la Unión",
       "name_default": "El Valle de la Unión",
       "native": "El Valle de la Unión",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 80214,
       "name": "Gatún",
       "name_default": "Gatún",
-      "native": "Gatthe",
+      "native": "Gatún",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 80350,
-      "name": "Maria Chiquita",
+      "name": "María Chiquita",
       "name_default": "María Chiquita",
       "native": "María Chiquita",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80368,
-      "name": "Imię Boga",
+      "name": "Nombre de Dios",
       "name_default": "Nombre de Dios",
       "native": "Nombre de Dios",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80376,
-      "name": "Nowy Chagres",
+      "name": "Nuevo Chagres",
       "name_default": "Nuevo Chagres",
       "native": "Nuevo Chagres",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80379,
-      "name": "Nowy San Juan",
+      "name": "Nuevo San Juan",
       "name_default": "Nuevo San Juan",
       "native": "Nuevo San Juan",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 80415,
-      "name": "Plaża Chiquita",
+      "name": "Playa Chiquita",
       "name_default": "Playa Chiquita",
       "native": "Playa Chiquita",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 80433,
-      "name": "Port Escondido",
+      "name": "Puerto Escondido",
       "name_default": "Puerto Escondido",
       "native": "Puerto Escondido",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80435,
-      "name": "Port Pilón",
+      "name": "Puerto Pilón",
       "name_default": "Puerto Pilón",
       "native": "Puerto Pilón",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80457,
-      "name": "Rio Alejandro",
+      "name": "Río Alejandro",
       "name_default": "Río Alejandro",
       "native": "Río Alejandro",
       "type": "section",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80464,
-      "name": "Rio Rita",
+      "name": "Río Rita",
       "name_default": "Río Rita",
       "native": "Río Rita",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80502,
-      "name": "Święta Izabela",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80506,
-      "name": "Święta Rita Arriba",
+      "name": "Santa Rita Arriba",
       "name_default": "Santa Rita Arriba",
       "native": "Santa Rita Arriba",
       "type": "city",

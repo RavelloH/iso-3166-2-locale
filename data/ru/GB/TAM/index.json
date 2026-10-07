@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48297,
-      "name": "Эштон-андер-Лайн",
+      "name": "Аштон-андер-Лайн",
       "name_default": "Ashton-under-Lyne",
       "native": "Ashton-under-Lyne",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49338,
-      "name": "Дукинфилд",
+      "name": "Дакинвилд",
       "name_default": "Dukinfield",
       "native": "Dukinfield",
       "type": "city",
@@ -140,24 +140,6 @@
       "longitude": "-2.08809000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1976179",
-      "country_code": "GB",
-      "state_code": "TAM",
-      "state_id": 2367,
-      "country_id": 232
-    },
-    {
-      "id": 49662,
-      "name": "Глоссоп",
-      "name_default": "Glossop",
-      "native": "Glossop",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33243,
-      "latitude": "53.44325000",
-      "longitude": "-1.94900000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q383912",
       "country_code": "GB",
       "state_code": "TAM",
       "state_id": 2367,
@@ -273,7 +255,7 @@
     },
     {
       "id": 51416,
-      "name": "Стейлибридж",
+      "name": "Сталибридж",
       "name_default": "Stalybridge",
       "native": "Stalybridge",
       "type": "city",

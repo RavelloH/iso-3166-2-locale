@@ -71,7 +71,7 @@
   "cities": [
     {
       "id": 39153,
-      "name": "Kolonia",
+      "name": "Colonia",
       "name_default": "Colonia",
       "native": "Colonia",
       "type": "adm1",
@@ -109,7 +109,7 @@
       "id": 39157,
       "name": "Fais",
       "name_default": "Fais",
-      "native": "Do",
+      "native": "Fais",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -125,7 +125,7 @@
     },
     {
       "id": 39158,
-      "name": "Gmina Fais",
+      "name": "Fais Municipality",
       "name_default": "Fais Municipality",
       "native": "Fais Municipality",
       "type": "municipality",
@@ -161,7 +161,7 @@
     },
     {
       "id": 39162,
-      "name": "Gmina Faraulep",
+      "name": "Faraulep",
       "name_default": "Faraulep",
       "native": "Faraulep Municipality",
       "type": "municipality",
@@ -233,7 +233,7 @@
     },
     {
       "id": 39174,
-      "name": "Gmina Lamotrek",
+      "name": "Lamotrek",
       "name_default": "Lamotrek",
       "native": "Lamotrek Municipality",
       "type": "municipality",
@@ -269,9 +269,9 @@
     },
     {
       "id": 39191,
-      "name": "Gmina Ngulu",
+      "name": "Ngulu",
       "name_default": "Ngulu",
-      "native": "As the Holy Spirit",
+      "native": "Ngulu",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -305,7 +305,7 @@
     },
     {
       "id": 39209,
-      "name": "Gmina Rumung",
+      "name": "Rumung",
       "name_default": "Rumung",
       "native": "Rumung Municipality",
       "type": "municipality",
@@ -323,7 +323,7 @@
     },
     {
       "id": 39212,
-      "name": "Gmina Satawal",
+      "name": "Satawal",
       "name_default": "Satawal",
       "native": "Satawal Municipality",
       "type": "municipality",

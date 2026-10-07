@@ -170,7 +170,7 @@
     },
     {
       "id": 68704,
-      "name": "카보 산 루카스",
+      "name": "카보산루카스",
       "name_default": "Cabo San Lucas",
       "native": "Cabo San Lucas",
       "type": "city",
@@ -331,6 +331,24 @@
       "country_id": 142
     },
     {
+      "id": 70633,
+      "name": "게레로 네그로",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
       "id": 71436,
       "name": "라파스",
       "name_default": "La Paz",
@@ -476,7 +494,7 @@
     },
     {
       "id": 71781,
-      "name": "로스 카보스",
+      "name": "로스카보스",
       "name_default": "Los Cabos",
       "native": "Los Cabos",
       "type": "municipality",

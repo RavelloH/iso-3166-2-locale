@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48402,
-      "name": "巴恩斯利",
+      "name": "巴恩斯利都市自治市",
       "name_default": "Barnsley",
       "native": "Barnsley",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48589,
-      "name": "迪恩河畔博尔顿",
+      "name": "德恩河畔博尔顿",
       "name_default": "Bolton upon Dearne",
       "native": "Bolton upon Dearne",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49195,
-      "name": "卡德沃斯",
+      "name": "卡德沃思",
       "name_default": "Cudworth",
       "native": "Cudworth",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49234,
-      "name": "达菲尔德",
+      "name": "达菲尔",
       "name_default": "Darfield",
       "native": "Darfield",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49299,
-      "name": "多德沃思",
+      "name": "多德沃斯",
       "name_default": "Dodworth",
       "native": "Dodworth",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50882,
-      "name": "佩尼斯通",
+      "name": "潘尼斯通",
       "name_default": "Penistone",
       "native": "Penistone",
       "type": "adm3",
@@ -290,26 +290,8 @@
       "country_id": 232
     },
     {
-      "id": 51456,
-      "name": "斯托克斯布里奇",
-      "name_default": "Stocksbridge",
-      "native": "Stocksbridge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13301,
-      "latitude": "53.48249000",
-      "longitude": "-1.59373000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1813994",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
       "id": 51966,
-      "name": "沃姆韦尔",
+      "name": "沃姆威尔",
       "name_default": "Wombwell",
       "native": "Wombwell",
       "type": "city",

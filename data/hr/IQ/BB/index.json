@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134488,
-      "name": "Al-Hillah",
+      "name": "Al Ḩillah",
       "name_default": "Al Ḩillah",
       "native": "الحلة",
       "type": "adm1",
@@ -93,7 +93,7 @@
     },
     {
       "id": 134516,
-      "name": "Imam Kasim",
+      "name": "Imam Qasim",
       "name_default": "Imam Qasim",
       "native": "الإمام القاسم",
       "type": "city",
@@ -103,7 +103,7 @@
       "latitude": "32.29799000",
       "longitude": "44.68282000",
       "timezone": "Asia/Baghdad",
-      "wikiDataId": "Q4119531",
+      "wikiDataId": null,
       "country_code": "IQ",
       "state_code": "BB",
       "state_id": 3955,

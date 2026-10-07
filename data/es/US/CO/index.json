@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 110998,
-      "name": "Acres verdes",
+      "name": "Acres Green",
       "name_default": "Acres Green",
       "native": "Acres Green",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111070,
-      "name": "Academia de la Fuerza Aérea",
+      "name": "Air Force Academy",
       "name_default": "Air Force Academy",
       "native": "Air Force Academy",
       "type": "city",
@@ -309,7 +309,7 @@
       "id": 111098,
       "name": "Alamosa",
       "name_default": "Alamosa",
-      "native": "Sub -part",
+      "native": "Alamosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -325,9 +325,9 @@
     },
     {
       "id": 111100,
-      "name": "Alamosa Este",
+      "name": "Alamosa East",
       "name_default": "Alamosa East",
-      "native": "Submissive age",
+      "native": "Alamosa East",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -343,7 +343,7 @@
     },
     {
       "id": 111399,
-      "name": "Madera de manzano",
+      "name": "Applewood",
       "name_default": "Applewood",
       "native": "Applewood",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 111452,
-      "name": "Ranchettes aristócratas",
+      "name": "Aristocrat Ranchettes",
       "name_default": "Aristocrat Ranchettes",
       "native": "Aristocrat Ranchettes",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111552,
-      "name": "Álamo temblón",
+      "name": "Aspen",
       "name_default": "Aspen",
       "native": "Aspen",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111875,
-      "name": "Basalto",
+      "name": "Basalt",
       "name_default": "Basalt",
       "native": "Basalt",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 111910,
-      "name": "Mesa de la almena",
+      "name": "Battlement Mesa",
       "name_default": "Battlement Mesa",
       "native": "Battlement Mesa",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 112231,
-      "name": "Berkeley",
+      "name": "Berkley",
       "name_default": "Berkley",
       "native": "Berkley",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 112376,
-      "name": "Selva negra",
+      "name": "Black Forest",
       "name_default": "Black Forest",
       "native": "Black Forest",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 112600,
-      "name": "Roca",
+      "name": "Boulder",
       "name_default": "Boulder",
       "native": "Boulder",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 112953,
-      "name": "Cepillar",
+      "name": "Brush",
       "name_default": "Brush",
       "native": "Brush",
       "type": "city",
@@ -687,7 +687,7 @@
       "id": 113004,
       "name": "Buena Vista",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -757,7 +757,7 @@
     },
     {
       "id": 113597,
-      "name": "Ciudad Cañón",
+      "name": "Cañon City",
       "name_default": "Cañon City",
       "native": "Cañon City",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 113443,
-      "name": "Club de carruajes",
+      "name": "Carriage Club",
       "name_default": "Carriage Club",
       "native": "Carriage Club",
       "type": "city",
@@ -811,9 +811,9 @@
     },
     {
       "id": 113518,
-      "name": "Parque Cascade-Chipita",
+      "name": "Cascade-Chipita Park",
       "name_default": "Cascade-Chipita Park",
-      "native": "Cascade-chippe park",
+      "native": "Cascade-Chipita Park",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -829,7 +829,7 @@
     },
     {
       "id": 113546,
-      "name": "Pinos del castillo",
+      "name": "Castle Pines",
       "name_default": "Castle Pines",
       "native": "Castle Pines",
       "type": "city",
@@ -865,7 +865,7 @@
     },
     {
       "id": 113549,
-      "name": "Roca del castillo",
+      "name": "Castle Rock",
       "name_default": "Castle Rock",
       "native": "Castle Rock",
       "type": "city",
@@ -903,7 +903,7 @@
       "id": 113625,
       "name": "Cedaredge",
       "name_default": "Cedaredge",
-      "native": "Cedardge",
+      "native": "Cedaredge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 113634,
-      "name": "Centenario",
+      "name": "Centennial",
       "name_default": "Centennial",
       "native": "Centennial",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 113638,
-      "name": "Centro",
+      "name": "Center",
       "name_default": "Center",
       "native": "Center",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 113671,
-      "name": "Ciudad central",
+      "name": "Central City",
       "name_default": "Central City",
       "native": "Central City",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 113863,
-      "name": "Pueblo de Cherry Hills",
+      "name": "Cherry Hills Village",
       "name_default": "Cherry Hills Village",
       "native": "Cherry Hills Village",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 114025,
-      "name": "Colinas de Cimarrón",
+      "name": "Cimarron Hills",
       "name_default": "Cimarron Hills",
       "native": "Cimarron Hills",
       "type": "section",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 114329,
-      "name": "Arroyo del carbón",
+      "name": "Coal Creek",
       "name_default": "Coal Creek",
       "native": "Coal Creek",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 114455,
-      "name": "Ciudad de Colorado",
+      "name": "Colorado City",
       "name_default": "Colorado City",
       "native": "Colorado City",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 114488,
-      "name": "Aguileña",
+      "name": "Columbine",
       "name_default": "Columbine",
       "native": "Columbine",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 114489,
-      "name": "Valle de Columbine",
+      "name": "Columbine Valley",
       "name_default": "Columbine Valley",
       "native": "Columbine Valley",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 114526,
-      "name": "Ciudad Comercio",
+      "name": "Commerce City",
       "name_default": "Commerce City",
       "native": "Commerce City",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 114552,
       "name": "Conejos",
       "name_default": "Conejos",
-      "native": "Rabbits",
+      "native": "Conejos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 114674,
-      "name": "Cortés",
+      "name": "Cortez",
       "name_default": "Cortez",
       "native": "Cortez",
       "type": "city",
@@ -1317,7 +1317,7 @@
       "id": 115190,
       "name": "Del Norte",
       "name_default": "Del Norte",
-      "native": "Northern",
+      "native": "Del Norte",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 115262,
-      "name": "derby",
+      "name": "Derby",
       "name_default": "Derby",
       "native": "Derby",
       "type": "city",
@@ -1387,9 +1387,9 @@
     },
     {
       "id": 115442,
-      "name": "Arroyo Dove",
+      "name": "Dove Creek",
       "name_default": "Dove Creek",
-      "native": "Where Creek",
+      "native": "Dove Creek",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 115443,
-      "name": "Valle de la paloma",
+      "name": "Dove Valley",
       "name_default": "Dove Valley",
       "native": "Dove Valley",
       "type": "city",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 115597,
-      "name": "Águila",
+      "name": "Eagle",
       "name_default": "Eagle",
       "native": "Eagle",
       "type": "city",
@@ -1533,7 +1533,7 @@
       "id": 115925,
       "name": "El Jebel",
       "name_default": "El Jebel",
-      "native": "The Jebel",
+      "native": "El Jebel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1623,7 +1623,7 @@
       "id": 116208,
       "name": "Estes Park",
       "name_default": "Estes Park",
-      "native": "These park",
+      "native": "Estes Park",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 116263,
-      "name": "Hojas perennes",
+      "name": "Evergreen",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 116344,
-      "name": "Juego limpio",
+      "name": "Fairplay",
       "name_default": "Fairplay",
       "native": "Fairplay",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 116464,
-      "name": "Alturas federales",
+      "name": "Federal Heights",
       "name_default": "Federal Heights",
       "native": "Federal Heights",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 116585,
-      "name": "Florencia",
+      "name": "Florence",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 116699,
-      "name": "Fuerte Carson",
+      "name": "Fort Carson",
       "name_default": "Fort Carson",
       "native": "Fort Carson",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 116701,
-      "name": "Fuerte Collins",
+      "name": "Fort Collins",
       "name_default": "Fort Collins",
       "native": "Fort Collins",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 116726,
-      "name": "Fuerte Lupton",
+      "name": "Fort Lupton",
       "name_default": "Fort Lupton",
       "native": "Fort Lupton",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 116733,
-      "name": "Fuerte Morgan",
+      "name": "Fort Morgan",
       "name_default": "Fort Morgan",
       "native": "Fort Morgan",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 116778,
-      "name": "Fuente",
+      "name": "Fountain",
       "name_default": "Fountain",
       "native": "Fountain",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 116796,
-      "name": "Cazador de aves",
+      "name": "Fowler",
       "name_default": "Fowler",
       "native": "Fowler",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 116887,
-      "name": "Federico",
+      "name": "Frederick",
       "name_default": "Frederick",
       "native": "Frederick",
       "type": "city",
@@ -1909,9 +1909,9 @@
     },
     {
       "id": 116968,
-      "name": "Fruta",
+      "name": "Fruita",
       "name_default": "Fruita",
-      "native": "Fruit",
+      "native": "Fruita",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 117346,
-      "name": "Dorado",
+      "name": "Golden",
       "name_default": "Golden",
       "native": "Golden",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 117465,
-      "name": "Gran unión",
+      "name": "Grand Junction",
       "name_default": "Grand Junction",
       "native": "Grand Junction",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 117712,
-      "name": "Pueblo de Greenwood",
+      "name": "Greenwood Village",
       "name_default": "Greenwood Village",
       "native": "Greenwood Village",
       "type": "city",
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 117801,
-      "name": "Cañón de pistola",
+      "name": "Gunbarrel",
       "name_default": "Gunbarrel",
       "native": "Gunbarrel",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 117822,
-      "name": "Yeso",
+      "name": "Gypsum",
       "name_default": "Gypsum",
       "native": "Gypsum",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 118420,
-      "name": "Rancho Highlands",
+      "name": "Highlands Ranch",
       "name_default": "Highlands Ranch",
       "native": "Highlands Ranch",
       "type": "city",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 118687,
-      "name": "Aguas termales de azufre",
+      "name": "Hot Sulphur Springs",
       "name_default": "Hot Sulphur Springs",
       "native": "Hot Sulphur Springs",
       "type": "city",
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 118872,
-      "name": "Manantiales de Idaho",
+      "name": "Idaho Springs",
       "name_default": "Idaho Springs",
       "native": "Idaho Springs",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 118908,
-      "name": "Colinas indias",
+      "name": "Indian Hills",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 119329,
-      "name": "Julesburgo",
+      "name": "Julesburg",
       "name_default": "Julesburg",
       "native": "Julesburg",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 119547,
-      "name": "Piedra clave",
+      "name": "Keystone",
       "name_default": "Keystone",
       "native": "Keystone",
       "type": "city",
@@ -2523,7 +2523,7 @@
       "id": 119716,
       "name": "Kremmling",
       "name_default": "Kremmling",
-      "native": "Cremation",
+      "native": "Kremmling",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2541,7 +2541,7 @@
       "id": 119762,
       "name": "La Junta",
       "name_default": "La Junta",
-      "native": "The Board",
+      "native": "La Junta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2559,7 +2559,7 @@
       "id": 119786,
       "name": "La Salle",
       "name_default": "La Salle",
-      "native": "The room",
+      "native": "La Salle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 119886,
-      "name": "Ciudad del lago",
+      "name": "Lake City",
       "name_default": "Lake City",
       "native": "Lake City",
       "type": "city",
@@ -2667,7 +2667,7 @@
       "id": 120153,
       "name": "Las Ánimas",
       "name_default": "Las Animas",
-      "native": "The animas",
+      "native": "Las Animas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 120272,
-      "name": "Leadville Norte",
+      "name": "Leadville North",
       "name_default": "Leadville North",
       "native": "Leadville North",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 120545,
-      "name": "Parque Lincoln",
+      "name": "Lincoln Park",
       "name_default": "Lincoln Park",
       "native": "Lincoln Park",
       "type": "city",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": 120732,
-      "name": "Árbol solitario",
+      "name": "Lone Tree",
       "name_default": "Lone Tree",
       "native": "Lone Tree",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 121126,
-      "name": "Manantiales de Manitou",
+      "name": "Manitou Springs",
       "name_default": "Manitou Springs",
       "native": "Manitou Springs",
       "type": "city",
@@ -2935,7 +2935,7 @@
     },
     {
       "id": 121552,
-      "name": "Aguamiel",
+      "name": "Mead",
       "name_default": "Mead",
       "native": "Mead",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 121613,
-      "name": "Más dócil",
+      "name": "Meeker",
       "name_default": "Meeker",
       "native": "Meeker",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 121694,
-      "name": "Meridiano",
+      "name": "Meridian",
       "name_default": "Meridian",
       "native": "Meridian",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 122191,
-      "name": "Monumento",
+      "name": "Monument",
       "name_default": "Monument",
       "native": "Monument",
       "type": "city",
@@ -3079,7 +3079,7 @@
     },
     {
       "id": 122435,
-      "name": "Pueblo de montaña",
+      "name": "Mountain Village",
       "name_default": "Mountain Village",
       "native": "Mountain Village",
       "type": "city",
@@ -3097,9 +3097,9 @@
     },
     {
       "id": 122611,
-      "name": "Países Bajos",
+      "name": "Nederland",
       "name_default": "Nederland",
-      "native": "The Netherlands",
+      "native": "Nederland",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 122689,
-      "name": "Nuevo castillo",
+      "name": "New Castle",
       "name_default": "New Castle",
       "native": "New Castle",
       "type": "city",
@@ -3135,7 +3135,7 @@
       "id": 122911,
       "name": "Niwot",
       "name_default": "Niwot",
-      "native": "Nail",
+      "native": "Niwot",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 123532,
-      "name": "Ciudad huerto",
+      "name": "Orchard City",
       "name_default": "Orchard City",
       "native": "Orchard City",
       "type": "city",
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 123537,
-      "name": "Mesa del huerto",
+      "name": "Orchard Mesa",
       "name_default": "Orchard Mesa",
       "native": "Orchard Mesa",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 123738,
-      "name": "Empalizada",
+      "name": "Palisade",
       "name_default": "Palisade",
       "native": "Palisade",
       "type": "city",
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 123762,
-      "name": "Lago Palmer",
+      "name": "Palmer Lake",
       "name_default": "Palmer Lake",
       "native": "Palmer Lake",
       "type": "city",
@@ -3315,7 +3315,7 @@
       "id": 123813,
       "name": "Paonia",
       "name_default": "Paonia",
-      "native": "Pairo",
+      "native": "Paonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 123815,
-      "name": "Paracaídas",
+      "name": "Parachute",
       "name_default": "Parachute",
       "native": "Parachute",
       "type": "city",
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 124084,
-      "name": "Parque Perry",
+      "name": "Perry Park",
       "name_default": "Perry Park",
       "native": "Perry Park",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 124470,
-      "name": "Parque Ponderosa",
+      "name": "Ponderosa Park",
       "name_default": "Ponderosa Park",
       "native": "Ponderosa Park",
       "type": "city",
@@ -3457,7 +3457,7 @@
     },
     {
       "id": 124730,
-      "name": "Pueblo Oeste",
+      "name": "Pueblo West",
       "name_default": "Pueblo West",
       "native": "Pueblo West",
       "type": "city",
@@ -3493,7 +3493,7 @@
     },
     {
       "id": 124977,
-      "name": "Tierras rojas",
+      "name": "Redlands",
       "name_default": "Redlands",
       "native": "Redlands",
       "type": "city",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 125485,
-      "name": "Parque Roxborough",
+      "name": "Roxborough Park",
       "name_default": "Roxborough Park",
       "native": "Roxborough Park",
       "type": "city",
@@ -3567,7 +3567,7 @@
       "id": 125591,
       "name": "Saguache",
       "name_default": "Saguache",
-      "native": "Saguche",
+      "native": "Saguache",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3619,7 +3619,7 @@
     },
     {
       "id": 126113,
-      "name": "Seguridad-Widefield",
+      "name": "Security-Widefield",
       "name_default": "Security-Widefield",
       "native": "Security-Widefield",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 126177,
-      "name": "Ruptura",
+      "name": "Severance",
       "name_default": "Severance",
       "native": "Severance",
       "type": "city",
@@ -3675,7 +3675,7 @@
       "id": 126320,
       "name": "Sheridan",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3693,7 +3693,7 @@
       "id": 126337,
       "name": "Sherrelwood",
       "name_default": "Sherrelwood",
-      "native": "Shererelwood",
+      "native": "Sherrelwood",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 126419,
-      "name": "Limo",
+      "name": "Silt",
       "name_default": "Silt",
       "native": "Silt",
       "type": "city",
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 126548,
-      "name": "Pueblo de Snowmass",
+      "name": "Snowmass Village",
       "name_default": "Snowmass Village",
       "native": "Snowmass Village",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 127030,
-      "name": "Libra esterlina",
+      "name": "Sterling",
       "name_default": "Sterling",
       "native": "Sterling",
       "type": "city",
@@ -3853,7 +3853,7 @@
     },
     {
       "id": 127088,
-      "name": "Puerta de piedra",
+      "name": "Stonegate",
       "name_default": "Stonegate",
       "native": "Stonegate",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 127121,
-      "name": "Estrasburgo",
+      "name": "Strasburg",
       "name_default": "Strasburg",
       "native": "Strasburg",
       "type": "city",
@@ -3925,7 +3925,7 @@
     },
     {
       "id": 127491,
-      "name": "Telururo",
+      "name": "Telluride",
       "name_default": "Telluride",
       "native": "Telluride",
       "type": "city",
@@ -3943,7 +3943,7 @@
     },
     {
       "id": 127563,
-      "name": "El Pinar",
+      "name": "The Pinery",
       "name_default": "The Pinery",
       "native": "The Pinery",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 127695,
-      "name": "Arroyo Todd",
+      "name": "Todd Creek",
       "name_default": "Todd Creek",
       "native": "Todd Creek",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 127931,
-      "name": "Lagos gemelos",
+      "name": "Twin Lakes",
       "name_default": "Twin Lakes",
       "native": "Twin Lakes",
       "type": "city",
@@ -4159,7 +4159,7 @@
     },
     {
       "id": 128957,
-      "name": "Vista agradable del oeste",
+      "name": "West Pleasant View",
       "name_default": "West Pleasant View",
       "native": "West Pleasant View",
       "type": "city",
@@ -4213,7 +4213,7 @@
     },
     {
       "id": 129107,
-      "name": "Cresta de trigo",
+      "name": "Wheat Ridge",
       "name_default": "Wheat Ridge",
       "native": "Wheat Ridge",
       "type": "city",
@@ -4249,7 +4249,7 @@
     },
     {
       "id": 129533,
-      "name": "Parque Woodland",
+      "name": "Woodland Park",
       "name_default": "Woodland Park",
       "native": "Woodland Park",
       "type": "city",

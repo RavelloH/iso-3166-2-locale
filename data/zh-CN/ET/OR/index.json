@@ -221,7 +221,7 @@
       "id": 38601,
       "name": "贝德勒",
       "name_default": "Bedelē",
-      "native": "ደመወዝ",
+      "native": "በደሌ ከተማ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 38605,
-      "name": "比斯霍夫图",
+      "name": "德布雷塞特",
       "name_default": "Bishoftu",
       "native": "ቢሾፍቱ",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 38626,
-      "name": "东哈雷尔盖区",
+      "name": "East Harerghe Zone",
       "name_default": "East Harerghe Zone",
       "native": "ምስራቅ ሀረርጋ ዞን",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 38627,
-      "name": "东谢瓦区",
+      "name": "East Shewa Zone",
       "name_default": "East Shewa Zone",
       "native": "ምስራቅ ሸዋ ዞን",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 38628,
-      "name": "东韦勒加区",
+      "name": "East Wellega Zone",
       "name_default": "East Wellega Zone",
       "native": "ምስራቅ ዌልጋ ዞን",
       "type": "city",
@@ -545,7 +545,7 @@
       "id": 38640,
       "name": "戈巴",
       "name_default": "Goba",
-      "native": "ሁን",
+      "native": "ጎባ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 38643,
-      "name": "血块",
+      "name": "戈雷",
       "name_default": "Gorē",
       "native": "ጎሬ",
       "type": "city",
@@ -633,9 +633,9 @@
     },
     {
       "id": 38654,
-      "name": "哈格尔·希韦特",
+      "name": "安波",
       "name_default": "Hāgere Hiywet",
-      "native": "የፈረስ ወሬ",
+      "native": "አምቦ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 38660,
-      "name": "吉玛",
+      "name": "吉马",
       "name_default": "Jimma",
       "native": "ጂም",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 38666,
-      "name": "科菲勒",
+      "name": "科费莱",
       "name_default": "Kofelē",
       "native": "ኮፍያ",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 38685,
-      "name": "内霍",
+      "name": "内乔",
       "name_default": "Nejo",
       "native": "ኔሆ",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 38687,
-      "name": "北舍瓦区",
+      "name": "North Shewa Zone",
       "name_default": "North Shewa Zone",
       "native": "ሰሜን ሸዋ ዞን",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 38690,
-      "name": "塞贝塔",
+      "name": "瑟伯塔",
       "name_default": "Sebeta",
       "native": "ሰበታ",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 38695,
-      "name": "沙舍门尼",
+      "name": "沙沙山",
       "name_default": "Shashamane",
       "native": "ሻሽሜን",
       "type": "city",
@@ -1147,7 +1147,7 @@
       "latitude": "8.31667000",
       "longitude": "39.48333000",
       "timezone": "Africa/Addis_Ababa",
-      "wikiDataId": "Q1070673",
+      "wikiDataId": null,
       "country_code": "ET",
       "state_code": "OR",
       "state_id": 5,
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 38714,
-      "name": "西哈勒尔盖区",
+      "name": "West Harerghe Zone",
       "name_default": "West Harerghe Zone",
       "native": "ዌስት ሀረራልሄ ዞን",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 38715,
-      "name": "西韦勒加区",
+      "name": "West Wellega Zone",
       "name_default": "West Wellega Zone",
       "native": "የምእራብ ወለጋ ዞን",
       "type": "city",

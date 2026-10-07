@@ -63,6 +63,24 @@
   },
   "cities": [
     {
+      "id": 67062,
+      "name": "아울루즈",
+      "name_default": "Aoulouz",
+      "native": "أولوز",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 21502,
+      "latitude": "30.67307000",
+      "longitude": "-8.18087000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2858000",
+      "country_code": "MA",
+      "state_code": "TAR",
+      "state_id": 3314,
+      "country_id": 149
+    },
+    {
       "id": 67190,
       "name": "울라드 테이마",
       "name_default": "Oulad Teïma",

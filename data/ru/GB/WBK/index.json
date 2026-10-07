@@ -203,7 +203,7 @@
       "id": 50171,
       "name": "Кингсклер",
       "name_default": "Kingsclere",
-      "native": "Kingscere",
+      "native": "Kingsclere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 51586,
-      "name": "Тэтчем",
+      "name": "Тэтчхэм",
       "name_default": "Thatcham",
       "native": "Thatcham",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 51590,
-      "name": "Теале",
+      "name": "Тил",
       "name_default": "Theale",
       "native": "Theale",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51745,
-      "name": "Уонтейдж",
-      "name_default": "Wantage",
-      "native": "Wantage",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18505,
-      "latitude": "51.58846000",
-      "longitude": "-1.42565000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q953957",
-      "country_code": "GB",
-      "state_code": "WBK",
-      "state_id": 2471,
-      "country_id": 232
-    },
-    {
       "id": 51806,
-      "name": "Западный Беркшир",
+      "name": "West Berkshire",
       "name_default": "West Berkshire",
       "native": "West Berkshire",
       "type": "area",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51821,
-      "name": "Западный Илсли",
+      "name": "West Ilsley",
       "name_default": "West Ilsley",
       "native": "West Ilsley",
       "type": "adm1",

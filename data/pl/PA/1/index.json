@@ -113,7 +113,7 @@
       "id": 79986,
       "name": "Bastimentos",
       "name_default": "Bastimentos",
-      "native": "Barco",
+      "native": "Bastimentos",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80202,
-      "name": "Cisza",
+      "name": "El Silencio",
       "name_default": "El Silencio",
       "native": "El Silencio",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 80235,
-      "name": "Wyspa Bastimentos",
+      "name": "Isla Bastimentos",
       "name_default": "Isla Bastimentos",
       "native": "Isla Bastimentos",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80537,
-      "name": "Dolina Risco",
+      "name": "Valle del Risco",
       "name_default": "Valle del Risco",
       "native": "Valle de Risco",
       "type": "adm3",

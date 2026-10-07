@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 62304,
-      "name": "Ribnjak s aligatorima",
+      "name": "Alligator Pond",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 62303,
-      "name": "Ribnjak s aligatorima",
+      "name": "Alligator Pond",
       "name_default": "Alligator Pond",
       "native": "Alligator Pond",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 62321,
-      "name": "Azija/Pratville",
+      "name": "Asia/Pratville",
       "name_default": "Asia/Pratville",
-      "native": "Thing/pratville",
+      "native": "Asia/Pratville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 62323,
       "name": "Auchtembeddie",
       "name_default": "Auchtembeddie",
-      "native": "AUREGEMBERY",
+      "native": "Auchtembeddie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 62366,
-      "name": "Plava planina",
+      "name": "Blue Mountain",
       "name_default": "Blue Mountain",
       "native": "Blue Mountain",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 62374,
-      "name": "Bombaj",
+      "name": "Bombay",
       "name_default": "Bombay",
       "native": "Bombay",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 62407,
-      "name": "Sukob",
+      "name": "Butt-Up",
       "name_default": "Butt-Up",
       "native": "Butt-Up",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 62444,
-      "name": "Šantilji",
+      "name": "Chantilly",
       "name_default": "Chantilly",
       "native": "Chantilly",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 62453,
-      "name": "Kristijana",
+      "name": "Christiana",
       "name_default": "Christiana",
       "native": "Christiana",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 62460,
-      "name": "Kobla",
+      "name": "Cobbla",
       "name_default": "Cobbla",
       "native": "Cobbla",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 62467,
-      "name": "Udobnost",
+      "name": "Comfort",
       "name_default": "Comfort",
       "native": "Comfort",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 62470,
-      "name": "Dvorana udobnosti",
+      "name": "Comfort Hall",
       "name_default": "Comfort Hall",
       "native": "Comfort Hall",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 62474,
-      "name": "Sadržaj",
+      "name": "Content",
       "name_default": "Content",
       "native": "Content",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 62492,
-      "name": "Križni ključevi",
+      "name": "Cross Keys",
       "name_default": "Cross Keys",
       "native": "Cross Keys",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 62517,
-      "name": "Padovi",
+      "name": "Downs",
       "name_default": "Downs",
       "native": "Downs",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 62536,
-      "name": "Ellenova ulica",
+      "name": "Ellen Street",
       "name_default": "Ellen Street",
       "native": "Ellen Street",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 62543,
-      "name": "Zimzelen",
+      "name": "Evergreen",
       "name_default": "Evergreen",
       "native": "Evergreen",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 62571,
-      "name": "Francuski park",
+      "name": "French Park",
       "name_default": "French Park",
       "native": "French Park",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 62581,
-      "name": "Georgeova dolina",
+      "name": "George's Valley",
       "name_default": "George's Valley",
       "native": "George's Valley",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 62595,
-      "name": "Dobra namjera",
+      "name": "Good Intent",
       "name_default": "Good Intent",
       "native": "Good Intent",
       "type": "city",
@@ -563,7 +563,7 @@
       "id": 62613,
       "name": "Greenvale",
       "name_default": "Greenvale",
-      "native": "GREENVAL",
+      "native": "Greenvale",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 62641,
-      "name": "Olakšanje srca",
+      "name": "Heartease",
       "name_default": "Heartease",
       "native": "Heartease",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 62763,
-      "name": "Prvi maj",
+      "name": "May Day",
       "name_default": "May Day",
       "native": "May Day",
       "type": "adm1",
@@ -939,7 +939,7 @@
     },
     {
       "id": 62813,
-      "name": "Nova šuma",
+      "name": "New Forest",
       "name_default": "New Forest",
       "native": "New Forest",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62814,
-      "name": "Novo zeleno",
+      "name": "New Green",
       "name_default": "New Green",
       "native": "New Green",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 62837,
-      "name": "Stara Engleska",
+      "name": "Old England",
       "name_default": "Old England",
       "native": "Old England",
       "type": "adm1",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 62856,
-      "name": "Dio zemlje od banana",
+      "name": "Part Of Banana Ground",
       "name_default": "Part Of Banana Ground",
       "native": "Part Of Banana Ground",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 62857,
-      "name": "Dio oluka",
+      "name": "Part Of Gutters",
       "name_default": "Part Of Gutters",
       "native": "Part Of Gutters",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 62864,
-      "name": "Dio Spaldingsa",
+      "name": "Part of Spaldings",
       "name_default": "Part of Spaldings",
       "native": "Part of Spaldings",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 62882,
-      "name": "Štuka",
+      "name": "Pike",
       "name_default": "Pike",
       "native": "Pike",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 62887,
-      "name": "Ploughden",
+      "name": "Plowden",
       "name_default": "Plowden",
       "native": "Plowden",
       "type": "city",
@@ -1103,7 +1103,7 @@
       "id": 62900,
       "name": "Porus",
       "name_default": "Porus",
-      "native": "Pores",
+      "native": "Porus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 62905,
-      "name": "Izgled",
+      "name": "Prospect",
       "name_default": "Prospect",
       "native": "Prospect",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 62958,
-      "name": "Kraljevski stan",
+      "name": "Royal Flat",
       "name_default": "Royal Flat",
       "native": "Royal Flat",
       "type": "adm1",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 63014,
-      "name": "Izvorno tlo",
+      "name": "Spring Ground",
       "name_default": "Spring Ground",
       "native": "Spring Ground",
       "type": "city",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 63018,
-      "name": "Drvo mahune",
+      "name": "Spur Tree",
       "name_default": "Spur Tree",
       "native": "Spur Tree",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 63025,
-      "name": "Sveti Pavao",
+      "name": "St. Paul's",
       "name_default": "St. Paul's",
       "native": "St. Paul's",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 63043,
-      "name": "Swabyjeva nada",
+      "name": "Swaby's Hope",
       "name_default": "Swaby's Hope",
       "native": "Swaby's Hope",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 63055,
-      "name": "Vrh brda",
+      "name": "Top Hill",
       "name_default": "Top Hill",
       "native": "Top Hill",
       "type": "adm1",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 63076,
-      "name": "Viktorija Town",
+      "name": "Victoria Town",
       "name_default": "Victoria Town",
       "native": "Victoria Town",
       "type": "city",

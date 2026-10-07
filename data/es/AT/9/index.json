@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 1856,
-      "name": "Ciudad del Danubio",
+      "name": "Donaustadt",
       "name_default": "Donaustadt",
       "native": "Donaustadt",
       "type": "section",
@@ -75,7 +75,7 @@
     },
     {
       "id": 1963,
-      "name": "Favoritos",
+      "name": "Favoriten",
       "name_default": "Favoriten",
       "native": "Favoriten",
       "type": "section",
@@ -93,7 +93,7 @@
     },
     {
       "id": 2002,
-      "name": "Florida",
+      "name": "Floridsdorf",
       "name_default": "Floridsdorf",
       "native": "Floridsdorf",
       "type": "section",
@@ -111,9 +111,9 @@
     },
     {
       "id": 2272,
-      "name": "Hernales",
+      "name": "Hernals",
       "name_default": "Hernals",
-      "native": "Hernalen",
+      "native": "Hernals",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -201,9 +201,9 @@
     },
     {
       "id": 3461,
-      "name": "Cociendo a fuego lento",
+      "name": "Simmering",
       "name_default": "Simmering",
-      "native": "Köcheln lassen",
+      "native": "Simmering",
       "type": "section",
       "level": null,
       "parent_id": null,

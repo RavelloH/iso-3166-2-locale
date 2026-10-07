@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48480,
-      "name": "特威德河畔贝里克",
-      "name_default": "Berwick-Upon-Tweed",
-      "native": "Berwick-Upon-Tweed",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11630,
-      "latitude": "55.76536000",
-      "longitude": "-2.01186000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q504678",
-      "country_code": "GB",
-      "state_code": "BOL",
-      "state_id": 2504,
-      "country_id": 232
-    },
-    {
       "id": 48587,
       "name": "博尔顿",
       "name_default": "Bolton",
@@ -93,7 +75,7 @@
     },
     {
       "id": 49533,
-      "name": "法恩沃斯",
+      "name": "法恩沃思",
       "name_default": "Farnworth",
       "native": "Farnworth",
       "type": "city",
@@ -111,7 +93,7 @@
     },
     {
       "id": 50003,
-      "name": "霍维奇",
+      "name": "霍里奇",
       "name_default": "Horwich",
       "native": "Horwich",
       "type": "city",
@@ -129,7 +111,7 @@
     },
     {
       "id": 50100,
-      "name": "基尔斯利",
+      "name": "克斯利",
       "name_default": "Kearsley",
       "native": "Kearsley",
       "type": "city",
@@ -146,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 50330,
+      "name": "小利弗",
+      "name_default": "Little Lever",
+      "native": "Little Lever",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11329,
+      "latitude": "53.56346000",
+      "longitude": "-2.37803000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q3835039",
+      "country_code": "GB",
+      "state_code": "BOL",
+      "state_id": 2504,
+      "country_id": 232
+    },
+    {
       "id": 51844,
-      "name": "韦斯特霍顿",
+      "name": "威斯特霍顿",
       "name_default": "Westhoughton",
       "native": "Westhoughton",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 85781,
-      "name": "Александрув Куявський",
+      "name": "Александрув-Куявський",
       "name_default": "Aleksandrów Kujawski",
       "native": "Aleksandrów Kujawski",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 85808,
-      "name": "Барцін",
+      "name": "Барцин",
       "name_default": "Barcin",
-      "native": "Spać",
+      "native": "Barcin",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 85917,
       "name": "Бонево",
       "name_default": "Boniewo",
-      "native": "Kości",
+      "native": "Boniewo",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 85966,
-      "name": "Бжесть Куявський",
+      "name": "Берестя-Куявське",
       "name_default": "Brześć Kujawski",
       "native": "Brześć Kujawski",
       "type": "adm3",
@@ -255,9 +255,9 @@
     },
     {
       "id": 85973,
-      "name": "Брзузе",
+      "name": "Бжузе",
       "name_default": "Brzuze",
-      "native": "Briusage",
+      "native": "Brzuze",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 86021,
-      "name": "Чекцин",
+      "name": "Цекцин",
       "name_default": "Cekcyn",
       "native": "Cekcyn",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 86079,
-      "name": "Цехоцінек",
+      "name": "Цехоцинек",
       "name_default": "Ciechocinek",
       "native": "Ciechocinek",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 86239,
-      "name": "Домброва Хелмінська",
+      "name": "Домброва-Хелмінська",
       "name_default": "Dąbrowa Chełmińska",
       "native": "Dąbrowa Chełmińska",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 86254,
-      "name": "Дембова Ланка",
+      "name": "Дембова-Лонка",
       "name_default": "Dębowa Łąka",
       "native": "Dębowa Łąka",
       "type": "adm3",
@@ -563,7 +563,7 @@
       "id": 86171,
       "name": "Добре",
       "name_default": "Dobre",
-      "native": "Dobrze",
+      "native": "Dobre",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -635,7 +635,7 @@
       "id": 86272,
       "name": "Фордон",
       "name_default": "Fordon",
-      "native": "Pojazd",
+      "native": "Fordon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -651,7 +651,7 @@
     },
     {
       "id": 86424,
-      "name": "Гасава",
+      "name": "Гонсава",
       "name_default": "Gąsawa",
       "native": "Gąsawa",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 86329,
-      "name": "Голуб-Добжинь",
+      "name": "Голюб-Добжинь",
       "name_default": "Golub-Dobrzyń",
       "native": "Golub-Dobrzyń",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 86419,
-      "name": "Горзно",
+      "name": "Гужно",
       "name_default": "Górzno",
       "native": "Górzno",
       "type": "city",
@@ -761,7 +761,7 @@
       "id": 86388,
       "name": "Грута",
       "name_default": "Gruta",
-      "native": "Jaskinia",
+      "native": "Gruta",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 86469,
-      "name": "Ізбіца Куявська",
+      "name": "Ізбиця-Куявська",
       "name_default": "Izbica Kujawska",
       "native": "Izbica Kujawska",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 86485,
-      "name": "Яблоново Поморське",
+      "name": "Яблоново-Поморське",
       "name_default": "Jabłonowo Pomorskie",
       "native": "Jabłonowo Pomorskie",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 86493,
-      "name": "Яніково",
+      "name": "Ґміна Яніково",
       "name_default": "Janikowo",
       "native": "Janikowo",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 86501,
-      "name": "Яновець Великопольський",
+      "name": "Яновець-Великопольський",
       "name_default": "Janowiec Wielkopolski",
       "native": "Janowiec Wielkopolski",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 86600,
-      "name": "Кам'ян Краєнський",
+      "name": "Камень-Краєнський",
       "name_default": "Kamień Krajeński",
       "native": "Kamień Krajeński",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 86631,
-      "name": "Ксиня",
+      "name": "Кциня",
       "name_default": "Kcynia",
       "native": "Kcynia",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 86639,
-      "name": "Кікол",
+      "name": "Кікул",
       "name_default": "Kikół",
       "native": "Kikół",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 86730,
-      "name": "Ковалево Поморське",
+      "name": "Ковалево-Поморське",
       "name_default": "Kowalewo Pomorskie",
       "native": "Kowalewo Pomorskie",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 86793,
-      "name": "Крушвіца",
+      "name": "Крушвиця",
       "name_default": "Kruszwica",
       "native": "Kruszwica",
       "type": "adm3",
@@ -1067,7 +1067,7 @@
       "id": 86924,
       "name": "Лісево",
       "name_default": "Lisewo",
-      "native": "Wysoki",
+      "native": "Lisewo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 86939,
-      "name": "Любіч-Дольний",
+      "name": "Любич-Дольни",
       "name_default": "Lubicz Dolny",
       "native": "Lubicz Dolny",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 86940,
-      "name": "Любіч-Гурни",
+      "name": "Любич-Ґурни",
       "name_default": "Lubicz Górny",
       "native": "Lubicz Górny",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 86943,
-      "name": "Любень Куявський",
+      "name": "Любень-Куявський",
       "name_default": "Lubień Kujawski",
       "native": "Lubień Kujawski",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 87086,
-      "name": "Могильно",
+      "name": "Могільно",
       "name_default": "Mogilno",
       "native": "Mogilno",
       "type": "adm3",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 87135,
-      "name": "Накло над Нотечею",
+      "name": "Накло-над-Нотецем",
       "name_default": "Nakło nad Notecią",
       "native": "Nakło nad Notecią",
       "type": "adm3",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 87168,
-      "name": "Нєшава",
+      "name": "Нешава",
       "name_default": "Nieszawa",
       "native": "Nieszawa",
       "type": "adm3",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 87179,
-      "name": "Нова Вєсь Велика",
+      "name": "Нова Весь-Велика",
       "name_default": "Nowa Wieś Wielka",
       "native": "Nowa Wieś Wielka",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 87285,
-      "name": "Осієк",
+      "name": "Осек-над-Віслою",
       "name_default": "Osiek",
       "native": "Osiek",
       "type": "city",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 87338,
-      "name": "Пакость",
+      "name": "Пакосць",
       "name_default": "Pakość",
       "native": "Pakość",
       "type": "adm3",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 87393,
-      "name": "Пйотркув Куявський",
+      "name": "Пйотркув-Куявський",
       "name_default": "Piotrków Kujawski",
       "native": "Piotrków Kujawski",
       "type": "adm3",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 87903,
-      "name": "Радзинь Хелмінський",
+      "name": "Радзинь-Хелмінський",
       "name_default": "Radzyń Chełmiński",
       "native": "Radzyń Chełmiński",
       "type": "city",
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 88333,
-      "name": "Сеппульно Краєнське",
+      "name": "Семпульно-Краєнське",
       "name_default": "Sępólno Krajeńskie",
       "native": "Sępólno Krajeńskie",
       "type": "adm3",
@@ -1769,7 +1769,7 @@
       "id": 88115,
       "name": "Скрвільно",
       "name_default": "Skrwilno",
-      "native": "Przygotowany w shakerze",
+      "native": "Skrwilno",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 88831,
-      "name": "Шлесін",
+      "name": "Сьлесін",
       "name_default": "Ślesin",
       "native": "Śles",
       "type": "city",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 88142,
-      "name": "Солець Куявський",
+      "name": "Солець-Куявський",
       "name_default": "Solec Kujawski",
       "native": "Solec Kujawski",
       "type": "city",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 88847,
-      "name": "Світє",
+      "name": "Ґміна Швеці",
       "name_default": "Świecie",
       "native": "Świecie",
       "type": "city",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 88848,
-      "name": "Світєчє-над-Осою",
+      "name": "Сьвеце-над-Осою",
       "name_default": "Świecie nad Osą",
       "native": "Świecie nad Osą",
       "type": "adm3",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 88850,
-      "name": "Свєнкатово",
+      "name": "Сьвекатово",
       "name_default": "Świekatowo",
       "native": "Świekatowo",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 88280,
-      "name": "Сипнєво",
+      "name": "Сипнево",
       "name_default": "Sypniewo",
       "native": "Sypniewo",
       "type": "city",
@@ -2003,7 +2003,7 @@
       "id": 88383,
       "name": "Тополька",
       "name_default": "Topólka",
-      "native": "Szczyt",
+      "native": "Topólka",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 88417,
-      "name": "Тухола",
+      "name": "Тухоля",
       "name_default": "Tuchola",
       "native": "Tuchola",
       "type": "adm2",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 88631,
-      "name": "Вомбжезно",
+      "name": "Вомбжезьно",
       "name_default": "Wąbrzeźno",
       "native": "Wąbrzeźno",
       "type": "adm2",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 88634,
-      "name": "Вапельськ",
+      "name": "Вомпельськ",
       "name_default": "Wąpielsk",
       "native": "Wąpielsk",
       "type": "adm3",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 88478,
-      "name": "Варлубіє",
+      "name": "Варлюбе",
       "name_default": "Warlubie",
       "native": "Warlubie",
       "type": "city",
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 88557,
-      "name": "Вєнцборк",
+      "name": "Венцборк",
       "name_default": "Więcbork",
       "native": "Więcbork",
       "type": "adm3",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 88504,
-      "name": "Велька Нешавка",
+      "name": "Велика Нешавка",
       "name_default": "Wielka Nieszawka",
       "native": "Wielka Nieszawka",
       "type": "adm3",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 88524,
-      "name": "Вежославіце",
+      "name": "Вежхославіце",
       "name_default": "Wierzchosławice",
       "native": "Wierzchosławice",
       "type": "city",

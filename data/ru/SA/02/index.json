@@ -273,7 +273,7 @@
     },
     {
       "id": 148882,
-      "name": "Аль-Биар",
+      "name": "Эль-Биар",
       "name_default": "Al Bi'ar",
       "native": "البيار",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 148883,
-      "name": "Эл Бирк",
+      "name": "Эль-Бирк",
       "name_default": "Al Birk",
       "native": "آل بيرك",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 148888,
-      "name": "Аль-Гарит",
+      "name": "Эль-Гарит",
       "name_default": "Al Gharith",
       "native": "الغارث",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 148894,
-      "name": "Аль-Хавия",
+      "name": "Эль-Хавия",
       "name_default": "Al Hawiyah",
       "native": "الحوية",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 148924,
-      "name": "Аль-Кадима",
+      "name": "Кадима",
       "name_default": "Al Qadimah",
       "native": "القديمة",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 148936,
-      "name": "Ар Рабва как Суфла",
+      "name": "Ar Rabwah as Sufla",
       "name_default": "Ar Rabwah as Sufla",
       "native": "الربوة السفلى",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 102845,
-      "name": "Эш Шафа",
+      "name": "Эш-Шафа",
       "name_default": "Ash Shafā",
       "native": "آش شفا",
       "type": "city",
@@ -1605,9 +1605,9 @@
     },
     {
       "id": 148956,
-      "name": "В Таниме",
+      "name": "At Tan`im",
       "name_default": "At Tan`im",
-      "native": "في التنعيم",
+      "native": "التنعيم",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1623,9 +1623,9 @@
     },
     {
       "id": 148957,
-      "name": "В Тарфе",
+      "name": "At Tarfa'",
       "name_default": "At Tarfa'",
-      "native": "في الطرفة",
+      "native": "الطرفاء",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 148958,
-      "name": "В Турки",
+      "name": "At Turqi",
       "name_default": "At Turqi",
       "native": "في تركي",
       "type": "city",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 148959,
-      "name": "Аз Займа",
+      "name": "Займа",
       "name_default": "Az Zaymah",
       "native": "الزعيمة",
       "type": "city",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 102884,
-      "name": "Таиф",
+      "name": "Эт-Таиф",
       "name_default": "Ta'if",
       "native": "الطائف",
       "type": "city",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": 149014,
-      "name": "Тувал",
+      "name": "Тувваль",
       "name_default": "Thuwal",
       "native": "ثول",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48186,
-      "name": "亚伯兰",
+      "name": "阿布拉罕",
       "name_default": "Abram",
       "native": "Abram",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48309,
-      "name": "阿瑟顿",
+      "name": "阿特尔顿",
       "name_default": "Atherton",
       "native": "Atherton",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48550,
-      "name": "黑杖",
+      "name": "布莱克罗特",
       "name_default": "Blackrod",
       "native": "Blackrod",
       "type": "city",
@@ -201,9 +201,9 @@
     },
     {
       "id": 49100,
-      "name": "科普尔",
+      "name": "科普伊",
       "name_default": "Coppull",
-      "native": "COPLL",
+      "native": "Coppull",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 49179,
-      "name": "克罗斯顿",
+      "name": "克朗斯顿",
       "name_default": "Croston",
       "native": "Croston",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49674,
-      "name": "戈尔伯恩",
+      "name": "高博恩",
       "name_default": "Golborne",
       "native": "Golborne",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49946,
-      "name": "欣德利",
+      "name": "亨德雷",
       "name_default": "Hindley",
       "native": "Hindley",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 50047,
-      "name": "因斯因梅克菲尔德",
+      "name": "梅克菲尔特印斯",
       "name_default": "Ince-in-Makerfield",
       "native": "Ince-in-Makerfield",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 50276,
-      "name": "利",
+      "name": "利伊",
       "name_default": "Leigh",
       "native": "Leigh",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 51275,
-      "name": "谢文顿",
+      "name": "雪文顿",
       "name_default": "Shevington",
       "native": "Shevington",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51320,
-      "name": "斯凯尔默斯代尔",
-      "name_default": "Skelmersdale",
-      "native": "Saccompan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38944,
-      "latitude": "53.55024000",
-      "longitude": "-2.77348000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668237",
-      "country_code": "GB",
-      "state_code": "WGN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 51685,
-      "name": "泰尔兹利",
+      "name": "缇尔德斯雷",
       "name_default": "Tyldesley",
       "native": "Tyldesley",
       "type": "city",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51898,
-      "name": "维冈",
+      "name": "威根",
       "name_default": "Wigan",
       "native": "Wigan",
       "type": "adm2",

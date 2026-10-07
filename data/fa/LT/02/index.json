@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 66581,
-      "name": "آلیتوس",
+      "name": "الیتاس",
       "name_default": "Alytus",
       "native": "Alytus",
       "type": "adm1",
@@ -68,24 +68,6 @@
       "longitude": "24.04142000",
       "timezone": "Europe/Vilnius",
       "wikiDataId": "Q450625",
-      "country_code": "LT",
-      "state_code": "02",
-      "state_id": 1605,
-      "country_id": 126
-    },
-    {
-      "id": 66593,
-      "name": "دروسکینینکای",
-      "name_default": "Druskininkai",
-      "native": "Druskininkai",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 13170,
-      "latitude": "54.01573000",
-      "longitude": "23.98703000",
-      "timezone": "Europe/Vilnius",
-      "wikiDataId": "Q1261509",
       "country_code": "LT",
       "state_code": "02",
       "state_id": 1605,

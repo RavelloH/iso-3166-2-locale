@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48256,
-      "name": "Plaine d'Annfield",
+      "name": "Annfield Plain",
       "name_default": "Annfield Plain",
       "native": "Annfield Plain",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48395,
-      "name": "Château de Barnard",
+      "name": "Barnard Castle",
       "name_default": "Barnard Castle",
       "native": "Barnard Castle",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48522,
-      "name": "Évêque Auckland",
+      "name": "Bishop Auckland",
       "name_default": "Bishop Auckland",
       "native": "Bishop Auckland",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48523,
-      "name": "Évêque Middleham",
+      "name": "Bishop Middleham",
       "name_default": "Bishop Middleham",
       "native": "Bishop Middleham",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49121,
-      "name": "Comté de Durham",
+      "name": "County Durham",
       "name_default": "County Durham",
       "native": "County Durham",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 49169,
-      "name": "Escroc",
+      "name": "Crook",
       "name_default": "Crook",
       "native": "Crook",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49925,
-      "name": "Haut Etherley",
+      "name": "High Etherley",
       "name_default": "High Etherley",
       "native": "High Etherley",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 50237,
       "name": "Lanchester",
       "name_default": "Lanchester",
-      "native": "Snacks",
+      "native": "Lanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 50245,
-      "name": "Parc Langley",
+      "name": "Langley Park",
       "name_default": "Langley Park",
       "native": "Langley Park",
       "type": "city",
@@ -542,6 +542,24 @@
       "country_id": 232
     },
     {
+      "id": 50903,
+      "name": "Peterlee",
+      "name_default": "Peterlee",
+      "native": "Peterlee",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37015,
+      "latitude": "54.76032000",
+      "longitude": "-1.33649000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2079502",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51160,
       "name": "Sacriston",
       "name_default": "Sacriston",
@@ -597,7 +615,7 @@
     },
     {
       "id": 51268,
-      "name": "Colline de Sherburn",
+      "name": "Sherburn Hill",
       "name_default": "Sherburn Hill",
       "native": "Sherburn Hill",
       "type": "city",
@@ -651,9 +669,9 @@
     },
     {
       "id": 51409,
-      "name": "Goutte de tache",
+      "name": "Staindrop",
       "name_default": "Staindrop",
-      "native": "Stindrop",
+      "native": "Staindrop",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -680,6 +698,24 @@
       "longitude": "-2.01667000",
       "timezone": "Europe/London",
       "wikiDataId": "Q428342",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
+      "id": 51426,
+      "name": "Stanley",
+      "name_default": "Stanley",
+      "native": "Stanley",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21938,
+      "latitude": "54.86796000",
+      "longitude": "-1.69846000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q924360",
       "country_code": "GB",
       "state_code": "DUR",
       "state_id": 2406,
@@ -723,7 +759,7 @@
     },
     {
       "id": 51653,
-      "name": "Loi sur le remorquage",
+      "name": "Tow Law",
       "name_default": "Tow Law",
       "native": "Tow Law",
       "type": "city",
@@ -795,7 +831,7 @@
     },
     {
       "id": 51813,
-      "name": "Cornforth Ouest",
+      "name": "West Cornforth",
       "name_default": "West Cornforth",
       "native": "West Cornforth",
       "type": "city",
@@ -813,7 +849,7 @@
     },
     {
       "id": 51830,
-      "name": "Rainton Ouest",
+      "name": "West Rainton",
       "name_default": "West Rainton",
       "native": "West Rainton",
       "type": "adm3",

@@ -165,7 +165,7 @@
     },
     {
       "id": 49002,
-      "name": "Город и округ Лидс",
+      "name": "Сити-оф-Лидс",
       "name_default": "City and Borough of Leeds",
       "native": "City and Borough of Leeds",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49400,
-      "name": "Восточный Кесвик",
+      "name": "East Keswick",
       "name_default": "East Keswick",
       "native": "East Keswick",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 49627,
       "name": "Гарфорт",
       "name_default": "Garforth",
-      "native": "Garfort",
+      "native": "Garforth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 49765,
-      "name": "Гизли",
+      "name": "Гайзли",
       "name_default": "Guiseley",
       "native": "Guiseley",
       "type": "city",
@@ -293,7 +293,7 @@
       "id": 50191,
       "name": "Киппакс",
       "name_default": "Kippax",
-      "native": "Knit",
+      "native": "Kippax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -398,6 +398,24 @@
       "country_id": 232
     },
     {
+      "id": 51001,
+      "name": "Пудси",
+      "name_default": "Pudsey",
+      "native": "Pudsey",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33109,
+      "latitude": "53.79538000",
+      "longitude": "-1.66134000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1009290",
+      "country_code": "GB",
+      "state_code": "LDS",
+      "state_id": 2503,
+      "country_id": 232
+    },
+    {
       "id": 51211,
       "name": "Скаркрофт",
       "name_default": "Scarcroft",
@@ -489,7 +507,7 @@
     },
     {
       "id": 51853,
-      "name": "Уэзерби",
+      "name": "Уэтерби",
       "name_default": "Wetherby",
       "native": "Wetherby",
       "type": "adm3",

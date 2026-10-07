@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57062,
-      "name": "Эббифил",
+      "name": "Аббифил",
       "name_default": "Abbeyfeale",
       "native": "Abbeyfeale",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 57064,
-      "name": "Адаре",
+      "name": "Адэр",
       "name_default": "Adare",
       "native": "Adare",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 57065,
-      "name": "Агада",
+      "name": "Ахада",
       "name_default": "Aghada",
       "native": "Aghada",
       "type": "city",
@@ -113,7 +113,7 @@
       "id": 57067,
       "name": "Ан Клар",
       "name_default": "An Clár",
-      "native": "Program",
+      "native": "An Clár",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 57075,
-      "name": "Арднакруша",
+      "name": "Арднакраша",
       "name_default": "Ardnacrusha",
       "native": "Ardnacrusha",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 57103,
-      "name": "Баллибаннион",
+      "name": "Баллибанион",
       "name_default": "Ballybunnion",
       "native": "Ballybunnion",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 57118,
-      "name": "Бэндон",
+      "name": "Бандон",
       "name_default": "Bandon",
       "native": "Bandon",
       "type": "city",
@@ -273,9 +273,9 @@
     },
     {
       "id": 57139,
-      "name": "Кахерконлиш",
+      "name": "Кэрконлиш",
       "name_default": "Caherconlish",
-      "native": "Cherconish",
+      "native": "Caherconlish",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 57141,
-      "name": "Кагыр",
+      "name": "Кэр",
       "name_default": "Cahir",
       "native": "Cahir",
       "type": "city",
@@ -347,7 +347,7 @@
       "id": 57150,
       "name": "Карригалин",
       "name_default": "Carrigaline",
-      "native": "Invaria",
+      "native": "Carrigaline",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 57151,
-      "name": "Карригтухилл",
+      "name": "Карригтохилл",
       "name_default": "Carrigtwohill",
       "native": "Carrigtwohill",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 57152,
-      "name": "Кэшел",
+      "name": "Кашел",
       "name_default": "Cashel",
       "native": "Cashel",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 57160,
-      "name": "Castleisland",
+      "name": "Каслайленд",
       "name_default": "Castleisland",
       "native": "Castleisland",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 57162,
-      "name": "Castlemartyr",
+      "name": "Каслмартир",
       "name_default": "Castlemartyr",
       "native": "Castlemartyr",
       "type": "city",
@@ -453,9 +453,9 @@
     },
     {
       "id": 57388,
-      "name": "Рат Луирк",
+      "name": "Ро-Луирк",
       "name_default": "Charleville",
-      "native": "Rathluck",
+      "native": "Charleville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -527,7 +527,7 @@
       "id": 57185,
       "name": "Клуаин Меала",
       "name_default": "Cluain Meala",
-      "native": "Oil honey",
+      "native": "Cluain Meala",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -543,9 +543,9 @@
     },
     {
       "id": 57186,
-      "name": "Коб",
+      "name": "Ков",
       "name_default": "Cobh",
-      "native": "Cob",
+      "native": "Cobh",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 57192,
-      "name": "Пробка",
+      "name": "Корк",
       "name_default": "Cork",
       "native": "Cork",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57195,
-      "name": "Графство Корк",
+      "name": "County Cork",
       "name_default": "County Cork",
       "native": "County Cork",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57200,
-      "name": "Графство Типперэри",
+      "name": "Типперэри",
       "name_default": "County Tipperary",
       "native": "County Tipperary",
       "type": "area",
@@ -633,7 +633,7 @@
     },
     {
       "id": 57203,
-      "name": "Кроссхейвен",
+      "name": "Кросхейвен",
       "name_default": "Crosshaven",
       "native": "Crosshaven",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 57233,
-      "name": "Данманвей",
+      "name": "Данмануи",
       "name_default": "Dunmanway",
       "native": "Dunmanway",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 57249,
-      "name": "Фетхард",
+      "name": "Фетард",
       "name_default": "Fethard",
       "native": "Fethard",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 57270,
-      "name": "Кантюрк",
+      "name": "Кантёрк",
       "name_default": "Kanturk",
       "native": "Kanturk",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 57272,
-      "name": "Кенмар",
+      "name": "Кенмэр",
       "name_default": "Kenmare",
       "native": "Kenmare",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 57281,
-      "name": "Киллалоэ",
+      "name": "Киллало",
       "name_default": "Killaloe",
       "native": "Killaloe",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 57173,
-      "name": "Килл Эйрн",
+      "name": "Килларни",
       "name_default": "Killarney",
       "native": "Killarney",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 57284,
-      "name": "Киллумни",
+      "name": "Килламни",
       "name_default": "Killumney",
       "native": "Killumney",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 57317,
-      "name": "Мальва",
+      "name": "Маллоу",
       "name_default": "Mallow",
       "native": "Mallow",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 57323,
-      "name": "Миллстрит",
+      "name": "Милстрит",
       "name_default": "Millstreet",
       "native": "Millstreet",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 57347,
-      "name": "Ньюкасл Вест",
+      "name": "Ньюкасл-Уэст",
       "name_default": "Newcastle West",
       "native": "Newcastle West",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 57359,
-      "name": "Проход Запад",
+      "name": "Пассидж-Уэст",
       "name_default": "Passage West",
       "native": "Passage West",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 57363,
-      "name": "Портлоу",
+      "name": "Портло",
       "name_default": "Portlaw",
       "native": "Portlaw",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 57377,
-      "name": "Раткиле",
+      "name": "Раткил",
       "name_default": "Rathkeale",
       "native": "Rathkeale",
       "type": "city",
@@ -1281,9 +1281,9 @@
     },
     {
       "id": 57386,
-      "name": "Роскреа",
+      "name": "Роскрей",
       "name_default": "Roscrea",
-      "native": "Roscorea",
+      "native": "Roscrea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 57395,
-      "name": "Шеннон",
+      "name": "Шаннон",
       "name_default": "Shannon",
       "native": "Shannon",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 57396,
-      "name": "Шестимильный мост",
+      "name": "Сиксмайлбридж",
       "name_default": "Sixmilebridge",
       "native": "Sixmilebridge",
       "type": "city",
@@ -1337,7 +1337,7 @@
       "id": 57398,
       "name": "Скибберин",
       "name_default": "Skibbereen",
-      "native": "Shust",
+      "native": "Skibbereen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 57414,
-      "name": "Терлс",
+      "name": "Тёрлс",
       "name_default": "Thurles",
       "native": "Thurles",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 57417,
-      "name": "Башня",
+      "name": "Тауэр",
       "name_default": "Tower",
       "native": "Tower",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 57420,
       "name": "Trá Mhór",
       "name_default": "Trá Mhór",
-      "native": "Great Beach",
+      "native": "Trá Mhór",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 57433,
-      "name": "Юхал",
+      "name": "Йол",
       "name_default": "Youghal",
       "native": "Youghal",
       "type": "city",

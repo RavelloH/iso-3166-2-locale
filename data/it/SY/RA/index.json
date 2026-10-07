@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 104964,
-      "name": "Distretto di Al-Thawrah",
+      "name": "Al-Thawrah",
       "name_default": "Al-Thawrah",
-      "native": "حي الثورة",
+      "native": "منطقة الثورة",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 104971,
-      "name": "Distretto di Ar-Raqqah",
+      "name": "Ar-Raqqah",
       "name_default": "Ar-Raqqah",
       "native": "منطقة الرقة",
       "type": "district",
@@ -129,7 +129,7 @@
     },
     {
       "id": 105055,
-      "name": "Alto Abyaḑ",
+      "name": "Tall Abyaḑ",
       "name_default": "Tall Abyaḑ",
       "native": "تل أبيض",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 105062,
-      "name": "Distretto di Tell Abyad",
+      "name": "Tell Abyad",
       "name_default": "Tell Abyad",
       "native": "منطقة تل أبيض",
       "type": "district",

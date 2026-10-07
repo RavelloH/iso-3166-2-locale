@@ -291,7 +291,7 @@
     },
     {
       "id": 105201,
-      "name": "バン・ルアム地区",
+      "name": "バーンルアム郡",
       "name_default": "Ban Lueam",
       "native": "อำเภอบ้านเลื่อม",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105257,
-      "name": "ブアライ郡",
+      "name": "ブワラーイ郡",
       "name_default": "Bua Lai",
       "native": "อำเภอบัวลาย",
       "type": "district",
@@ -363,7 +363,7 @@
     },
     {
       "id": 105280,
-      "name": "チャロエム・プラキアット地区",
+      "name": "チャルームプラキアット郡",
       "name_default": "Chaloem Phra Kiat",
       "native": "อำเภอเฉลิมพระเกียรติ",
       "type": "district",
@@ -435,7 +435,7 @@
     },
     {
       "id": 105357,
-      "name": "フアイ・タラーエン郡",
+      "name": "フワイタレーン郡",
       "name_default": "Huai Thalaeng",
       "native": "อำเภอห้วยแถลง",
       "type": "district",
@@ -561,7 +561,7 @@
     },
     {
       "id": 105556,
-      "name": "ムアン ナコーン ラチャシーマー地区",
+      "name": "ムアンナコーンラーチャシーマー郡",
       "name_default": "Mueang Nakhon Ratchasima",
       "native": "อำเภอเมืองนครราชสีมา",
       "type": "district",
@@ -579,7 +579,7 @@
     },
     {
       "id": 105605,
-      "name": "ムアンヤン郡",
+      "name": "ムアンヤーン郡",
       "name_default": "Mueang Yang",
       "native": "อำเภอเมืองยาง",
       "type": "district",
@@ -615,7 +615,7 @@
     },
     {
       "id": 105648,
-      "name": "ノンデーン郡",
+      "name": "ノーンデーン郡",
       "name_default": "Non Daeng",
       "native": "อำเภอโนนแดง",
       "type": "district",
@@ -651,9 +651,9 @@
     },
     {
       "id": 106593,
-      "name": "タイ人以外",
+      "name": "Non Thai",
       "name_default": "Non Thai",
-      "native": "ไม่ใช่คนไทย",
+      "native": "เทศบาลตำบลโนนไทย",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 105659,
-      "name": "ノンブンマク地区",
+      "name": "ノーンブンナーク郡",
       "name_default": "Nong Bun Mak",
       "native": "อำเภอหนองบุญมาก",
       "type": "district",
@@ -759,7 +759,7 @@
     },
     {
       "id": 105799,
-      "name": "プラタイ地区",
+      "name": "プラターイ郡",
       "name_default": "Prathai",
       "native": "อำเภอประทาย",
       "type": "district",
@@ -777,7 +777,7 @@
     },
     {
       "id": 106232,
-      "name": "シダ湾",
+      "name": "シーダー郡",
       "name_default": "Sida",
       "native": "อำเภอสีดา",
       "type": "district",
@@ -885,7 +885,7 @@
     },
     {
       "id": 106339,
-      "name": "ワンナムキアオ地区",
+      "name": "ワンナムキアオ郡",
       "name_default": "Wang Nam Khiao",
       "native": "อำเภอวังน้ำเขียว",
       "type": "district",

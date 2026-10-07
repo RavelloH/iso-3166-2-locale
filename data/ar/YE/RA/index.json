@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130701,
-      "name": "الجبين",
+      "name": "مديرية الجبين",
       "name_default": "Al Jabin",
       "native": "الجبين",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130776,
-      "name": "السلفية",
+      "name": "مديرية السلفية",
       "name_default": "As Salafiyah",
       "native": "السلفية",
       "type": "area",
@@ -114,7 +114,7 @@
       "name": "بلاد الطعام",
       "name_default": "Bilad At Ta'am",
       "native": "بلاد الطعام",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 31143,
@@ -129,7 +129,7 @@
     },
     {
       "id": 130899,
-      "name": "كوسماه",
+      "name": "مديرية كسمة",
       "name_default": "Kusmah",
       "native": "كوسماه",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130920,
-      "name": "مظهر",
+      "name": "مديرية مزهر",
       "name_default": "Mazhar",
       "native": "مظهر",
       "type": "adm2",

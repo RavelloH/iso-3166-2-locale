@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111111,
-      "name": "アルバニー",
+      "name": "オールバニ",
       "name_default": "Albany",
       "native": "Albany",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111214,
-      "name": "アロハ",
+      "name": "アロア",
       "name_default": "Aloha",
       "native": "Aloha",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111540,
-      "name": "アッシュランド",
+      "name": "アシュランド",
       "name_default": "Ashland",
       "native": "Ashland",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111740,
-      "name": "ベイカーシティ",
+      "name": "ベーカー・シティ",
       "name_default": "Baker City",
       "native": "Baker City",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 111797,
-      "name": "銀行",
+      "name": "バンクス",
       "name_default": "Banks",
       "native": "Banks",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 112166,
-      "name": "曲げる",
+      "name": "ベンド",
       "name_default": "Bend",
       "native": "Bend",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 112862,
-      "name": "ブルッキングス",
+      "name": "ブルッキングズ",
       "name_default": "Brookings",
       "native": "Brookings",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 113355,
-      "name": "キャニオンシティ",
+      "name": "キャニオン・シティ",
       "name_default": "Canyon City",
       "native": "Canyon City",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113516,
-      "name": "カスケードロック",
+      "name": "カスケード・ロックス",
       "name_default": "Cascade Locks",
       "native": "Cascade Locks",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 113680,
-      "name": "セントラルポイント",
+      "name": "セントラル・ポイント",
       "name_default": "Central Point",
       "native": "Central Point",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 114610,
-      "name": "クースベイ",
+      "name": "クーズベイ",
       "name_default": "Coos Bay",
       "native": "Coos Bay",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 114623,
-      "name": "コキーユ",
+      "name": "コキール",
       "name_default": "Coquille",
-      "native": "Shell",
+      "native": "Coquille",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -991,7 +991,7 @@
     },
     {
       "id": 114680,
-      "name": "コーバリス",
+      "name": "コーヴァリス",
       "name_default": "Corvallis",
       "native": "Corvallis",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 114903,
-      "name": "カルバー",
+      "name": "カルヴァー",
       "name_default": "Culver",
       "native": "Culver",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 115278,
-      "name": "デシューツ・リバー・ウッズ",
+      "name": "デシューツ・リヴァー・ウッズ",
       "name_default": "Deschutes River Woods",
       "native": "Deschutes River Woods",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 115968,
-      "name": "エルギン",
+      "name": "エルジン",
       "name_default": "Elgin",
       "native": "Elgin",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 116150,
-      "name": "企業",
+      "name": "エンタープライズ",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -1317,7 +1317,7 @@
       "id": 116202,
       "name": "エスタカーダ",
       "name_default": "Estacada",
-      "native": "Lurch",
+      "native": "Estacada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 116226,
-      "name": "ユージン",
+      "name": "ユージーン",
       "name_default": "Eugene",
       "native": "Eugene",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 116586,
-      "name": "フィレンツェ",
+      "name": "フローレンス",
       "name_default": "Florence",
       "native": "Florence",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 116653,
-      "name": "フォレストグローブ",
+      "name": "フォレストグローヴ",
       "name_default": "Forest Grove",
       "native": "Forest Grove",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 116772,
-      "name": "化石",
+      "name": "フォッシル",
       "name_default": "Fossil",
       "native": "Fossil",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 117178,
-      "name": "ジェルヴェ",
+      "name": "ジャーヴェイス",
       "name_default": "Gervais",
       "native": "Gervais",
       "type": "city",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 117239,
-      "name": "グラッドストーン",
+      "name": "グラッドストン",
       "name_default": "Gladstone",
       "native": "Gladstone",
       "type": "city",
@@ -1587,7 +1587,7 @@
       "id": 117474,
       "name": "グランドロンド",
       "name_default": "Grand Ronde",
-      "native": "Grand round",
+      "native": "Grand Ronde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 117589,
-      "name": "緑",
+      "name": "Green",
       "name_default": "Green",
       "native": "Green",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 118310,
-      "name": "ヘップナー",
+      "name": "ヘプナー",
       "name_default": "Heppner",
       "native": "Heppner",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 118897,
-      "name": "独立",
+      "name": "インディペンデンス",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 119251,
-      "name": "ジョン・デイ",
+      "name": "ジョンデイ",
       "name_default": "John Day",
       "native": "John Day",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 119318,
-      "name": "ジョセフ",
+      "name": "ジョーゼフ",
       "name_default": "Joseph",
       "native": "Joseph",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 119671,
-      "name": "クラマスフォールズ",
+      "name": "クラマス・フォールズ",
       "name_default": "Klamath Falls",
       "native": "Klamath Falls",
       "type": "city",
@@ -2071,9 +2071,9 @@
     },
     {
       "id": 119748,
-      "name": "ラ・グランド",
+      "name": "ラグランド",
       "name_default": "La Grande",
-      "native": "The big one",
+      "native": "La Grande",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2091,7 +2091,7 @@
       "id": 119772,
       "name": "ラ・パイン",
       "name_default": "La Pine",
-      "native": "Pine",
+      "native": "La Pine",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 119955,
-      "name": "レイクオスウェゴ",
+      "name": "レイク・オスウィーゴ",
       "name_default": "Lake Oswego",
       "native": "Lake Oswego",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 120041,
-      "name": "レイクビュー",
+      "name": "レイクヴュー",
       "name_default": "Lakeview",
       "native": "Lakeview",
       "type": "city",
@@ -2199,7 +2199,7 @@
       "id": 120377,
       "name": "レンツ",
       "name_default": "Lents",
-      "native": "Lens",
+      "native": "Lents",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 121541,
-      "name": "マクミンビル",
+      "name": "マクミンヴィル",
       "name_default": "McMinnville",
       "native": "McMinnville",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 122026,
-      "name": "モララ",
+      "name": "モラーラ",
       "name_default": "Molalla",
       "native": "Molalla",
       "type": "city",
@@ -2559,7 +2559,7 @@
       "id": 122458,
       "name": "ムリーノ",
       "name_default": "Mulino",
-      "native": "Mill",
+      "native": "Mulino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 122521,
-      "name": "マートルクリーク",
+      "name": "マートル・クリーク",
       "name_default": "Myrtle Creek",
       "native": "Myrtle Creek",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 122728,
-      "name": "新たな希望",
+      "name": "New Hope",
       "name_default": "New Hope",
       "native": "New Hope",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 123548,
-      "name": "オレゴンシティ",
+      "name": "オレゴン・シティ",
       "name_default": "Oregon City",
       "native": "Oregon City",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 124144,
-      "name": "博学者",
+      "name": "フィロマス",
       "name_default": "Philomath",
       "native": "Philomath",
       "type": "city",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": 124526,
-      "name": "ポートオーフォード",
+      "name": "ポート・オーフォード",
       "name_default": "Port Orford",
       "native": "Port Orford",
       "type": "city",
@@ -2989,7 +2989,7 @@
     },
     {
       "id": 124697,
-      "name": "プリンビル",
+      "name": "プラインビル",
       "name_default": "Prineville",
       "native": "Prineville",
       "type": "city",
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 124833,
-      "name": "ローリーヒルズ",
+      "name": "ローリー・ヒルズ",
       "name_default": "Raleigh Hills",
       "native": "Raleigh Hills",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 125113,
-      "name": "謎",
+      "name": "リドル",
       "name_default": "Riddle",
       "native": "Riddle",
       "type": "city",
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 125290,
-      "name": "ロッカウェイビーチ",
+      "name": "ロックアウェイビーチ",
       "name_default": "Rockaway Beach",
       "native": "Rockaway Beach",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 125357,
-      "name": "ローグ川",
+      "name": "Rogue River",
       "name_default": "Rogue River",
       "native": "Rogue River",
       "type": "city",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": 125649,
-      "name": "セントヘレンズ",
+      "name": "セイント・ヘレンズ",
       "name_default": "Saint Helens",
       "native": "Saint Helens",
       "type": "city",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 125740,
-      "name": "セーラム",
+      "name": "セイラム",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -3279,7 +3279,7 @@
       "id": 125996,
       "name": "スキャプース",
       "name_default": "Scappoose",
-      "native": "Lash",
+      "native": "Scappoose",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3333,7 +3333,7 @@
       "id": 126322,
       "name": "シェリダン",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3403,7 +3403,7 @@
     },
     {
       "id": 126468,
-      "name": "姉妹",
+      "name": "シスターズ",
       "name_default": "Sisters",
       "native": "Sisters",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 126688,
-      "name": "南レバノン",
+      "name": "South Lebanon",
       "name_default": "South Lebanon",
       "native": "South Lebanon",
       "type": "city",
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 127270,
-      "name": "サンリバー",
+      "name": "サンリヴァー",
       "name_default": "Sunriver",
       "native": "Sunriver",
       "type": "city",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 127337,
-      "name": "スウィートホーム",
+      "name": "スウィート・ホーム",
       "name_default": "Sweet Home",
       "native": "Sweet Home",
       "type": "city",
@@ -3601,7 +3601,7 @@
     },
     {
       "id": 127413,
-      "name": "正接",
+      "name": "タンジェント",
       "name_default": "Tangent",
       "native": "Tangent",
       "type": "city",
@@ -3763,7 +3763,7 @@
     },
     {
       "id": 127865,
-      "name": "トゥアラティン",
+      "name": "テュアラティン",
       "name_default": "Tualatin",
       "native": "Tualatin",
       "type": "city",
@@ -3799,7 +3799,7 @@
     },
     {
       "id": 127962,
-      "name": "ウマティラ",
+      "name": "ユマティラ",
       "name_default": "Umatilla",
       "native": "Umatilla",
       "type": "city",
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 127978,
-      "name": "連合",
+      "name": "ユニオン",
       "name_default": "Union",
       "native": "Union",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 128197,
-      "name": "バーノニア",
+      "name": "バーノーニア",
       "name_default": "Vernonia",
       "native": "Vernonia",
       "type": "city",
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 128376,
-      "name": "ウォルドポート",
+      "name": "ワルドポート",
       "name_default": "Waldport",
       "native": "Waldport",
       "type": "city",
@@ -3927,7 +3927,7 @@
       "id": 128485,
       "name": "ウォーレン",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4123,7 +4123,7 @@
     },
     {
       "id": 129490,
-      "name": "ウッドビレッジ",
+      "name": "ウッドヴィレッジ",
       "name_default": "Wood Village",
       "native": "Wood Village",
       "type": "city",

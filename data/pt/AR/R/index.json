@@ -316,7 +316,7 @@
       "id": 798,
       "name": "Coronel Belisle",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "Departamento de Avellaneda",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -422,7 +422,7 @@
     },
     {
       "id": 1085,
-      "name": "Frei Luis Beltrán",
+      "name": "Fray Luis Beltrán",
       "name_default": "Fray Luis Beltrán",
       "native": "Fray Luis Beltrán",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1152,
-      "name": "Engenheiro Jacobacci",
+      "name": "Ingeniero Jacobacci",
       "name_default": "Ingeniero Jacobacci",
       "native": "Ingeniero Jacobacci",
       "type": "city",
@@ -530,7 +530,7 @@
     },
     {
       "id": 1154,
-      "name": "Engenheiro Luis A. Huergo",
+      "name": "Ingeniero Luis A. Huergo",
       "name_default": "Ingeniero Luis A. Huergo",
       "native": "Ingeniero Luis A. Huergo",
       "type": "city",
@@ -566,7 +566,7 @@
     },
     {
       "id": 1253,
-      "name": "Os Menucos",
+      "name": "Los Menucos",
       "name_default": "Los Menucos",
       "native": "Los Menucos",
       "type": "city",
@@ -586,7 +586,7 @@
       "id": 1263,
       "name": "Mainqué",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -656,7 +656,7 @@
     },
     {
       "id": 1389,
-      "name": "Rio Colorado",
+      "name": "Río Colorado",
       "name_default": "Río Colorado",
       "native": "Río Colorado",
       "type": "adm2",
@@ -674,7 +674,7 @@
     },
     {
       "id": 1409,
-      "name": "Santo Antônio Oeste",
+      "name": "San Antonio Oeste",
       "name_default": "San Antonio Oeste",
       "native": "San Antonio Oeste",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1418,
-      "name": "São Carlos de Bariloche",
+      "name": "Bariloche",
       "name_default": "San Carlos de Bariloche",
       "native": "San Carlos de Bariloche",
       "type": "adm3",
@@ -710,7 +710,7 @@
     },
     {
       "id": 1486,
-      "name": "Serra Colorado",
+      "name": "Sierra Colorada",
       "name_default": "Sierra Colorada",
       "native": "Sierra Colorada",
       "type": "adm2",
@@ -728,7 +728,7 @@
     },
     {
       "id": 1487,
-      "name": "Serra Grande",
+      "name": "Sierra Grande",
       "name_default": "Sierra Grande",
       "native": "Sierra Grande",
       "type": "city",
@@ -782,7 +782,7 @@
     },
     {
       "id": 1574,
-      "name": "Vila Regina",
+      "name": "Villa Regina",
       "name_default": "Villa Regina",
       "native": "Villa regina",
       "type": "city",

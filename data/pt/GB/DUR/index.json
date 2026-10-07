@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48256,
-      "name": "Planície de Annfield",
+      "name": "Annfield Plain",
       "name_default": "Annfield Plain",
       "native": "Annfield Plain",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48395,
-      "name": "Castelo de Barnard",
+      "name": "Barnard Castle",
       "name_default": "Barnard Castle",
       "native": "Barnard Castle",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48522,
-      "name": "Bispo Auckland",
+      "name": "Bishop Auckland",
       "name_default": "Bishop Auckland",
       "native": "Bishop Auckland",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48523,
-      "name": "Bispo Middleham",
+      "name": "Bishop Middleham",
       "name_default": "Bishop Middleham",
       "native": "Bishop Middleham",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48886,
-      "name": "Lado do Castelo",
+      "name": "Castleside",
       "name_default": "Castleside",
       "native": "Castleside",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49119,
-      "name": "Conselho",
+      "name": "Coundon",
       "name_default": "Coundon",
       "native": "Coundon",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49121,
-      "name": "Condado de Durham",
+      "name": "County Durham",
       "name_default": "County Durham",
       "native": "County Durham",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 49169,
-      "name": "Trapaceiro",
+      "name": "Crook",
       "name_default": "Crook",
       "native": "Crook",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49925,
-      "name": "Alto Etherley",
+      "name": "High Etherley",
       "name_default": "High Etherley",
       "native": "High Etherley",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 50237,
       "name": "Lanchester",
       "name_default": "Lanchester",
-      "native": "Snacks",
+      "native": "Lanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 50245,
-      "name": "Parque Langley",
+      "name": "Langley Park",
       "name_default": "Langley Park",
       "native": "Langley Park",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 50422,
-      "name": "Baixo Etherley",
+      "name": "Low Etherley",
       "name_default": "Low Etherley",
       "native": "Low Etherley",
       "type": "city",
@@ -542,8 +542,26 @@
       "country_id": 232
     },
     {
+      "id": 50903,
+      "name": "Peterlee",
+      "name_default": "Peterlee",
+      "native": "Peterlee",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37015,
+      "latitude": "54.76032000",
+      "longitude": "-1.33649000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2079502",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51160,
-      "name": "Sacristão",
+      "name": "Sacriston",
       "name_default": "Sacriston",
       "native": "Sacriston",
       "type": "city",
@@ -597,7 +615,7 @@
     },
     {
       "id": 51268,
-      "name": "Colina de Sherburn",
+      "name": "Sherburn Hill",
       "name_default": "Sherburn Hill",
       "native": "Sherburn Hill",
       "type": "city",
@@ -651,9 +669,9 @@
     },
     {
       "id": 51409,
-      "name": "Mancha",
+      "name": "Staindrop",
       "name_default": "Staindrop",
-      "native": "Stindrop",
+      "native": "Staindrop",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -686,8 +704,26 @@
       "country_id": 232
     },
     {
+      "id": 51426,
+      "name": "Stanley",
+      "name_default": "Stanley",
+      "native": "Stanley",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21938,
+      "latitude": "54.86796000",
+      "longitude": "-1.69846000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q924360",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51433,
-      "name": "Comece em frente",
+      "name": "Startforth",
       "name_default": "Startforth",
       "native": "Startforth",
       "type": "adm3",
@@ -723,7 +759,7 @@
     },
     {
       "id": 51653,
-      "name": "Lei de Reboque",
+      "name": "Tow Law",
       "name_default": "Tow Law",
       "native": "Tow Law",
       "type": "city",
@@ -759,7 +795,7 @@
     },
     {
       "id": 51670,
-      "name": "Granja Trimdon",
+      "name": "Trimdon Grange",
       "name_default": "Trimdon Grange",
       "native": "Trimdon Grange",
       "type": "city",
@@ -777,7 +813,7 @@
     },
     {
       "id": 51709,
-      "name": "Pântano Ushaw",
+      "name": "Ushaw Moor",
       "name_default": "Ushaw Moor",
       "native": "Ushaw Moor",
       "type": "city",
@@ -795,7 +831,7 @@
     },
     {
       "id": 51813,
-      "name": "Cornforth Ocidental",
+      "name": "West Cornforth",
       "name_default": "West Cornforth",
       "native": "West Cornforth",
       "type": "city",
@@ -813,7 +849,7 @@
     },
     {
       "id": 51830,
-      "name": "Rainton Ocidental",
+      "name": "West Rainton",
       "name_default": "West Rainton",
       "native": "West Rainton",
       "type": "adm3",

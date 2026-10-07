@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111145,
-      "name": "Александр",
+      "name": "Александер",
       "name_default": "Alexander",
       "native": "Alexander",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111455,
-      "name": "Аркадельфия",
+      "name": "Аркаделфия",
       "name_default": "Arkadelphia",
       "native": "Arkadelphia",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111510,
-      "name": "Эш Флэт",
+      "name": "Аш-Флат",
       "name_default": "Ash Flat",
       "native": "Ash Flat",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 111645,
-      "name": "Августа",
+      "name": "Огаста",
       "name_default": "Augusta",
       "native": "Augusta",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111751,
-      "name": "Лысый Ноб",
+      "name": "Болд-Ноб",
       "name_default": "Bald Knob",
       "native": "Bald Knob",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111920,
-      "name": "Залив",
+      "name": "Bay",
       "name_default": "Bay",
       "native": "Bay",
       "type": "city",
@@ -507,7 +507,7 @@
       "id": 112071,
       "name": "Белла Виста",
       "name_default": "Bella Vista",
-      "native": "Beautiful view",
+      "native": "Bella Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -541,7 +541,7 @@
     },
     {
       "id": 112210,
-      "name": "Бентонвилль",
+      "name": "Бентонвилл",
       "name_default": "Bentonville",
       "native": "Bentonville",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 112254,
-      "name": "Берривилль",
+      "name": "Берривилл",
       "name_default": "Berryville",
       "native": "Berryville",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 112486,
-      "name": "Блайтвилль",
+      "name": "Блайтвилл",
       "name_default": "Blytheville",
       "native": "Blytheville",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 112562,
-      "name": "Бунвилль",
+      "name": "Бунвилл",
       "name_default": "Booneville",
       "native": "Booneville",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 113028,
-      "name": "Булл Шолс",
+      "name": "Булл-Шолс",
       "name_default": "Bull Shoals",
       "native": "Bull Shoals",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 113154,
-      "name": "Кэбот",
+      "name": "Кабот",
       "name_default": "Cabot",
       "native": "Cabot",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 113212,
-      "name": "Калико Рок",
+      "name": "Калико-Рок",
       "name_default": "Calico Rock",
       "native": "Calico Rock",
       "type": "city",
@@ -759,7 +759,7 @@
       "id": 113260,
       "name": "Камден",
       "name_default": "Camden",
-      "native": "Cam",
+      "native": "Camden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -811,7 +811,7 @@
     },
     {
       "id": 113583,
-      "name": "Пещерный город",
+      "name": "Кейв-Сити",
       "name_default": "Cave City",
       "native": "Cave City",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 113589,
-      "name": "Кейв Спрингс",
+      "name": "Кейв-Спрингс",
       "name_default": "Cave Springs",
       "native": "Cave Springs",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 113628,
-      "name": "Сидарвилль",
+      "name": "Сидарвилл",
       "name_default": "Cedarville",
       "native": "Cedarville",
       "type": "city",
@@ -883,7 +883,7 @@
     },
     {
       "id": 113761,
-      "name": "Чарльстон",
+      "name": "Чарлстон",
       "name_default": "Charleston",
       "native": "Charleston",
       "type": "city",
@@ -901,7 +901,7 @@
     },
     {
       "id": 113857,
-      "name": "Деревня чероки",
+      "name": "Чероки-Виллидж",
       "name_default": "Cherokee Village",
       "native": "Cherokee Village",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 114331,
-      "name": "Угольный холм",
+      "name": "Кол-Хилл",
       "name_default": "Coal Hill",
       "native": "Coal Hill",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 114581,
-      "name": "Конвей",
+      "name": "Конуэй",
       "name_default": "Conway",
       "native": "Conway",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 115031,
-      "name": "Дэнвилл",
+      "name": "Данвилл",
       "name_default": "Danville",
       "native": "Danville",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 115042,
-      "name": "Дарданеллы",
+      "name": "Дарданелл",
       "name_default": "Dardanelle",
       "native": "Dardanelle",
       "type": "city",
@@ -1081,9 +1081,9 @@
     },
     {
       "id": 115113,
-      "name": "Де Королева",
+      "name": "Де-Куин",
       "name_default": "De Queen",
-      "native": "Queen",
+      "native": "De Queen",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
       "id": 115121,
       "name": "Де Витт",
       "name_default": "De Witt",
-      "native": "Witt",
+      "native": "De Witt",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1153,9 +1153,9 @@
     },
     {
       "id": 115270,
-      "name": "Дез Арк",
+      "name": "Де-Арк",
       "name_default": "Des Arc",
-      "native": "Arcs",
+      "native": "Des Arc",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1279,9 +1279,9 @@
     },
     {
       "id": 115919,
-      "name": "Эльдорадо",
+      "name": "Эль-Дорадо",
       "name_default": "El Dorado",
-      "native": "The gold",
+      "native": "El Dorado",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1299,7 +1299,7 @@
       "id": 116005,
       "name": "Элкинс",
       "name_default": "Elkins",
-      "native": "Elkin",
+      "native": "Elkins",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 116045,
-      "name": "Элм Спрингс",
+      "name": "Илм-Спрингс",
       "name_default": "Elm Springs",
       "native": "Elm Springs",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 116128,
-      "name": "Англия",
+      "name": "Ингленд",
       "name_default": "England",
       "native": "England",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 116318,
-      "name": "Фэрфилд-Бэй",
+      "name": "Фэрфилд-Бей",
       "name_default": "Fairfield Bay",
       "native": "Fairfield Bay",
       "type": "city",
@@ -1443,7 +1443,7 @@
       "id": 116568,
       "name": "Флиппин",
       "name_default": "Flippin",
-      "native": "Flip",
+      "native": "Flippin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 116642,
-      "name": "Фордайс",
+      "name": "Фордис",
       "name_default": "Fordyce",
       "native": "Fordyce",
       "type": "city",
@@ -1513,9 +1513,9 @@
     },
     {
       "id": 117112,
-      "name": "Гассвилль",
+      "name": "Гассвилл",
       "name_default": "Gassville",
-      "native": "Gasville",
+      "native": "Gassville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 117546,
-      "name": "Гравийный хребет",
+      "name": "Гравел-Ридж",
       "name_default": "Gravel Ridge",
       "native": "Gravel Ridge",
       "type": "city",
@@ -1639,9 +1639,9 @@
     },
     {
       "id": 117549,
-      "name": "Граветт",
+      "name": "Грейветт",
       "name_default": "Gravette",
-      "native": "Buried",
+      "native": "Gravette",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 117595,
-      "name": "Зеленый лес",
+      "name": "Грин-Форест",
       "name_default": "Green Forest",
       "native": "Green Forest",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 117619,
-      "name": "Гринбриер",
+      "name": "Гринбрир",
       "name_default": "Greenbrier",
       "native": "Greenbrier",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 117656,
-      "name": "Гренландия",
+      "name": "Гринленд",
       "name_default": "Greenland",
       "native": "Greenland",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 117881,
-      "name": "Гамбург",
+      "name": "Хамберг",
       "name_default": "Hamburg",
       "native": "Hamburg",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 118054,
-      "name": "Харрисон",
+      "name": "Гаррисон",
       "name_default": "Harrison",
       "native": "Harrison",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 118247,
-      "name": "Елена",
+      "name": "Хелена",
       "name_default": "Helena",
       "native": "Helena",
       "type": "city",
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 118257,
-      "name": "Елена-Западная Елена",
+      "name": "Хелена — Уэст-Хелена",
       "name_default": "Helena-West Helena",
       "native": "Helena-West Helena",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 118533,
-      "name": "Остров отдыха",
+      "name": "Holiday Island",
       "name_default": "Holiday Island",
       "native": "Holiday Island",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 118642,
-      "name": "Надеяться",
+      "name": "Хоп",
       "name_default": "Hope",
       "native": "Hope",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 118662,
-      "name": "Горацио",
+      "name": "Хорейшо",
       "name_default": "Horatio",
       "native": "Horatio",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 118676,
-      "name": "Подкова",
+      "name": "Хорсшу-Бенд",
       "name_default": "Horseshoe Bend",
       "native": "Horseshoe Bend",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 118682,
-      "name": "Горячие источники",
+      "name": "Hot Springs",
       "name_default": "Hot Springs",
       "native": "Hot Springs",
       "type": "city",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": 118757,
-      "name": "Хьюз",
+      "name": "Хьюс",
       "name_default": "Hughes",
       "native": "Hughes",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 119100,
-      "name": "Джексонвилл",
+      "name": "Джэксонвилл",
       "name_default": "Jacksonville",
       "native": "Jacksonville",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 119916,
-      "name": "Озеро Гамильтон",
+      "name": "Lake Hamilton",
       "name_default": "Lake Hamilton",
       "native": "Lake Hamilton",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 119989,
-      "name": "Лейк-Виллидж",
+      "name": "Лейк-Вилидж",
       "name_default": "Lake Village",
       "native": "Lake Village",
       "type": "city",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 120101,
-      "name": "Достопримечательность",
+      "name": "Паркерс-Айрон-Спрингс",
       "name_default": "Landmark",
       "native": "Landmark",
       "type": "city",
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 120621,
-      "name": "Маленькая стая",
+      "name": "Литтл-Флок",
       "name_default": "Little Flock",
       "native": "Little Flock",
       "type": "city",
@@ -2451,7 +2451,7 @@
       "id": 120761,
       "name": "Лонок",
       "name_default": "Lonoke",
-      "native": "LOOK",
+      "native": "Lonoke",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2557,7 +2557,7 @@
     },
     {
       "id": 121142,
-      "name": "Мэнсфилд",
+      "name": "Мансфилд",
       "name_default": "Mansfield",
       "native": "Mansfield",
       "type": "city",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": 121421,
-      "name": "Момель",
+      "name": "Момелл",
       "name_default": "Maumelle",
       "native": "Maumelle",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 121438,
-      "name": "Мэйфлауэр",
+      "name": "Мейфлауэр",
       "name_default": "Mayflower",
       "native": "Mayflower",
       "type": "city",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 121464,
-      "name": "Мак-Алмонт",
+      "name": "Макалмонт",
       "name_default": "McAlmont",
       "native": "McAlmont",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 121487,
-      "name": "МакКрори",
+      "name": "Мак-Крори",
       "name_default": "McCrory",
       "native": "McCrory",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 121501,
-      "name": "МакГихи",
+      "name": "Мак-Ги",
       "name_default": "McGehee",
       "native": "McGehee",
       "type": "city",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 121939,
-      "name": "Минеральные источники",
+      "name": "Минерал-Спрингс",
       "name_default": "Mineral Springs",
       "native": "Mineral Springs",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 122158,
-      "name": "Монтичелло",
+      "name": "Монтиселло",
       "name_default": "Monticello",
       "native": "Monticello",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 122355,
-      "name": "Гора Ида",
+      "name": "Mount Ida",
       "name_default": "Mount Ida",
       "native": "Mount Ida",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 122415,
-      "name": "Горный дом",
+      "name": "Mountain Home",
       "name_default": "Mountain Home",
       "native": "Mountain Home",
       "type": "city",
@@ -2989,7 +2989,7 @@
     },
     {
       "id": 122572,
-      "name": "Нэшвилл",
+      "name": "Нашвилл",
       "name_default": "Nashville",
       "native": "Nashville",
       "type": "city",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 123012,
-      "name": "Северный Кроссетт",
+      "name": "Норт-Кроссетт",
       "name_default": "North Crossett",
       "native": "North Crossett",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 123059,
-      "name": "Северный Литл-Рок",
+      "name": "Норт-Литл-Рок",
       "name_default": "North Little Rock",
       "native": "North Little Rock",
       "type": "city",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 123597,
-      "name": "Оцеола",
+      "name": "Осеола",
       "name_default": "Osceola",
       "native": "Osceola",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 123829,
-      "name": "Париж",
+      "name": "Парис",
       "name_default": "Paris",
       "native": "Paris",
       "type": "city",
@@ -3205,7 +3205,7 @@
     },
     {
       "id": 124088,
-      "name": "Перривилль",
+      "name": "Перривилл",
       "name_default": "Perryville",
       "native": "Perryville",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 124266,
-      "name": "Пини",
+      "name": "Пайни",
       "name_default": "Piney",
       "native": "Piney",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 124626,
-      "name": "Прери-Крик",
+      "name": "Прейри-Крик",
       "name_default": "Prairie Creek",
       "native": "Prairie Creek",
       "type": "city",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": 124627,
-      "name": "Прери-Гроув",
+      "name": "Прэйри-Гров",
       "name_default": "Prairie Grove",
       "native": "Prairie Grove",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 125328,
-      "name": "Роквелл",
+      "name": "Рокуэлл",
       "name_default": "Rockwell",
       "native": "Rockwell",
       "type": "city",
@@ -3457,7 +3457,7 @@
     },
     {
       "id": 125543,
-      "name": "Расселвилль",
+      "name": "Расселвилл",
       "name_default": "Russellville",
       "native": "Russellville",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 125726,
-      "name": "Салем",
+      "name": "Сейлем",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -3493,7 +3493,7 @@
     },
     {
       "id": 126092,
-      "name": "Сирси",
+      "name": "Серси",
       "name_default": "Searcy",
       "native": "Searcy",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 126221,
-      "name": "Шеннон Хиллз",
+      "name": "Шеннон-Хилс",
       "name_default": "Shannon Hills",
       "native": "Shannon Hills",
       "type": "city",
@@ -3531,7 +3531,7 @@
       "id": 126317,
       "name": "Шеридан",
       "name_default": "Sheridan",
-      "native": "Lion",
+      "native": "Sheridan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 126417,
-      "name": "Силоам-Спрингс",
+      "name": "Сайлом-Спрингс",
       "name_default": "Siloam Springs",
       "native": "Siloam Springs",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 126946,
-      "name": "Марки",
+      "name": "Стампс",
       "name_default": "Stamps",
       "native": "Stamps",
       "type": "city",
@@ -3655,7 +3655,7 @@
     },
     {
       "id": 126979,
-      "name": "Звездный городок",
+      "name": "Стар-Сити",
       "name_default": "Star City",
       "native": "Star City",
       "type": "city",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 127155,
-      "name": "Штутгарт",
+      "name": "Статгарт",
       "name_default": "Stuttgart",
       "native": "Stuttgart",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 127196,
-      "name": "Серные источники",
+      "name": "Sulphur Springs",
       "name_default": "Sulphur Springs",
       "native": "Sulphur Springs",
       "type": "city",
@@ -3729,7 +3729,7 @@
       "id": 127723,
       "name": "Тонтитаун",
       "name_default": "Tontitown",
-      "native": "Plot",
+      "native": "Tontitown",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 128126,
-      "name": "Ван Бюрен",
+      "name": "Ван-Бьюрен",
       "name_default": "Van Buren",
       "native": "Van Buren",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 128457,
-      "name": "Сторожить",
+      "name": "Уорд",
       "name_default": "Ward",
       "native": "Ward",
       "type": "city",
@@ -3891,7 +3891,7 @@
       "id": 128476,
       "name": "Уоррен",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3925,7 +3925,7 @@
     },
     {
       "id": 128872,
-      "name": "Западная вилка",
+      "name": "Вест-Форк",
       "name_default": "West Fork",
       "native": "West Fork",
       "type": "city",
@@ -3943,7 +3943,7 @@
     },
     {
       "id": 128893,
-      "name": "Западная Елена",
+      "name": "West Helena",
       "name_default": "West Helena",
       "native": "West Helena",
       "type": "city",
@@ -3961,7 +3961,7 @@
     },
     {
       "id": 128928,
-      "name": "Западный Мемфис",
+      "name": "Уэст-Мемфис",
       "name_default": "West Memphis",
       "native": "West Memphis",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 129139,
-      "name": "Белый зал",
+      "name": "Уайт-Холл",
       "name_default": "White Hall",
       "native": "White Hall",
       "type": "city",

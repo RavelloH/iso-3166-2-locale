@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 50426,
-      "name": "下厄利",
-      "name_default": "Lower Earley",
-      "native": "Lower Earley",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32000,
-      "latitude": "51.42708000",
-      "longitude": "-0.91979000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q22582558",
-      "country_code": "GB",
-      "state_code": "RDG",
-      "state_id": 2455,
-      "country_id": 232
-    },
-    {
       "id": 50849,
       "name": "潘伯恩",
       "name_default": "Pangbourne",
@@ -129,7 +111,7 @@
     },
     {
       "id": 51045,
-      "name": "阅读",
+      "name": "雷丁",
       "name_default": "Reading",
       "native": "Reading",
       "type": "adm2",
@@ -167,7 +149,7 @@
       "id": 51343,
       "name": "桑宁公地",
       "name_default": "Sonning Common",
-      "native": "The number of the number",
+      "native": "Sonning Common",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +183,7 @@
     },
     {
       "id": 51733,
-      "name": "沃灵福德",
+      "name": "瓦灵福特",
       "name_default": "Wallingford",
       "native": "Wallingford",
       "type": "city",

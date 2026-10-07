@@ -304,7 +304,7 @@
     },
     {
       "id": 97683,
-      "name": "Arte",
+      "name": "Arti",
       "name_default": "Arti",
       "native": "Арти",
       "type": "adm2",
@@ -322,7 +322,7 @@
     },
     {
       "id": 97693,
-      "name": "Amianto",
+      "name": "Asbest",
       "name_default": "Asbest",
       "native": "Асбест",
       "type": "adm2",
@@ -430,7 +430,7 @@
     },
     {
       "id": 97824,
-      "name": "Baikalovo",
+      "name": "Baykalovo",
       "name_default": "Baykalovo",
       "native": "Байкалово",
       "type": "adm2",
@@ -502,7 +502,7 @@
     },
     {
       "id": 97940,
-      "name": "Biserto",
+      "name": "Bisert’",
       "name_default": "Bisert’",
       "native": "Бисерть",
       "type": "city",
@@ -754,9 +754,9 @@
     },
     {
       "id": 98696,
-      "name": "É",
+      "name": "Is",
       "name_default": "Is",
-      "native": "Является",
+      "native": "Ис",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -772,7 +772,7 @@
     },
     {
       "id": 98701,
-      "name": "Iset'",
+      "name": "Iset’",
       "name_default": "Iset’",
       "native": "Исеть",
       "type": "city",
@@ -808,7 +808,7 @@
     },
     {
       "id": 98738,
-      "name": "Ivdel'",
+      "name": "Ivdel’",
       "name_default": "Ivdel’",
       "native": "Ивдель",
       "type": "adm2",
@@ -880,7 +880,7 @@
     },
     {
       "id": 98820,
-      "name": "Kamensk-Ural'skiy",
+      "name": "Kamensk-Ural’skiy",
       "name_default": "Kamensk-Ural’skiy",
       "native": "Каменск-Уральский",
       "type": "adm2",
@@ -970,7 +970,7 @@
     },
     {
       "id": 99061,
-      "name": "Kirovgrado",
+      "name": "Kirovgrad",
       "name_default": "Kirovgrad",
       "native": "Кировград",
       "type": "adm2",
@@ -1024,7 +1024,7 @@
     },
     {
       "id": 99337,
-      "name": "Krasnotur'insk",
+      "name": "Krasnotur’insk",
       "name_default": "Krasnotur’insk",
       "native": "Краснотурьинск",
       "type": "city",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 99339,
-      "name": "Krasnoural'sk",
+      "name": "Krasnoural’sk",
       "name_default": "Krasnoural’sk",
       "native": "Красноуральск",
       "type": "adm2",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 99667,
-      "name": "Perdido",
+      "name": "Losinyy",
       "name_default": "Losinyy",
       "native": "Лосиный",
       "type": "city",
@@ -1276,7 +1276,7 @@
     },
     {
       "id": 100121,
-      "name": "Nev'yansk",
+      "name": "Nev’yansk",
       "name_default": "Nev’yansk",
       "native": "Невьянск",
       "type": "adm2",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 100322,
-      "name": "Novoural'sk",
+      "name": "Novoural’sk",
       "name_default": "Novoural’sk",
       "native": "Новоуральск",
       "type": "adm2",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": 100629,
-      "name": "Pervoural'sk",
+      "name": "Pervoural’sk",
       "name_default": "Pervoural’sk",
       "native": "Первоуральск",
       "type": "city",
@@ -1618,7 +1618,7 @@
     },
     {
       "id": 100755,
-      "name": "Polevskoy",
+      "name": "Polevskoi",
       "name_default": "Polevskoy",
       "native": "Полевской",
       "type": "adm2",
@@ -1654,7 +1654,7 @@
     },
     {
       "id": 100916,
-      "name": "Pishma",
+      "name": "Pyshma",
       "name_default": "Pyshma",
       "native": "Пышма",
       "type": "adm2",
@@ -1798,7 +1798,7 @@
     },
     {
       "id": 101221,
-      "name": "Severoural'sk",
+      "name": "Severoural’sk",
       "name_default": "Severoural’sk",
       "native": "Североуральск",
       "type": "adm2",
@@ -1924,7 +1924,7 @@
     },
     {
       "id": 101499,
-      "name": "Sos'va",
+      "name": "Sos’va",
       "name_default": "Sos’va",
       "native": "Сосьва",
       "type": "adm2",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 101654,
-      "name": "Tronco Sukhoi",
+      "name": "Sukhoy Log",
       "name_default": "Sukhoy Log",
       "native": "Сухой Лог",
       "type": "adm2",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": 101733,
-      "name": "Sistema'",
+      "name": "Sysert’",
       "name_default": "Sysert’",
       "native": "Сысерть",
       "type": "adm2",
@@ -2464,7 +2464,7 @@
     },
     {
       "id": 102272,
-      "name": "Sistema Verkhnyaya",
+      "name": "Verkhnyaya Sysert’",
       "name_default": "Verkhnyaya Sysert’",
       "native": "Верхняя Сысерть",
       "type": "city",
@@ -2500,7 +2500,7 @@
     },
     {
       "id": 102277,
-      "name": "Verkhotur'ye",
+      "name": "Verkhotur’ye",
       "name_default": "Verkhotur’ye",
       "native": "Верхотурье",
       "type": "adm2",
@@ -2716,7 +2716,7 @@
     },
     {
       "id": 102790,
-      "name": "Zyuzel'skiy",
+      "name": "Zyuzel’skiy",
       "name_default": "Zyuzel’skiy",
       "native": "Зюзельский",
       "type": "city",

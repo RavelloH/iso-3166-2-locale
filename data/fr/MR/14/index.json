@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150085,
-      "name": "Dar-Naïm",
+      "name": "Dar-Naim",
       "name_default": "Dar-Naim",
       "native": "دار نعيم",
       "type": "adm1",
@@ -75,10 +75,10 @@
     },
     {
       "id": 150086,
-      "name": "Teyarett",
+      "name": "Teyareth",
       "name_default": "Teyarett",
       "native": "تياريت",
-      "type": "adm1",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 46351,

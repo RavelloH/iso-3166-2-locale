@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48363,
-      "name": "بلشام",
+      "name": "بلشم",
       "name_default": "Balsham",
       "native": "Balsham",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48576,
-      "name": "بلونتيشام",
+      "name": "بلونتيشم",
       "name_default": "Bluntisham",
       "native": "Bluntisham",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48621,
-      "name": "بوتيشام",
+      "name": "بتيشم",
       "name_default": "Bottisham",
       "native": "Bottisham",
       "type": "city",
@@ -147,9 +147,9 @@
     },
     {
       "id": 48743,
-      "name": "باكدن",
+      "name": "بوكدن",
       "name_default": "Buckden",
-      "native": "Bump",
+      "native": "Buckden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 48797,
-      "name": "بورويل",
+      "name": "بورول",
       "name_default": "Burwell",
       "native": "Burwell",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48833,
-      "name": "كامبورن",
+      "name": "كمبورن",
       "name_default": "Cambourne",
       "native": "Cambourne",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49082,
-      "name": "كومبرتون",
+      "name": "كمبرتون",
       "name_default": "Comberton",
       "native": "Comberton",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49115,
-      "name": "كوتنهام",
+      "name": "كتونهم",
       "name_default": "Cottenham",
       "native": "Cottenham",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 49298,
-      "name": "دودينجتون",
+      "name": "دودينغتون",
       "name_default": "Doddington",
       "native": "Doddington",
       "type": "city",
@@ -308,26 +308,8 @@
       "country_id": 232
     },
     {
-      "id": 49320,
-      "name": "سوق داونهام",
-      "name_default": "Downham Market",
-      "native": "Downham Market",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11349,
-      "latitude": "52.60714000",
-      "longitude": "0.38375000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1253266",
-      "country_code": "GB",
-      "state_code": "CAM",
-      "state_id": 2423,
-      "country_id": 232
-    },
-    {
       "id": 49368,
-      "name": "دوكسفورد",
+      "name": "دوكسفرد",
       "name_default": "Duxford",
       "native": "Duxford",
       "type": "city",
@@ -345,7 +327,7 @@
     },
     {
       "id": 49376,
-      "name": "إيريث",
+      "name": "يريث",
       "name_default": "Earith",
       "native": "Earith",
       "type": "city",
@@ -356,6 +338,24 @@
       "longitude": "0.03056000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2622643",
+      "country_code": "GB",
+      "state_code": "CAM",
+      "state_id": 2423,
+      "country_id": 232
+    },
+    {
+      "id": 49429,
+      "name": "يتون سكن",
+      "name_default": "Eaton Socon",
+      "native": "Eaton Socon",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 12712,
+      "latitude": "52.21752000",
+      "longitude": "-0.28925000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1520611",
       "country_code": "GB",
       "state_code": "CAM",
       "state_id": 2423,
@@ -399,7 +399,7 @@
     },
     {
       "id": 49543,
-      "name": "فنستانتون",
+      "name": "فنستونتون",
       "name_default": "Fenstanton",
       "native": "Fenstanton",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49584,
-      "name": "فوردهام",
+      "name": "فردهم",
       "name_default": "Fordham",
       "native": "Fordham",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 49600,
-      "name": "فاولمير",
+      "name": "فولمر",
       "name_default": "Fowlmere",
       "native": "Fowlmere",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 49625,
-      "name": "جاملينجاي",
+      "name": "غملينغي",
       "name_default": "Gamlingay",
       "native": "Gamlingay",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 49645,
-      "name": "جيرتون",
+      "name": "غيرتون",
       "name_default": "Girton",
       "native": "Girton",
       "type": "city",
@@ -509,7 +509,7 @@
       "id": 49671,
       "name": "جودمانشيستر",
       "name_default": "Godmanchester",
-      "native": "GODNANCHESTER",
+      "native": "Godmanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -543,7 +543,7 @@
     },
     {
       "id": 49719,
-      "name": "جراندسدن العظيمة",
+      "name": "غريت غرنسدن",
       "name_default": "Great Gransden",
       "native": "Great Gransden",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 49819,
-      "name": "هارستون",
+      "name": "هرستون",
       "name_default": "Harston",
       "native": "Harston",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 49833,
-      "name": "هاسلينجفيلد",
+      "name": "هسلينغفيلد",
       "name_default": "Haslingfield",
       "native": "Haslingfield",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 49897,
-      "name": "هيمينغفورد جراي",
+      "name": "همينغفرد غري",
       "name_default": "Hemingford Grey",
       "native": "Hemingford Grey",
       "type": "city",
@@ -635,7 +635,7 @@
       "id": 49951,
       "name": "هيستون",
       "name_default": "Histon",
-      "native": "Tissue",
+      "native": "Histon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 50005,
-      "name": "هوتون",
+      "name": "هوغتون",
       "name_default": "Houghton",
       "native": "Houghton",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 50083,
-      "name": "إيسلهام",
+      "name": "ايسلهم",
       "name_default": "Isleham",
       "native": "Isleham",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 50331,
-      "name": "ليتل باكستون",
+      "name": "ليتل بكستون",
       "name_default": "Little Paxton",
       "native": "Little Paxton",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 50336,
-      "name": "ليتل بورت",
+      "name": "ليتلبرت",
       "name_default": "Littleport",
       "native": "Littleport",
       "type": "city",
@@ -777,7 +777,7 @@
     },
     {
       "id": 50411,
-      "name": "لونجستانتون",
+      "name": "لنغستنتون",
       "name_default": "Longstanton",
       "native": "Longstanton",
       "type": "city",
@@ -795,9 +795,9 @@
     },
     {
       "id": 50482,
-      "name": "مانيا",
+      "name": "مانع",
       "name_default": "Manea",
-      "native": "Mane",
+      "native": "Manea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -812,8 +812,26 @@
       "country_id": 232
     },
     {
+      "id": 50491,
+      "name": "يمشي",
+      "name_default": "March",
+      "native": "March",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22963,
+      "latitude": "52.55131000",
+      "longitude": "0.08828000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2569076",
+      "country_code": "GB",
+      "state_code": "CAM",
+      "state_id": 2423,
+      "country_id": 232
+    },
+    {
       "id": 50539,
-      "name": "ميلدريث",
+      "name": "ملدرث",
       "name_default": "Meldreth",
       "native": "Meldreth",
       "type": "city",
@@ -848,26 +866,8 @@
       "country_id": 232
     },
     {
-      "id": 50718,
-      "name": "نيوماركت",
-      "name_default": "Newmarket",
-      "native": "Newmarket",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16755,
-      "latitude": "52.24467000",
-      "longitude": "0.40418000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1382713",
-      "country_code": "GB",
-      "state_code": "CAM",
-      "state_id": 2423,
-      "country_id": 232
-    },
-    {
       "id": 50793,
-      "name": "أوكينغتون",
+      "name": "اكينغتون",
       "name_default": "Oakington",
       "native": "Oakington",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 50820,
-      "name": "أورويل",
+      "name": "ارول",
       "name_default": "Orwell",
       "native": "Orwell",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 50832,
-      "name": "زيادة",
+      "name": "اور",
       "name_default": "Over",
       "native": "Over",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 50852,
-      "name": "بابورث إيفرارد",
+      "name": "بورث اوررد",
       "name_default": "Papworth Everard",
       "native": "Papworth Everard",
       "type": "city",
@@ -959,7 +959,7 @@
       "id": 51174,
       "name": "القديس نيوتس",
       "name_default": "Saint Neots",
-      "native": "Holy neots",
+      "native": "Saint Neots",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 51341,
-      "name": "سومرشام",
+      "name": "سمرشم",
       "name_default": "Somersham",
       "native": "Somersham",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 51500,
-      "name": "ستريثام",
+      "name": "سترتهام",
       "name_default": "Stretham",
       "native": "Stretham",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 51534,
-      "name": "سوافيسي",
+      "name": "سووسي",
       "name_default": "Swavesey",
       "native": "Swavesey",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 51746,
-      "name": "أولاد الحرب",
+      "name": "وربيس",
       "name_default": "Warboys",
       "native": "Warboys",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 51768,
-      "name": "شاطئ الماء",
+      "name": "وتربيتش",
       "name_default": "Waterbeach",
       "native": "Waterbeach",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 51884,
-      "name": "ويتلسفورد",
+      "name": "وهيتلسفرد",
       "name_default": "Whittlesford",
       "native": "Whittlesford",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 51903,
-      "name": "ويلبرتون",
+      "name": "ويلبورتون",
       "name_default": "Wilburton",
       "native": "Wilburton",
       "type": "city",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 51907,
-      "name": "ويلينغهام",
+      "name": "ويلينهم",
       "name_default": "Willingham",
       "native": "Willingham",
       "type": "city",
@@ -1211,7 +1211,7 @@
       "id": 51941,
       "name": "ويسبيتش",
       "name_default": "Wisbech",
-      "native": "Light vilch",
+      "native": "Wisbech",
       "type": "city",
       "level": null,
       "parent_id": null,

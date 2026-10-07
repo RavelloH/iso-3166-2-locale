@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 81028,
-      "name": "अंगालिम्प दक्षिण वाहगी",
+      "name": "Angalimp South Wahgi",
       "name_default": "Angalimp South Wahgi",
       "native": "Angalimp South Wahgi",
       "type": "city",
@@ -85,7 +85,7 @@
       "name": "जिमी",
       "name_default": "Jimi",
       "native": "Jimi",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37385,
@@ -100,7 +100,7 @@
     },
     {
       "id": 81093,
-      "name": "उत्तरी वाहगी",
+      "name": "North Wahgi",
       "name_default": "North Wahgi",
       "native": "North Wahgi",
       "type": "area",

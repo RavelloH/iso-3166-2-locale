@@ -289,7 +289,7 @@
     },
     {
       "id": 111479,
-      "name": "Броня",
+      "name": "Армор",
       "name_default": "Armour",
       "native": "Armour",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 111782,
-      "name": "Балтійський",
+      "name": "Болтик",
       "name_default": "Baltic",
       "native": "Baltic",
       "type": "city",
@@ -325,9 +325,9 @@
     },
     {
       "id": 112081,
-      "name": "Белль Фурш",
+      "name": "Бель-Фуш",
       "name_default": "Belle Fourche",
-      "native": "Beautiful fork",
+      "native": "Belle Fourche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -361,7 +361,7 @@
     },
     {
       "id": 112368,
-      "name": "Бізон",
+      "name": "Байсен",
       "name_default": "Bison",
       "native": "Bison",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 112388,
-      "name": "Чорний яструб",
+      "name": "Блекгок",
       "name_default": "Blackhawk",
       "native": "Blackhawk",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 112636,
-      "name": "Старійшина коробки",
+      "name": "Бокс-Елдер",
       "name_default": "Box Elder",
       "native": "Box Elder",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112819,
-      "name": "Бріттон",
+      "name": "Бриттон",
       "name_default": "Britton",
       "native": "Britton",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 112861,
-      "name": "Брукінгс",
+      "name": "Брукінгз",
       "name_default": "Brookings",
       "native": "Brookings",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 113015,
-      "name": "Буффало",
+      "name": "Баффало",
       "name_default": "Buffalo",
       "native": "Buffalo",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 114451,
-      "name": "Колоніал Пайн-Гіллз",
+      "name": "Колоніал-Пайн-Гіллс",
       "name_default": "Colonial Pine Hills",
       "native": "Colonial Pine Hills",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 114839,
-      "name": "Злодії",
+      "name": "Крукс",
       "name_default": "Crooks",
       "native": "Crooks",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 114978,
-      "name": "Дакота Дюнс",
+      "name": "Дакота-Дюнс",
       "name_default": "Dakota Dunes",
       "native": "Dakota Dunes",
       "type": "city",
@@ -649,9 +649,9 @@
     },
     {
       "id": 115114,
-      "name": "Де Смет",
+      "name": "Ді-Смет",
       "name_default": "De Smet",
-      "native": "Blot",
+      "native": "De Smet",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -721,7 +721,7 @@
     },
     {
       "id": 115599,
-      "name": "Ігл-Батт",
+      "name": "Ігл-Бютт",
       "name_default": "Eagle Butte",
       "native": "Eagle Butte",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 116549,
-      "name": "Фландро",
+      "name": "Фландру",
       "name_default": "Flandreau",
       "native": "Flandreau",
       "type": "city",
@@ -795,7 +795,7 @@
       "id": 116742,
       "name": "Форт-П'єр",
       "name_default": "Fort Pierre",
-      "native": "Strong stone",
+      "native": "Fort Pierre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -811,7 +811,7 @@
     },
     {
       "id": 116755,
-      "name": "Форт Томпсон",
+      "name": "Форт-Томпсон",
       "name_default": "Fort Thompson",
       "native": "Fort Thompson",
       "type": "city",
@@ -865,7 +865,7 @@
     },
     {
       "id": 117180,
-      "name": "Геттісберг",
+      "name": "Геттісбург",
       "name_default": "Gettysburg",
       "native": "Gettysburg",
       "type": "city",
@@ -955,9 +955,9 @@
     },
     {
       "id": 118195,
-      "name": "Гаїті",
+      "name": "Гейті",
       "name_default": "Hayti",
-      "native": "Hasty",
+      "native": "Hayti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 118422,
-      "name": "Хаймор",
+      "name": "Гаймор",
       "name_default": "Highmore",
       "native": "Highmore",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 118683,
-      "name": "Гарячі джерела",
+      "name": "Гот-Спрінгс",
       "name_default": "Hot Springs",
       "native": "Hot Springs",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 119863,
-      "name": "Озеро Анди",
+      "name": "Лейк-Андес",
       "name_default": "Lake Andes",
       "native": "Lake Andes",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 120270,
-      "name": "Свинець",
+      "name": "Лід",
       "name_default": "Lead",
       "native": "Lead",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 120381,
-      "name": "Леола",
+      "name": "Ліола",
       "name_default": "Leola",
       "native": "Leola",
       "type": "city",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": 121982,
-      "name": "Місія",
+      "name": "Мішен",
       "name_default": "Mission",
       "native": "Mission",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 122012,
-      "name": "Мобрідж",
+      "name": "Мобридж",
       "name_default": "Mobridge",
       "native": "Mobridge",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 122323,
-      "name": "Курганне місто",
+      "name": "Маунд-Сіті",
       "name_default": "Mound City",
       "native": "Mound City",
       "type": "city",
@@ -1351,9 +1351,9 @@
     },
     {
       "id": 122479,
-      "name": "Мурдо",
+      "name": "Мердо",
       "name_default": "Murdo",
-      "native": "Murder",
+      "native": "Murdo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 123016,
-      "name": "Норт-Ігл-Батт",
+      "name": "Норт-Ігл-Бютт",
       "name_default": "North Eagle Butte",
       "native": "North Eagle Butte",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 123106,
-      "name": "Норт-Сіу-Сіті",
+      "name": "Норт-Су-Сіті",
       "name_default": "North Sioux City",
       "native": "North Sioux City",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 123109,
-      "name": "Північна підводна риба",
+      "name": "Норт-Спірфіш",
       "name_default": "North Spearfish",
       "native": "North Spearfish",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 123448,
-      "name": "Оливська",
+      "name": "Олівет",
       "name_default": "Olivet",
       "native": "Olivet",
       "type": "city",
@@ -1461,7 +1461,7 @@
       "id": 123480,
       "name": "Оніда",
       "name_default": "Onida",
-      "native": "In the mind",
+      "native": "Onida",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 124178,
-      "name": "П'єр",
+      "name": "Пірр",
       "name_default": "Pierre",
       "native": "Pierre",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 124243,
-      "name": "Пайн-Рідж",
+      "name": "Пайн-Ридж",
       "name_default": "Pine Ridge",
       "native": "Pine Ridge",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 124490,
-      "name": "Дикобраз",
+      "name": "Поркюпайн",
       "name_default": "Porcupine",
       "native": "Porcupine",
       "type": "city",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 124894,
-      "name": "Швидке місто",
+      "name": "Рапід-Сіті",
       "name_default": "Rapid City",
       "native": "Rapid City",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 124895,
-      "name": "Швидка долина",
+      "name": "Рапід-Веллі",
       "name_default": "Rapid Valley",
       "native": "Rapid Valley",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 125412,
-      "name": "Брунька троянди",
+      "name": "Роузбад",
       "name_default": "Rosebud",
       "native": "Rosebud",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 125737,
-      "name": "Салем",
+      "name": "Сейлем",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 126462,
-      "name": "Су-Фоллз",
+      "name": "Су-Фоллс",
       "name_default": "Sioux Falls",
       "native": "Sioux Falls",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 126816,
-      "name": "Підводна риба",
+      "name": "Спірфіш",
       "name_default": "Spearfish",
       "native": "Spearfish",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 127152,
-      "name": "Стерджіс",
+      "name": "Стерджис",
       "name_default": "Sturgis",
       "native": "Sturgis",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 127473,
-      "name": "Чай",
+      "name": "Ті",
       "name_default": "Tea",
       "native": "Tea",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 127945,
-      "name": "Тіндаль",
+      "name": "Тіндалл",
       "name_default": "Tyndall",
       "native": "Tyndall",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 129156,
-      "name": "Біла річка",
+      "name": "Вайт-Рівер",
       "name_default": "White River",
       "native": "White River",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 129412,
-      "name": "Переможець",
+      "name": "Віннер",
       "name_default": "Winner",
       "native": "Winner",
       "type": "city",
@@ -2037,7 +2037,7 @@
       "id": 129583,
       "name": "Вунсокет",
       "name_default": "Woonsocket",
-      "native": "Living socket",
+      "native": "Woonsocket",
       "type": "city",
       "level": null,
       "parent_id": null,

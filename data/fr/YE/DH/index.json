@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "‘Ans",
+      "name": "Anss",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -96,7 +96,7 @@
       "name": "Al Manar",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -111,7 +111,7 @@
     },
     {
       "id": 130761,
-      "name": "Village d'Al-Medy قرية المدي",
+      "name": "Al-Medy Village قرية المدي",
       "name_default": "Al-Medy Village قرية المدي",
       "native": "قرية المادى قرية المادى",
       "type": "village",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130834,
-      "name": "Dhamār",
+      "name": "Dhamar",
       "name_default": "Dhamār",
       "native": "ذمار",
       "type": "adm1",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130873,
-      "name": "Jabal Ash Sharq",
+      "name": "Jabal Ash sharq",
       "name_default": "Jabal Ash sharq",
       "native": "جبل الشرق",
       "type": "area",

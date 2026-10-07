@@ -219,7 +219,7 @@
     },
     {
       "id": 55231,
-      "name": "Баркс",
+      "name": "Барч",
       "name_default": "Barcs",
       "native": "Barcs",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 55656,
-      "name": "Лендьелтоти",
+      "name": "Лендьельтоти",
       "name_default": "Lengyeltóti",
       "native": "Lengyeltóti",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 55679,
-      "name": "Маркали",
+      "name": "Марцали",
       "name_default": "Marcali",
       "native": "Marcali",
       "type": "adm2",
@@ -599,7 +599,7 @@
       "id": 55893,
       "name": "Сегесд",
       "name_default": "Segesd",
-      "native": "Szegély",
+      "native": "Segesd",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,9 +669,9 @@
     },
     {
       "id": 56001,
-      "name": "Вкладка",
+      "name": "Таб",
       "name_default": "Tab",
-      "native": "Füllemez",
+      "native": "Tab",
       "type": "adm2",
       "level": null,
       "parent_id": null,

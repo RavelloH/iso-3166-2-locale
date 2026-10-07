@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48499,
-      "name": "Brasoc'h",
+      "name": "Biggar",
       "name_default": "Biggar",
       "native": "Biggar",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48552,
-      "name": "Koad du",
+      "name": "Blackwood",
       "name_default": "Blackwood",
       "native": "Blackwood",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48869,
-      "name": "Carnwath",
+      "name": "Càrn Fhiodh",
       "name_default": "Carnwath",
       "native": "Carnwath",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49401,
-      "name": "East Kilbride",
+      "name": "Cille Bhrìghde an Ear",
       "name_default": "East Kilbride",
       "native": "East Kilbride",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 49591,
-      "name": "Pevare",
+      "name": "Forth",
       "name_default": "Forth",
       "native": "Forth",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49795,
-      "name": "Hamilton",
+      "name": "Hamaltan",
       "name_default": "Hamilton",
       "native": "Hamilton",
       "type": "adm2",
@@ -248,6 +248,24 @@
       "longitude": "-4.03333000",
       "timezone": "Europe/London",
       "wikiDataId": "Q4131",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
+      "id": 49924,
+      "name": "High Blantyre",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
       "country_code": "GB",
       "state_code": "SLK",
       "state_id": 2362,
@@ -291,7 +309,7 @@
     },
     {
       "id": 50261,
-      "name": "Lezenn",
+      "name": "Law",
       "name_default": "Law",
       "native": "Law",
       "type": "city",
@@ -327,7 +345,7 @@
     },
     {
       "id": 50611,
-      "name": "Moffat",
+      "name": "Am Magh Fada",
       "name_default": "Moffat",
       "native": "Moffat",
       "type": "city",
@@ -345,7 +363,7 @@
     },
     {
       "id": 51149,
-      "name": "Rutherglen",
+      "name": "An Ruadh-Ghleann",
       "name_default": "Rutherglen",
       "native": "Rutherglen",
       "type": "city",
@@ -363,7 +381,7 @@
     },
     {
       "id": 51357,
-      "name": "Su Lanarkshire",
+      "name": "Siorrachd Lannraig a Deas",
       "name_default": "South Lanarkshire",
       "native": "South Lanarkshire",
       "type": "area",
@@ -381,7 +399,7 @@
     },
     {
       "id": 51475,
-      "name": "Ti-maen",
+      "name": "Stonehouse",
       "name_default": "Stonehouse",
       "native": "Stonehouse",
       "type": "city",

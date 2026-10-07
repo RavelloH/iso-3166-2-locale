@@ -218,24 +218,6 @@
       "country_id": 232
     },
     {
-      "id": 49699,
-      "name": "Грантем",
-      "name_default": "Grantham",
-      "native": "Grantham",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 43833,
-      "latitude": "52.91149000",
-      "longitude": "-0.64184000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q846683",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 49748,
       "name": "Грітем",
       "name_default": "Greetham",
@@ -326,24 +308,6 @@
       "country_id": 232
     },
     {
-      "id": 50544,
-      "name": "Мелтон Моубрей",
-      "name_default": "Melton Mowbray",
-      "native": "Melton Mowbray",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 27158,
-      "latitude": "52.76588000",
-      "longitude": "-0.88693000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1018423",
-      "country_code": "GB",
-      "state_code": "RUT",
-      "state_id": 2472,
-      "country_id": 232
-    },
-    {
       "id": 50625,
       "name": "Моркотт",
       "name_default": "Morcott",
@@ -381,7 +345,7 @@
     },
     {
       "id": 50792,
-      "name": "Оукхем",
+      "name": "Окгем",
       "name_default": "Oakham",
       "native": "Oakham",
       "type": "adm2",
@@ -435,7 +399,7 @@
     },
     {
       "id": 51359,
-      "name": "Південний Лаффенхем",
+      "name": "South Luffenham",
       "name_default": "South Luffenham",
       "native": "South Luffenham",
       "type": "adm3",
@@ -453,7 +417,7 @@
     },
     {
       "id": 51368,
-      "name": "Південний Вітем",
+      "name": "South Witham",
       "name_default": "South Witham",
       "native": "South Witham",
       "type": "city",

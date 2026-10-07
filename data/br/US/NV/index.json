@@ -271,7 +271,7 @@
     },
     {
       "id": 111908,
-      "name": "Menez an emgann",
+      "name": "Battle Mountain",
       "name_default": "Battle Mountain",
       "native": "Battle Mountain",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 113478,
-      "name": "Kêr Carson",
+      "name": "Carson City",
       "name_default": "Carson City",
       "native": "Carson City",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 114389,
-      "name": "Feunteunioù yen",
+      "name": "Cold Springs",
       "name_default": "Cold Springs",
       "native": "Cold Springs",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 115768,
-      "name": "Traoñienn ar Reter",
+      "name": "East Valley",
       "name_default": "East Valley",
       "native": "East Valley",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 116149,
-      "name": "Embregerezh",
+      "name": "Enterprise",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 117357,
-      "name": "Traoñienn Aour",
+      "name": "Golden Valley",
       "name_default": "Golden Valley",
       "native": "Golden Valley",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 118888,
-      "name": "Kêriadenn Incline",
+      "name": "Incline Village",
       "name_default": "Incline Village",
       "native": "Incline Village",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 118909,
-      "name": "Menezioù India",
+      "name": "Indian Hills",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 120358,
-      "name": "Traoñienn al Limon",
+      "name": "Lemmon Valley",
       "name_default": "Lemmon Valley",
       "native": "Lemmon Valley",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 121727,
-      "name": "Meskite",
+      "name": "Mesquite",
       "name_default": "Mesquite",
       "native": "Mesquite",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 121930,
       "name": "Minden",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -883,9 +883,9 @@
     },
     {
       "id": 122007,
-      "name": "Kêr Moapa",
+      "name": "Moapa Town",
       "name_default": "Moapa Town",
-      "native": "Moabo Town",
+      "native": "Moapa Town",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,9 +901,9 @@
     },
     {
       "id": 122008,
-      "name": "Traoñienn Moapa",
+      "name": "Moapa Valley",
       "name_default": "Moapa Valley",
-      "native": "Moab Valley",
+      "native": "Moapa Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -937,7 +937,7 @@
     },
     {
       "id": 122622,
-      "name": "Diazez aerlu Nellis",
+      "name": "Nellis Air Force Base",
       "name_default": "Nellis Air Force Base",
       "native": "Nellis Air Force Base",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 123052,
-      "name": "Norzh Las Vegas",
+      "name": "North Las Vegas",
       "name_default": "North Las Vegas",
       "native": "North Las Vegas",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 123819,
-      "name": "Baradoz",
+      "name": "Paradise",
       "name_default": "Paradise",
       "native": "Paradise",
       "type": "city",
@@ -1011,7 +1011,7 @@
       "id": 124273,
       "name": "Pioche",
       "name_default": "Pioche",
-      "native": "Pickaxe",
+      "native": "Pioche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 126801,
-      "name": "Feunteunioù Spagn",
+      "name": "Spanish Springs",
       "name_default": "Spanish Springs",
       "native": "Spanish Springs",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 126805,
-      "name": "Sparkoù",
+      "name": "Sparks",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 126881,
-      "name": "Traoñienn ar Gouere",
+      "name": "Spring Valley",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 127205,
-      "name": "Summerlin Su",
+      "name": "Summerlin South",
       "name_default": "Summerlin South",
       "native": "Summerlin South",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 127242,
-      "name": "Traoñienn an Heol",
+      "name": "Sun Valley",
       "name_default": "Sun Valley",
       "native": "Sun Valley",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 128290,
-      "name": "Kêr Virginia",
+      "name": "Virginia City",
       "name_default": "Virginia City",
       "native": "Virginia City",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 128783,
-      "name": "Poulloù",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",

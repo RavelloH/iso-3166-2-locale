@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48256,
-      "name": "Plaenenn Annfield",
+      "name": "Annfield Plain",
       "name_default": "Annfield Plain",
       "native": "Annfield Plain",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48395,
-      "name": "Kastell Barnard",
+      "name": "Barnard Castle",
       "name_default": "Barnard Castle",
       "native": "Barnard Castle",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48522,
-      "name": "Eskob Auckland",
+      "name": "Bishop Auckland",
       "name_default": "Bishop Auckland",
       "native": "Bishop Auckland",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48523,
-      "name": "An eskob Middleham",
+      "name": "Bishop Middleham",
       "name_default": "Bishop Middleham",
       "native": "Bishop Middleham",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48886,
-      "name": "Kostez ar c'hastell",
+      "name": "Castleside",
       "name_default": "Castleside",
       "native": "Castleside",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 48957,
-      "name": "Chester-ar-Street",
+      "name": "Chester-le-Street",
       "name_default": "Chester-le-Street",
       "native": "Chester-le-Street",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49119,
-      "name": "Coundoun",
+      "name": "Coundon",
       "name_default": "Coundon",
       "native": "Coundon",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 49121,
-      "name": "Kontelezh Durham",
+      "name": "County Durham",
       "name_default": "County Durham",
       "native": "County Durham",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 49925,
-      "name": "Etherley uhel",
+      "name": "High Etherley",
       "name_default": "High Etherley",
       "native": "High Etherley",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 50237,
       "name": "Lanchester",
       "name_default": "Lanchester",
-      "native": "Snacks",
+      "native": "Lanchester",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 50422,
-      "name": "Etherley izel",
+      "name": "Low Etherley",
       "name_default": "Low Etherley",
       "native": "Low Etherley",
       "type": "city",
@@ -542,8 +542,26 @@
       "country_id": 232
     },
     {
+      "id": 50903,
+      "name": "Peterlee",
+      "name_default": "Peterlee",
+      "native": "Peterlee",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37015,
+      "latitude": "54.76032000",
+      "longitude": "-1.33649000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2079502",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51160,
-      "name": "Sakrist",
+      "name": "Sacriston",
       "name_default": "Sacriston",
       "native": "Sacriston",
       "type": "city",
@@ -653,7 +671,7 @@
       "id": 51409,
       "name": "Staindrop",
       "name_default": "Staindrop",
-      "native": "Stindrop",
+      "native": "Staindrop",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -686,8 +704,26 @@
       "country_id": 232
     },
     {
+      "id": 51426,
+      "name": "Stanley",
+      "name_default": "Stanley",
+      "native": "Stanley",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 21938,
+      "latitude": "54.86796000",
+      "longitude": "-1.69846000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q924360",
+      "country_code": "GB",
+      "state_code": "DUR",
+      "state_id": 2406,
+      "country_id": 232
+    },
+    {
       "id": 51433,
-      "name": "Kregiñ",
+      "name": "Startforth",
       "name_default": "Startforth",
       "native": "Startforth",
       "type": "adm3",
@@ -723,7 +759,7 @@
     },
     {
       "id": 51653,
-      "name": "Lezenn ar c'harr-boutin",
+      "name": "Tow Law",
       "name_default": "Tow Law",
       "native": "Tow Law",
       "type": "city",
@@ -795,7 +831,7 @@
     },
     {
       "id": 51813,
-      "name": "Kornôg Kornôg",
+      "name": "West Cornforth",
       "name_default": "West Cornforth",
       "native": "West Cornforth",
       "type": "city",

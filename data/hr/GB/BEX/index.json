@@ -95,7 +95,7 @@
       "id": 49481,
       "name": "Erith",
       "name_default": "Erith",
-      "native": "Eager",
+      "native": "Erith",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -128,24 +128,6 @@
       "country_id": 232
     },
     {
-      "id": 51529,
-      "name": "Swanley",
-      "name_default": "Swanley",
-      "native": "Swanley",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 17805,
-      "latitude": "51.39717000",
-      "longitude": "0.17321000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1020364",
-      "country_code": "GB",
-      "state_code": "BEX",
-      "state_id": 2307,
-      "country_id": 232
-    },
-    {
       "id": 51788,
       "name": "Welling",
       "name_default": "Welling",
@@ -165,7 +147,7 @@
     },
     {
       "id": 51823,
-      "name": "Zapadni Kingsdown",
+      "name": "West Kingsdown",
       "name_default": "West Kingsdown",
       "native": "West Kingsdown",
       "type": "city",

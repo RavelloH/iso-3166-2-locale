@@ -93,7 +93,7 @@
     },
     {
       "id": 135394,
-      "name": "Alessandrija",
+      "name": "Alessandria",
       "name_default": "Alessandria",
       "native": "Alessandria",
       "type": "adm2",
@@ -849,9 +849,9 @@
     },
     {
       "id": 137218,
-      "name": "Kastelanija",
+      "name": "Castellania",
       "name_default": "Castellania",
-      "native": "Castello",
+      "native": "Castellania",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -867,7 +867,7 @@
     },
     {
       "id": 137221,
-      "name": "Kaštelar Guidobono",
+      "name": "Castellar Guidobono",
       "name_default": "Castellar Guidobono",
       "native": "Castellar Guidobono",
       "type": "adm3",
@@ -1391,7 +1391,7 @@
       "id": 138745,
       "name": "Fubine",
       "name_default": "Fubine",
-      "native": "Fubina",
+      "native": "Fubine",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 139240,
-      "name": "Otok Sant'Antonio",
+      "name": "Isola Sant'Antonio",
       "name_default": "Isola Sant'Antonio",
       "native": "Isola Sant'Antonio",
       "type": "adm3",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 140869,
-      "name": "Okcimiano",
+      "name": "Occimiano",
       "name_default": "Occimiano",
       "native": "Occimiano",
       "type": "adm3",
@@ -2541,7 +2541,7 @@
     },
     {
       "id": 58899,
-      "name": "Ponzon",
+      "name": "Ponzone",
       "name_default": "Ponzone",
       "native": "Ponzone",
       "type": "adm3",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": 59220,
-      "name": "Quarnento",
+      "name": "Quargnento",
       "name_default": "Quargnento",
       "native": "Quargnento",
       "type": "adm3",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 59754,
-      "name": "Prodaja",
+      "name": "Sale",
       "name_default": "Sale",
       "native": "Sale",
       "type": "adm3",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 59883,
-      "name": "Sveti Kristofor",
+      "name": "San Cristoforo",
       "name_default": "San Cristoforo",
       "native": "San Cristoforo",
       "type": "adm3",
@@ -2937,7 +2937,7 @@
     },
     {
       "id": 60317,
-      "name": "Fosili Svete Agate",
+      "name": "Sant'Agata Fossili",
       "name_default": "Sant'Agata Fossili",
       "native": "Sant'Agata Fossili",
       "type": "adm3",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 61691,
-      "name": "Dolina San Bartolomeo",
+      "name": "Valle San Bartolomeo",
       "name_default": "Valle San Bartolomeo",
       "native": "Valle San Bartolomeo",
       "type": "city",

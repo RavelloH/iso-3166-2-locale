@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 20485,
-      "name": "阿贝约拉尔",
+      "name": "阿韦霍拉尔",
       "name_default": "Abejorral",
       "native": "Abejorral",
       "type": "adm2",
@@ -77,7 +77,7 @@
       "id": 20487,
       "name": "阿布里亚基",
       "name_default": "Abriaquí",
-      "native": "Abrié",
+      "native": "Abriaquí",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 20520,
-      "name": "安第斯山脉",
+      "name": "安第斯",
       "name_default": "Andes",
       "native": "Andes",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 20521,
-      "name": "安杰洛波利斯",
+      "name": "安赫洛波利斯",
       "name_default": "Angelópolis",
       "native": "Angelópolis",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 20522,
-      "name": "安哥斯图拉",
+      "name": "安戈斯图拉",
       "name_default": "Angostura",
       "native": "Angostura",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 20529,
-      "name": "公寓",
+      "name": "阿帕尔塔多",
       "name_default": "Apartadó",
       "native": "Apartadó",
       "type": "adm2",
@@ -255,7 +255,7 @@
     },
     {
       "id": 20541,
-      "name": "阿博莱特斯",
+      "name": "阿沃莱特斯",
       "name_default": "Arboletes",
       "native": "Arboletes",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 20544,
-      "name": "阿尔及利亚",
+      "name": "阿格利亚",
       "name_default": "Argelia",
       "native": "Argelia",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 20566,
-      "name": "巴博萨",
+      "name": "巴尔博萨",
       "name_default": "Barbosa",
       "native": "Barbosa",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 20579,
-      "name": "贝洛",
+      "name": "贝约",
       "name_default": "Bello",
       "native": "Bello",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 20580,
-      "name": "贝尔米拉",
+      "name": "韦尔米拉",
       "name_default": "Belmira",
       "native": "Belmira",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 20589,
-      "name": "桦木属",
+      "name": "韦图利亚",
       "name_default": "Betulia",
       "native": "Betulia",
       "type": "adm2",
@@ -563,7 +563,7 @@
       "id": 20652,
       "name": "卡雷帕",
       "name_default": "Carepa",
-      "native": "El carruaje",
+      "native": "Carepa",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 20666,
-      "name": "高加索",
+      "name": "考卡西亚",
       "name_default": "Caucasia",
       "native": "Caucasia",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 20710,
-      "name": "西斯内罗斯",
+      "name": "锡斯内罗斯",
       "name_default": "Cisneros",
       "native": "Cisneros",
       "type": "adm2",
@@ -671,7 +671,7 @@
       "id": 20716,
       "name": "科科纳",
       "name_default": "Cocorná",
-      "native": "Coco",
+      "native": "Cocorná",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -705,7 +705,7 @@
     },
     {
       "id": 20727,
-      "name": "康考迪亚",
+      "name": "孔科尔迪亚",
       "name_default": "Concordia",
       "native": "Concordia",
       "type": "adm2",
@@ -743,7 +743,7 @@
       "id": 20773,
       "name": "大北坝",
       "name_default": "Dabeiba",
-      "native": "Mella",
+      "native": "Dabeiba",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 20781,
-      "name": "唐马蒂亚斯",
+      "name": "东马蒂亚斯",
       "name_default": "Donmatías",
       "native": "Donmatías",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 20786,
-      "name": "埃尔巴格雷",
+      "name": "埃尔巴格莱",
       "name_default": "El Bagre",
       "native": "El Bagre",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 20656,
-      "name": "埃尔卡门·德·维博拉尔",
+      "name": "卡门德比博拉尔",
       "name_default": "El Carmen de Viboral",
       "native": "El Carmen de Viboral",
       "type": "adm2",
@@ -905,7 +905,7 @@
       "id": 20861,
       "name": "弗龙蒂诺",
       "name_default": "Frontino",
-      "native": "Frente",
+      "native": "Frontino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -921,7 +921,7 @@
     },
     {
       "id": 20885,
-      "name": "吉拉尔多",
+      "name": "希拉尔多",
       "name_default": "Giraldo",
       "native": "Giraldo",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 20888,
-      "name": "吉拉多塔",
+      "name": "希拉多塔",
       "name_default": "Girardota",
       "native": "Girardota",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 20931,
-      "name": "戈麦斯·普拉塔",
+      "name": "戈麦斯普拉塔",
       "name_default": "Gómez Plata",
       "native": "Gómez Plata",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 20893,
-      "name": "格拉纳达",
+      "name": "加拉纳达",
       "name_default": "Granada",
       "native": "Granada",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 20901,
-      "name": "瓜达卢佩",
+      "name": "瓜达卢普",
       "name_default": "Guadalupe",
       "native": "Guadalupo",
       "type": "adm2",
@@ -1047,9 +1047,9 @@
     },
     {
       "id": 20939,
-      "name": "蝎尾蕉",
+      "name": "埃利孔亚",
       "name_default": "Heliconia",
-      "native": "OneBook",
+      "native": "Heliconia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1065,9 +1065,9 @@
     },
     {
       "id": 20942,
-      "name": "西班牙",
+      "name": "伊斯帕尼亚",
       "name_default": "Hispania",
-      "native": "España",
+      "native": "Hispania",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 20959,
-      "name": "花园",
+      "name": "哈尔丁",
       "name_default": "Jardín",
       "native": "Jardín",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 20961,
-      "name": "杰里科",
+      "name": "赫里科",
       "name_default": "Jericó",
       "native": "Jericó",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 21000,
-      "name": "拉·平塔达",
+      "name": "拉平塔达",
       "name_default": "La Pintada",
       "native": "La Pintada",
       "type": "adm2",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 21009,
-      "name": "联合",
+      "name": "拉乌尼翁",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "adm2",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 21044,
-      "name": "马塞奥",
+      "name": "马切奥",
       "name_default": "Maceo",
       "native": "Maceo",
       "type": "adm2",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 21066,
-      "name": "马里尼拉",
+      "name": "马里尼亚",
       "name_default": "Marinilla",
       "native": "Marinilla",
       "type": "adm2",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 21097,
-      "name": "蒙特贝罗",
+      "name": "蒙特韦约",
       "name_default": "Montebello",
       "native": "Montebello",
       "type": "adm2",
@@ -1391,7 +1391,7 @@
       "id": 21130,
       "name": "内科克利",
       "name_default": "Necoclí",
-      "native": "Loco",
+      "native": "Necoclí",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1409,7 +1409,7 @@
       "id": 21149,
       "name": "奥拉亚",
       "name_default": "Olaya",
-      "native": "Al evento",
+      "native": "Olaya",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 21227,
-      "name": "普韦布洛里科",
+      "name": "普埃夫洛里科",
       "name_default": "Pueblorrico",
       "native": "Pueblorrico",
       "type": "adm2",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 21311,
-      "name": "萨巴纳拉加",
+      "name": "萨瓦纳拉加",
       "name_default": "Sabanalarga",
       "native": "Sabanalarga",
       "type": "adm2",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 21314,
-      "name": "萨巴内塔",
+      "name": "萨瓦内塔",
       "name_default": "Sabaneta",
       "native": "Sabaneta",
       "type": "section",
@@ -1625,7 +1625,7 @@
       "id": 21323,
       "name": "萨尔加",
       "name_default": "Salgar",
-      "native": "Arrastrar",
+      "native": "Salgar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 21376,
-      "name": "圣胡安·德乌拉巴",
+      "name": "圣胡安德乌拉巴",
       "name_default": "San Juan de Urabá",
       "native": "San Juan de Urabá",
       "type": "adm2",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 149253,
-      "name": "圣路易斯",
+      "name": "圣路易",
       "name_default": "San Luis",
       "native": "San Luis",
       "type": "adm2",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 21117,
-      "name": "圣佩德罗德洛斯米拉格罗斯",
+      "name": "圣佩德罗",
       "name_default": "San Pedro de los Milagros",
       "native": "San Pedro de los Milagros",
       "type": "city",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 21407,
-      "name": "圣维森特费雷尔",
+      "name": "圣维森特",
       "name_default": "San Vicente Ferrer",
       "native": "San Vicente Ferrer",
       "type": "adm2",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 21414,
-      "name": "圣巴巴拉",
+      "name": "圣芭芭拉",
       "name_default": "Santa Bárbara",
       "native": "Santa Bárbara",
       "type": "adm2",
@@ -1949,7 +1949,7 @@
       "id": 21474,
       "name": "松森",
       "name_default": "Sonson",
-      "native": "Nieto",
+      "native": "Sonson",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 21562,
-      "name": "泰米西斯",
+      "name": "塔梅西斯",
       "name_default": "Támesis",
       "native": "Támesis",
       "type": "adm2",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 21513,
-      "name": "塔拉扎",
+      "name": "塔拉萨",
       "name_default": "Tarazá",
       "native": "Tarazá",
       "type": "adm2",
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 21532,
-      "name": "蒂蒂里比",
+      "name": "蒂蒂里维",
       "name_default": "Titiribí",
       "native": "Titiribí",
       "type": "adm2",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 21557,
-      "name": "涡轮",
+      "name": "图尔沃",
       "name_default": "Turbo",
       "native": "Turbo",
       "type": "adm2",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 21572,
-      "name": "浦田",
+      "name": "乌拉米塔",
       "name_default": "Uramita",
       "native": "Uramita",
       "type": "adm2",
@@ -2109,9 +2109,9 @@
     },
     {
       "id": 21574,
-      "name": "乌拉奥",
+      "name": "乌劳",
       "name_default": "Urrao",
-      "native": "Similar",
+      "native": "Urrao",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 21585,
-      "name": "维加奇",
+      "name": "贝加奇",
       "name_default": "Vegachí",
       "native": "Vegachi",
       "type": "adm2",
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 21595,
-      "name": "维吉亚德尔富埃尔特",
+      "name": "比希亚德尔富埃尔特",
       "name_default": "Vigía del Fuerte",
       "native": "Vigía del Fuerte",
       "type": "adm2",
@@ -2273,7 +2273,7 @@
       "id": 21625,
       "name": "永多",
       "name_default": "Yondó",
-      "native": "Yo",
+      "native": "Yondó",
       "type": "adm2",
       "level": null,
       "parent_id": null,

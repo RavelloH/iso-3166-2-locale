@@ -242,7 +242,7 @@
     },
     {
       "id": 70337,
-      "name": "Station Coahuila",
+      "name": "Ciudad Coahuila",
       "name_default": "Ciudad Coahuila",
       "native": "Estación Coahuila",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 70599,
-      "name": "Gwadalupe Victoria",
+      "name": "Ciudad Guadalupe Victoria",
       "name_default": "Ciudad Guadalupe Victoria",
       "native": "Guadalupe Victoria",
       "type": "city",
@@ -296,7 +296,7 @@
     },
     {
       "id": 69172,
-      "name": "Kêr Morelos",
+      "name": "Ciudad Morelos",
       "name_default": "Ciudad Morelos",
       "native": "Ciudad Morelos",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 69339,
-      "name": "Oadvezh Colonia Nueva",
+      "name": "Colonia Nueva Era",
       "name_default": "Colonia Nueva Era",
       "native": "Colonia Nueva Era",
       "type": "city",
@@ -422,7 +422,7 @@
     },
     {
       "id": 69691,
-      "name": "An doktor Alberto Oviedo Mota",
+      "name": "Doctor Alberto Oviedo Mota",
       "name_default": "Doctor Alberto Oviedo Mota",
       "native": "Doctor Alberto Oviedo Mota",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69765,
-      "name": "Ejido Jeneral Leandro Valle",
+      "name": "Ejido General Leandro Valle",
       "name_default": "Ejido General Leandro Valle",
       "native": "Ejido General Leandro Valle",
       "type": "city",
@@ -890,7 +890,7 @@
     },
     {
       "id": 70349,
-      "name": "Station Pescaderos",
+      "name": "Estación Pescaderos",
       "name_default": "Estación Pescaderos",
       "native": "Estación Pescaderos",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 70449,
-      "name": "Fraccionament del Valle",
+      "name": "Fraccionamiento del Valle",
       "name_default": "Fraccionamiento del Valle",
       "native": "Fraccionamiento del Valle",
       "type": "city",
@@ -937,24 +937,6 @@
       "longitude": "-116.56863000",
       "timezone": "America/Tijuana",
       "wikiDataId": "Q49961176",
-      "country_code": "MX",
-      "state_code": "BCN",
-      "state_id": 3457,
-      "country_id": 142
-    },
-    {
-      "id": 70633,
-      "name": "Guerrero Negro",
-      "name_default": "Guerrero Negro",
-      "native": "Guerrero Negro",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13596,
-      "latitude": "27.96891000",
-      "longitude": "-114.04427000",
-      "timezone": "America/Mexico_City",
-      "wikiDataId": "Q957163",
       "country_code": "MX",
       "state_code": "BCN",
       "state_id": 3457,
@@ -1070,9 +1052,9 @@
     },
     {
       "id": 73165,
-      "name": "Brud",
+      "name": "La Rumorosa",
       "name_default": "La Rumorosa",
-      "native": "Ruidoso",
+      "native": "La Rumorosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1304,7 +1286,7 @@
     },
     {
       "id": 69780,
-      "name": "Ejido Nuevo León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Ejido Nuevo León",
       "type": "city",
@@ -1376,7 +1358,7 @@
     },
     {
       "id": 73014,
-      "name": "Porzhioù San Antonio",
+      "name": "Pórticos de San Antonio",
       "name_default": "Pórticos de San Antonio",
       "native": "Pórticos de San Antonio",
       "type": "city",
@@ -1412,7 +1394,7 @@
     },
     {
       "id": 72910,
-      "name": "Araokaat",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1628,7 +1610,7 @@
     },
     {
       "id": 74492,
-      "name": "San Visente",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "city",
@@ -1646,7 +1628,7 @@
     },
     {
       "id": 74560,
-      "name": "Tad-kozh Anita",
+      "name": "Santa Anita",
       "name_default": "Santa Anita",
       "native": "Santa Anita",
       "type": "city",
@@ -1682,7 +1664,7 @@
     },
     {
       "id": 74673,
-      "name": "Tad-kozh Izabel",
+      "name": "Santa Isabel",
       "name_default": "Santa Isabel",
       "native": "Santa Isabel",
       "type": "city",
@@ -1700,7 +1682,7 @@
     },
     {
       "id": 75267,
-      "name": "Tekate",
+      "name": "Tecate",
       "name_default": "Tecate",
       "native": "Tecate",
       "type": "adm2",
@@ -1718,7 +1700,7 @@
     },
     {
       "id": 75276,
-      "name": "Tekoloted",
+      "name": "Tecolotes",
       "name_default": "Tecolotes",
       "native": "Tecolots",
       "type": "city",
@@ -1826,7 +1808,7 @@
     },
     {
       "id": 76103,
-      "name": "Gwerioù an Heol",
+      "name": "Viñas del Sol",
       "name_default": "Viñas del Sol",
       "native": "Viñas del Sol",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135238,
-      "name": "圣萨尔瓦多修道院",
+      "name": "阿巴迪亚-圣萨尔瓦托雷",
       "name_default": "Abbadia San Salvatore",
       "native": "Abbadia San Salvatore",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 135968,
       "name": "贝尔韦德",
       "name_default": "Belverde",
-      "native": "Belver",
+      "native": "Belverde",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 137082,
-      "name": "卡索莱德尔萨",
+      "name": "卡索莱代尔萨",
       "name_default": "Casole d'Elsa",
       "native": "Casole d'Elsa",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 137246,
-      "name": "卡斯特利纳-因基安蒂",
+      "name": "基安蒂地区卡斯特利纳",
       "name_default": "Castellina in Chianti",
       "native": "Castellina in Chianti",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137283,
-      "name": "卡斯德尔诺沃贝拉登卡",
+      "name": "贝拉登加新堡",
       "name_default": "Castelnuovo Berardenga",
       "native": "Castelnuovo Berardenga",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137695,
-      "name": "基乌斯迪诺",
+      "name": "丘斯迪诺",
       "name_default": "Chiusdino",
       "native": "Chiusdino",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137873,
-      "name": "埃尔萨谷口山",
+      "name": "埃尔萨谷口村",
       "name_default": "Colle di Val d'Elsa",
       "native": "Colle di Val d'Elsa",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138791,
-      "name": "基安蒂的加约莱",
+      "name": "基安蒂地区加约莱",
       "name_default": "Gaiole in Chianti",
       "native": "Gaiole in Chianti",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 140319,
-      "name": "蒙塔奇诺",
+      "name": "蒙塔尔奇诺",
       "name_default": "Montalcino",
       "native": "Montalcino",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 140510,
-      "name": "蒙特普齐亚诺",
+      "name": "蒙特普尔恰诺",
       "name_default": "Montepulciano",
       "native": "Montepulciano",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 140517,
-      "name": "蒙特里久尼",
+      "name": "蒙特里焦尼",
       "name_default": "Monteriggioni",
       "native": "Monteriggioni",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 140519,
-      "name": "蒙特罗尼·德阿尔比亚",
+      "name": "蒙特罗尼-达尔比亚",
       "name_default": "Monteroni d'Arbia",
       "native": "Monteroni d'Arbia",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 59261,
-      "name": "拉达因基安蒂",
+      "name": "基安蒂地区拉达",
       "name_default": "Radda in Chianti",
       "native": "Radda in Chianti",
       "type": "adm3",
@@ -725,7 +725,7 @@
       "id": 59638,
       "name": "罗西亚",
       "name_default": "Rosia",
-      "native": "Russia",
+      "native": "Rosia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 59857,
-      "name": "圣卡西亚诺·德·巴尼",
+      "name": "圣卡夏诺-代巴尼",
       "name_default": "San Casciano dei Bagni",
       "native": "San Casciano dei Bagni",
       "type": "adm3",
@@ -795,7 +795,7 @@
     },
     {
       "id": 60217,
-      "name": "圣奎里科多尔恰",
+      "name": "圣奎里科-多尔恰",
       "name_default": "San Quirico d'Orcia",
       "native": "San Quirico d'Orcia",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 60560,
-      "name": "萨尔泰亚诺",
+      "name": "萨尔泰阿诺",
       "name_default": "Sarteano",
       "native": "Sarteano",
       "type": "adm3",
@@ -885,7 +885,7 @@
     },
     {
       "id": 60863,
-      "name": "西纳伦加",
+      "name": "锡纳伦加",
       "name_default": "Sinalunga",
       "native": "Sinalunga",
       "type": "adm3",
@@ -923,7 +923,7 @@
       "id": 61040,
       "name": "斯塔吉亚",
       "name_default": "Staggia",
-      "native": "Fasi",
+      "native": "Staggia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -975,7 +975,7 @@
     },
     {
       "id": 61410,
-      "name": "锡耶纳的托里塔",
+      "name": "托里塔-迪锡耶纳",
       "name_default": "Torrita di Siena",
       "native": "Torrita di Siena",
       "type": "adm3",

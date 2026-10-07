@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135268,
-      "name": "Acquanegra Crémone",
+      "name": "Acquanegra Cremonese",
       "name_default": "Acquanegra Cremonese",
       "native": "Acquanegra Cremonese",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 135308,
-      "name": "Agnadello",
+      "name": "Agnadel",
       "name_default": "Agnadello",
       "native": "Agnadello",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135581,
-      "name": "Ardole Saint-Marin",
+      "name": "Ardole San Marino",
       "name_default": "Ardole San Marino",
       "native": "Ardole San Marino",
       "type": "city",
@@ -255,9 +255,9 @@
     },
     {
       "id": 136445,
-      "name": "Ca' d'Andrea",
+      "name": "Ca’ d’Andrea",
       "name_default": "Ca' d'Andrea",
-      "native": "Come 'D'Andrea",
+      "native": "Ca' d'Andrea",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 136791,
-      "name": "Chapelle Cantone",
+      "name": "Cappella Cantone",
       "name_default": "Cappella Cantone",
       "native": "Cappella Cantone",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 136793,
-      "name": "Chapelle de' Picenardi",
+      "name": "Cappella de’ Picenardi",
       "name_default": "Cappella de' Picenardi",
       "native": "Cappella de' Picenardi",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 137674,
-      "name": "Chef",
+      "name": "Chieve",
       "name_default": "Chieve",
       "native": "Chieve",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 138058,
-      "name": "Corte de' Cortesi con Cignone",
+      "name": "Corte de’ Cortesi con Cignone",
       "name_default": "Corte de' Cortesi con Cignone",
       "native": "Corte de' Cortesi con Cignone",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 138131,
-      "name": "Crédère",
+      "name": "Credera",
       "name_default": "Credera",
       "native": "Credera",
       "type": "adm3",
@@ -777,7 +777,7 @@
     },
     {
       "id": 138132,
-      "name": "Crème",
+      "name": "Crema",
       "name_default": "Crema",
       "native": "Crema",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 138251,
-      "name": "Dérovere",
+      "name": "Derovere",
       "name_default": "Derovere",
       "native": "Derovere",
       "type": "adm3",
@@ -977,7 +977,7 @@
       "id": 138767,
       "name": "Gabbioneta",
       "name_default": "Gabbioneta",
-      "native": "Gabbip",
+      "native": "Gabbioneta",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 138898,
-      "name": "Génivolte",
+      "name": "Genivolta",
       "name_default": "Genivolta",
       "native": "Genivolta",
       "type": "adm3",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 139135,
-      "name": "Grumello de Crémone",
+      "name": "Grumello Cremonese",
       "name_default": "Grumello Cremonese",
       "native": "Grumello Cremonese",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 139238,
-      "name": "Île Dovarese",
+      "name": "Isola Dovarese",
       "name_default": "Isola Dovarese",
       "native": "Isola Dovarese",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 140357,
-      "name": "Mont Cremasco",
+      "name": "Monte Cremasco",
       "name_default": "Monte Cremasco",
       "native": "Monte Cremasco",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 58230,
-      "name": "Palais Pignano",
+      "name": "Palazzo Pignano",
       "name_default": "Palazzo Pignano",
       "native": "Palazzo Pignano",
       "type": "adm3",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 58470,
-      "name": "Pessina Crémone",
+      "name": "Pessina Cremonese",
       "name_default": "Pessina Cremonese",
       "native": "Pessina Cremonese",
       "type": "adm3",
@@ -1497,7 +1497,7 @@
     },
     {
       "id": 58598,
-      "name": "Piéranique",
+      "name": "Pieranica",
       "name_default": "Pieranica",
       "native": "Pieranica",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 58638,
-      "name": "Église San Giacomo",
+      "name": "Pieve San Giacomo",
       "name_default": "Pieve San Giacomo",
       "native": "Pieve San Giacomo",
       "type": "adm3",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 61013,
-      "name": "Épinards",
+      "name": "Spinadesco",
       "name_default": "Spinadesco",
       "native": "Spinadesco",
       "type": "adm3",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 61022,
-      "name": "Spino d'Adda",
+      "name": "Spino d’Adda",
       "name_default": "Spino d'Adda",
       "native": "Spino d'Adda",
       "type": "adm3",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 61335,
-      "name": "Tornade",
+      "name": "Tornata",
       "name_default": "Tornata",
       "native": "Tornata",
       "type": "adm3",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 61369,
-      "name": "Tour de' Picenardi",
+      "name": "Torre de' Picenardi",
       "name_default": "Torre de' Picenardi",
       "native": "Torre de' Picenardi",
       "type": "adm3",

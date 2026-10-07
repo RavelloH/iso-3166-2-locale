@@ -162,7 +162,7 @@
   "cities": [
     {
       "id": 10074,
-      "name": "Acauá",
+      "name": "Acauã",
       "name_default": "Acauã",
       "native": "Acauã",
       "type": "city",
@@ -198,7 +198,7 @@
     },
     {
       "id": 15651,
-      "name": "Agua Blanca",
+      "name": "Água Branca",
       "name_default": "Água Branca",
       "native": "Água Branca",
       "type": "city",
@@ -324,7 +324,7 @@
     },
     {
       "id": 10254,
-      "name": "Angical de Piauí",
+      "name": "Angical do Piauí",
       "name_default": "Angical do Piauí",
       "native": "Angical do Piauí",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 10271,
-      "name": "Antonio Almeida",
+      "name": "Antônio Almeida",
       "name_default": "Antônio Almeida",
       "native": "Antônio Almeida",
       "type": "city",
@@ -486,7 +486,7 @@
     },
     {
       "id": 10522,
-      "name": "Barra de Alcántara",
+      "name": "Barra d'Alcântara",
       "name_default": "Barra d'Alcântara",
       "native": "Barra d'Alcântara",
       "type": "city",
@@ -522,7 +522,7 @@
     },
     {
       "id": 10552,
-      "name": "Barreiras de Piauí",
+      "name": "Barreiras do Piauí",
       "name_default": "Barreiras do Piauí",
       "native": "Barreiras do Piauí",
       "type": "city",
@@ -542,7 +542,7 @@
       "id": 10562,
       "name": "Barro Duro",
       "name_default": "Barro Duro",
-      "native": "Lama dura",
+      "native": "Barro Duro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -558,7 +558,7 @@
     },
     {
       "id": 10582,
-      "name": "Batalla",
+      "name": "Batalha",
       "name_default": "Batalha",
       "native": "Batalha",
       "type": "city",
@@ -576,7 +576,7 @@
     },
     {
       "id": 10600,
-      "name": "Bella Vista do Piauí",
+      "name": "Bela Vista do Piauí",
       "name_default": "Bela Vista do Piauí",
       "native": "Bela Vista do Piauí",
       "type": "city",
@@ -666,7 +666,7 @@
     },
     {
       "id": 10662,
-      "name": "Buena Hora",
+      "name": "Boa Hora",
       "name_default": "Boa Hora",
       "native": "Boa Hora",
       "type": "adm2",
@@ -702,7 +702,7 @@
     },
     {
       "id": 10698,
-      "name": "Buen Jesús",
+      "name": "Bom Jesus",
       "name_default": "Bom Jesus",
       "native": "Bom Jesus",
       "type": "adm2",
@@ -720,7 +720,7 @@
     },
     {
       "id": 10720,
-      "name": "Buen Princípio de Piauí",
+      "name": "Bom Princípio do Piauí",
       "name_default": "Bom Princípio do Piauí",
       "native": "Bom Princípio do Piauí",
       "type": "adm2",
@@ -738,7 +738,7 @@
     },
     {
       "id": 10732,
-      "name": "Bonfim de Piauí",
+      "name": "Bonfim do Piauí",
       "name_default": "Bonfim do Piauí",
       "native": "Bonfim do Piauí",
       "type": "adm2",
@@ -774,7 +774,7 @@
     },
     {
       "id": 10769,
-      "name": "Brasileña",
+      "name": "Brasileira",
       "name_default": "Brasileira",
       "native": "Brasileira",
       "type": "adm2",
@@ -792,7 +792,7 @@
     },
     {
       "id": 10796,
-      "name": "Brejo de Piauí",
+      "name": "Brejo do Piauí",
       "name_default": "Brejo do Piauí",
       "native": "Brejo do Piauí",
       "type": "adm2",
@@ -828,7 +828,7 @@
     },
     {
       "id": 10829,
-      "name": "Burití dos Montes",
+      "name": "Buriti dos Montes",
       "name_default": "Buriti dos Montes",
       "native": "Buriti dos Montes",
       "type": "city",
@@ -846,7 +846,7 @@
     },
     {
       "id": 10849,
-      "name": "Cabeceiras de Piauí",
+      "name": "Cabeceiras do Piauí",
       "name_default": "Cabeceiras do Piauí",
       "native": "Cabeceiras do Piauí",
       "type": "adm2",
@@ -856,7 +856,7 @@
       "latitude": "-4.43347000",
       "longitude": "-42.23060000",
       "timezone": "America/Sao_Paulo",
-      "wikiDataId": "Q279492",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "PI",
       "state_id": 2008,
@@ -864,7 +864,7 @@
     },
     {
       "id": 10916,
-      "name": "Cajazeiras de Piauí",
+      "name": "Cajazeiras do Piauí",
       "name_default": "Cajazeiras do Piauí",
       "native": "Cajazeiras do Piauí",
       "type": "adm2",
@@ -918,7 +918,7 @@
     },
     {
       "id": 10971,
-      "name": "Campinas de Piauí",
+      "name": "Campinas do Piauí",
       "name_default": "Campinas do Piauí",
       "native": "Campinas do Piauí",
       "type": "city",
@@ -990,7 +990,7 @@
     },
     {
       "id": 10997,
-      "name": "Campo Mayor",
+      "name": "Campo Maior",
       "name_default": "Campo Maior",
       "native": "Campo Maior",
       "type": "city",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": 11056,
-      "name": "Canto del Buriti",
+      "name": "Canto do Buriti",
       "name_default": "Canto do Buriti",
       "native": "Canto do Buriti",
       "type": "city",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": 11086,
-      "name": "Capitán de Campos",
+      "name": "Capitão de Campos",
       "name_default": "Capitão de Campos",
       "native": "Capitão de Campos",
       "type": "city",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": 11083,
-      "name": "Capitán Gervásio Oliveira",
+      "name": "Capitão Gervásio Oliveira",
       "name_default": "Capitão Gervásio Oliveira",
       "native": "Capitão Gervásio Oliveira",
       "type": "city",
@@ -1082,7 +1082,7 @@
       "id": 11101,
       "name": "Caracol",
       "name_default": "Caracol",
-      "native": "Lesma",
+      "native": "Caracol",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1134,7 +1134,7 @@
     },
     {
       "id": 11188,
-      "name": "Castillo de Piauí",
+      "name": "Castelo do Piauí",
       "name_default": "Castelo do Piauí",
       "native": "Castelo do Piauí",
       "type": "city",
@@ -1226,7 +1226,7 @@
       "id": 11318,
       "name": "Coivaras",
       "name_default": "Coivaras",
-      "native": "Coakal",
+      "native": "Coivaras",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1242,7 +1242,7 @@
     },
     {
       "id": 11337,
-      "name": "Colonia de Gurguéia",
+      "name": "Colônia do Gurguéia",
       "name_default": "Colônia do Gurguéia",
       "native": "Colônia do Gurguéia",
       "type": "adm2",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": 11338,
-      "name": "Colonia de Piauí",
+      "name": "Colônia do Piauí",
       "name_default": "Colônia do Piauí",
       "native": "Colônia do Piauí",
       "type": "adm2",
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 11434,
-      "name": "Corriente",
+      "name": "Corrente",
       "name_default": "Corrente",
       "native": "Corrente",
       "type": "city",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": 11627,
-      "name": "Don Expedito Lopes",
+      "name": "Dom Expedito Lopes",
       "name_default": "Dom Expedito Lopes",
       "native": "Dom Expedito Lopes",
       "type": "city",
@@ -1548,7 +1548,7 @@
     },
     {
       "id": 11683,
-      "name": "Eliseo Martins",
+      "name": "Eliseu Martins",
       "name_default": "Eliseu Martins",
       "native": "Eliseu Martins",
       "type": "city",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": 11833,
-      "name": "Flores de Piauí",
+      "name": "Flores do Piauí",
       "name_default": "Flores do Piauí",
       "native": "Flores do Piauí",
       "type": "city",
@@ -1620,7 +1620,7 @@
     },
     {
       "id": 11838,
-      "name": "Floresta de Piauí",
+      "name": "Floresta do Piauí",
       "name_default": "Floresta do Piauí",
       "native": "Floresta do Piauí",
       "type": "adm2",
@@ -1728,7 +1728,7 @@
     },
     {
       "id": 11900,
-      "name": "Fronteras",
+      "name": "Fronteiras",
       "name_default": "Fronteiras",
       "native": "Fronteiras",
       "type": "city",
@@ -1818,7 +1818,7 @@
     },
     {
       "id": 12108,
-      "name": "Hugo Napoleón",
+      "name": "Hugo Napoleão",
       "name_default": "Hugo Napoleão",
       "native": "Hugo Napoleão",
       "type": "city",
@@ -1836,7 +1836,7 @@
     },
     {
       "id": 12208,
-      "name": "Isla Grande",
+      "name": "Ilha Grande",
       "name_default": "Ilha Grande",
       "native": "Ilha Grande",
       "type": "adm2",
@@ -1856,7 +1856,7 @@
       "id": 12252,
       "name": "Inhuma",
       "name_default": "Inhuma",
-      "native": "Mesmo",
+      "native": "Inhuma",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1872,7 +1872,7 @@
     },
     {
       "id": 12278,
-      "name": "Ipiranga de Piauí",
+      "name": "Ipiranga do Piauí",
       "name_default": "Ipiranga do Piauí",
       "native": "Ipiranga do Piauí",
       "type": "city",
@@ -1962,7 +1962,7 @@
     },
     {
       "id": 12528,
-      "name": "Jacobina de Piauí",
+      "name": "Jacobina do Piauí",
       "name_default": "Jacobina do Piauí",
       "native": "Jacobina do Piauí",
       "type": "adm2",
@@ -1998,7 +1998,7 @@
     },
     {
       "id": 12590,
-      "name": "Jardín del Mulato",
+      "name": "Jardim do Mulato",
       "name_default": "Jardim do Mulato",
       "native": "Jardim do Mulato",
       "type": "city",
@@ -2034,7 +2034,7 @@
     },
     {
       "id": 12623,
-      "name": "jerumenha",
+      "name": "Jerumenha",
       "name_default": "Jerumenha",
       "native": "Jerumenha",
       "type": "city",
@@ -2052,7 +2052,7 @@
     },
     {
       "id": 12658,
-      "name": "Juan Costa",
+      "name": "João Costa",
       "name_default": "João Costa",
       "native": "João Costa",
       "type": "city",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": 12639,
-      "name": "Joaquín Pires",
+      "name": "Joaquim Pires",
       "name_default": "Joaquim Pires",
       "native": "Joaquim Pires",
       "type": "city",
@@ -2088,7 +2088,7 @@
     },
     {
       "id": 12644,
-      "name": "Joca Marqués",
+      "name": "Joca Marques",
       "name_default": "Joca Marques",
       "native": "Joca Marques",
       "type": "city",
@@ -2142,7 +2142,7 @@
     },
     {
       "id": 12717,
-      "name": "Julio Borges",
+      "name": "Júlio Borges",
       "name_default": "Júlio Borges",
       "native": "Júlio Borges",
       "type": "adm2",
@@ -2286,9 +2286,9 @@
     },
     {
       "id": 12791,
-      "name": "Ventas Landri",
+      "name": "Landri Sales",
       "name_default": "Landri Sales",
-      "native": "Vendas Landri",
+      "native": "Landri Sales",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2304,7 +2304,7 @@
     },
     {
       "id": 12879,
-      "name": "Luis Correia",
+      "name": "Luís Correia",
       "name_default": "Luís Correia",
       "native": "Luís Correia",
       "type": "adm2",
@@ -2376,7 +2376,7 @@
     },
     {
       "id": 12996,
-      "name": "Marcolandia",
+      "name": "Marcolândia",
       "name_default": "Marcolândia",
       "native": "Marcolândia",
       "type": "city",
@@ -2430,7 +2430,7 @@
     },
     {
       "id": 13058,
-      "name": "Matías Olimpio",
+      "name": "Matias Olímpio",
       "name_default": "Matias Olímpio",
       "native": "Matias Olímpio",
       "type": "city",
@@ -2466,7 +2466,7 @@
     },
     {
       "id": 13111,
-      "name": "Miguel León",
+      "name": "Miguel Leão",
       "name_default": "Miguel Leão",
       "native": "Miguel Leão",
       "type": "city",
@@ -2502,7 +2502,7 @@
     },
     {
       "id": 13177,
-      "name": "Monseñor Gil",
+      "name": "Monsenhor Gil",
       "name_default": "Monsenhor Gil",
       "native": "Monsenhor Gil",
       "type": "city",
@@ -2520,7 +2520,7 @@
     },
     {
       "id": 13178,
-      "name": "Monseñor Hipólito",
+      "name": "Monsenhor Hipólito",
       "name_default": "Monsenhor Hipólito",
       "native": "Monsenhor Hipólito",
       "type": "city",
@@ -2548,7 +2548,7 @@
       "latitude": "-9.74213000",
       "longitude": "-44.98266000",
       "timezone": "America/Sao_Paulo",
-      "wikiDataId": "Q22038204",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "PI",
       "state_id": 2008,
@@ -2628,7 +2628,7 @@
     },
     {
       "id": 13315,
-      "name": "Nazaria",
+      "name": "Nazária",
       "name_default": "Nazária",
       "native": "Nazária",
       "type": "city",
@@ -2682,7 +2682,7 @@
     },
     {
       "id": 13433,
-      "name": "Nueva Santa Rita",
+      "name": "Nova Santa Rita",
       "name_default": "Nova Santa Rita",
       "native": "Nova Santa Rita",
       "type": "adm2",
@@ -2700,7 +2700,7 @@
     },
     {
       "id": 13473,
-      "name": "Nuevo Oriente de Piauí",
+      "name": "Novo Oriente do Piauí",
       "name_default": "Novo Oriente do Piauí",
       "native": "Novo Oriente do Piauí",
       "type": "adm2",
@@ -2718,7 +2718,7 @@
     },
     {
       "id": 13477,
-      "name": "Nuevo Santo Antonio",
+      "name": "Novo Santo Antônio",
       "name_default": "Novo Santo Antônio",
       "native": "Novo Santo Antônio",
       "type": "city",
@@ -2790,7 +2790,7 @@
     },
     {
       "id": 13565,
-      "name": "País Landim",
+      "name": "Paes Landim",
       "name_default": "Paes Landim",
       "native": "Paes Landim",
       "type": "city",
@@ -2844,7 +2844,7 @@
     },
     {
       "id": 13595,
-      "name": "Palmeiras",
+      "name": "Palmeirais",
       "name_default": "Palmeirais",
       "native": "Palmeirais",
       "type": "city",
@@ -2862,7 +2862,7 @@
     },
     {
       "id": 13622,
-      "name": "Paquete",
+      "name": "Paquetá",
       "name_default": "Paquetá",
       "native": "Paquetá",
       "type": "city",
@@ -2916,7 +2916,7 @@
     },
     {
       "id": 13694,
-      "name": "Pasaje Franca de Piauí",
+      "name": "Passagem Franca do Piauí",
       "name_default": "Passagem Franca do Piauí",
       "native": "Passagem Franca do Piauí",
       "type": "city",
@@ -3078,9 +3078,9 @@
     },
     {
       "id": 13878,
-      "name": "Pío IX",
+      "name": "Pio IX",
       "name_default": "Pio IX",
-      "native": "Hexadecimal",
+      "native": "Pio IX",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3116,7 +3116,7 @@
       "id": 13917,
       "name": "Piripiri",
       "name_default": "Piripiri",
-      "native": "Adesivo",
+      "native": "Piripiri",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3132,7 +3132,7 @@
     },
     {
       "id": 13992,
-      "name": "Oporto",
+      "name": "Porto",
       "name_default": "Porto",
       "native": "Porto",
       "type": "city",
@@ -3222,7 +3222,7 @@
     },
     {
       "id": 14188,
-      "name": "Regeneración",
+      "name": "Regeneração",
       "name_default": "Regeneração",
       "native": "Regeneração",
       "type": "city",
@@ -3240,7 +3240,7 @@
     },
     {
       "id": 14210,
-      "name": "Riacho Frío",
+      "name": "Riacho Frio",
       "name_default": "Riacho Frio",
       "native": "Riacho Frio",
       "type": "adm2",
@@ -3294,7 +3294,7 @@
     },
     {
       "id": 14278,
-      "name": "Río Grande del Piauí",
+      "name": "Rio Grande do Piauí",
       "name_default": "Rio Grande do Piauí",
       "native": "Rio Grande do Piauí",
       "type": "adm2",
@@ -3312,7 +3312,7 @@
     },
     {
       "id": 14454,
-      "name": "Santa Cruz de Piauí",
+      "name": "Santa Cruz do Piauí",
       "name_default": "Santa Cruz do Piauí",
       "native": "Santa Cruz do Piauí",
       "type": "city",
@@ -3330,7 +3330,7 @@
     },
     {
       "id": 14458,
-      "name": "Santa Cruz de los Milagros",
+      "name": "Santa Cruz dos Milagres",
       "name_default": "Santa Cruz dos Milagres",
       "native": "Santa Cruz dos Milagres",
       "type": "city",
@@ -3384,7 +3384,7 @@
     },
     {
       "id": 14546,
-      "name": "Santa Rosa de Piauí",
+      "name": "Santa Rosa do Piauí",
       "name_default": "Santa Rosa do Piauí",
       "native": "Santa Rosa do Piauí",
       "type": "adm2",
@@ -3420,7 +3420,7 @@
     },
     {
       "id": 14618,
-      "name": "Santo Antonio de Lisboa",
+      "name": "Santo Antônio de Lisboa",
       "name_default": "Santo Antônio de Lisboa",
       "native": "Santo Antônio de Lisboa",
       "type": "city",
@@ -3438,7 +3438,7 @@
     },
     {
       "id": 14643,
-      "name": "Santo Antonio de los Milagros",
+      "name": "Santo Antônio dos Milagres",
       "name_default": "Santo Antônio dos Milagres",
       "native": "Santo Antônio dos Milagres",
       "type": "city",
@@ -3528,7 +3528,7 @@
     },
     {
       "id": 14897,
-      "name": "San Francisco de Piauí",
+      "name": "São Francisco do Piauí",
       "name_default": "São Francisco do Piauí",
       "native": "São Francisco do Piauí",
       "type": "city",
@@ -3582,7 +3582,7 @@
     },
     {
       "id": 15008,
-      "name": "San Juan de Canabrava",
+      "name": "São João da Canabrava",
       "name_default": "São João da Canabrava",
       "native": "São João da Canabrava",
       "type": "adm2",
@@ -3618,7 +3618,7 @@
     },
     {
       "id": 15015,
-      "name": "San Juan de la Sierra",
+      "name": "São João da Serra",
       "name_default": "São João da Serra",
       "native": "São João da Serra",
       "type": "city",
@@ -3654,7 +3654,7 @@
     },
     {
       "id": 15025,
-      "name": "San Juan de Arraial",
+      "name": "São João do Arraial",
       "name_default": "São João do Arraial",
       "native": "São João do Arraial",
       "type": "adm2",
@@ -3690,7 +3690,7 @@
     },
     {
       "id": 14968,
-      "name": "San José del Divino",
+      "name": "São José do Divino",
       "name_default": "São José do Divino",
       "native": "São José do Divino",
       "type": "adm2",
@@ -3744,7 +3744,7 @@
     },
     {
       "id": 15050,
-      "name": "San Julián",
+      "name": "São Julião",
       "name_default": "São Julião",
       "native": "São Julião",
       "type": "city",
@@ -3816,7 +3816,7 @@
     },
     {
       "id": 15088,
-      "name": "San Miguel del Fidalgo",
+      "name": "São Miguel do Fidalgo",
       "name_default": "São Miguel do Fidalgo",
       "native": "São Miguel do Fidalgo",
       "type": "adm2",
@@ -3834,7 +3834,7 @@
     },
     {
       "id": 15095,
-      "name": "San Miguel del Tapuio",
+      "name": "São Miguel do Tapuio",
       "name_default": "São Miguel do Tapuio",
       "native": "São Miguel do Tapuio",
       "type": "city",
@@ -3852,7 +3852,7 @@
     },
     {
       "id": 15119,
-      "name": "San Pedro del Piauí",
+      "name": "São Pedro do Piauí",
       "name_default": "São Pedro do Piauí",
       "native": "São Pedro do Piauí",
       "type": "city",
@@ -3870,7 +3870,7 @@
     },
     {
       "id": 15126,
-      "name": "San Raimundo Nonato",
+      "name": "São Raimundo Nonato",
       "name_default": "São Raimundo Nonato",
       "native": "São Raimundo Nonato",
       "type": "city",
@@ -3888,7 +3888,7 @@
     },
     {
       "id": 14683,
-      "name": "Sebastián Barros",
+      "name": "Sebastião Barros",
       "name_default": "Sebastião Barros",
       "native": "Sebastião Barros",
       "type": "adm2",
@@ -3906,7 +3906,7 @@
     },
     {
       "id": 14685,
-      "name": "Sebastián Leal",
+      "name": "Sebastião Leal",
       "name_default": "Sebastião Leal",
       "native": "Sebastião Leal",
       "type": "adm2",
@@ -3960,7 +3960,7 @@
     },
     {
       "id": 14785,
-      "name": "Simplicio Mendes",
+      "name": "Simplício Mendes",
       "name_default": "Simplício Mendes",
       "native": "Simplício Mendes",
       "type": "city",
@@ -4014,7 +4014,7 @@
     },
     {
       "id": 15213,
-      "name": "Tamboril de Piauí",
+      "name": "Tamboril do Piauí",
       "name_default": "Tamboril do Piauí",
       "native": "Tamboril do Piauí",
       "type": "city",
@@ -4032,7 +4032,7 @@
     },
     {
       "id": 15222,
-      "name": "Tanque de Piauí",
+      "name": "Tanque do Piauí",
       "name_default": "Tanque do Piauí",
       "native": "Tanque do Piauí",
       "type": "city",
@@ -4068,7 +4068,7 @@
     },
     {
       "id": 15456,
-      "name": "Unión",
+      "name": "União",
       "name_default": "União",
       "native": "União",
       "type": "city",
@@ -4194,9 +4194,9 @@
     },
     {
       "id": 15625,
-      "name": "Muro Ferraz",
+      "name": "Wall Ferraz",
       "name_default": "Wall Ferraz",
-      "native": "Ferraz da parede",
+      "native": "Wall Ferraz",
       "type": "city",
       "level": null,
       "parent_id": null,

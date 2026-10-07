@@ -92,24 +92,6 @@
       "country_id": 83
     },
     {
-      "id": 52198,
-      "name": "萨拉加",
-      "name_default": "Salaga",
-      "native": "Salaga",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 25472,
-      "latitude": "8.55083000",
-      "longitude": "-0.51875000",
-      "timezone": "Africa/Accra",
-      "wikiDataId": "Q995578",
-      "country_code": "GH",
-      "state_code": "NP",
-      "state_id": 51,
-      "country_id": 83
-    },
-    {
       "id": 52200,
       "name": "萨维卢古",
       "name_default": "Savelugu",
@@ -149,7 +131,7 @@
       "id": 52216,
       "name": "延迪",
       "name_default": "Yendi",
-      "native": "Defeated",
+      "native": "Yendi",
       "type": "city",
       "level": null,
       "parent_id": null,

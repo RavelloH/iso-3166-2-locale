@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 149112,
-      "name": "Pień",
+      "name": "Bole",
       "name_default": "Bole",
       "native": "Bole",
       "type": "city",
@@ -140,6 +140,24 @@
       "longitude": "-1.39766920",
       "timezone": "Africa/Accra",
       "wikiDataId": "Q55570015",
+      "country_code": "GH",
+      "state_code": "SV",
+      "state_id": 4962,
+      "country_id": 83
+    },
+    {
+      "id": 52198,
+      "name": "Salaga",
+      "name_default": "Salaga",
+      "native": "Salaga",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 25472,
+      "latitude": "8.55083000",
+      "longitude": "-0.51875000",
+      "timezone": "Africa/Accra",
+      "wikiDataId": "Q995578",
       "country_code": "GH",
       "state_code": "SV",
       "state_id": 4962,

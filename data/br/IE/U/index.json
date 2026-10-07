@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57066,
-      "name": "Ur c'haban",
+      "name": "Kontelezh An Cabhán",
       "name_default": "An Cabhán",
       "native": "Cavan",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 57102,
-      "name": "Ballybofey",
+      "name": "Bealach Féich",
       "name_default": "Ballybofey",
       "native": "Ballybofey",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 57114,
-      "name": "Ballyshannon",
+      "name": "Béal Átha Seanaidh",
       "name_default": "Ballyshannon",
       "native": "Ballyshannon",
       "type": "city",
@@ -167,7 +167,7 @@
       "id": 57124,
       "name": "Belturbet",
       "name_default": "Belturbet",
-      "native": "Belturet",
+      "native": "Belturbet",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 57145,
-      "name": "Carndonagh",
+      "name": "Carn Domhnach",
       "name_default": "Carndonagh",
       "native": "Carndonagh",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57149,
-      "name": "Carrickmacross",
+      "name": "Carraig Mhacaire Rois",
       "name_default": "Carrickmacross",
       "native": "Carrickmacross",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 57155,
-      "name": "CastleBlayney",
+      "name": "Castleblayney",
       "name_default": "Castleblayney",
       "native": "Castleblayney",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 57166,
-      "name": "Cavan",
+      "name": "An Cabhán",
       "name_default": "Cavan",
       "native": "Cavan",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 57182,
-      "name": "Klonoù",
+      "name": "Clones",
       "name_default": "Clones",
       "native": "Clones",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 57189,
-      "name": "Konvoi",
+      "name": "Convoy",
       "name_default": "Convoy",
       "native": "Convoy",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 57196,
-      "name": "Kontelezh Donegal",
+      "name": "Kontelezh Dún na nGall",
       "name_default": "County Donegal",
       "native": "County Donegal",
       "type": "county",
@@ -363,7 +363,7 @@
     },
     {
       "id": 57199,
-      "name": "Kontelezh Monaghan",
+      "name": "Kontelezh Muineachán",
       "name_default": "County Monaghan",
       "native": "County Monaghan",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 57216,
-      "name": "Donegal",
+      "name": "Dún na nGall",
       "name_default": "Donegal",
       "native": "Donegal",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 57264,
-      "name": "Gweedore",
+      "name": "Gaoth Dobhair",
       "name_default": "Gweedore",
       "native": "Gweedore",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 57285,
-      "name": "Killybegs",
+      "name": "Na Cealla Beaga",
       "name_default": "Killybegs",
       "native": "Killybegs",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 57303,
-      "name": "Letterkenny",
+      "name": "Leitir Ceanainn",
       "name_default": "Letterkenny",
       "native": "Letterkenny",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 57327,
-      "name": "Monaghan",
+      "name": "Muineachán",
       "name_default": "Monaghan",
       "native": "Monaghan",
       "type": "adm1",
@@ -633,7 +633,7 @@
     },
     {
       "id": 57369,
-      "name": "Ramelton",
+      "name": "Ráth Mealtain",
       "name_default": "Ramelton",
       "native": "Ramelton",
       "type": "city",

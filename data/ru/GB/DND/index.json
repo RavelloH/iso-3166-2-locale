@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48868,
-      "name": "Карнусти",
-      "name_default": "Carnoustie",
-      "native": "Carnoustie",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11360,
-      "latitude": "56.50263000",
-      "longitude": "-2.70530000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1012395",
-      "country_code": "GB",
-      "state_code": "DND",
-      "state_id": 2511,
-      "country_id": 232
-    },
-    {
       "id": 49346,
       "name": "Данди",
       "name_default": "Dundee",
@@ -129,7 +111,7 @@
     },
     {
       "id": 50617,
-      "name": "Монифиет",
+      "name": "Монифиф",
       "name_default": "Monifieth",
       "native": "Monifieth",
       "type": "city",

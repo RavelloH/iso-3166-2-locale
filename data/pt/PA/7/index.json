@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79955,
-      "name": "Água Buena",
+      "name": "Agua Buena",
       "name_default": "Agua Buena",
       "native": "Agua Buena",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 79976,
-      "name": "Ave Maria",
+      "name": "Ave María",
       "name_default": "Ave María",
       "native": "Ave María",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 79978,
-      "name": "Bahia Honda",
+      "name": "Bahía Honda",
       "name_default": "Bahía Honda",
       "native": "Bahía Honda",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 79990,
       "name": "Bella Vista",
       "name_default": "Bella Vista",
-      "native": "Hermosa vista",
+      "native": "Bella Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -240,7 +240,7 @@
       "name": "Distrito de Las Tablas",
       "name_default": "Distrito de Las Tablas",
       "native": "Distrito de Las Tablas",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 27146,
@@ -258,7 +258,7 @@
       "name": "Distrito de Los Santos",
       "name_default": "Distrito de Los Santos",
       "native": "Distrito de Los Santos",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25723,
@@ -363,9 +363,9 @@
     },
     {
       "id": 80155,
-      "name": "O Carate",
+      "name": "El Carate",
       "name_default": "El Carate",
-      "native": "El quatado",
+      "native": "El Carate",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 80161,
-      "name": "O Cocal",
+      "name": "El Cocal",
       "name_default": "El Cocal",
       "native": "El Cocal",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80181,
-      "name": "O Manantial",
+      "name": "El Manantial",
       "name_default": "El Manantial",
       "native": "El Manantial",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80244,
-      "name": "A Colorada",
+      "name": "La Colorada",
       "name_default": "La Colorada",
       "native": "La Colorada",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80248,
-      "name": "A Enea",
+      "name": "La Enea",
       "name_default": "La Enea",
       "native": "Las Eneas",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80253,
-      "name": "A Espigadilla",
+      "name": "La Espigadilla",
       "name_default": "La Espigadilla",
       "native": "La Espigadilla",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80267,
-      "name": "La Mel",
+      "name": "La Miel",
       "name_default": "La Miel",
       "native": "La Miel",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 80280,
-      "name": "A Tronosa",
+      "name": "La Tronosa",
       "name_default": "La Tronosa",
       "native": "La Tronosa",
       "type": "adm3",
@@ -761,7 +761,7 @@
       "id": 80282,
       "name": "Lajamina",
       "name_default": "Lajamina",
-      "native": "Mis derechos",
+      "native": "Lajamina",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 80289,
-      "name": "As Guabas",
+      "name": "Las Guabas",
       "name_default": "Las Guabas",
       "native": "Las Guabas",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80306,
-      "name": "As Tablas",
+      "name": "Las Tablas",
       "name_default": "Las Tablas",
       "native": "Las Tablas",
       "type": "adm1",
@@ -939,7 +939,7 @@
     },
     {
       "id": 80329,
-      "name": "Os Asientos",
+      "name": "Los Asientos",
       "name_default": "Los Asientos",
       "native": "Los Asientos",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 80399,
       "name": "Paritilla",
       "name_default": "Paritilla",
-      "native": "Par",
+      "native": "Paritilla",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 80409,
-      "name": "Pena Branca",
+      "name": "Peña Blanca",
       "name_default": "Peña Blanca",
       "native": "Peña Blanca",
       "type": "adm3",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 80463,
-      "name": "Rio Hondo",
+      "name": "Río Hondo",
       "name_default": "Río Hondo",
       "native": "Río Hondo",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80529,
-      "name": "Três Quebradas",
+      "name": "Tres Quebradas",
       "name_default": "Tres Quebradas",
       "native": "Tres Quebradas",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 80536,
-      "name": "Vale Rico",
+      "name": "Valle Rico",
       "name_default": "Valle Rico",
       "native": "Valle Rico",
       "type": "adm3",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 80544,
-      "name": "Vila Lourdes",
+      "name": "Villa Lourdes",
       "name_default": "Villa Lourdes",
       "native": "Villa Lourdes",
       "type": "adm3",

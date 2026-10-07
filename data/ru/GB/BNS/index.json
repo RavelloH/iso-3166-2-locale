@@ -93,7 +93,7 @@
     },
     {
       "id": 48589,
-      "name": "Болтон-апон-Дерн",
+      "name": "Болтон-апон-Дирн",
       "name_default": "Bolton upon Dearne",
       "native": "Bolton upon Dearne",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49195,
-      "name": "Кадворт",
+      "name": "Кадворф",
       "name_default": "Cudworth",
       "native": "Cudworth",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 49299,
-      "name": "Додворт",
+      "name": "Долворф",
       "name_default": "Dodworth",
       "native": "Dodworth",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50882,
-      "name": "Пенистон",
+      "name": "Пенистоун",
       "name_default": "Penistone",
       "native": "Penistone",
       "type": "adm3",
@@ -290,26 +290,8 @@
       "country_id": 232
     },
     {
-      "id": 51456,
-      "name": "Стоксбридж",
-      "name_default": "Stocksbridge",
-      "native": "Stocksbridge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13301,
-      "latitude": "53.48249000",
-      "longitude": "-1.59373000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1813994",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
       "id": 51966,
-      "name": "Уомбвелл",
+      "name": "Вомбвелл",
       "name_default": "Wombwell",
       "native": "Wombwell",
       "type": "city",

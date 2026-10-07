@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80556,
-      "name": "Akola",
+      "name": "Acolla",
       "name_default": "Acolla",
       "native": "Acolla",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 80625,
-      "name": "Čupaka",
+      "name": "Chupaca",
       "name_default": "Chupaca",
       "native": "Chupaca",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 80734,
-      "name": "Orkotuna",
+      "name": "Orcotuna",
       "name_default": "Orcotuna",
       "native": "Orcotuna",
       "type": "adm3",
@@ -311,7 +311,7 @@
       "id": 80758,
       "name": "Perené",
       "name_default": "Perené",
-      "native": "Paz",
+      "native": "Perené",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -329,7 +329,7 @@
       "id": 80761,
       "name": "Pilcomay",
       "name_default": "Pilcomay",
-      "native": "Pilomeo",
+      "native": "Pilcomay",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 80809,
-      "name": "Provincija Chupaca",
+      "name": "Provincia de Chupaca",
       "name_default": "Provincia de Chupaca",
       "native": "Provincia de Chupaca",
       "type": "province",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80834,
-      "name": "Provincija Huancayo",
+      "name": "Provincia de Huancayo",
       "name_default": "Provincia de Huancayo",
       "native": "Provincia de Huancayo",
       "type": "province",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80846,
-      "name": "Provincija Jauja",
+      "name": "Provincia de Jauja",
       "name_default": "Provincia de Jauja",
       "native": "Provincia de Jauja",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 80902,
-      "name": "Pokrajina Tarma",
+      "name": "Provincia de Tarma",
       "name_default": "Provincia de Tarma",
       "native": "Provincia de Tarma",
       "type": "province",
@@ -474,7 +474,7 @@
       "name": "Provincija Yauli",
       "name_default": "Provincia de Yauli",
       "native": "Provincia de Yauli",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 40390,

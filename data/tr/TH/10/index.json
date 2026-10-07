@@ -75,7 +75,7 @@
     },
     {
       "id": 106424,
-      "name": "Bang Kapı",
+      "name": "Bang Kapi",
       "name_default": "Bang Kapi",
       "native": "บางกะปิ",
       "type": "section",
@@ -327,7 +327,7 @@
     },
     {
       "id": 106480,
-      "name": "Chom Tangası",
+      "name": "Chom Thong",
       "name_default": "Chom Thong",
       "native": "จอมทอง",
       "type": "section",
@@ -417,7 +417,7 @@
     },
     {
       "id": 106518,
-      "name": "Han Na Yao",
+      "name": "Khan Na Yao",
       "name_default": "Khan Na Yao",
       "native": "คันนายาว",
       "type": "section",
@@ -615,7 +615,7 @@
     },
     {
       "id": 106625,
-      "name": "Fasi Charoen",
+      "name": "Phasi Charoen",
       "name_default": "Phasi Charoen",
       "native": "ภาษีเจริญ",
       "type": "section",
@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -705,7 +705,7 @@
     },
     {
       "id": 106654,
-      "name": "Pra Islak",
+      "name": "Pra Wet",
       "name_default": "Pra Wet",
       "native": "ประเวศ",
       "type": "area",
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Sıçan Burana",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

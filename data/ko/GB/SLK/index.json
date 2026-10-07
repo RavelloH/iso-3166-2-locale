@@ -93,7 +93,7 @@
     },
     {
       "id": 48836,
-      "name": "캠버스랭",
+      "name": "캠버스랑",
       "name_default": "Cambuslang",
       "native": "Cambuslang",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49401,
-      "name": "이스트 킬브라이드",
+      "name": "이스트킬브라이드",
       "name_default": "East Kilbride",
       "native": "East Kilbride",
       "type": "city",
@@ -254,8 +254,26 @@
       "country_id": 232
     },
     {
+      "id": 49924,
+      "name": "하이 블랜타이어",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
       "id": 50234,
-      "name": "라나크",
+      "name": "래너크",
       "name_default": "Lanark",
       "native": "Lanark",
       "type": "city",
@@ -309,7 +327,7 @@
     },
     {
       "id": 50286,
-      "name": "레스마하고우",
+      "name": "레즈머헤이고",
       "name_default": "Lesmahagow",
       "native": "Lesmahagow",
       "type": "city",
@@ -345,7 +363,7 @@
     },
     {
       "id": 51149,
-      "name": "러더글렌",
+      "name": "루터글렌",
       "name_default": "Rutherglen",
       "native": "Rutherglen",
       "type": "city",
@@ -363,7 +381,7 @@
     },
     {
       "id": 51357,
-      "name": "사우스 라나크셔",
+      "name": "사우스래너크셔",
       "name_default": "South Lanarkshire",
       "native": "South Lanarkshire",
       "type": "area",

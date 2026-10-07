@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48233,
-      "name": "آلترینچام",
+      "name": "آلترینکهام",
       "name_default": "Altrincham",
       "native": "Altrincham",
       "type": "city",
@@ -128,24 +128,6 @@
       "country_id": 232
     },
     {
-      "id": 50223,
-      "name": "ناتسفورد",
-      "name_default": "Knutsford",
-      "native": "Knutsford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13259,
-      "latitude": "53.30289000",
-      "longitude": "-2.37482000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1470791",
-      "country_code": "GB",
-      "state_code": "TRF",
-      "state_id": 2293,
-      "country_id": 232
-    },
-    {
       "id": 50856,
       "name": "پارتینگتون",
       "name_default": "Partington",
@@ -165,7 +147,7 @@
     },
     {
       "id": 51180,
-      "name": "فروش",
+      "name": "سیل",
       "name_default": "Sale",
       "native": "Sale",
       "type": "city",
@@ -183,7 +165,7 @@
     },
     {
       "id": 51499,
-      "name": "استرتفورد",
+      "name": "استرت‌فورد",
       "name_default": "Stretford",
       "native": "Stretford",
       "type": "adm2",
@@ -237,7 +219,7 @@
     },
     {
       "id": 51658,
-      "name": "پارک ترافورد",
+      "name": "ترافورد پارک",
       "name_default": "Trafford Park",
       "native": "Trafford Park",
       "type": "city",
@@ -257,7 +239,7 @@
       "id": 51708,
       "name": "اورمستون",
       "name_default": "Urmston",
-      "native": "Urfon",
+      "native": "Urmston",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 28,
-      "name": "Município de Dibba Al Fujairah",
+      "name": "Doba",
       "name_default": "Dibba Al-Fujairah",
-      "native": "بلدية دبا الفجيرة",
+      "native": "دبا الفجيرة",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 30,
-      "name": "Dibba Al-Fujairah",
+      "name": "Doba",
       "name_default": "Dibba Al-Fujairah",
       "native": "دبا الفجيرة",
       "type": "city",
@@ -92,26 +92,8 @@
       "country_id": 231
     },
     {
-      "id": 31,
-      "name": "Dibba Al-Hisn",
-      "name_default": "Dibba Al-Hisn",
-      "native": "دبا الحصن",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 26395,
-      "latitude": "25.61955000",
-      "longitude": "56.27291000",
-      "timezone": "Asia/Dubai",
-      "wikiDataId": "Q6742405",
-      "country_code": "AE",
-      "state_code": "FU",
-      "state_id": 3393,
-      "country_id": 231
-    },
-    {
       "id": 20,
-      "name": "Fujairah",
+      "name": "Fujeira",
       "name_default": "Fujairah",
       "native": "الفجيرة",
       "type": "adm1",

@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 18975,
-      "name": "Загін",
+      "name": "Корраль",
       "name_default": "Corral",
       "native": "Corral",
       "type": "city",
@@ -98,7 +98,7 @@
       "id": 148493,
       "name": "Футроно",
       "name_default": "Futrono",
-      "native": "Combustible",
+      "native": "Futrono",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -114,7 +114,7 @@
     },
     {
       "id": 18995,
-      "name": "Ла Уніон",
+      "name": "Ла-Уніон",
       "name_default": "La Unión",
       "native": "La Unión",
       "type": "adm2",
@@ -152,7 +152,7 @@
       "id": 148495,
       "name": "Ланко",
       "name_default": "Lanco",
-      "native": "Lanza",
+      "native": "Lanco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -186,9 +186,9 @@
     },
     {
       "id": 148498,
-      "name": "Мафіл",
+      "name": "Мафіль",
       "name_default": "Máfil",
-      "native": "Hormiga",
+      "native": "Máfil",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -204,7 +204,7 @@
     },
     {
       "id": 148497,
-      "name": "Марікіна",
+      "name": "Марикіна",
       "name_default": "Mariquina",
       "native": "Mariquina",
       "type": "city",
@@ -222,7 +222,7 @@
     },
     {
       "id": 148499,
-      "name": "Пайалько",
+      "name": "Паїльяко",
       "name_default": "Paillaco",
       "native": "Paillaco",
       "type": "city",
@@ -240,7 +240,7 @@
     },
     {
       "id": 19022,
-      "name": "Пангіпуллі",
+      "name": "Пангіпульї",
       "name_default": "Panguipulli",
       "native": "Panguipulli",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 19121,
-      "name": "Вальдівія",
+      "name": "Вальдивія",
       "name_default": "Valdivia",
       "native": "Valdivia",
       "type": "adm1",

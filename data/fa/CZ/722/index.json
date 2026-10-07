@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 22111,
-      "name": "بابیچه",
+      "name": "بابیس",
       "name_default": "Babice",
       "native": "Babic",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 22287,
-      "name": "دولنی نمچی",
+      "name": "دولنی نیمتشی",
       "name_default": "Dolní Němčí",
       "native": "Dolní Němčí",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 22452,
-      "name": "جالوبی",
+      "name": "یالوبی",
       "name_default": "Jalubí",
       "native": "Jalubí",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 22523,
-      "name": "کنژپوله",
+      "name": "کنیژپوله",
       "name_default": "Kněžpole",
       "native": "Kněžpole",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 22753,
-      "name": "نداکونیس",
+      "name": "نداکونیتسه",
       "name_default": "Nedakonice",
       "native": "Nedakonice",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 22767,
-      "name": "نیونیس",
+      "name": "نیونیتسه",
       "name_default": "Nivnice",
       "native": "Nivnica",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 23125,
-      "name": "استرانی",
+      "name": "سترانی",
       "name_default": "Strání",
       "native": "Strání",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 23143,
-      "name": "سوچا لوز",
+      "name": "سوخا لوز",
       "name_default": "Suchá Loz",
       "native": "Suchý loz",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 23172,
-      "name": "تراپلیس",
+      "name": "تراپلیتسه",
       "name_default": "Traplice",
       "native": "Traplice",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 23185,
-      "name": "تپسی",
+      "name": "توپسی",
       "name_default": "Tupesy",
       "native": "Tupesy",
       "type": "city",
@@ -338,6 +338,42 @@
       "longitude": "17.36983000",
       "timezone": "Europe/Prague",
       "wikiDataId": "Q1870062",
+      "country_code": "CZ",
+      "state_code": "722",
+      "state_id": 4592,
+      "country_id": 58
+    },
+    {
+      "id": 23206,
+      "name": "اوهرسکه هرادیشته",
+      "name_default": "Uherské Hradiště",
+      "native": "Uherské Hradiště",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 24887,
+      "latitude": "49.06975000",
+      "longitude": "17.45969000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q502993",
+      "country_code": "CZ",
+      "state_code": "722",
+      "state_id": 4592,
+      "country_id": 58
+    },
+    {
+      "id": 23207,
+      "name": "اوهرسکی برود",
+      "name_default": "Uherský Brod",
+      "native": "Uherský Brod",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16367,
+      "latitude": "49.02513000",
+      "longitude": "17.64715000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q664895",
       "country_code": "CZ",
       "state_code": "722",
       "state_id": 4592,

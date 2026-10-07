@@ -152,7 +152,7 @@
     },
     {
       "id": 707,
-      "name": "Cachí",
+      "name": "Cachi",
       "name_default": "Cachi",
       "native": "Caché",
       "type": "adm2",
@@ -224,7 +224,7 @@
     },
     {
       "id": 819,
-      "name": "Departamant Kêr-benn",
+      "name": "Departamento Capital",
       "name_default": "Departamento Capital",
       "native": "Departamento Capital",
       "type": "city",
@@ -242,7 +242,7 @@
     },
     {
       "id": 828,
-      "name": "Departamant an Anta",
+      "name": "Departamento de Anta",
       "name_default": "Departamento de Anta",
       "native": "Departamento de Anta",
       "type": "area",
@@ -260,7 +260,7 @@
     },
     {
       "id": 857,
-      "name": "Departamant ar C'helc'hioù",
+      "name": "Departamento de Cerrillos",
       "name_default": "Departamento de Cerrillos",
       "native": "Departamento de Cerrillos",
       "type": "area",
@@ -278,10 +278,10 @@
     },
     {
       "id": 858,
-      "name": "Departamant Chicoana",
+      "name": "Departamento de Chicoana",
       "name_default": "Departamento de Chicoana",
       "native": "Departamento de Chicoana",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24729,
@@ -296,7 +296,7 @@
     },
     {
       "id": 891,
-      "name": "Departamant Meur ar Güemes",
+      "name": "Departamento de General Güemes",
       "name_default": "Departamento de General Güemes",
       "native": "Departamento de General Güemes",
       "type": "area",
@@ -314,7 +314,7 @@
     },
     {
       "id": 901,
-      "name": "Departamant Gwachipas",
+      "name": "Departamento de Guachipas",
       "name_default": "Departamento de Guachipas",
       "native": "Departamento de Guachipas",
       "type": "adm2",
@@ -332,7 +332,7 @@
     },
     {
       "id": 911,
-      "name": "Departamant Iruya",
+      "name": "Departamento de Iruya",
       "name_default": "Departamento de Iruya",
       "native": "Departamento de Iruya",
       "type": "city",
@@ -350,7 +350,7 @@
     },
     {
       "id": 920,
-      "name": "Departamant ar Poma",
+      "name": "Departamento de La Poma",
       "name_default": "Departamento de La Poma",
       "native": "Departamento de La Poma",
       "type": "city",
@@ -368,7 +368,7 @@
     },
     {
       "id": 921,
-      "name": "Departamant ar Gwenn",
+      "name": "Departamento de La Viña",
       "name_default": "Departamento de La Viña",
       "native": "Departamento de La Viña",
       "type": "city",
@@ -386,7 +386,7 @@
     },
     {
       "id": 931,
-      "name": "Departamant Los Andoù",
+      "name": "Departamento de Los Andes",
       "name_default": "Departamento de Los Andes",
       "native": "Departamento de Los Andes",
       "type": "city",
@@ -404,10 +404,10 @@
     },
     {
       "id": 942,
-      "name": "Departamant ar Metan",
+      "name": "Departamento de Metán",
       "name_default": "Departamento de Metán",
       "native": "Departamento de Metán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 48245,
@@ -422,7 +422,7 @@
     },
     {
       "id": 968,
-      "name": "Departamant Rivadavia",
+      "name": "Departamento de Rivadavia",
       "name_default": "Departamento de Rivadavia",
       "native": "Departamento de Rivadavia",
       "type": "area",
@@ -440,7 +440,7 @@
     },
     {
       "id": 971,
-      "name": "Departamant Rosario ar Frontera",
+      "name": "Departamento de Rosario de la Frontera",
       "name_default": "Departamento de Rosario de la Frontera",
       "native": "Departamento de Rosario de la Frontera",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 970,
-      "name": "Departamant Rosario ar Lerma",
+      "name": "Departamento de Rosario de Lerma",
       "name_default": "Departamento de Rosario de Lerma",
       "native": "Departamento de Rosario de Lerma",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 982,
-      "name": "Departamant San Carlos",
+      "name": "Departamento de San Carlos",
       "name_default": "Departamento de San Carlos",
       "native": "Departamento de San Carlos",
       "type": "city",
@@ -548,9 +548,9 @@
     },
     {
       "id": 1067,
-      "name": "Embarkasion",
+      "name": "Embarcación",
       "name_default": "Embarcación",
-      "native": "Vergüenza",
+      "native": "Embarcación",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -584,7 +584,7 @@
     },
     {
       "id": 1101,
-      "name": "Ar jeneral Enrique Mosconi",
+      "name": "General Mosconi",
       "name_default": "General Mosconi",
       "native": "General Enrique Mosconi",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1403,
-      "name": "Holen",
+      "name": "Salta",
       "name_default": "Salta",
       "native": "Salta",
       "type": "adm1",

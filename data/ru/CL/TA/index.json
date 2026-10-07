@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 148412,
-      "name": "Альто Хосписио",
+      "name": "Альто-Осписио",
       "name_default": "Alto Hospicio",
       "native": "Alto Hospicio",
       "type": "adm2",
@@ -98,7 +98,7 @@
       "id": 148413,
       "name": "Каминья",
       "name_default": "Camiña",
-      "native": "Caminar",
+      "native": "Camiña",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -114,9 +114,9 @@
     },
     {
       "id": 148414,
-      "name": "Колчан",
+      "name": "Кольчане",
       "name_default": "Colchane",
-      "native": "Colcha",
+      "native": "Colchane",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -134,7 +134,7 @@
       "id": 148415,
       "name": "Уара",
       "name_default": "Huara",
-      "native": "Puñalado",
+      "native": "Huara",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -186,7 +186,7 @@
     },
     {
       "id": 148417,
-      "name": "Посо Альмонте",
+      "name": "Посо-Альмонте",
       "name_default": "Pozo Almonte",
       "native": "Pozo Almonte",
       "type": "adm2",

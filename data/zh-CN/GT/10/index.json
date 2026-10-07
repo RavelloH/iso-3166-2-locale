@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 53448,
-      "name": "奇卡卡奥",
+      "name": "奇卡考",
       "name_default": "Chicacao",
-      "native": "Porcelana",
+      "native": "Chicacao",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -77,7 +77,7 @@
       "id": 53478,
       "name": "库约特南戈",
       "name_default": "Cuyotenango",
-      "native": "Construcción",
+      "native": "Cuyotenango",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,9 +165,9 @@
     },
     {
       "id": 53624,
-      "name": "帕图鲁尔",
+      "name": "帕图卢尔",
       "name_default": "Patulul",
-      "native": "cama",
+      "native": "Patulul",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 53632,
-      "name": "新镇",
+      "name": "新普韦布洛",
       "name_default": "Pueblo Nuevo",
       "native": "Pueblo Nuevo",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 53647,
-      "name": "萨玛雅克",
+      "name": "萨马亚克",
       "name_default": "Samayac",
       "native": "Samayac",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 53661,
-      "name": "圣安东尼奥·苏奇特佩克斯",
+      "name": "圣安东尼奥苏奇特佩克斯",
       "name_default": "San Antonio Suchitepéquez",
       "native": "San Antonio Suchitepéquez",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 53675,
-      "name": "圣弗朗西斯科·萨波蒂特兰",
+      "name": "圣弗朗西斯科萨波蒂特兰",
       "name_default": "San Francisco Zapotitlán",
       "native": "San Francisco Zapotitlán",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 53684,
-      "name": "圣何塞·埃尔伊多洛",
+      "name": "圣何塞埃尔伊多洛",
       "name_default": "San José El Ídolo",
       "native": "San José El Ídolo",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 53722,
-      "name": "圣巴勃罗·约科皮拉斯",
+      "name": "圣巴勃罗霍科皮拉斯",
       "name_default": "San Pablo Jocopilas",
       "native": "San Pablo Jocopilas",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 53773,
-      "name": "圣多明各苏奇特佩克斯",
+      "name": "圣多明戈苏奇特佩克斯",
       "name_default": "Santo Domingo Suchitepéquez",
       "native": "Santo Domingo Suchitepéquez",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 53775,
-      "name": "圣托马斯联合",
+      "name": "圣托马斯拉乌尼翁",
       "name_default": "Santo Tomás La Unión",
       "native": "Santo Tomás La Unión",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 53806,
-      "name": "祖尼利托",
+      "name": "苏尼利托",
       "name_default": "Zunilito",
       "native": "Zunilito",
       "type": "adm2",

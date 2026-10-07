@@ -129,7 +129,7 @@
     },
     {
       "id": 90382,
-      "name": "Budešti",
+      "name": "Budeşti",
       "name_default": "Budeşti",
       "native": "Budeşti",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 90598,
-      "name": "Ceaçu",
+      "name": "Ceacu",
       "name_default": "Ceacu",
       "native": "Ceacu",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 90679,
-      "name": "Čirnogi",
+      "name": "Chirnogi",
       "name_default": "Chirnogi",
       "native": "Chirnogi",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 90682,
-      "name": "Dlijeto",
+      "name": "Chiselet",
       "name_default": "Chiselet",
       "native": "Chiselet",
       "type": "adm2",
@@ -363,9 +363,9 @@
     },
     {
       "id": 91325,
-      "name": "Općina Chiselet",
+      "name": "Comuna Chiselet",
       "name_default": "Comuna Chiselet",
-      "native": "Angajează",
+      "native": "Comuna Chiselet",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 91670,
-      "name": "Općina Dragalina",
+      "name": "Comuna Dragalina",
       "name_default": "Comuna Dragalina",
       "native": "Comuna Dragalina",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 92078,
-      "name": "Općina Nezavisnost",
+      "name": "Comuna Independenţa",
       "name_default": "Comuna Independenţa",
       "native": "Comuna Independenţa",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 92425,
-      "name": "Općina Nana",
+      "name": "Comuna Nana",
       "name_default": "Comuna Nana",
       "native": "Comuna Nana",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 92744,
-      "name": "Radovanova općina",
+      "name": "Comuna Radovanu",
       "name_default": "Comuna Radovanu",
       "native": "Comuna Radovan",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 92791,
-      "name": "Comuna Roseti",
+      "name": "Comuna Roseţi",
       "name_default": "Comuna Roseţi",
       "native": "Comuna Roseţi",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 92980,
-      "name": "Općina Spanţov",
+      "name": "Comuna Spanţov",
       "name_default": "Comuna Spanţov",
       "native": "Comuna Spanţov",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 93547,
-      "name": "Općina Štefan Cel Mare",
+      "name": "Comuna Ştefan Cel Mare",
       "name_default": "Comuna Ştefan Cel Mare",
       "native": "Comuna Ştefan Cel Mare",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 93548,
-      "name": "Općina Štefan Vodă",
+      "name": "Comuna Ştefan Vodă",
       "name_default": "Comuna Ştefan Vodă",
       "native": "Comuna Ştefan Vodă",
       "type": "adm2",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 93275,
-      "name": "Općina Unirea",
+      "name": "Comuna Unirea",
       "name_default": "Comuna Unirea",
       "native": "Comuna Unirea",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 93335,
-      "name": "Comuna Vasilati",
+      "name": "Comuna Vasilaţi",
       "name_default": "Comuna Vasilaţi",
       "native": "Comuna Vasilaţi",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 93593,
-      "name": "Konstantin Brâncoveanu",
+      "name": "Constantin Brâncoveanu",
       "name_default": "Constantin Brâncoveanu",
       "native": "Constantin Brâncoveanu",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 94666,
-      "name": "Neovisnost",
+      "name": "Independenţa",
       "name_default": "Independenţa",
       "native": "Independenţa",
       "type": "adm2",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 95217,
-      "name": "Manastirea",
+      "name": "Mânăstirea",
       "name_default": "Mânăstirea",
       "native": "Mânăstirea",
       "type": "adm2",
@@ -1661,7 +1661,7 @@
       "id": 95032,
       "name": "Mitreni",
       "name_default": "Mitreni",
-      "native": "Uterin",
+      "native": "Mitreni",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 95134,
-      "name": "Općina Călăraşi",
+      "name": "Municipiul Călăraşi",
       "name_default": "Municipiul Călăraşi",
       "native": "Municipiul Călăraşi",
       "type": "adm1",
@@ -1713,7 +1713,7 @@
     },
     {
       "id": 95161,
-      "name": "Općina Olteniţa",
+      "name": "Municipiul Olteniţa",
       "name_default": "Municipiul Olteniţa",
       "native": "Municipiul Olteniţa",
       "type": "city",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 95474,
-      "name": "Oraš Budešti",
+      "name": "Oraş Budeşti",
       "name_default": "Oraş Budeşti",
       "native": "Oraş Budeşti",
       "type": "city",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 95520,
-      "name": "Grad Fundulea",
+      "name": "Oraş Fundulea",
       "name_default": "Oraş Fundulea",
       "native": "Oraş Fundulea",
       "type": "city",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 95537,
-      "name": "Grad Lehliu Garã",
+      "name": "Oraş Lehliu Garã",
       "name_default": "Oraş Lehliu Garã",
       "native": "Oraş Lehliu Garã",
       "type": "city",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 95737,
-      "name": "Perisoru",
+      "name": "Perişoru",
       "name_default": "Perişoru",
       "native": "Perișoru",
       "type": "adm2",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 95927,
-      "name": "Potçoava",
+      "name": "Potcoava",
       "name_default": "Potcoava",
       "native": "Potcoava",
       "type": "city",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 95960,
-      "name": "Napredak",
+      "name": "Progresu",
       "name_default": "Progresu",
       "native": "Progres",
       "type": "city",
@@ -1967,7 +1967,7 @@
       "id": 96060,
       "name": "Rasa",
       "name_default": "Rasa",
-      "native": "Aromă",
+      "native": "Rasa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 96118,
-      "name": "Roseti",
+      "name": "Roseţi",
       "name_default": "Roseţi",
       "native": "Roseţi",
       "type": "adm2",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": 106028,
-      "name": "Sapunari",
+      "name": "Săpunari",
       "name_default": "Săpunari",
       "native": "Săpunari",
       "type": "city",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 97068,
-      "name": "Šoldanu",
+      "name": "Şoldanu",
       "name_default": "Şoldanu",
       "native": "Şoldanu",
       "type": "adm2",
@@ -2129,7 +2129,7 @@
       "id": 96422,
       "name": "Stancea",
       "name_default": "Stancea",
-      "native": "Stape",
+      "native": "Stancea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 97132,
-      "name": "Štefan cel Mare",
+      "name": "Ștefan cel Mare",
       "name_default": "Ștefan cel Mare",
       "native": "Ștefan cel Mare",
       "type": "adm2",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 97078,
-      "name": "Štefan Vodă",
+      "name": "Ştefan Vodă",
       "name_default": "Ştefan Vodă",
       "native": "Ştefan Vodă",
       "type": "adm2",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 96501,
-      "name": "Sultanija",
+      "name": "Sultana",
       "name_default": "Sultana",
       "native": "Sultana",
       "type": "city",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 96775,
-      "name": "Vasilati",
+      "name": "Vasilaţi",
       "name_default": "Vasilaţi",
       "native": "Vasilaţi",
       "type": "adm2",

@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 50426,
-      "name": "로어 얼리",
-      "name_default": "Lower Earley",
-      "native": "Lower Earley",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32000,
-      "latitude": "51.42708000",
-      "longitude": "-0.91979000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q22582558",
-      "country_code": "GB",
-      "state_code": "RDG",
-      "state_id": 2455,
-      "country_id": 232
-    },
-    {
       "id": 50849,
       "name": "팡본",
       "name_default": "Pangbourne",
@@ -129,7 +111,7 @@
     },
     {
       "id": 51045,
-      "name": "독서",
+      "name": "레딩",
       "name_default": "Reading",
       "native": "Reading",
       "type": "adm2",
@@ -167,7 +149,7 @@
       "id": 51343,
       "name": "소닝 커먼",
       "name_default": "Sonning Common",
-      "native": "The number of the number",
+      "native": "Sonning Common",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +183,7 @@
     },
     {
       "id": 51733,
-      "name": "월링포드",
+      "name": "월링퍼드",
       "name_default": "Wallingford",
       "native": "Wallingford",
       "type": "city",

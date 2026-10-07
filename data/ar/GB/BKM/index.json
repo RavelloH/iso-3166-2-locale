@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48242,
-      "name": "أميرشام",
+      "name": "أمرشام",
       "name_default": "Amersham",
       "native": "Amersham",
       "type": "city",
@@ -74,8 +74,26 @@
       "country_id": 232
     },
     {
+      "id": 48243,
+      "name": "أميرشام على التل",
+      "name_default": "Amersham on the Hill",
+      "native": "Amersham on the Hill",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17719,
+      "latitude": "51.67468000",
+      "longitude": "-0.60742000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q470188",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 48305,
-      "name": "أستون كلينتون",
+      "name": "استون كلينتون",
       "name_default": "Aston Clinton",
       "native": "Aston Clinton",
       "type": "city",
@@ -110,8 +128,26 @@
       "country_id": 232
     },
     {
+      "id": 48436,
+      "name": "بيكونسفيلد",
+      "name_default": "Beaconsfield",
+      "native": "Beaconsfield",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 12235,
+      "latitude": "51.61219000",
+      "longitude": "-0.64732000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q812906",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 48624,
-      "name": "بورن إند",
+      "name": "بورن اند",
       "name_default": "Bourne End",
       "native": "Bourne End",
       "type": "city",
@@ -146,8 +182,26 @@
       "country_id": 232
     },
     {
+      "id": 48748,
+      "name": "باكنغهام",
+      "name_default": "Buckingham",
+      "native": "Buckingham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14294,
+      "latitude": "51.99968000",
+      "longitude": "-0.98779000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q195955",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 48749,
-      "name": "باكينجهامشير",
+      "name": "باكينغهامشير",
       "name_default": "Buckinghamshire",
       "native": "Buckinghamshire",
       "type": "area",
@@ -165,7 +219,7 @@
     },
     {
       "id": 48909,
-      "name": "تشالفونت سانت بيتر",
+      "name": "تشلفنت ست بتر",
       "name_default": "Chalfont Saint Peter",
       "native": "Chalfont Saint Peter",
       "type": "city",
@@ -183,7 +237,7 @@
     },
     {
       "id": 48910,
-      "name": "تشالفونت سانت جايلز",
+      "name": "تشلفنت ست غيلس",
       "name_default": "Chalfont St Giles",
       "native": "Chalfont St Giles",
       "type": "city",
@@ -218,8 +272,26 @@
       "country_id": 232
     },
     {
+      "id": 48951,
+      "name": "تشيشام",
+      "name_default": "Chesham",
+      "native": "Chesham",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23097,
+      "latitude": "51.70000000",
+      "longitude": "-0.60000000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q962767",
+      "country_code": "GB",
+      "state_code": "BKM",
+      "state_id": 2405,
+      "country_id": 232
+    },
+    {
       "id": 49262,
-      "name": "دينهام",
+      "name": "دنهم",
       "name_default": "Denham",
       "native": "Denham",
       "type": "city",
@@ -237,7 +309,7 @@
     },
     {
       "id": 49638,
-      "name": "جيراردز كروس",
+      "name": "غررردس كراس",
       "name_default": "Gerrards Cross",
       "native": "Gerrards Cross",
       "type": "city",
@@ -255,7 +327,7 @@
     },
     {
       "id": 49729,
-      "name": "ميسيندين العظيمة",
+      "name": "غريت ميسندن",
       "name_default": "Great Missenden",
       "native": "Great Missenden",
       "type": "city",
@@ -273,7 +345,7 @@
     },
     {
       "id": 49771,
-      "name": "هادنهام",
+      "name": "هدنهم",
       "name_default": "Haddenham",
       "native": "Haddenham",
       "type": "city",
@@ -327,7 +399,7 @@
     },
     {
       "id": 50087,
-      "name": "إيفر",
+      "name": "إفر",
       "name_default": "Iver",
       "native": "Iver",
       "type": "city",
@@ -345,7 +417,7 @@
     },
     {
       "id": 50089,
-      "name": "إيفينغهو",
+      "name": "ايوينو",
       "name_default": "Ivinghoe",
       "native": "Ivinghoe",
       "type": "city",
@@ -363,7 +435,7 @@
     },
     {
       "id": 50324,
-      "name": "ليتل تشالفونت",
+      "name": "ليتل تشلفنت",
       "name_default": "Little Chalfont",
       "native": "Little Chalfont",
       "type": "city",
@@ -381,7 +453,7 @@
     },
     {
       "id": 50394,
-      "name": "لونغ كريندون",
+      "name": "لونغ كرندن",
       "name_default": "Long Crendon",
       "native": "Long Crendon",
       "type": "city",
@@ -453,7 +525,7 @@
     },
     {
       "id": 51231,
-      "name": "سير جرين",
+      "name": "سئر غرين",
       "name_default": "Seer Green",
       "native": "Seer Green",
       "type": "city",
@@ -471,7 +543,7 @@
     },
     {
       "id": 51436,
-      "name": "ستيبل كلايدون",
+      "name": "ستيبل كليدن",
       "name_default": "Steeple Claydon",
       "native": "Steeple Claydon",
       "type": "city",
@@ -489,7 +561,7 @@
     },
     {
       "id": 51466,
-      "name": "ستوك بوجيس",
+      "name": "ستك بغس",
       "name_default": "Stoke Poges",
       "native": "Stoke Poges",
       "type": "city",
@@ -507,9 +579,9 @@
     },
     {
       "id": 51470,
-      "name": "كنيسة ستوكنتشيرش",
+      "name": "ستكنتشورتش",
       "name_default": "Stokenchurch",
-      "native": "Heating church",
+      "native": "Stokenchurch",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -524,26 +596,8 @@
       "country_id": 232
     },
     {
-      "id": 51584,
-      "name": "ثام",
-      "name_default": "Thame",
-      "native": "Thame",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13269,
-      "latitude": "51.74840000",
-      "longitude": "-0.97624000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2094727",
-      "country_code": "GB",
-      "state_code": "BKM",
-      "state_id": 2405,
-      "country_id": 232
-    },
-    {
       "id": 51720,
-      "name": "واديسدون",
+      "name": "ودسدن",
       "name_default": "Waddesdon",
       "native": "Waddesdon",
       "type": "city",
@@ -597,7 +651,7 @@
     },
     {
       "id": 51846,
-      "name": "ويستون تورفيل",
+      "name": "وستون تورويل",
       "name_default": "Weston Turville",
       "native": "Weston Turville",
       "type": "city",
@@ -615,7 +669,7 @@
     },
     {
       "id": 51928,
-      "name": "جناح",
+      "name": "وينغ",
       "name_default": "Wing",
       "native": "Wing",
       "type": "city",
@@ -633,7 +687,7 @@
     },
     {
       "id": 51932,
-      "name": "وينجريف",
+      "name": "وينغرو",
       "name_default": "Wingrave",
       "native": "Wingrave",
       "type": "city",

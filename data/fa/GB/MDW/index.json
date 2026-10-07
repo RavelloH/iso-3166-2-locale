@@ -75,7 +75,7 @@
     },
     {
       "id": 48933,
-      "name": "چاتم",
+      "name": "چاتهام",
       "name_default": "Chatham",
       "native": "Chatham",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49643,
-      "name": "گیلینگهام",
+      "name": "جیلینگهام",
       "name_default": "Gillingham",
       "native": "Gillingham",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 50427,
-      "name": "هالستو پایینی",
+      "name": "لور هالستو",
       "name_default": "Lower Halstow",
       "native": "Lower Halstow",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 51010,
-      "name": "کوئینبورو",
+      "name": "کویین‌بورو",
       "name_default": "Queenborough",
       "native": "Queenborough",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 51024,
       "name": "رینهام",
       "name_default": "Rainham",
-      "native": "Queen",
+      "native": "Rainham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -344,28 +344,10 @@
       "country_id": 232
     },
     {
-      "id": 51337,
-      "name": "اسنودلند",
-      "name_default": "Snodland",
-      "native": "Snodland",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 11830,
-      "latitude": "51.32971000",
-      "longitude": "0.44305000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2462696",
-      "country_code": "GB",
-      "state_code": "MDW",
-      "state_id": 2381,
-      "country_id": 232
-    },
-    {
       "id": 51502,
       "name": "استرود",
       "name_default": "Strood",
-      "native": "Strip",
+      "native": "Strood",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -381,7 +363,7 @@
     },
     {
       "id": 51770,
-      "name": "واترینگبری",
+      "name": "واترینگ‌بری",
       "name_default": "Wateringbury",
       "native": "Wateringbury",
       "type": "city",

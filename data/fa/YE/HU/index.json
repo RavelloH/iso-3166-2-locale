@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 130665,
-      "name": "الداهی",
+      "name": "مدیریة الضحى",
       "name_default": "Ad Dahi",
       "native": "الضاحي",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 130667,
-      "name": "اد الدوریهیمی",
+      "name": "ناحیه الدریهمی",
       "name_default": "Ad Durayhimi",
       "native": "الدرهيمي",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130686,
-      "name": "الغراهی",
+      "name": "ناحیه الجراحی",
       "name_default": "Al Garrahi",
       "native": "الجراحي",
       "type": "area",
@@ -129,7 +129,7 @@
     },
     {
       "id": 130693,
-      "name": "الحالی",
+      "name": "ناحیه الحالی",
       "name_default": "Al Hali",
       "native": "الحلي",
       "type": "area",
@@ -147,7 +147,7 @@
     },
     {
       "id": 130695,
-      "name": "الحواک",
+      "name": "ناحیه الحوک",
       "name_default": "Al Hawak",
       "native": "الحواك",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 130757,
-      "name": "الحدیده",
+      "name": "حدیده",
       "name_default": "Al Ḩudaydah",
       "native": "الحديدة",
       "type": "adm1",
@@ -201,10 +201,10 @@
     },
     {
       "id": 130720,
-      "name": "المنصوریه",
+      "name": "ناحیه المنصوریة",
       "name_default": "Al Mansuriyah",
       "native": "المنصورية",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 44744,
@@ -237,7 +237,7 @@
     },
     {
       "id": 130731,
-      "name": "المغلاف",
+      "name": "ناحیه المغلاف",
       "name_default": "Al Mighlaf",
       "native": "المغلاف",
       "type": "adm2",
@@ -273,10 +273,10 @@
     },
     {
       "id": 130740,
-      "name": "المنیره",
+      "name": "ناحیه المنیرة",
       "name_default": "Al Munirah",
       "native": "المنيرة",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 37183,
@@ -291,7 +291,7 @@
     },
     {
       "id": 130748,
-      "name": "آل قاناویس",
+      "name": "ناحیه القناوص",
       "name_default": "Al Qanawis",
       "native": "القناوي",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 130762,
-      "name": "آلوهیا",
+      "name": "بخش الیوهیاه",
       "name_default": "Alluheyah",
       "native": "اللهيه",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 130777,
-      "name": "به عنوان سلیف",
+      "name": "صلیف",
       "name_default": "As Salif",
       "native": "السالف",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 130785,
-      "name": "به عنوان سخنه",
+      "name": "ناحیه السخنه",
       "name_default": "As Sukhnah",
       "native": "السخنة",
       "type": "area",
@@ -363,9 +363,9 @@
     },
     {
       "id": 130799,
-      "name": "در توحیات",
+      "name": "At Tuhayat",
       "name_default": "At Tuhayat",
-      "native": "في التحيتا",
+      "native": "مديرية التحيتا",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 130805,
-      "name": "زیدیه",
+      "name": "ناحیه الزیدیه",
       "name_default": "Az Zaydīyah",
       "native": "الزيدية",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 130806,
-      "name": "از زهره",
+      "name": "ناحیه الزهزه",
       "name_default": "Az Zuhrah",
       "native": "الزهرة",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 130829,
-      "name": "باجیل",
+      "name": "ناحیه باجل",
       "name_default": "Bājil",
       "native": "باجل",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 130823,
-      "name": "بیت الفقیه",
+      "name": "ناحیه بیت الفقیه",
       "name_default": "Bayt al Faqīh",
       "native": "بيت الفقيه",
       "type": "adm2",
@@ -456,7 +456,7 @@
       "name": "بورا",
       "name_default": "Bura",
       "native": "بورا",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 45116,
@@ -471,7 +471,7 @@
     },
     {
       "id": 130863,
-      "name": "هیز",
+      "name": "ناحیه حیس",
       "name_default": "Hays",
       "native": "هايز",
       "type": "adm2",
@@ -492,7 +492,7 @@
       "name": "جبل رأس",
       "name_default": "Jabal Ra's",
       "native": "جبل رأس",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 44674,
@@ -507,7 +507,7 @@
     },
     {
       "id": 130884,
-      "name": "کاماران",
+      "name": "ناحیه الصلیف",
       "name_default": "Kamaran",
       "native": "كاماران",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 131006,
-      "name": "زبید",
+      "name": "ناحیه زبید",
       "name_default": "Zabīd",
       "native": "زبيد",
       "type": "area",

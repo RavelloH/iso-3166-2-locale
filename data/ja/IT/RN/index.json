@@ -93,7 +93,7 @@
     },
     {
       "id": 137396,
-      "name": "カトリカ",
+      "name": "カットーリカ",
       "name_default": "Cattolica",
       "native": "Cattolica",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 138038,
       "name": "コルポロ",
       "name_default": "Corpolò",
-      "native": "Corpo",
+      "native": "Corpolò",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 138892,
-      "name": "ジェンマノ",
+      "name": "ジェンマーノ",
       "name_default": "Gemmano",
       "native": "Gemmano",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 140178,
-      "name": "ミサノ・アドリアティコ",
+      "name": "ミザーノ・アドリアーティコ",
       "name_default": "Misano Adriatico",
       "native": "Misano Adriatico",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 140272,
-      "name": "モンダイノ",
+      "name": "モンダイーノ",
       "name_default": "Mondaino",
       "native": "Mondaino",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 140356,
-      "name": "モンテコロンボ",
+      "name": "モンテ・コロンボ",
       "name_default": "Monte Colombo",
       "native": "Monte Colombo",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 58405,
-      "name": "ペナビリ",
+      "name": "ペンナビッリ",
       "name_default": "Pennabilli",
       "native": "Pennabilli",
       "type": "adm3",
@@ -383,7 +383,7 @@
       "id": 58610,
       "name": "ピエトラクータ",
       "name_default": "Pietracuta",
-      "native": "Pastacuta",
+      "native": "Pietracuta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -437,7 +437,7 @@
       "id": 59433,
       "name": "リヴァズーラ",
       "name_default": "Rivazzurra",
-      "native": "Brivido",
+      "native": "Rivazzurra",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 59783,
-      "name": "サルデシオ",
+      "name": "サルデーチョ",
       "name_default": "Saludecio",
       "native": "Saludecio",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 60028,
-      "name": "サンレオ",
+      "name": "サン・レーオ",
       "name_default": "San Leo",
       "native": "San Leo",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 60316,
-      "name": "サンタガタ・フェルトリア",
+      "name": "サンターガタ・フェルトリア",
       "name_default": "Sant'Agata Feltria",
       "native": "Sant'Agata Feltria",
       "type": "adm3",
@@ -596,6 +596,24 @@
       "country_id": 107
     },
     {
+      "id": 60503,
+      "name": "サンタルカンジェロ",
+      "name_default": "Santarcangelo",
+      "native": "Santarcangelo",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10934,
+      "latitude": "44.06326000",
+      "longitude": "12.44657000",
+      "timezone": "Europe/Rome",
+      "wikiDataId": null,
+      "country_code": "IT",
+      "state_code": "RN",
+      "state_id": 1713,
+      "country_id": 107
+    },
+    {
       "id": 60675,
       "name": "セッキアーノ",
       "name_default": "Secchiano",
@@ -633,7 +651,7 @@
     },
     {
       "id": 61151,
-      "name": "タラメロ",
+      "name": "タラメッロ",
       "name_default": "Talamello",
       "native": "Talamello",
       "type": "adm3",
@@ -651,7 +669,7 @@
     },
     {
       "id": 61397,
-      "name": "トリアナ",
+      "name": "トッリアーナ",
       "name_default": "Torriana",
       "native": "Torriana",
       "type": "adm3",

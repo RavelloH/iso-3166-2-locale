@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 68103,
-      "name": "Eau bleue",
+      "name": "Agua Azul",
       "name_default": "Agua Azul",
       "native": "Agua Azul",
       "type": "city",
@@ -152,7 +152,7 @@
     },
     {
       "id": 68112,
-      "name": "Eau froide",
+      "name": "Agua Fría",
       "name_default": "Agua Fría",
       "native": "Agua Fría",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 68118,
-      "name": "Eau Zarca",
+      "name": "Agua Zarca",
       "name_default": "Agua Zarca",
       "native": "Agua Zarca",
       "type": "city",
@@ -262,7 +262,7 @@
       "id": 68250,
       "name": "Amazcala",
       "name_default": "Amazcala",
-      "native": "Casos",
+      "native": "Amazcala",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -278,7 +278,7 @@
     },
     {
       "id": 68251,
-      "name": "Amealco",
+      "name": "Amealco de Bonfil",
       "name_default": "Amealco",
       "native": "Amealco",
       "type": "adm2",
@@ -298,7 +298,7 @@
       "id": 68294,
       "name": "Apapátaro",
       "name_default": "Apapátaro",
-      "native": "APAP -",
+      "native": "Apapátaro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -386,7 +386,7 @@
     },
     {
       "id": 68610,
-      "name": "Bernal",
+      "name": "San Sebastián Bernal",
       "name_default": "Bernal",
       "native": "Bernal",
       "type": "city",
@@ -424,7 +424,7 @@
       "id": 68646,
       "name": "Boxasní",
       "name_default": "Boxasní",
-      "native": "Boxeo",
+      "native": "Boxasní",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -442,7 +442,7 @@
       "id": 68647,
       "name": "Boyé",
       "name_default": "Boyé",
-      "native": "Entonces así",
+      "native": "Boyé",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -548,7 +548,7 @@
     },
     {
       "id": 68848,
-      "name": "Maison Blanche",
+      "name": "Casa Blanca",
       "name_default": "Casa Blanca",
       "native": "Casa Blanca",
       "type": "city",
@@ -674,7 +674,7 @@
     },
     {
       "id": 69258,
-      "name": "Colinas de Santa Cruz Deuxième Section",
+      "name": "Colinas de Santa Cruz Segunda Sección",
       "name_default": "Colinas de Santa Cruz Segunda Sección",
       "native": "Colinas de Santa Cruz Segunda Sección",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 69414,
-      "name": "Côlon",
+      "name": "Colón",
       "name_default": "Colón",
       "native": "Colon",
       "type": "adm2",
@@ -746,7 +746,7 @@
     },
     {
       "id": 69524,
-      "name": "Coyotes",
+      "name": "Coyotillos",
       "name_default": "Coyotillos",
       "native": "Coyotillos",
       "type": "city",
@@ -782,7 +782,7 @@
     },
     {
       "id": 69847,
-      "name": "Le Blanc",
+      "name": "El Blanco",
       "name_default": "El Blanco",
       "native": "El Blanco",
       "type": "city",
@@ -800,7 +800,7 @@
     },
     {
       "id": 69873,
-      "name": "Le Carmen",
+      "name": "El Carmen",
       "name_default": "El Carmen",
       "native": "El Carmen",
       "type": "city",
@@ -818,7 +818,7 @@
     },
     {
       "id": 69889,
-      "name": "Le Cazadero",
+      "name": "El Cazadero",
       "name_default": "El Cazadero",
       "native": "El Cazadero",
       "type": "city",
@@ -836,7 +836,7 @@
     },
     {
       "id": 69905,
-      "name": "Le Ciervo",
+      "name": "El Ciervo",
       "name_default": "El Ciervo",
       "native": "El Ciervo",
       "type": "city",
@@ -854,7 +854,7 @@
     },
     {
       "id": 69912,
-      "name": "Le Colorado",
+      "name": "El Colorado",
       "name_default": "El Colorado",
       "native": "El Colorado",
       "type": "city",
@@ -872,7 +872,7 @@
     },
     {
       "id": 69931,
-      "name": "Le Coto",
+      "name": "El Coto",
       "name_default": "El Coto",
       "native": "El Coto",
       "type": "city",
@@ -890,7 +890,7 @@
     },
     {
       "id": 69976,
-      "name": "Le Gallo",
+      "name": "El Gallo",
       "name_default": "El Gallo",
       "native": "El Gallo",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 69999,
-      "name": "Le Jaral",
+      "name": "El Jaral",
       "name_default": "El Jaral",
       "native": "El Jaral",
       "type": "city",
@@ -926,7 +926,7 @@
     },
     {
       "id": 70002,
-      "name": "Le Jazmin",
+      "name": "El Jazmín",
       "name_default": "El Jazmín",
       "native": "El Jazmín",
       "type": "city",
@@ -944,7 +944,7 @@
     },
     {
       "id": 70026,
-      "name": "Le Loup",
+      "name": "El Lobo",
       "name_default": "El Lobo",
       "native": "El Lobo",
       "type": "city",
@@ -962,7 +962,7 @@
     },
     {
       "id": 70037,
-      "name": "Le Milagro",
+      "name": "El Milagro",
       "name_default": "El Milagro",
       "native": "El Milagro",
       "type": "city",
@@ -980,7 +980,7 @@
     },
     {
       "id": 70052,
-      "name": "Le Nabo",
+      "name": "El Nabo",
       "name_default": "El Nabo",
       "native": "El Nabo",
       "type": "city",
@@ -998,7 +998,7 @@
     },
     {
       "id": 70073,
-      "name": "L'Organal",
+      "name": "El Organal",
       "name_default": "El Organal",
       "native": "El Organal",
       "type": "city",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 70089,
-      "name": "Le paradis",
+      "name": "El Paraíso",
       "name_default": "El Paraíso",
       "native": "El Paraíso",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 70129,
-      "name": "Le Pozo",
+      "name": "El Pozo",
       "name_default": "El Pozo",
       "native": "El Pozo",
       "type": "city",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": 70159,
-      "name": "Le Rincón",
+      "name": "El Rincón",
       "name_default": "El Rincón",
       "native": "El Rincón",
       "type": "city",
@@ -1124,7 +1124,7 @@
     },
     {
       "id": 70177,
-      "name": "Le Rosaire",
+      "name": "El Rosario",
       "name_default": "El Rosario",
       "native": "El Rosario",
       "type": "city",
@@ -1142,7 +1142,7 @@
     },
     {
       "id": 70187,
-      "name": "Le Salitre",
+      "name": "El Salitre",
       "name_default": "El Salitre",
       "native": "El Salitre",
       "type": "city",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": 70204,
-      "name": "Le Sauz",
+      "name": "El Sauz",
       "name_default": "El Sauz",
       "native": "El Saúz",
       "type": "city",
@@ -1178,7 +1178,7 @@
     },
     {
       "id": 70215,
-      "name": "Le Tejocote",
+      "name": "El Tejocote",
       "name_default": "El Tejocote",
       "native": "El Tejocote",
       "type": "city",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": 70250,
-      "name": "Le Vegil",
+      "name": "El Vegil",
       "name_default": "El Vegil",
       "native": "El Vegil",
       "type": "city",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": 76296,
-      "name": "Zamorano",
+      "name": "El Zamorano",
       "name_default": "El Zamorano",
       "native": "Zamorano",
       "type": "city",
@@ -1250,9 +1250,9 @@
     },
     {
       "id": 70319,
-      "name": "Escolastiques",
+      "name": "Escolásticas",
       "name_default": "Escolásticas",
-      "native": "Escuelas",
+      "native": "Escolásticas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1324,7 +1324,7 @@
       "id": 70514,
       "name": "Galeras",
       "name_default": "Galeras",
-      "native": "Tipo",
+      "native": "Galeras",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1484,7 +1484,7 @@
     },
     {
       "id": 71031,
-      "name": "Jésus-Marie",
+      "name": "Jesús María",
       "name_default": "Jesús María",
       "native": "Jesús María",
       "type": "city",
@@ -1558,7 +1558,7 @@
       "id": 71182,
       "name": "La Barreta",
       "name_default": "La Barreta",
-      "native": "El bar",
+      "native": "La Barreta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1736,7 +1736,7 @@
     },
     {
       "id": 71360,
-      "name": "La Lire",
+      "name": "La Lira",
       "name_default": "La Lira",
       "native": "La lira",
       "type": "city",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": 71361,
-      "name": "La Clé",
+      "name": "La Llave",
       "name_default": "La Llave",
       "native": "La Llave",
       "type": "city",
@@ -1828,7 +1828,7 @@
       "id": 71404,
       "name": "La Negreta",
       "name_default": "La Negreta",
-      "native": "El audaz",
+      "native": "La Negreta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1952,7 +1952,7 @@
     },
     {
       "id": 71506,
-      "name": "La Tortue",
+      "name": "La Tortuga",
       "name_default": "La Tortuga",
       "native": "La Tortuga",
       "type": "city",
@@ -1970,7 +1970,7 @@
     },
     {
       "id": 71508,
-      "name": "La Trinité",
+      "name": "La Trinidad",
       "name_default": "La Trinidad",
       "native": "La Trinidad",
       "type": "city",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": 71779,
-      "name": "Les Benitos",
+      "name": "Los Benitos",
       "name_default": "Los Benitos",
       "native": "Los Benitos",
       "type": "city",
@@ -2168,7 +2168,7 @@
     },
     {
       "id": 71788,
-      "name": "Les Cerritos",
+      "name": "Los Cerritos",
       "name_default": "Los Cerritos",
       "native": "Los Cerritos",
       "type": "city",
@@ -2186,7 +2186,7 @@
     },
     {
       "id": 71795,
-      "name": "Les indices",
+      "name": "Los Cues",
       "name_default": "Los Cues",
       "native": "Los Cues",
       "type": "city",
@@ -2204,7 +2204,7 @@
     },
     {
       "id": 71825,
-      "name": "Les Olvera",
+      "name": "Los Olvera",
       "name_default": "Los Olvera",
       "native": "Los Olvera",
       "type": "city",
@@ -2222,7 +2222,7 @@
     },
     {
       "id": 71835,
-      "name": "Les Pocitos",
+      "name": "Los Pocitos",
       "name_default": "Los Pocitos",
       "native": "Los Pocitos",
       "type": "city",
@@ -2294,7 +2294,7 @@
     },
     {
       "id": 72216,
-      "name": "Monténégro",
+      "name": "Montenegro",
       "name_default": "Montenegro",
       "native": "Montenegro",
       "type": "city",
@@ -2312,7 +2312,7 @@
     },
     {
       "id": 72333,
-      "name": "Aucun [CERESO]",
+      "name": "Ninguno [CERESO]",
       "name_default": "Ninguno [CERESO]",
       "native": "Ninguno [CERESO]",
       "type": "city",
@@ -2348,7 +2348,7 @@
     },
     {
       "id": 72488,
-      "name": "Oeil d'eau",
+      "name": "Ojo de Agua",
       "name_default": "Ojo de Agua",
       "native": "Ojo de Agua",
       "type": "city",
@@ -2456,7 +2456,7 @@
     },
     {
       "id": 72711,
-      "name": "Nouvelle Patrie",
+      "name": "Patria Nueva",
       "name_default": "Patria Nueva",
       "native": "Patria Nueva",
       "type": "city",
@@ -2582,7 +2582,7 @@
     },
     {
       "id": 72962,
-      "name": "Porte de Palmillas",
+      "name": "Puerta de Palmillas",
       "name_default": "Puerta de Palmillas",
       "native": "Puerta de Palmillas",
       "type": "city",
@@ -2780,7 +2780,7 @@
     },
     {
       "id": 73659,
-      "name": "Saint Ildefonso",
+      "name": "San Ildefonso",
       "name_default": "San Ildefonso",
       "native": "San Ildefonso",
       "type": "city",
@@ -2962,7 +2962,7 @@
       "id": 73768,
       "name": "San José Itho",
       "name_default": "San José Itho",
-      "native": "San Josae",
+      "native": "San José Itho",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2978,7 +2978,7 @@
     },
     {
       "id": 73791,
-      "name": "Tepuzas de San José",
+      "name": "San José Tepuzas",
       "name_default": "San José Tepuzas",
       "native": "San José Tepuzas",
       "type": "city",
@@ -3014,7 +3014,7 @@
     },
     {
       "id": 74084,
-      "name": "Saint-Martin",
+      "name": "San Martín",
       "name_default": "San Martín",
       "native": "San Martín",
       "type": "city",
@@ -3032,7 +3032,7 @@
     },
     {
       "id": 74097,
-      "name": "San Martín, Floride",
+      "name": "San Martín Florida",
       "name_default": "San Martín Florida",
       "native": "San Martín Florida",
       "type": "city",
@@ -3086,7 +3086,7 @@
     },
     {
       "id": 74248,
-      "name": "Saint-Nicolas",
+      "name": "San Nicolás",
       "name_default": "San Nicolás",
       "native": "San Nicolás",
       "type": "city",
@@ -3158,7 +3158,7 @@
     },
     {
       "id": 74357,
-      "name": "San Pedro Martir",
+      "name": "San Pedro Mártir",
       "name_default": "San Pedro Mártir",
       "native": "San Pedro Mártir",
       "type": "city",
@@ -3446,7 +3446,7 @@
     },
     {
       "id": 74923,
-      "name": "Santiago Mexquititlán Barrio 4to",
+      "name": "Santiago Mexquititlán Barrio 4to.",
       "name_default": "Santiago Mexquititlán Barrio 4to.",
       "native": "Santiago Mexquititlán Barrio 4to.",
       "type": "city",
@@ -3518,7 +3518,7 @@
     },
     {
       "id": 75543,
-      "name": "Terre Blanche",
+      "name": "Tierra Blanca",
       "name_default": "Tierra Blanca",
       "native": "Tierra Blanca",
       "type": "city",
@@ -3554,7 +3554,7 @@
     },
     {
       "id": 75721,
-      "name": "Toliman",
+      "name": "Tolimán",
       "name_default": "Tolimán",
       "native": "Tolimán",
       "type": "adm2",
@@ -3590,9 +3590,9 @@
     },
     {
       "id": 75951,
-      "name": "Nous vaincrons",
+      "name": "Venceremos",
       "name_default": "Venceremos",
-      "native": "Ganaremos",
+      "native": "Venceremos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3608,7 +3608,7 @@
     },
     {
       "id": 75968,
-      "name": "Viborilles",
+      "name": "Viborillas",
       "name_default": "Viborillas",
       "native": "Viborillas",
       "type": "city",
@@ -3700,7 +3700,7 @@
       "id": 76098,
       "name": "Visthá",
       "name_default": "Visthá",
-      "native": "Ecosistema",
+      "native": "Visthá",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3716,7 +3716,7 @@
     },
     {
       "id": 76102,
-      "name": "Vizarrón",
+      "name": "Vizarrón de Montes",
       "name_default": "Vizarrón",
       "native": "Vizarrón",
       "type": "city",
@@ -3734,7 +3734,7 @@
     },
     {
       "id": 76245,
-      "name": "Yosphi",
+      "name": "Yosphí",
       "name_default": "Yosphí",
       "native": "Yosfi",
       "type": "city",

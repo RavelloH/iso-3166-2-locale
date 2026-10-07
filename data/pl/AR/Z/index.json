@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28 listopada",
+      "name": "Veintiocho de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Komendant Luis Piedra Buena",
+      "name": "Comandante Luis Piedrabuena",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -224,10 +224,10 @@
     },
     {
       "id": 922,
-      "name": "Departament Lago Argentino",
+      "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Gubernator Gregores",
+      "name": "Gobernador Gregores",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",
@@ -386,7 +386,7 @@
     },
     {
       "id": 1352,
-      "name": "Port Deseado",
+      "name": "Puerto Deseado",
       "name_default": "Puerto Deseado",
       "native": "Puerto Deseado",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1434,
-      "name": "San Julian",
+      "name": "San Julián",
       "name_default": "San Julián",
       "native": "San Julián",
       "type": "adm2",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135347,
-      "name": "알바 아드리아티카",
+      "name": "알바아드리아티카",
       "name_default": "Alba Adriatica",
       "native": "Alba Adriatica",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 136625,
-      "name": "캠플리",
+      "name": "캄플리",
       "name_default": "Campli",
       "native": "Campli",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 136752,
-      "name": "칸자노",
+      "name": "칸차노",
       "name_default": "Canzano",
       "native": "Canzano",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 137133,
-      "name": "카스텔 카스타냐",
+      "name": "카스텔카스타냐",
       "name_default": "Castel Castagna",
       "native": "Castel Castagna",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 137343,
-      "name": "카스틸리오네 메서 라이몬도",
+      "name": "카스틸리오네메세르라이몬도",
       "name_default": "Castiglione Messer Raimondo",
       "native": "Castiglione Messer Raimondo",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137360,
-      "name": "카스티렌티",
+      "name": "카스틸렌티",
       "name_default": "Castilenti",
       "native": "Castilenti",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137479,
-      "name": "셀리노 아타나시오",
+      "name": "첼리노아타나시오",
       "name_default": "Cellino Attanasio",
       "native": "Cellino Attanasio",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 137802,
-      "name": "치비텔라 델 트론토",
+      "name": "치비텔라델트론토",
       "name_default": "Civitella del Tronto",
       "native": "Civitella del Tronto",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 137923,
-      "name": "콜로넬라",
+      "name": "콜론넬라",
       "name_default": "Colonnella",
       "native": "Colonnella",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 137980,
-      "name": "콘트로게라",
+      "name": "콘트로구에라",
       "name_default": "Controguerra",
       "native": "Controguerra",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 138163,
-      "name": "크로그날레토",
+      "name": "크로냘레토",
       "name_default": "Crognaleto",
       "native": "Crognaleto",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 138434,
-      "name": "파노 아드리아노",
+      "name": "파노아드리아노",
       "name_default": "Fano Adriano",
       "native": "Fano Adriano",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 139245,
-      "name": "이솔라 델 그란 사소 디탈리아",
+      "name": "이솔라델그란사소디탈리아",
       "name_default": "Isola del Gran Sasso d'Italia",
       "native": "Isola del Gran Sasso d'Italia",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 140586,
-      "name": "몬토리오 알 보마노",
+      "name": "몬토리오알보마노",
       "name_default": "Montorio al Vomano",
       "native": "Montorio al Vomano",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 140634,
-      "name": "모로 도로",
+      "name": "모로도로",
       "name_default": "Morro d'Oro",
       "native": "Morro d'Oro",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 140646,
-      "name": "모시아노 산탄젤로",
+      "name": "모시아노산탄젤로",
       "name_default": "Mosciano Sant'Angelo",
       "native": "Mosciano Sant'Angelo",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 58403,
-      "name": "펜나 산탄드레아",
+      "name": "펜나산탄드레아",
       "name_default": "Penna Sant'Andrea",
       "native": "Penna Sant'Andrea",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 59637,
-      "name": "로세토 델리 아브루치",
+      "name": "로세토델리아브루치",
       "name_default": "Roseto degli Abruzzi",
       "native": "Roseto degli Abruzzi",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 60391,
-      "name": "산테지디오 알라 비브라타",
+      "name": "산테지디오알라비브라타",
       "name_default": "Sant'Egidio alla Vibrata",
       "native": "Sant'Egidio alla Vibrata",
       "type": "adm3",
@@ -995,7 +995,7 @@
       "id": 60639,
       "name": "스케르네",
       "name_default": "Scerne",
-      "native": "I punteggi",
+      "native": "Scerne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 61317,
-      "name": "토라노 누오보",
+      "name": "토라노누오보",
       "name_default": "Torano Nuovo",
       "native": "Torano Nuovo",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 61424,
-      "name": "토시시아",
+      "name": "토시차",
       "name_default": "Tossicia",
       "native": "Tossicia",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 61686,
-      "name": "발레 카스텔라나",
+      "name": "발레카스텔라나",
       "name_default": "Valle Castellana",
       "native": "Valle Castellana",
       "type": "adm3",
@@ -1157,7 +1157,7 @@
       "id": 62003,
       "name": "빌라 렘파",
       "name_default": "Villa Lempa",
-      "native": "Lampada villa",
+      "native": "Villa Lempa",
       "type": "city",
       "level": null,
       "parent_id": null,

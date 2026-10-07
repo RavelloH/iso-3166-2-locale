@@ -147,7 +147,7 @@
     },
     {
       "id": 49409,
-      "name": "Reter Sir Roazhon",
+      "name": "East Renfrewshire",
       "name_default": "East Renfrewshire",
       "native": "East Renfrewshire",
       "type": "area",
@@ -182,24 +182,6 @@
       "country_id": 232
     },
     {
-      "id": 50150,
-      "name": "Kilmarnock",
-      "name_default": "Kilmarnock",
-      "native": "Kilmarnock",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 46770,
-      "latitude": "55.61171000",
-      "longitude": "-4.49581000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q576562",
-      "country_code": "GB",
-      "state_code": "ERW",
-      "state_id": 2333,
-      "country_id": 232
-    },
-    {
       "id": 50673,
       "name": "Neilston",
       "name_default": "Neilston",
@@ -219,7 +201,7 @@
     },
     {
       "id": 50731,
-      "name": "Newton Mearns",
+      "name": "Baile Ùr na Maoirne",
       "name_default": "Newton Mearns",
       "native": "Newton Mearns",
       "type": "city",
@@ -255,7 +237,7 @@
     },
     {
       "id": 51769,
-      "name": "Troad-dour",
+      "name": "Waterfoot",
       "name_default": "Waterfoot",
       "native": "Waterfoot",
       "type": "city",

@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 104959,
-      "name": "Distrito de Al-Haffah",
+      "name": "Al-Haffah",
       "name_default": "Al-Haffah",
-      "native": "حي الحفة",
+      "native": "منطقة الحفة",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 105008,
-      "name": "Distrito de Jableh",
+      "name": "Jableh",
       "name_default": "Jableh",
       "native": "قضاء جبلة",
       "type": "district",
@@ -165,7 +165,7 @@
     },
     {
       "id": 105025,
-      "name": "Distrito de Latakia",
+      "name": "Latakia District",
       "name_default": "Latakia District",
       "native": "منطقة اللاذقية",
       "type": "district",
@@ -183,9 +183,9 @@
     },
     {
       "id": 105039,
-      "name": "Distrito de Qardaha",
+      "name": "Qardaha",
       "name_default": "Qardaha",
-      "native": "قضاء القرداحة",
+      "native": "منطقة القرداحة",
       "type": "district",
       "level": null,
       "parent_id": null,

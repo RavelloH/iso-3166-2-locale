@@ -129,7 +129,7 @@
     },
     {
       "id": 38594,
-      "name": "Strefa Arsi",
+      "name": "Arsi Zone",
       "name_default": "Arsi Zone",
       "native": "Arsi ዞን",
       "type": "city",
@@ -219,9 +219,9 @@
     },
     {
       "id": 38601,
-      "name": "Bedelē",
+      "name": "Bedele",
       "name_default": "Bedelē",
-      "native": "ደመወዝ",
+      "native": "በደሌ ከተማ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 38605,
-      "name": "Biszoftu",
+      "name": "Debre Zeit",
       "name_default": "Bishoftu",
       "native": "ቢሾፍቱ",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 38626,
-      "name": "Strefa Wschodniego Harerghe",
+      "name": "East Harerghe Zone",
       "name_default": "East Harerghe Zone",
       "native": "ምስራቅ ሀረርጋ ዞን",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 38627,
-      "name": "Strefa Wschodnia Szewa",
+      "name": "East Shewa Zone",
       "name_default": "East Shewa Zone",
       "native": "ምስራቅ ሸዋ ዞን",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 38628,
-      "name": "Strefa East Wellega",
+      "name": "East Wellega Zone",
       "name_default": "East Wellega Zone",
       "native": "ምስራቅ ዌልጋ ዞን",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 38630,
-      "name": "Fichē",
+      "name": "Ficze",
       "name_default": "Fichē",
       "native": "ፉካ",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 38639,
-      "name": "Ginir",
+      "name": "Ginyr",
       "name_default": "Ginir",
       "native": "ጂኒር",
       "type": "city",
@@ -545,7 +545,7 @@
       "id": 38640,
       "name": "Goba",
       "name_default": "Goba",
-      "native": "ሁን",
+      "native": "ጎባ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 38643,
-      "name": "Klin",
+      "name": "Gorie",
       "name_default": "Gorē",
       "native": "ጎሬ",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 38644,
-      "name": "Strefa Guji",
+      "name": "Guji Zone",
       "name_default": "Guji Zone",
       "native": "የጉጂ ዞን",
       "type": "city",
@@ -633,9 +633,9 @@
     },
     {
       "id": 38654,
-      "name": "Hāgere Hiywet",
+      "name": "Ambo",
       "name_default": "Hāgere Hiywet",
-      "native": "የፈረስ ወሬ",
+      "native": "አምቦ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 38656,
-      "name": "Hirna",
+      "name": "Hīrna",
       "name_default": "Hīrna",
       "native": "ሂናና",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 38657,
-      "name": "Strefa Ilubabor",
+      "name": "Illubabor Zone",
       "name_default": "Illubabor Zone",
       "native": "ኢሉቦባቦር ዞን",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 38660,
-      "name": "Jimma",
+      "name": "Dżimma",
       "name_default": "Jimma",
       "native": "ጂም",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 38661,
-      "name": "Strefa Jimma",
+      "name": "Jimma Zone",
       "name_default": "Jimma Zone",
       "native": "ጅማ ዞን Poverors.",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 38666,
-      "name": "Kofelē",
+      "name": "Kofele",
       "name_default": "Kofelē",
       "native": "ኮፍያ",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 38682,
-      "name": "Mega",
+      "name": "Mēga",
       "name_default": "Mēga",
       "native": "ዌግ",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 38677,
-      "name": "Mendī",
+      "name": "Mendi",
       "name_default": "Mendī",
       "native": "ማኒየር",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 38684,
-      "name": "Nazret",
+      "name": "Nazrēt",
       "name_default": "Nazrēt",
       "native": "ናናውያን",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 38687,
-      "name": "Strefa Północnej Szewy",
+      "name": "North Shewa Zone",
       "name_default": "North Shewa Zone",
       "native": "ሰሜን ሸዋ ዞን",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 38693,
-      "name": "Shakiso",
+      "name": "Szakiso",
       "name_default": "Shakiso",
       "native": "ጥርጣሬ",
       "type": "city",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 38694,
-      "name": "Szambu",
+      "name": "Shambu",
       "name_default": "Shambu",
       "native": "ሻምቡ",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 38695,
-      "name": "Szaszemenē",
+      "name": "Szaszemenie",
       "name_default": "Shashamane",
       "native": "ሻሽሜን",
       "type": "city",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 38699,
-      "name": "Panie",
+      "name": "Sirre",
       "name_default": "Sirre",
       "native": "Sirre",
       "type": "city",
@@ -1147,7 +1147,7 @@
       "latitude": "8.31667000",
       "longitude": "39.48333000",
       "timezone": "Africa/Addis_Ababa",
-      "wikiDataId": "Q1070673",
+      "wikiDataId": null,
       "country_code": "ET",
       "state_code": "OR",
       "state_id": 5,
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 38714,
-      "name": "Strefa West Harerghe",
+      "name": "West Harerghe Zone",
       "name_default": "West Harerghe Zone",
       "native": "ዌስት ሀረራልሄ ዞን",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 38715,
-      "name": "Strefa West Wellega",
+      "name": "West Wellega Zone",
       "name_default": "West Wellega Zone",
       "native": "የምእራብ ወለጋ ዞን",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 38717,
-      "name": "Jabelo",
+      "name": "Yabelo",
       "name_default": "Yabēlo",
       "native": "ያባሎ",
       "type": "city",

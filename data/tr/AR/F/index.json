@@ -206,7 +206,7 @@
     },
     {
       "id": 752,
-      "name": "Kimyasal",
+      "name": "Chamical",
       "name_default": "Chamical",
       "native": "Chamical",
       "type": "adm2",
@@ -224,7 +224,7 @@
     },
     {
       "id": 761,
-      "name": "Şilicito",
+      "name": "Chilecito",
       "name_default": "Chilecito",
       "native": "Chilecito",
       "type": "adm2",
@@ -242,10 +242,10 @@
     },
     {
       "id": 831,
-      "name": "Departmanto de Arauco",
+      "name": "Departamento de Arauco",
       "name_default": "Departamento de Arauco",
       "native": "Departamento de Arauco",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16257,
@@ -260,7 +260,7 @@
     },
     {
       "id": 893,
-      "name": "General Lamadrid Departamento",
+      "name": "Departamento de General Lamadrid",
       "name_default": "Departamento de General Lamadrid",
       "native": "Departamento de General Lamadrid",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 910,
-      "name": "Bağımsızlık Dairesi",
+      "name": "Departamento de Independencia",
       "name_default": "Departamento de Independencia",
       "native": "Departamento de Independencia",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1588,
-      "name": "Vinçina",
+      "name": "Vinchina",
       "name_default": "Vinchina",
       "native": "Vinchina",
       "type": "adm2",

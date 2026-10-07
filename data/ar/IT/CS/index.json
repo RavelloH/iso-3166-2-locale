@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135265,
-      "name": "أكوافورموزا",
+      "name": "أكوافورموسا",
       "name_default": "Acquaformosa",
       "native": "Acquaformosa",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 136673,
-      "name": "كامبورا سان جيوفاني",
+      "name": "كامبورا سان جوفاني",
       "name_default": "Campora San Giovanni",
       "native": "Campora San Giovanni",
       "type": "city",
@@ -599,7 +599,7 @@
       "id": 136749,
       "name": "كانتينيلا",
       "name_default": "Cantinella",
-      "native": "Cantinelella",
+      "native": "Cantinella",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -688,8 +688,8 @@
     {
       "id": 137095,
       "name": "كاسانو ألو إيونيو",
-      "name_default": "Cassano Allo Ionio",
-      "native": "Cassano Allo Ionio",
+      "name_default": "Cassano all'Ionio",
+      "native": "Cassano all'Ionio",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 137623,
-      "name": "سيترارو",
+      "name": "جيترارو",
       "name_default": "Cetraro",
       "native": "Cetraro",
       "type": "adm3",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 138078,
-      "name": "كوزنسا",
+      "name": "كُزنسة",
       "name_default": "Cosenza",
       "native": "Cosenza",
       "type": "adm2",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 138168,
-      "name": "روسيا",
+      "name": "كروسيا",
       "name_default": "Crosia",
       "native": "Crosia",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 138259,
-      "name": "الماس",
+      "name": "ديامانتي",
       "name_default": "Diamante",
       "native": "Diamante",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 138408,
-      "name": "فاجنانو كاستيلو",
+      "name": "فانيانو كاستيلو",
       "name_default": "Fagnano Castello",
       "native": "Fagnano Castello",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 138415,
-      "name": "فالكونارا ألبانيزي",
+      "name": "فالكونارا ألبانيز",
       "name_default": "Falconara Albanese",
       "native": "Falconara Albanese",
       "type": "adm3",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 139101,
-      "name": "جريمالدي",
+      "name": "غريمالدي",
       "name_default": "Grimaldi",
       "native": "Grimaldi",
       "type": "adm3",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 139104,
-      "name": "جريسوليا",
+      "name": "غريسوليا",
       "name_default": "Grisolia",
       "native": "Grisolia",
       "type": "adm3",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 139161,
-      "name": "الحرس البييمونتي",
+      "name": "غوارديا بيمونتيز",
       "name_default": "Guardia Piemontese",
       "native": "Guardia Piemontese",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 139333,
-      "name": "لاينو بورجو",
+      "name": "لاينو بورغو",
       "name_default": "Laino Borgo",
       "native": "Laino Borgo",
       "type": "adm3",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 139747,
-      "name": "مايرا",
+      "name": "ماييرا",
       "name_default": "Maierà",
       "native": "Maierà",
       "type": "adm3",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 139823,
-      "name": "مارانو مارشساتو",
+      "name": "مارانو مارشيساتو",
       "name_default": "Marano Marchesato",
       "native": "Marano Marchesato",
       "type": "adm3",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 139824,
-      "name": "مارانو برينسيباتو",
+      "name": "إمارة مارانو",
       "name_default": "Marano Principato",
       "native": "Marano Principato",
       "type": "adm3",
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 58302,
-      "name": "الوالدين",
+      "name": "Parenti",
       "name_default": "Parenti",
       "native": "Parenti",
       "type": "adm3",
@@ -2111,7 +2111,7 @@
       "id": 58372,
       "name": "بيداسي بيريتو",
       "name_default": "Pedace-Perito",
-      "native": "Pedace-perte",
+      "native": "Pedace-Perito",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 58520,
-      "name": "بياني كراتي",
+      "name": "بيان كراتي الإيطالية",
       "name_default": "Piane Crati",
       "native": "Piane Crati",
       "type": "adm3",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 58998,
-      "name": "شاطئ البحر",
+      "name": "برايا ماري",
       "name_default": "Praia a Mare",
       "native": "Praia a Mare",
       "type": "adm3",
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 59561,
-      "name": "روجليانو",
+      "name": "روليانو",
       "name_default": "Rogliano",
       "native": "Rogliano",
       "type": "adm3",
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 59632,
-      "name": "وَردَة",
+      "name": "Rose",
       "name_default": "Rose",
       "native": "Rose",
       "type": "adm3",
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 59829,
-      "name": "سان بينيديتو أولانو",
+      "name": "سان بنديكت أولانو",
       "name_default": "San Benedetto Ullano",
       "native": "San Benedetto Ullano",
       "type": "adm3",
@@ -2577,7 +2577,7 @@
     },
     {
       "id": 59954,
-      "name": "سان جورجيو ألبانيزي",
+      "name": "سان جيورجيو ألبانيز",
       "name_default": "San Giorgio Albanese",
       "native": "San Giorgio Albanese",
       "type": "adm3",
@@ -3065,7 +3065,7 @@
       "id": 60750,
       "name": "سيرا بيداسي",
       "name_default": "Serra Pedace",
-      "native": "SEAD PEDACE",
+      "native": "Serra Pedace",
       "type": "adm3",
       "level": null,
       "parent_id": null,

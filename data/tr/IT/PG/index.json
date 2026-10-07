@@ -75,7 +75,7 @@
     },
     {
       "id": 135898,
-      "name": "Piç",
+      "name": "Bastardo",
       "name_default": "Bastardo",
       "native": "Bastardo",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 135901,
-      "name": "Bastia gölgesi",
+      "name": "Bastia Umbra",
       "name_default": "Bastia Umbra",
       "native": "Bastia Umbra",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 136772,
-      "name": "Kaptan Loreto",
+      "name": "Capitan Loreto",
       "name_default": "Capitan Loreto",
       "native": "Capitano Loreto",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 136951,
-      "name": "Diavolo Evi",
+      "name": "Casa del Diavolo",
       "name_default": "Casa del Diavolo",
       "native": "Casa del Diavolo",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137683,
-      "name": "Chiugiana-La Commenda",
+      "name": "Chiugiana",
       "name_default": "Chiugiana-La Commenda",
       "native": "Chiugiana-La Commenda",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 137920,
-      "name": "Kolombella",
+      "name": "Colombella",
       "name_default": "Colombella",
       "native": "Colombella",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 141039,
-      "name": "Gatto Osteria",
+      "name": "Osteria del Gatto",
       "name_default": "Osteria del Gatto",
       "native": "Osteria del Gatto",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 141089,
-      "name": "Padule-San Marco",
+      "name": "Padule",
       "name_default": "Padule-San Marco",
       "native": "Padule-San Marco",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 58227,
-      "name": "Saray",
+      "name": "Palazzo",
       "name_default": "Palazzo",
       "native": "Palazzo",
       "type": "city",
@@ -1085,7 +1085,7 @@
       "id": 58283,
       "name": "Pantalla",
       "name_default": "Pantalla",
-      "native": "Schermo",
+      "native": "Pantalla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1157,7 +1157,7 @@
       "id": 58482,
       "name": "Petrignano",
       "name_default": "Petrignano",
-      "native": "PetFrannano",
+      "native": "Petrignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1229,7 +1229,7 @@
       "id": 58715,
       "name": "Pistrino",
       "name_default": "Pistrino",
-      "native": "Forno",
+      "native": "Pistrino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 58839,
-      "name": "Felcino Köprüsü",
+      "name": "Ponte Felcino",
       "name_default": "Ponte Felcino",
       "native": "Ponte Felcino",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 59042,
-      "name": "Önem",
+      "name": "Preci",
       "name_default": "Preci",
       "native": "Preci",
       "type": "adm3",
@@ -1355,7 +1355,7 @@
       "id": 59444,
       "name": "Rivotorto",
       "name_default": "Rivotorto",
-      "native": "Rivototo",
+      "native": "Rivotorto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 60090,
-      "name": "Campo'daki San Martino",
+      "name": "San Martino in Campo",
       "name_default": "San Martino in Campo",
       "native": "San Martino in Campo",
       "type": "city",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 60096,
-      "name": "Trignano'daki San Martino",
+      "name": "San Martino in Trignano",
       "name_default": "San Martino in Trignano",
       "native": "San Martino in Trignano",
       "type": "city",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 60133,
-      "name": "San Niccolò di Celle",
+      "name": "San Nicolò di Celle",
       "name_default": "San Niccolò di Celle",
       "native": "San Niccolò di Celle",
       "type": "city",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 60641,
-      "name": "Şeggia",
+      "name": "Scheggia",
       "name_default": "Scheggia",
       "native": "Scheggia",
       "type": "adm3",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 60845,
-      "name": "Mühür",
+      "name": "Sigillo",
       "name_default": "Sigillo",
       "native": "Sigillo",
       "type": "adm3",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 60995,
-      "name": "Büyü",
+      "name": "Spello",
       "name_default": "Spello",
       "native": "Spello",
       "type": "adm3",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 61056,
-      "name": "Padule İstasyonu",
+      "name": "Stazione di Padule",
       "name_default": "Stazione di Padule",
       "native": "Stazione di Padule",
       "type": "city",
@@ -1857,9 +1857,9 @@
     },
     {
       "id": 61898,
-      "name": "Lippia Yolu",
+      "name": "Via Lippia",
       "name_default": "Via Lippia",
-      "native": "Via Lia Cudi",
+      "native": "Via Lippia",
       "type": "city",
       "level": null,
       "parent_id": null,

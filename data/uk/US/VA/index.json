@@ -289,7 +289,7 @@
     },
     {
       "id": 111050,
-      "name": "Адволф",
+      "name": "Едвулф",
       "name_default": "Adwolf",
       "native": "Adwolf",
       "type": "city",
@@ -327,7 +327,7 @@
       "id": 111238,
       "name": "Альтавіста",
       "name_default": "Altavista",
-      "native": "Speaker",
+      "native": "Altavista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -343,7 +343,7 @@
     },
     {
       "id": 111270,
-      "name": "Будинок суду Амелії",
+      "name": "Емілія-Кортгаус",
       "name_default": "Amelia Court House",
       "native": "Amelia Court House",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 111281,
-      "name": "Амхерст",
+      "name": "Емгерст",
       "name_default": "Amherst",
       "native": "Amherst",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 111390,
-      "name": "Аппалачі",
+      "name": "Аппалачія",
       "name_default": "Appalachia",
       "native": "Appalachia",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 111392,
-      "name": "Озеро Еппл-Маунтін",
+      "name": "Apple Mountain Lake",
       "name_default": "Apple Mountain Lake",
       "native": "Apple Mountain Lake",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 111406,
-      "name": "Харбор Аквія",
+      "name": "Аквія-Гарбор",
       "name_default": "Aquia Harbour",
       "native": "Aquia Harbour",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 111514,
-      "name": "Ашберн",
+      "name": "Ешберн",
       "name_default": "Ashburn",
       "native": "Ashburn",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 111532,
-      "name": "Ашленд",
+      "name": "Ешленд",
       "name_default": "Ashland",
       "native": "Ashland",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 112085,
-      "name": "Белль-Хейвен",
+      "name": "Бель-Гейвен",
       "name_default": "Belle Haven",
       "native": "Belle Haven",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 112137,
-      "name": "Бельмонт",
+      "name": "Белмонт",
       "name_default": "Belmont",
       "native": "Belmont",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 112144,
-      "name": "Белмонт Естейтс",
+      "name": "Белмонт-Естейтс",
       "name_default": "Belmont Estates",
       "native": "Belmont Estates",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 112337,
-      "name": "Велика Кам'яна Розрив",
+      "name": "Біг-Стоун-Геп",
       "name_default": "Big Stone Gap",
       "native": "Big Stone Gap",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 112420,
-      "name": "Прямо",
+      "name": "Бланд",
       "name_default": "Bland",
       "native": "Bland",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 112476,
-      "name": "Блу-Рідж",
+      "name": "Блу-Ридж",
       "name_default": "Blue Ridge",
       "native": "Blue Ridge",
       "type": "city",
@@ -847,9 +847,9 @@
     },
     {
       "id": 112526,
-      "name": "Бон Ейр",
+      "name": "Бон-Ейр",
       "name_default": "Bon Air",
-      "native": "Good air",
+      "native": "Bon Air",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -865,7 +865,7 @@
     },
     {
       "id": 112593,
-      "name": "Куточок Босвелла",
+      "name": "Бозвеллс-Корнер",
       "name_default": "Boswell's Corner",
       "native": "Boswell's Corner",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 112683,
-      "name": "Брамблтон",
+      "name": "Брамбелтон",
       "name_default": "Brambleton",
       "native": "Brambleton",
       "type": "city",
@@ -973,7 +973,7 @@
     },
     {
       "id": 112774,
-      "name": "Бріджуотер",
+      "name": "Бриджвотер",
       "name_default": "Bridgewater",
       "native": "Bridgewater",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 112804,
-      "name": "Брістоль",
+      "name": "Бристоль",
       "name_default": "Bristol",
       "native": "Bristol",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 112980,
-      "name": "Бакхолл",
+      "name": "Бакголл",
       "name_default": "Buckhall",
       "native": "Buckhall",
       "type": "city",
@@ -1135,9 +1135,9 @@
     },
     {
       "id": 113001,
-      "name": "Буена-Віста",
+      "name": "Б'юна-Віста",
       "name_default": "Buena Vista",
-      "native": "Good view",
+      "native": "Buena Vista",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 113027,
-      "name": "Маунтін Естейтс Булл-Ран",
+      "name": "Булл-Ран-Маунтен-Естейтс",
       "name_default": "Bull Run Mountain Estates",
       "native": "Bull Run Mountain Estates",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 113365,
-      "name": "Кейп-Чарльз",
+      "name": "Кейп-Чарлз",
       "name_default": "Cape Charles",
       "native": "Cape Charles",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 113379,
-      "name": "Капітанська бухта",
+      "name": "Каптен-Коув",
       "name_default": "Captains Cove",
       "native": "Captains Cove",
       "type": "city",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 113469,
-      "name": "Керролтон",
+      "name": "Карроллтон",
       "name_default": "Carrollton",
       "native": "Carrollton",
       "type": "city",
@@ -1297,7 +1297,7 @@
     },
     {
       "id": 113588,
-      "name": "Печерне джерело",
+      "name": "Кейв-Спрінг",
       "name_default": "Cave Spring",
       "native": "Cave Spring",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 113674,
-      "name": "Центральний гараж",
+      "name": "Сентрал-Герадж",
       "name_default": "Central Garage",
       "native": "Central Garage",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 113695,
-      "name": "Центрвілл",
+      "name": "Сентервілл",
       "name_default": "Centreville",
       "native": "Centreville",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 113738,
-      "name": "Шантійї",
+      "name": "Шантіллі",
       "name_default": "Chantilly",
       "native": "Chantilly",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 113755,
-      "name": "Чарльз-Сіті",
+      "name": "Чарлз-Сіті",
       "name_default": "Charles City",
       "native": "Charles City",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 113783,
-      "name": "Будинок суду Шарлотти",
+      "name": "Шарлотт-Корт-Гауз",
       "name_default": "Charlotte Court House",
       "native": "Charlotte Court House",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 113787,
-      "name": "Шарлоттсвілл",
+      "name": "Шарлотсвілл",
       "name_default": "Charlottesville",
       "native": "Charlottesville",
       "type": "city",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 113796,
-      "name": "Чатем",
+      "name": "Чатгем",
       "name_default": "Chatham",
       "native": "Chatham",
       "type": "city",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 113966,
-      "name": "Чінкотіг",
+      "name": "Шинкотіг",
       "name_default": "Chincoteague",
       "native": "Chincoteague",
       "type": "city",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 114052,
-      "name": "Місто Шарлоттсвілл",
+      "name": "City of Charlottesville",
       "name_default": "City of Charlottesville",
       "native": "City of Charlottesville",
       "type": "city",
@@ -1649,7 +1649,7 @@
       "latitude": "38.03265270",
       "longitude": "-78.47831750",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1657,7 +1657,7 @@
     },
     {
       "id": 114053,
-      "name": "Місто Чесапік",
+      "name": "City of Chesapeake",
       "name_default": "City of Chesapeake",
       "native": "City of Chesapeake",
       "type": "city",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 114054,
-      "name": "Місто Колоніал-Хайтс",
+      "name": "City of Colonial Heights",
       "name_default": "City of Colonial Heights",
       "native": "City of Colonial Heights",
       "type": "city",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": 114056,
-      "name": "Місто Данвілл",
+      "name": "City of Danville",
       "name_default": "City of Danville",
       "native": "City of Danville",
       "type": "city",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 114057,
-      "name": "Місто Емпорія",
+      "name": "City of Emporia",
       "name_default": "City of Emporia",
       "native": "City of Emporia",
       "type": "city",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 114058,
-      "name": "Місто Ферфакс",
+      "name": "City of Fairfax",
       "name_default": "City of Fairfax",
       "native": "City of Fairfax",
       "type": "city",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 114059,
-      "name": "Місто Фоллз-Черч",
+      "name": "City of Falls Church",
       "name_default": "City of Falls Church",
       "native": "City of Falls Church",
       "type": "city",
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 114061,
-      "name": "Місто Фредеріксбург",
+      "name": "City of Fredericksburg",
       "name_default": "City of Fredericksburg",
       "native": "City of Fredericksburg",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 114063,
-      "name": "Місто Гемптон",
+      "name": "City of Hampton",
       "name_default": "City of Hampton",
       "native": "City of Hampton",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 114065,
-      "name": "Місто Хоупвелл",
+      "name": "City of Hopewell",
       "name_default": "City of Hopewell",
       "native": "City of Hopewell",
       "type": "city",
@@ -1811,7 +1811,7 @@
       "latitude": "37.30591000",
       "longitude": "-77.28372280",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 114066,
-      "name": "Місто Лексінгтон",
+      "name": "City of Lexington",
       "name_default": "City of Lexington",
       "native": "City of Lexington",
       "type": "city",
@@ -1837,7 +1837,7 @@
     },
     {
       "id": 114068,
-      "name": "Місто Манассас",
+      "name": "City of Manassas",
       "name_default": "City of Manassas",
       "native": "City of Manassas",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 114072,
-      "name": "Місто Ньюпорт-Ньюс",
+      "name": "City of Newport News",
       "name_default": "City of Newport News",
       "native": "City of Newport News",
       "type": "city",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 114073,
-      "name": "Місто Норфолк",
+      "name": "City of Norfolk",
       "name_default": "City of Norfolk",
       "native": "City of Norfolk",
       "type": "city",
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 114077,
-      "name": "Місто Портсмут",
+      "name": "City of Portsmouth",
       "name_default": "City of Portsmouth",
       "native": "City of Portsmouth",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 114079,
-      "name": "Місто Річмонд",
+      "name": "City of Richmond",
       "name_default": "City of Richmond",
       "native": "City of Richmond",
       "type": "city",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 114080,
-      "name": "Місто Роанок",
+      "name": "City of Roanoke",
       "name_default": "City of Roanoke",
       "native": "City of Roanoke",
       "type": "city",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": 114082,
-      "name": "Місто Салем",
+      "name": "City of Salem",
       "name_default": "City of Salem",
       "native": "City of Salem",
       "type": "city",
@@ -1955,7 +1955,7 @@
       "latitude": "37.29193660",
       "longitude": "-80.05707730",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 114084,
-      "name": "Місто Стонтон",
+      "name": "City of Staunton",
       "name_default": "City of Staunton",
       "native": "City of Staunton",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 114085,
-      "name": "Місто Саффолк",
+      "name": "City of Suffolk",
       "name_default": "City of Suffolk",
       "native": "City of Suffolk",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 114086,
-      "name": "Місто Вірджинія-Біч",
+      "name": "City of Virginia Beach",
       "name_default": "City of Virginia Beach",
       "native": "City of Virginia Beach",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 114088,
-      "name": "Місто Вільямсбург",
+      "name": "City of Williamsburg",
       "name_default": "City of Williamsburg",
       "native": "City of Williamsburg",
       "type": "city",
@@ -2027,7 +2027,7 @@
       "latitude": "37.27521850",
       "longitude": "-76.70864080",
       "timezone": "America/New_York",
-      "wikiDataId": "Q13188841",
+      "wikiDataId": null,
       "country_code": "US",
       "state_code": "VA",
       "state_id": 1427,
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 114310,
-      "name": "Кловердейл",
+      "name": "Клоувердейл",
       "name_default": "Cloverdale",
       "native": "Cloverdale",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 114447,
-      "name": "Колоніальний пляж",
+      "name": "Колонія-Біч",
       "name_default": "Colonial Beach",
       "native": "Colonial Beach",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 114449,
-      "name": "Колоніал-Хайтс",
+      "name": "Колоніал-Гайтс",
       "name_default": "Colonial Heights",
       "native": "Colonial Heights",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 114725,
-      "name": "Сільська місцевість",
+      "name": "КантріСайд",
       "name_default": "Countryside",
       "native": "Countryside",
       "type": "city",
@@ -2289,7 +2289,7 @@
       "id": 114820,
       "name": "Кримора",
       "name_default": "Crimora",
-      "native": "Cranny",
+      "native": "Crimora",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": 114871,
-      "name": "Крозе",
+      "name": "Крозет",
       "name_default": "Crozet",
       "native": "Crozet",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 114970,
-      "name": "Дальгрен",
+      "name": "Далгрен",
       "name_default": "Dahlgren",
       "native": "Dahlgren",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 115039,
-      "name": "Денвілл",
+      "name": "Данвілл",
       "name_default": "Danville",
       "native": "Danville",
       "type": "city",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": 115228,
-      "name": "Дельтавіль",
+      "name": "Делтавілл",
       "name_default": "Deltaville",
       "native": "Deltaville",
       "type": "city",
@@ -2485,7 +2485,7 @@
     },
     {
       "id": 115405,
-      "name": "Приречення",
+      "name": "Думс",
       "name_default": "Dooms",
       "native": "Dooms",
       "type": "city",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": 115549,
-      "name": "Данн Лорінг",
+      "name": "Данн-Лорінг",
       "name_default": "Dunn Loring",
       "native": "Dunn Loring",
       "type": "city",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 115690,
-      "name": "Іст-Хайленд-Парк",
+      "name": "Іст-Гайленд-Парк",
       "name_default": "East Highland Park",
       "native": "East Highland Park",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 115871,
-      "name": "Единбург",
+      "name": "Едінбург",
       "name_default": "Edinburg",
       "native": "Edinburg",
       "type": "city",
@@ -2775,7 +2775,7 @@
       "id": 116145,
       "name": "Енон",
       "name_default": "Enon",
-      "native": "Uncle",
+      "native": "Enon",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 116308,
-      "name": "Станція Ферфакс",
+      "name": "Ферфакс-Стейшен",
       "name_default": "Fairfax Station",
       "native": "Fairfax Station",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 116330,
-      "name": "Фейрлон",
+      "name": "Ферлон",
       "name_default": "Fairlawn",
       "native": "Fairlawn",
       "type": "city",
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 116380,
-      "name": "Фоллс-Черч",
+      "name": "Фолс-Черч",
       "name_default": "Falls Church",
       "native": "Falls Church",
       "type": "city",
@@ -2935,9 +2935,9 @@
     },
     {
       "id": 116497,
-      "name": "Ферум",
+      "name": "Феррем",
       "name_default": "Ferrum",
-      "native": "Iron",
+      "native": "Ferrum",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2989,7 +2989,7 @@
     },
     {
       "id": 116596,
-      "name": "Флоріс",
+      "name": "Флорис",
       "name_default": "Floris",
       "native": "Floris",
       "type": "city",
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 116644,
-      "name": "Ліс",
+      "name": "Форест",
       "name_default": "Forest",
       "native": "Forest",
       "type": "city",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": 116718,
-      "name": "Форт Хант",
+      "name": "Форт-Гант",
       "name_default": "Fort Hunt",
       "native": "Fort Hunt",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 116960,
-      "name": "Фронт Роял",
+      "name": "Фронт-Роял",
       "name_default": "Front Royal",
       "native": "Front Royal",
       "type": "city",
@@ -3187,9 +3187,9 @@
     },
     {
       "id": 117020,
-      "name": "Галакс",
+      "name": "Гейлакс",
       "name_default": "Galax",
-      "native": "Galaxy",
+      "native": "Galax",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3225,7 +3225,7 @@
       "id": 117232,
       "name": "Глейд-Спрінг",
       "name_default": "Glade Spring",
-      "native": "Happy jumps",
+      "native": "Glade Spring",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 117259,
-      "name": "Глен Аллен",
+      "name": "Глен-Аллен",
       "name_default": "Glen Allen",
       "native": "Glen Allen",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 117326,
-      "name": "Будівля суду Глостера",
+      "name": "Глостер-Кортгауз",
       "name_default": "Gloucester Courthouse",
       "native": "Gloucester Courthouse",
       "type": "city",
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 117617,
-      "name": "Грінбрайар",
+      "name": "Грінбраєр",
       "name_default": "Greenbriar",
       "native": "Greenbriar",
       "type": "city",
@@ -3403,7 +3403,7 @@
     },
     {
       "id": 117753,
-      "name": "Гроти",
+      "name": "Гроттос",
       "name_default": "Grottoes",
       "native": "Grottoes",
       "type": "city",
@@ -3475,7 +3475,7 @@
     },
     {
       "id": 117919,
-      "name": "Гемпден, Сідней",
+      "name": "Гемпден Сідней",
       "name_default": "Hampden Sydney",
       "native": "Hampden Sydney",
       "type": "city",
@@ -3511,7 +3511,7 @@
     },
     {
       "id": 117969,
-      "name": "Ганновер",
+      "name": "Гановер",
       "name_default": "Hanover",
       "native": "Hanover",
       "type": "city",
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 118070,
-      "name": "Гаррісонбург",
+      "name": "Гарісонбург",
       "name_default": "Harrisonburg",
       "native": "Harrisonburg",
       "type": "city",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": 118187,
-      "name": "Хеймаркет",
+      "name": "Геймаркет",
       "name_default": "Haymarket",
       "native": "Haymarket",
       "type": "city",
@@ -3583,7 +3583,7 @@
     },
     {
       "id": 118225,
-      "name": "Хітсвілл",
+      "name": "Гітсвілл",
       "name_default": "Heathsville",
       "native": "Heathsville",
       "type": "city",
@@ -3601,7 +3601,7 @@
     },
     {
       "id": 118306,
-      "name": "Генрі Форк",
+      "name": "Генрі-Форк",
       "name_default": "Henry Fork",
       "native": "Henry Fork",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 118415,
-      "name": "Хайленд-Спрінгс",
+      "name": "Гайленд-Спрінгс",
       "name_default": "Highland Springs",
       "native": "Highland Springs",
       "type": "city",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": 118564,
-      "name": "Холлімід",
+      "name": "Голлімід",
       "name_default": "Hollymead",
       "native": "Hollymead",
       "type": "city",
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 118612,
-      "name": "Хонакер",
+      "name": "Гонакер",
       "name_default": "Honaker",
       "native": "Honaker",
       "type": "city",
@@ -3727,7 +3727,7 @@
     },
     {
       "id": 118649,
-      "name": "Хоупвелл",
+      "name": "Гопвел",
       "name_default": "Hopewell",
       "native": "Hopewell",
       "type": "city",
@@ -3745,7 +3745,7 @@
     },
     {
       "id": 118671,
-      "name": "Пасовище для коней",
+      "name": "Горспасче",
       "name_default": "Horse Pasture",
       "native": "Horse Pasture",
       "type": "city",
@@ -3781,7 +3781,7 @@
     },
     {
       "id": 118832,
-      "name": "Біль",
+      "name": "Герт",
       "name_default": "Hurt",
       "native": "Hurt",
       "type": "city",
@@ -3799,9 +3799,9 @@
     },
     {
       "id": 118845,
-      "name": "Долина Гібла",
+      "name": "Гайбла-Веллі",
       "name_default": "Hybla Valley",
-      "native": "Hybela Val",
+      "native": "Hybla Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3817,7 +3817,7 @@
     },
     {
       "id": 118876,
-      "name": "Іділвуд",
+      "name": "Айділвуд",
       "name_default": "Idylwood",
       "native": "Idylwood",
       "type": "city",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 118894,
-      "name": "Незалежність",
+      "name": "Індепенденс",
       "name_default": "Independence",
       "native": "Independence",
       "type": "city",
@@ -3943,7 +3943,7 @@
     },
     {
       "id": 119443,
-      "name": "Кенбрідж",
+      "name": "Кенбридж",
       "name_default": "Kenbridge",
       "native": "Kenbridge",
       "type": "city",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": 119589,
-      "name": "Будинок суду короля та королеви",
+      "name": "Кінг-енд-Квін-Корт-Гауз",
       "name_default": "King and Queen Court House",
       "native": "King and Queen Court House",
       "type": "city",
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 119584,
-      "name": "Король Георг",
+      "name": "Кінг-Джордж",
       "name_default": "King George",
       "native": "King George",
       "type": "city",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": 119586,
-      "name": "Король Вільгельм",
+      "name": "Кінг-Вільям",
       "name_default": "King William",
       "native": "King William",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 119604,
-      "name": "Кінгз Парк",
+      "name": "Кінгс-Парк",
       "name_default": "Kings Park",
       "native": "Kings Park",
       "type": "city",
@@ -4051,7 +4051,7 @@
     },
     {
       "id": 119606,
-      "name": "Кінгс Парк Вест",
+      "name": "Кінгс-Парк-Вест",
       "name_default": "Kings Park West",
       "native": "Kings Park West",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 119868,
-      "name": "Озеро Баркрофт",
+      "name": "Лейк-Баркрофт",
       "name_default": "Lake Barcroft",
       "native": "Lake Barcroft",
       "type": "city",
@@ -4087,7 +4087,7 @@
     },
     {
       "id": 119947,
-      "name": "Озеро Монтічелло",
+      "name": "Лейк-Монтіселло",
       "name_default": "Lake Monticello",
       "native": "Lake Monticello",
       "type": "city",
@@ -4105,7 +4105,7 @@
     },
     {
       "id": 119968,
-      "name": "Лейк-Рідж",
+      "name": "Лейк-Ридж",
       "name_default": "Lake Ridge",
       "native": "Lake Ridge",
       "type": "city",
@@ -4195,7 +4195,7 @@
     },
     {
       "id": 120245,
-      "name": "Лоуренсвілл",
+      "name": "Лоренсвілл",
       "name_default": "Lawrenceville",
       "native": "Lawrenceville",
       "type": "city",
@@ -4213,7 +4213,7 @@
     },
     {
       "id": 120253,
-      "name": "Леймантаун",
+      "name": "Лейментаун",
       "name_default": "Laymantown",
       "native": "Laymantown",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 120288,
-      "name": "Ліван",
+      "name": "Лебанон",
       "name_default": "Lebanon",
       "native": "Lebanon",
       "type": "city",
@@ -4303,7 +4303,7 @@
     },
     {
       "id": 120591,
-      "name": "Лінтон Холл",
+      "name": "Лінтон-Голл",
       "name_default": "Linton Hall",
       "native": "Linton Hall",
       "type": "city",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": 120802,
-      "name": "Лаудон Веллі Естейтс",
+      "name": "Лаудон-Веллі",
       "name_default": "Loudoun Valley Estates",
       "native": "Loudoun Valley Estates",
       "type": "city",
@@ -4393,7 +4393,7 @@
     },
     {
       "id": 120827,
-      "name": "Ловеттсвілл",
+      "name": "Лаветтсвілл",
       "name_default": "Lovettsville",
       "native": "Lovettsville",
       "type": "city",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": 120830,
-      "name": "Ловінгстон",
+      "name": "Лавінгстон",
       "name_default": "Lovingston",
       "native": "Lovingston",
       "type": "city",
@@ -4429,7 +4429,7 @@
     },
     {
       "id": 120844,
-      "name": "Острів Лоус",
+      "name": "Лоус-Айленд",
       "name_default": "Lowes Island",
       "native": "Lowes Island",
       "type": "city",
@@ -4447,7 +4447,7 @@
     },
     {
       "id": 120886,
-      "name": "Луненбург",
+      "name": "Люненбург",
       "name_default": "Lunenburg",
       "native": "Lunenburg",
       "type": "city",
@@ -4465,9 +4465,9 @@
     },
     {
       "id": 120890,
-      "name": "Лурей",
+      "name": "Люрей",
       "name_default": "Luray",
-      "native": "Guardians",
+      "native": "Luray",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4483,7 +4483,7 @@
     },
     {
       "id": 120916,
-      "name": "Лінчбург",
+      "name": "Лінчберг",
       "name_default": "Lynchburg",
       "native": "Lynchburg",
       "type": "city",
@@ -4537,7 +4537,7 @@
     },
     {
       "id": 121020,
-      "name": "Медісон-Хайтс",
+      "name": "Медісон-Гайтс",
       "name_default": "Madison Heights",
       "native": "Madison Heights",
       "type": "city",
@@ -4573,7 +4573,7 @@
     },
     {
       "id": 121083,
-      "name": "Парк Манассас",
+      "name": "Манассас-Парк",
       "name_default": "Manassas Park",
       "native": "Manassas Park",
       "type": "city",
@@ -4591,7 +4591,7 @@
     },
     {
       "id": 121160,
-      "name": "Мантуя",
+      "name": "Маневей",
       "name_default": "Mantua",
       "native": "Mantua",
       "type": "city",
@@ -4609,7 +4609,7 @@
     },
     {
       "id": 121241,
-      "name": "Меріон",
+      "name": "Маріон",
       "name_default": "Marion",
       "native": "Marion",
       "type": "city",
@@ -4681,9 +4681,9 @@
     },
     {
       "id": 121390,
-      "name": "Массануттен",
+      "name": "Массанаттен",
       "name_default": "Massanutten",
-      "native": "Mass out",
+      "native": "Massanutten",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4735,7 +4735,7 @@
     },
     {
       "id": 121527,
-      "name": "Маклін",
+      "name": "Маклейн",
       "name_default": "McLean",
       "native": "McLean",
       "type": "city",
@@ -4753,7 +4753,7 @@
     },
     {
       "id": 121566,
-      "name": "Медоубрук",
+      "name": "Медовбрук",
       "name_default": "Meadowbrook",
       "native": "Meadowbrook",
       "type": "city",
@@ -4771,7 +4771,7 @@
     },
     {
       "id": 121583,
-      "name": "Механіксвілл",
+      "name": "Меканіксвілл",
       "name_default": "Mechanicsville",
       "native": "Mechanicsville",
       "type": "city",
@@ -4861,7 +4861,7 @@
     },
     {
       "id": 122105,
-      "name": "Монклер",
+      "name": "Монтклер",
       "name_default": "Montclair",
       "native": "Montclair",
       "type": "city",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 122346,
-      "name": "Гора Хермон",
+      "name": "Маунт-Гермон",
       "name_default": "Mount Hermon",
       "native": "Mount Hermon",
       "type": "city",
@@ -4969,7 +4969,7 @@
     },
     {
       "id": 122357,
-      "name": "Маунт Джексон",
+      "name": "Маунт-Джексон",
       "name_default": "Mount Jackson",
       "native": "Mount Jackson",
       "type": "city",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": 122426,
-      "name": "Гірська дорога",
+      "name": "Маунтін-Роуд",
       "name_default": "Mountain Road",
       "native": "Mountain Road",
       "type": "city",
@@ -5023,7 +5023,7 @@
     },
     {
       "id": 122566,
-      "name": "Звужується",
+      "name": "Нерроус",
       "name_default": "Narrows",
       "native": "Narrows",
       "type": "city",
@@ -5059,7 +5059,7 @@
     },
     {
       "id": 122659,
-      "name": "Новий Балтимор",
+      "name": "Нью-Балтимор",
       "name_default": "New Baltimore",
       "native": "New Baltimore",
       "type": "city",
@@ -5077,7 +5077,7 @@
     },
     {
       "id": 122686,
-      "name": "Новий замок",
+      "name": "Нью-Касл",
       "name_default": "New Castle",
       "native": "New Castle",
       "type": "city",
@@ -5095,7 +5095,7 @@
     },
     {
       "id": 122734,
-      "name": "Новий Кент",
+      "name": "Нью-Кент",
       "name_default": "New Kent",
       "native": "New Kent",
       "type": "city",
@@ -5113,7 +5113,7 @@
     },
     {
       "id": 122751,
-      "name": "Новий ринок",
+      "name": "Нью-Маркет",
       "name_default": "New Market",
       "native": "New Market",
       "type": "city",
@@ -5131,7 +5131,7 @@
     },
     {
       "id": 122830,
-      "name": "Ньюінгтон",
+      "name": "Ньюїнгтон",
       "name_default": "Newington",
       "native": "Newington",
       "type": "city",
@@ -5203,7 +5203,7 @@
     },
     {
       "id": 123105,
-      "name": "Північний берег",
+      "name": "Норт-Шор",
       "name_default": "North Shore",
       "native": "North Shore",
       "type": "city",
@@ -5295,7 +5295,7 @@
       "id": 123305,
       "name": "Оуктон",
       "name_default": "Oakton",
-      "native": "Oak",
+      "native": "Oakton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5311,7 +5311,7 @@
     },
     {
       "id": 123322,
-      "name": "Оккокуан",
+      "name": "Оккоукван",
       "name_default": "Occoquan",
       "native": "Occoquan",
       "type": "city",
@@ -5347,7 +5347,7 @@
     },
     {
       "id": 123506,
-      "name": "Помаранчевий",
+      "name": "Орандж",
       "name_default": "Orange",
       "native": "Orange",
       "type": "city",
@@ -5437,7 +5437,7 @@
     },
     {
       "id": 123913,
-      "name": "Патрік Спрінгс",
+      "name": "Патрік-Спрінгс",
       "name_default": "Patrick Springs",
       "native": "Patrick Springs",
       "type": "city",
@@ -5509,7 +5509,7 @@
     },
     {
       "id": 124105,
-      "name": "Петербург",
+      "name": "Пітерсбург",
       "name_default": "Petersburg",
       "native": "Petersburg",
       "type": "city",
@@ -5527,7 +5527,7 @@
     },
     {
       "id": 124205,
-      "name": "Пімміт-Гіллз",
+      "name": "Пімміт-Гіллс",
       "name_default": "Pimmit Hills",
       "native": "Pimmit Hills",
       "type": "city",
@@ -5563,7 +5563,7 @@
     },
     {
       "id": 124489,
-      "name": "Покуосон",
+      "name": "Покосон",
       "name_default": "Poquoson",
       "native": "Poquoson",
       "type": "city",
@@ -5653,7 +5653,7 @@
     },
     {
       "id": 124665,
-      "name": "Цінова вилка",
+      "name": "Прайсес-Форк",
       "name_default": "Prices Fork",
       "native": "Prices Fork",
       "type": "city",
@@ -5671,7 +5671,7 @@
     },
     {
       "id": 124674,
-      "name": "Принц Джордж",
+      "name": "Принс-Джордж",
       "name_default": "Prince George",
       "native": "Prince George",
       "type": "city",
@@ -5725,7 +5725,7 @@
     },
     {
       "id": 124780,
-      "name": "Станція Квантіко",
+      "name": "Квантіко",
       "name_default": "Quantico Station",
       "native": "Quantico Station",
       "type": "city",
@@ -5743,7 +5743,7 @@
     },
     {
       "id": 124816,
-      "name": "Редфорд",
+      "name": "Радфорд",
       "name_default": "Radford",
       "native": "Radford",
       "type": "city",
@@ -5761,7 +5761,7 @@
     },
     {
       "id": 124904,
-      "name": "Ворон",
+      "name": "Рейвен",
       "name_default": "Raven",
       "native": "Raven",
       "type": "city",
@@ -5815,7 +5815,7 @@
     },
     {
       "id": 125082,
-      "name": "Річлендс",
+      "name": "Ричлендс",
       "name_default": "Richlands",
       "native": "Richlands",
       "type": "city",
@@ -5833,7 +5833,7 @@
     },
     {
       "id": 125088,
-      "name": "Річмонд",
+      "name": "Ричмонд",
       "name_default": "Richmond",
       "native": "Richmond",
       "type": "city",
@@ -5869,7 +5869,7 @@
     },
     {
       "id": 125336,
-      "name": "Скеляста гора",
+      "name": "Рокі-Маунт",
       "name_default": "Rocky Mount",
       "native": "Rocky Mount",
       "type": "city",
@@ -5887,7 +5887,7 @@
     },
     {
       "id": 125405,
-      "name": "Роуз Гілл",
+      "name": "Роуз-Гілл",
       "name_default": "Rose Hill",
       "native": "Rose Hill",
       "type": "city",
@@ -5941,7 +5941,7 @@
     },
     {
       "id": 125518,
-      "name": "Сільський відпочинок",
+      "name": "Рурал-Ретріт",
       "name_default": "Rural Retreat",
       "native": "Rural Retreat",
       "type": "city",
@@ -5961,7 +5961,7 @@
       "id": 125524,
       "name": "Рашмір",
       "name_default": "Rushmere",
-      "native": "Ruting",
+      "native": "Rushmere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5977,7 +5977,7 @@
     },
     {
       "id": 125546,
-      "name": "Рустбург",
+      "name": "Растбург",
       "name_default": "Rustburg",
       "native": "Rustburg",
       "type": "city",
@@ -5995,7 +5995,7 @@
     },
     {
       "id": 125734,
-      "name": "Салем",
+      "name": "Сейлем",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -6033,7 +6033,7 @@
       "id": 125773,
       "name": "Салуда",
       "name_default": "Saluda",
-      "native": "Greet",
+      "native": "Saluda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6049,7 +6049,7 @@
     },
     {
       "id": 125873,
-      "name": "Сендстон",
+      "name": "Сандстон",
       "name_default": "Sandston",
       "native": "Sandston",
       "type": "city",
@@ -6067,7 +6067,7 @@
     },
     {
       "id": 126171,
-      "name": "Сім кутів",
+      "name": "Севен-Корнерс",
       "name_default": "Seven Corners",
       "native": "Seven Corners",
       "type": "city",
@@ -6085,7 +6085,7 @@
     },
     {
       "id": 126252,
-      "name": "Земля Шоні",
+      "name": "Шоні-Ленд",
       "name_default": "Shawnee Land",
       "native": "Shawnee Land",
       "type": "city",
@@ -6139,7 +6139,7 @@
     },
     {
       "id": 126306,
-      "name": "Ферми Шенандоа",
+      "name": "Шенандоа-Фармс",
       "name_default": "Shenandoah Farms",
       "native": "Shenandoah Farms",
       "type": "city",
@@ -6157,7 +6157,7 @@
     },
     {
       "id": 126377,
-      "name": "Короткий насос",
+      "name": "Шорт-Памп",
       "name_default": "Short Pump",
       "native": "Short Pump",
       "type": "city",
@@ -6193,7 +6193,7 @@
     },
     {
       "id": 126628,
-      "name": "Південний Бостон",
+      "name": "Саут-Бостон",
       "name_default": "South Boston",
       "native": "South Boston",
       "type": "city",
@@ -6229,7 +6229,7 @@
     },
     {
       "id": 126716,
-      "name": "Південна їзда",
+      "name": "Саут-Райдінг",
       "name_default": "South Riding",
       "native": "South Riding",
       "type": "city",
@@ -6247,7 +6247,7 @@
     },
     {
       "id": 126731,
-      "name": "Південний Саффолк",
+      "name": "South Suffolk",
       "name_default": "South Suffolk",
       "native": "South Suffolk",
       "type": "city",
@@ -6265,7 +6265,7 @@
     },
     {
       "id": 126767,
-      "name": "Південні ворота",
+      "name": "Саутерн-Гейтвей",
       "name_default": "Southern Gateway",
       "native": "Southern Gateway",
       "type": "city",
@@ -6283,7 +6283,7 @@
     },
     {
       "id": 126848,
-      "name": "Будівля суду Спотсільванії",
+      "name": "Спотсільванія",
       "name_default": "Spotsylvania Courthouse",
       "native": "Spotsylvania Courthouse",
       "type": "city",
@@ -6499,7 +6499,7 @@
     },
     {
       "id": 127145,
-      "name": "Драфт Стюартів",
+      "name": "Стюартс-Драфт",
       "name_default": "Stuarts Draft",
       "native": "Stuarts Draft",
       "type": "city",
@@ -6553,7 +6553,7 @@
     },
     {
       "id": 127175,
-      "name": "Шугарлендський забіг",
+      "name": "Шугарленд-Ран",
       "name_default": "Sugarland Run",
       "native": "Sugarland Run",
       "type": "city",
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 127292,
-      "name": "Суррі",
+      "name": "Саррі",
       "name_default": "Surry",
       "native": "Surry",
       "type": "city",
@@ -6607,9 +6607,9 @@
     },
     {
       "id": 127425,
-      "name": "Таппаханнок",
+      "name": "Таппаганнок",
       "name_default": "Tappahannock",
-      "native": "Tapahannock",
+      "native": "Tappahannock",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6679,7 +6679,7 @@
     },
     {
       "id": 127818,
-      "name": "Трикутник",
+      "name": "Траєнгл",
       "name_default": "Triangle",
       "native": "Triangle",
       "type": "city",
@@ -6697,7 +6697,7 @@
     },
     {
       "id": 127868,
-      "name": "Такахо",
+      "name": "Такего",
       "name_default": "Tuckahoe",
       "native": "Tuckahoe",
       "type": "city",
@@ -6715,7 +6715,7 @@
     },
     {
       "id": 127933,
-      "name": "Твін Лейкс",
+      "name": "Твін-Лейкс",
       "name_default": "Twin Lakes",
       "native": "Twin Lakes",
       "type": "city",
@@ -6733,9 +6733,9 @@
     },
     {
       "id": 127952,
-      "name": "Тайсонс Корнер",
+      "name": "Тайсонс",
       "name_default": "Tysons",
-      "native": "Tysons Corner",
+      "native": "Tysons",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6751,7 +6751,7 @@
     },
     {
       "id": 128006,
-      "name": "Юніон-Холл",
+      "name": "Юніон-Голл",
       "name_default": "Union Hall",
       "native": "Union Hall",
       "type": "city",
@@ -6769,7 +6769,7 @@
     },
     {
       "id": 128026,
-      "name": "Університетський центр",
+      "name": "Юніверсіті-Сентер",
       "name_default": "University Center",
       "native": "University Center",
       "type": "city",
@@ -6823,7 +6823,7 @@
     },
     {
       "id": 128234,
-      "name": "Відень",
+      "name": "В'єнна",
       "name_default": "Vienna",
       "native": "Vienna",
       "type": "city",
@@ -6877,7 +6877,7 @@
     },
     {
       "id": 128469,
-      "name": "Теплі джерела",
+      "name": "Ворм-Спрінгс",
       "name_default": "Warm Springs",
       "native": "Warm Springs",
       "type": "city",
@@ -6913,7 +6913,7 @@
     },
     {
       "id": 128518,
-      "name": "Варшава",
+      "name": "Ворсо",
       "name_default": "Warsaw",
       "native": "Warsaw",
       "type": "city",
@@ -7021,7 +7021,7 @@
     },
     {
       "id": 128867,
-      "name": "Церква Вест-Фоллз",
+      "name": "Вест-Фоллс-Черч",
       "name_default": "West Falls Church",
       "native": "West Falls Church",
       "type": "city",
@@ -7039,7 +7039,7 @@
     },
     {
       "id": 128877,
-      "name": "Західні ворота",
+      "name": "West Gate",
       "name_default": "West Gate",
       "native": "West Gate",
       "type": "city",
@@ -7111,7 +7111,7 @@
     },
     {
       "id": 129099,
-      "name": "Печера Вейєрс",
+      "name": "Веєрс-Кейв",
       "name_default": "Weyers Cave",
       "native": "Weyers cave",
       "type": "city",
@@ -7183,7 +7183,7 @@
     },
     {
       "id": 129459,
-      "name": "Мудрий",
+      "name": "Вайз",
       "name_default": "Wise",
       "native": "Wise",
       "type": "city",
@@ -7201,7 +7201,7 @@
     },
     {
       "id": 129474,
-      "name": "Вовча пастка",
+      "name": "Вулф-Трап",
       "name_default": "Wolf Trap",
       "native": "Wolf Trap",
       "type": "city",
@@ -7309,7 +7309,7 @@
     },
     {
       "id": 129630,
-      "name": "Віндхем",
+      "name": "Вайнгем",
       "name_default": "Wyndham",
       "native": "Wyndham",
       "type": "city",
@@ -7327,7 +7327,7 @@
     },
     {
       "id": 129645,
-      "name": "Вайтвілл",
+      "name": "Витвілл",
       "name_default": "Wytheville",
       "native": "Wytheville",
       "type": "city",

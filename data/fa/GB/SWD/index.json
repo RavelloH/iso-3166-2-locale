@@ -111,7 +111,7 @@
     },
     {
       "id": 48606,
-      "name": "بخش سویندون",
+      "name": "سویندون",
       "name_default": "Borough of Swindon",
       "native": "Borough of Swindon",
       "type": "area",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49939,
-      "name": "هایورث",
+      "name": "هایوورث",
       "name_default": "Highworth",
       "native": "Highworth",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50476,
-      "name": "مالمزبری",
+      "name": "مالمزبوری",
       "name_default": "Malmesbury",
       "native": "Malmesbury",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 51027,
-      "name": "رامسبری",
+      "name": "رمزبری",
       "name_default": "Ramsbury",
       "native": "Ramsbury",
       "type": "city",
@@ -254,26 +254,8 @@
       "country_id": 232
     },
     {
-      "id": 51132,
-      "name": "رویال ووتون باست",
-      "name_default": "Royal Wootton Bassett",
-      "native": "Royal Wootton Bassett",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13571,
-      "latitude": "51.54190000",
-      "longitude": "-1.90450000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q665001",
-      "country_code": "GB",
-      "state_code": "SWD",
-      "state_id": 2422,
-      "country_id": 232
-    },
-    {
       "id": 51518,
-      "name": "ساتون بنگر",
+      "name": "ساتن بنگر",
       "name_default": "Sutton Benger",
       "native": "Sutton Benger",
       "type": "city",
@@ -291,7 +273,7 @@
     },
     {
       "id": 51537,
-      "name": "سویندون",
+      "name": "سوئیندون",
       "name_default": "Swindon",
       "native": "Swindon",
       "type": "adm2",
@@ -309,7 +291,7 @@
     },
     {
       "id": 51743,
-      "name": "وانبورو",
+      "name": "وانبرو",
       "name_default": "Wanborough",
       "native": "Wanborough",
       "type": "adm3",
@@ -327,7 +309,7 @@
     },
     {
       "id": 52002,
-      "name": "وروتون",
+      "name": "روتن",
       "name_default": "Wroughton",
       "native": "Wroughton",
       "type": "city",

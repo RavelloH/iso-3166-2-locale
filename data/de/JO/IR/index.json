@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63144,
-      "name": "Ar Ramthā",
+      "name": "ar-Ramtha",
       "name_default": "Ar Ramthā",
       "native": "الرمثا",
       "type": "adm2",
@@ -103,7 +103,7 @@
       "latitude": "32.54304000",
       "longitude": "35.71756000",
       "timezone": "Asia/Amman",
-      "wikiDataId": "Q3299624",
+      "wikiDataId": null,
       "country_code": "JO",
       "state_code": "IR",
       "state_id": 960,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63167,
-      "name": "Kharja",
+      "name": "Kharjā",
       "name_default": "Kharjā",
       "native": "خرجا",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 63172,
-      "name": "Malkā",
+      "name": "Malka",
       "name_default": "Malkā",
       "native": "مالكا",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 63190,
-      "name": "Umm Qays",
+      "name": "Umm Qais",
       "name_default": "Umm Qays",
       "native": "أم قيس",
       "type": "city",

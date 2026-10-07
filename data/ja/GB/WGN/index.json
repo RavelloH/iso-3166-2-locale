@@ -93,7 +93,7 @@
     },
     {
       "id": 48265,
-      "name": "アップリー橋",
+      "name": "アップリー・ブリッジ",
       "name_default": "Appley Bridge",
       "native": "Appley Bridge",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48309,
-      "name": "アサートン",
+      "name": "アザ―トン",
       "name_default": "Atherton",
       "native": "Atherton",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 49100,
       "name": "コップル",
       "name_default": "Coppull",
-      "native": "COPLL",
+      "native": "Coppull",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 50047,
-      "name": "インス・イン・メイカーフィールド",
+      "name": "インス",
       "name_default": "Ince-in-Makerfield",
       "native": "Ince-in-Makerfield",
       "type": "city",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51320,
-      "name": "スケルマーズデール",
-      "name_default": "Skelmersdale",
-      "native": "Saccompan",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 38944,
-      "latitude": "53.55024000",
-      "longitude": "-2.77348000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q668237",
-      "country_code": "GB",
-      "state_code": "WGN",
-      "state_id": 2320,
-      "country_id": 232
-    },
-    {
       "id": 51685,
-      "name": "ティルデスリー",
+      "name": "タイルデスリー",
       "name_default": "Tyldesley",
       "native": "Tyldesley",
       "type": "city",

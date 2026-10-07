@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 106880,
+      "name": "Abadan",
+      "name_default": "Abadan",
+      "native": "Abadan",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 39481,
+      "latitude": "38.05415000",
+      "longitude": "58.19721000",
+      "timezone": "Asia/Ashgabat",
+      "wikiDataId": "Q304522",
+      "country_code": "TM",
+      "state_code": "S",
+      "state_id": 3371,
+      "country_id": 226
+    },
+    {
       "id": 106884,
       "name": "Achgabat",
       "name_default": "Ashgabat",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48670,
-      "name": "Brezhoneg",
+      "name": "Aberhonddu",
       "name_default": "Brecon",
       "native": "Brecon",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48756,
-      "name": "Sevel poulloù",
+      "name": "Llanfair-ym-Muallt",
       "name_default": "Builth Wells",
       "native": "Builth Wells",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 49158,
-      "name": "Crickhowell",
+      "name": "Crucywel",
       "name_default": "Crickhowell",
       "native": "Crickhowell",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49596,
-      "name": "Pevar Groaz",
+      "name": "Four Crosses",
       "name_default": "Four Crosses",
       "native": "Four Crosses",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49763,
-      "name": "Guilsfield",
+      "name": "Cegidfa",
       "name_default": "Guilsfield",
       "native": "Guilsfield",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49858,
-      "name": "Foenn",
+      "name": "Hay",
       "name_default": "Hay",
       "native": "Hay",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50219,
-      "name": "Knighton",
+      "name": "Tref-y-clawdd",
       "name_default": "Knighton",
       "native": "Knighton",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 50346,
-      "name": "Poulloù Llandrindod",
+      "name": "Llandrindod",
       "name_default": "Llandrindod Wells",
       "native": "Llandrindod Wells",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 50737,
-      "name": "Kêr-Nevez",
+      "name": "Y Drenewydd",
       "name_default": "Newtown",
       "native": "Newtown",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 50986,
-      "name": "Presteigne",
+      "name": "Llanandras",
       "name_default": "Presteigne",
       "native": "Presteigne",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 51066,
-      "name": "Rhayader",
+      "name": "Rhaeadr Gwy",
       "name_default": "Rhayader",
-      "native": "Wander",
+      "native": "Rhayader",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 51315,
-      "name": "Aotrou Powys",
+      "name": "Sir Powys",
       "name_default": "Sir Powys",
       "native": "Sir Powys",
       "type": "area",
@@ -383,7 +383,7 @@
       "id": 51550,
       "name": "Talgarth",
       "name_default": "Talgarth",
-      "native": "Tall",
+      "native": "Talgarth",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,7 +399,7 @@
     },
     {
       "id": 51794,
-      "name": "Welshpool",
+      "name": "Y Trallwng",
       "name_default": "Welshpool",
       "native": "Welshpool",
       "type": "city",

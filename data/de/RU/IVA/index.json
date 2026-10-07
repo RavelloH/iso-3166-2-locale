@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 97669,
-      "name": "Arkhipowka",
+      "name": "Arkhipovka",
       "name_default": "Arkhipovka",
       "native": "Архиповка",
       "type": "city",
@@ -250,7 +250,7 @@
     },
     {
       "id": 97972,
-      "name": "Bogorodskoje",
+      "name": "Bogorodskoye",
       "name_default": "Bogorodskoye",
       "native": "Богородское",
       "type": "city",
@@ -322,7 +322,7 @@
     },
     {
       "id": 98658,
-      "name": "Il’inskoye-Chovanskoye",
+      "name": "Il’inskoye-Khovanskoye",
       "name_default": "Il’inskoye-Khovanskoye",
       "native": "Ильинское-Хованское",
       "type": "adm2",
@@ -340,7 +340,7 @@
     },
     {
       "id": 98731,
-      "name": "Ivanovo",
+      "name": "Iwanowo",
       "name_default": "Ivanovo",
       "native": "Иваново",
       "type": "adm1",
@@ -394,7 +394,7 @@
     },
     {
       "id": 98826,
-      "name": "Kaminski",
+      "name": "Kaminskiy",
       "name_default": "Kaminskiy",
       "native": "Каминский",
       "type": "city",
@@ -502,7 +502,7 @@
     },
     {
       "id": 99172,
-      "name": "Komsomolsk",
+      "name": "Komsomol’sk",
       "name_default": "Komsomol’sk",
       "native": "Комсомольск",
       "type": "adm2",
@@ -538,7 +538,7 @@
     },
     {
       "id": 99506,
-      "name": "Kusnetschicha",
+      "name": "Kuznechikha",
       "name_default": "Kuznechikha",
       "native": "Кузнечиха",
       "type": "city",
@@ -592,7 +592,7 @@
     },
     {
       "id": 99683,
-      "name": "Lukh",
+      "name": "Luch",
       "name_default": "Lukh",
       "native": "Лух",
       "type": "adm2",
@@ -646,7 +646,7 @@
     },
     {
       "id": 100073,
-      "name": "Navoloki",
+      "name": "Nawoloki",
       "name_default": "Navoloki",
       "native": "Наволоки",
       "type": "city",
@@ -682,7 +682,7 @@
     },
     {
       "id": 100220,
-      "name": "Nowo-Talizy",
+      "name": "Novo-Talitsy",
       "name_default": "Novo-Talitsy",
       "native": "Ново-Талицы",
       "type": "city",
@@ -718,7 +718,7 @@
     },
     {
       "id": 100333,
-      "name": "Nowoje Leuschino",
+      "name": "Novoye Leushino",
       "name_default": "Novoye Leushino",
       "native": "Новое Леушино",
       "type": "city",
@@ -736,7 +736,7 @@
     },
     {
       "id": 100359,
-      "name": "Nowyje Gorki",
+      "name": "Novyye Gorki",
       "name_default": "Novyye Gorki",
       "native": "Новые Горки",
       "type": "city",
@@ -790,7 +790,7 @@
     },
     {
       "id": 100643,
-      "name": "Pestyaki",
+      "name": "Pestjaki",
       "name_default": "Pestyaki",
       "native": "Пестяки",
       "type": "adm2",
@@ -826,7 +826,7 @@
     },
     {
       "id": 100663,
-      "name": "Petrowski",
+      "name": "Petrovskiy",
       "name_default": "Petrovskiy",
       "native": "Петровский",
       "type": "city",
@@ -862,9 +862,9 @@
     },
     {
       "id": 100705,
-      "name": "Plës",
+      "name": "Pljos",
       "name_default": "Plyos",
-      "native": "Пожалуйста",
+      "native": "Плёс",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -916,7 +916,7 @@
     },
     {
       "id": 100885,
-      "name": "Puchezh",
+      "name": "Putschesch",
       "name_default": "Puchezh",
       "native": "Пучеж",
       "type": "adm2",
@@ -970,7 +970,7 @@
     },
     {
       "id": 100980,
-      "name": "Rodnikowski Rayon",
+      "name": "Rodnikovskiy Rayon",
       "name_default": "Rodnikovskiy Rayon",
       "native": "Родниковский район",
       "type": "area",
@@ -988,7 +988,7 @@
     },
     {
       "id": 101135,
-      "name": "Savino",
+      "name": "Sawino",
       "name_default": "Savino",
       "native": "Савино",
       "type": "adm2",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": 101753,
-      "name": "Talizy",
+      "name": "Talitsy",
       "name_default": "Talitsy",
       "native": "Талицы",
       "type": "city",
@@ -1096,7 +1096,7 @@
     },
     {
       "id": 101847,
-      "name": "Tejkowo",
+      "name": "Teikowo",
       "name_default": "Teykovo",
       "native": "Тейково",
       "type": "adm2",
@@ -1132,7 +1132,7 @@
     },
     {
       "id": 102240,
-      "name": "Werchnelandekhovskiy Rayon",
+      "name": "Verkhnelandekhovskiy Rayon",
       "name_default": "Verkhnelandekhovskiy Rayon",
       "native": "Верхнеландеховский район",
       "type": "area",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 102300,
-      "name": "Vichuga",
+      "name": "Witschuga",
       "name_default": "Vichuga",
       "native": "Вичуга",
       "type": "adm2",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 102622,
-      "name": "Juschskij Rayon",
+      "name": "Yuzhskiy Rayon",
       "name_default": "Yuzhskiy Rayon",
       "native": "Южский район",
       "type": "city",
@@ -1312,7 +1312,7 @@
     },
     {
       "id": 102679,
-      "name": "Sawolschskij Rayon",
+      "name": "Zavolzhskiy Rayon",
       "name_default": "Zavolzhskiy Rayon",
       "native": "Заволжский район",
       "type": "city",

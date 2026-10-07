@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 97812,
-      "name": "Batetskij",
+      "name": "Batetskiy",
       "name_default": "Batetskiy",
       "native": "Батецкий",
       "type": "adm2",
@@ -322,7 +322,7 @@
     },
     {
       "id": 98215,
-      "name": "Rejon Czudowski",
+      "name": "Chudovskiy Rayon",
       "name_default": "Chudovskiy Rayon",
       "native": "Чудовский район",
       "type": "area",
@@ -340,7 +340,7 @@
     },
     {
       "id": 98261,
-      "name": "Demiańsk",
+      "name": "Diemiansk",
       "name_default": "Demyansk",
       "native": "Демянск",
       "type": "adm2",
@@ -430,7 +430,7 @@
     },
     {
       "id": 99030,
-      "name": "Rejon Chwojniński",
+      "name": "Khvoyninskiy Rayon",
       "name_default": "Khvoyninskiy Rayon",
       "native": "Хвойнинский район",
       "type": "city",
@@ -448,7 +448,7 @@
     },
     {
       "id": 99301,
-      "name": "Krasnofarfornyj",
+      "name": "Krasnofarfornyy",
       "name_default": "Krasnofarfornyy",
       "native": "Краснофарфорный",
       "type": "city",
@@ -466,7 +466,7 @@
     },
     {
       "id": 99387,
-      "name": "Kreczewice",
+      "name": "Krechevitsy",
       "name_default": "Krechevitsy",
       "native": "Кречевицы",
       "type": "city",
@@ -502,7 +502,7 @@
     },
     {
       "id": 99391,
-      "name": "Kresttsy",
+      "name": "Kriestcy",
       "name_default": "Kresttsy",
       "native": "Крестцы",
       "type": "adm2",
@@ -520,7 +520,7 @@
     },
     {
       "id": 99434,
-      "name": "Kulotino",
+      "name": "Kułotino",
       "name_default": "Kulotino",
       "native": "Кулотино",
       "type": "city",
@@ -538,7 +538,7 @@
     },
     {
       "id": 99722,
-      "name": "Lubitino",
+      "name": "Lubytino",
       "name_default": "Lyubytino",
       "native": "Любытино",
       "type": "adm2",
@@ -574,7 +574,7 @@
     },
     {
       "id": 99753,
-      "name": "Malaya Vishera",
+      "name": "Małaja Wiszera",
       "name_default": "Malaya Vishera",
       "native": "Малая Вишера",
       "type": "adm2",
@@ -628,7 +628,7 @@
     },
     {
       "id": 99790,
-      "name": "Rejon Marewski",
+      "name": "Marevskiy Rayon",
       "name_default": "Marevskiy Rayon",
       "native": "Маревский район",
       "type": "area",
@@ -682,7 +682,7 @@
     },
     {
       "id": 100080,
-      "name": "Nebolchi",
+      "name": "Niebołczi",
       "name_default": "Nebolchi",
       "native": "Неболчи",
       "type": "city",
@@ -718,7 +718,7 @@
     },
     {
       "id": 100416,
-      "name": "Okułowka",
+      "name": "Okulovka",
       "name_default": "Okulovka",
       "native": "Окуловка",
       "type": "adm2",
@@ -754,7 +754,7 @@
     },
     {
       "id": 100454,
-      "name": "Opieczeński Posad",
+      "name": "Opechenskiy Posad",
       "name_default": "Opechenskiy Posad",
       "native": "Опеченский Посад",
       "type": "city",
@@ -826,7 +826,7 @@
     },
     {
       "id": 100638,
-      "name": "Pestowo",
+      "name": "Piestowo",
       "name_default": "Pestovo",
       "native": "Пестово",
       "type": "adm2",
@@ -862,7 +862,7 @@
     },
     {
       "id": 100712,
-      "name": "Poddorye",
+      "name": "Poddor’ye",
       "name_default": "Poddor’ye",
       "native": "Поддорье",
       "type": "adm2",
@@ -898,7 +898,7 @@
     },
     {
       "id": 100862,
-      "name": "Proletariat",
+      "name": "Proletarij",
       "name_default": "Proletariy",
       "native": "Пролетарий",
       "type": "city",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": 101592,
-      "name": "Rejon Starorusski",
+      "name": "Starorusskiy Rayon",
       "name_default": "Starorusskiy Rayon",
       "native": "Старорусский район",
       "type": "area",
@@ -1042,7 +1042,7 @@
     },
     {
       "id": 102151,
-      "name": "Utorgosh",
+      "name": "Utorgosz",
       "name_default": "Utorgosh",
       "native": "Уторгош",
       "type": "city",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 102179,
-      "name": "Walday",
+      "name": "Wałdaj",
       "name_default": "Valday",
       "native": "Валдай",
       "type": "adm2",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": 102180,
-      "name": "Rejon Wałdański",
+      "name": "Valdayskiy Rayon",
       "name_default": "Valdayskiy Rayon",
       "native": "Валдайский район",
       "type": "area",
@@ -1096,7 +1096,7 @@
     },
     {
       "id": 102211,
-      "name": "Wielki Nowogród",
+      "name": "Nowogród Wielki",
       "name_default": "Velikiy Novgorod",
       "native": "Великий Новгород",
       "type": "adm1",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 102521,
-      "name": "Jedrowo",
+      "name": "Yedrovo",
       "name_default": "Yedrovo",
       "native": "Едрово",
       "type": "city",

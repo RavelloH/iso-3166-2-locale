@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135297,
-      "name": "أجازانو",
+      "name": "أجاتسانو",
       "name_default": "Agazzano",
       "native": "Agazzano",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 136014,
-      "name": "بيسينزون",
+      "name": "بيسينزوني",
       "name_default": "Besenzone",
       "native": "Besenzone",
       "type": "adm3",
@@ -149,7 +149,7 @@
       "id": 136211,
       "name": "بورجونوفو فالتيدون",
       "name_default": "Borgonovo Valtidone",
-      "native": "Borgonovo Validone",
+      "native": "Borgonovo Valtidone",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -185,7 +185,7 @@
       "id": 136588,
       "name": "كاميناتا",
       "name_default": "Caminata",
-      "native": "Escursione",
+      "native": "Caminata",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 136906,
-      "name": "كاربانيتو بياسينتينو",
+      "name": "كاربانيتو بياتشنتينو",
       "name_default": "Carpaneto Piacentino",
       "native": "Carpaneto Piacentino",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 137151,
-      "name": "قلعة سان جيوفاني",
+      "name": "كاستل سان جوفاني",
       "name_default": "Castel San Giovanni",
       "native": "Castel San Giovanni",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137207,
-      "name": "قلعة أركواتو",
+      "name": "كاستل أركاتو",
       "name_default": "Castell'Arquato",
       "native": "Castell'Arquato",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 137330,
-      "name": "كاستلفيترو بياسينتينو",
+      "name": "كاستلفترو بياتشنتينو",
       "name_default": "Castelvetro Piacentino",
       "native": "Castelvetro Piacentino",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 137549,
-      "name": "سيرينالي",
+      "name": "تشيرينيالي",
       "name_default": "Cerignale",
       "native": "Cerignale",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137851,
-      "name": "كولاي",
+      "name": "كولي",
       "name_default": "Coli",
       "native": "Coli",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 138060,
-      "name": "كورتيماجيوري",
+      "name": "كورتيمادجوري",
       "name_default": "Cortemaggiore",
       "native": "Cortemaggiore",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 138542,
-      "name": "فيورينزوولا داردا",
+      "name": "فيورينزولا دردا",
       "name_default": "Fiorenzuola d'Arda",
       "native": "Fiorenzuola d'Arda",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138886,
-      "name": "غازولا",
+      "name": "غاتسولا",
       "name_default": "Gazzola",
       "native": "Gazzola",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 139044,
-      "name": "جوسولينجو",
+      "name": "غوسولينجو",
       "name_default": "Gossolengo",
       "native": "Gossolengo",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 139057,
-      "name": "غراغنانو تريبينسي",
+      "name": "غرانيانو تربيينزي",
       "name_default": "Gragnano Trebbiense",
       "native": "Gragnano Trebbiense",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 139644,
-      "name": "لوغانيانو فال داردا",
+      "name": "لوغانيانو فال دردا",
       "name_default": "Lugagnano Val d'Arda",
       "native": "Lugagnano Val d'Arda",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 140562,
-      "name": "مونتيسيلي دونجينا",
+      "name": "مونتيشيلي دونجينا",
       "name_default": "Monticelli d'Ongina",
       "native": "Monticelli d'Ongina",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 58502,
-      "name": "بياتشينزا",
+      "name": "بِيَشِنزة",
       "name_default": "Piacenza",
       "native": "Piacenza",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 58699,
-      "name": "بيوزانو",
+      "name": "بيوتسانو",
       "name_default": "Piozzano",
       "native": "Piozzano",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 59437,
-      "name": "ريفيرغارو",
+      "name": "ريفرغارو",
       "name_default": "Rivergaro",
       "native": "Rivergaro",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 59664,
-      "name": "روتوفيرينو",
+      "name": "روتوفرينو",
       "name_default": "Rottofreno",
       "native": "Rottofreno",
       "type": "adm3",
@@ -761,7 +761,7 @@
       "id": 59671,
       "name": "روفيليتو",
       "name_default": "Roveleto",
-      "native": "Roveleo",
+      "native": "Roveleto",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 59960,
-      "name": "سان جورجيو بياسينتينو",
+      "name": "سان جورجو بياتشنتينو",
       "name_default": "San Giorgio Piacentino",
       "native": "San Giorgio Piacentino",
       "type": "adm3",
@@ -831,7 +831,7 @@
     },
     {
       "id": 60198,
-      "name": "سان بيترو في سيرو",
+      "name": "سان بييترو في تشرو",
       "name_default": "San Pietro in Cerro",
       "native": "San Pietro in Cerro",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 61973,
-      "name": "فيجولزون",
+      "name": "فيغولزوني",
       "name_default": "Vigolzone",
       "native": "Vigolzone",
       "type": "adm3",
@@ -957,7 +957,7 @@
     },
     {
       "id": 62249,
-      "name": "زربا",
+      "name": "زيربا",
       "name_default": "Zerba",
       "native": "Zerba",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 62257,
-      "name": "زيانو بياسينتينو",
+      "name": "زيانو بياتشنتينو",
       "name_default": "Ziano Piacentino",
       "native": "Ziano Piacentino",
       "type": "adm3",

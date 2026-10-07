@@ -71,7 +71,7 @@
   "cities": [
     {
       "id": 32076,
-      "name": "阿尔卡拉德洛斯加苏莱斯",
+      "name": "加苏莱斯堡",
       "name_default": "Alcalá de los Gazules",
       "native": "Alcalá de los Gazules",
       "type": "city",
@@ -143,7 +143,7 @@
     },
     {
       "id": 32223,
-      "name": "阿尔戈多纳利斯",
+      "name": "阿尔戈多纳莱斯",
       "name_default": "Algodonales",
       "native": "Algodonales",
       "type": "city",
@@ -161,7 +161,7 @@
     },
     {
       "id": 32437,
-      "name": "阿尔科斯德拉弗龙特拉",
+      "name": "阿尔科斯-德拉弗龙特拉",
       "name_default": "Arcos de la Frontera",
       "native": "Arcos de la Frontera",
       "type": "city",
@@ -196,24 +196,6 @@
       "country_id": 207
     },
     {
-      "id": 151361,
-      "name": "巴里奥斯·洛斯",
-      "name_default": "Barrios Los",
-      "native": "Barrios Los",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 23513,
-      "latitude": "36.18506450",
-      "longitude": "-5.49255730",
-      "timezone": "Europe/Madrid",
-      "wikiDataId": "Q925913",
-      "country_code": "ES",
-      "state_code": "CA",
-      "state_id": 5096,
-      "country_id": 207
-    },
-    {
       "id": 32766,
       "name": "贝纳卢普-卡萨斯维耶哈斯",
       "name_default": "Benalup-Casas Viejas",
@@ -233,7 +215,7 @@
     },
     {
       "id": 32773,
-      "name": "贝纳奥卡斯",
+      "name": "贝瑙卡斯",
       "name_default": "Benaocaz",
       "native": "Benaocaz",
       "type": "city",
@@ -287,7 +269,7 @@
     },
     {
       "id": 33420,
-      "name": "弗龙特拉堡",
+      "name": "卡斯特利亚尔德拉夫龙特拉",
       "name_default": "Castellar de la Frontera",
       "native": "Castellar de la Frontera",
       "type": "city",
@@ -341,7 +323,7 @@
     },
     {
       "id": 33761,
-      "name": "科尼尔·德拉弗龙特拉",
+      "name": "科尼尔德拉夫龙特拉",
       "name_default": "Conil de la Frontera",
       "native": "Conil de la Frontera",
       "type": "city",
@@ -359,7 +341,7 @@
     },
     {
       "id": 151362,
-      "name": "博斯克埃尔",
+      "name": "埃尔沃斯克",
       "name_default": "El Bosque",
       "native": "El Bosque",
       "type": "city",
@@ -467,7 +449,7 @@
     },
     {
       "id": 34817,
-      "name": "希梅纳·德拉弗龙特拉",
+      "name": "希梅纳-德拉弗龙特拉",
       "name_default": "Jimena de la Frontera",
       "native": "Jimena de la Frontera",
       "type": "city",
@@ -485,7 +467,7 @@
     },
     {
       "id": 151364,
-      "name": "康塞普西翁·拉线",
+      "name": "拉利内亚德拉孔塞普西翁",
       "name_default": "La Línea de la Concepción",
       "native": "La Línea de la Concepción",
       "type": "city",
@@ -502,10 +484,28 @@
       "country_id": 207
     },
     {
+      "id": 151361,
+      "name": "洛斯巴里奥斯",
+      "name_default": "Los Barrios",
+      "native": "Los Barrios",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 23513,
+      "latitude": "36.18506450",
+      "longitude": "-5.49255730",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": "Q925913",
+      "country_code": "ES",
+      "state_code": "CA",
+      "state_id": 5096,
+      "country_id": 207
+    },
+    {
       "id": 151365,
-      "name": "麦地那-西多尼亚",
-      "name_default": "Medina-Sidonia",
-      "native": "Medina-Sidonia",
+      "name": "锡多尼亚城",
+      "name_default": "Medina Sidonia",
+      "native": "Medina Sidonia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -539,7 +539,7 @@
     },
     {
       "id": 36078,
-      "name": "帕特纳·德里维拉",
+      "name": "帕特纳-德里韦拉",
       "name_default": "Paterna de Rivera",
       "native": "Paterna de Rivera",
       "type": "city",
@@ -557,7 +557,7 @@
     },
     {
       "id": 36346,
-      "name": "普拉多·德尔·雷",
+      "name": "普拉多-德尔雷伊",
       "name_default": "Prado del Rey",
       "native": "Prado del Rey",
       "type": "city",
@@ -593,7 +593,7 @@
     },
     {
       "id": 36450,
-      "name": "塞拉诺港",
+      "name": "普埃尔托塞拉诺",
       "name_default": "Puerto Serrano",
       "native": "Puerto Serrano",
       "type": "city",
@@ -613,7 +613,7 @@
       "id": 36680,
       "name": "罗塔",
       "name_default": "Rota",
-      "native": "Lista",
+      "native": "Rota",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -647,7 +647,7 @@
     },
     {
       "id": 36842,
-      "name": "圣何塞德尔瓦列",
+      "name": "谷地圣何塞",
       "name_default": "San José del Valle",
       "native": "San José del Valle",
       "type": "city",
@@ -701,7 +701,7 @@
     },
     {
       "id": 37236,
-      "name": "塞特尼尔德拉斯博德加斯",
+      "name": "塞特尼尔-德拉斯博德加斯",
       "name_default": "Setenil de las Bodegas",
       "native": "Setenil de las Bodegas",
       "type": "city",
@@ -721,7 +721,7 @@
       "id": 37381,
       "name": "塔里法",
       "name_default": "Tarifa",
-      "native": "Tasa",
+      "native": "Tarifa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -737,7 +737,7 @@
     },
     {
       "id": 37487,
-      "name": "阿尔哈基梅塔",
+      "name": "托雷亚尔阿基梅",
       "name_default": "Torre Alháquime",
       "native": "Torre Alháquime",
       "type": "city",
@@ -755,7 +755,7 @@
     },
     {
       "id": 37625,
-      "name": "特雷布耶纳",
+      "name": "特雷武赫纳",
       "name_default": "Trebujena",
       "native": "Trebujena",
       "type": "city",
@@ -773,7 +773,7 @@
     },
     {
       "id": 37670,
-      "name": "乌布里克",
+      "name": "乌夫里克",
       "name_default": "Ubrique",
       "native": "Ubrique",
       "type": "city",
@@ -791,9 +791,9 @@
     },
     {
       "id": 37921,
-      "name": "贝赫尔德拉弗龙特拉",
+      "name": "贝赫尔-德拉弗龙特拉",
       "name_default": "Vejer de la Frontera",
-      "native": "Pesándose de la frontera",
+      "native": "Vejer de la Frontera",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -809,7 +809,7 @@
     },
     {
       "id": 38124,
-      "name": "维拉伦加德尔罗萨里奥",
+      "name": "比利亚伦加德尔罗萨里奥",
       "name_default": "Villaluenga del Rosario",
       "native": "Villaluenga del Rosario",
       "type": "city",
@@ -827,7 +827,7 @@
     },
     {
       "id": 38136,
-      "name": "比利亚马丁",
+      "name": "比利亚马尔廷",
       "name_default": "Villamartín",
       "native": "Villamartín",
       "type": "city",

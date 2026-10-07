@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 39301,
-      "name": "アルバ・ラ・ロメーヌ",
+      "name": "アルバ＝ラ＝ロメンヌ",
       "name_default": "Alba-la-Romaine",
       "native": "Alba-la-Romaine",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 40808,
-      "name": "シャルム・シュル・ローヌ",
+      "name": "シャルム＝シュル＝ローヌ",
       "name_default": "Charmes-sur-Rhône",
       "native": "Charmes-sur-Rhône",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 42002,
-      "name": "ネコ科",
+      "name": "Félines",
       "name_default": "Félines",
       "native": "Félines",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 42918,
-      "name": "ラ・ヴールト・シュル・ローヌ",
+      "name": "ラ・ヴルト＝シュル＝ローヌ",
       "name_default": "La Voulte-sur-Rhône",
       "native": "La Voulte-sur-Rhône",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 43071,
-      "name": "ラジャンティエール",
+      "name": "ラルジャンティエール",
       "name_default": "Largentière",
       "native": "Largentière",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 43166,
-      "name": "ル・シェイヤール",
+      "name": "ル・シェラール",
       "name_default": "Le Cheylard",
       "native": "Le Cheylard",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 43307,
-      "name": "ル・テイル",
+      "name": "ル・テイユ",
       "name_default": "Le Teil",
       "native": "Le Teil",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 45291,
-      "name": "プリヴァス",
+      "name": "プリヴァ",
       "name_default": "Privas",
       "native": "Privas",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 45731,
-      "name": "サン・タグレーヴ",
+      "name": "サン＝タグレーヴ",
       "name_default": "Saint-Agrève",
       "native": "Saint-Agrève",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 46245,
-      "name": "サン・マルセル・ダルデシュ",
+      "name": "サン＝マルセル＝ダルデシュ",
       "name_default": "Saint-Marcel-d'Ardèche",
       "native": "Saint-Marcel-d'Ardèche",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 46482,
-      "name": "サン・ペレイ",
+      "name": "サン・ペレ",
       "name_default": "Saint-Péray",
       "native": "Saint-Péray",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 47501,
-      "name": "ヴァルス・レ・バン",
+      "name": "ヴァル＝レ＝バン",
       "name_default": "Vals-les-Bains",
       "native": "Vals-les-Bains",
       "type": "city",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 47767,
-      "name": "ヴィルヌーヴ＝ド＝ベルグ",
+      "name": "ヴィルヌーヴ＝ド＝ベルク",
       "name_default": "Villeneuve-de-Berg",
       "native": "Villeneuve-de-Berg",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104709,
-      "name": "Departamant ar yec'hed",
+      "name": "Département de Salémata",
       "name_default": "Département de Salémata",
       "native": "Département de Salémata",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 104728,
-      "name": "Departamant Kédougou",
+      "name": "Kédougou Department",
       "name_default": "Kédougou Department",
-      "native": "Sujets",
+      "native": "Kédougou Department",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 104758,
       "name": "Saraya",
       "name_default": "Saraya",
-      "native": "Au palais",
+      "native": "Saraya",
       "type": "city",
       "level": null,
       "parent_id": null,

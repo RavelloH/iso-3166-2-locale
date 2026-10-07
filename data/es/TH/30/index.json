@@ -147,7 +147,7 @@
     },
     {
       "id": 105655,
-      "name": "Amphoe no cantado",
+      "name": "Amphoe Non Sung",
       "name_default": "Amphoe Non Sung",
       "native": "อำเภอโนนสูง",
       "type": "district",
@@ -165,7 +165,7 @@
     },
     {
       "id": 105657,
-      "name": "Amphoe no tailandés",
+      "name": "Amphoe Non Thai",
       "name_default": "Amphoe Non Thai",
       "native": "อำเภอโนนไทย",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 105201,
-      "name": "Amphoe Ban Lueam",
+      "name": "Ban Lueam",
       "name_default": "Ban Lueam",
       "native": "อำเภอบ้านเลื่อม",
       "type": "district",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105257,
-      "name": "Amphoe Bua Lai",
+      "name": "Bua Lai",
       "name_default": "Bua Lai",
       "native": "อำเภอบัวลาย",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105275,
-      "name": "Amphoe Chakkarat",
+      "name": "Chakkarat",
       "name_default": "Chakkarat",
       "native": "อำเภอจักราช",
       "type": "district",
@@ -363,7 +363,7 @@
     },
     {
       "id": 105280,
-      "name": "Amphoe Chaloem Phra Kiat",
+      "name": "Chaloem Phra Kiat",
       "name_default": "Chaloem Phra Kiat",
       "native": "อำเภอเฉลิมพระเกียรติ",
       "type": "district",
@@ -399,7 +399,7 @@
     },
     {
       "id": 105311,
-      "name": "Amphoe Chum Phuang",
+      "name": "Chum Phuang",
       "name_default": "Chum Phuang",
       "native": "อำเภอชุมพวง",
       "type": "district",
@@ -435,7 +435,7 @@
     },
     {
       "id": 105357,
-      "name": "Amphoe Huai Thalaeng",
+      "name": "Huai Thalaeng",
       "name_default": "Huai Thalaeng",
       "native": "อำเภอห้วยแถลง",
       "type": "district",
@@ -453,7 +453,7 @@
     },
     {
       "id": 105367,
-      "name": "Amphoe Kaeng Sanam Nang",
+      "name": "Kaeng Sanam Nang",
       "name_default": "Kaeng Sanam Nang",
       "native": "อำเภอแก่งสนามนาง",
       "type": "district",
@@ -489,7 +489,7 @@
     },
     {
       "id": 105387,
-      "name": "Amphoe Kham Thale So",
+      "name": "Kham Thale So",
       "name_default": "Kham Thale So",
       "native": "อำเภอขามทะเลสอ",
       "type": "district",
@@ -525,7 +525,7 @@
     },
     {
       "id": 105422,
-      "name": "Amphoe Khong",
+      "name": "Khong",
       "name_default": "Khong",
       "native": "อำเภอคง",
       "type": "district",
@@ -543,7 +543,7 @@
     },
     {
       "id": 105476,
-      "name": "Amphoe Lam Thamen Chai",
+      "name": "Lam Thamen Chai",
       "name_default": "Lam Thamen Chai",
       "native": "อำเภอลำทะเมนชัย",
       "type": "district",
@@ -561,7 +561,7 @@
     },
     {
       "id": 105556,
-      "name": "Amphoe Mueang Nakhon Ratchasima",
+      "name": "Nakhǭn Lāsasīmā",
       "name_default": "Mueang Nakhon Ratchasima",
       "native": "อำเภอเมืองนครราชสีมา",
       "type": "district",
@@ -579,7 +579,7 @@
     },
     {
       "id": 105605,
-      "name": "Amphoe Mueang Yang",
+      "name": "Mueang Yang",
       "name_default": "Mueang Yang",
       "native": "อำเภอเมืองยาง",
       "type": "district",
@@ -615,7 +615,7 @@
     },
     {
       "id": 105648,
-      "name": "Amphoe Non Daeng",
+      "name": "Non Daeng",
       "name_default": "Non Daeng",
       "native": "อำเภอโนนแดง",
       "type": "district",
@@ -633,7 +633,7 @@
     },
     {
       "id": 106592,
-      "name": "No cantado",
+      "name": "Non Sung",
       "name_default": "Non Sung",
       "native": "นอนซอง",
       "type": "adm2",
@@ -651,9 +651,9 @@
     },
     {
       "id": 106593,
-      "name": "No tailandés",
+      "name": "Non Thai",
       "name_default": "Non Thai",
-      "native": "ไม่ใช่คนไทย",
+      "native": "เทศบาลตำบลโนนไทย",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 105659,
-      "name": "Amphoe Nong Bun Mak",
+      "name": "Nong Bun Mak",
       "name_default": "Nong Bun Mak",
       "native": "อำเภอหนองบุญมาก",
       "type": "district",
@@ -741,7 +741,7 @@
     },
     {
       "id": 105765,
-      "name": "Amphoe Phra Thong Kham",
+      "name": "Phra Thong Kham",
       "name_default": "Phra Thong Kham",
       "native": "อำเภอพระทองคำ",
       "type": "district",
@@ -759,7 +759,7 @@
     },
     {
       "id": 105799,
-      "name": "Amphoe Prathai",
+      "name": "Prathai",
       "name_default": "Prathai",
       "native": "อำเภอประทาย",
       "type": "district",
@@ -777,7 +777,7 @@
     },
     {
       "id": 106232,
-      "name": "Amphoe Sida",
+      "name": "Sida",
       "name_default": "Sida",
       "native": "อำเภอสีดา",
       "type": "district",
@@ -795,7 +795,7 @@
     },
     {
       "id": 106234,
-      "name": "Amphoe Sikhio",
+      "name": "Sikhio",
       "name_default": "Sikhio",
       "native": "อำเภอสีคิ้ว",
       "type": "district",
@@ -813,7 +813,7 @@
     },
     {
       "id": 106235,
-      "name": "Amphoe Sikhiu",
+      "name": "Sikhiu",
       "name_default": "Sikhiu",
       "native": "อำเภอสีคิ้ว",
       "type": "district",
@@ -867,7 +867,7 @@
     },
     {
       "id": 106306,
-      "name": "Amphoe Thepharak",
+      "name": "Thepharak",
       "name_default": "Thepharak",
       "native": "อำเภอเทพารักษ์",
       "type": "district",
@@ -885,7 +885,7 @@
     },
     {
       "id": 106339,
-      "name": "Amphoe Wang Nam Khiao",
+      "name": "Wang Nam Khiao",
       "name_default": "Wang Nam Khiao",
       "native": "อำเภอวังน้ำเขียว",
       "type": "district",

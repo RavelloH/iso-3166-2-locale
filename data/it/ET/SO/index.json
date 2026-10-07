@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 38591,
-      "name": "Zona Afder",
+      "name": "Afder",
       "name_default": "Afder Zone",
       "native": "Arder ዞን",
       "type": "area",
@@ -93,7 +93,7 @@
     },
     {
       "id": 38618,
-      "name": "Zona di Degehabur",
+      "name": "Degehabur Zone",
       "name_default": "Degehabur Zone",
       "native": "የዲግበርበር ዞን",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 38641,
-      "name": "Gode Zone",
+      "name": "Shabelle",
       "name_default": "Gode Zone",
       "native": "ጥሩ ዞን",
       "type": "city",
@@ -165,9 +165,9 @@
     },
     {
       "id": 38659,
-      "name": "Jijiga",
+      "name": "Giggiga",
       "name_default": "Jijiga",
-      "native": "ጩኸት",
+      "native": "ጅጅጋ",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 38673,
-      "name": "Zona Liben",
+      "name": "Liban (zona)",
       "name_default": "Liben zone",
       "native": "ሊብን ዞን",
       "type": "area",

@@ -75,7 +75,7 @@
     },
     {
       "id": 104973,
-      "name": "Arīḩā",
+      "name": "Ariha",
       "name_default": "Arīḩā",
       "native": "أريحا",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104989,
-      "name": "Darkūsh",
+      "name": "Darkouch",
       "name_default": "Darkūsh",
       "native": "داركوش",
       "type": "adm3",
@@ -147,9 +147,9 @@
     },
     {
       "id": 104999,
-      "name": "Quartier du Harem",
+      "name": "Harem",
       "name_default": "Harem",
-      "native": "حي الحريم",
+      "native": "منطقة حارم",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 105012,
-      "name": "District de Jisr al-Shughur",
+      "name": "Jisr al-Shughur",
       "name_default": "Jisr al-Shughur",
       "native": "منطقة جسر الشغور",
       "type": "district",
@@ -273,7 +273,7 @@
     },
     {
       "id": 105023,
-      "name": "Khān Cheikhūn",
+      "name": "Khan Shaykhun",
       "name_default": "Khān Shaykhūn",
       "native": "خان شيخون",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 105026,
-      "name": "District de Maarrat al-Nu'man",
+      "name": "Maarrat al-Nu'man",
       "name_default": "Maarrat al-Nu'man",
       "native": "منطقة معرة النعمان",
       "type": "district",
@@ -345,7 +345,7 @@
     },
     {
       "id": 105046,
-      "name": "Sarāqib",
+      "name": "Saraqeb",
       "name_default": "Saraqib",
       "native": "سراقب",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 105045,
-      "name": "Sarmīn",
+      "name": "Sarmin",
       "name_default": "Sarmīn",
       "native": "سرمين",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 105054,
-      "name": "Taftanaz",
+      "name": "Taftanāz",
       "name_default": "Taftanāz",
       "native": "تفتناز",
       "type": "adm3",

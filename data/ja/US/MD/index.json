@@ -271,7 +271,7 @@
     },
     {
       "id": 110980,
-      "name": "アバディーン試験場",
+      "name": "アバディーン性能試験場",
       "name_default": "Aberdeen Proving Ground",
       "native": "Aberdeen Proving Ground",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 111547,
-      "name": "アシュトン・サンディ・スプリング",
+      "name": "アシュトン＝サンディー・スプリング",
       "name_default": "Ashton-Sandy Spring",
       "native": "Ashton-Sandy Spring",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 111553,
-      "name": "アスペンヒル",
+      "name": "アスペン・ヒル",
       "name_default": "Aspen Hill",
       "native": "Aspen Hill",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 111783,
-      "name": "ボルチモア",
+      "name": "ボルティモア",
       "name_default": "Baltimore",
       "native": "Baltimore",
       "type": "city",
@@ -595,9 +595,9 @@
     },
     {
       "id": 112046,
-      "name": "ベルエア",
+      "name": "ベル・エア",
       "name_default": "Bel Air",
-      "native": "Bubble",
+      "native": "Bel Air",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -739,7 +739,7 @@
     },
     {
       "id": 112400,
-      "name": "ブレデンスバーグ",
+      "name": "ブレイデンズバーグ",
       "name_default": "Bladensburg",
       "native": "Bladensburg",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 112623,
-      "name": "ボウイ",
+      "name": "ブーイ",
       "name_default": "Bowie",
       "native": "Bowie",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 113293,
-      "name": "キャンプスプリングス",
+      "name": "キャンプ・スプリングス",
       "name_default": "Camp Springs",
       "native": "Camp Springs",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 113693,
-      "name": "センタービル",
+      "name": "センターヴィル",
       "name_default": "Centreville",
       "native": "Centreville",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 113919,
-      "name": "シェバリー",
+      "name": "チェバリー",
       "name_default": "Cheverly",
       "native": "Cheverly",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 113921,
-      "name": "チェビー・チェイス",
+      "name": "チェビーチェイス",
       "name_default": "Chevy Chase",
       "native": "Chevy Chase",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 114048,
-      "name": "ボルチモア市",
+      "name": "City of Baltimore",
       "name_default": "City of Baltimore",
       "native": "City of Baltimore",
       "type": "section",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 114272,
-      "name": "クリントン",
+      "name": "サラッツヴィル",
       "name_default": "Clinton",
       "native": "Clinton",
       "type": "city",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 114345,
-      "name": "コブ島",
+      "name": "Cobb Island",
       "name_default": "Cobb Island",
       "native": "Cobb Island",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 114403,
-      "name": "コールズビル",
+      "name": "コールズヴィル",
       "name_default": "Colesville",
       "native": "Colesville",
       "type": "city",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 115065,
-      "name": "デビッドソンビル",
+      "name": "デイヴィッドソンヴィル",
       "name_default": "Davidsonville",
       "native": "Davidsonville",
       "type": "city",
@@ -1803,7 +1803,7 @@
       "id": 115144,
       "name": "ディール",
       "name_default": "Deale",
-      "native": "Deal",
+      "native": "Deale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1983,7 +1983,7 @@
       "id": 115844,
       "name": "エッジミア",
       "name_default": "Edgemere",
-      "native": "Edge",
+      "native": "Edgemere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 116024,
-      "name": "エリコットシティ",
+      "name": "エリコット・シティ",
       "name_default": "Ellicott City",
       "native": "Ellicott City",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 116106,
-      "name": "エミッツバーグ",
+      "name": "エミツバーグ",
       "name_default": "Emmitsburg",
       "native": "Emmitsburg",
       "type": "city",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 116342,
-      "name": "フェアマウントハイツ",
+      "name": "フェアマウント・ハイツ",
       "name_default": "Fairmount Heights",
       "native": "Fairmount Heights",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 116466,
-      "name": "フェデラルズバーグ",
+      "name": "フェデラルバーグ",
       "name_default": "Federalsburg",
       "native": "Federalsburg",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 116729,
-      "name": "フォートミード",
+      "name": "フォート・ミード",
       "name_default": "Fort Meade",
       "native": "Fort Meade",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 116761,
-      "name": "フォートワシントン",
+      "name": "フォート・ワシントン",
       "name_default": "Fort Washington",
       "native": "Fort Washington",
       "type": "city",
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 117019,
-      "name": "ゲイザースバーグ",
+      "name": "ゲイザーズバーグ",
       "name_default": "Gaithersburg",
       "native": "Gaithersburg",
       "type": "city",
@@ -2739,7 +2739,7 @@
       "id": 117541,
       "name": "グレイソンビル",
       "name_default": "Grasonville",
-      "native": "Fatonville",
+      "native": "Grasonville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 117857,
-      "name": "途中",
+      "name": "Halfway",
       "name_default": "Halfway",
       "native": "Halfway",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 118155,
-      "name": "ハーヴル・ド・グレース",
+      "name": "ハバディグレイス",
       "name_default": "Havre de Grace",
       "native": "Havre de Grace",
       "type": "city",
@@ -3063,7 +3063,7 @@
       "id": 118438,
       "name": "ヒランデール",
       "name_default": "Hillandale",
-      "native": "To Hillanda",
+      "native": "Hillandale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 118903,
-      "name": "インディアンヘッド",
+      "name": "インディアン・ヘッド",
       "name_default": "Indian Head",
       "native": "Indian Head",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 119135,
-      "name": "ジャレットスビル",
+      "name": "ジャレッツビル",
       "name_default": "Jarrettsville",
       "native": "Jarrettsville",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 119417,
-      "name": "キーディスビル",
+      "name": "キーディスヴィル",
       "name_default": "Keedysville",
       "native": "Keedysville",
       "type": "city",
@@ -3477,7 +3477,7 @@
       "id": 119791,
       "name": "ラ・ヴェール",
       "name_default": "La Vale",
-      "native": "Vale",
+      "native": "La Vale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 120102,
-      "name": "ランドオーバー",
+      "name": "ランドーヴァー",
       "name_default": "Landover",
       "native": "Landover",
       "type": "city",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 120103,
-      "name": "ランドオーバーヒルズ",
+      "name": "ランドーヴァー・ヒルズ",
       "name_default": "Landover Hills",
       "native": "Landover Hills",
       "type": "city",
@@ -3637,7 +3637,7 @@
     },
     {
       "id": 120144,
-      "name": "ラルゴ",
+      "name": "ラーゴー",
       "name_default": "Largo",
       "native": "Largo",
       "type": "city",
@@ -3655,7 +3655,7 @@
     },
     {
       "id": 120189,
-      "name": "月桂樹",
+      "name": "ローレル",
       "name_default": "Laurel",
       "native": "Laurel",
       "type": "city",
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 120895,
-      "name": "ルーサービル",
+      "name": "ルーザービル",
       "name_default": "Lutherville",
       "native": "Lutherville",
       "type": "city",
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 120896,
-      "name": "ルーサービル・ティモニウム",
+      "name": "ルーザーヴィル＝ティモニウム",
       "name_default": "Lutherville-Timonium",
       "native": "Lutherville-Timonium",
       "type": "city",
@@ -4033,7 +4033,7 @@
     },
     {
       "id": 121443,
-      "name": "マヨネーズ",
+      "name": "メイヨー",
       "name_default": "Mayo",
       "native": "Mayo",
       "type": "city",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": 121582,
-      "name": "メカニクスビル",
+      "name": "メカニクスヴィル",
       "name_default": "Mechanicsville",
       "native": "Mechanicsville",
       "type": "city",
@@ -4177,7 +4177,7 @@
     },
     {
       "id": 122156,
-      "name": "モンゴメリービレッジ",
+      "name": "モンゴメリー・ヴィレッジ",
       "name_default": "Montgomery Village",
       "native": "Montgomery Village",
       "type": "city",
@@ -4231,7 +4231,7 @@
     },
     {
       "id": 122387,
-      "name": "レーニア山",
+      "name": "Mount Rainier",
       "name_default": "Mount Rainier",
       "native": "Mount Rainier",
       "type": "city",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": 123017,
-      "name": "北東",
+      "name": "ノースイースト",
       "name_default": "North East",
       "native": "North East",
       "type": "city",
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 123087,
-      "name": "ノースポトマック",
+      "name": "ノース・ポトマック",
       "name_default": "North Potomac",
       "native": "North Potomac",
       "type": "city",
@@ -4537,7 +4537,7 @@
     },
     {
       "id": 123356,
-      "name": "オデントン",
+      "name": "オーデントン",
       "name_default": "Odenton",
       "native": "Odenton",
       "type": "city",
@@ -4609,7 +4609,7 @@
     },
     {
       "id": 123669,
-      "name": "オーイングズ・ミルズ",
+      "name": "オーウィングス・ミルズ",
       "name_default": "Owings Mills",
       "native": "Owings Mills",
       "type": "city",
@@ -4807,7 +4807,7 @@
     },
     {
       "id": 124197,
-      "name": "パイクスビル",
+      "name": "パイクスヴィル",
       "name_default": "Pikesville",
       "native": "Pikesville",
       "type": "city",
@@ -4843,7 +4843,7 @@
     },
     {
       "id": 124373,
-      "name": "プレザントヒルズ",
+      "name": "プレザント・ヒルズ",
       "name_default": "Pleasant Hills",
       "native": "Pleasant Hills",
       "type": "city",
@@ -4861,7 +4861,7 @@
     },
     {
       "id": 124420,
-      "name": "ポコモケシティ",
+      "name": "ポクーモク",
       "name_default": "Pocomoke City",
       "native": "Pocomoke City",
       "type": "city",
@@ -4899,7 +4899,7 @@
       "id": 124480,
       "name": "プールズビル",
       "name_default": "Poolesville",
-      "native": "Half -wool",
+      "native": "Poolesville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4951,7 +4951,7 @@
     },
     {
       "id": 124585,
-      "name": "ポトマック公園",
+      "name": "Potomac Park",
       "name_default": "Potomac Park",
       "native": "Potomac Park",
       "type": "city",
@@ -4969,7 +4969,7 @@
     },
     {
       "id": 124673,
-      "name": "フレデリック王子",
+      "name": "プリンス・フレデリック",
       "name_default": "Prince Frederick",
       "native": "Prince Frederick",
       "type": "city",
@@ -4987,7 +4987,7 @@
     },
     {
       "id": 124679,
-      "name": "アン王女",
+      "name": "プリンセス・アン",
       "name_default": "Princess Anne",
       "native": "Princess Anne",
       "type": "city",
@@ -5095,7 +5095,7 @@
     },
     {
       "id": 125012,
-      "name": "ライスタータウン",
+      "name": "ライスターズタウン",
       "name_default": "Reisterstown",
       "native": "Reisterstown",
       "type": "city",
@@ -5167,7 +5167,7 @@
     },
     {
       "id": 125198,
-      "name": "リバーデールパーク",
+      "name": "リヴァーデイル・パーク",
       "name_default": "Riverdale Park",
       "native": "Riverdale Park",
       "type": "city",
@@ -5203,7 +5203,7 @@
     },
     {
       "id": 125222,
-      "name": "リビエラビーチ",
+      "name": "リヴィエラ・ビーチ",
       "name_default": "Riviera Beach",
       "native": "Riviera Beach",
       "type": "city",
@@ -5257,7 +5257,7 @@
     },
     {
       "id": 125322,
-      "name": "ロックビル",
+      "name": "ロックヴィル",
       "name_default": "Rockville",
       "native": "Rockville",
       "type": "city",
@@ -5529,7 +5529,7 @@
       "id": 126179,
       "name": "セバーナパーク",
       "name_default": "Severna Park",
-      "native": "Northern park",
+      "native": "Severna Park",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5545,7 +5545,7 @@
     },
     {
       "id": 126207,
-      "name": "シェイディーサイド",
+      "name": "シェイディ・サイド",
       "name_default": "Shady Side",
       "native": "Shady Side",
       "type": "city",
@@ -5581,7 +5581,7 @@
     },
     {
       "id": 126434,
-      "name": "シルバースプリング",
+      "name": "シルヴァー・スプリング",
       "name_default": "Silver Spring",
       "native": "Silver Spring",
       "type": "city",
@@ -5617,7 +5617,7 @@
     },
     {
       "id": 126545,
-      "name": "スノーヒル",
+      "name": "スノー・ヒル",
       "name_default": "Snow Hill",
       "native": "Snow Hill",
       "type": "city",
@@ -5635,7 +5635,7 @@
     },
     {
       "id": 126570,
-      "name": "ソロモン",
+      "name": "ソロモンズ",
       "name_default": "Solomons",
       "native": "Solomons",
       "type": "city",
@@ -5689,7 +5689,7 @@
     },
     {
       "id": 126658,
-      "name": "南門",
+      "name": "South Gate",
       "name_default": "South Gate",
       "native": "South Gate",
       "type": "city",
@@ -5815,7 +5815,7 @@
     },
     {
       "id": 127178,
-      "name": "スーツランド",
+      "name": "スートランド",
       "name_default": "Suitland",
       "native": "Suitland",
       "type": "city",
@@ -5869,9 +5869,9 @@
     },
     {
       "id": 127352,
-      "name": "サイクスビル",
+      "name": "サイクスヴィル",
       "name_default": "Sykesville",
-      "native": "Heart rate",
+      "native": "Sykesville",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5959,7 +5959,7 @@
     },
     {
       "id": 127663,
-      "name": "チモニウム",
+      "name": "ティモニアム",
       "name_default": "Timonium",
       "native": "Timonium",
       "type": "city",
@@ -5997,7 +5997,7 @@
       "id": 127781,
       "name": "トラップ",
       "name_default": "Trappe",
-      "native": "Stairs",
+      "native": "Trappe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6085,7 +6085,7 @@
     },
     {
       "id": 128375,
-      "name": "ウォルドルフ",
+      "name": "ウォルドーフ",
       "name_default": "Waldorf",
       "native": "Waldorf",
       "type": "city",
@@ -6247,7 +6247,7 @@
     },
     {
       "id": 129112,
-      "name": "ウィートン",
+      "name": "ホイートン",
       "name_default": "Wheaton",
       "native": "Wheaton",
       "type": "city",

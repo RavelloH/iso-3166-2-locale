@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 1856,
-      "name": "Cidade do Danúbio",
+      "name": "Donaustadt",
       "name_default": "Donaustadt",
       "native": "Donaustadt",
       "type": "section",
@@ -75,7 +75,7 @@
     },
     {
       "id": 1963,
-      "name": "Favoritos",
+      "name": "Favoriten",
       "name_default": "Favoriten",
       "native": "Favoriten",
       "type": "section",
@@ -93,7 +93,7 @@
     },
     {
       "id": 2002,
-      "name": "Floridasdorf",
+      "name": "Floridsdorf",
       "name_default": "Floridsdorf",
       "native": "Floridsdorf",
       "type": "section",
@@ -111,9 +111,9 @@
     },
     {
       "id": 2272,
-      "name": "Hernais",
+      "name": "Hernals",
       "name_default": "Hernals",
-      "native": "Hernalen",
+      "native": "Hernals",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 2356,
-      "name": "Cidade Interior",
+      "name": "Innere Stadt",
       "name_default": "Innere Stadt",
       "native": "Innere Stadt",
       "type": "section",
@@ -165,7 +165,7 @@
     },
     {
       "id": 2686,
-      "name": "Mediúnico",
+      "name": "Meidling",
       "name_default": "Meidling",
       "native": "Meidling",
       "type": "section",
@@ -201,9 +201,9 @@
     },
     {
       "id": 3461,
-      "name": "Fervendo em fogo baixo",
+      "name": "Simmering",
       "name_default": "Simmering",
-      "native": "Köcheln lassen",
+      "native": "Simmering",
       "type": "section",
       "level": null,
       "parent_id": null,

@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 97606,
-      "name": "Altukhovo",
+      "name": "Altuchovo",
       "name_default": "Altukhovo",
       "native": "Алтухово",
       "type": "city",
@@ -250,7 +250,7 @@
     },
     {
       "id": 97659,
-      "name": "Ardon'",
+      "name": "Ardon’",
       "name_default": "Ardon’",
       "native": "Ардон",
       "type": "city",
@@ -268,7 +268,7 @@
     },
     {
       "id": 97882,
-      "name": "Belyye Berega",
+      "name": "Belye Berega",
       "name_default": "Belyye Berega",
       "native": "Белые Берега",
       "type": "city",
@@ -304,7 +304,7 @@
     },
     {
       "id": 98060,
-      "name": "Bryansk",
+      "name": "Brjansk",
       "name_default": "Bryansk",
       "native": "Брянск",
       "type": "city",
@@ -322,7 +322,7 @@
     },
     {
       "id": 98104,
-      "name": "Bytosh'",
+      "name": "Bytosh’",
       "name_default": "Bytosh’",
       "native": "Бытош",
       "type": "city",
@@ -358,7 +358,7 @@
     },
     {
       "id": 98295,
-      "name": "Dobrun'",
+      "name": "Dobrun’",
       "name_default": "Dobrun’",
       "native": "Добрун",
       "type": "city",
@@ -376,7 +376,7 @@
     },
     {
       "id": 98345,
-      "name": "Dubrovnik",
+      "name": "Dubrovka",
       "name_default": "Dubrovka",
       "native": "Дубровка",
       "type": "adm2",
@@ -412,7 +412,7 @@
     },
     {
       "id": 98362,
-      "name": "Dyat'kovo",
+      "name": "Dyat’kovo",
       "name_default": "Dyat’kovo",
       "native": "Дятьково",
       "type": "adm2",
@@ -466,7 +466,7 @@
     },
     {
       "id": 98498,
-      "name": "Glinishchevo",
+      "name": "Gliniščevo",
       "name_default": "Glinishchevo",
       "native": "Глинищево",
       "type": "adm2",
@@ -592,7 +592,7 @@
     },
     {
       "id": 98859,
-      "name": "Karachev",
+      "name": "Karačev",
       "name_default": "Karachev",
       "native": "Карачев",
       "type": "adm2",
@@ -610,7 +610,7 @@
     },
     {
       "id": 99098,
-      "name": "Kletnya",
+      "name": "Kletnja",
       "name_default": "Kletnya",
       "native": "Клетня",
       "type": "adm2",
@@ -700,7 +700,7 @@
     },
     {
       "id": 99107,
-      "name": "Klintsy",
+      "name": "Klincy",
       "name_default": "Klintsy",
       "native": "Клинцы",
       "type": "adm2",
@@ -754,7 +754,7 @@
     },
     {
       "id": 99158,
-      "name": "Komarichi",
+      "name": "Komariči",
       "name_default": "Komarichi",
       "native": "Комаричи",
       "type": "adm2",
@@ -808,7 +808,7 @@
     },
     {
       "id": 99277,
-      "name": "Krasnaya Gora",
+      "name": "Krasnaja Gora",
       "name_default": "Krasnaya Gora",
       "native": "Красная Гора",
       "type": "adm2",
@@ -844,7 +844,7 @@
     },
     {
       "id": 99654,
-      "name": "Lokot'",
+      "name": "Lokot’",
       "name_default": "Lokot’",
       "native": "Локоть",
       "type": "adm2",
@@ -880,7 +880,7 @@
     },
     {
       "id": 99719,
-      "name": "Lyubokhna",
+      "name": "Ljubochna",
       "name_default": "Lyubokhna",
       "native": "Любохна",
       "type": "city",
@@ -970,7 +970,7 @@
     },
     {
       "id": 100072,
-      "name": "Navlya",
+      "name": "Navlja",
       "name_default": "Navlya",
       "native": "Навля",
       "type": "adm2",
@@ -1042,7 +1042,7 @@
     },
     {
       "id": 100349,
-      "name": "Novyj Ropsk",
+      "name": "Novyy Ropsk",
       "name_default": "Novyy Ropsk",
       "native": "Новый Ропск",
       "type": "city",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 100706,
-      "name": "Pochep",
+      "name": "Počep",
       "name_default": "Pochep",
       "native": "Почеп",
       "type": "adm2",
@@ -1150,7 +1150,7 @@
     },
     {
       "id": 100924,
-      "name": "Raditsa-Krylovka",
+      "name": "Radica-Krylovka",
       "name_default": "Raditsa-Krylovka",
       "native": "Радица-Крыловка",
       "type": "city",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": 101161,
-      "name": "Sel'tso",
+      "name": "Sel’tso",
       "name_default": "Sel’tso",
       "native": "Сельцо",
       "type": "adm2",
@@ -1312,9 +1312,9 @@
     },
     {
       "id": 101612,
-      "name": "Stella'",
+      "name": "Star’",
       "name_default": "Star’",
-      "native": "Звезда",
+      "native": "Старь",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1384,7 +1384,7 @@
     },
     {
       "id": 101673,
-      "name": "Surazh",
+      "name": "Suraž",
       "name_default": "Surazh",
       "native": "Сураж",
       "type": "city",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": 101694,
-      "name": "Suzëmka",
+      "name": "Suzemka",
       "name_default": "Suzëmka",
       "native": "Суземка",
       "type": "city",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": 102058,
-      "name": "Unecha",
+      "name": "Uneča",
       "name_default": "Unecha",
       "native": "Унеча",
       "type": "adm2",
@@ -1546,7 +1546,7 @@
     },
     {
       "id": 102430,
-      "name": "Vygonichi",
+      "name": "Vygoniči",
       "name_default": "Vygonichi",
       "native": "Выгоничи",
       "type": "adm2",
@@ -1582,7 +1582,7 @@
     },
     {
       "id": 102440,
-      "name": "Vyshkov",
+      "name": "Vyškov",
       "name_default": "Vyshkov",
       "native": "Вышков",
       "type": "city",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 102735,
-      "name": "Zhiryatino",
+      "name": "Žirjatino",
       "name_default": "Zhiryatino",
       "native": "Жирятино",
       "type": "adm2",

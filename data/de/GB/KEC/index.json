@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48435,
-      "name": "Bayswater",
-      "name_default": "Bayswater",
-      "native": "Bayswater",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 17500,
-      "latitude": "51.51116000",
-      "longitude": "-0.18426000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q41890",
-      "country_code": "GB",
-      "state_code": "KEC",
-      "state_id": 2368,
-      "country_id": 232
-    },
-    {
       "id": 48946,
       "name": "Chelsea",
       "name_default": "Chelsea",
@@ -93,7 +75,7 @@
     },
     {
       "id": 49738,
-      "name": "Großraum London",
+      "name": "Greater London",
       "name_default": "Greater London",
       "native": "Greater London",
       "type": "section",

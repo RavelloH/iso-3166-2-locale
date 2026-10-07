@@ -246,9 +246,9 @@
   "cities": [
     {
       "id": 16184,
-      "name": "Bahía Santa Ana",
+      "name": "Baie Ste. Anne",
       "name_default": "Baie Ste. Anne",
-      "native": "Many sts. Anne",
+      "native": "Baie Ste. Anne",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -284,7 +284,7 @@
       "id": 16232,
       "name": "Bouctouche",
       "name_default": "Bouctouche",
-      "native": "Boutouche",
+      "native": "Bouctouche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -390,7 +390,7 @@
     },
     {
       "id": 16444,
-      "name": "Bahía de Fundy",
+      "name": "Fundy Bay",
       "name_default": "Fundy Bay",
       "native": "Fundy Bay",
       "type": "city",
@@ -426,7 +426,7 @@
     },
     {
       "id": 16471,
-      "name": "Gran Lakeburn",
+      "name": "Greater Lakeburn",
       "name_default": "Greater Lakeburn",
       "native": "Greater Lakeburn",
       "type": "city",
@@ -480,7 +480,7 @@
     },
     {
       "id": 16542,
-      "name": "Cresta de Keswick",
+      "name": "Keswick Ridge",
       "name_default": "Keswick Ridge",
       "native": "Keswick Ridge",
       "type": "city",
@@ -516,7 +516,7 @@
     },
     {
       "id": 16638,
-      "name": "Montaña Lutes",
+      "name": "Lutes Mountain",
       "name_default": "Lutes Mountain",
       "native": "Lutes Mountain",
       "type": "city",
@@ -552,7 +552,7 @@
     },
     {
       "id": 16695,
-      "name": "miramichi",
+      "name": "Miramichi",
       "name_default": "Miramichi",
       "native": "Miramichi",
       "type": "city",
@@ -714,7 +714,7 @@
     },
     {
       "id": 16913,
-      "name": "San Andrés",
+      "name": "Saint Andrews",
       "name_default": "Saint Andrews",
       "native": "Saint Andrews",
       "type": "city",
@@ -732,7 +732,7 @@
     },
     {
       "id": 16914,
-      "name": "San Juan",
+      "name": "Saint John",
       "name_default": "Saint John",
       "native": "Saint John",
       "type": "city",
@@ -750,7 +750,7 @@
     },
     {
       "id": 16921,
-      "name": "San Antonio",
+      "name": "Saint-Antoine",
       "name_default": "Saint-Antoine",
       "native": "Saint-Antoine",
       "type": "city",
@@ -768,7 +768,7 @@
     },
     {
       "id": 16967,
-      "name": "San Leonardo",
+      "name": "Saint-Léonard",
       "name_default": "Saint-Léonard",
       "native": "Saint-Léonard",
       "type": "city",
@@ -822,7 +822,7 @@
     },
     {
       "id": 17035,
-      "name": "Puente Shediac-Río Shediac",
+      "name": "Shediac Bridge-Shediac River",
       "name_default": "Shediac Bridge-Shediac River",
       "native": "Shediac Bridge-Shediac River",
       "type": "city",
@@ -858,7 +858,7 @@
     },
     {
       "id": 17074,
-      "name": "Aldea Starlight",
+      "name": "Starlight Village",
       "name_default": "Starlight Village",
       "native": "Starlight Village",
       "type": "city",
@@ -912,7 +912,7 @@
     },
     {
       "id": 17186,
-      "name": "Pozos",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "section",

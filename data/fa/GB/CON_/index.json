@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 48583,
-      "name": "بدمین",
+      "name": "بودمین",
       "name_default": "Bodmin",
-      "native": "Bodin",
+      "native": "Bodmin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -77,7 +77,7 @@
       "id": 48752,
       "name": "بود",
       "name_default": "Bude",
-      "native": "Will",
+      "native": "Bude",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 49599,
-      "name": "فووی",
+      "name": "فوی",
       "name_default": "Fowey",
       "native": "Fowey",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 49637,
-      "name": "ژرمو",
+      "name": "گرمو",
       "name_default": "Germoe",
       "native": "Germoe",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 49768,
-      "name": "گانیسلیک",
+      "name": "گانیزلیک",
       "name_default": "Gunnislake",
       "native": "Gunnislake",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 49863,
-      "name": "هیل",
+      "name": "هایل",
       "name_default": "Hayle",
-      "native": "Hay",
+      "native": "Hayle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -437,7 +437,7 @@
       "id": 50415,
       "name": "لو",
       "name_default": "Looe",
-      "native": "Betyroing",
+      "native": "Looe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -507,7 +507,7 @@
     },
     {
       "id": 50641,
-      "name": "کوه هاوک",
+      "name": "Mount Hawke",
       "name_default": "Mount Hawke",
       "native": "Mount Hawke",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 50651,
-      "name": "مولیون",
+      "name": "مولین",
       "name_default": "Mullion",
       "native": "Mullion",
       "type": "city",
@@ -635,7 +635,7 @@
       "id": 50888,
       "name": "پنرین",
       "name_default": "Penryn",
-      "native": "Pie",
+      "native": "Penryn",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,7 +687,7 @@
     },
     {
       "id": 50895,
-      "name": "پرانپورت",
+      "name": "پرنپورت",
       "name_default": "Perranporth",
       "native": "Perranporth",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 50934,
-      "name": "پولپرو",
+      "name": "پلپرو",
       "name_default": "Polperro",
-      "native": "Pipero",
+      "native": "Polperro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 50935,
-      "name": "پولزیث",
+      "name": "پلزیث",
       "name_default": "Polzeath",
       "native": "Polzeath",
       "type": "city",
@@ -759,9 +759,9 @@
     },
     {
       "id": 50961,
-      "name": "پورت‌هلون",
+      "name": "پورتلون",
       "name_default": "Porthleven",
-      "native": "Portleven",
+      "native": "Porthleven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 50969,
-      "name": "پورتسکاتو",
+      "name": "پورتسکتو",
       "name_default": "Portscatho",
       "native": "Portscatho",
       "type": "city",
@@ -795,9 +795,9 @@
     },
     {
       "id": 50995,
-      "name": "پروبوس",
+      "name": "پروباس",
       "name_default": "Probus",
-      "native": "Bully",
+      "native": "Probus",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 51055,
-      "name": "ردروت",
+      "name": "ردروث",
       "name_default": "Redruth",
       "native": "Redruth",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 51162,
-      "name": "سنت آگنس",
+      "name": "سنت اگنس",
       "name_default": "Saint Agnes",
       "native": "Saint Agnes",
       "type": "city",
@@ -885,9 +885,9 @@
     },
     {
       "id": 51168,
-      "name": "سنت کلمب ماژور",
+      "name": "سنت کولومب ماجور",
       "name_default": "Saint Columb Major",
-      "native": "Saint Columbus Major",
+      "native": "Saint Columb Major",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -921,7 +921,7 @@
     },
     {
       "id": 51177,
-      "name": "سنت استفان",
+      "name": "سنت استفن این برندل",
       "name_default": "Saint Stephen",
       "native": "Saint Stephen",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 51186,
-      "name": "سالتاش",
+      "name": "سالتش",
       "name_default": "Saltash",
       "native": "Saltash",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 51398,
-      "name": "سنت ایوز",
+      "name": "سنت ایوس",
       "name_default": "St Ives",
       "native": "St Ives",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 51628,
-      "name": "تینتاژل",
+      "name": "تینتاجل",
       "name_default": "Tintagel",
       "native": "Tintagel",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 51697,
-      "name": "یونی للانت",
+      "name": "لیلانت",
       "name_default": "Uny Lelant",
       "native": "Uny Lelant",
       "type": "city",

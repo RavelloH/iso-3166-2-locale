@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 637,
-      "name": "28. studenog",
+      "name": "28 de Noviembre",
       "name_default": "28 de Noviembre",
       "native": "28 de Noviembre",
       "type": "city",
@@ -152,7 +152,7 @@
     },
     {
       "id": 711,
-      "name": "Ćaleta Olivia",
+      "name": "Caleta Olivia",
       "name_default": "Caleta Olivia",
       "native": "Caleta Olivia",
       "type": "city",
@@ -170,7 +170,7 @@
     },
     {
       "id": 786,
-      "name": "Komandant Luis Piedra Buena",
+      "name": "Comandante Luis Piedrabuena",
       "name_default": "Comandante Luis Piedrabuena",
       "native": "Comandante Luis Piedra Buena",
       "type": "city",
@@ -188,7 +188,7 @@
     },
     {
       "id": 874,
-      "name": "Odjel za želje",
+      "name": "Departamento de Deseado",
       "name_default": "Departamento de Deseado",
       "native": "Departamento de Deseado",
       "type": "area",
@@ -227,7 +227,7 @@
       "name": "Departamento de Lago Argentino",
       "name_default": "Departamento de Lago Argentino",
       "native": "Departamento de Lago Argentino",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 25586,
@@ -245,7 +245,7 @@
       "name": "Departamento de Magallanes",
       "name_default": "Departamento de Magallanes",
       "native": "Departamento de Magallanes",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 12911,
@@ -296,7 +296,7 @@
     },
     {
       "id": 1116,
-      "name": "Guverner Gregores",
+      "name": "Gobernador Gregores",
       "name_default": "Gobernador Gregores",
       "native": "Gobernador Gregores",
       "type": "adm2",

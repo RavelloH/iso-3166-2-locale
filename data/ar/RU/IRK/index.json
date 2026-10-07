@@ -304,7 +304,7 @@
     },
     {
       "id": 105833,
-      "name": "الزماي",
+      "name": "ألزاماي",
       "name_default": "Alzamay",
       "native": "Алзамай",
       "type": "city",
@@ -322,7 +322,7 @@
     },
     {
       "id": 105835,
-      "name": "أنجارسك",
+      "name": "أنغارسك",
       "name_default": "Angarsk",
       "native": "Ангарськ",
       "type": "city",
@@ -358,7 +358,7 @@
     },
     {
       "id": 105837,
-      "name": "أتاجاي",
+      "name": "أتاغاي",
       "name_default": "Atagay",
       "native": "Атагай",
       "type": "city",
@@ -412,7 +412,7 @@
     },
     {
       "id": 105840,
-      "name": "بالاجانسك",
+      "name": "بالاغانسك",
       "name_default": "Balagansk",
       "native": "Балаганськ",
       "type": "city",
@@ -448,7 +448,7 @@
     },
     {
       "id": 105842,
-      "name": "بالاخنينسكي",
+      "name": "بالاكنينسكيي",
       "name_default": "Balakhninskiy",
       "native": "Балахнінський",
       "type": "city",
@@ -556,7 +556,7 @@
     },
     {
       "id": 105850,
-      "name": "بودايبوا",
+      "name": "بودايبو",
       "name_default": "Bodaybo",
       "native": "Бодайбо",
       "type": "adm2",
@@ -574,7 +574,7 @@
     },
     {
       "id": 105851,
-      "name": "بوخان",
+      "name": "بوكان",
       "name_default": "Bokhan",
       "native": "Бохан",
       "type": "adm2",
@@ -612,7 +612,7 @@
       "id": 105853,
       "name": "بولشايا ريشكا",
       "name_default": "Bol’shaya Rechka",
-      "native": "Велика Річка",
+      "native": "Большая Речка",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 105907,
-      "name": "نيجنيودينسك",
+      "name": "نيجنيوديسك",
       "name_default": "Nizhneudinsk",
       "native": "Нижньоудинськ",
       "type": "adm2",
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 105927,
-      "name": "شيليخوف",
+      "name": "شيلخوف",
       "name_default": "Shelekhov",
       "native": "Шелехов",
       "type": "adm2",
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 105933,
-      "name": "سليوديانكا",
+      "name": "سلايوديانكا",
       "name_default": "Slyudyanka",
       "native": "Слюдянка",
       "type": "adm2",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 105944,
-      "name": "طولون",
+      "name": "تولون",
       "name_default": "Tulun",
       "native": "Тулун",
       "type": "adm2",
@@ -2070,7 +2070,7 @@
       "id": 105947,
       "name": "تيريت بيرفايا",
       "name_default": "Tyret’ Pervaya",
-      "native": "Тирет Перша",
+      "native": "Тыреть 1-я",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2086,9 +2086,9 @@
     },
     {
       "id": 105948,
-      "name": "المملكة المتحدة",
+      "name": "Uk",
       "name_default": "Uk",
-      "native": "Велика Британія",
+      "native": "Ук",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2356,7 +2356,7 @@
     },
     {
       "id": 105964,
-      "name": "يلانتشي",
+      "name": "ييلانتسي",
       "name_default": "Yelantsy",
       "native": "Єланці",
       "type": "adm2",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": 105965,
-      "name": "يربوغاشن",
+      "name": "ييربوغاتشين",
       "name_default": "Yerbogachen",
       "native": "Єрбогачен",
       "type": "city",
@@ -2448,7 +2448,7 @@
       "id": 105969,
       "name": "جيليزنودوروجني",
       "name_default": "Zheleznodorozhnyy",
-      "native": "Залізничний",
+      "native": "Железнодорожный",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2482,7 +2482,7 @@
     },
     {
       "id": 105971,
-      "name": "زيغالوفو",
+      "name": "جيغالوفو",
       "name_default": "Zhigalovo",
       "native": "Жигалово",
       "type": "adm2",
@@ -2554,9 +2554,9 @@
     },
     {
       "id": 105975,
-      "name": "زفيزدني",
+      "name": "زفيوزدنيي",
       "name_default": "Zvëzdnyy",
-      "native": "Зоряний",
+      "native": "Звёздный",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 638,
-      "name": "Абра Пампа",
+      "name": "Абра-Пампа",
       "name_default": "Abra Pampa",
       "native": "Abra Pampa",
       "type": "adm2",
@@ -170,7 +170,7 @@
     },
     {
       "id": 713,
-      "name": "Калілегуа",
+      "name": "Калілегва",
       "name_default": "Calilegua",
       "native": "Calilegua",
       "type": "city",
@@ -191,7 +191,7 @@
       "name": "Департамент Кочінока",
       "name_default": "Departamento de Cochinoca",
       "native": "Departamento de Cochinoca",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 15054,
@@ -260,7 +260,7 @@
     },
     {
       "id": 1083,
-      "name": "Фрайле Пінтадо",
+      "name": "Фрайле-Пінтадо",
       "name_default": "Fraile Pintado",
       "native": "Fraile Pintado",
       "type": "city",
@@ -278,7 +278,7 @@
     },
     {
       "id": 1147,
-      "name": "Умахуака",
+      "name": "Умавака",
       "name_default": "Humahuaca",
       "native": "Humahuaca",
       "type": "adm2",
@@ -296,7 +296,7 @@
     },
     {
       "id": 1155,
-      "name": "Інгеніо Ла Есперанса",
+      "name": "Ла-Есперанса",
       "name_default": "La Esperanza",
       "native": "Ingenio La Esperanza",
       "type": "city",
@@ -314,7 +314,7 @@
     },
     {
       "id": 1193,
-      "name": "Ла Мендьєта",
+      "name": "Ла-Мендьєта",
       "name_default": "La Mendieta",
       "native": "La Mendieta",
       "type": "city",
@@ -332,7 +332,7 @@
     },
     {
       "id": 1199,
-      "name": "Ла Кіака",
+      "name": "Ла-К'яка",
       "name_default": "La Quiaca",
       "native": "La Quiaca",
       "type": "adm2",
@@ -350,7 +350,7 @@
     },
     {
       "id": 1236,
-      "name": "Лібертадор Генерал Сан-Мартін",
+      "name": "Лібертадор-Хенераль-Сан-Мартін",
       "name_default": "Libertador General San Martín",
       "native": "Libertador General San Martín",
       "type": "adm2",
@@ -386,7 +386,7 @@
     },
     {
       "id": 1310,
-      "name": "Пальма Сола",
+      "name": "Пальма-Сола",
       "name_default": "Palma Sola",
       "native": "Palma Sola",
       "type": "city",
@@ -440,7 +440,7 @@
     },
     {
       "id": 1447,
-      "name": "Сан-Педро-де-Жухуй",
+      "name": "Сан-Педро-де-Жужуй",
       "name_default": "San Pedro de Jujuy",
       "native": "San Pedro de Jujuy",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1451,
-      "name": "Сан-Сальвадор-де-Жухуй",
+      "name": "Сан-Сальвадор-де-Жужуй",
       "name_default": "San Salvador de Jujuy",
       "native": "San Salvador de Jujuy",
       "type": "adm1",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1503,
-      "name": "Тілкара",
+      "name": "Тількара",
       "name_default": "Tilcara",
       "native": "Tilcara",
       "type": "adm2",

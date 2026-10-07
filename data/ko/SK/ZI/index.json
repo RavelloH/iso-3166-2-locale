@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104378,
-      "name": "바이트차",
+      "name": "비트차",
       "name_default": "Bytča",
       "native": "Bytča",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104383,
-      "name": "돌니 쿠빈",
+      "name": "돌니쿠빈",
       "name_default": "Dolný Kubín",
       "native": "Dolný Kubín",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104424,
-      "name": "리프토프스키 흐라도크",
+      "name": "립토우스키흐라도크",
       "name_default": "Liptovský Hrádok",
       "native": "Liptovský Hrádok",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 104430,
-      "name": "남자 이름",
+      "name": "마르틴",
       "name_default": "Martin",
       "native": "Martin",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 104459,
-      "name": "오크레스 돌니 쿠빈",
+      "name": "돌니쿠빈구",
       "name_default": "Okres Dolný Kubín",
       "native": "Okres Dolný Kubín",
       "type": "area",
@@ -363,9 +363,9 @@
     },
     {
       "id": 104476,
-      "name": "오크레스 마틴",
+      "name": "마르틴구",
       "name_default": "Okres Martin",
-      "native": "Martinské obdobie",
+      "native": "Okres Martin",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -381,9 +381,9 @@
     },
     {
       "id": 104480,
-      "name": "오크레스 나메스토보",
+      "name": "나메스토보구",
       "name_default": "Okres Namestovo",
-      "native": "Okos rodiny",
+      "native": "Okres Namestovo",
       "type": "area",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 104561,
-      "name": "테르초바",
+      "name": "테르호바",
       "name_default": "Terchová",
       "native": "Terchová",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 104571,
-      "name": "터키안스케 테플리체",
+      "name": "투르치안스케테플리체",
       "name_default": "Turčianske Teplice",
       "native": "Turčianske Teplice",
       "type": "adm2",

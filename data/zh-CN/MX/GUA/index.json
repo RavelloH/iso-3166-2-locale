@@ -134,9 +134,9 @@
   "cities": [
     {
       "id": 68015,
-      "name": "阿巴索洛",
+      "name": "阿瓦索洛",
       "name_default": "Abasolo",
-      "native": "Tarifa",
+      "native": "Abasolo",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -278,7 +278,7 @@
     },
     {
       "id": 68296,
-      "name": "阿帕塞奥埃尔阿尔托",
+      "name": "上阿帕塞奥",
       "name_default": "Apaseo el Alto",
       "native": "Apaseo el Alto",
       "type": "adm2",
@@ -296,7 +296,7 @@
     },
     {
       "id": 68297,
-      "name": "格兰德阿帕塞奥",
+      "name": "大阿帕塞奥",
       "name_default": "Apaseo el Grande",
       "native": "Apaseo el Grande",
       "type": "adm2",
@@ -784,7 +784,7 @@
       "id": 69124,
       "name": "丘里皮切奥",
       "name_default": "Churipitzeo",
-      "native": "El sonpitzeo",
+      "native": "Churipitzeo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -818,7 +818,7 @@
     },
     {
       "id": 69168,
-      "name": "曼努埃尔多夫拉多城",
+      "name": "Ciudad Manuel Doblado",
       "name_default": "Ciudad Manuel Doblado",
       "native": "Ciudad Manuel Doblado",
       "type": "adm2",
@@ -838,7 +838,7 @@
       "id": 69205,
       "name": "科奇蒂",
       "name_default": "Coachiti",
-      "native": "Entrenador",
+      "native": "Coachiti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -980,7 +980,7 @@
     },
     {
       "id": 69341,
-      "name": "新墨西哥州科洛尼亚",
+      "name": "Colonia Nuevo México",
       "name_default": "Colonia Nuevo México",
       "native": "Colonia Nuevo México",
       "type": "city",
@@ -1016,7 +1016,7 @@
     },
     {
       "id": 69349,
-      "name": "新帕特里亚殖民地",
+      "name": "Colonia Patria Nueva",
       "name_default": "Colonia Patria Nueva",
       "native": "Colonia Patria Nueva",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 69367,
-      "name": "科洛尼亚圣路易斯雷伊",
+      "name": "Colonia San Luis Rey",
       "name_default": "Colonia San Luis Rey",
       "native": "Colonia San Luis Rey",
       "type": "city",
@@ -1180,7 +1180,7 @@
       "id": 69494,
       "name": "科塔萨尔",
       "name_default": "Cortazar",
-      "native": "Corteza",
+      "native": "Cortazar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1270,7 +1270,7 @@
       "id": 69642,
       "name": "库帕雷奥",
       "name_default": "Cupareo",
-      "native": "Cuacao",
+      "native": "Cupareo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1358,7 +1358,7 @@
     },
     {
       "id": 69699,
-      "name": "莫拉医生",
+      "name": "莫拉博士镇",
       "name_default": "Doctor Mora",
       "native": "Doctor Mora",
       "type": "adm2",
@@ -1376,7 +1376,7 @@
     },
     {
       "id": 69706,
-      "name": "多洛雷斯·伊达尔戈·库纳·民族独立",
+      "name": "多洛雷斯-伊达尔戈",
       "name_default": "Dolores Hidalgo",
       "native": "Dolores Hidalgo Cuna de la Independencia Nacional",
       "type": "city",
@@ -2240,7 +2240,7 @@
     },
     {
       "id": 70360,
-      "name": "圣弗朗西斯科火车站",
+      "name": "Estación de San Francisco",
       "name_default": "Estación de San Francisco",
       "native": "Estación de San Francisco",
       "type": "city",
@@ -2620,7 +2620,7 @@
       "id": 70521,
       "name": "加斯卡",
       "name_default": "Gasca",
-      "native": "Gas",
+      "native": "Gasca",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2836,7 +2836,7 @@
       "id": 70734,
       "name": "瓦尼马罗",
       "name_default": "Huanímaro",
-      "native": "Huadzaro",
+      "native": "Huanímaro",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2980,7 +2980,7 @@
       "id": 71013,
       "name": "豪雷吉",
       "name_default": "Jáuregui",
-      "native": "Palacio",
+      "native": "Jáuregui",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3302,7 +3302,7 @@
     },
     {
       "id": 71252,
-      "name": "帕尔玛十字勋章",
+      "name": "La Cruz del Palmar",
       "name_default": "La Cruz del Palmar",
       "native": "La Cruz del Palmar",
       "type": "city",
@@ -3374,7 +3374,7 @@
     },
     {
       "id": 71285,
-      "name": "圣何塞卡门庄园",
+      "name": "La Estancia de San José del Carmen",
       "name_default": "La Estancia de San José del Carmen",
       "native": "La Estancia de San José del Carmen",
       "type": "city",
@@ -3466,7 +3466,7 @@
       "id": 71341,
       "name": "拉劳尔西塔",
       "name_default": "La Laborcita",
-      "native": "El desgastado",
+      "native": "La Laborcita",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3806,7 +3806,7 @@
     },
     {
       "id": 71552,
-      "name": "瓜达卢佩湖",
+      "name": "Laguna de Guadalupe",
       "name_default": "Laguna de Guadalupe",
       "native": "Laguna de Guadalupe",
       "type": "city",
@@ -3842,7 +3842,7 @@
     },
     {
       "id": 71549,
-      "name": "科尔特斯大湖",
+      "name": "Laguna Larga de Cortés",
       "name_default": "Laguna Larga de Cortés",
       "native": "Laguna Larga de Cortés",
       "type": "city",
@@ -4004,7 +4004,7 @@
     },
     {
       "id": 71668,
-      "name": "莱昂·德洛斯·阿尔达马",
+      "name": "莱昂",
       "name_default": "León de los Aldama",
       "native": "León de los Aldama",
       "type": "adm2",
@@ -4078,7 +4078,7 @@
       "id": 71734,
       "name": "洛马·德·曾波阿拉",
       "name_default": "Loma de Zempoala",
-      "native": "Colina de zimpoala",
+      "native": "Loma de Zempoala",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4096,7 +4096,7 @@
       "id": 71723,
       "name": "洛马佩拉达",
       "name_default": "Loma Pelada",
-      "native": "Colina pelada",
+      "native": "Loma Pelada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4490,7 +4490,7 @@
     },
     {
       "id": 71944,
-      "name": "马拉加纳 (圣安东尼奥德尔蒙特)",
+      "name": "Malagana (San Antonio del Monte)",
       "name_default": "Malagana (San Antonio del Monte)",
       "native": "Malagana (San Antonio del Monte)",
       "type": "city",
@@ -4760,7 +4760,7 @@
     },
     {
       "id": 72185,
-      "name": "圣何塞磨坊",
+      "name": "Molino de San José",
       "name_default": "Molino de San José",
       "native": "Molino de San José",
       "type": "city",
@@ -4778,7 +4778,7 @@
     },
     {
       "id": 72186,
-      "name": "圣安娜莫利诺",
+      "name": "Molino de Santa Ana",
       "name_default": "Molino de Santa Ana",
       "native": "Molino de Santa Ana",
       "type": "city",
@@ -4814,7 +4814,7 @@
     },
     {
       "id": 72209,
-      "name": "科西略山",
+      "name": "Monte del Coecillo",
       "name_default": "Monte del Coecillo",
       "native": "Monte del Coecillo",
       "type": "city",
@@ -4868,7 +4868,7 @@
     },
     {
       "id": 72238,
-      "name": "莫罗莱昂",
+      "name": "莫若里安",
       "name_default": "Moroleón",
       "native": "Moroleón",
       "type": "adm2",
@@ -4888,7 +4888,7 @@
       "id": 72314,
       "name": "诺伊特拉",
       "name_default": "Neutla",
-      "native": "NUEVO",
+      "native": "Neutla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4958,7 +4958,7 @@
     },
     {
       "id": 72489,
-      "name": "巴列斯特罗斯水之眼",
+      "name": "Ojo de Agua de Ballesteros",
       "name_default": "Ojo de Agua de Ballesteros",
       "native": "Ojo de Agua de Ballesteros",
       "type": "city",
@@ -4976,7 +4976,7 @@
     },
     {
       "id": 72495,
-      "name": "特立尼达水之眼",
+      "name": "Ojo de Agua de la Trinidad",
       "name_default": "Ojo de Agua de la Trinidad",
       "native": "Ojo de Agua de la Trinidad",
       "type": "city",
@@ -5102,7 +5102,7 @@
     },
     {
       "id": 72601,
-      "name": "圣胡安帕米利亚斯",
+      "name": "Palmillas de San Juan",
       "name_default": "Palmillas de San Juan",
       "native": "Palmillas de San Juan",
       "type": "city",
@@ -5534,7 +5534,7 @@
     },
     {
       "id": 72941,
-      "name": "新镇",
+      "name": "Pueblo Nuevo",
       "name_default": "Pueblo Nuevo",
       "native": "Pueblo Nuevo",
       "type": "adm2",
@@ -5732,7 +5732,7 @@
     },
     {
       "id": 73068,
-      "name": "拉克鲁斯新牧场",
+      "name": "Rancho Nuevo de la Cruz",
       "name_default": "Rancho Nuevo de la Cruz",
       "native": "Rancho Nuevo de la Cruz",
       "type": "city",
@@ -5750,7 +5750,7 @@
     },
     {
       "id": 73069,
-      "name": "新光牧场",
+      "name": "Rancho Nuevo de la Luz",
       "name_default": "Rancho Nuevo de la Luz",
       "native": "Rancho Nuevo de la Luz",
       "type": "city",
@@ -5768,7 +5768,7 @@
     },
     {
       "id": 73070,
-      "name": "拉尼托新牧场",
+      "name": "Rancho Nuevo del Llanito",
       "name_default": "Rancho Nuevo del Llanito",
       "native": "Rancho Nuevo del Llanito",
       "type": "city",
@@ -5950,7 +5950,7 @@
       "id": 73157,
       "name": "罗克",
       "name_default": "Roque",
-      "native": "Rudo",
+      "native": "Roque",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -6020,7 +6020,7 @@
     },
     {
       "id": 73258,
-      "name": "圣奥古斯丁德拉斯弗洛雷斯",
+      "name": "San Agustín de las Flores",
       "name_default": "San Agustín de las Flores",
       "native": "San Agustín de las Flores",
       "type": "city",
@@ -6038,7 +6038,7 @@
     },
     {
       "id": 73279,
-      "name": "圣安德烈斯恩瓜罗",
+      "name": "San Andrés Enguaro",
       "name_default": "San Andrés Enguaro",
       "native": "San Andrés Enguaro",
       "type": "city",
@@ -6056,7 +6056,7 @@
     },
     {
       "id": 74512,
-      "name": "圣天使",
+      "name": "San Ángel",
       "name_default": "San Ángel",
       "native": "San Ángel",
       "type": "city",
@@ -6074,7 +6074,7 @@
     },
     {
       "id": 73327,
-      "name": "圣安东尼奥卡利查尔",
+      "name": "San Antonio Calichar",
       "name_default": "San Antonio Calichar",
       "native": "San Antonio Calichar",
       "type": "city",
@@ -6092,7 +6092,7 @@
     },
     {
       "id": 73364,
-      "name": "圣安东尼奥·德·科拉莱斯",
+      "name": "San Antonio de Corrales",
       "name_default": "San Antonio de Corrales",
       "native": "San Antonio de Corrales",
       "type": "city",
@@ -6128,7 +6128,7 @@
     },
     {
       "id": 73377,
-      "name": "圣安东尼奥·德洛斯特佩塔特斯",
+      "name": "San Antonio de los Tepetates",
       "name_default": "San Antonio de los Tepetates",
       "native": "San Antonio de los Tepets",
       "type": "city",
@@ -6146,7 +6146,7 @@
     },
     {
       "id": 73366,
-      "name": "圣安东尼奥·德·罗梅里洛",
+      "name": "San Antonio de Romerillo",
       "name_default": "San Antonio de Romerillo",
       "native": "San Antonio de Romerillo",
       "type": "city",
@@ -6182,7 +6182,7 @@
     },
     {
       "id": 73387,
-      "name": "圣安东尼奥埃尔里科",
+      "name": "San Antonio el Rico",
       "name_default": "San Antonio el Rico",
       "native": "San Antonio el Rico",
       "type": "city",
@@ -6200,7 +6200,7 @@
     },
     {
       "id": 73332,
-      "name": "圣安东尼奥·埃门瓜罗",
+      "name": "San Antonio Eménguaro",
       "name_default": "San Antonio Eménguaro",
       "native": "San Antonio Eménguaro",
       "type": "city",
@@ -6218,7 +6218,7 @@
     },
     {
       "id": 73334,
-      "name": "圣安东尼奥加拉多",
+      "name": "San Antonio Gallardo",
       "name_default": "San Antonio Gallardo",
       "native": "San Antonio Gallardo",
       "type": "city",
@@ -6236,7 +6236,7 @@
     },
     {
       "id": 73345,
-      "name": "圣安东尼奥普里梅罗",
+      "name": "San Antonio Primero",
       "name_default": "San Antonio Primero",
       "native": "San Antonio Primero",
       "type": "city",
@@ -6254,7 +6254,7 @@
     },
     {
       "id": 73355,
-      "name": "德克萨斯州圣安东尼奥",
+      "name": "San Antonio Texas",
       "name_default": "San Antonio Texas",
       "native": "San Antonio Texas",
       "type": "city",
@@ -6272,7 +6272,7 @@
     },
     {
       "id": 73411,
-      "name": "圣巴托洛·德贝里奥斯",
+      "name": "San Bartolo de Berrios",
       "name_default": "San Bartolo de Berrios",
       "native": "San Bartolo de Berrios",
       "type": "city",
@@ -6290,7 +6290,7 @@
     },
     {
       "id": 73419,
-      "name": "圣巴托洛梅阿瓜斯卡连特斯",
+      "name": "San Bartolomé Aguas Calientes",
       "name_default": "San Bartolomé Aguas Calientes",
       "native": "San Bartolomé Aguas Calientes",
       "type": "city",
@@ -6326,7 +6326,7 @@
     },
     {
       "id": 73442,
-      "name": "圣贝尔纳多佩尼亚布兰卡",
+      "name": "San Bernardo Peña Blanca",
       "name_default": "San Bernardo Peña Blanca",
       "native": "San Bernardo Peña Blanca",
       "type": "city",
@@ -6344,7 +6344,7 @@
     },
     {
       "id": 73465,
-      "name": "圣卡耶塔诺",
+      "name": "San Cayetano",
       "name_default": "San Cayetano",
       "native": "San Cayetano",
       "type": "city",
@@ -6362,7 +6362,7 @@
     },
     {
       "id": 73472,
-      "name": "圣克里斯托瓦尔",
+      "name": "San Cristóbal",
       "name_default": "San Cristóbal",
       "native": "San Cristóbal",
       "type": "city",
@@ -6398,7 +6398,7 @@
     },
     {
       "id": 73495,
-      "name": "圣地亚哥·德阿尔卡拉",
+      "name": "San Diego de Alcalá",
       "name_default": "San Diego de Alcalá",
       "native": "San Diego de Alcalá",
       "type": "city",
@@ -6416,7 +6416,7 @@
     },
     {
       "id": 73496,
-      "name": "圣地亚哥联合大学",
+      "name": "San Diego de la Unión",
       "name_default": "San Diego de la Unión",
       "native": "San Diego de la Unión",
       "type": "adm2",
@@ -6434,7 +6434,7 @@
     },
     {
       "id": 73505,
-      "name": "圣埃利亚斯",
+      "name": "San Elías",
       "name_default": "San Elías",
       "native": "San Elías",
       "type": "city",
@@ -6452,7 +6452,7 @@
     },
     {
       "id": 73511,
-      "name": "圣费利佩",
+      "name": "San Felipe",
       "name_default": "San Felipe",
       "native": "San Felipe",
       "type": "adm2",
@@ -6470,7 +6470,7 @@
     },
     {
       "id": 73521,
-      "name": "圣费利佩·奎里塞奥",
+      "name": "San Felipe Quiriceo",
       "name_default": "San Felipe Quiriceo",
       "native": "San Felipe Quiricoeo",
       "type": "city",
@@ -6524,7 +6524,7 @@
     },
     {
       "id": 73611,
-      "name": "圣弗朗西斯科·德杜兰",
+      "name": "San Francisco de Durán",
       "name_default": "San Francisco de Durán",
       "native": "San Francisco de Durán",
       "type": "city",
@@ -6542,7 +6542,7 @@
     },
     {
       "id": 73621,
-      "name": "圣弗朗西斯科·德尔·林孔",
+      "name": "圣弗朗西斯科德尔林孔",
       "name_default": "San Francisco del Rincón",
       "native": "San Francisco del Rincón",
       "type": "adm2",
@@ -6560,7 +6560,7 @@
     },
     {
       "id": 73625,
-      "name": "圣盖博",
+      "name": "San Gabriel",
       "name_default": "San Gabriel",
       "native": "San Gabriel",
       "type": "city",
@@ -6578,7 +6578,7 @@
     },
     {
       "id": 73633,
-      "name": "圣加布里埃尔和圣伊格纳西奥",
+      "name": "San Gabriel y San Ignacio",
       "name_default": "San Gabriel y San Ignacio",
       "native": "San Gabriel y San Ignacio",
       "type": "city",
@@ -6596,7 +6596,7 @@
     },
     {
       "id": 73640,
-      "name": "圣格雷戈里奥",
+      "name": "San Gregorio",
       "name_default": "San Gregorio",
       "native": "San Gregorio",
       "type": "city",
@@ -6614,7 +6614,7 @@
     },
     {
       "id": 73651,
-      "name": "圣伊格纳西奥",
+      "name": "San Ignacio",
       "name_default": "San Ignacio",
       "native": "San Ignacio",
       "type": "city",
@@ -6632,7 +6632,7 @@
     },
     {
       "id": 73654,
-      "name": "圣伊格纳西奥·德伊达尔戈",
+      "name": "San Ignacio de Hidalgo",
       "name_default": "San Ignacio de Hidalgo",
       "native": "San Ignacio de Hidalgo",
       "type": "city",
@@ -6650,7 +6650,7 @@
     },
     {
       "id": 73655,
-      "name": "圣伊格纳西奥·德·里维拉 (Ojo de Agua)",
+      "name": "San Ignacio de Rivera (Ojo de Agua)",
       "name_default": "San Ignacio de Rivera (Ojo de Agua)",
       "native": "San Ignacio de Rivera (Ojo de Agua)",
       "type": "city",
@@ -6668,7 +6668,7 @@
     },
     {
       "id": 73656,
-      "name": "圣伊格纳西奥·德·圣何塞·帕兰格奥",
+      "name": "San Ignacio de San José Parangueo",
       "name_default": "San Ignacio de San José Parangueo",
       "native": "San Ignacio de San José",
       "type": "city",
@@ -6686,7 +6686,7 @@
     },
     {
       "id": 73686,
-      "name": "圣伊西德罗·德甘博阿",
+      "name": "San Isidro de Gamboa",
       "name_default": "San Isidro de Gamboa",
       "native": "San Isidro de Gamboa",
       "type": "city",
@@ -6704,7 +6704,7 @@
     },
     {
       "id": 73687,
-      "name": "圣伊西德罗-德拉康塞普西翁",
+      "name": "San Isidro de la Concepción",
       "name_default": "San Isidro de la Concepción",
       "native": "San Isidro de la Concepción",
       "type": "city",
@@ -6722,7 +6722,7 @@
     },
     {
       "id": 73688,
-      "name": "圣伊西德罗-德拉埃斯塔卡达",
+      "name": "San Isidro de la Estacada",
       "name_default": "San Isidro de la Estacada",
       "native": "San Isidro de la Estacada",
       "type": "city",
@@ -6740,7 +6740,7 @@
     },
     {
       "id": 73689,
-      "name": "圣伊西德罗·德洛斯·索塞斯",
+      "name": "San Isidro de los Sauces",
       "name_default": "San Isidro de los Sauces",
       "native": "San Isidro de los sauces",
       "type": "city",
@@ -6758,7 +6758,7 @@
     },
     {
       "id": 73697,
-      "name": "圣哈维尔",
+      "name": "San Javier",
       "name_default": "San Javier",
       "native": "San Javier",
       "type": "city",
@@ -6776,7 +6776,7 @@
     },
     {
       "id": 73724,
-      "name": "圣赫罗尼莫德阿拉塞奥",
+      "name": "San Jerónimo de Araceo",
       "name_default": "San Jerónimo de Araceo",
       "native": "San Jerónimo de Araceo",
       "type": "city",
@@ -6812,7 +6812,7 @@
     },
     {
       "id": 73809,
-      "name": "圣何塞·德阿亚拉",
+      "name": "San José de Ayala",
       "name_default": "San José de Ayala",
       "native": "San José de Ayala",
       "type": "city",
@@ -6848,7 +6848,7 @@
     },
     {
       "id": 73813,
-      "name": "圣何塞德塞尔韦拉",
+      "name": "San José de Cervera",
       "name_default": "San José de Cervera",
       "native": "San José de Cervera",
       "type": "city",
@@ -6884,7 +6884,7 @@
     },
     {
       "id": 73820,
-      "name": "瓜纳华托州圣何塞",
+      "name": "San José de Guanajuato",
       "name_default": "San José de Guanajuato",
       "native": "San José de Guanajuato",
       "type": "city",
@@ -6902,7 +6902,7 @@
     },
     {
       "id": 73831,
-      "name": "圣何塞·德拉蒙塔尼亚",
+      "name": "San José de la Montaña",
       "name_default": "San José de la Montaña",
       "native": "San José de la Montaña",
       "type": "city",
@@ -6920,7 +6920,7 @@
     },
     {
       "id": 73833,
-      "name": "圣何塞·德拉斯皮拉斯",
+      "name": "San José de las Pilas",
       "name_default": "San José de las Pilas",
       "native": "San José de las Pilas",
       "type": "city",
@@ -6938,7 +6938,7 @@
     },
     {
       "id": 73822,
-      "name": "圣何塞·德·利亚诺斯",
+      "name": "San José de Llanos",
       "name_default": "San José de Llanos",
       "native": "San José de Llanos",
       "type": "city",
@@ -6956,7 +6956,7 @@
     },
     {
       "id": 73823,
-      "name": "圣何塞·德·门多萨",
+      "name": "San José de Mendoza",
       "name_default": "San José de Mendoza",
       "native": "San José de Mendoza",
       "type": "city",
@@ -6992,7 +6992,7 @@
     },
     {
       "id": 73835,
-      "name": "圣何塞德尔塞里托德卡马戈",
+      "name": "San José del Cerrito de Camargo",
       "name_default": "San José del Cerrito de Camargo",
       "native": "San José del Cerrito de Camargo",
       "type": "city",
@@ -7010,7 +7010,7 @@
     },
     {
       "id": 73837,
-      "name": "圣何塞德尔波特雷罗",
+      "name": "San José del Potrero",
       "name_default": "San José del Potrero",
       "native": "San José del Potrero",
       "type": "city",
@@ -7028,7 +7028,7 @@
     },
     {
       "id": 73842,
-      "name": "圣何塞德尔罗德奥",
+      "name": "San José del Rodeo",
       "name_default": "San José del Rodeo",
       "native": "San José del Rodeo",
       "type": "city",
@@ -7046,7 +7046,7 @@
     },
     {
       "id": 73845,
-      "name": "圣何塞德尔托雷翁",
+      "name": "San José del Torreón",
       "name_default": "San José del Torreón",
       "native": "San José del Torreón",
       "type": "city",
@@ -7064,7 +7064,7 @@
     },
     {
       "id": 73850,
-      "name": "新圣何塞",
+      "name": "San José el Nuevo",
       "name_default": "San José el Nuevo",
       "native": "San José el Nuevo",
       "type": "city",
@@ -7082,7 +7082,7 @@
     },
     {
       "id": 73769,
-      "name": "圣何塞伊图尔维德",
+      "name": "San José Iturbide",
       "name_default": "San José Iturbide",
       "native": "San José Iturbide",
       "type": "adm2",
@@ -7100,7 +7100,7 @@
     },
     {
       "id": 73786,
-      "name": "圣何塞特马斯卡蒂奥",
+      "name": "San José Temascatío",
       "name_default": "San José Temascatío",
       "native": "San José Temascatío",
       "type": "city",
@@ -7118,7 +7118,7 @@
     },
     {
       "id": 73798,
-      "name": "圣何塞·维博里利亚斯",
+      "name": "San José Viborillas",
       "name_default": "San José Viborillas",
       "native": "San José Viborillas",
       "type": "city",
@@ -7136,7 +7136,7 @@
     },
     {
       "id": 73871,
-      "name": "圣胡安包蒂斯塔卡卡洛特",
+      "name": "San Juan Bautista Cacalote",
       "name_default": "San Juan Bautista Cacalote",
       "native": "San Juan Bautista Cacalote",
       "type": "city",
@@ -7154,7 +7154,7 @@
     },
     {
       "id": 73959,
-      "name": "圣胡安德阿巴霍",
+      "name": "San Juan de Abajo",
       "name_default": "San Juan de Abajo",
       "native": "San Juan de Abajo",
       "type": "city",
@@ -7172,7 +7172,7 @@
     },
     {
       "id": 73966,
-      "name": "圣胡安德拉维加",
+      "name": "San Juan de la Vega",
       "name_default": "San Juan de la Vega",
       "native": "San Juan de la Vega",
       "type": "city",
@@ -7190,7 +7190,7 @@
     },
     {
       "id": 73962,
-      "name": "圣胡安·德·奥塔茨",
+      "name": "San Juan de Otates",
       "name_default": "San Juan de Otates",
       "native": "San Juan de Otates",
       "type": "city",
@@ -7208,7 +7208,7 @@
     },
     {
       "id": 73974,
-      "name": "圣胡安德尔拉尼托",
+      "name": "San Juan del Llanito",
       "name_default": "San Juan del Llanito",
       "native": "San Juan del Llanito",
       "type": "city",
@@ -7226,7 +7226,7 @@
     },
     {
       "id": 73893,
-      "name": "圣胡安格兰德",
+      "name": "San Juan Grande",
       "name_default": "San Juan Grande",
       "native": "San Juan Grande",
       "type": "city",
@@ -7244,7 +7244,7 @@
     },
     {
       "id": 73903,
-      "name": "圣胡安·哈里佩奥",
+      "name": "San Juan Jaripeo",
       "name_default": "San Juan Jaripeo",
       "native": "San Juan Jaripeo",
       "type": "city",
@@ -7262,7 +7262,7 @@
     },
     {
       "id": 73914,
-      "name": "圣胡安潘德阿里巴",
+      "name": "San Juan Pan de Arriba",
       "name_default": "San Juan Pan de Arriba",
       "native": "San Juan Pan de Arriba",
       "type": "city",
@@ -7280,7 +7280,7 @@
     },
     {
       "id": 73991,
-      "name": "圣洛伦索",
+      "name": "San Lorenzo",
       "name_default": "San Lorenzo",
       "native": "San Lorenzo",
       "type": "city",
@@ -7298,7 +7298,7 @@
     },
     {
       "id": 74023,
-      "name": "圣卢卡斯",
+      "name": "San Lucas",
       "name_default": "San Lucas",
       "native": "San Lucas",
       "type": "city",
@@ -7316,7 +7316,7 @@
     },
     {
       "id": 74060,
-      "name": "圣路易斯·德拉巴斯",
+      "name": "San Luis de la Paz",
       "name_default": "San Luis de la Paz",
       "native": "San Luis de la Paz",
       "type": "adm2",
@@ -7334,7 +7334,7 @@
     },
     {
       "id": 74228,
-      "name": "圣米格尔德阿连德",
+      "name": "圣米格尔-德阿连德",
       "name_default": "San Miguel de Allende",
       "native": "San Miguel de Allende",
       "type": "city",
@@ -7352,7 +7352,7 @@
     },
     {
       "id": 74233,
-      "name": "圣米格尔德尔阿雷纳尔",
+      "name": "San Miguel del Arenal",
       "name_default": "San Miguel del Arenal",
       "native": "San Miguel del Arenal",
       "type": "city",
@@ -7370,9 +7370,9 @@
     },
     {
       "id": 74176,
-      "name": "圣米格尔埃门瓜罗",
+      "name": "San Miguel Eménguaro",
       "name_default": "San Miguel Eménguaro",
-      "native": "San Miguel Michael el Emengea",
+      "native": "San Miguel Eménguaro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -7388,7 +7388,7 @@
     },
     {
       "id": 74191,
-      "name": "圣米格尔章鱼",
+      "name": "San Miguel Octopan",
       "name_default": "San Miguel Octopan",
       "native": "San Miguel Octopan",
       "type": "city",
@@ -7406,7 +7406,7 @@
     },
     {
       "id": 74270,
-      "name": "圣尼古拉斯·德拉孔德萨",
+      "name": "San Nicolás de la Condesa",
       "name_default": "San Nicolás de la Condesa",
       "native": "San Nicolás de la Condesa",
       "type": "city",
@@ -7424,7 +7424,7 @@
     },
     {
       "id": 74272,
-      "name": "圣尼古拉斯·德洛斯·奥古斯丁教堂",
+      "name": "San Nicolás de los Agustinos",
       "name_default": "San Nicolás de los Agustinos",
       "native": "San Nicolás de los Agustinos",
       "type": "city",
@@ -7442,7 +7442,7 @@
     },
     {
       "id": 74275,
-      "name": "圣尼古拉斯·德尔卡门",
+      "name": "San Nicolás del Cármen",
       "name_default": "San Nicolás del Cármen",
       "native": "San Nicolás del Cármen",
       "type": "city",
@@ -7460,7 +7460,7 @@
     },
     {
       "id": 74258,
-      "name": "圣尼古拉斯帕兰格奥",
+      "name": "San Nicolás Parangueo",
       "name_default": "San Nicolás Parangueo",
       "native": "San Nicolás Parangueo",
       "type": "city",
@@ -7478,7 +7478,7 @@
     },
     {
       "id": 74263,
-      "name": "圣尼古拉斯·特马斯卡蒂奥",
+      "name": "San Nicolás Temascatío",
       "name_default": "San Nicolás Temascatío",
       "native": "San Nicolás Temascatío",
       "type": "city",
@@ -7496,7 +7496,7 @@
     },
     {
       "id": 74298,
-      "name": "圣巴勃罗佩霍",
+      "name": "San Pablo Pejo",
       "name_default": "San Pablo Pejo",
       "native": "San Pablo Pejo",
       "type": "city",
@@ -7514,7 +7514,7 @@
     },
     {
       "id": 74404,
-      "name": "圣佩德罗-德伊瓦拉",
+      "name": "San Pedro de Ibarra",
       "name_default": "San Pedro de Ibarra",
       "native": "San Pedro de Ibarra",
       "type": "city",
@@ -7532,7 +7532,7 @@
     },
     {
       "id": 74409,
-      "name": "圣佩德罗德洛斯纳兰霍斯",
+      "name": "San Pedro de los Naranjos",
       "name_default": "San Pedro de los Naranjos",
       "native": "San Pedro de los Naranjos",
       "type": "city",
@@ -7550,7 +7550,7 @@
     },
     {
       "id": 74378,
-      "name": "圣佩德罗特南戈",
+      "name": "San Pedro Tenango",
       "name_default": "San Pedro Tenango",
       "native": "San Pedro Tenango",
       "type": "city",
@@ -7568,7 +7568,7 @@
     },
     {
       "id": 74440,
-      "name": "圣罗克",
+      "name": "San Roque",
       "name_default": "San Roque",
       "native": "San Roque",
       "type": "city",
@@ -7586,7 +7586,7 @@
     },
     {
       "id": 74442,
-      "name": "圣罗克德蒙特斯",
+      "name": "San Roque de Montes",
       "name_default": "San Roque de Montes",
       "native": "San Roque de Montes",
       "type": "city",
@@ -7604,7 +7604,7 @@
     },
     {
       "id": 74443,
-      "name": "圣罗克德托雷斯",
+      "name": "San Roque de Torres",
       "name_default": "San Roque de Torres",
       "native": "San Roque de Torres",
       "type": "city",
@@ -7622,7 +7622,7 @@
     },
     {
       "id": 74450,
-      "name": "圣萨尔瓦多托雷西利亚斯",
+      "name": "San Salvador Torrecillas",
       "name_default": "San Salvador Torrecillas",
       "native": "San Salvador Torrecillas",
       "type": "city",
@@ -7658,7 +7658,7 @@
     },
     {
       "id": 74494,
-      "name": "圣维森特",
+      "name": "San Vicente",
       "name_default": "San Vicente",
       "native": "San Vicente",
       "type": "city",
@@ -7676,7 +7676,7 @@
     },
     {
       "id": 74507,
-      "name": "圣维森特德弗洛雷斯",
+      "name": "San Vicente de Flores",
       "name_default": "San Vicente de Flores",
       "native": "San Vicente de Flores",
       "type": "city",
@@ -7694,7 +7694,7 @@
     },
     {
       "id": 74523,
-      "name": "圣安娜",
+      "name": "Santa Ana",
       "name_default": "Santa Ana",
       "native": "Santa Ana",
       "type": "city",
@@ -7712,7 +7712,7 @@
     },
     {
       "id": 74544,
-      "name": "圣安娜帕库埃科",
+      "name": "Santa Ana Pacueco",
       "name_default": "Santa Ana Pacueco",
       "native": "Santa Ana Pacueco",
       "type": "city",
@@ -7730,7 +7730,7 @@
     },
     {
       "id": 74558,
-      "name": "圣塔安尼塔",
+      "name": "Santa Anita",
       "name_default": "Santa Anita",
       "native": "Santa Anita",
       "type": "city",
@@ -7748,7 +7748,7 @@
     },
     {
       "id": 74566,
-      "name": "圣巴巴拉",
+      "name": "Santa Bárbara",
       "name_default": "Santa Bárbara",
       "native": "Santa Bárbara",
       "type": "city",
@@ -7766,7 +7766,7 @@
     },
     {
       "id": 74579,
-      "name": "圣卡塔琳娜州",
+      "name": "Santa Catarina",
       "name_default": "Santa Catarina",
       "native": "Santa Catarina",
       "type": "adm2",
@@ -7784,7 +7784,7 @@
     },
     {
       "id": 74648,
-      "name": "圣克鲁斯·德胡文蒂诺·罗萨斯",
+      "name": "Santa Cruz de Juventino Rosas",
       "name_default": "Santa Cruz de Juventino Rosas",
       "native": "Santa Cruz de Juventino Rosas",
       "type": "municipality",
@@ -7802,7 +7802,7 @@
     },
     {
       "id": 74659,
-      "name": "圣菲德拉普里西马",
+      "name": "Santa Fe de la Purísima",
       "name_default": "Santa Fe de la Purísima",
       "native": "Santa Fe de la Purísima",
       "type": "city",
@@ -7820,7 +7820,7 @@
     },
     {
       "id": 74816,
-      "name": "圣玛丽亚德尔雷富希奥",
+      "name": "Santa María del Refugio",
       "name_default": "Santa María del Refugio",
       "native": "Santa María del Refugio",
       "type": "city",
@@ -7838,7 +7838,7 @@
     },
     {
       "id": 74838,
-      "name": "圣罗莎",
+      "name": "Santa Rosa",
       "name_default": "Santa Rosa",
       "native": "Santa Rosa",
       "type": "city",
@@ -7856,7 +7856,7 @@
     },
     {
       "id": 74850,
-      "name": "圣罗莎·德利马",
+      "name": "Santa Rosa de Lima",
       "name_default": "Santa Rosa de Lima",
       "native": "Santa Rosa de Lima",
       "type": "city",
@@ -7874,7 +7874,7 @@
     },
     {
       "id": 74852,
-      "name": "圣罗莎·德里瓦斯",
+      "name": "Santa Rosa de Rivas",
       "name_default": "Santa Rosa de Rivas",
       "native": "Santa Rosa de Rivas",
       "type": "city",
@@ -7910,7 +7910,7 @@
     },
     {
       "id": 74860,
-      "name": "圣特雷莎",
+      "name": "Santa Teresa",
       "name_default": "Santa Teresa",
       "native": "Santa Teresa",
       "type": "city",
@@ -7928,7 +7928,7 @@
     },
     {
       "id": 74862,
-      "name": "圣特雷西塔·德·唐·迪亚戈",
+      "name": "Santa Teresita de Don Diego",
       "name_default": "Santa Teresita de Don Diego",
       "native": "Santa Teresita de Don Diego",
       "type": "city",
@@ -8000,7 +8000,7 @@
     },
     {
       "id": 75028,
-      "name": "圣托马斯·瓦津德奥",
+      "name": "Santo Tomás Huatzindeo",
       "name_default": "Santo Tomás Huatzindeo",
       "native": "Santo Tomás Huatzindoo",
       "type": "city",
@@ -8054,7 +8054,7 @@
     },
     {
       "id": 75079,
-      "name": "西劳",
+      "name": "锡劳",
       "name_default": "Silao",
       "native": "Silao",
       "type": "adm2",
@@ -8108,7 +8108,7 @@
     },
     {
       "id": 75114,
-      "name": "新索莱达",
+      "name": "Soledad Nueva",
       "name_default": "Soledad Nueva",
       "native": "Soledad Nueva",
       "type": "city",
@@ -8218,7 +8218,7 @@
       "id": 75233,
       "name": "塔里莫罗",
       "name_default": "Tarimoro",
-      "native": "Targeror",
+      "native": "Tarimoro",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -8362,7 +8362,7 @@
       "id": 75812,
       "name": "图帕塔罗",
       "name_default": "Tupátaro",
-      "native": "Cortar",
+      "native": "Tupátaro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -8380,7 +8380,7 @@
       "id": 75891,
       "name": "乌里安加托",
       "name_default": "Uriangato",
-      "native": "Determinación",
+      "native": "Uriangato",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -8450,7 +8450,7 @@
     },
     {
       "id": 75924,
-      "name": "圣地亚哥谷",
+      "name": "巴耶德圣地亚哥",
       "name_default": "Valle de Santiago",
       "native": "Valle de Santiago",
       "type": "adm2",

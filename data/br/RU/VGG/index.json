@@ -376,7 +376,7 @@
     },
     {
       "id": 146867,
-      "name": "Bobrovsky 2 vloaz",
+      "name": "Bobrovsky 2-y",
       "name_default": "Bobrovsky 2-y",
       "native": "Бобровский 2-й",
       "type": "city",
@@ -468,7 +468,7 @@
       "id": 146872,
       "name": "Chiganaki 1-ye",
       "name_default": "Chiganaki 1-ye",
-      "native": "Чиганаки 1-й год",
+      "native": "Чиганаки 1-е",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -484,9 +484,9 @@
     },
     {
       "id": 146873,
-      "name": "Chiganaki 2 vloaz",
+      "name": "Chiganaki 2-ye",
       "name_default": "Chiganaki 2-ye",
-      "native": "Чиганаки 2-летний",
+      "native": "Чиганаки 2-е",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -880,9 +880,9 @@
     },
     {
       "id": 146895,
-      "name": "Marilh",
+      "name": "Log",
       "name_default": "Log",
-      "native": "Бревно",
+      "native": "Лог",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1024,7 +1024,7 @@
     },
     {
       "id": 146904,
-      "name": "Oblast Volgograd Novonikolayevsky",
+      "name": "Novonikolayevsky Volgograd",
       "name_default": "Novonikolayevsky Volgograd",
       "native": "Новониколаевский Волгоградская область",
       "type": "oblast",
@@ -1204,7 +1204,7 @@
     },
     {
       "id": 146914,
-      "name": "Preobrazhenskaya Volgograd Oblast",
+      "name": "Preobrazhenskaya Volgograd",
       "name_default": "Preobrazhenskaya Volgograd",
       "native": "Преображенская Волгоградская область",
       "type": "oblast",
@@ -1276,7 +1276,7 @@
     },
     {
       "id": 146918,
-      "name": "Rubyozny",
+      "name": "Rubyozhny",
       "name_default": "Rubyozhny",
       "native": "Рубежный",
       "type": "city",
@@ -1456,7 +1456,7 @@
     },
     {
       "id": 146928,
-      "name": "Distrig Sovetski",
+      "name": "Sovetsky",
       "name_default": "Sovetsky",
       "native": "Советский район",
       "type": "district",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 146929,
-      "name": "Srednya Akhtuba",
+      "name": "Srednyaya Akhtuba",
       "name_default": "Srednyaya Akhtuba",
       "native": "Средняя Ахтуба",
       "type": "adm2",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 146938,
-      "name": "Voroshilovskiy Distrig Volgograd",
+      "name": "Voroshilovskiy District Volgograd",
       "name_default": "Voroshilovskiy District Volgograd",
       "native": "Ворошиловский район Волгограда",
       "type": "city",

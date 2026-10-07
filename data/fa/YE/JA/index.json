@@ -75,7 +75,7 @@
     },
     {
       "id": 130688,
-      "name": "الغیل",
+      "name": "ناحیه الغیل",
       "name_default": "Al Ghayl",
       "native": "الغيل",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 130698,
-      "name": "الحزم",
+      "name": "ناحیه الحزم",
       "name_default": "Al Hazm",
       "native": "الحزم",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 130699,
-      "name": "الحمیدات",
+      "name": "ناحیه الحمیدات",
       "name_default": "Al Humaydat",
       "native": "الحميدات",
       "type": "adm2",
@@ -132,7 +132,7 @@
       "name": "الخلق",
       "name_default": "Al Khalq",
       "native": "الخلق",
-      "type": "adm1",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 14123,
@@ -147,7 +147,7 @@
     },
     {
       "id": 130725,
-      "name": "المصلوب",
+      "name": "ناحیه المصلوب",
       "name_default": "Al Maslub",
       "native": "المصلوب",
       "type": "city",
@@ -165,10 +165,10 @@
     },
     {
       "id": 130726,
-      "name": "المطمه",
+      "name": "ناحیه المطمة",
       "name_default": "Al Matammah",
       "native": "المطمة",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 28935,
@@ -186,7 +186,7 @@
       "name": "آل ماتون",
       "name_default": "Al Maton",
       "native": "آل ماتون",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 28411,
@@ -201,7 +201,7 @@
     },
     {
       "id": 130821,
-      "name": "برط العنان",
+      "name": "ناحیه برط العنان",
       "name_default": "Barţ al ‘Anān",
       "native": "برط العنان",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 130888,
-      "name": "خراب المرعشی",
+      "name": "ناحیه خراب المراشی",
       "name_default": "Kharab Al Marashi",
       "native": "خراب المرعشي",
       "type": "area",
@@ -255,7 +255,7 @@
     },
     {
       "id": 130950,
-      "name": "راجوزا",
+      "name": "ناحیه رجوزه",
       "name_default": "Rajuzah",
       "native": "راجوزة",
       "type": "area",

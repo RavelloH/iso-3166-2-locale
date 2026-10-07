@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 664,
-      "name": "Apolinário Saravia",
+      "name": "Apolinario Saravia",
       "name_default": "Apolinario Saravia",
       "native": "Apolinario Saravia",
       "type": "city",
@@ -281,7 +281,7 @@
       "name": "Departamento de Chicoana",
       "name_default": "Departamento de Chicoana",
       "native": "Departamento de Chicoana",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24729,
@@ -407,7 +407,7 @@
       "name": "Departamento de Metán",
       "name_default": "Departamento de Metán",
       "native": "Departamento de Metán",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 48245,
@@ -440,7 +440,7 @@
     },
     {
       "id": 971,
-      "name": "Departamento de Rosário de la Frontera",
+      "name": "Departamento de Rosario de la Frontera",
       "name_default": "Departamento de Rosario de la Frontera",
       "native": "Departamento de Rosario de la Frontera",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 970,
-      "name": "Departamento de Rosário de Lerma",
+      "name": "Departamento de Rosario de Lerma",
       "name_default": "Departamento de Rosario de Lerma",
       "native": "Departamento de Rosario de Lerma",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1052,
-      "name": "O Carril",
+      "name": "El Carril",
       "name_default": "El Carril",
       "native": "El Carril",
       "type": "city",
@@ -548,9 +548,9 @@
     },
     {
       "id": 1067,
-      "name": "Embarque",
+      "name": "Embarcación",
       "name_default": "Embarcación",
-      "native": "Vergüenza",
+      "native": "Embarcación",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -602,7 +602,7 @@
     },
     {
       "id": 1168,
-      "name": "Joaquín V. González",
+      "name": "Joaquín Víctor González",
       "name_default": "Joaquín V. González",
       "native": "Joaquín V. González",
       "type": "city",
@@ -620,7 +620,7 @@
     },
     {
       "id": 1177,
-      "name": "A Caldeira",
+      "name": "La Caldera",
       "name_default": "La Caldera",
       "native": "La Caldera",
       "type": "adm2",
@@ -638,7 +638,7 @@
     },
     {
       "id": 1224,
-      "name": "As Lajitas",
+      "name": "Las Lajitas",
       "name_default": "Las Lajitas",
       "native": "Las Lajitas",
       "type": "city",

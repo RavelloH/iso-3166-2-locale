@@ -134,9 +134,9 @@
   "cities": [
     {
       "id": 68014,
-      "name": "阿巴索洛",
+      "name": "阿瓦索洛",
       "name_default": "Abasolo",
-      "native": "Tarifa",
+      "native": "Abasolo",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -152,7 +152,7 @@
     },
     {
       "id": 68114,
-      "name": "新水城",
+      "name": "Agua Nueva",
       "name_default": "Agua Nueva",
       "native": "Agua Nueva",
       "type": "city",
@@ -172,7 +172,7 @@
       "id": 68175,
       "name": "阿尔比亚",
       "name_default": "Albia",
-      "native": "cama",
+      "native": "Albia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -224,7 +224,7 @@
     },
     {
       "id": 68374,
-      "name": "阿特阿加",
+      "name": "阿特亚加",
       "name_default": "Arteaga",
       "native": "Arteaga",
       "type": "adm2",
@@ -314,7 +314,7 @@
     },
     {
       "id": 69142,
-      "name": "阿库尼亚城",
+      "name": "阿库尼亚",
       "name_default": "Ciudad Acuña",
       "native": "Ciudad Acuña",
       "type": "city",
@@ -332,7 +332,7 @@
     },
     {
       "id": 69169,
-      "name": "梅尔乔尔穆兹奎兹城",
+      "name": "Ciudad Melchor Múzquiz",
       "name_default": "Ciudad Melchor Múzquiz",
       "native": "Ciudad Melchor Múzquiz",
       "type": "adm2",
@@ -766,7 +766,7 @@
       "id": 70630,
       "name": "格雷罗",
       "name_default": "Guerrero",
-      "native": "Guerrillero",
+      "native": "Guerrero",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1340,7 +1340,7 @@
     },
     {
       "id": 72373,
-      "name": "新罗西塔",
+      "name": "Nueva Rosita",
       "name_default": "Nueva Rosita",
       "native": "Nueva Rosita",
       "type": "city",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": 72392,
-      "name": "新莱昂州",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Nuevo León",
       "type": "city",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": 72661,
-      "name": "帕拉斯·德拉富恩特",
+      "name": "帕拉斯-德拉富恩特",
       "name_default": "Parras de la Fuente",
       "native": "Parras de la Fuente",
       "type": "adm2",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": 72772,
-      "name": "彼德拉斯·内格拉斯",
+      "name": "彼德拉斯内格拉斯",
       "name_default": "Piedras Negras",
       "native": "Piedras Negras",
       "type": "city",
@@ -1646,7 +1646,7 @@
     },
     {
       "id": 73370,
-      "name": "圣安东尼奥·德拉斯阿拉萨纳斯",
+      "name": "San Antonio de las Alazanas",
       "name_default": "San Antonio de las Alazanas",
       "native": "San Antonio de las Alazanas",
       "type": "city",
@@ -1664,7 +1664,7 @@
     },
     {
       "id": 73379,
-      "name": "圣安东尼奥德尔科约特",
+      "name": "San Antonio del Coyote",
       "name_default": "San Antonio del Coyote",
       "native": "San Antonio del Coyote",
       "type": "city",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": 73450,
-      "name": "圣布埃纳文图拉",
+      "name": "San Buenaventura",
       "name_default": "San Buenaventura",
       "native": "San Buenaventura",
       "type": "adm2",
@@ -1700,7 +1700,7 @@
     },
     {
       "id": 73459,
-      "name": "圣卡洛斯",
+      "name": "San Carlos",
       "name_default": "San Carlos",
       "native": "San Carlos",
       "type": "section",
@@ -1718,7 +1718,7 @@
     },
     {
       "id": 73509,
-      "name": "圣埃斯特班德阿巴霍",
+      "name": "San Esteban de Abajo",
       "name_default": "San Esteban de Abajo",
       "native": "San Esteban de Abajo",
       "type": "city",
@@ -1736,7 +1736,7 @@
     },
     {
       "id": 73608,
-      "name": "圣弗朗西斯科·德阿里巴",
+      "name": "San Francisco de Arriba",
       "name_default": "San Francisco de Arriba",
       "native": "San Francisco de Arriba",
       "type": "city",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": 73648,
-      "name": "圣伊格纳西奥",
+      "name": "San Ignacio",
       "name_default": "San Ignacio",
       "native": "San Ignacio",
       "type": "city",
@@ -1772,7 +1772,7 @@
     },
     {
       "id": 73808,
-      "name": "圣何塞德奥拉",
+      "name": "San José de Aura",
       "name_default": "San José de Aura",
       "native": "San José de Aura",
       "type": "city",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": 73965,
-      "name": "圣胡安德拉瓦克里亚",
+      "name": "San Juan de la Vaquería",
       "name_default": "San Juan de la Vaquería",
       "native": "San Juan de la Vaquería",
       "type": "city",
@@ -1826,7 +1826,7 @@
     },
     {
       "id": 73989,
-      "name": "圣洛伦索",
+      "name": "San Lorenzo",
       "name_default": "San Lorenzo",
       "native": "San Lorenzo",
       "type": "city",
@@ -1844,7 +1844,7 @@
     },
     {
       "id": 74065,
-      "name": "圣马科斯",
+      "name": "San Marcos",
       "name_default": "San Marcos",
       "native": "San Marcos",
       "type": "city",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": 74152,
-      "name": "圣米格尔",
+      "name": "San Miguel",
       "name_default": "San Miguel",
       "native": "San Miguel",
       "type": "city",
@@ -1880,7 +1880,7 @@
     },
     {
       "id": 74555,
-      "name": "圣安娜德尔皮拉尔",
+      "name": "Santa Ana del Pilar",
       "name_default": "Santa Ana del Pilar",
       "native": "Santa Ana del Pilar",
       "type": "city",
@@ -1898,7 +1898,7 @@
     },
     {
       "id": 74662,
-      "name": "圣达菲",
+      "name": "Santa Fé",
       "name_default": "Santa Fé",
       "native": "Santa Fe",
       "type": "city",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": 75020,
-      "name": "圣尼诺阿瓜纳瓦尔",
+      "name": "Santo Niño Aguanaval",
       "name_default": "Santo Niño Aguanaval",
       "native": "Santo Niño Aguanaval",
       "type": "city",
@@ -1972,7 +1972,7 @@
       "id": 75118,
       "name": "索利马",
       "name_default": "Solima",
-      "native": "Sal",
+      "native": "Solima",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2042,7 +2042,7 @@
     },
     {
       "id": 75947,
-      "name": "Veinte de Noviembre（圣卢西亚）",
+      "name": "Veinte de Noviembre (Santa Lucía)",
       "name_default": "Veinte de Noviembre (Santa Lucía)",
       "native": "Veinte de Noviembre (Santa Lucía)",
       "type": "city",
@@ -2078,7 +2078,7 @@
     },
     {
       "id": 75987,
-      "name": "维斯卡",
+      "name": "别斯卡",
       "name_default": "Viesca",
       "native": "Viesca",
       "type": "adm2",

@@ -75,7 +75,7 @@
     },
     {
       "id": 48607,
-      "name": "Município de Tameside",
+      "name": "Borough of Tameside",
       "name_default": "Borough of Tameside",
       "native": "Borough of Tameside",
       "type": "area",
@@ -146,24 +146,6 @@
       "country_id": 232
     },
     {
-      "id": 49662,
-      "name": "Glossop",
-      "name_default": "Glossop",
-      "native": "Glossop",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 33243,
-      "latitude": "53.44325000",
-      "longitude": "-1.94900000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q383912",
-      "country_code": "GB",
-      "state_code": "TAM",
-      "state_id": 2367,
-      "country_id": 232
-    },
-    {
       "id": 49845,
       "name": "Haughton Green",
       "name_default": "Haughton Green",
@@ -183,7 +165,7 @@
     },
     {
       "id": 49930,
-      "name": "Pico Alto",
+      "name": "High Peak",
       "name_default": "High Peak",
       "native": "High Peak",
       "type": "locality",

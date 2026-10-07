@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 23490,
-      "name": "アドラースホフ",
+      "name": "アドラースホーフ",
       "name_default": "Adlershof",
       "native": "Adlershof",
       "type": "section",
@@ -82,7 +82,7 @@
     },
     {
       "id": 23579,
-      "name": "アルト・ホーエンシェーンハウゼン",
+      "name": "ベルリン＝アルト＝ホーエンシェーンハウゼン",
       "name_default": "Alt-Hohenschönhausen",
       "native": "Alt-Hohenschönhausen",
       "type": "section",
@@ -100,7 +100,7 @@
     },
     {
       "id": 23581,
-      "name": "アルトトレプトウ",
+      "name": "ベルリン＝アルト＝トレプトウ",
       "name_default": "Alt-Treptow",
       "native": "Alt-Treptow",
       "type": "section",
@@ -118,7 +118,7 @@
     },
     {
       "id": 23621,
-      "name": "アルトグリーニッケ",
+      "name": "ベルリン＝アルトグリーニケ",
       "name_default": "Altglienicke",
       "native": "Altglienicke",
       "type": "section",
@@ -136,7 +136,7 @@
     },
     {
       "id": 23959,
-      "name": "バウムシューレンヴェーク",
+      "name": "ベルリン＝バウムシューレンヴェーク",
       "name_default": "Baumschulenweg",
       "native": "Baumschulenweg",
       "type": "section",
@@ -208,7 +208,7 @@
     },
     {
       "id": 24111,
-      "name": "ビースドルフ",
+      "name": "ベルリン＝ビースドルフ",
       "name_default": "Biesdorf",
       "native": "Biesdorf",
       "type": "section",
@@ -226,7 +226,7 @@
     },
     {
       "id": 24165,
-      "name": "ブランケンブルク",
+      "name": "ベルリン＝ブランケンブルク",
       "name_default": "Blankenburg",
       "native": "Blankenburg",
       "type": "section",
@@ -244,7 +244,7 @@
     },
     {
       "id": 24167,
-      "name": "ブランケンフェルデ",
+      "name": "ベルリン＝ブランケンフェルデ",
       "name_default": "Blankenfelde",
       "native": "Blankenfelde",
       "type": "section",
@@ -262,7 +262,7 @@
     },
     {
       "id": 24217,
-      "name": "ボンスドルフ",
+      "name": "ベルリン・ボーンスドルフ",
       "name_default": "Bohnsdorf",
       "native": "Bohnsdorf",
       "type": "section",
@@ -280,7 +280,7 @@
     },
     {
       "id": 24338,
-      "name": "ブリッツ",
+      "name": "ベルリン＝ブリッツ",
       "name_default": "Britz",
       "native": "Britz",
       "type": "section",
@@ -298,9 +298,9 @@
     },
     {
       "id": 24379,
-      "name": "ブッフ",
+      "name": "ベルリン＝ブーフ",
       "name_default": "Buch",
-      "native": "Buchst",
+      "native": "Buch",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -316,7 +316,7 @@
     },
     {
       "id": 24397,
-      "name": "バックウ",
+      "name": "ベルリン＝ブーコウ",
       "name_default": "Buckow",
       "native": "Buckow",
       "type": "section",
@@ -334,7 +334,7 @@
     },
     {
       "id": 24531,
-      "name": "シャルロッテンブルク",
+      "name": "ベルリン＝シャルロッテンブルク",
       "name_default": "Charlottenburg",
       "native": "Charlottenburg",
       "type": "section",
@@ -352,7 +352,7 @@
     },
     {
       "id": 24532,
-      "name": "シャルロッテンブルク＝ノルト",
+      "name": "ベルリン＝シャルロッテンブルク＝ノルト",
       "name_default": "Charlottenburg-Nord",
       "native": "Charlottenburg-Nord",
       "type": "section",
@@ -370,7 +370,7 @@
     },
     {
       "id": 24578,
-      "name": "ダーレム",
+      "name": "ベルリン＝ダーレム",
       "name_default": "Dahlem",
       "native": "Dahlem",
       "type": "section",
@@ -388,7 +388,7 @@
     },
     {
       "id": 25134,
-      "name": "ファルケンベルグ",
+      "name": "ベルリン＝ファルケンベルク",
       "name_default": "Falkenberg",
       "native": "Falkenberg",
       "type": "section",
@@ -406,7 +406,7 @@
     },
     {
       "id": 25136,
-      "name": "ファルケンハーゲナー・フェルド",
+      "name": "ベルリン＝ファルケンハーゲナー・フェルト",
       "name_default": "Falkenhagener Feld",
       "native": "Falkenhagener Feld",
       "type": "section",
@@ -424,7 +424,7 @@
     },
     {
       "id": 25163,
-      "name": "フェンプフル",
+      "name": "ベルリン＝フェンプフール",
       "name_default": "Fennpfuhl",
       "native": "Fennpfuhl",
       "type": "section",
@@ -442,7 +442,7 @@
     },
     {
       "id": 25225,
-      "name": "フランツェージッシュ・ブッフホルツ",
+      "name": "ベルリン＝フランツェージッシュ・ブーフホルツ",
       "name_default": "Französisch Buchholz",
       "native": "Französisch Buchholz",
       "type": "section",
@@ -478,7 +478,7 @@
     },
     {
       "id": 25287,
-      "name": "フリードリヒスフェルデ",
+      "name": "ベルリン＝フリードリヒスフェルデ",
       "name_default": "Friedrichsfelde",
       "native": "Friedrichsfelde",
       "type": "section",
@@ -496,7 +496,7 @@
     },
     {
       "id": 25289,
-      "name": "フリードリヒスハーゲン",
+      "name": "ベルリン＝フリードリヒスハーゲン",
       "name_default": "Friedrichshagen",
       "native": "Friedrichshagen",
       "type": "section",
@@ -514,7 +514,7 @@
     },
     {
       "id": 25290,
-      "name": "フリードリヒスハイン",
+      "name": "ベルリン＝フリードリヒスハイン",
       "name_default": "Friedrichshain",
       "native": "Friedrichshain",
       "type": "section",
@@ -532,7 +532,7 @@
     },
     {
       "id": 25305,
-      "name": "フローナウ",
+      "name": "ベルリン＝フローナウ",
       "name_default": "Frohnau",
       "native": "Frohnau",
       "type": "section",
@@ -550,7 +550,7 @@
     },
     {
       "id": 25376,
-      "name": "ガトウ",
+      "name": "ベルリン＝ガートウ",
       "name_default": "Gatow",
       "native": "Gatow",
       "type": "section",
@@ -568,7 +568,7 @@
     },
     {
       "id": 25475,
-      "name": "ゲズントブルンネン",
+      "name": "ベルリン＝ゲズントブルンネン",
       "name_default": "Gesundbrunnen",
       "native": "Gesundbrunnen",
       "type": "section",
@@ -604,7 +604,7 @@
     },
     {
       "id": 25734,
-      "name": "グリューナウ",
+      "name": "グルナウ",
       "name_default": "Grünau",
       "native": "Grünau",
       "type": "section",
@@ -622,7 +622,7 @@
     },
     {
       "id": 25719,
-      "name": "グリューネヴァルト",
+      "name": "ベルリン＝グルーネヴァルト",
       "name_default": "Grunewald",
       "native": "Grunewald",
       "type": "section",
@@ -640,9 +640,9 @@
     },
     {
       "id": 25841,
-      "name": "ハーケンフェルデ",
+      "name": "ベルリン＝ハーケンフェルデ",
       "name_default": "Hakenfelde",
-      "native": "FALSCH",
+      "native": "Hakenfelde",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -658,7 +658,7 @@
     },
     {
       "id": 25848,
-      "name": "ハレン湖",
+      "name": "ベルリン＝ハーレンゼー",
       "name_default": "Halensee",
       "native": "Halensee",
       "type": "section",
@@ -676,7 +676,7 @@
     },
     {
       "id": 25892,
-      "name": "ハンザヴィアテル",
+      "name": "ハンザ地区",
       "name_default": "Hansaviertel",
       "native": "Hansaviertel",
       "type": "section",
@@ -694,7 +694,7 @@
     },
     {
       "id": 25926,
-      "name": "ハーゼルホルスト",
+      "name": "ベルリン＝ハーゼルホルスト",
       "name_default": "Haselhorst",
       "native": "Haselhorst",
       "type": "section",
@@ -712,7 +712,7 @@
     },
     {
       "id": 26000,
-      "name": "ハイリゲン湖",
+      "name": "ベルリン＝ハイリゲンゼー",
       "name_default": "Heiligensee",
       "native": "Heiligensee",
       "type": "section",
@@ -730,7 +730,7 @@
     },
     {
       "id": 26013,
-      "name": "ハイナースドルフ",
+      "name": "ベルリン＝ハイナースドルフ",
       "name_default": "Heinersdorf",
       "native": "Heinersdorf",
       "type": "section",
@@ -748,7 +748,7 @@
     },
     {
       "id": 26026,
-      "name": "ヘラースドルフ",
+      "name": "ベルリン＝ヘラースドルフ",
       "name_default": "Hellersdorf",
       "native": "Hellersdorf",
       "type": "section",
@@ -766,7 +766,7 @@
     },
     {
       "id": 26082,
-      "name": "ヘルムスドルフ",
+      "name": "ベルリン＝ヘルムスドルフ",
       "name_default": "Hermsdorf",
       "native": "Hermsdorf",
       "type": "section",
@@ -784,7 +784,7 @@
     },
     {
       "id": 26457,
-      "name": "ヨハニスタール",
+      "name": "ベルリン＝",
       "name_default": "Johannisthal",
       "native": "Johannisthal",
       "type": "section",
@@ -802,7 +802,7 @@
     },
     {
       "id": 26517,
-      "name": "カールスホルスト",
+      "name": "ベルリン・カールスホルスト",
       "name_default": "Karlshorst",
       "native": "Karlshorst",
       "type": "section",
@@ -820,7 +820,7 @@
     },
     {
       "id": 26523,
-      "name": "カロウ",
+      "name": "ベルリン＝カーロウ",
       "name_default": "Karow",
       "native": "Karow",
       "type": "section",
@@ -838,7 +838,7 @@
     },
     {
       "id": 26545,
-      "name": "カウルスドルフ",
+      "name": "ベルリン＝カウルスドルフ",
       "name_default": "Kaulsdorf",
       "native": "Kaulsdorf",
       "type": "section",
@@ -856,9 +856,9 @@
     },
     {
       "id": 26655,
-      "name": "クラドウ",
+      "name": "ベルリン＝クラードウ",
       "name_default": "Kladow",
-      "native": "Verkleidet",
+      "native": "Kladow",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -874,7 +874,7 @@
     },
     {
       "id": 26716,
-      "name": "コンラートスヘーエ",
+      "name": "ベルリン＝コンラーツヘーエ",
       "name_default": "Konradshöhe",
       "native": "Konradshöhe",
       "type": "section",
@@ -892,7 +892,7 @@
     },
     {
       "id": 26842,
-      "name": "ケーペニック",
+      "name": "ベルリン＝ケーペニック",
       "name_default": "Köpenick",
       "native": "Köpenick",
       "type": "section",
@@ -928,7 +928,7 @@
     },
     {
       "id": 26948,
-      "name": "ランクヴィッツ",
+      "name": "ベルリン＝ランクヴィッツ",
       "name_default": "Lankwitz",
       "native": "Lankwitz",
       "type": "section",
@@ -946,7 +946,7 @@
     },
     {
       "id": 27078,
-      "name": "リヒテンベルク",
+      "name": "ベルリン＝リヒテンベルク",
       "name_default": "Lichtenberg",
       "native": "Lichtenberg",
       "type": "section",
@@ -964,7 +964,7 @@
     },
     {
       "id": 27082,
-      "name": "リヒテンラーデ",
+      "name": "ベルリン＝リヒテンラーデ",
       "name_default": "Lichtenrade",
       "native": "Lichtenrade",
       "type": "section",
@@ -1000,7 +1000,7 @@
     },
     {
       "id": 27201,
-      "name": "リュバーズ",
+      "name": "ベルリン＝リューバース",
       "name_default": "Lübars",
       "native": "Lübars",
       "type": "section",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": 27233,
-      "name": "マールスドルフ",
+      "name": "ベルリン＝マールスドルフ",
       "name_default": "Mahlsdorf",
       "native": "Mahlsdorf",
       "type": "section",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": 27274,
-      "name": "マリエンドルフ",
+      "name": "ベルリン＝マリーエンドルフ",
       "name_default": "Mariendorf",
       "native": "Mariendorf",
       "type": "section",
@@ -1054,7 +1054,7 @@
     },
     {
       "id": 27275,
-      "name": "マリエンフェルデ",
+      "name": "ベルリン＝マリーエンフェルデ",
       "name_default": "Marienfelde",
       "native": "Marienfelde",
       "type": "section",
@@ -1072,7 +1072,7 @@
     },
     {
       "id": 27554,
-      "name": "マルキッシェス・フィアテル",
+      "name": "ベルリン＝メルキッシェス・フィアテル",
       "name_default": "Märkisches Viertel",
       "native": "Märkisches Viertel",
       "type": "section",
@@ -1090,7 +1090,7 @@
     },
     {
       "id": 27334,
-      "name": "マルツァーン",
+      "name": "ベルリン＝マルツァーン",
       "name_default": "Marzahn",
       "native": "Marzahn",
       "type": "section",
@@ -1110,7 +1110,7 @@
       "id": 27478,
       "name": "ミッテ",
       "name_default": "Mitte",
-      "native": "Nicht",
+      "native": "Mitte",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1126,7 +1126,7 @@
     },
     {
       "id": 27496,
-      "name": "モアビット",
+      "name": "ベルリン＝モアビト地区",
       "name_default": "Moabit",
       "native": "Moabit",
       "type": "section",
@@ -1144,9 +1144,9 @@
     },
     {
       "id": 27587,
-      "name": "ミュッゲルハイム",
+      "name": "ベルリン＝ミュッゲルハイム",
       "name_default": "Müggelheim",
-      "native": "Mühlen",
+      "native": "Müggelheim",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1162,7 +1162,7 @@
     },
     {
       "id": 27693,
-      "name": "ノイホーエンシェーンハウゼン",
+      "name": "ベルリン＝ノイ＝ホーエンシェーンハウゼン",
       "name_default": "Neu-Hohenschönhausen",
       "native": "Neu-Hohenschönhausen",
       "type": "section",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": 27765,
-      "name": "ノイケルン",
+      "name": "ノイケルン区",
       "name_default": "Neukölln",
       "native": "Neukölln",
       "type": "section",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": 27873,
-      "name": "ニーダーシェーネヴァイデ",
+      "name": "ベルリン＝ニーダーシェーネヴァイデ",
       "name_default": "Niederschöneweide",
       "native": "Niederschöneweide",
       "type": "section",
@@ -1216,7 +1216,7 @@
     },
     {
       "id": 27874,
-      "name": "ニーダーシェーンハウゼン",
+      "name": "ベルリン＝ニーダーシェーンハウゼン",
       "name_default": "Niederschönhausen",
       "native": "Niederschönhausen",
       "type": "section",
@@ -1234,7 +1234,7 @@
     },
     {
       "id": 27899,
-      "name": "ニコラシー",
+      "name": "ベルリン＝ニコラスゼー",
       "name_default": "Nikolassee",
       "native": "Nikolassee",
       "type": "section",
@@ -1252,9 +1252,9 @@
     },
     {
       "id": 28034,
-      "name": "オーバーシェーネヴァイデ",
+      "name": "ベルリン＝オーバーシェーネヴァイデ",
       "name_default": "Oberschöneweide",
-      "native": "OBERSCHÖNEWED",
+      "native": "Oberschöneweide",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1270,7 +1270,7 @@
     },
     {
       "id": 28216,
-      "name": "パンコウ",
+      "name": "ベルリン＝パンコウ",
       "name_default": "Pankow",
       "native": "Pankow",
       "type": "section",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 28330,
-      "name": "プランターヴァルト",
+      "name": "ベルリン＝プレンターヴァルト",
       "name_default": "Plänterwald",
       "native": "Plänterwald",
       "type": "section",
@@ -1306,7 +1306,7 @@
     },
     {
       "id": 28375,
-      "name": "プレンツラウアーベルク",
+      "name": "プレンツラウアー・ベルク",
       "name_default": "Prenzlauer Berg",
       "native": "Prenzlauer Berg",
       "type": "section",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": 28452,
-      "name": "ラーンスドルフ",
+      "name": "ベルリン＝ラーンスドルフ",
       "name_default": "Rahnsdorf",
       "native": "Rahnsdorf",
       "type": "section",
@@ -1360,7 +1360,7 @@
     },
     {
       "id": 28710,
-      "name": "ローゼンタール",
+      "name": "ベルリン＝ローゼンタール",
       "name_default": "Rosenthal",
       "native": "Rosenthal",
       "type": "section",
@@ -1378,7 +1378,7 @@
     },
     {
       "id": 28753,
-      "name": "ルドウ",
+      "name": "ベルリン＝ルードウ",
       "name_default": "Rudow",
       "native": "Rudow",
       "type": "section",
@@ -1414,7 +1414,7 @@
     },
     {
       "id": 28989,
-      "name": "シュマルゲンドルフ",
+      "name": "ベルリン＝シュマルゲンドルフ",
       "name_default": "Schmargendorf",
       "native": "SCHMARGENDORF",
       "type": "section",
@@ -1432,7 +1432,7 @@
     },
     {
       "id": 28998,
-      "name": "シュモックヴィッツ",
+      "name": "ベルリン＝シュメークヴィッツ",
       "name_default": "Schmöckwitz",
       "native": "Schmöckwitz",
       "type": "section",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": 29218,
-      "name": "シーメンスシュタット",
+      "name": "ベルリン＝ジーメンスシュタット",
       "name_default": "Siemensstadt",
       "native": "Siemensstadt",
       "type": "section",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": 29286,
-      "name": "シュパンダウ",
+      "name": "ベルリン＝シュパンダウ",
       "name_default": "Spandau",
       "native": "Spandau",
       "type": "section",
@@ -1504,9 +1504,9 @@
     },
     {
       "id": 29313,
-      "name": "スターケン",
+      "name": "ベルリン＝シュターケン",
       "name_default": "Staaken",
-      "native": "Stand",
+      "native": "Staaken",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1522,7 +1522,7 @@
     },
     {
       "id": 29329,
-      "name": "マルヒョウのシュタットトランジードルング",
+      "name": "ベルリン＝シュタットラントジードルング・マルヒョウ",
       "name_default": "Stadtrandsiedlung Malchow",
       "native": "Stadtrandsiedlung Malchow",
       "type": "section",
@@ -1540,7 +1540,7 @@
     },
     {
       "id": 29353,
-      "name": "シュテグリッツ",
+      "name": "ベルリン＝シュテーグリッツ",
       "name_default": "Steglitz",
       "native": "Steglitz",
       "type": "section",
@@ -1558,9 +1558,9 @@
     },
     {
       "id": 29543,
-      "name": "テーゲル",
+      "name": "ベルリン＝テーゲル",
       "name_default": "Tegel",
-      "native": "Ziegel",
+      "native": "Tegel",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 29555,
-      "name": "テンペルホーフ",
+      "name": "ベルリン＝テンペルホーフ",
       "name_default": "Tempelhof",
       "native": "Tempelhof",
       "type": "section",
@@ -1594,7 +1594,7 @@
     },
     {
       "id": 29612,
-      "name": "ティーアガルテン",
+      "name": "ベルリン・ティーアガルテン",
       "name_default": "Tiergarten",
       "native": "Tiergarten",
       "type": "section",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": 29926,
-      "name": "ワイドマンズラスト",
+      "name": "ベルリン＝ヴァイトマンスルスト",
       "name_default": "Waidmannslust",
       "native": "Waidmannslust",
       "type": "section",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": 30008,
-      "name": "ヴァンゼー",
+      "name": "ベルリン＝ヴァンゼー",
       "name_default": "Wannsee",
       "native": "Wannsee",
       "type": "section",
@@ -1648,7 +1648,7 @@
     },
     {
       "id": 30025,
-      "name": "ヴァルテンベルク",
+      "name": "ベルリン＝ヴァルテンベルク",
       "name_default": "Wartenberg",
       "native": "Wartenberg",
       "type": "section",
@@ -1666,9 +1666,9 @@
     },
     {
       "id": 30048,
-      "name": "結婚式",
+      "name": "ベルリン＝ヴェディング",
       "name_default": "Wedding",
-      "native": "Hochzeit",
+      "native": "Wedding",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1684,9 +1684,9 @@
     },
     {
       "id": 30134,
-      "name": "ヴァイセン湖",
+      "name": "ベルリン＝ヴァイセンゼー",
       "name_default": "Weißensee",
-      "native": "Weißsee",
+      "native": "Weißensee",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1702,7 +1702,7 @@
     },
     {
       "id": 30200,
-      "name": "ウェストエンド",
+      "name": "ベルリン＝ヴェストエント",
       "name_default": "Westend",
       "native": "Westend",
       "type": "section",
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 30287,
-      "name": "ヴィルヘルムスルー",
+      "name": "ベルリン＝ヴィルヘルムスルー",
       "name_default": "Wilhelmsruh",
       "native": "WilhelmsRuh",
       "type": "section",
@@ -1738,7 +1738,7 @@
     },
     {
       "id": 30288,
-      "name": "ヴィルヘルムシュタット",
+      "name": "ベルリン＝ヴィルヘルムシュタット",
       "name_default": "Wilhelmstadt",
       "native": "Wilhelmstadt",
       "type": "section",
@@ -1756,7 +1756,7 @@
     },
     {
       "id": 30299,
-      "name": "ヴィルマースドルフ",
+      "name": "ベルリン＝ヴィルマースドルフ",
       "name_default": "Wilmersdorf",
       "native": "Wilmersdorf",
       "type": "section",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": 30350,
-      "name": "ヴィッテナウ",
+      "name": "ベルリン＝ヴィテナウ",
       "name_default": "Wittenau",
       "native": "Wittenau",
       "type": "section",
@@ -1792,7 +1792,7 @@
     },
     {
       "id": 30475,
-      "name": "ツェレンドルフ",
+      "name": "ベルリン＝ツェーレンドルフ",
       "name_default": "Zehlendorf",
       "native": "Zehlendorf",
       "type": "section",

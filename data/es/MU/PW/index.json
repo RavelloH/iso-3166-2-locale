@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 153454,
-      "name": "Beau Bassin",
+      "name": "Beau Bassin-Rose Hill",
       "name_default": "Beau Bassin",
-      "native": "Beautiful pool",
+      "native": "Beau Bassin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -77,7 +77,7 @@
       "id": 67832,
       "name": "Beau Bassin-Rose Hill",
       "name_default": "Beau Bassin-Rose Hill",
-      "native": "Beautiful Hill Rose Basin",
+      "native": "Beau Bassin-Rose Hill",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -93,9 +93,9 @@
     },
     {
       "id": 153916,
-      "name": "Bella Terre",
+      "name": "Belle Terre",
       "name_default": "Belle Terre",
-      "native": "Beautiful land",
+      "native": "Belle Terre",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -203,7 +203,7 @@
       "id": 67857,
       "name": "Ebene",
       "name_default": "Ebene",
-      "native": "level",
+      "native": "Ebene",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 153457,
-      "name": "Lado del bosque",
+      "name": "Forest Side",
       "name_default": "Forest Side",
       "native": "Forest Side",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 153912,
-      "name": "Parque Glen",
+      "name": "Glen Park",
       "name_default": "Glen Park",
       "native": "Glen Park",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 153918,
-      "name": "Ermita",
+      "name": "Hermitage",
       "name_default": "Hermitage",
       "native": "Hermitage",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 153917,
-      "name": "Tierras altas",
+      "name": "Highlands",
       "name_default": "Highlands",
       "native": "Highlands",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 67878,
-      "name": "la región central de Inglaterra",
+      "name": "Midlands",
       "name_default": "Midlands",
       "native": "Midlands",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 153910,
-      "name": "Fénix",
+      "name": "Phoenix",
       "name_default": "Phoenix",
       "native": "Phoenix",
       "type": "city",
@@ -363,9 +363,9 @@
     },
     {
       "id": 67900,
-      "name": "Cuatro Bornes",
+      "name": "Quatre Bornes",
       "name_default": "Quatre Bornes",
-      "native": "Four terminals",
+      "native": "Quatre Bornes",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 153453,
-      "name": "Colina de la rosa",
+      "name": "Rose Hill",
       "name_default": "Rose Hill",
       "native": "Rose Hill",
       "type": "city",

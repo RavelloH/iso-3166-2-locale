@@ -59,7 +59,7 @@
       "id": 79959,
       "name": "Alanje",
       "name_default": "Alanje",
-      "native": "Celoso",
+      "native": "Alanje",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 80012,
-      "name": "Bagala",
+      "name": "Bágala",
       "name_default": "Bágala",
       "native": "Baala",
       "type": "adm3",
@@ -185,7 +185,7 @@
       "id": 79992,
       "name": "Bijagual",
       "name_default": "Bijagual",
-      "native": "Biblagüe",
+      "native": "Bijagual",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 80001,
-      "name": "Boqueron",
+      "name": "Boquerón",
       "name_default": "Boquerón",
       "native": "Boquerón",
       "type": "adm2",
@@ -257,7 +257,7 @@
       "id": 80003,
       "name": "Boquete",
       "name_default": "Boquete",
-      "native": "Mamada",
+      "native": "Boquete",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80005,
-      "name": "Breñon",
+      "name": "Breñón",
       "name_default": "Breñón",
       "native": "Breñón",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 80023,
-      "name": "Kaldera",
+      "name": "Caldera",
       "name_default": "Caldera",
       "native": "Caldera",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80051,
-      "name": "Punta Tepesi",
+      "name": "Cerro Punta",
       "name_default": "Cerro Punta",
       "native": "Cerro Punta",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80052,
-      "name": "Eski Tepe",
+      "name": "Cerro Viejo",
       "name_default": "Cerro Viejo",
       "native": "Cerro Viejo",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80075,
-      "name": "Kordillera",
+      "name": "Cordillera",
       "name_default": "Cordillera",
       "native": "Cordillera",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 80082,
-      "name": "Davut",
+      "name": "David",
       "name_default": "David",
       "native": "David",
       "type": "adm1",
@@ -507,10 +507,10 @@
     },
     {
       "id": 80087,
-      "name": "Alanje Bölgesi",
+      "name": "Distrito de Alanje",
       "name_default": "Distrito de Alanje",
       "native": "Distrito de Alanje",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16508,
@@ -543,7 +543,7 @@
     },
     {
       "id": 80093,
-      "name": "Boquerón Bölgesi",
+      "name": "Distrito de Boquerón",
       "name_default": "Distrito de Boquerón",
       "native": "Distrito de Boquerón",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80107,
-      "name": "David Bölgesi",
+      "name": "Distrito de David",
       "name_default": "Distrito de David",
       "native": "Distrito de David",
       "type": "area",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80108,
-      "name": "Dolega Bölgesi",
+      "name": "Distrito de Dolega",
       "name_default": "Distrito de Dolega",
       "native": "Distrito de Dolega",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 80110,
-      "name": "Gualaca Bölgesi",
+      "name": "Distrito de Gualaca",
       "name_default": "Distrito de Gualaca",
       "native": "Distrito de Gualaca",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80132,
-      "name": "Remedios Bölgesi",
+      "name": "Distrito de Remedios",
       "name_default": "Distrito de Remedios",
       "native": "Distrito de Remedios",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80133,
-      "name": "Renacimiento Bölgesi",
+      "name": "Distrito de Renacimiento",
       "name_default": "Distrito de Renacimiento",
       "native": "Distrito de Renacimiento",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80137,
-      "name": "San Félix Bölgesi",
+      "name": "Distrito de San Félix",
       "name_default": "Distrito de San Félix",
       "native": "Distrito de San Félix",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 80145,
-      "name": "Tolé Bölgesi",
+      "name": "Distrito de Tolé",
       "name_default": "Distrito de Tolé",
       "native": "Distrito de Tolé",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80148,
-      "name": "Dolega Bölgesi",
+      "name": "Dolega",
       "name_default": "Dolega",
       "native": "Distrito dolega",
       "type": "district",
@@ -993,7 +993,7 @@
     },
     {
       "id": 80252,
-      "name": "Umut",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "La Esperanza",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80254,
-      "name": "Yıldız",
+      "name": "La Estrella",
       "name_default": "La Estrella",
       "native": "La Estrella",
       "type": "adm3",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 80311,
-      "name": "Limonlar",
+      "name": "Limones",
       "name_default": "Limones",
       "native": "Limones",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80343,
-      "name": "Los Angeles",
+      "name": "Los Ángeles",
       "name_default": "Los Ángeles",
       "native": "Los Ángeles",
       "type": "adm3",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 80347,
-      "name": "Manaca İnşaat",
+      "name": "Manaca Civil",
       "name_default": "Manaca Civil",
       "native": "Manaca civil",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80378,
-      "name": "Yeni San Carlitos",
+      "name": "Nuevo San Carlitos",
       "name_default": "Nuevo San Carlitos",
       "native": "Nuevo San Carlitos",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 80387,
-      "name": "Sombrero Şapkası",
+      "name": "Paja de Sombrero",
       "name_default": "Paja de Sombrero",
       "native": "Paja de Sombrero",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 80390,
-      "name": "Palmiye",
+      "name": "Palmira",
       "name_default": "Palmira",
       "native": "Palmira",
       "type": "city",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 80393,
-      "name": "Palmira Merkezi",
+      "name": "Palmira Centro",
       "name_default": "Palmira Centro",
       "native": "Centro de Palmira",
       "type": "adm3",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 80428,
-      "name": "İlerleme",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "city",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 80465,
-      "name": "Rio Sereno",
+      "name": "Río Sereno",
       "name_default": "Río Sereno",
       "native": "Río Sereno",
       "type": "adm2",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 80478,
-      "name": "San Felix",
+      "name": "San Félix",
       "name_default": "San Félix",
       "native": "San Félix",
       "type": "adm3",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 80550,
-      "name": "Volkan",
+      "name": "Volcán",
       "name_default": "Volcán",
       "native": "Volcán",
       "type": "adm3",

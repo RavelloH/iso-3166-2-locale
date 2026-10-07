@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 31880,
+      "name": "‘Izbat al Burj",
+      "name_default": "‘Izbat al Burj",
+      "native": "عزبة البرج",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 37953,
+      "latitude": "31.50840000",
+      "longitude": "31.84106000",
+      "timezone": "Africa/Cairo",
+      "wikiDataId": "Q1010823",
+      "country_code": "EG",
+      "state_code": "DT",
+      "state_id": 3224,
+      "country_id": 65
+    },
+    {
       "id": 31794,
       "name": "Az Zarqā",
       "name_default": "Az Zarqā",
@@ -75,7 +93,7 @@
     },
     {
       "id": 31805,
-      "name": "Damieta",
+      "name": "Damietta",
       "name_default": "Damietta",
       "native": "دمياط",
       "type": "adm1",

@@ -111,7 +111,7 @@
     },
     {
       "id": 104399,
-      "name": "ヒューメネ",
+      "name": "ホモンナイ",
       "name_default": "Humenné",
       "native": "Humenné",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104423,
-      "name": "リパニー",
+      "name": "リパニ",
       "name_default": "Lipany",
       "native": "Lipany",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 104442,
       "name": "ノヴァ・レスナ",
       "name_default": "Nová Lesná",
-      "native": "New Lesná",
+      "native": "Nová Lesná",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,10 +309,10 @@
     },
     {
       "id": 104477,
-      "name": "オクレス・メジラボルツェ",
+      "name": "メジラボルツェ郡",
       "name_default": "Okres Medzilaborce",
       "native": "Okres Medzilaborce",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 10605,
@@ -327,7 +327,7 @@
     },
     {
       "id": 104488,
-      "name": "オクレス・ポプラド",
+      "name": "ポプラド郡",
       "name_default": "Okres Poprad",
       "native": "Okres Poprad",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104496,
-      "name": "オクレス・サビノフ",
+      "name": "サビノウ郡",
       "name_default": "Okres Sabinov",
       "native": "Okres Sabinov",
       "type": "area",
@@ -381,10 +381,10 @@
     },
     {
       "id": 104500,
-      "name": "オクレス・スニナ",
+      "name": "スニナ郡",
       "name_default": "Okres Snina",
       "native": "Okres Snina",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 33792,
@@ -417,10 +417,10 @@
     },
     {
       "id": 104504,
-      "name": "オクレス・ストロプコフ",
+      "name": "ストロプコウ郡",
       "name_default": "Okres Stropkov",
       "native": "Okres Stropkov",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 19414,
@@ -489,7 +489,7 @@
     },
     {
       "id": 104528,
-      "name": "ポプラド",
+      "name": "ポプラト",
       "name_default": "Poprad",
       "native": "Poprad",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 104539,
-      "name": "サビノフ",
+      "name": "サビノウ",
       "name_default": "Sabinov",
       "native": "Sabinov",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 104550,
-      "name": "スピシュスケ・ポドラディエ",
+      "name": "スピシュスケー・ポドフラジエ",
       "name_default": "Spišské Podhradie",
       "native": "Spišské Podhradie",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 104552,
-      "name": "Stará Ľubovňa",
+      "name": "スタラー・ルボヴナ",
       "name_default": "Stará Ľubovňa",
       "native": "Stará Ľubovňa",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 104553,
-      "name": "ストロプコフ",
+      "name": "ストロプコウ",
       "name_default": "Stropkov",
       "native": "Stropkov",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 104577,
-      "name": "ヴラノフ・ナド・トプルー",
+      "name": "ヴラノフ・ナド・トプリュ",
       "name_default": "Vranov nad Topľou",
       "native": "Vranov nad Topľou",
       "type": "adm2",

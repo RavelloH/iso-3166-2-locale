@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104387,
-      "name": "ドゥナイスカ・ストレダ",
+      "name": "ドゥナイスカー・ストレダ",
       "name_default": "Dunajská Streda",
       "native": "Dunajská Streda",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 104389,
-      "name": "ガブチコヴォ",
+      "name": "ガプチコヴォ村",
       "name_default": "Gabčíkovo",
       "native": "Gabčíkovo",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 104390,
       "name": "ガランタ",
       "name_default": "Galanta",
-      "native": "Galantný",
+      "native": "Galanta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 104391,
-      "name": "グベリー",
+      "name": "グベリ",
       "name_default": "Gbely",
       "native": "Gbely",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104395,
-      "name": "ホロホヴェツ",
+      "name": "フロホヴェック",
       "name_default": "Hlohovec",
       "native": "Hlohovec",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 104396,
-      "name": "ホリッチ",
+      "name": "ホリーチ",
       "name_default": "Holíč",
       "native": "Holíč",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 104460,
-      "name": "オクレス・ドゥナイスカ・ストレダ",
+      "name": "ドゥナイスカー・ストレダ郡",
       "name_default": "Okres Dunajská Streda",
       "native": "Okres Dunajská Streda",
       "type": "area",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104461,
-      "name": "オクレス・ガランタ",
+      "name": "ガランタ郡",
       "name_default": "Okres Galanta",
       "native": "Okres Galanta",
       "type": "area",
@@ -219,10 +219,10 @@
     },
     {
       "id": 104463,
-      "name": "オクレス・ホロホヴェツ",
+      "name": "フロホベツ郡",
       "name_default": "Okres Hlohovec",
       "native": "Okres Hlohovec",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 42762,
@@ -237,7 +237,7 @@
     },
     {
       "id": 104486,
-      "name": "Okres Piešťany",
+      "name": "ピエシュチャニ郡",
       "name_default": "Okres Piešťany",
       "native": "Okres Piešťany",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 104592,
-      "name": "シャモリン",
+      "name": "シャモリーン",
       "name_default": "Šamorín",
       "native": "Šamorín",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 104541,
-      "name": "セニカ",
+      "name": "セニツァ",
       "name_default": "Senica",
       "native": "Senica",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104543,
-      "name": "スカリカ",
+      "name": "スカリツァ",
       "name_default": "Skalica",
       "native": "Skalica",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104544,
-      "name": "スラドコヴィチョヴォ",
+      "name": "スラードコヴィチョヴォ",
       "name_default": "Sládkovičovo",
       "native": "Sládkovičovo",
       "type": "city",

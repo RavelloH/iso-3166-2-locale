@@ -129,7 +129,7 @@
     },
     {
       "id": 80614,
-      "name": "Čilka",
+      "name": "Chilca",
       "name_default": "Chilca",
       "native": "Chilca",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 80672,
-      "name": "Nezavisnost",
+      "name": "Independencia",
       "name_default": "Independencia",
       "native": "Independencia",
       "type": "locality",
@@ -347,7 +347,7 @@
       "id": 80753,
       "name": "Paramonga",
       "name_default": "Paramonga",
-      "native": "Cacerola",
+      "native": "Paramonga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 80754,
-      "name": "Pativilça",
+      "name": "Pativilca",
       "name_default": "Pativilca",
       "native": "Pativilca",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80836,
-      "name": "Provincija Huaral",
+      "name": "Provincia de Huaral",
       "name_default": "Provincia de Huaral",
       "native": "Provincia de Huaral",
       "type": "province",
@@ -453,7 +453,7 @@
     },
     {
       "id": 80840,
-      "name": "Provincija Huarochirí",
+      "name": "Provincia de Huarochirí",
       "name_default": "Provincia de Huarochirí",
       "native": "Provincia de Huarochirí",
       "type": "province",
@@ -474,7 +474,7 @@
       "name": "Provincia de Yauyos",
       "name_default": "Provincia de Yauyos",
       "native": "Provincia de Yauyos",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 20463,
@@ -579,7 +579,7 @@
     },
     {
       "id": 80962,
-      "name": "Santa Maria",
+      "name": "Santa María",
       "name_default": "Santa María",
       "native": "Santa María",
       "type": "city",
@@ -615,9 +615,9 @@
     },
     {
       "id": 80980,
-      "name": "Super",
+      "name": "Supe",
       "name_default": "Supe",
-      "native": "Abundante",
+      "native": "Supe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -633,7 +633,7 @@
     },
     {
       "id": 80920,
-      "name": "Puerto Supe",
+      "name": "Supe Puerto",
       "name_default": "Supe Puerto",
       "native": "Puerto Supe",
       "type": "city",

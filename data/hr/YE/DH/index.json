@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 131014,
-      "name": "Odgovor",
+      "name": "‘Ans",
       "name_default": "‘Ans",
       "native": "'أنس",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 130691,
-      "name": "Al-Hada",
+      "name": "Al Hada",
       "name_default": "Al Hada",
       "native": "الهدا",
       "type": "area",
@@ -93,10 +93,10 @@
     },
     {
       "id": 130718,
-      "name": "Al-Manar",
+      "name": "Al Manar",
       "name_default": "Al Manar",
       "native": "المنار",
-      "type": "adm2",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49390,
@@ -165,7 +165,7 @@
     },
     {
       "id": 130873,
-      "name": "Džabal Aš Šark",
+      "name": "Jabal Ash sharq",
       "name_default": "Jabal Ash sharq",
       "native": "جبل الشرق",
       "type": "area",
@@ -183,7 +183,7 @@
     },
     {
       "id": 130878,
-      "name": "Džahran",
+      "name": "Jahran",
       "name_default": "Jahran",
       "native": "جهران",
       "type": "area",
@@ -237,7 +237,7 @@
     },
     {
       "id": 130994,
-      "name": "Utma",
+      "name": "Utmah",
       "name_default": "Utmah",
       "native": "عُتمة",
       "type": "area",

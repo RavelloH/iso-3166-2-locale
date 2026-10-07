@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 23574,
-      "name": "Альстердорф",
+      "name": "Гамбург-Альстердорф",
       "name_default": "Alsterdorf",
       "native": "Alsterdorf",
       "type": "section",
@@ -100,7 +100,7 @@
     },
     {
       "id": 23936,
-      "name": "Бармбек-Норд",
+      "name": "Гамбург-Бармбек-Норд",
       "name_default": "Barmbek-Nord",
       "native": "Barmbek-Nord",
       "type": "section",
@@ -136,7 +136,7 @@
     },
     {
       "id": 24047,
-      "name": "Бергштедт",
+      "name": "Гамбург-Бергштед",
       "name_default": "Bergstedt",
       "native": "Bergstedt",
       "type": "section",
@@ -154,9 +154,9 @@
     },
     {
       "id": 24241,
-      "name": "Боргфельде",
+      "name": "Гамбург-Боргфельде",
       "name_default": "Borgfelde",
-      "native": "Schloss",
+      "native": "Borgfelde",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": 24788,
-      "name": "Дувенштедт",
+      "name": "Гамбург-Дувенштед",
       "name_default": "Duvenstedt",
       "native": "Duvenstedt",
       "type": "city",
@@ -190,7 +190,7 @@
     },
     {
       "id": 24910,
-      "name": "Ейдельштедт",
+      "name": "Гамбург-Айдельштед",
       "name_default": "Eidelstedt",
       "native": "Eidelstedt",
       "type": "section",
@@ -226,9 +226,9 @@
     },
     {
       "id": 25143,
-      "name": "Фармсен-Берн",
+      "name": "Гамбург-Фармзен-Берне",
       "name_default": "Farmsen-Berne",
-      "native": "Die Farmen",
+      "native": "Farmsen-Berne",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -244,7 +244,7 @@
     },
     {
       "id": 25314,
-      "name": "Фульсбюттель",
+      "name": "Гамбург-Фульсбюттель",
       "name_default": "Fuhlsbüttel",
       "native": "Fuhlsbüttel",
       "type": "section",
@@ -298,7 +298,7 @@
     },
     {
       "id": 25868,
-      "name": "Гамбург-Мітте",
+      "name": "Гамбург-Центр",
       "name_default": "Hamburg-Mitte",
       "native": "Hamburg-Mitte",
       "type": "section",
@@ -334,7 +334,7 @@
     },
     {
       "id": 25877,
-      "name": "Хаммербрук",
+      "name": "Гамбург-Гаммерброк",
       "name_default": "Hammerbrook",
       "native": "Hammerbrook",
       "type": "section",
@@ -388,9 +388,9 @@
     },
     {
       "id": 26670,
-      "name": "Кляйнер Грасбрук",
+      "name": "Гамбург-Кляйнер Грасброк",
       "name_default": "Kleiner Grasbrook",
-      "native": "Kleineres Gras",
+      "native": "Kleiner Grasbrook",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -424,9 +424,9 @@
     },
     {
       "id": 27036,
-      "name": "Лемзаль-Меллінгштедт",
+      "name": "Гамбург-Лемзаль-Меллінгштед",
       "name_default": "Lemsahl-Mellingstedt",
-      "native": "LEMSAHL-MELLINGSSTEDT",
+      "native": "Lemsahl-Mellingstedt",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -442,7 +442,7 @@
     },
     {
       "id": 27178,
-      "name": "Луруп",
+      "name": "Гамбург-Луруп",
       "name_default": "Lurup",
       "native": "Lurup",
       "type": "section",
@@ -514,7 +514,7 @@
     },
     {
       "id": 28181,
-      "name": "Оттенсен",
+      "name": "Гамбург-Оттензен",
       "name_default": "Ottensen",
       "native": "Ottensen",
       "type": "section",
@@ -532,7 +532,7 @@
     },
     {
       "id": 28351,
-      "name": "Поппенбюттель",
+      "name": "Гамбург-Поппенбюттель",
       "name_default": "Poppenbüttel",
       "native": "Poppenbüttel",
       "type": "section",
@@ -550,7 +550,7 @@
     },
     {
       "id": 28726,
-      "name": "Ротенбургсорт",
+      "name": "Гамбург-Ротенбургсорт",
       "name_default": "Rothenburgsort",
       "native": "Rothenburgsort",
       "type": "section",
@@ -586,7 +586,7 @@
     },
     {
       "id": 29311,
-      "name": "Святий Георгій",
+      "name": "Гамбург-Санкт-Георг",
       "name_default": "St. Georg",
       "native": "St. Georg",
       "type": "section",
@@ -604,7 +604,7 @@
     },
     {
       "id": 29312,
-      "name": "Санкт-Паулі",
+      "name": "Гамбург-Санкт Паулі",
       "name_default": "St. Pauli",
       "native": "St. Pauli",
       "type": "section",
@@ -640,9 +640,9 @@
     },
     {
       "id": 29396,
-      "name": "Стеллінген",
+      "name": "Гамбург-Штелінген",
       "name_default": "Stellingen",
-      "native": "Racks",
+      "native": "Stellingen",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -658,7 +658,7 @@
     },
     {
       "id": 30000,
-      "name": "Вандсбек",
+      "name": "Гамбург-Вандсбек",
       "name_default": "Wandsbek",
       "native": "Wandsbek",
       "type": "section",
@@ -676,7 +676,7 @@
     },
     {
       "id": 30145,
-      "name": "Веллінгсбюттель",
+      "name": "Гамбург-Веллінгсбюттель",
       "name_default": "Wellingsbüttel",
       "native": "WellingsBüttel",
       "type": "section",
@@ -694,7 +694,7 @@
     },
     {
       "id": 30333,
-      "name": "Вінтерхуде",
+      "name": "Гамбург-Вінтерхуде",
       "name_default": "Winterhude",
       "native": "Winterhude",
       "type": "section",
@@ -712,9 +712,9 @@
     },
     {
       "id": 30370,
-      "name": "Вольдорф-Ольштедт",
+      "name": "Гамбург-Вольдорф-Ольштед",
       "name_default": "Wohldorf-Ohlstedt",
-      "native": "Woldorf-ohlstedt",
+      "native": "Wohldorf-Ohlstedt",
       "type": "section",
       "level": null,
       "parent_id": null,

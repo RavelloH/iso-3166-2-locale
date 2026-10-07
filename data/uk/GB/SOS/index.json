@@ -110,24 +110,6 @@
       "country_id": 232
     },
     {
-      "id": 48847,
-      "name": "Острів Канві",
-      "name_default": "Canvey Island",
-      "native": "Canvey Island",
-      "type": "adm4",
-      "level": null,
-      "parent_id": null,
-      "population": 38327,
-      "latitude": "51.52199000",
-      "longitude": "0.58090000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1033978",
-      "country_code": "GB",
-      "state_code": "SOS",
-      "state_id": 2323,
-      "country_id": 232
-    },
-    {
       "id": 49063,
       "name": "Колд Нортон",
       "name_default": "Cold Norton",
@@ -200,24 +182,6 @@
       "country_id": 232
     },
     {
-      "id": 51043,
-      "name": "Рейлі",
-      "name_default": "Rayleigh",
-      "native": "Rayleigh",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 32248,
-      "latitude": "51.58571000",
-      "longitude": "0.60459000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2117331",
-      "country_code": "GB",
-      "state_code": "SOS",
-      "state_id": 2323,
-      "country_id": 232
-    },
-    {
       "id": 51175,
       "name": "Святий Осит",
       "name_default": "Saint Osyth",
@@ -236,26 +200,8 @@
       "country_id": 232
     },
     {
-      "id": 51254,
-      "name": "Прозорість",
-      "name_default": "Sheerness",
-      "native": "Sheerness",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13252,
-      "latitude": "51.44042000",
-      "longitude": "0.76252000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1003196",
-      "country_code": "GB",
-      "state_code": "SOS",
-      "state_id": 2323,
-      "country_id": 232
-    },
-    {
       "id": 51372,
-      "name": "Село Саутчерч",
+      "name": "Southchurch Village",
       "name_default": "Southchurch Village",
       "native": "Southchurch Village",
       "type": "city",
@@ -327,7 +273,7 @@
     },
     {
       "id": 51828,
-      "name": "Вест-Мерсі",
+      "name": "Вест-Мерсея",
       "name_default": "West Mersea",
       "native": "West Mersea",
       "type": "city",

@@ -128,6 +128,24 @@
       "country_id": 232
     },
     {
+      "id": 49043,
+      "name": "كلايدبانك",
+      "name_default": "Clydebank",
+      "native": "Clydebank",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 26320,
+      "latitude": "55.90137000",
+      "longitude": "-4.40570000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q996502",
+      "country_code": "GB",
+      "state_code": "WDU",
+      "state_id": 2440,
+      "country_id": 232
+    },
+    {
       "id": 49340,
       "name": "دمبارتون",
       "name_default": "Dumbarton",
@@ -221,7 +239,7 @@
       "id": 51713,
       "name": "وادي ليفين",
       "name_default": "Vale of Leven",
-      "native": "Pale or life",
+      "native": "Vale of Leven",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +255,7 @@
     },
     {
       "id": 51815,
-      "name": "غرب دنبارتونشاير",
+      "name": "دونبارتونشير الغربية",
       "name_default": "West Dunbartonshire",
       "native": "West Dunbartonshire",
       "type": "area",

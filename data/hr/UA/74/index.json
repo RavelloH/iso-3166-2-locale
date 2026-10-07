@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 109334,
-      "name": "Avdijivka",
+      "name": "Avdiyivka",
       "name_default": "Avdiyivka",
       "native": "Авдіївка",
       "type": "city",
@@ -150,7 +150,7 @@
     },
     {
       "id": 109415,
-      "name": "Bobrovica",
+      "name": "Bobrovytsia",
       "name_default": "Bobrovytsia",
       "native": "Бобровиця",
       "type": "city",
@@ -186,7 +186,7 @@
     },
     {
       "id": 109480,
-      "name": "Černihiv",
+      "name": "Černigiv",
       "name_default": "Chernihiv",
       "native": "Чернігів",
       "type": "adm1",
@@ -204,7 +204,7 @@
     },
     {
       "id": 109481,
-      "name": "Černihivski rajon",
+      "name": "Chernihiv Raion",
       "name_default": "Chernihiv Raion",
       "native": "Чернігівський район",
       "type": "district",
@@ -222,7 +222,7 @@
     },
     {
       "id": 109483,
-      "name": "Černihivska mis'krada",
+      "name": "Chernihivs’ka Mis’krada",
       "name_default": "Chernihivs’ka Mis’krada",
       "native": "Чернігівська міськрада",
       "type": "city",
@@ -258,9 +258,9 @@
     },
     {
       "id": 109542,
-      "name": "Dihtyari",
+      "name": "Dihtiari",
       "name_default": "Dihtiari",
-      "native": "Діхтярі",
+      "native": "Дігтярі",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -276,7 +276,7 @@
     },
     {
       "id": 109562,
-      "name": "Dobryanka",
+      "name": "Dobrianka",
       "name_default": "Dobrianka",
       "native": "Добрянка",
       "type": "city",
@@ -294,7 +294,7 @@
     },
     {
       "id": 109645,
-      "name": "Horodnja",
+      "name": "Horodnia",
       "name_default": "Horodnia",
       "native": "Городня",
       "type": "city",
@@ -312,7 +312,7 @@
     },
     {
       "id": 109666,
-      "name": "Ičnja",
+      "name": "Ichnia",
       "name_default": "Ichnia",
       "native": "Ічня",
       "type": "city",
@@ -330,7 +330,7 @@
     },
     {
       "id": 109735,
-      "name": "Holmy",
+      "name": "Kholmy",
       "name_default": "Kholmy",
       "native": "Холми",
       "type": "city",
@@ -348,7 +348,7 @@
     },
     {
       "id": 109766,
-      "name": "Kobižča",
+      "name": "Kobyzhcha",
       "name_default": "Kobyzhcha",
       "native": "Кобижча",
       "type": "city",
@@ -384,7 +384,7 @@
     },
     {
       "id": 109806,
-      "name": "Korjukivka",
+      "name": "Koryukivka",
       "name_default": "Koryukivka",
       "native": "Корюківка",
       "type": "adm2",
@@ -402,7 +402,7 @@
     },
     {
       "id": 109824,
-      "name": "Kozelets",
+      "name": "Kozelets’",
       "name_default": "Kozelets’",
       "native": "Козелець",
       "type": "city",
@@ -438,7 +438,7 @@
     },
     {
       "id": 109885,
-      "name": "Kulikivka",
+      "name": "Kulykivka",
       "name_default": "Kulykivka",
       "native": "Куликівка",
       "type": "city",
@@ -474,7 +474,7 @@
     },
     {
       "id": 109918,
-      "name": "Lisovi Soročinci",
+      "name": "Lisovi Sorochyntsi",
       "name_default": "Lisovi Sorochyntsi",
       "native": "Лісові Сорочинці",
       "type": "city",
@@ -492,7 +492,7 @@
     },
     {
       "id": 109963,
-      "name": "Ljubeč",
+      "name": "Liubech",
       "name_default": "Liubech",
       "native": "Любеч",
       "type": "city",
@@ -528,7 +528,7 @@
     },
     {
       "id": 110022,
-      "name": "Menski rajon",
+      "name": "Mens’kyy Rayon",
       "name_default": "Mens’kyy Rayon",
       "native": "Менський район",
       "type": "city",
@@ -546,7 +546,7 @@
     },
     {
       "id": 110101,
-      "name": "Nižin",
+      "name": "Nizhyn",
       "name_default": "Nizhyn",
       "native": "Ніжин",
       "type": "adm2",
@@ -582,7 +582,7 @@
     },
     {
       "id": 110113,
-      "name": "Novgorod-Siverskij",
+      "name": "Novhorod-Sivers’kyy",
       "name_default": "Novhorod-Sivers’kyy",
       "native": "Новгород-Сіверський",
       "type": "adm2",
@@ -600,7 +600,7 @@
     },
     {
       "id": 110196,
-      "name": "Olišivka",
+      "name": "Olyshivka",
       "name_default": "Olyshivka",
       "native": "Олишівка",
       "type": "city",
@@ -636,7 +636,7 @@
     },
     {
       "id": 110320,
-      "name": "Priluki",
+      "name": "Pryluky",
       "name_default": "Pryluky",
       "native": "Прилуки",
       "type": "adm2",
@@ -656,7 +656,7 @@
       "id": 110353,
       "name": "Ripky",
       "name_default": "Ripky",
-      "native": "Ріпкі",
+      "native": "Ріпки",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -708,7 +708,7 @@
     },
     {
       "id": 110494,
-      "name": "Snovski rajon",
+      "name": "Snovs'kyy Rayon",
       "name_default": "Snovs'kyy Rayon",
       "native": "Сновський район",
       "type": "city",
@@ -726,7 +726,7 @@
     },
     {
       "id": 110436,
-      "name": "Ščors",
+      "name": "Snovsk",
       "name_default": "Snovsk",
       "native": "Щорс",
       "type": "city",
@@ -744,7 +744,7 @@
     },
     {
       "id": 110516,
-      "name": "Sosnica",
+      "name": "Sosnytsia",
       "name_default": "Sosnytsia",
       "native": "Сосниця",
       "type": "city",
@@ -798,7 +798,7 @@
     },
     {
       "id": 110847,
-      "name": "Žuravka",
+      "name": "Zhuravka",
       "name_default": "Zhuravka",
       "native": "Журавка",
       "type": "city",

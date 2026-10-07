@@ -136,7 +136,7 @@
       "id": 68014,
       "name": "Abasolo",
       "name_default": "Abasolo",
-      "native": "Tarifa",
+      "native": "Abasolo",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -152,7 +152,7 @@
     },
     {
       "id": 68114,
-      "name": "Nieuw water",
+      "name": "Agua Nueva",
       "name_default": "Agua Nueva",
       "native": "Agua Nueva",
       "type": "city",
@@ -172,7 +172,7 @@
       "id": 68175,
       "name": "Albia",
       "name_default": "Albia",
-      "native": "cama",
+      "native": "Albia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -332,7 +332,7 @@
     },
     {
       "id": 69169,
-      "name": "Ciudad Melchor Múzquiz",
+      "name": "Melchor Múzquiz",
       "name_default": "Ciudad Melchor Múzquiz",
       "native": "Ciudad Melchor Múzquiz",
       "type": "adm2",
@@ -404,7 +404,7 @@
     },
     {
       "id": 69430,
-      "name": "Computers",
+      "name": "Compuertas",
       "name_default": "Compuertas",
       "native": "Compuertas",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 69570,
-      "name": "Cuatro Ciénegas de Carranza",
+      "name": "Cuatro Ciénegas",
       "name_default": "Cuatro Ciénegas de Carranza",
       "native": "Cuatro Ciénegas de Carranza",
       "type": "adm2",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69797,
-      "name": "Ejido Venustiano Carranza",
+      "name": "Venustiano Carranza",
       "name_default": "Ejido Venustiano Carranza",
       "native": "Ejido Venustiano Carranza",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 69858,
-      "name": "De cambio",
+      "name": "El Cambio",
       "name_default": "El Cambio",
       "native": "El Cambio",
       "type": "city",
@@ -566,7 +566,7 @@
     },
     {
       "id": 70063,
-      "name": "El Nijl",
+      "name": "El Nilo",
       "name_default": "El Nilo",
       "native": "El Nilo",
       "type": "city",
@@ -584,7 +584,7 @@
     },
     {
       "id": 70099,
-      "name": "El Peru",
+      "name": "El Perú",
       "name_default": "El Perú",
       "native": "El Perú",
       "type": "city",
@@ -620,7 +620,7 @@
     },
     {
       "id": 70158,
-      "name": "Het Retiro",
+      "name": "El Retiro",
       "name_default": "El Retiro",
       "native": "El Retiro",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 70491,
-      "name": "Grens",
+      "name": "Frontera",
       "name_default": "Frontera",
       "native": "Frontera",
       "type": "adm2",
@@ -710,7 +710,7 @@
     },
     {
       "id": 70529,
-      "name": "Generaal Cepeda",
+      "name": "General Cepeda",
       "name_default": "General Cepeda",
       "native": "General Cepeda",
       "type": "adm2",
@@ -766,7 +766,7 @@
       "id": 70630,
       "name": "Guerrero",
       "name_default": "Guerrero",
-      "native": "Guerrillero",
+      "native": "Guerrero",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -782,7 +782,7 @@
     },
     {
       "id": 70828,
-      "name": "Hercules",
+      "name": "Hércules",
       "name_default": "Hércules",
       "native": "Hércules",
       "type": "city",
@@ -890,7 +890,7 @@
     },
     {
       "id": 71240,
-      "name": "De schelp",
+      "name": "La Concha",
       "name_default": "La Concha",
       "native": "La Concha",
       "type": "section",
@@ -926,7 +926,7 @@
     },
     {
       "id": 71268,
-      "name": "De Esmeralda",
+      "name": "La Esmeralda",
       "name_default": "La Esmeralda",
       "native": "La Esmeralda",
       "type": "city",
@@ -944,7 +944,7 @@
     },
     {
       "id": 71273,
-      "name": "De Esperanza",
+      "name": "La Esperanza",
       "name_default": "La Esperanza",
       "native": "La Esperanza",
       "type": "city",
@@ -980,7 +980,7 @@
     },
     {
       "id": 71293,
-      "name": "De Florida",
+      "name": "La Florida",
       "name_default": "La Florida",
       "native": "La Florida",
       "type": "city",
@@ -998,7 +998,7 @@
     },
     {
       "id": 71374,
-      "name": "Het licht",
+      "name": "La Luz",
       "name_default": "La Luz",
       "native": "La Luz",
       "type": "city",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 71432,
-      "name": "De Partij",
+      "name": "La Partida",
       "name_default": "La Partida",
       "native": "La Partida",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 71442,
-      "name": "De Parel",
+      "name": "La Perla",
       "name_default": "La Perla",
       "native": "La Perla",
       "type": "section",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": 71869,
-      "name": "Los Alamos",
+      "name": "Los Álamos",
       "name_default": "Los Álamos",
       "native": "Los Álamos",
       "type": "city",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": 72035,
-      "name": "Mayran",
+      "name": "Mayrán",
       "name_default": "Mayrán",
       "native": "Mayran",
       "type": "city",
@@ -1340,7 +1340,7 @@
     },
     {
       "id": 72373,
-      "name": "Nieuwe Rosita",
+      "name": "Nueva Rosita",
       "name_default": "Nueva Rosita",
       "native": "Nueva Rosita",
       "type": "city",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": 72392,
-      "name": "Nieuw-León",
+      "name": "Nuevo León",
       "name_default": "Nuevo León",
       "native": "Nuevo León",
       "type": "city",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": 72661,
-      "name": "Parras de la Fuente",
+      "name": "Parras",
       "name_default": "Parras de la Fuente",
       "native": "Parras de la Fuente",
       "type": "adm2",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": 72772,
-      "name": "Zwarte stenen",
+      "name": "Piedras Negras",
       "name_default": "Piedras Negras",
       "native": "Piedras Negras",
       "type": "city",
@@ -1484,7 +1484,7 @@
     },
     {
       "id": 72902,
-      "name": "Eerste mei",
+      "name": "Primero de Mayo",
       "name_default": "Primero de Mayo",
       "native": "Primero de Mayo",
       "type": "city",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": 72909,
-      "name": "Vooruitgang",
+      "name": "Progreso",
       "name_default": "Progreso",
       "native": "Progreso",
       "type": "adm2",
@@ -1574,7 +1574,7 @@
     },
     {
       "id": 73169,
-      "name": "Rio Bravo",
+      "name": "Río Bravo",
       "name_default": "Río Bravo",
       "native": "Río Bravo",
       "type": "city",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": 73965,
-      "name": "San Juan de la Vaqueria",
+      "name": "San Juan de la Vaquería",
       "name_default": "San Juan de la Vaquería",
       "native": "San Juan de la Vaquería",
       "type": "city",
@@ -1972,7 +1972,7 @@
       "id": 75118,
       "name": "Solima",
       "name_default": "Solima",
-      "native": "Sal",
+      "native": "Solima",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2042,7 +2042,7 @@
     },
     {
       "id": 75947,
-      "name": "Veinte de Noviembre (Santa Lucia)",
+      "name": "Veinte de Noviembre (Santa Lucía)",
       "name_default": "Veinte de Noviembre (Santa Lucía)",
       "native": "Veinte de Noviembre (Santa Lucía)",
       "type": "city",
@@ -2114,7 +2114,7 @@
     },
     {
       "id": 76049,
-      "name": "Villa Unie",
+      "name": "Villa Unión",
       "name_default": "Villa Union",
       "native": "Unión de villas",
       "type": "city",

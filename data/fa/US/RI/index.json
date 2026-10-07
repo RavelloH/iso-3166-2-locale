@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111512,
-      "name": "آشاوی",
+      "name": "اشوای",
       "name_default": "Ashaway",
       "native": "Ashaway",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 112667,
-      "name": "برادفورد",
+      "name": "بردفورد",
       "name_default": "Bradford",
       "native": "Bradford",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 113673,
-      "name": "آبشارهای مرکزی",
+      "name": "سنترل فالز",
       "name_default": "Central Falls",
       "native": "Central Falls",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 115674,
-      "name": "گرینویچ شرقی",
+      "name": "ایست گرینویچ",
       "name_default": "East Greenwich",
       "native": "East Greenwich",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 118076,
-      "name": "هریسویل",
+      "name": "هاریسویل",
       "name_default": "Harrisville",
       "native": "Harrisville",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 118646,
-      "name": "دره هوپ",
+      "name": "هوپ ولی",
       "name_default": "Hope Valley",
       "native": "Hope Valley",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 119629,
-      "name": "کینگستون",
+      "name": "کینگزتون",
       "name_default": "Kingston",
       "native": "Kingston",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 122565,
-      "name": "اسکله ناراگانست",
+      "name": "ناروگانسیت",
       "name_default": "Narragansett Pier",
       "native": "Narragansett Pier",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 122855,
-      "name": "نیوپورت شرقی",
+      "name": "نیوپورت ایست",
       "name_default": "Newport East",
       "native": "Newport East",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 123048,
-      "name": "کینگستاون شمالی",
+      "name": "North Kingstown",
       "name_default": "North Kingstown",
       "native": "North Kingstown",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 123102,
-      "name": "سیتوات شمالی",
+      "name": "North Scituate",
       "name_default": "North Scituate",
       "native": "North Scituate",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 123108,
-      "name": "اسمیتفیلد شمالی",
+      "name": "North Smithfield",
       "name_default": "North Smithfield",
       "native": "North Smithfield",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 126683,
-      "name": "کینگستاون جنوبی",
+      "name": "South Kingstown",
       "name_default": "South Kingstown",
       "native": "South Kingstown",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 128108,
-      "name": "دره فالز",
+      "name": "ولی فالز",
       "name_default": "Valley Falls",
       "native": "Valley Falls",
       "type": "city",
@@ -1029,7 +1029,7 @@
       "id": 128484,
       "name": "وارن",
       "name_default": "Warren",
-      "native": "Boot",
+      "native": "Warren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 128525,
-      "name": "وارویک",
+      "name": "واریک",
       "name_default": "Warwick",
       "native": "Warwick",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 128880,
-      "name": "گرینویچ غربی",
+      "name": "West Greenwich",
       "name_default": "West Greenwich",
       "native": "West Greenwich",
       "type": "city",
@@ -1117,9 +1117,9 @@
     },
     {
       "id": 129582,
-      "name": "وون‌ساکت",
+      "name": "وونساکیت",
       "name_default": "Woonsocket",
-      "native": "Living socket",
+      "native": "Woonsocket",
       "type": "city",
       "level": null,
       "parent_id": null,

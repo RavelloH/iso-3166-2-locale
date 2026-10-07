@@ -93,7 +93,7 @@
     },
     {
       "id": 48310,
-      "name": "阿特尔伯勒",
+      "name": "阿图博洛",
       "name_default": "Attleborough",
       "native": "Attleborough",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48327,
-      "name": "艾尔舍姆",
+      "name": "埃尔舍姆",
       "name_default": "Aylsham",
       "native": "Aylsham",
       "type": "city",
@@ -131,7 +131,7 @@
       "id": 48372,
       "name": "班纳姆",
       "name_default": "Banham",
-      "native": "Bathe",
+      "native": "Banham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 48818,
-      "name": "凯斯特滨海",
+      "name": "滨海凯斯特",
       "name_default": "Caister-on-Sea",
-      "native": "TAISTER-by-Sea",
+      "native": "Caister-on-Sea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 49113,
-      "name": "科斯特西",
+      "name": "克斯特希",
       "name_default": "Costessey",
       "native": "Costessey",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 49161,
-      "name": "克林格福德",
+      "name": "克林高福特",
       "name_default": "Cringleford",
       "native": "Cringleford",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 49290,
-      "name": "指责",
+      "name": "迪斯镇",
       "name_default": "Diss",
       "native": "Diss",
       "type": "city",
@@ -398,8 +398,26 @@
       "country_id": 232
     },
     {
+      "id": 49320,
+      "name": "道恩汉姆市场",
+      "name_default": "Downham Market",
+      "native": "Downham Market",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11349,
+      "latitude": "52.60714000",
+      "longitude": "0.38375000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1253266",
+      "country_code": "GB",
+      "state_code": "NFK",
+      "state_id": 2473,
+      "country_id": 232
+    },
+    {
       "id": 49393,
-      "name": "东迪勒姆",
+      "name": "德瑞汉姆",
       "name_default": "East Dereham",
       "native": "East Dereham",
       "type": "city",
@@ -417,7 +435,7 @@
     },
     {
       "id": 49397,
-      "name": "东哈林",
+      "name": "East Harling",
       "name_default": "East Harling",
       "native": "East Harling",
       "type": "city",
@@ -453,7 +471,7 @@
     },
     {
       "id": 49520,
-      "name": "费肯汉姆",
+      "name": "费克纳姆",
       "name_default": "Fakenham",
       "native": "Fakenham",
       "type": "city",
@@ -489,7 +507,7 @@
     },
     {
       "id": 49683,
-      "name": "戈尔斯顿滨海",
+      "name": "戈尔斯顿",
       "name_default": "Gorleston-on-Sea",
       "native": "Gorleston-on-Sea",
       "type": "city",
@@ -579,7 +597,7 @@
     },
     {
       "id": 49870,
-      "name": "希查姆",
+      "name": "赫查姆",
       "name_default": "Heacham",
       "native": "Heacham",
       "type": "city",
@@ -597,7 +615,7 @@
     },
     {
       "id": 49898,
-      "name": "汉斯比",
+      "name": "汉姆斯贝",
       "name_default": "Hemsby",
       "native": "Hemsby",
       "type": "city",
@@ -615,7 +633,7 @@
     },
     {
       "id": 49916,
-      "name": "赫瑟塞特",
+      "name": "贺德塞特",
       "name_default": "Hethersett",
       "native": "Hethersett",
       "type": "city",
@@ -651,7 +669,7 @@
     },
     {
       "id": 49986,
-      "name": "霍普顿滨海",
+      "name": "滨海霍普顿",
       "name_default": "Hopton on Sea",
       "native": "Hopton on Sea",
       "type": "city",
@@ -687,7 +705,7 @@
     },
     {
       "id": 49996,
-      "name": "霍斯福德",
+      "name": "和尔斯福特",
       "name_default": "Horsford",
       "native": "Horsford",
       "type": "city",
@@ -705,7 +723,7 @@
     },
     {
       "id": 50012,
-      "name": "霍夫顿",
+      "name": "贺夫顿",
       "name_default": "Hoveton",
       "native": "Hoveton",
       "type": "city",
@@ -723,9 +741,9 @@
     },
     {
       "id": 50025,
-      "name": "亨斯坦顿",
+      "name": "亨斯丹顿",
       "name_default": "Hunstanton",
-      "native": "Female",
+      "native": "Hunstanton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -867,7 +885,7 @@
     },
     {
       "id": 50652,
-      "name": "芒德斯利",
+      "name": "曼斯利",
       "name_default": "Mundesley",
       "native": "Mundesley",
       "type": "city",
@@ -921,7 +939,7 @@
     },
     {
       "id": 50745,
-      "name": "诺福克",
+      "name": "诺福克郡",
       "name_default": "Norfolk",
       "native": "Norfolk",
       "type": "area",
@@ -939,7 +957,7 @@
     },
     {
       "id": 50754,
-      "name": "北埃尔姆汉姆",
+      "name": "艾咸北",
       "name_default": "North Elmham",
       "native": "North Elmham",
       "type": "city",
@@ -957,7 +975,7 @@
     },
     {
       "id": 50769,
-      "name": "北沃尔沙姆",
+      "name": "北沃尔舍姆",
       "name_default": "North Walsham",
       "native": "North Walsham",
       "type": "city",
@@ -975,7 +993,7 @@
     },
     {
       "id": 50785,
-      "name": "诺维奇",
+      "name": "诺里奇",
       "name_default": "Norwich",
       "native": "Norwich",
       "type": "adm2",
@@ -1029,7 +1047,7 @@
     },
     {
       "id": 50834,
-      "name": "奥弗斯特兰德",
+      "name": "欧弗斯特兰德",
       "name_default": "Overstrand",
       "native": "Overstrand",
       "type": "city",
@@ -1047,7 +1065,7 @@
     },
     {
       "id": 50950,
-      "name": "波林兰",
+      "name": "波令兰",
       "name_default": "Poringland",
       "native": "Poringland",
       "type": "city",
@@ -1065,7 +1083,7 @@
     },
     {
       "id": 51015,
-      "name": "拉克希思",
+      "name": "拉克希斯",
       "name_default": "Rackheath",
       "native": "Rackheath",
       "type": "city",
@@ -1103,7 +1121,7 @@
       "id": 51057,
       "name": "里普汉姆",
       "name_default": "Reepham",
-      "native": "Reephal",
+      "native": "Reepham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1121,7 +1139,7 @@
       "id": 51214,
       "name": "斯科尔",
       "name_default": "Scole",
-      "native": "Schools",
+      "native": "Scole",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1173,7 +1191,7 @@
     },
     {
       "id": 51336,
-      "name": "斯内蒂舍姆",
+      "name": "斯内蒂瑟姆",
       "name_default": "Snettisham",
       "native": "Snettisham",
       "type": "city",
@@ -1191,7 +1209,7 @@
     },
     {
       "id": 51390,
-      "name": "斯皮克斯沃思",
+      "name": "斯碧斯沃夫",
       "name_default": "Spixworth",
       "native": "Spixworth",
       "type": "city",
@@ -1209,9 +1227,9 @@
     },
     {
       "id": 51414,
-      "name": "斯塔勒姆",
+      "name": "斯陶汉姆",
       "name_default": "Stalham",
-      "native": "Statham",
+      "native": "Stalham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1245,9 +1263,9 @@
     },
     {
       "id": 51527,
-      "name": "斯沃弗姆",
+      "name": "斯瓦弗汉姆",
       "name_default": "Swaffham",
-      "native": "Swafham",
+      "native": "Swaffham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1281,7 +1299,7 @@
     },
     {
       "id": 51579,
-      "name": "特林顿圣克莱门特",
+      "name": "特灵顿圣克莱蒙",
       "name_default": "Terrington St Clement",
       "native": "Terrington St Clement",
       "type": "city",
@@ -1299,7 +1317,7 @@
     },
     {
       "id": 51591,
-      "name": "塞特福德",
+      "name": "特福特",
       "name_default": "Thetford",
       "native": "Thetford",
       "type": "city",
@@ -1371,7 +1389,7 @@
     },
     {
       "id": 51777,
-      "name": "沃顿",
+      "name": "瓦顿",
       "name_default": "Watton",
       "native": "Watton",
       "type": "city",
@@ -1407,7 +1425,7 @@
     },
     {
       "id": 51793,
-      "name": "海边的威尔斯",
+      "name": "海滨韦尔斯",
       "name_default": "Wells-next-the-Sea",
       "native": "Wells-next-the-Sea",
       "type": "city",

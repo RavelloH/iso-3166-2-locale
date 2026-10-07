@@ -255,7 +255,7 @@
       "id": 111081,
       "name": "Akutan",
       "name_default": "Akutan",
-      "native": "Acute",
+      "native": "Akutan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -271,7 +271,7 @@
     },
     {
       "id": 111303,
-      "name": "Çapa Noktası",
+      "name": "Anchor Point",
       "name_default": "Anchor Point",
       "native": "Anchor Point",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111305,
-      "name": "Demirleme",
+      "name": "Anchorage",
       "name_default": "Anchorage",
       "native": "Anchorage",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 111724,
-      "name": "Porsuk",
+      "name": "Badger",
       "name_default": "Badger",
       "native": "Badger",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 111976,
-      "name": "Ayı Deresi",
+      "name": "Bear Creek",
       "name_default": "Bear Creek",
       "native": "Bear Creek",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112281,
-      "name": "Beytel",
+      "name": "Bethel",
       "name_default": "Bethel",
       "native": "Bethel",
       "type": "city",
@@ -361,7 +361,7 @@
     },
     {
       "id": 112325,
-      "name": "Büyük Göl",
+      "name": "Big Lake",
       "name_default": "Big Lake",
       "native": "Big Lake",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 113124,
-      "name": "Tepe",
+      "name": "Butte",
       "name_default": "Butte",
       "native": "Butte",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 113917,
-      "name": "Çevak",
+      "name": "Chevak",
       "name_default": "Chevak",
       "native": "Chevak",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 114412,
-      "name": "Kolej",
+      "name": "College",
       "name_default": "College",
       "native": "College",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 114640,
-      "name": "Kordoba",
+      "name": "Cordova",
       "name_default": "Cordova",
       "native": "Cordova",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 115315,
-      "name": "Elmas Sırtı",
+      "name": "Diamond Ridge",
       "name_default": "Diamond Ridge",
       "native": "Diamond Ridge",
       "type": "city",
@@ -541,7 +541,7 @@
     },
     {
       "id": 115578,
-      "name": "Hollanda Limanı",
+      "name": "Dutch Harbor",
       "name_default": "Dutch Harbor",
       "native": "Dutch Harbor",
       "type": "city",
@@ -559,7 +559,7 @@
     },
     {
       "id": 115612,
-      "name": "Kartal Nehri",
+      "name": "Eagle River",
       "name_default": "Eagle River",
       "native": "Eagle River",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 115909,
-      "name": "Eielson Hava Kuvvetleri Üssü",
+      "name": "Eielson Air Force Base",
       "name_default": "Eielson Air Force Base",
       "native": "Eielson Air Force Base",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 116049,
-      "name": "Elmendorf Hava Kuvvetleri Üssü",
+      "name": "Elmendorf Air Force Base",
       "name_default": "Elmendorf Air Force Base",
       "native": "Elmendorf Air Force Base",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 116401,
-      "name": "Çiftlik Döngüsü",
+      "name": "Farm Loop",
       "name_default": "Farm Loop",
       "native": "Farm Loop",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 116404,
-      "name": "Çiftçiler Döngüsü",
+      "name": "Farmers Loop",
       "name_default": "Farmers Loop",
       "native": "Farmers Loop",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 116531,
-      "name": "Olta",
+      "name": "Fishhook",
       "name_default": "Fishhook",
       "native": "Fishhook",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 116959,
-      "name": "Fritz Deresi",
+      "name": "Fritz Creek",
       "name_default": "Fritz Creek",
       "native": "Fritz Creek",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 117124,
-      "name": "Geçit",
+      "name": "Gateway",
       "name_default": "Gateway",
       "native": "Gateway",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 118597,
-      "name": "Homeros",
+      "name": "Homer",
       "name_default": "Homer",
       "native": "Homer",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 118634,
-      "name": "Hooper Körfezi",
+      "name": "Hooper Bay",
       "name_default": "Hooper Bay",
       "native": "Hooper Bay",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 119364,
       "name": "Kalifornsky",
       "name_default": "Kalifornsky",
-      "native": "California",
+      "native": "Kalifornsky",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,7 +901,7 @@
     },
     {
       "id": 119523,
-      "name": "Ketçikan",
+      "name": "Ketchikan",
       "name_default": "Ketchikan",
       "native": "Ketchikan",
       "type": "city",
@@ -919,7 +919,7 @@
     },
     {
       "id": 119583,
-      "name": "Kral Koyu",
+      "name": "King Cove",
       "name_default": "King Cove",
       "native": "King Cove",
       "type": "city",
@@ -957,7 +957,7 @@
       "id": 119698,
       "name": "Kodiak",
       "name_default": "Kodiak",
-      "native": "Kodiac",
+      "native": "Kodiak",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 119700,
-      "name": "Kodiak İstasyonu",
+      "name": "Kodiak Station",
       "name_default": "Kodiak Station",
       "native": "Kodiak Station",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 120024,
-      "name": "Göller",
+      "name": "Lakes",
       "name_default": "Lakes",
       "native": "Lakes",
       "type": "city",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 120256,
-      "name": "Tembel Dağ",
+      "name": "Lazy Mountain",
       "name_default": "Lazy Mountain",
       "native": "Lazy Mountain",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 153919,
-      "name": "Mareşal",
+      "name": "Marshall",
       "name_default": "Marshall",
       "native": "Marshall",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 121561,
-      "name": "Çayır Gölleri",
+      "name": "Meadow Lakes",
       "name_default": "Meadow Lakes",
       "native": "Meadow Lakes",
       "type": "city",
@@ -1083,7 +1083,7 @@
       "id": 121735,
       "name": "Metlakatla",
       "name_default": "Metlakatla",
-      "native": "Mastakatla",
+      "native": "Metlakatla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
       "id": 122898,
       "name": "Nikiski",
       "name_default": "Nikiski",
-      "native": "Nichisko",
+      "native": "Nikiski",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1117,9 +1117,9 @@
     },
     {
       "id": 122934,
-      "name": "İsim",
+      "name": "Nome",
       "name_default": "Nome",
-      "native": "Name",
+      "native": "Nome",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 123084,
-      "name": "Kuzey Kutbu",
+      "name": "North Pole",
       "name_default": "North Pole",
       "native": "North Pole",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 124724,
-      "name": "Prudhoe Körfezi",
+      "name": "Prudhoe Bay",
       "name_default": "Prudhoe Bay",
       "native": "Prudhoe bay",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 125130,
-      "name": "Sırt yolu",
+      "name": "Ridgeway",
       "name_default": "Ridgeway",
       "native": "Ridgeway",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 125724,
-      "name": "Salça",
+      "name": "Salcha",
       "name_default": "Salcha",
       "native": "Salcha",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 125860,
-      "name": "Kum Noktası",
+      "name": "Sand Point",
       "name_default": "Sand Point",
       "native": "Sand Point",
       "type": "city",
@@ -1297,9 +1297,9 @@
     },
     {
       "id": 126475,
-      "name": "Skagway Belediyesi",
+      "name": "Skagway",
       "name_default": "Skagway",
-      "native": "Skagway Municipality",
+      "native": "Skagway",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 127031,
-      "name": "Sterlin",
+      "name": "Sterling",
       "name_default": "Sterling",
       "native": "Sterling",
       "type": "city",
@@ -1423,9 +1423,9 @@
     },
     {
       "id": 111852,
-      "name": "El arabası",
+      "name": "Barrow",
       "name_default": "Utqiagvik",
-      "native": "Barrow",
+      "native": "Utqiagvik",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
       "id": 128593,
       "name": "Wasilla",
       "name_default": "Wasilla",
-      "native": "Wasil",
+      "native": "Wasilla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1477,7 +1477,7 @@
     },
     {
       "id": 129304,
-      "name": "Söğüt",
+      "name": "Willow",
       "name_default": "Willow",
       "native": "Willow",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 129652,
-      "name": "Yakutat Şehri ve İlçesi",
+      "name": "Yakutat City and Borough",
       "name_default": "Yakutat City and Borough",
       "native": "Yakutat City and Borough",
       "type": "city",

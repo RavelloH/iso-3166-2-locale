@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135275,
-      "name": "阿夸斯巴达",
+      "name": "阿夸斯帕尔塔",
       "name_default": "Acquasparta",
       "native": "Acquasparta",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135468,
-      "name": "阿米莉亚",
+      "name": "阿梅利亚",
       "name_default": "Amelia",
       "native": "Amelia",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 135710,
-      "name": "阿维利亚诺·茵宝",
+      "name": "阿维利亚诺-翁布罗",
       "name_default": "Avigliano Umbro",
       "native": "Avigliano Umbro",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 136559,
-      "name": "卡尔维·德翁布里亚",
+      "name": "翁布里亚大区卡尔维",
       "name_default": "Calvi dell'Umbria",
       "native": "Calvi dell'Umbria",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 137159,
-      "name": "维斯卡多城堡",
+      "name": "维斯卡尔多堡",
       "name_default": "Castel Viscardo",
       "native": "Castel Viscardo",
       "type": "adm3",
@@ -257,7 +257,7 @@
       "id": 137319,
       "name": "卡斯特尔托迪诺",
       "name_default": "Casteltodino",
-      "native": "Casteltedino",
+      "native": "Casteltodino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,9 +273,9 @@
     },
     {
       "id": 137713,
-      "name": "白鹳",
+      "name": "Ciconia",
       "name_default": "Ciconia",
-      "native": "Gru",
+      "native": "Ciconia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 138506,
-      "name": "菲库勒",
+      "name": "菲库莱",
       "name_default": "Ficulle",
       "native": "Ficulle",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 138976,
-      "name": "乔夫",
+      "name": "焦韦",
       "name_default": "Giove",
       "native": "Giove",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 139158,
-      "name": "瓜尔迪亚",
+      "name": "瓜尔代亚",
       "name_default": "Guardea",
       "native": "Guardea",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 139647,
-      "name": "卢尼亚诺因特韦里纳",
+      "name": "卢尼亚诺-因泰韦里纳",
       "name_default": "Lugnano in Teverina",
       "native": "Lugnano in Teverina",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 140404,
-      "name": "蒙特卡斯特里利",
+      "name": "蒙泰卡斯特里利",
       "name_default": "Montecastrilli",
       "native": "Montecastrilli",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 140447,
-      "name": "蒙特弗兰科",
+      "name": "蒙泰夫兰科",
       "name_default": "Montefranco",
       "native": "Montefranco",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 140450,
-      "name": "蒙特加比奥内",
+      "name": "蒙泰加比奥内",
       "name_default": "Montegabbione",
       "native": "Montegabbione",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 140469,
-      "name": "蒙特莱奥内·德奥维多",
+      "name": "蒙特莱昂内-多尔维耶托",
       "name_default": "Monteleone d'Orvieto",
       "native": "Monteleone d'Orvieto",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 140993,
-      "name": "奥维多",
+      "name": "奥尔维耶托",
       "name_default": "Orvieto",
       "native": "Orvieto",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 58404,
-      "name": "佩纳因特韦里纳",
+      "name": "彭纳-因泰韦里纳",
       "name_default": "Penna in Teverina",
       "native": "Penna in Teverina",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 60261,
-      "name": "圣维南佐",
+      "name": "圣韦南佐",
       "name_default": "San Venanzo",
       "native": "San Venanzo",
       "type": "adm3",

@@ -466,7 +466,7 @@
     },
     {
       "id": 97773,
-      "name": "बालाशीखा",
+      "name": "बलासशिखा",
       "name_default": "Balashikha",
       "native": "Балашиха",
       "type": "adm2",
@@ -988,7 +988,7 @@
     },
     {
       "id": 98285,
-      "name": "मास्को में",
+      "name": "दमित्रोव",
       "name_default": "Dmitrov",
       "native": "Дмитров",
       "type": "city",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 98307,
-      "name": "Domodedovo",
+      "name": "दोमोदेदोवो",
       "name_default": "Domodedovo",
       "native": "Домодедово",
       "type": "adm2",
@@ -1924,7 +1924,7 @@
     },
     {
       "id": 99143,
-      "name": "कोलॉम्ना",
+      "name": "कोलोम्ना",
       "name_default": "Kolomna",
       "native": "Коломна",
       "type": "adm2",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 99214,
-      "name": "कोरोलेव",
+      "name": "कोरोल्योव",
       "name_default": "Korolev",
       "native": "Королев",
       "type": "adm2",
@@ -2032,7 +2032,7 @@
     },
     {
       "id": 99215,
-      "name": "कोरोलेव",
+      "name": "कोरोल्योव",
       "name_default": "Korolyov",
       "native": "Королев",
       "type": "adm2",
@@ -2409,24 +2409,6 @@
       "country_id": 182
     },
     {
-      "id": 99575,
-      "name": "लेनिन्स्की गोरी",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 99595,
       "name": "येकातेरिनबर्ग",
       "name_default": "Lesnoy",
@@ -2680,7 +2662,7 @@
     },
     {
       "id": 99714,
-      "name": "ल्यूबेर्त्सी",
+      "name": "ल्युबेरटसी",
       "name_default": "Lyubertsy",
       "native": "Люберцы",
       "type": "adm2",
@@ -3040,7 +3022,7 @@
     },
     {
       "id": 100034,
-      "name": "मितिश्ची",
+      "name": "मयतिश्चि",
       "name_default": "Mytishchi",
       "native": "Мытищи",
       "type": "adm2",
@@ -3184,7 +3166,7 @@
     },
     {
       "id": 100191,
-      "name": "नोगिंस्क",
+      "name": "नोगिनसक",
       "name_default": "Noginsk",
       "native": "Ногинск",
       "type": "adm2",
@@ -3418,7 +3400,7 @@
     },
     {
       "id": 100398,
-      "name": "ओडिंटसोवो",
+      "name": "ओडिंटसववो",
       "name_default": "Odintsovo",
       "native": "Одинцово",
       "type": "adm2",
@@ -3508,7 +3490,7 @@
     },
     {
       "id": 100463,
-      "name": "ओरेखॉओ-ज़ुयओ",
+      "name": "ओरेखोवो-ज़ुयेवो",
       "name_default": "Orekhovo-Zuyevo",
       "native": "Орехово-Зуево",
       "type": "city",
@@ -3832,7 +3814,7 @@
     },
     {
       "id": 100724,
-      "name": "पोडॉल्स्क",
+      "name": "पोदोल्स्क",
       "name_default": "Podolsk",
       "native": "Подольск",
       "type": "city",
@@ -4030,7 +4012,7 @@
     },
     {
       "id": 100898,
-      "name": "पुश्किनो",
+      "name": "पुष्किनो",
       "name_default": "Pushkino",
       "native": "Пушкино",
       "type": "city",
@@ -4156,7 +4138,7 @@
     },
     {
       "id": 100936,
-      "name": "मास्को में",
+      "name": "रमेन्सकोए",
       "name_default": "Ramenskoye",
       "native": "Раменское",
       "type": "adm2",
@@ -4552,7 +4534,7 @@
     },
     {
       "id": 101182,
-      "name": "सर्गियेव पोसाद",
+      "name": "सेर्गियेव पोसाद",
       "name_default": "Sergiyev Posad",
       "native": "Сергиев Посад",
       "type": "adm2",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "शेल्कोवो",
+      "name": "शच्योलकोवो",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -5470,7 +5452,7 @@
     },
     {
       "id": 102388,
-      "name": "मास्को में",
+      "name": "वॉक्रेसेंसिक",
       "name_default": "Voskresensk",
       "native": "Воскресенск",
       "type": "city",
@@ -5499,24 +5481,6 @@
       "longitude": "38.75000000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q1146486",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 102402,
-      "name": "मास्को",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -5580,7 +5544,7 @@
       "id": 102477,
       "name": "रतालू",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5920,7 +5884,7 @@
     },
     {
       "id": 102743,
-      "name": "ज़ुकोवसकीय",
+      "name": "ज़्हुकोवस्की",
       "name_default": "Zhukovsky",
       "native": "Жуковский",
       "type": "city",

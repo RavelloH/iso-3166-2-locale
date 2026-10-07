@@ -700,7 +700,7 @@
     },
     {
       "id": 98058,
-      "name": "ブロニツィ",
+      "name": "ブロンニツィ",
       "name_default": "Bronnitsy",
       "native": "Бронницы",
       "type": "adm2",
@@ -1690,7 +1690,7 @@
     },
     {
       "id": 98893,
-      "name": "カシラ",
+      "name": "カシーラ",
       "name_default": "Kashira",
       "native": "Кашира",
       "type": "adm2",
@@ -2104,7 +2104,7 @@
     },
     {
       "id": 99276,
-      "name": "クラスコヴォ",
+      "name": "クラスコボ",
       "name_default": "Kraskovo",
       "native": "Красково",
       "type": "city",
@@ -2194,7 +2194,7 @@
     },
     {
       "id": 99355,
-      "name": "クラスノザヴォーツク",
+      "name": "クラスノザヴォツク",
       "name_default": "Krasnozavodsk",
       "native": "Краснозаводск",
       "type": "city",
@@ -2409,24 +2409,6 @@
       "country_id": 182
     },
     {
-      "id": 99575,
-      "name": "レーニンスキエ・ゴリ",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 99595,
       "name": "レスノイ",
       "name_default": "Lesnoy",
@@ -2500,7 +2482,7 @@
     },
     {
       "id": 99646,
-      "name": "ロブニャ",
+      "name": "ローブニャ",
       "name_default": "Lobnya",
       "native": "Лобня",
       "type": "city",
@@ -2860,7 +2842,7 @@
     },
     {
       "id": 99861,
-      "name": "メンデレーエボ",
+      "name": "メンデレーヴォ",
       "name_default": "Mendeleyevo",
       "native": "Менделеево",
       "type": "city",
@@ -3040,7 +3022,7 @@
     },
     {
       "id": 100034,
-      "name": "ミティシチ",
+      "name": "ムィティシ",
       "name_default": "Mytishchi",
       "native": "Мытищи",
       "type": "adm2",
@@ -3094,7 +3076,7 @@
     },
     {
       "id": 100059,
-      "name": "ナロフォミンスク",
+      "name": "ナロ＝フォミンスク",
       "name_default": "Naro-Fominsk",
       "native": "Наро-Фоминск",
       "type": "adm2",
@@ -3418,7 +3400,7 @@
     },
     {
       "id": 100398,
-      "name": "オジンツォボ",
+      "name": "オジンツォヴォ",
       "name_default": "Odintsovo",
       "native": "Одинцово",
       "type": "adm2",
@@ -3670,7 +3652,7 @@
     },
     {
       "id": 100577,
-      "name": "パブロフスキー・ポサド",
+      "name": "パヴロフスキー・ポサド",
       "name_default": "Pavlovskiy Posad",
       "native": "Павловский Посад",
       "type": "city",
@@ -3868,7 +3850,7 @@
     },
     {
       "id": 100772,
-      "name": "ポポボ",
+      "name": "ポポヴォ",
       "name_default": "Popovo",
       "native": "Попово",
       "type": "city",
@@ -3922,7 +3904,7 @@
     },
     {
       "id": 100791,
-      "name": "ポヴェドニキ",
+      "name": "ポヴェードニキ",
       "name_default": "Povedniki",
       "native": "Поведники",
       "type": "city",
@@ -4552,7 +4534,7 @@
     },
     {
       "id": 101182,
-      "name": "セルギエフ・ポサド",
+      "name": "セルギエフ・ポサード",
       "name_default": "Sergiyev Posad",
       "native": "Сергиев Посад",
       "type": "adm2",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "シェルコヴォ",
+      "name": "シチョルコヴォ",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -4840,7 +4822,7 @@
     },
     {
       "id": 101388,
-      "name": "スコルコボ",
+      "name": "スコルコヴォ",
       "name_default": "Skolkovo",
       "native": "Сколково",
       "type": "city",
@@ -5020,7 +5002,7 @@
     },
     {
       "id": 101638,
-      "name": "スタピノ",
+      "name": "ストゥピノ",
       "name_default": "Stupino",
       "native": "Ступино",
       "type": "adm2",
@@ -5236,7 +5218,7 @@
     },
     {
       "id": 101961,
-      "name": "トゥゴレスキー・ボル",
+      "name": "トゥゴレッスキー・ボル",
       "name_default": "Tugolesskiy Bor",
       "native": "Туголесский Бор",
       "type": "city",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "ヴォストリャコヴォ",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "ヴィソコフスク",
       "name_default": "Vysokovsk",
@@ -5542,7 +5506,7 @@
     },
     {
       "id": 102465,
-      "name": "ヤクロマ",
+      "name": "ヤフロマ",
       "name_default": "Yakhroma",
       "native": "Яхрома",
       "type": "city",
@@ -5578,9 +5542,9 @@
     },
     {
       "id": 102477,
-      "name": "ヤムイモ",
+      "name": "ヤム",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5920,7 +5884,7 @@
     },
     {
       "id": 102743,
-      "name": "ジュコフスキー",
+      "name": "ジュコーフスキー",
       "name_default": "Zhukovsky",
       "native": "Жуковский",
       "type": "city",

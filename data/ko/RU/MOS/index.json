@@ -304,7 +304,7 @@
     },
     {
       "id": 97650,
-      "name": "아프렐레브카",
+      "name": "아프렐렙카",
       "name_default": "Aprelevka",
       "native": "Апрелевка",
       "type": "city",
@@ -700,7 +700,7 @@
     },
     {
       "id": 98058,
-      "name": "브로니치",
+      "name": "브론니치",
       "name_default": "Bronnitsy",
       "native": "Бронницы",
       "type": "adm2",
@@ -772,7 +772,7 @@
     },
     {
       "id": 98135,
-      "name": "체홉",
+      "name": "체호프",
       "name_default": "Chekhov",
       "native": "Чехов",
       "type": "adm2",
@@ -952,7 +952,7 @@
     },
     {
       "id": 98257,
-      "name": "데도프스크",
+      "name": "데돕스크",
       "name_default": "Dedovsk",
       "native": "Дедовск",
       "type": "city",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": 98385,
-      "name": "엘렉트로고르스크",
+      "name": "옐렉트로고르스크",
       "name_default": "Elektrogorsk",
       "native": "Электрогорск",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 98387,
-      "name": "전기",
+      "name": "옐렉트로우글리",
       "name_default": "Elektrougli",
       "native": "Электроугли",
       "type": "city",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": 98441,
-      "name": "프라이아지노",
+      "name": "프랴지노",
       "name_default": "Fryazino",
       "native": "Фрязино",
       "type": "adm2",
@@ -1834,7 +1834,7 @@
     },
     {
       "id": 99102,
-      "name": "클리모프스크",
+      "name": "클리몹스크",
       "name_default": "Klimovsk",
       "native": "Климовск",
       "type": "city",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 99214,
-      "name": "코롤레프",
+      "name": "코롤료프",
       "name_default": "Korolev",
       "native": "Королев",
       "type": "adm2",
@@ -2403,24 +2403,6 @@
       "longitude": "37.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2627647",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 99575,
-      "name": "레닌스키예 고리",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -3508,7 +3490,7 @@
     },
     {
       "id": 100463,
-      "name": "오레호보-주예보",
+      "name": "오레호보주예보",
       "name_default": "Orekhovo-Zuyevo",
       "native": "Орехово-Зуево",
       "type": "city",
@@ -3670,7 +3652,7 @@
     },
     {
       "id": 100577,
-      "name": "파블로프스키 포사드",
+      "name": "파블롭스키포사트",
       "name_default": "Pavlovskiy Posad",
       "native": "Павловский Посад",
       "type": "city",
@@ -4552,7 +4534,7 @@
     },
     {
       "id": 101182,
-      "name": "세르기예프 포사드",
+      "name": "세르기예프포사트",
       "name_default": "Sergiyev Posad",
       "native": "Сергиев Посад",
       "type": "adm2",
@@ -4588,7 +4570,7 @@
     },
     {
       "id": 101191,
-      "name": "세르푸코프",
+      "name": "세르푸호프",
       "name_default": "Serpukhov",
       "native": "Серпухов",
       "type": "adm2",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "셸코보",
+      "name": "숄코보",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -4912,7 +4894,7 @@
     },
     {
       "id": 101453,
-      "name": "솔네치노고르스크",
+      "name": "솔네츠노고르스크",
       "name_default": "Solnechnogorsk",
       "native": "Солнечногорск",
       "type": "adm2",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "보스트리야코보",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "비소콥스크",
       "name_default": "Vysokovsk",
@@ -5578,9 +5542,9 @@
     },
     {
       "id": 102477,
-      "name": "참마",
+      "name": "Yam",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,

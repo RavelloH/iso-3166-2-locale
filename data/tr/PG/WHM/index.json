@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 81030,
-      "name": "Bayiyer Mul",
+      "name": "Baiyer Mul",
       "name_default": "Baiyer Mul",
       "native": "Baiyer Mul",
       "type": "adm3",
@@ -82,10 +82,10 @@
     },
     {
       "id": 81037,
-      "name": "Tanrı",
+      "name": "Dei",
       "name_default": "Dei",
-      "native": "Of the",
-      "type": "adm3",
+      "native": "Dei",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 49767,
@@ -118,7 +118,7 @@
     },
     {
       "id": 81086,
-      "name": "Hagen Dağı",
+      "name": "Mount Hagen",
       "name_default": "Mount Hagen",
       "native": "Mount Hagen",
       "type": "adm1",

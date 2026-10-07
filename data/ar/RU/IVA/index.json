@@ -232,7 +232,7 @@
   "cities": [
     {
       "id": 97669,
-      "name": "أرخيبوفكا",
+      "name": "أركيبوفكا",
       "name_default": "Arkhipovka",
       "native": "Архиповка",
       "type": "city",
@@ -250,7 +250,7 @@
     },
     {
       "id": 97972,
-      "name": "بوغورودسكوي",
+      "name": "بوغورودسكويي",
       "name_default": "Bogorodskoye",
       "native": "Богородское",
       "type": "city",
@@ -304,7 +304,7 @@
     },
     {
       "id": 98461,
-      "name": "جافريلوف بوساد",
+      "name": "غافريلوف بوساد",
       "name_default": "Gavrilov Posad",
       "native": "Гаврилов Посад",
       "type": "adm2",
@@ -862,9 +862,9 @@
     },
     {
       "id": 100705,
-      "name": "من فضلك",
+      "name": "بلييوس",
       "name_default": "Plyos",
-      "native": "Пожалуйста",
+      "native": "Плёс",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -916,7 +916,7 @@
     },
     {
       "id": 100885,
-      "name": "بوتشيز",
+      "name": "بوتشيج",
       "name_default": "Puchezh",
       "native": "Пучеж",
       "type": "adm2",
@@ -1024,7 +1024,7 @@
     },
     {
       "id": 101360,
-      "name": "شويا",
+      "name": "شوايا",
       "name_default": "Shuya",
       "native": "Шуя",
       "type": "adm2",
@@ -1150,7 +1150,7 @@
     },
     {
       "id": 102254,
-      "name": "فيرخني لانديخ",
+      "name": "فيركنيي لانديك",
       "name_default": "Verkhniy Landekh",
       "native": "Верхний Ландех",
       "type": "adm2",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 102300,
-      "name": "فيتشوجا",
+      "name": "فيتشوغا",
       "name_default": "Vichuga",
       "native": "Вичуга",
       "type": "adm2",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": 102612,
-      "name": "يوزا",
+      "name": "يوجا",
       "name_default": "Yuzha",
       "native": "Южа",
       "type": "adm2",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 102622,
-      "name": "منطقة يوزهسكي",
+      "name": "Yuzhskiy Rayon",
       "name_default": "Yuzhskiy Rayon",
       "native": "Южский район",
       "type": "city",

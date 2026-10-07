@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 53925,
-      "name": "Coxen Hole",
+      "name": "Roatán",
       "name_default": "Coxen Hole",
-      "native": "Agujero de coxen",
+      "native": "Coxen Hole",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -75,9 +75,9 @@
     },
     {
       "id": 54008,
-      "name": "Porto francese",
+      "name": "French Harbor",
       "name_default": "French Harbor",
-      "native": "Puerto francés",
+      "native": "French Harbor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 54197,
-      "name": "Roatan",
+      "name": "Roatán",
       "name_default": "Roatán",
       "native": "Roatán",
       "type": "adm1",
@@ -147,9 +147,9 @@
     },
     {
       "id": 54289,
-      "name": "Baia sabbiosa",
+      "name": "Sandy Bay",
       "name_default": "Sandy Bay",
-      "native": "Bahía de arena",
+      "native": "Sandy Bay",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 54315,
-      "name": "Baia di Savannah",
+      "name": "Savannah Bight",
       "name_default": "Savannah Bight",
       "native": "Savannah Bight",
       "type": "city",
@@ -185,7 +185,7 @@
       "id": 54351,
       "name": "Utila",
       "name_default": "Utila",
-      "native": "Útil",
+      "native": "Utila",
       "type": "city",
       "level": null,
       "parent_id": null,

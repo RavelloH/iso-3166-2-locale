@@ -71,7 +71,7 @@
   "cities": [
     {
       "id": 31930,
-      "name": "أدانرو",
+      "name": "أدانيرو",
       "name_default": "Adanero",
       "native": "Adanero",
       "type": "city",
@@ -89,7 +89,7 @@
     },
     {
       "id": 32055,
-      "name": "ألبورنوس",
+      "name": "البورنوس",
       "name_default": "Albornos",
       "native": "Albornos",
       "type": "city",
@@ -107,7 +107,7 @@
     },
     {
       "id": 32162,
-      "name": "ألديانويفا دي سانتا كروز",
+      "name": "ألديانويفا دي سانتا كروث",
       "name_default": "Aldeanueva de Santa Cruz",
       "native": "Aldeanueva de Santa Cruz",
       "type": "city",
@@ -125,7 +125,7 @@
     },
     {
       "id": 32170,
-      "name": "ألديسيكا",
+      "name": "الدياسيكا",
       "name_default": "Aldeaseca",
       "native": "Aldeaseca",
       "type": "city",
@@ -145,7 +145,7 @@
       "id": 32348,
       "name": "أمافيدا",
       "name_default": "Amavida",
-      "native": "Viñedos",
+      "native": "Amavida",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -161,7 +161,7 @@
     },
     {
       "id": 32447,
-      "name": "ساحات سان بيدرو",
+      "name": "أريناس دي سان بيدرو",
       "name_default": "Arenas de San Pedro",
       "native": "Arenas de San Pedro",
       "type": "city",
@@ -179,9 +179,9 @@
     },
     {
       "id": 152702,
-      "name": "أريفاليلو",
+      "name": "أريفاليو",
       "name_default": "Arevalillo",
-      "native": "Valillo",
+      "native": "Arevalillo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -217,7 +217,7 @@
       "id": 32564,
       "name": "أفينتي",
       "name_default": "Aveinte",
-      "native": "Tener",
+      "native": "Aveinte",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -289,7 +289,7 @@
       "id": 32680,
       "name": "بارومان",
       "name_default": "Barromán",
-      "native": "Barrich",
+      "native": "Barromán",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -305,7 +305,7 @@
     },
     {
       "id": 32721,
-      "name": "بيسداس",
+      "name": "بيثيداس",
       "name_default": "Becedas",
       "native": "Becedas",
       "type": "city",
@@ -323,7 +323,7 @@
     },
     {
       "id": 32722,
-      "name": "بيسيديلاس",
+      "name": "بيثيدياس",
       "name_default": "Becedillas",
       "native": "Becedillas",
       "type": "city",
@@ -341,9 +341,9 @@
     },
     {
       "id": 32841,
-      "name": "بيرسيال دي زاباردييل",
+      "name": "بيرثيال دي ثاباردييل",
       "name_default": "Bercial de Zapardiel",
-      "native": "Zapardiel Berial",
+      "native": "Bercial de Zapardiel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -359,7 +359,7 @@
     },
     {
       "id": 152706,
-      "name": "بيرنوي-زاباردييل",
+      "name": "بيرنوي-ثاباردييل",
       "name_default": "Bernuy-Zapardiel",
       "native": "Bernuy-zapardiel",
       "type": "city",
@@ -377,7 +377,7 @@
     },
     {
       "id": 32872,
-      "name": "بيروكاليجو دي أراغونا",
+      "name": "بيروكاليخو دي أراغونا",
       "name_default": "Berrocalejo de Aragona",
       "native": "Berrocalejo de Aragona",
       "type": "city",
@@ -395,7 +395,7 @@
     },
     {
       "id": 32910,
-      "name": "بلاسكوميلان",
+      "name": "بلاسكوميان",
       "name_default": "Blascomillán",
       "native": "Blascomillán",
       "type": "city",
@@ -413,7 +413,7 @@
     },
     {
       "id": 152707,
-      "name": "Blasconuño de Matacabras",
+      "name": "بلاسكونونيو دي ماتاكابراس",
       "name_default": "Blasconuño de Matacabras",
       "native": "Blasconuño de Matacabras",
       "type": "city",
@@ -431,7 +431,7 @@
     },
     {
       "id": 32911,
-      "name": "بلاسكوسانشو",
+      "name": "بلاسكوسانتشو",
       "name_default": "Blascosancho",
       "native": "Blascosancho",
       "type": "city",
@@ -467,7 +467,7 @@
     },
     {
       "id": 32948,
-      "name": "بونيلا دي لا سييرا",
+      "name": "بونيا دي لا سييرا",
       "name_default": "Bonilla de la Sierra",
       "native": "Bonilla de la Sierra",
       "type": "city",
@@ -505,7 +505,7 @@
       "id": 152709,
       "name": "بولاروس",
       "name_default": "Bularros",
-      "native": "Mama",
+      "native": "Bularros",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -523,7 +523,7 @@
       "id": 33025,
       "name": "بورغوهوندو",
       "name_default": "Burgohondo",
-      "native": "Burgakso",
+      "native": "Burgohondo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -539,7 +539,7 @@
     },
     {
       "id": 33085,
-      "name": "كابيزاس دي ألامبري",
+      "name": "كابيثاس دي ألامبري",
       "name_default": "Cabezas de Alambre",
       "native": "Cabezas de Alambre",
       "type": "city",
@@ -557,7 +557,7 @@
     },
     {
       "id": 33086,
-      "name": "كابيزاس ديل بوزو",
+      "name": "كابيثاس ديل بوثو",
       "name_default": "Cabezas del Pozo",
       "native": "Cabezas del Pozo",
       "type": "city",
@@ -575,7 +575,7 @@
     },
     {
       "id": 33087,
-      "name": "كابيزاس ديل فيلار",
+      "name": "كابيثاس ديل فيار",
       "name_default": "Cabezas del Villar",
       "native": "Cabezas del Villar",
       "type": "city",
@@ -593,7 +593,7 @@
     },
     {
       "id": 33096,
-      "name": "كابيزويلا",
+      "name": "كابيثويلا",
       "name_default": "Cabizuela",
       "native": "Cabizuela",
       "type": "city",
@@ -665,9 +665,9 @@
     },
     {
       "id": 33301,
-      "name": "كاردينوسا",
+      "name": "كاردينيوسا",
       "name_default": "Cardeñosa",
-      "native": "Caras",
+      "native": "Cardeñosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -719,7 +719,7 @@
     },
     {
       "id": 33382,
-      "name": "كاسافيجا",
+      "name": "كاسافيخا",
       "name_default": "Casavieja",
       "native": "Casavieja",
       "type": "city",
@@ -755,7 +755,7 @@
     },
     {
       "id": 33417,
-      "name": "كاستيلانوس دي زاباردييل",
+      "name": "كاستيانوس دي ثاباردييل",
       "name_default": "Castellanos de Zapardiel",
       "native": "Castellanos de Zapardiel",
       "type": "city",
@@ -773,7 +773,7 @@
     },
     {
       "id": 33551,
-      "name": "سيبريروس",
+      "name": "ثيبريروس",
       "name_default": "Cebreros",
       "native": "Cebreros",
       "type": "city",
@@ -791,7 +791,7 @@
     },
     {
       "id": 33577,
-      "name": "سيبيدا لا مورا",
+      "name": "ثيبيدا لا مورا",
       "name_default": "Cepeda la Mora",
       "native": "Cepeda la Mora",
       "type": "city",
@@ -827,9 +827,9 @@
     },
     {
       "id": 33672,
-      "name": "سيلان",
+      "name": "ثيان",
       "name_default": "Cillán",
-      "native": "Hacer un colchado",
+      "native": "Cillán",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -845,9 +845,9 @@
     },
     {
       "id": 33690,
-      "name": "سيسلا",
+      "name": "ثيسلا",
       "name_default": "Cisla",
-      "native": "Número",
+      "native": "Cisla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -863,7 +863,7 @@
     },
     {
       "id": 33734,
-      "name": "كولادو دي كونتريراس",
+      "name": "كويادو دي كونتريراس",
       "name_default": "Collado de Contreras",
       "native": "Collado de Contreras",
       "type": "city",
@@ -881,7 +881,7 @@
     },
     {
       "id": 33735,
-      "name": "كولادو ديل ميرون",
+      "name": "كويادو ديل ميرون",
       "name_default": "Collado del Mirón",
       "native": "Collado del Mirón",
       "type": "city",
@@ -899,7 +899,7 @@
     },
     {
       "id": 33767,
-      "name": "كونستانزانا",
+      "name": "كونستانثانا",
       "name_default": "Constanzana",
       "native": "Constanzana",
       "type": "city",
@@ -919,7 +919,7 @@
       "id": 33834,
       "name": "كريسبوس",
       "name_default": "Crespos",
-      "native": "Ondulado",
+      "native": "Crespos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -935,7 +935,7 @@
     },
     {
       "id": 33879,
-      "name": "كويفاس ديل فالي",
+      "name": "كويفاس ديل فايي",
       "name_default": "Cuevas del Valle",
       "native": "Cuevas del Valle",
       "type": "city",
@@ -971,9 +971,9 @@
     },
     {
       "id": 33945,
-      "name": "دونجيمينو",
+      "name": "دونخيمينو",
       "name_default": "Donjimeno",
-      "native": "Donjanno",
+      "native": "Donjimeno",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1007,7 +1007,7 @@
     },
     {
       "id": 152701,
-      "name": "أرينال إل",
+      "name": "إل أرينال",
       "name_default": "El Arenal",
       "native": "El Arenal",
       "type": "city",
@@ -1025,7 +1025,7 @@
     },
     {
       "id": 152703,
-      "name": "باركو دي أفيلا إل",
+      "name": "إل باركو دي أفيلا",
       "name_default": "El Barco de Ávila",
       "native": "El Barco de Ávila",
       "type": "city",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": 33979,
-      "name": "El Barco de Ávila",
+      "name": "إل باركو دي أفيلا",
       "name_default": "El Barco de Ávila",
       "native": "El Barco de Ávila",
       "type": "city",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": 152715,
-      "name": "فريسنو إل",
+      "name": "إل فريسنو",
       "name_default": "El Fresno",
       "native": "El Fresno",
       "type": "city",
@@ -1151,7 +1151,7 @@
     },
     {
       "id": 34000,
-      "name": "إل هويو دي بيناريس",
+      "name": "إل أويو دي بيناريس",
       "name_default": "El Hoyo de Pinares",
       "native": "El Hoyo de Pinares",
       "type": "city",
@@ -1223,7 +1223,7 @@
     },
     {
       "id": 152735,
-      "name": "بارال إل",
+      "name": "إل بارال",
       "name_default": "El Parral",
       "native": "El Parral",
       "type": "city",
@@ -1277,7 +1277,7 @@
     },
     {
       "id": 152714,
-      "name": "إسبينوسا دي لوس كاباليروس",
+      "name": "إسبينوسا دي لوس كاباييروس",
       "name_default": "Espinosa de los Caballeros",
       "native": "Espinosa de los Caballeros",
       "type": "city",
@@ -1315,7 +1315,7 @@
       "id": 34217,
       "name": "فونتيفيروس",
       "name_default": "Fontiveros",
-      "native": "Fontivígaros",
+      "native": "Fontiveros",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1331,9 +1331,9 @@
     },
     {
       "id": 34248,
-      "name": "فريسنديلا",
+      "name": "فريسنيديا",
       "name_default": "Fresnedilla",
-      "native": "Frenedilla",
+      "native": "Fresnedilla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1349,7 +1349,7 @@
     },
     {
       "id": 152716,
-      "name": "فوينتي إل ساوز",
+      "name": "فوينتي إل ساوث",
       "name_default": "Fuente el Saúz",
       "native": "Fuente el Saúz",
       "type": "city",
@@ -1367,7 +1367,7 @@
     },
     {
       "id": 34340,
-      "name": "Fuentes de Año",
+      "name": "فوينتيس دي أنيو",
       "name_default": "Fuentes de Año",
       "native": "Fuentes de Año",
       "type": "city",
@@ -1385,7 +1385,7 @@
     },
     {
       "id": 152717,
-      "name": "جاليجوس دي ألتاميروس",
+      "name": "غاييغوس دي ألتاميروس",
       "name_default": "Gallegos de Altamiros",
       "native": "Gallegos de Altamiros",
       "type": "city",
@@ -1403,7 +1403,7 @@
     },
     {
       "id": 34389,
-      "name": "جاليجوس دي سوبرينوس",
+      "name": "غاييغوس دي سوبرينوس",
       "name_default": "Gallegos de Sobrinos",
       "native": "Gallegos de Sobrinos",
       "type": "city",
@@ -1421,7 +1421,7 @@
     },
     {
       "id": 34416,
-      "name": "جارجانتا ديل فيلار",
+      "name": "غارغانتا ديل فيار",
       "name_default": "Garganta del Villar",
       "native": "Garganta del Villar",
       "type": "city",
@@ -1457,7 +1457,7 @@
     },
     {
       "id": 34450,
-      "name": "جيمونو",
+      "name": "خيمونيو",
       "name_default": "Gemuño",
       "native": "Gemuño",
       "type": "city",
@@ -1475,7 +1475,7 @@
     },
     {
       "id": 152719,
-      "name": "جيل غارسيا",
+      "name": "خيل غارثيا",
       "name_default": "Gil García",
       "native": "Gil García",
       "type": "city",
@@ -1493,7 +1493,7 @@
     },
     {
       "id": 152718,
-      "name": "جيلبوينا",
+      "name": "خيلبوينا",
       "name_default": "Gilbuena",
       "native": "Gilbuena",
       "type": "city",
@@ -1511,7 +1511,7 @@
     },
     {
       "id": 34465,
-      "name": "جيميالكون",
+      "name": "خيميالكون",
       "name_default": "Gimialcón",
       "native": "Gimialcón",
       "type": "city",
@@ -1529,9 +1529,9 @@
     },
     {
       "id": 34489,
-      "name": "جوتاريندورا",
+      "name": "غوتاريندورا",
       "name_default": "Gotarrendura",
-      "native": "Jardín",
+      "native": "Gotarrendura",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1547,7 +1547,7 @@
     },
     {
       "id": 152720,
-      "name": "Grandes y San Martín",
+      "name": "غراندس إي سان مارتين",
       "name_default": "Grandes y San Martín",
       "native": "Grandes y San Martín",
       "type": "city",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": 34551,
-      "name": "جيساندو",
+      "name": "غيساندو",
       "name_default": "Guisando",
       "native": "Guisando",
       "type": "city",
@@ -1583,7 +1583,7 @@
     },
     {
       "id": 34556,
-      "name": "غوتيير-مونيوز",
+      "name": "غوتيري-مونيوث",
       "name_default": "Gutierre-Muñoz",
       "native": "Gutierre-Muñoz",
       "type": "city",
@@ -1601,7 +1601,7 @@
     },
     {
       "id": 34589,
-      "name": "هيرنانشاشو",
+      "name": "إيرنانسانتشو",
       "name_default": "Hernansancho",
       "native": "Hernansancho",
       "type": "city",
@@ -1619,7 +1619,7 @@
     },
     {
       "id": 152721,
-      "name": "هيرادون دي بيناريس",
+      "name": "إيرادون دي بينارس",
       "name_default": "Herradón de Pinares",
       "native": "Herradón de Pinares",
       "type": "city",
@@ -1637,7 +1637,7 @@
     },
     {
       "id": 34600,
-      "name": "هيرروس دي سوسو",
+      "name": "إيريروس دي سوسو",
       "name_default": "Herreros de Suso",
       "native": "Herreros de Suso",
       "type": "city",
@@ -1655,7 +1655,7 @@
     },
     {
       "id": 34613,
-      "name": "Higuera de las Dueñas",
+      "name": "إيغيرا دي لاس دوينياس",
       "name_default": "Higuera de las Dueñas",
       "native": "Higuera de las Dueñas",
       "type": "city",
@@ -1673,7 +1673,7 @@
     },
     {
       "id": 34653,
-      "name": "Horcajo de las Torres",
+      "name": "أوركاخو دي لاس توريس",
       "name_default": "Horcajo de las Torres",
       "native": "Horcajo de las Torres",
       "type": "city",
@@ -1691,7 +1691,7 @@
     },
     {
       "id": 34675,
-      "name": "هويوكاسيرو",
+      "name": "أويوكاسيرو",
       "name_default": "Hoyocasero",
       "native": "Hoyocasero",
       "type": "city",
@@ -1709,7 +1709,7 @@
     },
     {
       "id": 34676,
-      "name": "هويورريدوندو",
+      "name": "أويوريدوندو",
       "name_default": "Hoyorredondo",
       "native": "Hoyorredondo",
       "type": "city",
@@ -1727,7 +1727,7 @@
     },
     {
       "id": 34678,
-      "name": "Hoyos de Miguel Muñoz",
+      "name": "أويوس دي ميغيل مونيوث",
       "name_default": "Hoyos de Miguel Muñoz",
       "native": "Hoyos de Miguel Muñoz",
       "type": "city",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": 34679,
-      "name": "هويوس ديل كولادو",
+      "name": "أويوس ديل كويادو",
       "name_default": "Hoyos del Collado",
       "native": "Hoyos del Collado",
       "type": "city",
@@ -1763,7 +1763,7 @@
     },
     {
       "id": 34680,
-      "name": "هويوس ديل إسبينو",
+      "name": "أويوس ديل إسبينو",
       "name_default": "Hoyos del Espino",
       "native": "Hoyos del Espino",
       "type": "city",
@@ -1781,7 +1781,7 @@
     },
     {
       "id": 34704,
-      "name": "هورتومباسكول",
+      "name": "أورتومباسكوال",
       "name_default": "Hurtumpascual",
       "native": "Hurtumpascual",
       "type": "city",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": 34830,
-      "name": "جونسيانا",
+      "name": "خونثيانا",
       "name_default": "Junciana",
       "native": "Junciana",
       "type": "city",
@@ -1837,7 +1837,7 @@
       "id": 152699,
       "name": "أدرادا لا",
       "name_default": "La Adrada",
-      "native": "Adrada en",
+      "native": "La Adrada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1853,7 +1853,7 @@
     },
     {
       "id": 152700,
-      "name": "ألديويلا لا",
+      "name": "لا ألديويلا",
       "name_default": "La Aldehuela",
       "native": "La Aldehuela",
       "type": "city",
@@ -1871,7 +1871,7 @@
     },
     {
       "id": 152710,
-      "name": "كاريرا لا",
+      "name": "لا كاريرا",
       "name_default": "La Carrera",
       "native": "La Carrera",
       "type": "city",
@@ -1963,7 +1963,7 @@
       "id": 152746,
       "name": "سيرادا لا",
       "name_default": "La Serrada",
-      "native": "Aserradero",
+      "native": "La Serrada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1979,7 +1979,7 @@
     },
     {
       "id": 152750,
-      "name": "برج لا",
+      "name": "لا توري",
       "name_default": "La Torre",
       "native": "La Torre",
       "type": "city",
@@ -2015,9 +2015,9 @@
     },
     {
       "id": 152726,
-      "name": "لانزاهيتا",
+      "name": "لانثايتا",
       "name_default": "Lanzahíta",
-      "native": "Lanzahtha",
+      "native": "Lanzahíta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2069,7 +2069,7 @@
     },
     {
       "id": 34987,
-      "name": "لاس نافاس ديل ماركيز",
+      "name": "لاس نافاس ديل ماركيس",
       "name_default": "Las Navas del Marqués",
       "native": "Las Navas del Marqués",
       "type": "city",
@@ -2105,7 +2105,7 @@
     },
     {
       "id": 35190,
-      "name": "مادريجال دي لاس أطلس توريس",
+      "name": "مادرايغال دي لاس ألتاس توريس",
       "name_default": "Madrigal de las Altas Torres",
       "native": "Madrigal de las Altas Torres",
       "type": "city",
@@ -2123,7 +2123,7 @@
     },
     {
       "id": 35198,
-      "name": "مايلو",
+      "name": "مائيو",
       "name_default": "Maello",
       "native": "Maello",
       "type": "city",
@@ -2177,7 +2177,7 @@
     },
     {
       "id": 35241,
-      "name": "مانسيرا دي أريبا",
+      "name": "مانثيرا دي أريبا",
       "name_default": "Mancera de Arriba",
       "native": "Mancera de Arriba",
       "type": "city",
@@ -2195,7 +2195,7 @@
     },
     {
       "id": 35252,
-      "name": "مانجابالاغو",
+      "name": "مانخابالغو",
       "name_default": "Manjabálago",
       "native": "Manjabálago",
       "type": "city",
@@ -2215,7 +2215,7 @@
       "id": 152729,
       "name": "مارلين",
       "name_default": "Marlín",
-      "native": "Aguja",
+      "native": "Marlín",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2303,9 +2303,9 @@
     },
     {
       "id": 35404,
-      "name": "مينجامونيوز",
+      "name": "مينغامونيوث",
       "name_default": "Mengamuñoz",
-      "native": "Engañar",
+      "native": "Mengamuñoz",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2321,7 +2321,7 @@
     },
     {
       "id": 35409,
-      "name": "Mesegar de Corneja",
+      "name": "ميسيغار دي كورنيخا",
       "name_default": "Mesegar de Corneja",
       "native": "Mesegar de Corneja",
       "type": "city",
@@ -2393,7 +2393,7 @@
     },
     {
       "id": 152731,
-      "name": "Mirueña de los Infanzones",
+      "name": "ميروينيا دي لوس إنفانثونيس",
       "name_default": "Mirueña de los Infanzones",
       "native": "Mirueña de los Infanzones",
       "type": "city",
@@ -2411,7 +2411,7 @@
     },
     {
       "id": 35491,
-      "name": "مومبلتران",
+      "name": "مومبيلتران",
       "name_default": "Mombeltrán",
       "native": "Mombeltrán",
       "type": "city",
@@ -2447,7 +2447,7 @@
     },
     {
       "id": 35603,
-      "name": "Moraleja de Matacabras",
+      "name": "موراليخا دي ماتاكابراس",
       "name_default": "Moraleja de Matacabras",
       "native": "Moraleja de Matacabras",
       "type": "city",
@@ -2483,7 +2483,7 @@
     },
     {
       "id": 35693,
-      "name": "مونيكو",
+      "name": "مونييكو",
       "name_default": "Muñico",
       "native": "Muñico",
       "type": "city",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": 35694,
-      "name": "مونوجاليندو",
+      "name": "مونيوغاليندو",
       "name_default": "Muñogalindo",
       "native": "Muñogalindo",
       "type": "city",
@@ -2519,7 +2519,7 @@
     },
     {
       "id": 35695,
-      "name": "مونوغراندي",
+      "name": "مونيوغراندي",
       "name_default": "Muñogrande",
       "native": "Muñogrande",
       "type": "city",
@@ -2555,9 +2555,9 @@
     },
     {
       "id": 35698,
-      "name": "مونوبيبي",
+      "name": "مونيوبيبي",
       "name_default": "Muñopepe",
-      "native": "Muñope",
+      "native": "Muñopepe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2573,7 +2573,7 @@
     },
     {
       "id": 35699,
-      "name": "مونوسانشو",
+      "name": "مونيوسانتشو",
       "name_default": "Muñosancho",
       "native": "Muñosancho",
       "type": "city",
@@ -2591,7 +2591,7 @@
     },
     {
       "id": 35700,
-      "name": "مونوتيلو",
+      "name": "مونيوتيو",
       "name_default": "Muñotello",
       "native": "Muñotello",
       "type": "city",
@@ -2609,7 +2609,7 @@
     },
     {
       "id": 35714,
-      "name": "ناريلوس ديل ألامو",
+      "name": "ناريوس ديل ألامو",
       "name_default": "Narrillos del Álamo",
       "native": "Narrillos del Álamo",
       "type": "city",
@@ -2627,7 +2627,7 @@
     },
     {
       "id": 35713,
-      "name": "ناريلوس ديل ريبولار",
+      "name": "ناريوس ديل ريبويار",
       "name_default": "Narrillos del Rebollar",
       "native": "Narrillos del Rebollar",
       "type": "city",
@@ -2645,7 +2645,7 @@
     },
     {
       "id": 35717,
-      "name": "ناروس دي سالدوينا",
+      "name": "ناروس دي سالدوينيا",
       "name_default": "Narros de Saldueña",
       "native": "Narros de Saldueña",
       "type": "city",
@@ -2663,7 +2663,7 @@
     },
     {
       "id": 35718,
-      "name": "ناروس ديل كاستيلو",
+      "name": "ناروس ديل كاستيو",
       "name_default": "Narros del Castillo",
       "native": "Narros del Castillo",
       "type": "city",
@@ -2699,7 +2699,7 @@
     },
     {
       "id": 35721,
-      "name": "نافا دي أريفالو",
+      "name": "نافا ديل أريفالو",
       "name_default": "Nava de Arévalo",
       "native": "Nava de Arévalo",
       "type": "city",
@@ -2735,7 +2735,7 @@
     },
     {
       "id": 35730,
-      "name": "Navacepedilla de Corneja",
+      "name": "نافاثيبيديا دي كورنيخا",
       "name_default": "Navacepedilla de Corneja",
       "native": "Navacepedilla de Corneja",
       "type": "city",
@@ -2753,9 +2753,9 @@
     },
     {
       "id": 35733,
-      "name": "نافاديجوس",
+      "name": "نافاديخوس",
       "name_default": "Navadijos",
-      "native": "Navadias",
+      "native": "Navadijos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2771,9 +2771,9 @@
     },
     {
       "id": 35734,
-      "name": "نافاسكوريال",
+      "name": "نافائسكوريال",
       "name_default": "Navaescurial",
-      "native": "Navaescural",
+      "native": "Navaescurial",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2789,7 +2789,7 @@
     },
     {
       "id": 35737,
-      "name": "نافاهونديلا",
+      "name": "نافاونديا",
       "name_default": "Navahondilla",
       "native": "Navahondilla",
       "type": "city",
@@ -2807,9 +2807,9 @@
     },
     {
       "id": 35741,
-      "name": "نافالاكروز",
+      "name": "نافالاكروث",
       "name_default": "Navalacruz",
-      "native": "Navalacrruz",
+      "native": "Navalacruz",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2825,7 +2825,7 @@
     },
     {
       "id": 35750,
-      "name": "الأخلاق البحرية",
+      "name": "نافالمورال",
       "name_default": "Navalmoral",
       "native": "Navalmoral",
       "type": "city",
@@ -2843,7 +2843,7 @@
     },
     {
       "id": 152732,
-      "name": "نافالونغيلا",
+      "name": "نافالونغيا",
       "name_default": "Navalonguilla",
       "native": "Navalonguilla",
       "type": "city",
@@ -2863,7 +2863,7 @@
       "id": 35754,
       "name": "نافالوسا",
       "name_default": "Navalosa",
-      "native": "Na na natolosa",
+      "native": "Navalosa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2917,7 +2917,7 @@
       "id": 35759,
       "name": "نافالوينغا",
       "name_default": "Navaluenga",
-      "native": "Virus",
+      "native": "Navaluenga",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2951,7 +2951,7 @@
     },
     {
       "id": 35771,
-      "name": "نافاريدوندا دي جريدوس",
+      "name": "نافاريدوندا دي غريدوس",
       "name_default": "Navarredonda de Gredos",
       "native": "Navarredonda de Gredos",
       "type": "city",
@@ -2969,7 +2969,7 @@
     },
     {
       "id": 35773,
-      "name": "نافاريدونديلا",
+      "name": "نافاريدونديا",
       "name_default": "Navarredondilla",
       "native": "Navarredondilla",
       "type": "city",
@@ -3005,7 +3005,7 @@
     },
     {
       "id": 35787,
-      "name": "نافاتالجوردو",
+      "name": "نافاتالغوردو",
       "name_default": "Navatalgordo",
       "native": "Navatalgordo",
       "type": "city",
@@ -3025,7 +3025,7 @@
       "id": 35788,
       "name": "نافاتيخاريس",
       "name_default": "Navatejares",
-      "native": "Parte navegate",
+      "native": "Navatejares",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3059,9 +3059,9 @@
     },
     {
       "id": 35811,
-      "name": "نيهارا",
+      "name": "نيارا",
       "name_default": "Niharra",
-      "native": "Nephar",
+      "native": "Niharra",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3077,7 +3077,7 @@
     },
     {
       "id": 35869,
-      "name": "أوجوس-ألبوس",
+      "name": "أوخوس-ألبوس",
       "name_default": "Ojos-Albos",
       "native": "Ojos-Albos",
       "type": "city",
@@ -3149,7 +3149,7 @@
     },
     {
       "id": 36006,
-      "name": "قصور جودا",
+      "name": "بالاثيوس دي غودا",
       "name_default": "Palacios de Goda",
       "native": "Palacios de Goda",
       "type": "city",
@@ -3169,7 +3169,7 @@
       "id": 36051,
       "name": "باباتريغو",
       "name_default": "Papatrigo",
-      "native": "Patrón",
+      "native": "Papatrigo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3203,7 +3203,7 @@
     },
     {
       "id": 36099,
-      "name": "بيدرو برناردو",
+      "name": "بيدرو بيرناردو",
       "name_default": "Pedro Bernardo",
       "native": "Pedro Bernardo",
       "type": "city",
@@ -3221,7 +3221,7 @@
     },
     {
       "id": 152737,
-      "name": "بيدرو رودريغيز",
+      "name": "بيدرو-رودريغيث",
       "name_default": "Pedro-Rodríguez",
       "native": "Pedro-Rodríguez",
       "type": "city",
@@ -3239,7 +3239,7 @@
     },
     {
       "id": 36117,
-      "name": "بيجويرينوس",
+      "name": "بيغيرينوس",
       "name_default": "Peguerinos",
       "native": "Peguerinos",
       "type": "city",
@@ -3257,7 +3257,7 @@
     },
     {
       "id": 36166,
-      "name": "بينالبا دي أفيلا",
+      "name": "بينيالبا دي أفيلا",
       "name_default": "Peñalba de Ávila",
       "native": "Peñalba de Ávila",
       "type": "city",
@@ -3329,7 +3329,7 @@
     },
     {
       "id": 36310,
-      "name": "بوياليس ديل هويو",
+      "name": "بوياليس ديل أويو",
       "name_default": "Poyales del Hoyo",
       "native": "Poyales del Hoyo",
       "type": "city",
@@ -3347,9 +3347,9 @@
     },
     {
       "id": 36315,
-      "name": "بوزانكو",
+      "name": "بوثانكو",
       "name_default": "Pozanco",
-      "native": "Trajo",
+      "native": "Pozanco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3455,9 +3455,9 @@
     },
     {
       "id": 36640,
-      "name": "ريفيلا دي باراخاس",
+      "name": "ريفيا دي باراخاس",
       "name_default": "Rivilla de Barajas",
-      "native": "En la línea de Barajas",
+      "native": "Rivilla de Barajas",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3509,7 +3509,7 @@
     },
     {
       "id": 36807,
-      "name": "سان بارتولومي دي بيجار",
+      "name": "سان بارتولومي دي بيخار",
       "name_default": "San Bartolomé de Béjar",
       "native": "San Bartolomé de Béjar",
       "type": "city",
@@ -3563,7 +3563,7 @@
     },
     {
       "id": 36831,
-      "name": "سان استيبان دي لوس باتوس",
+      "name": "سان إستيبان دي لوس باتوس",
       "name_default": "San Esteban de los Patos",
       "native": "San Esteban de los Patos",
       "type": "city",
@@ -3581,7 +3581,7 @@
     },
     {
       "id": 152742,
-      "name": "سان استيبان دي زاباردييل",
+      "name": "سان إستيبان دي ثاباردييل",
       "name_default": "San Esteban de Zapardiel",
       "native": "San Esteban de Zapardiel",
       "type": "city",
@@ -3599,7 +3599,7 @@
     },
     {
       "id": 36833,
-      "name": "سان استيبان ديل فالي",
+      "name": "سان إستيبان ديل فايي",
       "name_default": "San Esteban del Valle",
       "native": "San Esteban del Valle",
       "type": "city",
@@ -3617,7 +3617,7 @@
     },
     {
       "id": 36837,
-      "name": "سان غارسيا دي إنجيلموس",
+      "name": "سان غارثيا دي إنخيلموس",
       "name_default": "San García de Ingelmos",
       "native": "San García de Ingelmos",
       "type": "city",
@@ -3635,7 +3635,7 @@
     },
     {
       "id": 152751,
-      "name": "سان خوان دي جريدوس",
+      "name": "سان خوان دي غريدوس",
       "name_default": "San Juan de Gredos",
       "native": "San Juan de Gredos",
       "type": "city",
@@ -3653,7 +3653,7 @@
     },
     {
       "id": 36846,
-      "name": "سان خوان دي لا إنسينيلا",
+      "name": "سان خوان دي لا إنثينيا",
       "name_default": "San Juan de la Encinilla",
       "native": "San Juan de la Encinilla",
       "type": "city",
@@ -3689,7 +3689,7 @@
     },
     {
       "id": 36850,
-      "name": "سان خوان ديل مولينيلو",
+      "name": "سان خوان ديل مولينيو",
       "name_default": "San Juan del Molinillo",
       "native": "San Juan del Molinillo",
       "type": "city",
@@ -3725,7 +3725,7 @@
     },
     {
       "id": 36859,
-      "name": "سان لورينزو دي تورميس",
+      "name": "سان لورينثو دي تورميس",
       "name_default": "San Lorenzo de Tormes",
       "native": "San Lorenzo de Tormes",
       "type": "city",
@@ -3743,7 +3743,7 @@
     },
     {
       "id": 36874,
-      "name": "سان مارتين دي لا فيجا ديل ألبيرش",
+      "name": "سان مارتين دي لا فيغا ديل ألبيرتشي",
       "name_default": "San Martín de la Vega del Alberche",
       "native": "San Martín de la Vega del Alberche",
       "type": "city",
@@ -3761,7 +3761,7 @@
     },
     {
       "id": 36876,
-      "name": "سان مارتن ديل بيمبولار",
+      "name": "سان مارتين ديل بيمبويار",
       "name_default": "San Martín del Pimpollar",
       "native": "San Martín del Pimpollar",
       "type": "city",
@@ -3779,7 +3779,7 @@
     },
     {
       "id": 36881,
-      "name": "سان ميغيل دي كورنيخا",
+      "name": "سان ميغيل دي كرونيخا",
       "name_default": "San Miguel de Corneja",
       "native": "San Miguel de Corneja",
       "type": "city",
@@ -3797,7 +3797,7 @@
     },
     {
       "id": 36884,
-      "name": "سان ميغيل دي سيريزويلا",
+      "name": "سان ميغيل دي سيريثويلا",
       "name_default": "San Miguel de Serrezuela",
       "native": "San Miguel de Serrezuela",
       "type": "city",
@@ -3851,7 +3851,7 @@
     },
     {
       "id": 36927,
-      "name": "سان فيسينتي دي أريفالو",
+      "name": "سان فيثينتي دي أريفالو",
       "name_default": "San Vicente de Arévalo",
       "native": "San Vicente de Arévalo",
       "type": "city",
@@ -3869,7 +3869,7 @@
     },
     {
       "id": 36935,
-      "name": "سانشيدريان",
+      "name": "سانتشيدريان",
       "name_default": "Sanchidrián",
       "native": "Sanchidrián",
       "type": "city",
@@ -3887,7 +3887,7 @@
     },
     {
       "id": 36937,
-      "name": "سانشوريجا",
+      "name": "سانتشوريخا",
       "name_default": "Sanchorreja",
       "native": "Sanchorreja",
       "type": "city",
@@ -3905,7 +3905,7 @@
     },
     {
       "id": 37035,
-      "name": "سانتا كروز دي بيناريس",
+      "name": "سانتا كروث دي بيناريس",
       "name_default": "Santa Cruz de Pinares",
       "native": "Santa Cruz de Pinares",
       "type": "city",
@@ -3923,7 +3923,7 @@
     },
     {
       "id": 37045,
-      "name": "سانتا كروز ديل فالي",
+      "name": "سانتا كروث ديل فايي",
       "name_default": "Santa Cruz del Valle",
       "native": "Santa Cruz del Valle",
       "type": "city",
@@ -3941,7 +3941,7 @@
     },
     {
       "id": 37083,
-      "name": "سانتا ماريا دي لوس كاباليروس",
+      "name": "سانتا ماريا دي لوس كاباييروس",
       "name_default": "Santa María de los Caballeros",
       "native": "Santa María de los Caballeros",
       "type": "city",
@@ -3995,7 +3995,7 @@
     },
     {
       "id": 152752,
-      "name": "سانتا ماريا ديل كوبيلو",
+      "name": "سانتا ماريا ديل كوبيو",
       "name_default": "Santa María del Cubillo",
       "native": "Santa María del Cubillo",
       "type": "city",
@@ -4013,7 +4013,7 @@
     },
     {
       "id": 152745,
-      "name": "سانتا ماريا ديل تييتار",
+      "name": "سانتا ماريا ديل تيتار",
       "name_default": "Santa María del Tiétar",
       "native": "Santa María del Tiétar",
       "type": "city",
@@ -4031,7 +4031,7 @@
     },
     {
       "id": 37118,
-      "name": "سانتياغو ديل كولادو",
+      "name": "سانتياغو ديل كويادو",
       "name_default": "Santiago del Collado",
       "native": "Santiago del Collado",
       "type": "city",
@@ -4049,7 +4049,7 @@
     },
     {
       "id": 152754,
-      "name": "سانتياغو ديل تورميس",
+      "name": "سانتياغو دي تورميس",
       "name_default": "Santiago del Tormes",
       "native": "Santiago del Tormes",
       "type": "city",
@@ -4085,7 +4085,7 @@
     },
     {
       "id": 37144,
-      "name": "سانتو تومي دي زاباركوس",
+      "name": "سانتو تومي دي ثاباركوس",
       "name_default": "Santo Tomé de Zabarcos",
       "native": "Santo Tomé de Zabarcos",
       "type": "city",
@@ -4103,7 +4103,7 @@
     },
     {
       "id": 37224,
-      "name": "سيرانيلوس",
+      "name": "سيرانيوس",
       "name_default": "Serranillos",
       "native": "Serranillos",
       "type": "city",
@@ -4121,9 +4121,9 @@
     },
     {
       "id": 37251,
-      "name": "سيجيريس",
+      "name": "سيخيريس",
       "name_default": "Sigeres",
-      "native": "Decir",
+      "native": "Sigeres",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4139,7 +4139,7 @@
     },
     {
       "id": 37263,
-      "name": "سينلاباجوس",
+      "name": "سينلاباخوس",
       "name_default": "Sinlabajos",
       "native": "Sinlabajos",
       "type": "city",
@@ -4193,9 +4193,9 @@
     },
     {
       "id": 37284,
-      "name": "سولوسانشو",
+      "name": "سولوسانتشو",
       "name_default": "Solosancho",
-      "native": "Es solosancho",
+      "native": "Solosancho",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4229,7 +4229,7 @@
     },
     {
       "id": 37313,
-      "name": "Sotillo de la Adrada",
+      "name": "سوتيو دي لا أدرادا",
       "name_default": "Sotillo de la Adrada",
       "native": "Sotillo de la Adrada",
       "type": "city",
@@ -4247,7 +4247,7 @@
     },
     {
       "id": 37434,
-      "name": "تينوسيلوس",
+      "name": "تينيوسيوس",
       "name_default": "Tiñosillos",
       "native": "Tiñosillos",
       "type": "city",
@@ -4265,7 +4265,7 @@
     },
     {
       "id": 37442,
-      "name": "تولبانوس",
+      "name": "تولبانيوس",
       "name_default": "Tolbaños",
       "native": "Tolbaños",
       "type": "city",
@@ -4283,7 +4283,7 @@
     },
     {
       "id": 37469,
-      "name": "تورميلاس",
+      "name": "تورمياس",
       "name_default": "Tormellas",
       "native": "Tormellas",
       "type": "city",
@@ -4301,7 +4301,7 @@
     },
     {
       "id": 37473,
-      "name": "تورناديزوس دي أفيلا",
+      "name": "تورناديثوس دي أفيلا",
       "name_default": "Tornadizos de Ávila",
       "native": "Tornadizos de Ávila",
       "type": "city",
@@ -4319,7 +4319,7 @@
     },
     {
       "id": 37669,
-      "name": "تورتولس",
+      "name": "تورتوليس دي لا سييرا",
       "name_default": "Tórtoles",
       "native": "Tórtoles",
       "type": "city",
@@ -4355,7 +4355,7 @@
     },
     {
       "id": 37717,
-      "name": "فاديلو دي لا سييرا",
+      "name": "فاديو دي لا سييرا",
       "name_default": "Vadillo de la Sierra",
       "native": "Vadillo de la Sierra",
       "type": "city",
@@ -4429,7 +4429,7 @@
       "id": 38052,
       "name": "فيلافلور",
       "name_default": "Villaflor",
-      "native": "Villa",
+      "native": "Villaflor",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4445,7 +4445,7 @@
     },
     {
       "id": 38059,
-      "name": "فيلافرانكا دي لا سييرا",
+      "name": "فيافرانكا دي لا سييرا",
       "name_default": "Villafranca de la Sierra",
       "native": "Villafranca de la Sierra",
       "type": "city",
@@ -4463,7 +4463,7 @@
     },
     {
       "id": 152755,
-      "name": "فيلانويفا دي أفيلا",
+      "name": "فيانويفا دي أفيلا",
       "name_default": "Villanueva de Ávila",
       "native": "Villanueva de Ávila",
       "type": "city",
@@ -4481,7 +4481,7 @@
     },
     {
       "id": 38185,
-      "name": "فيلانويفا دي غوميز",
+      "name": "فيانويفا دي غوميث",
       "name_default": "Villanueva de Gómez",
       "native": "Villanueva de Gómez",
       "type": "city",
@@ -4499,7 +4499,7 @@
     },
     {
       "id": 38211,
-      "name": "فيلانويفا ديل أسيرال",
+      "name": "فيانويفا ديل أثيرال",
       "name_default": "Villanueva del Aceral",
       "native": "Villanueva del Aceral",
       "type": "city",
@@ -4517,7 +4517,7 @@
     },
     {
       "id": 38214,
-      "name": "فيلانويفا ديل كامبيلو",
+      "name": "فيانويفا ديل كامبيو",
       "name_default": "Villanueva del Campillo",
       "native": "Villanueva del Campillo",
       "type": "city",
@@ -4535,7 +4535,7 @@
     },
     {
       "id": 38237,
-      "name": "فيلار دي كورنيخا",
+      "name": "فيار دي كورنيخا",
       "name_default": "Villar de Corneja",
       "native": "Villar de Corneja",
       "type": "city",
@@ -4553,7 +4553,7 @@
     },
     {
       "id": 38276,
-      "name": "فيلاريجو ديل فالي",
+      "name": "فياريخو ديل فايي",
       "name_default": "Villarejo del Valle",
       "native": "Villarejo del Valle",
       "type": "city",
@@ -4573,7 +4573,7 @@
       "id": 38331,
       "name": "فيلاتورو",
       "name_default": "Villatoro",
-      "native": "Colina",
+      "native": "Villatoro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4589,9 +4589,9 @@
     },
     {
       "id": 38409,
-      "name": "فينيجرا دي مورانيا",
+      "name": "فينيغرا دي مورانيا",
       "name_default": "Viñegra de Moraña",
-      "native": "Moraña Vinera",
+      "native": "Viñegra de Moraña",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4625,7 +4625,7 @@
     },
     {
       "id": 38468,
-      "name": "زاباردييل دي لا كندا",
+      "name": "ثاباردييل دي لا كانيادا",
       "name_default": "Zapardiel de la Cañada",
       "native": "Zapardiel de la Cañada",
       "type": "city",
@@ -4643,7 +4643,7 @@
     },
     {
       "id": 38469,
-      "name": "زاباردييل دي لا ريبيرا",
+      "name": "ثاباردييل دي لا ريبيرا",
       "name_default": "Zapardiel de la Ribera",
       "native": "Zapardiel de la Ribera",
       "type": "city",

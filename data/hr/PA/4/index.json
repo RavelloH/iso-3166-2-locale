@@ -59,7 +59,7 @@
       "id": 79959,
       "name": "Alanje",
       "name_default": "Alanje",
-      "native": "Celoso",
+      "native": "Alanje",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 79985,
-      "name": "Četvrt Guadalupe",
+      "name": "Barrio Guadalupe",
       "name_default": "Barrio Guadalupe",
       "native": "Barrio guadalupe",
       "type": "city",
@@ -185,7 +185,7 @@
       "id": 79992,
       "name": "Bijagual",
       "name_default": "Bijagual",
-      "native": "Biblagüe",
+      "native": "Bijagual",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 80003,
       "name": "Boquete",
       "name_default": "Boquete",
-      "native": "Mamada",
+      "native": "Boquete",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 80023,
-      "name": "Kaldera",
+      "name": "Caldera",
       "name_default": "Caldera",
       "native": "Caldera",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80075,
-      "name": "Kordiljere",
+      "name": "Cordillera",
       "name_default": "Cordillera",
       "native": "Cordillera",
       "type": "adm3",
@@ -510,7 +510,7 @@
       "name": "Distrito de Alanje",
       "name_default": "Distrito de Alanje",
       "native": "Distrito de Alanje",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16508,
@@ -543,7 +543,7 @@
     },
     {
       "id": 80093,
-      "name": "Okrug Boquerón",
+      "name": "Distrito de Boquerón",
       "name_default": "Distrito de Boquerón",
       "native": "Distrito de Boquerón",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80107,
-      "name": "Okrug David",
+      "name": "Distrito de David",
       "name_default": "Distrito de David",
       "native": "Distrito de David",
       "type": "area",
@@ -633,7 +633,7 @@
     },
     {
       "id": 80110,
-      "name": "Okrug Gualaca",
+      "name": "Distrito de Gualaca",
       "name_default": "Distrito de Gualaca",
       "native": "Distrito de Gualaca",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80137,
-      "name": "Okrug San Félix",
+      "name": "Distrito de San Félix",
       "name_default": "Distrito de San Félix",
       "native": "Distrito de San Félix",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 80145,
-      "name": "Okrug Tolé",
+      "name": "Distrito de Tolé",
       "name_default": "Distrito de Tolé",
       "native": "Distrito de Tolé",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 80147,
-      "name": "Divala",
+      "name": "Divalá",
       "name_default": "Divalá",
       "native": "Divalá",
       "type": "adm3",
@@ -759,7 +759,7 @@
     },
     {
       "id": 80148,
-      "name": "Okrug Dolega",
+      "name": "Dolega",
       "name_default": "Dolega",
       "native": "Distrito dolega",
       "type": "district",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80210,
-      "name": "Bijela finca",
+      "name": "Finca Blanco",
       "name_default": "Finca Blanco",
       "native": "Finca Blanco",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 80225,
-      "name": "Gvajabal",
+      "name": "Guayabal",
       "name_default": "Guayabal",
       "native": "Guayabal",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80254,
-      "name": "Estrella",
+      "name": "La Estrella",
       "name_default": "La Estrella",
       "native": "La Estrella",
       "type": "adm3",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 80343,
-      "name": "Los Angeles",
+      "name": "Los Ángeles",
       "name_default": "Los Ángeles",
       "native": "Los Ángeles",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80378,
-      "name": "Novi San Carlitos",
+      "name": "Nuevo San Carlitos",
       "name_default": "Nuevo San Carlitos",
       "native": "Nuevo San Carlitos",
       "type": "city",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 80387,
-      "name": "Pja de Sombrero",
+      "name": "Paja de Sombrero",
       "name_default": "Paja de Sombrero",
       "native": "Paja de Sombrero",
       "type": "adm3",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 80418,
-      "name": "Plaza de Caisan",
+      "name": "Plaza de Caisán",
       "name_default": "Plaza de Caisán",
       "native": "Plaza de Caisán",
       "type": "adm3",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 80451,
-      "name": "Lijekovi",
+      "name": "Remedios",
       "name_default": "Remedios",
       "native": "Remedios",
       "type": "adm2",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 80478,
-      "name": "San Felix",
+      "name": "San Félix",
       "name_default": "San Félix",
       "native": "San Félix",
       "type": "adm3",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 80550,
-      "name": "Vulkan",
+      "name": "Volcán",
       "name_default": "Volcán",
       "native": "Volcán",
       "type": "adm3",

@@ -93,7 +93,7 @@
     },
     {
       "id": 38724,
-      "name": "Agaro",
+      "name": "Āgaro",
       "name_default": "Āgaro",
       "native": "ኦሬካሮ",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 38594,
-      "name": "Arsi-zone",
+      "name": "Arsi Zone",
       "name_default": "Arsi Zone",
       "native": "Arsi ዞን",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 38726,
-      "name": "Āsasa",
+      "name": "Asasa",
       "name_default": "Āsasa",
       "native": "ሀሳስ",
       "type": "city",
@@ -219,9 +219,9 @@
     },
     {
       "id": 38601,
-      "name": "Bedelē",
+      "name": "Bedele",
       "name_default": "Bedelē",
-      "native": "ደመወዝ",
+      "native": "በደሌ ከተማ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 38605,
-      "name": "Bishoftu",
+      "name": "Debre Zeit",
       "name_default": "Bishoftu",
       "native": "ቢሾፍቱ",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 38626,
-      "name": "Oost-Harerghe Zone",
+      "name": "East Harerghe Zone",
       "name_default": "East Harerghe Zone",
       "native": "ምስራቅ ሀረርጋ ዞን",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 38627,
-      "name": "Oost-Shewa Zone",
+      "name": "East Shewa Zone",
       "name_default": "East Shewa Zone",
       "native": "ምስራቅ ሸዋ ዞን",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 38628,
-      "name": "Oost-Wellega-zone",
+      "name": "East Wellega Zone",
       "name_default": "East Wellega Zone",
       "native": "ምስራቅ ዌልጋ ዞን",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 38630,
-      "name": "Fichē",
+      "name": "Fiche",
       "name_default": "Fichē",
       "native": "ፉካ",
       "type": "city",
@@ -545,7 +545,7 @@
       "id": 38640,
       "name": "Goba",
       "name_default": "Goba",
-      "native": "ሁን",
+      "native": "ጎባ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 38643,
-      "name": "Gorē",
+      "name": "Gore",
       "name_default": "Gorē",
       "native": "ጎሬ",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 38644,
-      "name": "Guji-zone",
+      "name": "Guji Zone",
       "name_default": "Guji Zone",
       "native": "የጉጂ ዞን",
       "type": "city",
@@ -633,9 +633,9 @@
     },
     {
       "id": 38654,
-      "name": "Hāgere Hiywet",
+      "name": "Ambo",
       "name_default": "Hāgere Hiywet",
-      "native": "የፈረስ ወሬ",
+      "native": "አምቦ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 38656,
-      "name": "Hīrna",
+      "name": "Hirna",
       "name_default": "Hīrna",
       "native": "ሂናና",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 38657,
-      "name": "Illubabor-zone",
+      "name": "Illubabor Zone",
       "name_default": "Illubabor Zone",
       "native": "ኢሉቦባቦር ዞን",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 38666,
-      "name": "Kofelē",
+      "name": "Kofele",
       "name_default": "Kofelē",
       "native": "ኮፍያ",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 38682,
-      "name": "Mega",
+      "name": "Mēga",
       "name_default": "Mēga",
       "native": "ዌግ",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 38677,
-      "name": "Mendī",
+      "name": "Mendi",
       "name_default": "Mendī",
       "native": "ማኒየር",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 38687,
-      "name": "Noord-Shewa Zone",
+      "name": "North Shewa Zone",
       "name_default": "North Shewa Zone",
       "native": "ሰሜን ሸዋ ዞን",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 38695,
-      "name": "Shashemenē",
+      "name": "Shashemene",
       "name_default": "Shashamane",
       "native": "ሻሽሜን",
       "type": "city",
@@ -1147,7 +1147,7 @@
       "latitude": "8.31667000",
       "longitude": "39.48333000",
       "timezone": "Africa/Addis_Ababa",
-      "wikiDataId": "Q1070673",
+      "wikiDataId": null,
       "country_code": "ET",
       "state_code": "OR",
       "state_id": 5,
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 38715,
-      "name": "West Wellega-zone",
+      "name": "West Wellega Zone",
       "name_default": "West Wellega Zone",
       "native": "የምእራብ ወለጋ ዞን",
       "type": "city",

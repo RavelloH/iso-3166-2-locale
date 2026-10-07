@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 64789,
-      "name": "イテン",
-      "name_default": "Iten",
-      "native": "Food",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 42000,
-      "latitude": "0.67028000",
-      "longitude": "35.50806000",
-      "timezone": "Africa/Nairobi",
-      "wikiDataId": "Q1020292",
-      "country_code": "KE",
-      "state_code": "14",
-      "state_id": 174,
-      "country_id": 113
-    },
-    {
       "id": 64806,
       "name": "キリフィ",
       "name_default": "Kilifi",
@@ -131,7 +113,7 @@
       "id": 64872,
       "name": "タカウング",
       "name_default": "Takaungu",
-      "native": "Wehbow",
+      "native": "Takaungu",
       "type": "city",
       "level": null,
       "parent_id": null,

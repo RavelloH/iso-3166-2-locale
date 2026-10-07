@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 649,
-      "name": "Аллен",
+      "name": "Альен",
       "name_default": "Allen",
       "native": "Allen",
       "type": "city",
@@ -152,7 +152,7 @@
     },
     {
       "id": 739,
-      "name": "Катриэль",
+      "name": "Катриель",
       "name_default": "Catriel",
       "native": "Catriel",
       "type": "city",
@@ -224,7 +224,7 @@
     },
     {
       "id": 764,
-      "name": "Чоэл Чоэл",
+      "name": "Чоэле-Чоэль",
       "name_default": "Choele Choel",
       "native": "Choele Choel",
       "type": "adm2",
@@ -242,7 +242,7 @@
     },
     {
       "id": 768,
-      "name": "Синко Сальтос",
+      "name": "Синко-Сальтос",
       "name_default": "Cinco Saltos",
       "native": "Cinco Saltos",
       "type": "city",
@@ -316,7 +316,7 @@
       "id": 798,
       "name": "Полковник Белисл",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "Departamento de Avellaneda",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -386,7 +386,7 @@
     },
     {
       "id": 1050,
-      "name": "Эль Больсон",
+      "name": "Эль-Больсон",
       "name_default": "El Bolsón",
       "native": "El Bolsón",
       "type": "city",
@@ -404,7 +404,7 @@
     },
     {
       "id": 1054,
-      "name": "Эль Куй",
+      "name": "Эль-Куй",
       "name_default": "El Cuy",
       "native": "El Cuy",
       "type": "adm2",
@@ -440,7 +440,7 @@
     },
     {
       "id": 1099,
-      "name": "Генерал Конеса",
+      "name": "Хенераль-Конеса",
       "name_default": "General Conesa",
       "native": "General Conesa",
       "type": "adm2",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1100,
-      "name": "Генерал Энрике Годой",
+      "name": "Хенераль-Энрике-Годой",
       "name_default": "General Enrique Godoy",
       "native": "General Enrique Godoy",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 1103,
-      "name": "Генерал Фернандес Оро",
+      "name": "Хенераль-Фернандес-Оро",
       "name_default": "General Fernández Oro",
       "native": "General Fernández Oro",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1112,
-      "name": "Генерал Рока",
+      "name": "Хенераль-Рока",
       "name_default": "General Roca",
       "native": "General Roca",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1152,
-      "name": "Инженер Якобаччи",
+      "name": "Инхеньеро-Якобаччи",
       "name_default": "Ingeniero Jacobacci",
       "native": "Ingeniero Jacobacci",
       "type": "city",
@@ -530,7 +530,7 @@
     },
     {
       "id": 1154,
-      "name": "Инженер Луис А. Уэрго",
+      "name": "Инхеньеро-Луис-Уэрго",
       "name_default": "Ingeniero Luis A. Huergo",
       "native": "Ingeniero Luis A. Huergo",
       "type": "city",
@@ -548,7 +548,7 @@
     },
     {
       "id": 1212,
-      "name": "Ламарк",
+      "name": "Ламарке",
       "name_default": "Lamarque",
       "native": "Lamarque",
       "type": "city",
@@ -586,7 +586,7 @@
       "id": 1263,
       "name": "Майнке",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -620,7 +620,7 @@
     },
     {
       "id": 1599,
-      "name": "Ñorquinco",
+      "name": "Ньоркинко",
       "name_default": "Ñorquincó",
       "native": "Ñorquinco",
       "type": "adm2",
@@ -638,7 +638,7 @@
     },
     {
       "id": 1334,
-      "name": "Пилканиеу",
+      "name": "Пильканьеу",
       "name_default": "Pilcaniyeu",
       "native": "Pilcaniyeu",
       "type": "adm2",
@@ -782,7 +782,7 @@
     },
     {
       "id": 1574,
-      "name": "Вилла Регина",
+      "name": "Вилья-Рехина",
       "name_default": "Villa Regina",
       "native": "Villa regina",
       "type": "city",

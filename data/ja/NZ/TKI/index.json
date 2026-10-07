@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79792,
-      "name": "エルサム",
+      "name": "エルタム",
       "name_default": "Eltham",
       "native": "Eltham",
       "type": "city",
@@ -84,7 +84,7 @@
       "id": 79801,
       "name": "ハウェラ",
       "name_default": "Hawera",
-      "native": "Hazard",
+      "native": "Hawera",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": 79838,
-      "name": "ニュープリマス",
+      "name": "ニュー・プリマス",
       "name_default": "New Plymouth",
       "native": "New Plymouth",
       "type": "adm1",
@@ -154,9 +154,9 @@
     },
     {
       "id": 79858,
-      "name": "膝蓋骨",
+      "name": "パテア",
       "name_default": "Patea",
-      "native": "Patea is the best",
+      "native": "Patea",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -172,9 +172,9 @@
     },
     {
       "id": 79878,
-      "name": "南タラナキ地区",
+      "name": "South Taranaki",
       "name_default": "South Taranaki",
-      "native": "South Taranaki District",
+      "native": "South Taranaki",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -190,7 +190,7 @@
     },
     {
       "id": 153921,
-      "name": "ストラットフォード",
+      "name": "ストラトフォード",
       "name_default": "Stratford",
       "native": "Stratford",
       "type": "city",
@@ -210,7 +210,7 @@
       "id": 79909,
       "name": "ワイタラ",
       "name_default": "Waitara",
-      "native": "Liquid",
+      "native": "Waitara",
       "type": "city",
       "level": null,
       "parent_id": null,

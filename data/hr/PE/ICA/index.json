@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80616,
-      "name": "Činča Alta",
+      "name": "Chincha Alta",
       "name_default": "Chincha Alta",
       "native": "Chincha Alta",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80805,
-      "name": "Provincija Chincha",
+      "name": "Provincia de Chincha",
       "name_default": "Provincia de Chincha",
       "native": "Provincia de Chincha",
       "type": "province",
@@ -255,10 +255,10 @@
     },
     {
       "id": 80872,
-      "name": "Provincija Palpa",
+      "name": "Provincia de Palpa",
       "name_default": "Provincia de Palpa",
       "native": "Provincia de Palpa",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 13232,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80878,
-      "name": "Pokrajina Pisco",
+      "name": "Provincia de Pisco",
       "name_default": "Provincia de Pisco",
       "native": "Provincia de Pisco",
       "type": "province",
@@ -291,7 +291,7 @@
     },
     {
       "id": 80935,
-      "name": "Rio Grande",
+      "name": "Río Grande",
       "name_default": "Río Grande",
       "native": "Río Grande",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 81009,
-      "name": "Vila Tupac Amaru",
+      "name": "Villa Tupac Amaru",
       "name_default": "Villa Tupac Amaru",
       "native": "Villa Tupac Amaru",
       "type": "city",
@@ -391,7 +391,7 @@
       "latitude": "-13.71135000",
       "longitude": "-76.14980000",
       "timezone": "America/Lima",
-      "wikiDataId": "Q941183",
+      "wikiDataId": null,
       "country_code": "PE",
       "state_code": "ICA",
       "state_id": 3700,

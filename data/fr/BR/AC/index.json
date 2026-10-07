@@ -180,7 +180,7 @@
     },
     {
       "id": 10428,
-      "name": "Assis Brésil",
+      "name": "Assis Brasil",
       "name_default": "Assis Brasil",
       "native": "Assis Brasil",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10819,
       "name": "Bujari",
       "name_default": "Bujari",
-      "native": "generosidade",
+      "native": "Bujari",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -270,7 +270,7 @@
     },
     {
       "id": 11713,
-      "name": "Épitaciolândie",
+      "name": "Epitaciolândia",
       "name_default": "Epitaciolândia",
       "native": "Epitaciolândia",
       "type": "city",
@@ -288,7 +288,7 @@
     },
     {
       "id": 11788,
-      "name": "Feijo",
+      "name": "Feijó",
       "name_default": "Feijó",
       "native": "Feijó",
       "type": "city",
@@ -324,7 +324,7 @@
     },
     {
       "id": 13291,
-      "name": "Mancio Lima",
+      "name": "Mâncio Lima",
       "name_default": "Mâncio Lima",
       "native": "Mâncio Lima",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 13001,
-      "name": "Maréchal Thaumaturgo",
+      "name": "Marechal Thaumaturgo",
       "name_default": "Marechal Thaumaturgo",
       "native": "Marechal Thaumaturgo",
       "type": "city",
@@ -406,7 +406,7 @@
       "latitude": "-9.65038000",
       "longitude": "-67.77733000",
       "timezone": "America/Rio_Branco",
-      "wikiDataId": "Q2113232",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AC",
       "state_id": 2012,
@@ -504,7 +504,7 @@
     },
     {
       "id": 14700,
-      "name": "Sénateur Guiomard",
+      "name": "Senador Guiomard",
       "name_default": "Senador Guiomard",
       "native": "Senador Guiomard",
       "type": "adm2",

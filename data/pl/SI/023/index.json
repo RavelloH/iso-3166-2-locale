@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104089,
-      "name": "Data urodzenia",
+      "name": "Dob",
       "name_default": "Dob",
       "native": "Dob",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 104312,
-      "name": "Wir",
+      "name": "Vir",
       "name_default": "Vir",
-      "native": "Za",
+      "native": "Vir",
       "type": "city",
       "level": null,
       "parent_id": null,

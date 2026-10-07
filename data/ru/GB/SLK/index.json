@@ -93,7 +93,7 @@
     },
     {
       "id": 48836,
-      "name": "Камбусланг",
+      "name": "Камбесланг",
       "name_default": "Cambuslang",
       "native": "Cambuslang",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48869,
-      "name": "Карнват",
+      "name": "Карнуорт",
       "name_default": "Carnwath",
       "native": "Carnwath",
       "type": "city",
@@ -254,6 +254,24 @@
       "country_id": 232
     },
     {
+      "id": 49924,
+      "name": "Хай-Блантайр",
+      "name_default": "High Blantyre",
+      "native": "High Blantyre",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16739,
+      "latitude": "55.78438000",
+      "longitude": "-4.10007000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q881708",
+      "country_code": "GB",
+      "state_code": "SLK",
+      "state_id": 2362,
+      "country_id": 232
+    },
+    {
       "id": 50234,
       "name": "Ланарк",
       "name_default": "Lanark",
@@ -273,7 +291,7 @@
     },
     {
       "id": 50252,
-      "name": "Ларкхолл",
+      "name": "Ларкхол",
       "name_default": "Larkhall",
       "native": "Larkhall",
       "type": "city",
@@ -363,7 +381,7 @@
     },
     {
       "id": 51357,
-      "name": "Южный Ланаркшир",
+      "name": "Саут-Ланаркшир",
       "name_default": "South Lanarkshire",
       "native": "South Lanarkshire",
       "type": "area",
@@ -399,7 +417,7 @@
     },
     {
       "id": 51491,
-      "name": "Стратхейвен",
+      "name": "Стрейвен",
       "name_default": "Strathaven",
       "native": "Strathaven",
       "type": "city",
@@ -417,7 +435,7 @@
     },
     {
       "id": 51690,
-      "name": "Уддингтон",
+      "name": "Аддингстон",
       "name_default": "Uddingston",
       "native": "Uddingston",
       "type": "city",

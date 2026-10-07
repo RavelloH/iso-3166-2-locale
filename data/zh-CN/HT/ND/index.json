@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 55044,
-      "name": "北方之门",
+      "name": "Acul du Nord",
       "name_default": "Acul du Nord",
-      "native": "L'aiguille du nord",
+      "native": "Acul du Nord",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 55065,
-      "name": "北大河区",
+      "name": "Arrondissement de la Grande Rivière du Nord",
       "name_default": "Arrondissement de la Grande Rivière du Nord",
       "native": "Arrondissement de la Grande Rivière du Nord",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 55103,
-      "name": "北大河",
+      "name": "Grande Rivière du Nord",
       "name_default": "Grande Rivière du Nord",
       "native": "Grande Rivière du Nord",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 55118,
       "name": "伦贝",
       "name_default": "Lenbe",
-      "native": "Plaindre",
+      "native": "Lenbe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 55128,
-      "name": "米洛特",
+      "name": "米洛",
       "name_default": "Milot",
       "native": "Milo",
       "type": "city",
@@ -257,7 +257,7 @@
       "id": 55134,
       "name": "奥卡普",
       "name_default": "Okap",
-      "native": "Lire",
+      "native": "Okap",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 55143,
-      "name": "北方平原",
+      "name": "Plaine du Nord",
       "name_default": "Plaine du Nord",
       "native": "Plaine du Nord",
       "type": "city",

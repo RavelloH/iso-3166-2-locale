@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48390,
-      "name": "巴尔比",
+      "name": "巴尔贝",
       "name_default": "Barlby",
       "native": "Barlby",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48447,
-      "name": "比德尔",
+      "name": "比代尔",
       "name_default": "Bedale",
       "native": "Bedale",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48611,
-      "name": "巴勒布里奇",
+      "name": "博洛布利兹",
       "name_default": "Boroughbridge",
       "native": "Boroughbridge",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 48667,
-      "name": "布雷顿",
+      "name": "布赖顿",
       "name_default": "Brayton",
       "native": "Brayton",
       "type": "city",
@@ -218,6 +218,24 @@
       "country_id": 232
     },
     {
+      "id": 48895,
+      "name": "卡特里克驻军",
+      "name_default": "Catterick Garrison",
+      "native": "Catterick Garrison",
+      "type": "section",
+      "level": null,
+      "parent_id": null,
+      "population": 11804,
+      "latitude": "54.37748000",
+      "longitude": "-1.72232000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q386087",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
       "id": 48994,
       "name": "芬顿教堂",
       "name_default": "Church Fenton",
@@ -255,7 +273,7 @@
     },
     {
       "id": 49385,
-      "name": "东艾顿",
+      "name": "East Ayton",
       "name_default": "East Ayton",
       "native": "East Ayton",
       "type": "city",
@@ -291,7 +309,7 @@
     },
     {
       "id": 49665,
-      "name": "格洛斯本",
+      "name": "格鲁斯布恩",
       "name_default": "Glusburn",
       "native": "Glusburn",
       "type": "city",
@@ -381,7 +399,7 @@
     },
     {
       "id": 49923,
-      "name": "高等边沁",
+      "name": "High Bentham",
       "name_default": "High Bentham",
       "native": "High Bentham",
       "type": "city",
@@ -507,7 +525,7 @@
     },
     {
       "id": 50770,
-      "name": "北约克郡",
+      "name": "North Yorkshire",
       "name_default": "North Yorkshire",
       "native": "North Yorkshire",
       "type": "city",
@@ -525,7 +543,7 @@
     },
     {
       "id": 50771,
-      "name": "诺萨勒顿",
+      "name": "诺思阿勒尔顿",
       "name_default": "Northallerton",
       "native": "Northallerton",
       "type": "adm2",
@@ -543,9 +561,9 @@
     },
     {
       "id": 50850,
-      "name": "帕纳尔",
+      "name": "潘努尔",
       "name_default": "Pannal",
-      "native": "Panel",
+      "native": "Pannal",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +579,7 @@
     },
     {
       "id": 50858,
-      "name": "帕特利桥",
+      "name": "佩特里桥",
       "name_default": "Pateley Bridge",
       "native": "Pateley Bridge",
       "type": "city",
@@ -597,7 +615,7 @@
     },
     {
       "id": 51086,
-      "name": "里彭",
+      "name": "利邦",
       "name_default": "Ripon",
       "native": "Ripon",
       "type": "city",
@@ -669,7 +687,7 @@
     },
     {
       "id": 51238,
-      "name": "定居",
+      "name": "塞特尔",
       "name_default": "Settle",
       "native": "Settle",
       "type": "city",
@@ -687,7 +705,7 @@
     },
     {
       "id": 51269,
-      "name": "埃尔默特的舍伯恩",
+      "name": "谢尔本因埃尔梅特",
       "name_default": "Sherburn in Elmet",
       "native": "Sherburn in Elmet",
       "type": "city",
@@ -722,6 +740,24 @@
       "country_id": 232
     },
     {
+      "id": 51326,
+      "name": "斯基普顿",
+      "name_default": "Skipton",
+      "native": "Skipton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15369,
+      "latitude": "53.96144000",
+      "longitude": "-2.01676000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q516131",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
       "id": 51330,
       "name": "诡计",
       "name_default": "Sleights",
@@ -741,7 +777,7 @@
     },
     {
       "id": 51360,
-      "name": "南米尔福德",
+      "name": "南米尔福特",
       "name_default": "South Milford",
       "native": "South Milford",
       "type": "city",
@@ -795,7 +831,7 @@
     },
     {
       "id": 51593,
-      "name": "瑟斯克",
+      "name": "图尔斯克",
       "name_default": "Thirsk",
       "native": "Thirsk",
       "type": "adm4",
@@ -824,6 +860,24 @@
       "longitude": "-0.72016000",
       "timezone": "Europe/London",
       "wikiDataId": "Q2422014",
+      "country_code": "GB",
+      "state_code": "NYK",
+      "state_id": 2522,
+      "country_id": 232
+    },
+    {
+      "id": 51868,
+      "name": "威特比",
+      "name_default": "Whitby",
+      "native": "Whitby",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13130,
+      "latitude": "54.48774000",
+      "longitude": "-0.61498000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q852778",
       "country_code": "GB",
       "state_code": "NYK",
       "state_id": 2522,

@@ -118,7 +118,7 @@
     },
     {
       "id": 79059,
-      "name": "Çanta",
+      "name": "Bagn",
       "name_default": "Bagn",
       "native": "Bagn",
       "type": "adm2",
@@ -406,7 +406,7 @@
     },
     {
       "id": 79185,
-      "name": "Büyükanne",
+      "name": "Gran",
       "name_default": "Gran",
       "native": "Gran",
       "type": "adm2",
@@ -426,7 +426,7 @@
       "id": 79191,
       "name": "Grua",
       "name_default": "Grua",
-      "native": "Kvinne",
+      "native": "Grua",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -462,7 +462,7 @@
       "id": 79201,
       "name": "Hamar",
       "name_default": "Hamar",
-      "native": "Ti",
+      "native": "Hamar",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -496,7 +496,7 @@
     },
     {
       "id": 79238,
-      "name": "Yüz",
+      "name": "Hundorp",
       "name_default": "Hundorp",
       "native": "Hundorp",
       "type": "adm2",
@@ -676,7 +676,7 @@
     },
     {
       "id": 79333,
-      "name": "Öğle yemeği",
+      "name": "Lunner",
       "name_default": "Lunner",
       "native": "Lunner",
       "type": "adm2",
@@ -730,7 +730,7 @@
     },
     {
       "id": 79403,
-      "name": "Nord-Fron",
+      "name": "Nord-Fron Muncipality",
       "name_default": "Nord-Fron",
       "native": "Nord-fron",
       "type": "city",
@@ -766,7 +766,7 @@
     },
     {
       "id": 79408,
-      "name": "Kuzey Toprakları",
+      "name": "Nordre Land",
       "name_default": "Nordre Land",
       "native": "Nordre Land",
       "type": "adm2",
@@ -784,7 +784,7 @@
     },
     {
       "id": 79422,
-      "name": "İşletim sistemi",
+      "name": "Os",
       "name_default": "Os",
       "native": "OS",
       "type": "adm2",
@@ -964,7 +964,7 @@
     },
     {
       "id": 79452,
-      "name": "Yüzük saker",
+      "name": "Ringsaker",
       "name_default": "Ringsaker",
       "native": "Ringsaker",
       "type": "city",
@@ -982,7 +982,7 @@
     },
     {
       "id": 79477,
-      "name": "Kum",
+      "name": "Sand",
       "name_default": "Sand",
       "native": "Sand",
       "type": "adm2",
@@ -1216,7 +1216,7 @@
     },
     {
       "id": 79537,
-      "name": "Garip",
+      "name": "Stange",
       "name_default": "Stange",
       "native": "Stange",
       "type": "adm2",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": 79665,
-      "name": "Vågå",
+      "name": "Vågå Municpality",
       "name_default": "Vågå",
       "native": "Vågå",
       "type": "adm2",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": 79645,
-      "name": "Vestre Slider",
+      "name": "Vestre Slidre",
       "name_default": "Vestre Slidre",
       "native": "Vestre Slidre",
       "type": "city",
@@ -1434,7 +1434,7 @@
       "id": 79659,
       "name": "Vinstra",
       "name_default": "Vinstra",
-      "native": "Igjen",
+      "native": "Vinstra",
       "type": "adm2",
       "level": null,
       "parent_id": null,

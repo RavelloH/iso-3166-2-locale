@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 106943,
-      "name": "엘 파스",
+      "name": "엘파스",
       "name_default": "El Fahs",
       "native": "الفحص",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 107040,
-      "name": "자구안",
+      "name": "자구완",
       "name_default": "Zaghouan",
       "native": "زغوان",
       "type": "adm1",
@@ -86,6 +86,24 @@
       "longitude": "10.14292000",
       "timezone": "Africa/Tunis",
       "wikiDataId": "Q12912434",
+      "country_code": "TN",
+      "state_code": "22",
+      "state_id": 2565,
+      "country_id": 224
+    },
+    {
+      "id": 153287,
+      "name": "지바",
+      "name_default": "Zriba",
+      "native": "زريبة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 11819,
+      "latitude": "36.35585000",
+      "longitude": "10.20603400",
+      "timezone": "Africa/Tunis",
+      "wikiDataId": "Q3142622",
       "country_code": "TN",
       "state_code": "22",
       "state_id": 2565,

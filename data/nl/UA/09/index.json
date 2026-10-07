@@ -78,7 +78,7 @@
   "cities": [
     {
       "id": 109311,
-      "name": "Alchevs'k",
+      "name": "Alchevs’k",
       "name_default": "Alchevs’k",
       "native": "Алчевськ",
       "type": "adm2",
@@ -96,7 +96,7 @@
     },
     {
       "id": 109312,
-      "name": "Alchevs'ka Mis'krada",
+      "name": "Alchevs’ka Mis’krada",
       "name_default": "Alchevs’ka Mis’krada",
       "native": "Алчевська міськрада",
       "type": "city",
@@ -150,7 +150,7 @@
     },
     {
       "id": 109329,
-      "name": "Artemivs'k",
+      "name": "Artemivs’k",
       "name_default": "Artemivs’k",
       "native": "Артемівськ",
       "type": "city",
@@ -168,7 +168,7 @@
     },
     {
       "id": 109359,
-      "name": "Bayrachky",
+      "name": "Bairachky",
       "name_default": "Bairachky",
       "native": "Байрачки",
       "type": "city",
@@ -186,9 +186,9 @@
     },
     {
       "id": 109395,
-      "name": "Gal",
+      "name": "Bile",
       "name_default": "Bile",
-      "native": "Жовч",
+      "native": "Біле",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -240,7 +240,7 @@
     },
     {
       "id": 109403,
-      "name": "Bilovodsk",
+      "name": "Bilovods'k",
       "name_default": "Bilovods'k",
       "native": "Біловодськ",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109453,
-      "name": "Bryanka",
+      "name": "Brianka",
       "name_default": "Bryanka",
       "native": "Брянка",
       "type": "city",
@@ -294,7 +294,7 @@
     },
     {
       "id": 109460,
-      "name": "Boeran",
+      "name": "Buran",
       "name_default": "Buran",
       "native": "Буран",
       "type": "city",
@@ -311,26 +311,8 @@
       "country_id": 230
     },
     {
-      "id": 109502,
-      "name": "Chervonopartyzans’k",
-      "name_default": "Chervonopartyzans’k",
-      "native": "Червонопартизанськ",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15218,
-      "latitude": "48.07613000",
-      "longitude": "39.79618000",
-      "timezone": "Europe/Kyiv",
-      "wikiDataId": "Q664445",
-      "country_code": "UA",
-      "state_code": "09",
-      "state_id": 4673,
-      "country_id": 230
-    },
-    {
       "id": 109515,
-      "name": "Tsjornukhyne",
+      "name": "Chornukhyne",
       "name_default": "Chornukhyne",
       "native": "Чорнухине",
       "type": "city",
@@ -366,7 +348,7 @@
     },
     {
       "id": 109630,
-      "name": "Hirs'ke",
+      "name": "Hirs’ke",
       "name_default": "Hirs’ke",
       "native": "Гірське",
       "type": "city",
@@ -384,7 +366,7 @@
     },
     {
       "id": 109693,
-      "name": "Kadiyivka",
+      "name": "Kadijivka",
       "name_default": "Kadiyivka",
       "native": "Кадіївка",
       "type": "city",
@@ -402,7 +384,7 @@
     },
     {
       "id": 109854,
-      "name": "Krasnyy Luch",
+      "name": "Khrustalnyj",
       "name_default": "Khrustalnyi",
       "native": "Хрустальний",
       "type": "city",
@@ -420,7 +402,7 @@
     },
     {
       "id": 109754,
-      "name": "Kirovs'k",
+      "name": "Kirovs’k",
       "name_default": "Kirovs’k",
       "native": "Кіровськ",
       "type": "city",
@@ -456,7 +438,7 @@
     },
     {
       "id": 109760,
-      "name": "Klenovyy",
+      "name": "Klenovyi",
       "name_default": "Klenovyi",
       "native": "Кленовий",
       "type": "city",
@@ -474,7 +456,7 @@
     },
     {
       "id": 109853,
-      "name": "Krasnyy Kut",
+      "name": "Krasnyi Kut",
       "name_default": "Krasnyi Kut",
       "native": "Красний Кут",
       "type": "city",
@@ -510,7 +492,7 @@
     },
     {
       "id": 109864,
-      "name": "Kripens'kyy",
+      "name": "Kripens’kyy",
       "name_default": "Kripens’kyy",
       "native": "Крипенський",
       "type": "city",
@@ -546,7 +528,7 @@
     },
     {
       "id": 109939,
-      "name": "Luhans'ka Mis'krada",
+      "name": "Luhans’ka Mis’krada",
       "name_default": "Luhans’ka Mis’krada",
       "native": "Луганська міськрада",
       "type": "city",
@@ -618,7 +600,7 @@
     },
     {
       "id": 109960,
-      "name": "Lysychans'k",
+      "name": "Lysychans’k",
       "name_default": "Lysychans’k",
       "native": "Лисичанськ",
       "type": "city",
@@ -654,9 +636,9 @@
     },
     {
       "id": 109911,
-      "name": "Lenina",
+      "name": "Mariia",
       "name_default": "Mariia",
-      "native": "Леніна",
+      "native": "Марія",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -726,7 +708,7 @@
     },
     {
       "id": 110038,
-      "name": "Miusyns'k",
+      "name": "Miusyns’k",
       "name_default": "Miusyns’k",
       "native": "Міусинськ",
       "type": "city",
@@ -737,24 +719,6 @@
       "longitude": "38.90364000",
       "timezone": "Europe/Kyiv",
       "wikiDataId": "Q2415287",
-      "country_code": "UA",
-      "state_code": "09",
-      "state_id": 4673,
-      "country_id": 230
-    },
-    {
-      "id": 110049,
-      "name": "Molodohvardiys’k",
-      "name_default": "Molodohvardiys’k",
-      "native": "Молодогвардійськ",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22449,
-      "latitude": "48.34511000",
-      "longitude": "39.65244000",
-      "timezone": "Europe/Kyiv",
-      "wikiDataId": "Q2238005",
       "country_code": "UA",
       "state_code": "09",
       "state_id": 4673,
@@ -780,7 +744,7 @@
     },
     {
       "id": 110166,
-      "name": "Nyzhnya Duvanka",
+      "name": "Nyzhnia Duvanka",
       "name_default": "Nyzhnia Duvanka",
       "native": "Нижня Дуванка",
       "type": "city",
@@ -791,6 +755,24 @@
       "longitude": "38.17429000",
       "timezone": "Europe/Kyiv",
       "wikiDataId": "Q4319285",
+      "country_code": "UA",
+      "state_code": "09",
+      "state_id": 4673,
+      "country_id": 230
+    },
+    {
+      "id": 110049,
+      "name": "Otamanivka",
+      "name_default": "Otamanivka",
+      "native": "Отаманівка",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22449,
+      "latitude": "48.34511000",
+      "longitude": "39.65244000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q2238005",
       "country_code": "UA",
       "state_code": "09",
       "state_id": 4673,
@@ -870,7 +852,7 @@
     },
     {
       "id": 110324,
-      "name": "Pryvillya",
+      "name": "Pryvillia",
       "name_default": "Pryvillia",
       "native": "Привілля",
       "type": "city",
@@ -888,7 +870,7 @@
     },
     {
       "id": 110374,
-      "name": "Roven'ky",
+      "name": "Roven’ky",
       "name_default": "Roven’ky",
       "native": "Ровеньки",
       "type": "city",
@@ -942,7 +924,7 @@
     },
     {
       "id": 110388,
-      "name": "Rubizhne",
+      "name": "Roebizjne",
       "name_default": "Rubizhne",
       "native": "Рубіжне",
       "type": "city",
@@ -960,7 +942,7 @@
     },
     {
       "id": 110433,
-      "name": "Sjtsjastja",
+      "name": "Shchastya",
       "name_default": "Shchastya",
       "native": "Щастя",
       "type": "city",
@@ -1014,7 +996,7 @@
     },
     {
       "id": 110514,
-      "name": "Sorokyne",
+      "name": "Sorokine",
       "name_default": "Sorokyne",
       "native": "Сорокине",
       "type": "adm2",
@@ -1176,7 +1158,7 @@
     },
     {
       "id": 110597,
-      "name": "Tempel",
+      "name": "Teple",
       "name_default": "Teple",
       "native": "Тепле",
       "type": "city",
@@ -1212,7 +1194,7 @@
     },
     {
       "id": 110625,
-      "name": "Tr'okhizbenka",
+      "name": "Tr’okhizbenka",
       "name_default": "Tr’okhizbenka",
       "native": "Трьохізбенка",
       "type": "city",
@@ -1265,8 +1247,26 @@
       "country_id": 230
     },
     {
+      "id": 109502,
+      "name": "Voznesenivka",
+      "name_default": "Voznesenivka",
+      "native": "Вознесенівка",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15218,
+      "latitude": "48.07613000",
+      "longitude": "39.79618000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q664445",
+      "country_code": "UA",
+      "state_code": "09",
+      "state_id": 4673,
+      "country_id": 230
+    },
+    {
       "id": 110866,
-      "name": "Zoryns'k",
+      "name": "Zoryns’k",
       "name_default": "Zoryns’k",
       "native": "Зоринськ",
       "type": "city",

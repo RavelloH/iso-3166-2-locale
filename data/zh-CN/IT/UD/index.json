@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135327,
-      "name": "弗留利地区艾洛",
+      "name": "阿耶洛德尔夫留利",
       "name_default": "Aiello del Friuli",
       "native": "Aiello del Friuli",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 135459,
-      "name": "阿玛罗",
+      "name": "阿马罗",
       "name_default": "Amaro",
       "native": "Amaro",
       "type": "adm3",
@@ -165,7 +165,7 @@
     },
     {
       "id": 135682,
-      "name": "阿提米斯",
+      "name": "阿蒂米斯",
       "name_default": "Attimis",
       "native": "Attimis",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 135752,
-      "name": "巴格纳里亚·阿尔萨",
+      "name": "巴尼亚里亚-阿尔萨",
       "name_default": "Bagnaria Arsa",
       "native": "Bagnaria Arsa",
       "type": "adm3",
@@ -345,7 +345,7 @@
     },
     {
       "id": 136441,
-      "name": "布特里奥",
+      "name": "布特廖",
       "name_default": "Buttrio",
       "native": "Buttrio",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 136591,
-      "name": "卡米诺·阿尔·塔利亚门托",
+      "name": "卡米诺-阿尔塔利亚门托",
       "name_default": "Camino al Tagliamento",
       "native": "Camino al Tagliamento",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 136655,
-      "name": "坎波福米多",
+      "name": "坎波福尔米多",
       "name_default": "Campoformido",
       "native": "Campoformido",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 136887,
-      "name": "卡利诺",
+      "name": "卡尔利诺",
       "name_default": "Carlino",
       "native": "Carlino",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 137367,
-      "name": "斯特拉达城堡",
+      "name": "卡斯蒂翁斯-迪斯特拉达",
       "name_default": "Castions di Strada",
       "native": "Castions di Strada",
       "type": "adm3",
@@ -489,7 +489,7 @@
     },
     {
       "id": 137428,
-      "name": "卡瓦佐·卡尼科",
+      "name": "卡瓦佐卡尼科",
       "name_default": "Cavazzo Carnico",
       "native": "Cavazzo Carnico",
       "type": "adm3",
@@ -525,7 +525,7 @@
     },
     {
       "id": 137594,
-      "name": "切尔维尼亚诺德尔弗留利",
+      "name": "切维尼亚诺-德尔弗留利",
       "name_default": "Cervignano del Friuli",
       "native": "Cervignano del Friuli",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 137690,
-      "name": "基乌萨福特",
+      "name": "丘萨福泰",
       "name_default": "Chiusaforte",
       "native": "Chiusaforte",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 137782,
-      "name": "奇维达莱德尔弗留利",
+      "name": "弗留利地区奇维达莱",
       "name_default": "Cividale del Friuli",
       "native": "Cividale del Friuli",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 137906,
-      "name": "蒙特阿尔巴诺的科洛雷多",
+      "name": "科洛雷多-迪蒙特阿尔巴诺",
       "name_default": "Colloredo di Monte Albano",
       "native": "Colloredo di Monte Albano",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 137938,
-      "name": "科梅利亚人",
+      "name": "科梅良斯",
       "name_default": "Comeglians",
       "native": "Comeglians",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 138034,
-      "name": "玫瑰角",
+      "name": "科尔诺迪罗萨佐",
       "name_default": "Corno di Rosazzo",
       "native": "Corno di Rosazzo",
       "type": "adm3",
@@ -779,7 +779,7 @@
       "id": 138123,
       "name": "克拉斯",
       "name_default": "Cras",
-      "native": "CRA",
+      "native": "Cras",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 138278,
-      "name": "多格纳",
+      "name": "多尼亚",
       "name_default": "Dogna",
       "native": "Dogna",
       "type": "adm3",
@@ -833,7 +833,7 @@
       "id": 138359,
       "name": "埃内蒙佐-奎尼斯",
       "name_default": "Enemonzo-Quinis",
-      "native": "Enemonzo-Five",
+      "native": "Enemonzo-Quinis",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 138399,
-      "name": "费迪斯",
+      "name": "法埃迪斯",
       "name_default": "Faedis",
       "native": "Faedis",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 138559,
-      "name": "弗莱巴诺",
+      "name": "弗拉伊巴诺",
       "name_default": "Flaibano",
       "native": "Flaibano",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 138628,
-      "name": "弗留利的福尔加里亚",
+      "name": "福尔加里亚-内尔弗留利",
       "name_default": "Forgaria nel Friuli",
       "native": "Forgaria nel Friuli",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 138653,
-      "name": "福尔尼·阿沃尔特里",
+      "name": "福尔尼亚沃尔特里",
       "name_default": "Forni Avoltri",
       "native": "Forni Avoltri",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 138655,
-      "name": "索托山",
+      "name": "下福尔尼",
       "name_default": "Forni di Sotto",
       "native": "Forni di Sotto",
       "type": "adm3",
@@ -1049,7 +1049,7 @@
       "id": 139188,
       "name": "亚尔米科",
       "name_default": "Ialmicco",
-      "native": "Iralmicco",
+      "native": "Ialmicco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 139674,
-      "name": "卢塞维拉",
+      "name": "卢塞韦拉",
       "name_default": "Lusevera",
       "native": "Lusevera",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 139738,
-      "name": "里维埃拉的马格纳诺",
+      "name": "马尼亚诺-因里维耶拉",
       "name_default": "Magnano in Riviera",
       "native": "Magnano in Riviera",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 139753,
-      "name": "马哈诺",
+      "name": "马亚诺",
       "name_default": "Majano",
       "native": "Majano",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 139812,
-      "name": "曼萨诺",
+      "name": "曼扎诺",
       "name_default": "Manzano",
       "native": "Manzano",
       "type": "adm3",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 139822,
-      "name": "马拉诺·拉古纳雷",
+      "name": "马拉诺拉古纳雷",
       "name_default": "Marano Lagunare",
       "native": "Marano Lagunare",
       "type": "adm3",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 139930,
-      "name": "马蒂尼亚科",
+      "name": "马尔蒂尼亚科",
       "name_default": "Martignacco",
       "native": "Martignacco",
       "type": "adm3",
@@ -1319,7 +1319,7 @@
       "id": 140022,
       "name": "梅迪斯",
       "name_default": "Mediis",
-      "native": "Mezzo",
+      "native": "Mediis",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 140082,
-      "name": "托姆巴的梅雷托",
+      "name": "梅雷托迪通巴",
       "name_default": "Mereto di Tomba",
       "native": "Mereto di Tomba",
       "type": "adm3",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 140195,
-      "name": "莫焦·乌迪内斯",
+      "name": "莫焦乌迪内塞",
       "name_default": "Moggio Udinese",
       "native": "Moggio Udinese",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 140500,
-      "name": "蒙特纳尔斯",
+      "name": "蒙泰纳尔斯",
       "name_default": "Montenars",
       "native": "Montenars",
       "type": "adm3",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 140640,
-      "name": "莫尔特利亚诺",
+      "name": "莫泰利亚诺",
       "name_default": "Mortegliano",
       "native": "Mortegliano",
       "type": "adm3",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 140707,
-      "name": "穆扎纳德尔图尔尼亚诺",
+      "name": "穆扎纳-德尔图尔尼亚诺",
       "name_default": "Muzzana del Turgnano",
       "native": "Muzzana del Turgnano",
       "type": "adm3",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 58235,
-      "name": "斯特拉宫",
+      "name": "帕拉佐洛-德洛斯泰拉",
       "name_default": "Palazzolo dello Stella",
       "native": "Palazzolo dello Stella",
       "type": "adm3",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 58322,
-      "name": "帕西安·迪普拉托",
+      "name": "帕西安-迪普拉托",
       "name_default": "Pasian di Prato",
       "native": "Pasian di Prato",
       "type": "adm3",
@@ -1661,7 +1661,7 @@
       "id": 58334,
       "name": "帕松斯",
       "name_default": "Passons",
-      "native": "Andiamo",
+      "native": "Passons",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 58360,
-      "name": "乌迪内帕维亚",
+      "name": "帕维亚迪乌迪内",
       "name_default": "Pavia di Udine",
       "native": "Pavia di Udine",
       "type": "city",
@@ -1733,7 +1733,7 @@
       "id": 58440,
       "name": "佩尔特加达",
       "name_default": "Pertegada",
-      "native": "Appartenente",
+      "native": "Pertegada",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 58743,
-      "name": "波塞尼亚",
+      "name": "波切尼亚",
       "name_default": "Pocenia",
       "native": "Pocenia",
       "type": "adm3",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 58862,
-      "name": "蓬特巴",
+      "name": "蓬泰巴",
       "name_default": "Pontebba",
       "native": "Pontebba",
       "type": "adm3",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 58910,
-      "name": "波佩托",
+      "name": "波尔佩托",
       "name_default": "Porpetto",
       "native": "Porpetto",
       "type": "adm3",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 58992,
-      "name": "波佐洛德尔弗留利",
+      "name": "弗留利地区波佐洛",
       "name_default": "Pozzuolo del Friuli",
       "native": "Pozzuolo del Friuli",
       "type": "adm3",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 59029,
-      "name": "普拉托卡尔尼科",
+      "name": "普拉托卡尼科",
       "name_default": "Prato Carnico",
       "native": "Prato Carnico",
       "type": "city",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": 59300,
-      "name": "拉维奥",
+      "name": "拉韦奥",
       "name_default": "Raveo",
       "native": "Raveo",
       "type": "adm3",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 59307,
-      "name": "雷安娜·德尔·罗哈莱",
+      "name": "雷亚纳德尔罗亚莱",
       "name_default": "Reana del Rojale",
       "native": "Reana del Rojale",
       "type": "adm3",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 59336,
-      "name": "雷西乌塔",
+      "name": "雷休塔",
       "name_default": "Resiutta",
       "native": "Resiutta",
       "type": "adm3",
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 59435,
-      "name": "阿尔卡诺河",
+      "name": "里韦-达尔卡诺",
       "name_default": "Rive d'Arcano",
       "native": "Rive d'Arcano",
       "type": "adm3",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 59598,
-      "name": "朗奇斯",
+      "name": "龙基斯",
       "name_default": "Ronchis",
       "native": "Ronchis",
       "type": "adm3",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 59889,
-      "name": "圣丹尼尔德尔弗留利",
+      "name": "弗留利地区圣达尼埃莱",
       "name_default": "San Daniele del Friuli",
       "native": "San Daniele del Friuli",
       "type": "adm3",
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 59971,
-      "name": "圣乔治·迪诺加罗",
+      "name": "圣乔治-迪诺加罗",
       "name_default": "San Giorgio di Nogaro",
       "native": "San Giorgio di Nogaro",
       "type": "adm3",
@@ -2271,7 +2271,7 @@
     },
     {
       "id": 59992,
-      "name": "圣若望天主教堂",
+      "name": "圣焦万尼亚尔纳蒂索内",
       "name_default": "San Giovanni al Natisone",
       "native": "San Giovanni al Natisone",
       "type": "adm3",
@@ -2307,7 +2307,7 @@
     },
     {
       "id": 60188,
-      "name": "圣彼得大教堂",
+      "name": "纳蒂索内河畔圣彼得罗",
       "name_default": "San Pietro al Natisone",
       "native": "San Pietro al Natisone",
       "type": "adm3",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 60281,
-      "name": "圣维托塔",
+      "name": "圣维托-阿尔托雷",
       "name_default": "San Vito al Torre",
       "native": "San Vito al Torre",
       "type": "adm3",
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 60283,
-      "name": "圣维托迪法加尼亚",
+      "name": "圣维托-迪法加尼亚",
       "name_default": "San Vito di Fagagna",
       "native": "San Vito di Fagagna",
       "type": "adm3",
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 60480,
-      "name": "圣玛丽亚拉隆加",
+      "name": "圣玛丽亚-拉隆加",
       "name_default": "Santa Maria la Longa",
       "native": "Santa Maria la Longa",
       "type": "adm3",
@@ -2451,7 +2451,7 @@
     },
     {
       "id": 60680,
-      "name": "塞德利亚诺",
+      "name": "塞代利亚诺",
       "name_default": "Sedegliano",
       "native": "Sedegliano",
       "type": "adm3",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 61134,
-      "name": "苏特里奥",
+      "name": "苏特廖",
       "name_default": "Sutrio",
       "native": "Sutrio",
       "type": "adm3",
@@ -2541,7 +2541,7 @@
     },
     {
       "id": 61150,
-      "name": "泰帕纳",
+      "name": "塔伊帕纳",
       "name_default": "Taipana",
       "native": "Taipana",
       "type": "adm3",
@@ -2559,7 +2559,7 @@
     },
     {
       "id": 61156,
-      "name": "塔尔马森",
+      "name": "塔尔马松斯",
       "name_default": "Talmassons",
       "native": "Talmassons",
       "type": "adm3",
@@ -2631,9 +2631,9 @@
     },
     {
       "id": 61215,
-      "name": "泰奥",
+      "name": "泰奥尔",
       "name_default": "Teor",
-      "native": "Contenuto",
+      "native": "Teor",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 61257,
-      "name": "特尔佐达奎莱亚",
+      "name": "泰尔佐达奎莱伊阿",
       "name_default": "Terzo d'Aquileia",
       "native": "Terzo d'Aquileia",
       "type": "adm3",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 61487,
-      "name": "特雷波·卡尼科",
+      "name": "特雷波卡尼科",
       "name_default": "Treppo Carnico",
       "native": "Treppo Carnico",
       "type": "adm3",
@@ -2793,7 +2793,7 @@
     },
     {
       "id": 61543,
-      "name": "特里维尼亚诺乌迪内斯",
+      "name": "特里维尼亚诺-乌迪内塞",
       "name_default": "Trivignano Udinese",
       "native": "Trivignano Udinese",
       "type": "adm3",
@@ -2865,7 +2865,7 @@
     },
     {
       "id": 62027,
-      "name": "桑蒂娜别墅",
+      "name": "桑蒂纳镇",
       "name_default": "Villa Santina",
       "native": "Villa Santina",
       "type": "adm3",
@@ -2883,7 +2883,7 @@
     },
     {
       "id": 62031,
-      "name": "维森蒂娜别墅",
+      "name": "维琴蒂纳镇",
       "name_default": "Villa Vicentina",
       "native": "Villa Vicentina",
       "type": "adm3",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 62283,
-      "name": "祖利奥",
+      "name": "祖廖",
       "name_default": "Zuglio",
       "native": "Zuglio",
       "type": "adm3",

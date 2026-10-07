@@ -147,7 +147,7 @@
     },
     {
       "id": 106429,
-      "name": "Bang Khun Thain",
+      "name": "Bang Khun thain",
       "name_default": "Bang Khun thain",
       "native": "บางขุนเทียน",
       "type": "city",
@@ -690,7 +690,7 @@
       "name": "Pom Prap Sattru Phai",
       "name_default": "Pom Prap Sattru Phai",
       "native": "ป้อมปราบศัตรูพ่าย",
-      "type": "adm2",
+      "type": "section",
       "level": null,
       "parent_id": null,
       "population": 41524,
@@ -723,7 +723,7 @@
     },
     {
       "id": 106663,
-      "name": "Szczur Burana",
+      "name": "Rat Burana",
       "name_default": "Rat Burana",
       "native": "ราษฎร์บูรณะ",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 106741,
-      "name": "Wadhana",
+      "name": "Vadhana",
       "name_default": "Vadhana",
       "native": "วัฒนา",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 106756,
-      "name": "Yan na wa",
+      "name": "Yan Nawa",
       "name_default": "Yan Nawa",
       "native": "ยานนาวา",
       "type": "adm2",

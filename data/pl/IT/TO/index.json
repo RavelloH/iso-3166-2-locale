@@ -77,7 +77,7 @@
       "id": 135332,
       "name": "Airali",
       "name_default": "Airali",
-      "native": "Airli",
+      "native": "Airali",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 135410,
-      "name": "Alicja Superiore",
+      "name": "Alice Superiore",
       "name_default": "Alice Superiore",
       "native": "Alice Superiore",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 135792,
-      "name": "Balsam",
+      "name": "Balme",
       "name_default": "Balme",
       "native": "Balme",
       "type": "adm3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 135802,
-      "name": "Ławeczka",
+      "name": "Banchette",
       "name_default": "Banchette",
       "native": "Banchette",
       "type": "adm3",
@@ -437,7 +437,7 @@
       "id": 135816,
       "name": "Baratte",
       "name_default": "Baratte",
-      "native": "Hai imparato",
+      "native": "Baratte",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 137689,
-      "name": "Kościół Świętego Michała",
+      "name": "Chiusa di San Michele",
       "name_default": "Chiusa di San Michele",
       "native": "Chiusa di San Michele",
       "type": "adm3",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 137810,
-      "name": "Klawisz",
+      "name": "Claviere",
       "name_default": "Claviere",
       "native": "Claviere",
       "type": "adm3",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 138187,
-      "name": "Kumiana",
+      "name": "Cumiana",
       "name_default": "Cumiana",
       "native": "Cumiana",
       "type": "adm3",
@@ -1895,7 +1895,7 @@
       "id": 138333,
       "name": "Drubiaglio-Grangia",
       "name_default": "Drubiaglio-Grangia",
-      "native": "Drubiaglio-Grang",
+      "native": "Drubiaglio-Grangia",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 138390,
-      "name": "Wygnańcy",
+      "name": "Exilles",
       "name_default": "Exilles",
       "native": "Exilles",
       "type": "adm3",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 138738,
-      "name": "Przód",
+      "name": "Front",
       "name_default": "Front",
       "native": "Front",
       "type": "adm3",
@@ -2273,7 +2273,7 @@
       "id": 138911,
       "name": "Gerbole",
       "name_default": "Gerbole",
-      "native": "Gerbe",
+      "native": "Gerbole",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2379,7 +2379,7 @@
     },
     {
       "id": 139081,
-      "name": "Grób",
+      "name": "Gravere",
       "name_default": "Gravere",
       "native": "Gravere",
       "type": "adm3",
@@ -2469,7 +2469,7 @@
     },
     {
       "id": 139217,
-      "name": "Odwrócona Pinasca",
+      "name": "Inverso Pinasca",
       "name_default": "Inverso Pinasca",
       "native": "Inverso Pinasca",
       "type": "adm3",
@@ -2559,7 +2559,7 @@
     },
     {
       "id": 139292,
-      "name": "Loggia",
+      "name": "La Loggia",
       "name_default": "La Loggia",
       "native": "La Loggia",
       "type": "adm3",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": 139439,
-      "name": "Leini",
+      "name": "Leinì",
       "name_default": "Leini",
       "native": "Leini",
       "type": "adm3",
@@ -2667,9 +2667,9 @@
     },
     {
       "id": 139471,
-      "name": "Leśna",
+      "name": "Lesna",
       "name_default": "Lesna",
-      "native": "Legna",
+      "native": "Lesna",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 139580,
-      "name": "Lombardo",
+      "name": "Lombardore",
       "name_default": "Lombardore",
       "native": "Lombardore",
       "type": "adm3",
@@ -3153,7 +3153,7 @@
     },
     {
       "id": 140253,
-      "name": "Klasztor Lanzo",
+      "name": "Monastero di Lanzo",
       "name_default": "Monastero di Lanzo",
       "native": "Monastero di Lanzo",
       "type": "adm3",
@@ -3423,7 +3423,7 @@
     },
     {
       "id": 140803,
-      "name": "Nic",
+      "name": "None",
       "name_default": "None",
       "native": "None",
       "type": "adm3",
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 58229,
-      "name": "Pałac Canavese",
+      "name": "Palazzo Canavese",
       "name_default": "Palazzo Canavese",
       "native": "Palazzo Canavese",
       "type": "adm3",
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 58336,
-      "name": "Makaron",
+      "name": "Pasta",
       "name_default": "Pasta",
       "native": "Pasta",
       "type": "city",
@@ -3729,7 +3729,7 @@
     },
     {
       "id": 58436,
-      "name": "Perosa Argentyna",
+      "name": "Perosa Argentina",
       "name_default": "Perosa Argentina",
       "native": "Perosa Argentina",
       "type": "adm3",
@@ -3765,7 +3765,7 @@
     },
     {
       "id": 58438,
-      "name": "Pierrero",
+      "name": "Perrero",
       "name_default": "Perrero",
       "native": "Perrero",
       "type": "adm3",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 58472,
-      "name": "Posada",
+      "name": "Pessione",
       "name_default": "Pessione",
       "native": "Pessione",
       "type": "city",
@@ -3875,7 +3875,7 @@
       "id": 58673,
       "name": "Pinasca-Dubbione",
       "name_default": "Pinasca-Dubbione",
-      "native": "Pinasca-Doubt",
+      "native": "Pinasca-Dubbione",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -3963,7 +3963,7 @@
     },
     {
       "id": 58704,
-      "name": "Piscyna",
+      "name": "Piscina",
       "name_default": "Piscina",
       "native": "Piscina",
       "type": "adm3",
@@ -3981,7 +3981,7 @@
     },
     {
       "id": 58722,
-      "name": "Piweron",
+      "name": "Piverone",
       "name_default": "Piverone",
       "native": "Piverone",
       "type": "adm3",
@@ -4271,7 +4271,7 @@
       "id": 59342,
       "name": "Revigliasco",
       "name_default": "Revigliasco",
-      "native": "Revigliano",
+      "native": "Revigliasco",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4287,7 +4287,7 @@
     },
     {
       "id": 59361,
-      "name": "Ribordon",
+      "name": "Ribordone",
       "name_default": "Ribordone",
       "native": "Ribordone",
       "type": "adm3",
@@ -4323,7 +4323,7 @@
     },
     {
       "id": 59417,
-      "name": "Riva Presso Chieri",
+      "name": "Riva presso Chieri",
       "name_default": "Riva Presso Chieri",
       "native": "Riva Presso Chieri",
       "type": "adm3",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 59568,
-      "name": "Roleta",
+      "name": "Roletto",
       "name_default": "Roletto",
       "native": "Roletto",
       "type": "adm3",
@@ -4881,7 +4881,7 @@
     },
     {
       "id": 59977,
-      "name": "Święty Giorio",
+      "name": "San Giorio",
       "name_default": "San Giorio",
       "native": "San Giorio",
       "type": "adm3",
@@ -4899,7 +4899,7 @@
     },
     {
       "id": 60010,
-      "name": "Święty Józef",
+      "name": "San Giuseppe",
       "name_default": "San Giuseppe",
       "native": "San Giuseppe",
       "type": "adm3",
@@ -5151,7 +5151,7 @@
     },
     {
       "id": 60581,
-      "name": "Sos d'Oulx",
+      "name": "Sauze d'Oulx",
       "name_default": "Sauze d'Oulx",
       "native": "Sauze d'Oulx",
       "type": "adm3",
@@ -5169,7 +5169,7 @@
     },
     {
       "id": 60582,
-      "name": "Sos Cesana",
+      "name": "Sauze di Cesana",
       "name_default": "Sauze di Cesana",
       "native": "Sauze di Cesana",
       "type": "adm3",
@@ -5385,7 +5385,7 @@
     },
     {
       "id": 61128,
-      "name": "Suza",
+      "name": "Susa",
       "name_default": "Susa",
       "native": "Susa",
       "type": "adm3",
@@ -5405,7 +5405,7 @@
       "id": 61143,
       "name": "Tagliaferro",
       "name_default": "Tagliaferro",
-      "native": "Picliaferro",
+      "native": "Tagliaferro",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5459,7 +5459,7 @@
       "id": 61310,
       "name": "Tonengo-Casale",
       "name_default": "Tonengo-Casale",
-      "native": "Tonificazione",
+      "native": "Tonengo-Casale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5493,7 +5493,7 @@
     },
     {
       "id": 61352,
-      "name": "Wieża Canavese",
+      "name": "Torre Canavese",
       "name_default": "Torre Canavese",
       "native": "Torre Canavese",
       "type": "adm3",
@@ -5511,7 +5511,7 @@
     },
     {
       "id": 61359,
-      "name": "Wieża Pellice",
+      "name": "Torre Pellice",
       "name_default": "Torre Pellice",
       "native": "Torre Pellice",
       "type": "adm3",
@@ -5709,7 +5709,7 @@
     },
     {
       "id": 61663,
-      "name": "Walentyn",
+      "name": "Valentino",
       "name_default": "Valentino",
       "native": "Valentino",
       "type": "adm3",
@@ -5799,7 +5799,7 @@
     },
     {
       "id": 61771,
-      "name": "Ospa wietrzna",
+      "name": "Varisella",
       "name_default": "Varisella",
       "native": "Varisella",
       "type": "adm3",
@@ -5853,7 +5853,7 @@
     },
     {
       "id": 61812,
-      "name": "Wenaus",
+      "name": "Venaus",
       "name_default": "Venaus",
       "native": "Venaus",
       "type": "adm3",
@@ -6159,7 +6159,7 @@
     },
     {
       "id": 62164,
-      "name": "Wino",
+      "name": "Vinovo",
       "name_default": "Vinovo",
       "native": "Vinovo",
       "type": "adm3",

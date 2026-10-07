@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48402,
-      "name": "Barnsley",
+      "name": "Metropolitan Borough of Barnsley",
       "name_default": "Barnsley",
       "native": "Barnsley",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48589,
-      "name": "Bolton-upon-Dearne",
+      "name": "Bolton upon Dearne",
       "name_default": "Bolton upon Dearne",
       "native": "Bolton upon Dearne",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 49725,
-      "name": "Wielki Houghton",
+      "name": "Great Houghton",
       "name_default": "Great Houghton",
       "native": "Great Houghton",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 50016,
-      "name": "Hoyland Nether",
+      "name": "Hoyland",
       "name_default": "Hoyland Nether",
       "native": "Hoyland Nether",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 51305,
-      "name": "Jedwabny kamień",
+      "name": "Silkstone",
       "name_default": "Silkstone",
       "native": "Silkstone",
       "type": "city",
@@ -290,26 +290,8 @@
       "country_id": 232
     },
     {
-      "id": 51456,
-      "name": "Stocksbridge",
-      "name_default": "Stocksbridge",
-      "native": "Stocksbridge",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13301,
-      "latitude": "53.48249000",
-      "longitude": "-1.59373000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1813994",
-      "country_code": "GB",
-      "state_code": "BNS",
-      "state_id": 2499,
-      "country_id": 232
-    },
-    {
       "id": 51966,
-      "name": "Macica",
+      "name": "Wombwell",
       "name_default": "Wombwell",
       "native": "Wombwell",
       "type": "city",

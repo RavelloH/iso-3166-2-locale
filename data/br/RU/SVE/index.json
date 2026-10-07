@@ -322,7 +322,7 @@
     },
     {
       "id": 97693,
-      "name": "Amiant",
+      "name": "Asbest",
       "name_default": "Asbest",
       "native": "Асбест",
       "type": "adm2",
@@ -502,7 +502,7 @@
     },
     {
       "id": 97940,
-      "name": "Bisert'",
+      "name": "Bisert’",
       "name_default": "Bisert’",
       "native": "Бисерть",
       "type": "city",
@@ -610,7 +610,7 @@
     },
     {
       "id": 98171,
-      "name": "Tchernoistokinsk",
+      "name": "Chernoistochinsk",
       "name_default": "Chernoistochinsk",
       "native": "Черноисточинск",
       "type": "city",
@@ -754,9 +754,9 @@
     },
     {
       "id": 98696,
-      "name": "Eo",
+      "name": "Is",
       "name_default": "Is",
-      "native": "Является",
+      "native": "Ис",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -772,7 +772,7 @@
     },
     {
       "id": 98701,
-      "name": "Iset'",
+      "name": "Iset’",
       "name_default": "Iset’",
       "native": "Исеть",
       "type": "city",
@@ -880,7 +880,7 @@
     },
     {
       "id": 98820,
-      "name": "Kamensk-Oural'skiy",
+      "name": "Kamensk-Ural’skiy",
       "name_default": "Kamensk-Ural’skiy",
       "native": "Каменск-Уральский",
       "type": "adm2",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 99339,
-      "name": "Krasnoural'sk",
+      "name": "Krasnoural’sk",
       "name_default": "Krasnoural’sk",
       "native": "Красноуральск",
       "type": "adm2",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 99667,
-      "name": "Koll",
+      "name": "Losinyy",
       "name_default": "Losinyy",
       "native": "Лосиный",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 99958,
-      "name": "Arc'hant",
+      "name": "Monetnyy",
       "name_default": "Monetnyy",
       "native": "Монетный",
       "type": "city",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": 100181,
-      "name": "Tagil Nizhni",
+      "name": "Nizhny Tagil",
       "name_default": "Nizhny Tagil",
       "native": "Нижний Тагил",
       "type": "city",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": 100182,
-      "name": "Nizhnya Irga",
+      "name": "Nizhnyaya Irga",
       "name_default": "Nizhnyaya Irga",
       "native": "Нижняя Ирга",
       "type": "city",
@@ -1402,7 +1402,7 @@
     },
     {
       "id": 100186,
-      "name": "Nizhnya Salda",
+      "name": "Nizhnyaya Salda",
       "name_default": "Nizhnyaya Salda",
       "native": "Нижняя Салда",
       "type": "adm2",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": 100188,
-      "name": "Nizhnya Tura",
+      "name": "Nizhnyaya Tura",
       "name_default": "Nizhnyaya Tura",
       "native": "Нижняя Тура",
       "type": "city",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": 100206,
-      "name": "Newaya Lyalya",
+      "name": "Novaya Lyalya",
       "name_default": "Novaya Lyalya",
       "native": "Новая Ляля",
       "type": "adm2",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": 101358,
-      "name": "Shuvakeg",
+      "name": "Shuvakish",
       "name_default": "Shuvakish",
       "native": "Шувакиш",
       "type": "city",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 101654,
-      "name": "Log Sukhoy",
+      "name": "Sukhoy Log",
       "name_default": "Sukhoy Log",
       "native": "Сухой Лог",
       "type": "adm2",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": 101733,
-      "name": "Sysert'",
+      "name": "Sysert’",
       "name_default": "Sysert’",
       "native": "Сысерть",
       "type": "adm2",
@@ -2230,7 +2230,7 @@
     },
     {
       "id": 101976,
-      "name": "Torino",
+      "name": "Turinsk",
       "name_default": "Turinsk",
       "native": "Туринск",
       "type": "adm2",
@@ -2302,7 +2302,7 @@
     },
     {
       "id": 102070,
-      "name": "Uraleted",
+      "name": "Uralets",
       "name_default": "Uralets",
       "native": "Уралец",
       "type": "city",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": 102257,
-      "name": "Tagil-meur",
+      "name": "Verkhniy Tagil",
       "name_default": "Verkhniy Tagil",
       "native": "Верхний Тагил",
       "type": "city",
@@ -2392,7 +2392,7 @@
     },
     {
       "id": 102263,
-      "name": "Meur Sergi",
+      "name": "Verkhniye Sergi",
       "name_default": "Verkhniye Sergi",
       "native": "Верхние Серги",
       "type": "city",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": 102269,
-      "name": "Pyshma uhelañ",
+      "name": "Verkhnyaya Pyshma",
       "name_default": "Verkhnyaya Pyshma",
       "native": "Верхняя Пышма",
       "type": "adm2",
@@ -2446,7 +2446,7 @@
     },
     {
       "id": 102271,
-      "name": "Verkhnya Sinyachikha",
+      "name": "Verkhnyaya Sinyachikha",
       "name_default": "Verkhnyaya Sinyachikha",
       "native": "Верхняя Синячиха",
       "type": "city",
@@ -2464,7 +2464,7 @@
     },
     {
       "id": 102272,
-      "name": "Verkhnya Sysert'",
+      "name": "Verkhnyaya Sysert’",
       "name_default": "Verkhnyaya Sysert’",
       "native": "Верхняя Сысерть",
       "type": "city",
@@ -2482,7 +2482,7 @@
     },
     {
       "id": 102275,
-      "name": "Tura Meur",
+      "name": "Verkhnyaya Tura",
       "name_default": "Verkhnyaya Tura",
       "native": "Верхняя Тура",
       "type": "city",
@@ -2518,7 +2518,7 @@
     },
     {
       "id": 102319,
-      "name": "Gwelet",
+      "name": "Visim",
       "name_default": "Visim",
       "native": "Висим",
       "type": "city",
@@ -2572,7 +2572,7 @@
     },
     {
       "id": 102527,
-      "name": "Yekaterinburg",
+      "name": "Yekaterinbourg",
       "name_default": "Yekaterinburg",
       "native": "Екатеринбург",
       "type": "adm1",
@@ -2716,7 +2716,7 @@
     },
     {
       "id": 102790,
-      "name": "Zyuzel'skiy",
+      "name": "Zyuzel’skiy",
       "name_default": "Zyuzel’skiy",
       "native": "Зюзельский",
       "type": "city",

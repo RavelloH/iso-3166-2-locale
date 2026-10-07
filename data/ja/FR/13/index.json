@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 39294,
-      "name": "エクス・アン・プロヴァンス",
+      "name": "エクス＝アン＝プロヴァンス",
       "name_default": "Aix-en-Provence",
       "native": "Aix-en-Provence",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 39323,
-      "name": "アレインズ",
+      "name": "アラン",
       "name_default": "Alleins",
       "native": "Alleins",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 39935,
-      "name": "ベルサンス",
+      "name": "ベルスンス",
       "name_default": "Belsunce",
       "native": "Belsunce",
       "type": "section",
@@ -291,7 +291,7 @@
     },
     {
       "id": 39959,
-      "name": "ベレ・レタン",
+      "name": "ベール＝レタン",
       "name_default": "Berre-l'Étang",
       "native": "Berre-l'Étang",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 40149,
-      "name": "ブーク・ベル・エア",
+      "name": "ブック＝ベル＝エール",
       "name_default": "Bouc-Bel-Air",
       "native": "Bouc-Bel-Air",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 40552,
-      "name": "カルヌー・アン・プロヴァンス",
+      "name": "カルヌー＝アン＝プロバンス",
       "name_default": "Carnoux-en-Provence",
       "native": "Carnoux-en-Provence",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 40562,
-      "name": "カリー・ル・ルエ",
+      "name": "カリー＝ル＝ルエ",
       "name_default": "Carry-le-Rouet",
       "native": "Carry-le-Rouet",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 40571,
-      "name": "カシス",
+      "name": "カシ",
       "name_default": "Cassis",
       "native": "Cassis",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 40970,
-      "name": "シャトーヌフ・レ・マルティーグ",
+      "name": "シャトーヌフ＝レ＝マルティーグ",
       "name_default": "Châteauneuf-les-Martigues",
       "native": "Châteauneuf-les-Martigues",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 41907,
-      "name": "フォントヴィエユ",
+      "name": "フォンヴィエイユ",
       "name_default": "Fontvieille",
       "native": "Fontvieille",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 42184,
-      "name": "おばあちゃん",
+      "name": "Grans",
       "name_default": "Grans",
       "native": "Grans",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 42510,
-      "name": "イストレ",
+      "name": "イストル",
       "name_default": "Istres",
       "native": "Istres",
       "type": "adm3",
@@ -993,7 +993,7 @@
     },
     {
       "id": 42625,
-      "name": "レスタック",
+      "name": "エスタック",
       "name_default": "L'Estaque",
       "native": "L'Estaque",
       "type": "section",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 43420,
-      "name": "レ・ペンヌ・ミラボー",
+      "name": "レ・ペンヌ＝ミラボー",
       "name_default": "Les Pennes-Mirabeau",
       "native": "Les Pennes-Mirabeau",
       "type": "city",
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 43733,
-      "name": "マイレーン",
+      "name": "マイヤーヌ",
       "name_default": "Maillane",
       "native": "Maillane",
       "type": "city",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": 43764,
-      "name": "マレモート",
+      "name": "マルモール",
       "name_default": "Mallemort",
       "native": "Mallemort",
       "type": "city",
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 43838,
-      "name": "マリニャン",
+      "name": "マリニャーヌ",
       "name_default": "Marignane",
       "native": "Marignane",
       "type": "city",
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 43892,
-      "name": "マルセイユ09",
+      "name": "マルセイユ9区",
       "name_default": "Marseille 09",
       "native": "Marseille 09",
       "type": "adm5",
@@ -2307,7 +2307,7 @@
     },
     {
       "id": 43897,
-      "name": "マルセイユ 14",
+      "name": "14区",
       "name_default": "Marseille 14",
       "native": "Marseille 14",
       "type": "adm5",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 43899,
-      "name": "マルセイユ 16",
+      "name": "マルセイユ16区",
       "name_default": "Marseille 16",
       "native": "Marseille 16",
       "type": "adm5",
@@ -2685,7 +2685,7 @@
     },
     {
       "id": 44401,
-      "name": "ムリエ",
+      "name": "ムリエス",
       "name_default": "Mouriès",
       "native": "Mouriès",
       "type": "city",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 44666,
-      "name": "ノヴェス",
+      "name": "ノヴ",
       "name_default": "Noves",
       "native": "Noves",
       "type": "city",
@@ -2847,7 +2847,7 @@
     },
     {
       "id": 44846,
-      "name": "パラドゥ",
+      "name": "パラドゥー",
       "name_default": "Paradou",
       "native": "Paradou",
       "type": "city",
@@ -3009,7 +3009,7 @@
     },
     {
       "id": 45233,
-      "name": "ポール・ド・ブック",
+      "name": "ポール＝ド＝ブック",
       "name_default": "Port-de-Bouc",
       "native": "Port-de-Bouc",
       "type": "city",
@@ -3027,7 +3027,7 @@
     },
     {
       "id": 45229,
-      "name": "ポール・サン・ルイ・デュ・ローヌ",
+      "name": "ポール＝サン＝ルイ＝デュ＝ローヌ",
       "name_default": "Port-Saint-Louis-du-Rhône",
       "native": "Port-Saint-Louis-du-Rhône",
       "type": "city",
@@ -3045,7 +3045,7 @@
     },
     {
       "id": 45339,
-      "name": "ピュイルービエ",
+      "name": "ピュイルビエ",
       "name_default": "Puyloubier",
       "native": "Puyloubier",
       "type": "city",
@@ -3369,7 +3369,7 @@
     },
     {
       "id": 46047,
-      "name": "サン・アンリ",
+      "name": "サン＝タンリ",
       "name_default": "Saint-Henri",
       "native": "Saint-Henri",
       "type": "section",
@@ -3549,7 +3549,7 @@
     },
     {
       "id": 46270,
-      "name": "サン・マルタン・ド・クロ",
+      "name": "サン＝マルタン＝ド＝クロー",
       "name_default": "Saint-Martin-de-Crau",
       "native": "Saint-Martin-de-Crau",
       "type": "city",
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 46511,
-      "name": "サン・レミ・ド・プロヴァンス",
+      "name": "サン＝レミ＝ド＝プロヴァンス",
       "name_default": "Saint-Rémy-de-Provence",
       "native": "Saint-Rémy-de-Provence",
       "type": "city",
@@ -3801,7 +3801,7 @@
     },
     {
       "id": 46766,
-      "name": "サロン・ド・プロヴァンス",
+      "name": "サロン＝ド＝プロヴァンス",
       "name_default": "Salon-de-Provence",
       "native": "Salon-de-Provence",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 46856,
-      "name": "ソーセ・レ・パン",
+      "name": "ソセ・レ・パン",
       "name_default": "Sausset-les-Pins",
       "native": "Sausset-les-Pins",
       "type": "city",
@@ -4071,7 +4071,7 @@
     },
     {
       "id": 47870,
-      "name": "ヴィトロール",
+      "name": "ヴィトロル",
       "name_default": "Vitrolles",
       "native": "Vitrolles",
       "type": "city",

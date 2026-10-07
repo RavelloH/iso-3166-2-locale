@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135416,
-      "name": "アレイン",
+      "name": "アレアン",
       "name_default": "Allein",
       "native": "Allein",
       "type": "adm3",
@@ -77,7 +77,7 @@
       "id": 135511,
       "name": "アンタゴノド",
       "name_default": "Antagnod",
-      "native": "Amministrazione",
+      "native": "Antagnod",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 135712,
-      "name": "アヴィス",
+      "name": "アヴィーゼ",
       "name_default": "Avise",
       "native": "Avise",
       "type": "adm3",
@@ -239,7 +239,7 @@
       "id": 135997,
       "name": "ベリアット",
       "name_default": "Berriat",
-      "native": "Nuovo",
+      "native": "Berriat",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 136055,
-      "name": "ビオナズ",
+      "name": "ビオナツ",
       "name_default": "Bionaz",
       "native": "Bionaz",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 136378,
-      "name": "ブルソン",
+      "name": "ブリュソン",
       "name_default": "Brusson",
       "native": "Brusson",
       "type": "adm3",
@@ -291,7 +291,7 @@
     },
     {
       "id": 137627,
-      "name": "シャラン＝サン＝タンセルム",
+      "name": "シャラン＝サンタンセルム",
       "name_default": "Challand-Saint-Anselme",
       "native": "Challand-Saint-Anselme",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137628,
-      "name": "シャラン・サン・ヴィクトル",
+      "name": "シャラン＝サン＝ヴィクトル",
       "name_default": "Challand-Saint-Victor",
       "native": "Challand-Saint-Victor",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 137629,
-      "name": "シャンバベ",
+      "name": "シャンバーヴ",
       "name_default": "Chambave",
       "native": "Chambave",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137631,
-      "name": "シャンデプラッツ",
+      "name": "シャンプデプラツ",
       "name_default": "Champdepraz",
       "native": "Champdepraz",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137633,
-      "name": "チャーベンソド",
+      "name": "シャルヴェンソド",
       "name_default": "Charvensod",
       "native": "Charvensod",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 137841,
-      "name": "コニュ",
+      "name": "コーニュ",
       "name_default": "Cogne",
       "native": "Cogne",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 138321,
-      "name": "ドゥース",
+      "name": "ドウエス",
       "name_default": "Doues",
       "native": "Doues",
       "type": "adm3",
@@ -561,7 +561,7 @@
     },
     {
       "id": 138765,
-      "name": "フェニス",
+      "name": "フェーニス",
       "name_default": "Fénis",
       "native": "Fénis",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 138591,
-      "name": "フォンテーヌモア",
+      "name": "フォンタイネモレ",
       "name_default": "Fontainemore",
       "native": "Fontainemore",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 138771,
-      "name": "ギャビー",
+      "name": "ガブイ",
       "name_default": "Gaby",
       "native": "Gaby",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 138960,
-      "name": "ジニョ",
+      "name": "ジニョー",
       "name_default": "Gignod",
       "native": "Gignod",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 139089,
-      "name": "グレサン",
+      "name": "グレッサーン",
       "name_default": "Gressan",
       "native": "Gressan",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 139091,
-      "name": "グレッソネイ＝サン＝ジャン",
+      "name": "グレッソネイ＝サイント＝ジェアン",
       "name_default": "Gressoney-Saint-Jean",
       "native": "Gressoney-Saint-Jean",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 139211,
-      "name": "紹介",
+      "name": "アントロ",
       "name_default": "Introd",
       "native": "Introd",
       "type": "adm3",
@@ -797,7 +797,7 @@
       "id": 139290,
       "name": "ラ・クレタス・ロワザン",
       "name_default": "La Cretaz-Roisan",
-      "native": "La Crertaz-Roisan",
+      "native": "La Cretaz-Roisan",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -813,7 +813,7 @@
     },
     {
       "id": 139294,
-      "name": "ラ・マグダレーヌ",
+      "name": "ラ・マドレーヌ",
       "name_default": "La Magdeleine",
       "native": "La Magdeleine",
       "type": "adm3",
@@ -833,7 +833,7 @@
       "id": 139299,
       "name": "ラ・プラス",
       "name_default": "La Place",
-      "native": "Da posizionare",
+      "native": "La Place",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 139303,
-      "name": "ラサール",
+      "name": "ラ・サル",
       "name_default": "La Salle",
       "native": "La Salle",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 139514,
-      "name": "リリアネス",
+      "name": "リッリアネス",
       "name_default": "Lillianes",
       "native": "Lillianes",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 140613,
-      "name": "モルジェックス",
+      "name": "モルジェ",
       "name_default": "Morgex",
       "native": "Morgex",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 140907,
-      "name": "オロモント",
+      "name": "オッロモント",
       "name_default": "Ollomont",
       "native": "Ollomont",
       "type": "adm3",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 141060,
-      "name": "オヤス",
+      "name": "オイアチェ",
       "name_default": "Oyace",
       "native": "Oyace",
       "type": "adm3",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 58430,
-      "name": "ペルロズ",
+      "name": "ペルロ",
       "name_default": "Perloz",
       "native": "Perloz",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 58476,
       "name": "プチ・フェニス",
       "name_default": "Petit Fenis",
-      "native": "Chiede un fieno",
+      "native": "Petit Fenis",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1103,7 +1103,7 @@
       "id": 58732,
       "name": "プラン・ダントロド",
       "name_default": "Plan d'Introd",
-      "native": "Piano d'Intro",
+      "native": "Plan d'Introd",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 58796,
-      "name": "ポレイン",
+      "name": "ポッレイン",
       "name_default": "Pollein",
       "native": "Pollein",
       "type": "adm3",
@@ -1139,7 +1139,7 @@
       "id": 58827,
       "name": "ポン・ボゼ",
       "name_default": "Pont-Bozet",
-      "native": "Punto",
+      "native": "Pont-Bozet",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 58829,
-      "name": "ポン・サン・マルタン",
+      "name": "ポン＝サン＝マルタン",
       "name_default": "Pont-Saint-Martin",
       "native": "Pont-Saint-Martin",
       "type": "adm3",
@@ -1193,7 +1193,7 @@
       "id": 59193,
       "name": "プレ・サン・ディディエ",
       "name_default": "Prè Saint Didier",
-      "native": "Prestito di Saint Didier",
+      "native": "Prè Saint Didier",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 59732,
-      "name": "サン・オイエン",
+      "name": "サイント＝オイエン",
       "name_default": "Saint-Oyen",
       "native": "Saint-Oyen",
       "type": "adm3",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 59733,
-      "name": "サンピエール",
+      "name": "サン＝ピエール",
       "name_default": "Saint-Pierre",
       "native": "Saint-Pierre",
       "type": "adm3",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 59735,
-      "name": "サン・ヴァンサン",
+      "name": "サン＝ヴァンサン",
       "name_default": "Saint-Vincent",
       "native": "Saint-Vincent",
       "type": "adm3",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 61735,
-      "name": "ヴァルペリーヌ",
+      "name": "ヴァルペッリネ",
       "name_default": "Valpelline",
       "native": "Valpelline",
       "type": "adm3",
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 61865,
-      "name": "ヴェライエス",
+      "name": "ヴェッライエス",
       "name_default": "Verrayes",
       "native": "Verrayes",
       "type": "adm3",
@@ -1625,7 +1625,7 @@
       "id": 62074,
       "name": "ヴィラール・アメリカ",
       "name_default": "Villair-Amerique",
-      "native": "Villair-American",
+      "native": "Villair-Amerique",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1643,7 +1643,7 @@
       "id": 62147,
       "name": "ヴィル・シュル・サール",
       "name_default": "Ville Sur Sarre",
-      "native": "Sarre City",
+      "native": "Ville Sur Sarre",
       "type": "adm3",
       "level": null,
       "parent_id": null,

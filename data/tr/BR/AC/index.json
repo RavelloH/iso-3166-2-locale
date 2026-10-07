@@ -180,7 +180,7 @@
     },
     {
       "id": 10428,
-      "name": "Assis Brezilya",
+      "name": "Assis Brasil",
       "name_default": "Assis Brasil",
       "native": "Assis Brasil",
       "type": "city",
@@ -198,7 +198,7 @@
     },
     {
       "id": 10774,
-      "name": "Brezilya",
+      "name": "Brasiléia",
       "name_default": "Brasiléia",
       "native": "Brasiléia",
       "type": "city",
@@ -218,7 +218,7 @@
       "id": 10819,
       "name": "Bujari",
       "name_default": "Bujari",
-      "native": "generosidade",
+      "native": "Bujari",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -306,7 +306,7 @@
     },
     {
       "id": 12647,
-      "name": "Ürdün",
+      "name": "Jordão",
       "name_default": "Jordão",
       "native": "Jordão",
       "type": "city",
@@ -360,7 +360,7 @@
     },
     {
       "id": 13001,
-      "name": "Mareşal Thaumaturgo",
+      "name": "Marechal Thaumaturgo",
       "name_default": "Marechal Thaumaturgo",
       "native": "Marechal Thaumaturgo",
       "type": "city",
@@ -378,7 +378,7 @@
     },
     {
       "id": 13945,
-      "name": "Placido de Castro",
+      "name": "Plácido de Castro",
       "name_default": "Plácido de Castro",
       "native": "Plácido de Castro",
       "type": "city",
@@ -406,7 +406,7 @@
       "latitude": "-9.65038000",
       "longitude": "-67.77733000",
       "timezone": "America/Rio_Branco",
-      "wikiDataId": "Q2113232",
+      "wikiDataId": null,
       "country_code": "BR",
       "state_code": "AC",
       "state_id": 2012,
@@ -504,7 +504,7 @@
     },
     {
       "id": 14700,
-      "name": "Senatör Guiomard",
+      "name": "Senador Guiomard",
       "name_default": "Senador Guiomard",
       "native": "Senador Guiomard",
       "type": "adm2",

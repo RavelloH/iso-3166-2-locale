@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135248,
-      "name": "Dostęp",
+      "name": "Acceglio",
       "name_default": "Acceglio",
       "native": "Acceglio",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 135443,
-      "name": "Alt",
+      "name": "Alto",
       "name_default": "Alto",
       "native": "Alto",
       "type": "adm3",
@@ -219,7 +219,7 @@
     },
     {
       "id": 135803,
-      "name": "Bandyta",
+      "name": "Bandito",
       "name_default": "Bandito",
       "native": "Bandito",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 135851,
-      "name": "Barka",
+      "name": "Barge",
       "name_default": "Barge",
       "native": "Barge",
       "type": "adm3",
@@ -437,7 +437,7 @@
       "id": 135998,
       "name": "Bersezio",
       "name_default": "Bersezio",
-      "native": "Berresion",
+      "native": "Bersezio",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 136278,
-      "name": "Biustonosz",
+      "name": "Bra",
       "name_default": "Bra",
       "native": "Bra",
       "type": "adm3",
@@ -599,7 +599,7 @@
       "id": 136312,
       "name": "Breo",
       "name_default": "Breo",
-      "native": "Ber",
+      "native": "Breo",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -741,9 +741,9 @@
     },
     {
       "id": 136596,
-      "name": "Kamuflaż",
+      "name": "Camo",
       "name_default": "Camo",
-      "native": "Mamo",
+      "native": "Camo",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 136687,
-      "name": "Kanał",
+      "name": "Canale",
       "name_default": "Canale",
       "native": "Canale",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 136830,
-      "name": "Karamagne Piemonte",
+      "name": "Caramagna Piemonte",
       "name_default": "Caramagna Piemonte",
       "native": "Caramagna Piemonte",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 136863,
-      "name": "Karta",
+      "name": "Cardè",
       "name_default": "Cardè",
       "native": "Cardè",
       "type": "adm3",
@@ -977,7 +977,7 @@
       "id": 137220,
       "name": "Castellar",
       "name_default": "Castellar",
-      "native": "Castello",
+      "native": "Castellar",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -993,7 +993,7 @@
     },
     {
       "id": 137237,
-      "name": "Zamek Stura",
+      "name": "Castelletto Stura",
       "name_default": "Castelletto Stura",
       "native": "Castelletto Stura",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 137238,
-      "name": "Zamek Uzzone",
+      "name": "Castelletto Uzzone",
       "name_default": "Castelletto Uzzone",
       "native": "Castelletto Uzzone",
       "type": "adm3",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 137667,
-      "name": "Kościół Macra",
+      "name": "Chiesa di Macra",
       "name_default": "Chiesa di Macra",
       "native": "Chiesa di Macra",
       "type": "adm3",
@@ -1463,7 +1463,7 @@
       "id": 138124,
       "name": "Crava",
       "name_default": "Crava",
-      "native": "Spicchio",
+      "native": "Crava",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 138363,
-      "name": "Zazdrość",
+      "name": "Envie",
       "name_default": "Envie",
       "native": "Envie",
       "type": "adm3",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 139167,
-      "name": "Guarena",
+      "name": "Guarene",
       "name_default": "Guarene",
       "native": "Guarene",
       "type": "adm3",
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 139467,
-      "name": "Lessegno",
+      "name": "Lesegno",
       "name_default": "Lesegno",
       "native": "Lesegno",
       "type": "adm3",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 139704,
-      "name": "Makra",
+      "name": "Macra",
       "name_default": "Macra",
       "native": "Macra",
       "type": "adm3",
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 140254,
-      "name": "Klasztor Vasco",
+      "name": "Monastero di Vasco",
       "name_default": "Monastero di Vasco",
       "native": "Monastero di Vasco",
       "type": "adm3",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 140259,
-      "name": "Klasztor Savigliano",
+      "name": "Monasterolo di Savigliano",
       "name_default": "Monasterolo di Savigliano",
       "native": "Monasterolo di Savigliano",
       "type": "adm3",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 140722,
-      "name": "Narzol",
+      "name": "Narzole",
       "name_default": "Narzole",
       "native": "Narzole",
       "type": "adm3",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": 58564,
-      "name": "Plac",
+      "name": "Piazza",
       "name_default": "Piazza",
       "native": "Piazza",
       "type": "city",
@@ -3297,7 +3297,7 @@
     },
     {
       "id": 59074,
-      "name": "Prioro",
+      "name": "Priero",
       "name_default": "Priero",
       "native": "Priero",
       "type": "adm3",
@@ -3461,7 +3461,7 @@
       "id": 59448,
       "name": "Roapiana",
       "name_default": "Roapiana",
-      "native": "Tetto",
+      "native": "Roapiana",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -3515,7 +3515,7 @@
       "id": 59452,
       "name": "Roata Rossi",
       "name_default": "Roata Rossi",
-      "native": "Rossi ruota",
+      "native": "Roata Rossi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 59468,
-      "name": "Rocca De' Baldi",
+      "name": "Rocca de' Baldi",
       "name_default": "Rocca De' Baldi",
       "native": "Rocca De' Baldi",
       "type": "adm3",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 59756,
-      "name": "Sprzedaż San Giovanni",
+      "name": "Sale San Giovanni",
       "name_default": "Sale San Giovanni",
       "native": "Sale San Giovanni",
       "type": "adm3",
@@ -3855,7 +3855,7 @@
     },
     {
       "id": 59778,
-      "name": "Łosoś",
+      "name": "Salmour",
       "name_default": "Salmour",
       "native": "Salmour",
       "type": "adm3",
@@ -3963,9 +3963,9 @@
     },
     {
       "id": 59890,
-      "name": "Święty Obrońca",
+      "name": "San Defendente",
       "name_default": "San Defendente",
-      "native": "San Difensore",
+      "native": "San Defendente",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -4071,7 +4071,7 @@
     },
     {
       "id": 60381,
-      "name": "Święty Antoni",
+      "name": "Sant'Antonio",
       "name_default": "Sant'Antonio",
       "native": "Sant'Antonio",
       "type": "city",
@@ -4107,7 +4107,7 @@
     },
     {
       "id": 60512,
-      "name": "Święty Stefan Belbo",
+      "name": "Santo Stefano Belbo",
       "name_default": "Santo Stefano Belbo",
       "native": "Santo Stefano Belbo",
       "type": "adm3",
@@ -4125,7 +4125,7 @@
     },
     {
       "id": 60515,
-      "name": "Święty Stefan Roero",
+      "name": "Santo Stefano Roero",
       "name_default": "Santo Stefano Roero",
       "native": "Santo Stefano Roero",
       "type": "adm3",
@@ -4377,7 +4377,7 @@
     },
     {
       "id": 61350,
-      "name": "Wieża Bormida",
+      "name": "Torre Bormida",
       "name_default": "Torre Bormida",
       "native": "Torre Bormida",
       "type": "adm3",
@@ -4395,7 +4395,7 @@
     },
     {
       "id": 61356,
-      "name": "Wieża Mondovì",
+      "name": "Torre Mondovì",
       "name_default": "Torre Mondovì",
       "native": "Torre Mondovì",
       "type": "adm3",
@@ -4413,7 +4413,7 @@
     },
     {
       "id": 61360,
-      "name": "Wieża San Giorgio",
+      "name": "Torre San Giorgio",
       "name_default": "Torre San Giorgio",
       "native": "Torre San Giorgio",
       "type": "adm3",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 61529,
-      "name": "Trójca",
+      "name": "Trinità",
       "name_default": "Trinità",
       "native": "Trinità",
       "type": "adm3",
@@ -4503,7 +4503,7 @@
     },
     {
       "id": 61624,
-      "name": "Krwinka",
+      "name": "Vaccheria",
       "name_default": "Vaccheria",
       "native": "Vaccheria",
       "type": "city",
@@ -4557,7 +4557,7 @@
     },
     {
       "id": 61726,
-      "name": "Waloryzacja",
+      "name": "Valloriate",
       "name_default": "Valloriate",
       "native": "Valloriate",
       "type": "adm3",
@@ -4575,7 +4575,7 @@
     },
     {
       "id": 61731,
-      "name": "Walmala",
+      "name": "Valmala",
       "name_default": "Valmala",
       "native": "Valmala",
       "type": "adm3",
@@ -4719,7 +4719,7 @@
     },
     {
       "id": 61982,
-      "name": "Willa",
+      "name": "Villa",
       "name_default": "Villa",
       "native": "Villa",
       "type": "adm3",
@@ -4737,7 +4737,7 @@
     },
     {
       "id": 62044,
-      "name": "Willa-Borgo",
+      "name": "Villa-Borgo",
       "name_default": "Villa-Borgo",
       "native": "Villa-Borgo",
       "type": "adm3",
@@ -4845,7 +4845,7 @@
     },
     {
       "id": 62166,
-      "name": "Altówka",
+      "name": "Viola",
       "name_default": "Viola",
       "native": "Viola",
       "type": "adm3",

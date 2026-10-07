@@ -271,7 +271,7 @@
     },
     {
       "id": 111908,
-      "name": "جبل المعركة",
+      "name": "باتل ماونتن",
       "name_default": "Battle Mountain",
       "native": "Battle Mountain",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 112602,
-      "name": "مدينة بولدر",
+      "name": "بولدر سيتي",
       "name_default": "Boulder City",
       "native": "Boulder City",
       "type": "city",
@@ -325,7 +325,7 @@
     },
     {
       "id": 113043,
-      "name": "بنكرفيل",
+      "name": "بانكرفيل",
       "name_default": "Bunkerville",
       "native": "Bunkerville",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 113213,
-      "name": "كالينتي",
+      "name": "كاليينتي",
       "name_default": "Caliente",
       "native": "Caliente",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 115768,
-      "name": "الوادي الشرقي",
+      "name": "East Valley",
       "name_default": "East Valley",
       "native": "East Valley",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 116086,
-      "name": "إيلي",
+      "name": "إلي",
       "name_default": "Ely",
       "native": "Ely",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 116149,
-      "name": "مَشرُوع",
+      "name": "إنتربرايز",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 117363,
-      "name": "جولدفيلد",
+      "name": "غولدفيلد",
       "name_default": "Goldfield",
       "native": "Goldfield",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 118176,
-      "name": "هوثورن",
+      "name": "هاوثورن",
       "name_default": "Hawthorne",
       "native": "Hawthorne",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 118888,
-      "name": "قرية إنكلاين",
+      "name": "Incline Village",
       "name_default": "Incline Village",
       "native": "Incline Village",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 118909,
-      "name": "التلال الهندية",
+      "name": "إنديان هيلز",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 119057,
-      "name": "الفوز بالجائزة الكبرى",
+      "name": "جاكبوت",
       "name_default": "Jackpot",
       "native": "Jackpot",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 119610,
-      "name": "كينغسبري",
+      "name": "كينغزبيري",
       "name_default": "Kingsbury",
       "native": "Kingsbury",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 120358,
-      "name": "وادي الليمون",
+      "name": "Lemmon Valley",
       "name_default": "Lemmon Valley",
       "native": "Lemmon Valley",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 121502,
-      "name": "ماكجيل",
+      "name": "ماكغيل",
       "name_default": "McGill",
       "native": "McGill",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 121727,
-      "name": "مسكيت",
+      "name": "ميسكيت",
       "name_default": "Mesquite",
       "native": "Mesquite",
       "type": "city",
@@ -865,9 +865,9 @@
     },
     {
       "id": 121930,
-      "name": "مايندن",
+      "name": "ميندين",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
       "id": 122007,
       "name": "مدينة موابا",
       "name_default": "Moapa Town",
-      "native": "Moabo Town",
+      "native": "Moapa Town",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,9 +901,9 @@
     },
     {
       "id": 122008,
-      "name": "وادي موابا",
+      "name": "موابا فالي",
       "name_default": "Moapa Valley",
-      "native": "Moab Valley",
+      "native": "Moapa Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -991,7 +991,7 @@
     },
     {
       "id": 123819,
-      "name": "جَنَّة",
+      "name": "بارادايس",
       "name_default": "Paradise",
       "native": "Paradise",
       "type": "city",
@@ -1009,9 +1009,9 @@
     },
     {
       "id": 124273,
-      "name": "بيوتشي",
+      "name": "بيوش",
       "name_default": "Pioche",
-      "native": "Pickaxe",
+      "native": "Pioche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 125885,
-      "name": "وادي ساندي",
+      "name": "ساندي فالي",
       "name_default": "Sandy Valley",
       "native": "Sandy Valley",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 126517,
-      "name": "وادي سميث",
+      "name": "سميث فالي",
       "name_default": "Smith Valley",
       "native": "Smith Valley",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 126801,
-      "name": "الينابيع الإسبانية",
+      "name": "سبانيش سبرينغز",
       "name_default": "Spanish Springs",
       "native": "Spanish Springs",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 126805,
-      "name": "شرارات",
+      "name": "سباركس",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 126881,
-      "name": "وادي الربيع",
+      "name": "سبرينغ فالي",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 127242,
-      "name": "صن فالي",
+      "name": "سن فالي",
       "name_default": "Sun Valley",
       "native": "Sun Valley",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 127269,
-      "name": "قصر صن رايز",
+      "name": "سنرايز مانور",
       "name_default": "Sunrise Manor",
       "native": "Sunrise Manor",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 128290,
-      "name": "مدينة فيرجينيا",
+      "name": "فيرجينيا سيتي",
       "name_default": "Virginia City",
       "native": "Virginia City",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 128783,
-      "name": "الآبار",
+      "name": "ويلز",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",

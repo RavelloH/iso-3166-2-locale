@@ -114,7 +114,7 @@
     },
     {
       "id": 109323,
-      "name": "安特拉特西特",
+      "name": "安特拉齐特",
       "name_default": "Antratsyt",
       "native": "Антрацит",
       "type": "city",
@@ -186,9 +186,9 @@
     },
     {
       "id": 109395,
-      "name": "胆汁",
+      "name": "比莱",
       "name_default": "Bile",
-      "native": "Жовч",
+      "native": "Біле",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -204,7 +204,7 @@
     },
     {
       "id": 109400,
-      "name": "比洛霍里夫卡",
+      "name": "别洛戈罗夫卡",
       "name_default": "Bilohorivka",
       "native": "Білогорівка",
       "type": "city",
@@ -276,7 +276,7 @@
     },
     {
       "id": 109453,
-      "name": "布莱恩卡",
+      "name": "布里安卡",
       "name_default": "Bryanka",
       "native": "Брянка",
       "type": "city",
@@ -311,26 +311,8 @@
       "country_id": 230
     },
     {
-      "id": 109502,
-      "name": "切尔沃诺党赞斯克",
-      "name_default": "Chervonopartyzans’k",
-      "native": "Червонопартизанськ",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15218,
-      "latitude": "48.07613000",
-      "longitude": "39.79618000",
-      "timezone": "Europe/Kyiv",
-      "wikiDataId": "Q664445",
-      "country_code": "UA",
-      "state_code": "09",
-      "state_id": 4673,
-      "country_id": 230
-    },
-    {
       "id": 109515,
-      "name": "乔努海内",
+      "name": "乔尔努希内",
       "name_default": "Chornukhyne",
       "native": "Чорнухине",
       "type": "city",
@@ -384,7 +366,7 @@
     },
     {
       "id": 109693,
-      "name": "卡季耶夫卡",
+      "name": "卡迪伊夫卡",
       "name_default": "Kadiyivka",
       "native": "Кадіївка",
       "type": "city",
@@ -402,7 +384,7 @@
     },
     {
       "id": 109854,
-      "name": "红卢奇",
+      "name": "赫鲁斯塔利内",
       "name_default": "Khrustalnyi",
       "native": "Хрустальний",
       "type": "city",
@@ -492,7 +474,7 @@
     },
     {
       "id": 109860,
-      "name": "克里米纳",
+      "name": "克雷明纳",
       "name_default": "Kreminna",
       "native": "Кремінна",
       "type": "city",
@@ -528,7 +510,7 @@
     },
     {
       "id": 109931,
-      "name": "洛兹诺-奥列克桑德里夫卡",
+      "name": "洛兹诺-亚历山德里夫卡",
       "name_default": "Lozno-Oleksandrivka",
       "native": "Лозно-Олександрівка",
       "type": "adm3",
@@ -582,7 +564,7 @@
     },
     {
       "id": 109945,
-      "name": "卢图海恩",
+      "name": "卢图希内",
       "name_default": "Lutuhyne",
       "native": "Лутугине",
       "type": "city",
@@ -654,9 +636,9 @@
     },
     {
       "id": 109911,
-      "name": "列宁娜",
+      "name": "玛丽亚",
       "name_default": "Mariia",
-      "native": "Леніна",
+      "native": "Марія",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -708,7 +690,7 @@
     },
     {
       "id": 110031,
-      "name": "米洛夫",
+      "name": "米洛韦",
       "name_default": "Milove",
       "native": "Мілове",
       "type": "adm3",
@@ -743,26 +725,8 @@
       "country_id": 230
     },
     {
-      "id": 110049,
-      "name": "莫洛多瓦迪斯克",
-      "name_default": "Molodohvardiys’k",
-      "native": "Молодогвардійськ",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22449,
-      "latitude": "48.34511000",
-      "longitude": "39.65244000",
-      "timezone": "Europe/Kyiv",
-      "wikiDataId": "Q2238005",
-      "country_code": "UA",
-      "state_code": "09",
-      "state_id": 4673,
-      "country_id": 230
-    },
-    {
       "id": 110143,
-      "name": "诺沃普斯科夫",
+      "name": "艾达尔",
       "name_default": "Novopskov",
       "native": "Новопсков",
       "type": "city",
@@ -797,8 +761,26 @@
       "country_id": 230
     },
     {
+      "id": 110049,
+      "name": "奥塔马尼夫卡",
+      "name_default": "Otamanivka",
+      "native": "Отаманівка",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22449,
+      "latitude": "48.34511000",
+      "longitude": "39.65244000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q2238005",
+      "country_code": "UA",
+      "state_code": "09",
+      "state_id": 4673,
+      "country_id": 230
+    },
+    {
       "id": 110231,
-      "name": "帕夫利夫卡",
+      "name": "巴甫利夫卡",
       "name_default": "Pavlivka",
       "native": "Павлівка",
       "type": "city",
@@ -978,7 +960,7 @@
     },
     {
       "id": 110460,
-      "name": "西梅基内",
+      "name": "锡梅奇内",
       "name_default": "Simeykyne",
       "native": "Сімейкине",
       "type": "city",
@@ -1014,7 +996,7 @@
     },
     {
       "id": 110514,
-      "name": "索罗基内",
+      "name": "克拉斯诺顿",
       "name_default": "Sorokyne",
       "native": "Сорокине",
       "type": "adm2",
@@ -1104,7 +1086,7 @@
     },
     {
       "id": 110572,
-      "name": "斯瓦托夫",
+      "name": "斯瓦托韦",
       "name_default": "Svatove",
       "native": "Сватове",
       "type": "adm2",
@@ -1176,7 +1158,7 @@
     },
     {
       "id": 110597,
-      "name": "特普尔",
+      "name": "泰普莱",
       "name_default": "Teple",
       "native": "Тепле",
       "type": "city",
@@ -1230,7 +1212,7 @@
     },
     {
       "id": 110657,
-      "name": "乌拉尔-高加索",
+      "name": "乌拉洛高加索",
       "name_default": "Uralo-Kavkaz",
       "native": "Урало-Кавказ",
       "type": "city",
@@ -1265,6 +1247,24 @@
       "country_id": 230
     },
     {
+      "id": 109502,
+      "name": "沃兹内森尼夫卡",
+      "name_default": "Voznesenivka",
+      "native": "Вознесенівка",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15218,
+      "latitude": "48.07613000",
+      "longitude": "39.79618000",
+      "timezone": "Europe/Kyiv",
+      "wikiDataId": "Q664445",
+      "country_code": "UA",
+      "state_code": "09",
+      "state_id": 4673,
+      "country_id": 230
+    },
+    {
       "id": 110866,
       "name": "佐林斯克",
       "name_default": "Zoryns’k",
@@ -1284,7 +1284,7 @@
     },
     {
       "id": 110871,
-      "name": "酵母菌属",
+      "name": "济莫希尔亚",
       "name_default": "Zymohiria",
       "native": "Зимогір'я",
       "type": "city",

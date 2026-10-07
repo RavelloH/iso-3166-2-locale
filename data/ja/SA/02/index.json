@@ -165,7 +165,7 @@
     },
     {
       "id": 148877,
-      "name": "広告期間",
+      "name": "Ad Dur",
       "name_default": "Ad Dur",
       "native": "أد دور",
       "type": "city",
@@ -1605,9 +1605,9 @@
     },
     {
       "id": 148956,
-      "name": "タニムにて",
+      "name": "At Tan`im",
       "name_default": "At Tan`im",
-      "native": "في التنعيم",
+      "native": "التنعيم",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -1623,9 +1623,9 @@
     },
     {
       "id": 148957,
-      "name": "タルファにて",
+      "name": "At Tarfa'",
       "name_default": "At Tarfa'",
-      "native": "في الطرفة",
+      "native": "الطرفاء",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 148958,
-      "name": "トゥルキにて",
+      "name": "At Turqi",
       "name_default": "At Turqi",
       "native": "في تركي",
       "type": "city",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 102858,
-      "name": "ジェッダ",
+      "name": "ジッダ",
       "name_default": "Jeddah",
       "native": "جدة",
       "type": "city",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 102884,
-      "name": "タイフ",
+      "name": "ターイフ",
       "name_default": "Ta'if",
       "native": "الطائف",
       "type": "city",

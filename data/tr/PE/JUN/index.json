@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 80556,
-      "name": "Akolla",
+      "name": "Acolla",
       "name_default": "Acolla",
       "native": "Acolla",
       "type": "adm3",
@@ -93,7 +93,7 @@
     },
     {
       "id": 80604,
-      "name": "Çançamayo",
+      "name": "Chanchamayo",
       "name_default": "Chanchamayo",
       "native": "Chanchamayo",
       "type": "province",
@@ -111,7 +111,7 @@
     },
     {
       "id": 80625,
-      "name": "Çupaka",
+      "name": "Chupaca",
       "name_default": "Chupaca",
       "native": "Chupaca",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 80630,
-      "name": "Konsept",
+      "name": "Concepción",
       "name_default": "Concepción",
       "native": "Concepción",
       "type": "city",
@@ -311,7 +311,7 @@
       "id": 80758,
       "name": "Perené",
       "name_default": "Perené",
-      "native": "Paz",
+      "native": "Perené",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -329,7 +329,7 @@
       "id": 80761,
       "name": "Pilcomay",
       "name_default": "Pilcomay",
-      "native": "Pilomeo",
+      "native": "Pilcomay",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 80809,
-      "name": "Chupaca İli",
+      "name": "Provincia de Chupaca",
       "name_default": "Provincia de Chupaca",
       "native": "Provincia de Chupaca",
       "type": "province",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80834,
-      "name": "Huancayo İli",
+      "name": "Provincia de Huancayo",
       "name_default": "Provincia de Huancayo",
       "native": "Provincia de Huancayo",
       "type": "province",
@@ -399,7 +399,7 @@
     },
     {
       "id": 80846,
-      "name": "Jauja İli",
+      "name": "Provincia de Jauja",
       "name_default": "Provincia de Jauja",
       "native": "Provincia de Jauja",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 80902,
-      "name": "Tarma İli",
+      "name": "Provincia de Tarma",
       "name_default": "Provincia de Tarma",
       "native": "Provincia de Tarma",
       "type": "province",
@@ -474,7 +474,7 @@
       "name": "Yauli İli",
       "name_default": "Provincia de Yauli",
       "native": "Provincia de Yauli",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 40390,
@@ -543,7 +543,7 @@
     },
     {
       "id": 80956,
-      "name": "San Ramon",
+      "name": "San Ramón",
       "name_default": "San Ramón",
       "native": "San Ramón",
       "type": "city",

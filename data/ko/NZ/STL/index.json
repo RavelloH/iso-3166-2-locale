@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 79776,
-      "name": "절벽",
+      "name": "블러프",
       "name_default": "Bluff",
       "native": "Bluff",
       "type": "city",
@@ -82,7 +82,7 @@
     },
     {
       "id": 79797,
-      "name": "핏덩어리",
+      "name": "고어",
       "name_default": "Gore",
       "native": "Gore",
       "type": "city",
@@ -138,7 +138,7 @@
       "id": 79881,
       "name": "사우스랜드 지구",
       "name_default": "Southland",
-      "native": "Southland District",
+      "native": "Southland",
       "type": "district",
       "level": null,
       "parent_id": null,

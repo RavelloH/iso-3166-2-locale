@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111095,
-      "name": "Álamo",
+      "name": "Alamo",
       "name_default": "Alamo",
       "native": "Alamo",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111908,
-      "name": "Montanha da Batalha",
+      "name": "Battle Mountain",
       "name_default": "Battle Mountain",
       "native": "Battle Mountain",
       "type": "city",
@@ -307,7 +307,7 @@
     },
     {
       "id": 112602,
-      "name": "Cidade de Boulder",
+      "name": "Boulder City",
       "name_default": "Boulder City",
       "native": "Boulder City",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 113213,
-      "name": "Quente",
+      "name": "Caliente",
       "name_default": "Caliente",
       "native": "Caliente",
       "type": "city",
@@ -379,7 +379,7 @@
     },
     {
       "id": 113478,
-      "name": "Cidade de Carson",
+      "name": "Carson City",
       "name_default": "Carson City",
       "native": "Carson City",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 114389,
-      "name": "Fontes Frias",
+      "name": "Cold Springs",
       "name_default": "Cold Springs",
       "native": "Cold Springs",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 115768,
-      "name": "Vale do Leste",
+      "name": "East Valley",
       "name_default": "East Valley",
       "native": "East Valley",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 116149,
-      "name": "Empresa",
+      "name": "Enterprise",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 116237,
-      "name": "Eureca",
+      "name": "Eureka",
       "name_default": "Eureka",
       "native": "Eureka",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 116378,
-      "name": "Cair sobre",
+      "name": "Fallon",
       "name_default": "Fallon",
       "native": "Fallon",
       "type": "city",
@@ -577,7 +577,7 @@
     },
     {
       "id": 117079,
-      "name": "Ranchos Gardnerville",
+      "name": "Gardnerville Ranchos",
       "name_default": "Gardnerville Ranchos",
       "native": "Gardnerville Ranchos",
       "type": "city",
@@ -595,7 +595,7 @@
     },
     {
       "id": 117357,
-      "name": "Vale Dourado",
+      "name": "Golden Valley",
       "name_default": "Golden Valley",
       "native": "Golden Valley",
       "type": "city",
@@ -613,7 +613,7 @@
     },
     {
       "id": 117363,
-      "name": "Campo de ouro",
+      "name": "Goldfield",
       "name_default": "Goldfield",
       "native": "Goldfield",
       "type": "city",
@@ -667,7 +667,7 @@
     },
     {
       "id": 118888,
-      "name": "Vila Incline",
+      "name": "Incline Village",
       "name_default": "Incline Village",
       "native": "Incline Village",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 118909,
-      "name": "Colinas indianas",
+      "name": "Indian Hills",
       "name_default": "Indian Hills",
       "native": "Indian Hills",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 120185,
-      "name": "Rir",
+      "name": "Laughlin",
       "name_default": "Laughlin",
       "native": "Laughlin",
       "type": "city",
@@ -793,7 +793,7 @@
     },
     {
       "id": 120358,
-      "name": "Vale do Limão",
+      "name": "Lemmon Valley",
       "name_default": "Lemmon Valley",
       "native": "Lemmon Valley",
       "type": "city",
@@ -847,7 +847,7 @@
     },
     {
       "id": 121727,
-      "name": "Algaroba",
+      "name": "Mesquite",
       "name_default": "Mesquite",
       "native": "Mesquite",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 121930,
       "name": "Minden",
       "name_default": "Minden",
-      "native": "All",
+      "native": "Minden",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -883,9 +883,9 @@
     },
     {
       "id": 122007,
-      "name": "Cidade de Moapa",
+      "name": "Moapa Town",
       "name_default": "Moapa Town",
-      "native": "Moabo Town",
+      "native": "Moapa Town",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -901,9 +901,9 @@
     },
     {
       "id": 122008,
-      "name": "Vale de Moapa",
+      "name": "Moapa Valley",
       "name_default": "Moapa Valley",
-      "native": "Moab Valley",
+      "native": "Moapa Valley",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 122017,
-      "name": "Magnata",
+      "name": "Mogul",
       "name_default": "Mogul",
       "native": "Mogul",
       "type": "city",
@@ -937,7 +937,7 @@
     },
     {
       "id": 122622,
-      "name": "Base Aérea de Nellis",
+      "name": "Nellis Air Force Base",
       "name_default": "Nellis Air Force Base",
       "native": "Nellis Air Force Base",
       "type": "city",
@@ -955,7 +955,7 @@
     },
     {
       "id": 123052,
-      "name": "Norte de Las Vegas",
+      "name": "North Las Vegas",
       "name_default": "North Las Vegas",
       "native": "North Las Vegas",
       "type": "city",
@@ -991,7 +991,7 @@
     },
     {
       "id": 123819,
-      "name": "Paraíso",
+      "name": "Paradise",
       "name_default": "Paradise",
       "native": "Paradise",
       "type": "city",
@@ -1011,7 +1011,7 @@
       "id": 124273,
       "name": "Pioche",
       "name_default": "Pioche",
-      "native": "Pickaxe",
+      "native": "Pioche",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 125885,
-      "name": "Vale Sandy",
+      "name": "Sandy Valley",
       "name_default": "Sandy Valley",
       "native": "Sandy Valley",
       "type": "city",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 126510,
-      "name": "Ferreiro",
+      "name": "Smith",
       "name_default": "Smith",
       "native": "Smith",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 126517,
-      "name": "Vale Smith",
+      "name": "Smith Valley",
       "name_default": "Smith Valley",
       "native": "Smith Valley",
       "type": "city",
@@ -1117,7 +1117,7 @@
     },
     {
       "id": 126801,
-      "name": "Fontes Espanhóis",
+      "name": "Spanish Springs",
       "name_default": "Spanish Springs",
       "native": "Spanish Springs",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 126805,
-      "name": "Faíscas",
+      "name": "Sparks",
       "name_default": "Sparks",
       "native": "Sparks",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 126854,
-      "name": "Riacho da Primavera",
+      "name": "Spring Creek",
       "name_default": "Spring Creek",
       "native": "Spring Creek",
       "type": "city",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 126881,
-      "name": "Vale da Primavera",
+      "name": "Spring Valley",
       "name_default": "Spring Valley",
       "native": "Spring Valley",
       "type": "city",
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 126939,
-      "name": "Diligência",
+      "name": "Stagecoach",
       "name_default": "Stagecoach",
       "native": "Stagecoach",
       "type": "city",
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 127205,
-      "name": "Summerlin Sul",
+      "name": "Summerlin South",
       "name_default": "Summerlin South",
       "native": "Summerlin South",
       "type": "city",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 127242,
-      "name": "Vale do Sol",
+      "name": "Sun Valley",
       "name_default": "Sun Valley",
       "native": "Sun Valley",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 127269,
-      "name": "Mansão Sunrise",
+      "name": "Sunrise Manor",
       "name_default": "Sunrise Manor",
       "native": "Sunrise Manor",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 128290,
-      "name": "Cidade da Virgínia",
+      "name": "Virginia City",
       "name_default": "Virginia City",
       "native": "Virginia City",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 128783,
-      "name": "Poços",
+      "name": "Wells",
       "name_default": "Wells",
       "native": "Wells",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 129004,
-      "name": "Wendover Ocidental",
+      "name": "West Wendover",
       "name_default": "West Wendover",
       "native": "West Wendover",
       "type": "city",

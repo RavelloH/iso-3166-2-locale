@@ -92,24 +92,6 @@
       "country_id": 232
     },
     {
-      "id": 49406,
-      "name": "ईस्ट मोलेसी",
-      "name_default": "East Molesey",
-      "native": "East Molesey",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18565,
-      "latitude": "51.39872000",
-      "longitude": "-0.34916000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1967854",
-      "country_code": "GB",
-      "state_code": "KTT",
-      "state_id": 2481,
-      "country_id": 232
-    },
-    {
       "id": 49979,
       "name": "अंकुश",
       "name_default": "Hook",
@@ -128,8 +110,26 @@
       "country_id": 232
     },
     {
+      "id": 50180,
+      "name": "किंग्स्टन अपॉन टेम्स",
+      "name_default": "Kingston upon Thames",
+      "native": "Kingston upon Thames",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 10001,
+      "latitude": "51.41259000",
+      "longitude": "-0.29740000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2321706",
+      "country_code": "GB",
+      "state_code": "KTT",
+      "state_id": 2481,
+      "country_id": 232
+    },
+    {
       "id": 50689,
-      "name": "न्यू माल्डेन",
+      "name": "नया मॉल्डन",
       "name_default": "New Malden",
       "native": "New Malden",
       "type": "section",

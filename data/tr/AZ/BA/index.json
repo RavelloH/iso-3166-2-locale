@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 8042,
-      "name": "Amircan",
+      "name": "Amirdzhan",
       "name_default": "Amirdzhan",
-      "native": "Məzhəb",
+      "native": "Amirdzhan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 8053,
-      "name": "Bakıhanov",
+      "name": "Bakıxanov",
       "name_default": "Bakıxanov",
       "native": "Bakıxanov",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 8052,
-      "name": "Bakü",
+      "name": "Baku",
       "name_default": "Baku",
       "native": "Bakı",
       "type": "capital",
@@ -147,7 +147,7 @@
     },
     {
       "id": 8060,
-      "name": "Bilajari",
+      "name": "Bileceri",
       "name_default": "Bilajari",
       "native": "Biləcəri",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 8062,
-      "name": "Binegedi Rayonu",
+      "name": "Binagadi",
       "name_default": "Binagadi",
       "native": "Binəqədi",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 8063,
       "name": "Biny Selo",
       "name_default": "Biny Selo",
-      "native": "Kiçik Selo",
+      "native": "Biny Selo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 8100,
-      "name": "Hodzhi-Gasan",
+      "name": "Khojasan",
       "name_default": "Khojasan",
       "native": "XODZHİ-GASAN",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 8111,
-      "name": "Lökbatan",
+      "name": "Lokbatan",
       "name_default": "Lokbatan",
       "native": "Lökbatan",
       "type": "city",
@@ -401,7 +401,7 @@
       "id": 8134,
       "name": "Puta",
       "name_default": "Puta",
-      "native": "Lyuk",
+      "native": "Puta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,9 +417,9 @@
     },
     {
       "id": 8136,
-      "name": "Qala",
+      "name": "Kale",
       "name_default": "Qala",
-      "native": "Başlamaq",
+      "native": "Qala",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -435,7 +435,7 @@
     },
     {
       "id": 8142,
-      "name": "Karaçuxur",
+      "name": "Qaraçuxur",
       "name_default": "Qaraçuxur",
       "native": "Qaraçuxur",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 8168,
-      "name": "Sengeçal",
+      "name": "Sangaçal",
       "name_default": "Sanqaçal",
       "native": "Sanqaçal",
       "type": "city",

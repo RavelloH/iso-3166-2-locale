@@ -93,7 +93,7 @@
     },
     {
       "id": 135901,
-      "name": "Бастія амбра",
+      "name": "Бастія-Умбра",
       "name_default": "Bastia Umbra",
       "native": "Bastia Umbra",
       "type": "adm3",
@@ -237,7 +237,7 @@
     },
     {
       "id": 137045,
-      "name": "Касія",
+      "name": "Кашія",
       "name_default": "Cascia",
       "native": "Cascia",
       "type": "adm3",
@@ -255,7 +255,7 @@
     },
     {
       "id": 137147,
-      "name": "Кастель Рітальді",
+      "name": "Кастель-Ритальді",
       "name_default": "Castel Ritaldi",
       "native": "Castel Ritaldi",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 137353,
-      "name": "Кастільоне-дель-Лаго",
+      "name": "Кастільйоне-дель-Лаго",
       "name_default": "Castiglione del Lago",
       "native": "Castiglione del Lago",
       "type": "adm3",
@@ -363,7 +363,7 @@
     },
     {
       "id": 137764,
-      "name": "Сітерна",
+      "name": "Читерна",
       "name_default": "Citerna",
       "native": "Citerna",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 137773,
-      "name": "Місто П'єве",
+      "name": "Читта-делла-П'єве",
       "name_default": "Città della Pieve",
       "native": "Città della Pieve",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 137774,
-      "name": "Місто Кастелло",
+      "name": "Читта-ді-Кастелло",
       "name_default": "Città di Castello",
       "native": "Città di Castello",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 138582,
-      "name": "Фоліньо",
+      "name": "Фоліньйо",
       "name_default": "Foligno",
       "native": "Foligno",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 138721,
-      "name": "Фратта Тодіна",
+      "name": "Фратта-Тодіна",
       "name_default": "Fratta Todina",
       "native": "Fratta Todina",
       "type": "adm3",
@@ -615,7 +615,7 @@
     },
     {
       "id": 138943,
-      "name": "Джано-дель-Умбрія",
+      "name": "Джано-делл-Умбрія",
       "name_default": "Giano dell'Umbria",
       "native": "Giano dell'Umbria",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 139146,
-      "name": "Гуальдо Каттанео",
+      "name": "Гуальдо-Каттанео",
       "name_default": "Gualdo Cattaneo",
       "native": "Gualdo Cattaneo",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 139147,
-      "name": "Гуальдо Тадіно",
+      "name": "Гуальдо-Тадіно",
       "name_default": "Gualdo Tadino",
       "native": "Gualdo Tadino",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 139539,
-      "name": "Лішіано Нікконе",
+      "name": "Лішіано-Нікконе",
       "name_default": "Lisciano Niccone",
       "native": "Lisciano Niccone",
       "type": "adm3",
@@ -777,7 +777,7 @@
     },
     {
       "id": 139974,
-      "name": "Масса Мартана",
+      "name": "Масса-Мартана",
       "name_default": "Massa Martana",
       "native": "Massa Martana",
       "type": "adm3",
@@ -849,7 +849,7 @@
     },
     {
       "id": 140380,
-      "name": "Монте Санта-Марія-Тіберина",
+      "name": "Монте-Санта-Марія-Тіберина",
       "name_default": "Monte Santa Maria Tiberina",
       "native": "Monte Santa Maria Tiberina",
       "type": "adm3",
@@ -921,7 +921,7 @@
     },
     {
       "id": 140786,
-      "name": "Ночера Умбра",
+      "name": "Ночера-Умбра",
       "name_default": "Nocera Umbra",
       "native": "Nocera Umbra",
       "type": "adm3",
@@ -939,7 +939,7 @@
     },
     {
       "id": 140807,
-      "name": "Норсія",
+      "name": "Норчія",
       "name_default": "Norcia",
       "native": "Norcia",
       "type": "adm3",
@@ -1085,7 +1085,7 @@
       "id": 58283,
       "name": "Панталла",
       "name_default": "Pantalla",
-      "native": "Schermo",
+      "native": "Pantalla",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1157,7 +1157,7 @@
       "id": 58482,
       "name": "Петріньяно",
       "name_default": "Petrignano",
-      "native": "PetFrannano",
+      "native": "Petrignano",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1229,7 +1229,7 @@
       "id": 58715,
       "name": "Пістріно",
       "name_default": "Pistrino",
-      "native": "Forno",
+      "native": "Pistrino",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 59042,
-      "name": "Пресі",
+      "name": "Пречі",
       "name_default": "Preci",
       "native": "Preci",
       "type": "adm3",
@@ -1355,7 +1355,7 @@
       "id": 59444,
       "name": "Рівоторто",
       "name_default": "Rivotorto",
-      "native": "Rivototo",
+      "native": "Rivotorto",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 60642,
-      "name": "Шеджино",
+      "name": "Скеджно",
       "name_default": "Scheggino",
       "native": "Scheggino",
       "type": "adm3",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 60845,
-      "name": "Сігілло",
+      "name": "Сіджилло",
       "name_default": "Sigillo",
       "native": "Sigillo",
       "type": "adm3",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 61597,
-      "name": "Умбертід",
+      "name": "Умбертіде",
       "name_default": "Umbertide",
       "native": "Umbertide",
       "type": "adm3",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 61668,
-      "name": "Вальфабріка",
+      "name": "Вальфаббрика",
       "name_default": "Valfabbrica",
       "native": "Valfabbrica",
       "type": "adm3",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": 61742,
-      "name": "Валтопіна",
+      "name": "Вальтопіна",
       "name_default": "Valtopina",
       "native": "Valtopina",
       "type": "adm3",
@@ -1859,7 +1859,7 @@
       "id": 61898,
       "name": "Віа Ліппіа",
       "name_default": "Via Lippia",
-      "native": "Via Lia Cudi",
+      "native": "Via Lippia",
       "type": "city",
       "level": null,
       "parent_id": null,

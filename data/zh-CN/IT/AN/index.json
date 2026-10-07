@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 135320,
-      "name": "阿古利亚诺",
+      "name": "阿吉利亚诺",
       "name_default": "Agugliano",
       "native": "Agugliano",
       "type": "adm3",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135819,
-      "name": "芭芭拉",
+      "name": "巴尔巴拉",
       "name_default": "Barbara",
       "native": "Barbara",
       "type": "adm3",
@@ -129,7 +129,7 @@
     },
     {
       "id": 135964,
-      "name": "贝尔维德雷奥斯特伦塞",
+      "name": "贝尔韦德雷奥斯特伦塞",
       "name_default": "Belvedere Ostrense",
       "native": "Belvedere Ostrense",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 136582,
-      "name": "卡梅拉塔·皮切纳",
+      "name": "卡梅拉塔皮切纳",
       "name_default": "Camerata Picena",
       "native": "Camerata Picena",
       "type": "adm3",
@@ -221,7 +221,7 @@
       "id": 137071,
       "name": "卡西内",
       "name_default": "Casine",
-      "native": "Casina",
+      "native": "Casine",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 137178,
-      "name": "卡斯特尔贝利诺",
+      "name": "卡斯泰尔贝利诺",
       "name_default": "Castelbellino",
       "native": "Castelbellino",
       "type": "adm3",
@@ -273,7 +273,7 @@
     },
     {
       "id": 137227,
-      "name": "苏阿萨堡",
+      "name": "卡斯特莱奥内-迪苏阿萨",
       "name_default": "Castelleone di Suasa",
       "native": "Castelleone di Suasa",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 137568,
-      "name": "切雷托德西",
+      "name": "切雷托代西",
       "name_default": "Cerreto d'Esi",
       "native": "Cerreto d'Esi",
       "type": "adm3",
@@ -399,7 +399,7 @@
     },
     {
       "id": 138416,
-      "name": "法尔科纳拉·马里蒂马",
+      "name": "滨海法尔科纳拉",
       "name_default": "Falconara Marittima",
       "native": "Falconara Marittima",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 138896,
-      "name": "真伽",
+      "name": "真加",
       "name_default": "Genga",
       "native": "Genga",
       "type": "adm3",
@@ -453,7 +453,7 @@
     },
     {
       "id": 139278,
-      "name": "杰西",
+      "name": "耶西",
       "name_default": "Jesi",
       "native": "Jesi",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 139748,
-      "name": "马约拉蒂·斯蓬蒂尼",
+      "name": "马约拉蒂-斯邦蒂尼",
       "name_default": "Maiolati Spontini",
       "native": "Maiolati Spontini",
       "type": "adm3",
@@ -563,7 +563,7 @@
       "id": 139837,
       "name": "马塞利",
       "name_default": "Marcelli",
-      "native": "Toro",
+      "native": "Marcelli",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -617,7 +617,7 @@
       "id": 140203,
       "name": "莫伊",
       "name_default": "Moie",
-      "native": "Mattina",
+      "native": "Moie",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -651,7 +651,7 @@
     },
     {
       "id": 140366,
-      "name": "蒙特罗伯托",
+      "name": "蒙泰罗贝尔托",
       "name_default": "Monte Roberto",
       "native": "Monte Roberto",
       "type": "adm3",
@@ -669,7 +669,7 @@
     },
     {
       "id": 140378,
-      "name": "圣维托山",
+      "name": "蒙泰圣维托",
       "name_default": "Monte San Vito",
       "native": "Monte San Vito",
       "type": "adm3",
@@ -687,7 +687,7 @@
     },
     {
       "id": 140401,
-      "name": "蒙特卡罗托",
+      "name": "蒙泰卡罗托",
       "name_default": "Montecarotto",
       "native": "Montecarotto",
       "type": "adm3",
@@ -723,7 +723,7 @@
     },
     {
       "id": 140512,
-      "name": "蒙特拉多",
+      "name": "蒙泰拉多",
       "name_default": "Monterado",
       "native": "Monterado",
       "type": "adm3",
@@ -867,7 +867,7 @@
     },
     {
       "id": 141043,
-      "name": "奥斯特拉·韦特雷",
+      "name": "奥斯特拉韦泰雷",
       "name_default": "Ostra Vetere",
       "native": "Ostra Vetere",
       "type": "adm3",
@@ -993,7 +993,7 @@
     },
     {
       "id": 58763,
-      "name": "波焦圣马塞洛",
+      "name": "波焦圣马尔切洛",
       "name_default": "Poggio San Marcello",
       "native": "Poggio San Marcello",
       "type": "adm3",
@@ -1047,9 +1047,9 @@
     },
     {
       "id": 59409,
-      "name": "成熟",
+      "name": "里佩",
       "name_default": "Ripe",
-      "native": "Maturo",
+      "native": "Ripe",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 60058,
-      "name": "圣马塞洛",
+      "name": "圣马尔切洛",
       "name_default": "San Marcello",
       "native": "San Marcello",
       "type": "adm3",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 60162,
-      "name": "圣保罗·迪·耶西",
+      "name": "圣保洛迪耶西",
       "name_default": "San Paolo di Jesi",
       "native": "San Paolo di Jesi",
       "type": "adm3",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 60756,
-      "name": "孔蒂山脉",
+      "name": "塞拉德孔蒂",
       "name_default": "Serra de' Conti",
       "native": "Serra de' Conti",
       "type": "adm3",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 60753,
-      "name": "圣奎里科山脉",
+      "name": "塞拉圣奎里科",
       "name_default": "Serra San Quirico",
       "native": "Serra San Quirico",
       "type": "adm3",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 60875,
-      "name": "西罗洛",
+      "name": "锡罗洛",
       "name_default": "Sirolo",
       "native": "Sirolo",
       "type": "adm3",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 61051,
-      "name": "车站",
+      "name": "Stazione",
       "name_default": "Stazione",
       "native": "Stazione",
       "type": "city",

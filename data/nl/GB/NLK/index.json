@@ -201,7 +201,7 @@
     },
     {
       "id": 48858,
-      "name": "Karvin",
+      "name": "Carfin",
       "name_default": "Carfin",
       "native": "Carfin",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 48917,
-      "name": "Kapelzaal",
+      "name": "Chapelhall",
       "name_default": "Chapelhall",
       "native": "Chapelhall",
       "type": "city",
@@ -275,7 +275,7 @@
       "id": 49185,
       "name": "Croy",
       "name_default": "Croy",
-      "native": "Believer",
+      "native": "Croy",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -381,7 +381,7 @@
     },
     {
       "id": 49972,
-      "name": "Heilige stad",
+      "name": "Holytown",
       "name_default": "Holytown",
       "native": "Holytown",
       "type": "city",
@@ -398,8 +398,26 @@
       "country_id": 232
     },
     {
+      "id": 50154,
+      "name": "Kilsyth",
+      "name_default": "Kilsyth",
+      "native": "Kilsyth",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10080,
+      "latitude": "55.97596000",
+      "longitude": "-4.05916000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1010328",
+      "country_code": "GB",
+      "state_code": "NLK",
+      "state_id": 2487,
+      "country_id": 232
+    },
+    {
       "id": 50638,
-      "name": "Moederwell",
+      "name": "Motherwell",
       "name_default": "Motherwell",
       "native": "Motherwell",
       "type": "adm2",
@@ -417,7 +435,7 @@
     },
     {
       "id": 50696,
-      "name": "Nieuw Stevenston",
+      "name": "New Stevenston",
       "name_default": "New Stevenston",
       "native": "New Stevenston",
       "type": "city",
@@ -471,7 +489,7 @@
     },
     {
       "id": 50756,
-      "name": "Noord-Lanarkshire",
+      "name": "North Lanarkshire",
       "name_default": "North Lanarkshire",
       "native": "North Lanarkshire",
       "type": "area",
@@ -507,7 +525,7 @@
     },
     {
       "id": 50922,
-      "name": "Vlakten",
+      "name": "Plains",
       "name_default": "Plains",
       "native": "Plains",
       "type": "city",
@@ -525,7 +543,7 @@
     },
     {
       "id": 51185,
-      "name": "Salzburg",
+      "name": "Salsburgh",
       "name_default": "Salsburgh",
       "native": "Salsburgh",
       "type": "city",
@@ -561,7 +579,7 @@
     },
     {
       "id": 51718,
-      "name": "Uitzichtpark",
+      "name": "Viewpark",
       "name_default": "Viewpark",
       "native": "Viewpark",
       "type": "city",

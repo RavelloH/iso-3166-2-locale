@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104089,
-      "name": "Дата народження",
+      "name": "Доб",
       "name_default": "Dob",
       "native": "Dob",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 104244,
-      "name": "Радомльє",
+      "name": "Радомлє",
       "name_default": "Radomlje",
       "native": "Radomlje",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 104312,
-      "name": "Вір",
+      "name": "Вир",
       "name_default": "Vir",
-      "native": "Za",
+      "native": "Vir",
       "type": "city",
       "level": null,
       "parent_id": null,

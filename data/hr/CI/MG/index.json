@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 18874,
-      "name": "Bangalo",
+      "name": "Bangolo",
       "name_default": "Bangolo",
-      "native": "Les dons",
+      "native": "Bangolo",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -95,7 +95,7 @@
       "id": 18889,
       "name": "Cavally",
       "name_default": "Cavally",
-      "native": "Cavale",
+      "native": "Cavally",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 18907,
-      "name": "Guigló",
+      "name": "Guiglo",
       "name_default": "Guiglo",
       "native": "Ganglo",
       "type": "adm2",
@@ -183,9 +183,9 @@
     },
     {
       "id": 18919,
-      "name": "Čovjek",
+      "name": "Man",
       "name_default": "Man",
-      "native": "Homme",
+      "native": "Man",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 18938,
-      "name": "Toulépleu Guéré",
+      "name": "Toulépleu Gueré",
       "name_default": "Toulépleu Gueré",
       "native": "Toulépleu Gueré",
       "type": "city",

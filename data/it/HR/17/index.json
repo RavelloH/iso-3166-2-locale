@@ -77,7 +77,7 @@
       "id": 54407,
       "name": "Bol",
       "name_default": "Bol",
-      "native": "On je bio",
+      "native": "Bol",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 54473,
-      "name": "Dugopolje",
+      "name": "Dugopoglie",
       "name_default": "Dugopolje",
       "native": "Dugopolje",
       "type": "adm2",
@@ -275,7 +275,7 @@
       "id": 54519,
       "name": "Grad Hvar",
       "name_default": "Grad Hvar",
-      "native": "Stupanj HVAR -a",
+      "native": "Grad Hvar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -311,7 +311,7 @@
       "id": 54532,
       "name": "Grad Makarska",
       "name_default": "Grad Makarska",
-      "native": "Makarska diploma",
+      "native": "Grad Makarska",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -417,9 +417,9 @@
     },
     {
       "id": 54561,
-      "name": "Visura laureata",
+      "name": "Grad Vis",
       "name_default": "Grad Vis",
-      "native": "Stupanj",
+      "native": "Grad Vis",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -453,7 +453,7 @@
     },
     {
       "id": 54574,
-      "name": "Gradac",
+      "name": "Grado",
       "name_default": "Gradac",
       "native": "Gradac",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 54599,
-      "name": "Hrvace",
+      "name": "Ervazza",
       "name_default": "Hrvace",
       "native": "Hrvace",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 54601,
-      "name": "Hvar",
+      "name": "Lesina",
       "name_default": "Hvar",
       "native": "Hvar",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 54637,
-      "name": "Kaštel Gomilica",
+      "name": "Castell'Abbadessa",
       "name_default": "Kaštel Gomilica",
       "native": "Kaštel Gomilica",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 54638,
-      "name": "Kaštel Kambelovac",
+      "name": "Castel Cambio",
       "name_default": "Kaštel Kambelovac",
       "native": "Kaštel Kambelovac",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 54639,
-      "name": "Kaštel Lukšić",
+      "name": "Castel Vitturi",
       "name_default": "Kaštel Lukšić",
       "native": "Kaštel Lukšić",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 54640,
-      "name": "Kaštel Novi",
+      "name": "Castelnuovo",
       "name_default": "Kaštel Novi",
       "native": "Kaštel Novi",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 54642,
-      "name": "Kaštel Štafilić",
+      "name": "Castel Stafileo",
       "name_default": "Kaštel Štafilić",
       "native": "Kaštel Štafilić",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 54641,
-      "name": "Kaštel Stari",
+      "name": "Castelvecchio",
       "name_default": "Kaštel Stari",
       "native": "Kaštel Stari",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 54643,
-      "name": "Castelli",
+      "name": "Kaštela",
       "name_default": "Kaštela",
       "native": "Kaštela",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 54650,
-      "name": "Klis",
+      "name": "Clissa",
       "name_default": "Klis",
       "native": "Klis",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 54654,
-      "name": "Komiža",
+      "name": "Comisa",
       "name_default": "Komiža",
       "native": "Komiža",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 54710,
-      "name": "Macarsca",
+      "name": "Makarska",
       "name_default": "Makarska",
       "native": "Makarska",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 54772,
-      "name": "Distretto",
+      "name": "Okrug",
       "name_default": "Okrug",
       "native": "Okrug",
       "type": "adm2",
@@ -993,7 +993,7 @@
     },
     {
       "id": 54795,
-      "name": "Isola",
+      "name": "Otok",
       "name_default": "Otok",
       "native": "Otok",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 54829,
-      "name": "Postira",
+      "name": "Postire",
       "name_default": "Postira",
       "native": "Postira",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 54847,
-      "name": "Pučišća",
+      "name": "Pucischie",
       "name_default": "Pučišća",
       "native": "Pučišća",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 54881,
-      "name": "Selca",
+      "name": "Selza della Brazza",
       "name_default": "Selca",
       "native": "Selca",
       "type": "adm2",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": 54890,
-      "name": "Sinj",
+      "name": "Signo",
       "name_default": "Sinj",
       "native": "Sinj",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 54896,
-      "name": "Slatine",
+      "name": "Arona",
       "name_default": "Slatine",
       "native": "Slatine",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 55035,
-      "name": "Solta",
+      "name": "Šolta",
       "name_default": "Šolta",
       "native": "Šolta",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 54904,
-      "name": "Diviso",
+      "name": "Split",
       "name_default": "Split",
       "native": "Split",
       "type": "adm1",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 54907,
-      "name": "Stari Grad",
+      "name": "Cittavecchia",
       "name_default": "Stari Grad",
       "native": "Stari Grad",
       "type": "adm2",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 54923,
-      "name": "Supetar",
+      "name": "San Pietro di Brazza",
       "name_default": "Supetar",
       "native": "Supetar",
       "type": "adm2",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 54941,
-      "name": "Trilj",
+      "name": "Treglia",
       "name_default": "Trilj",
       "native": "Trilj",
       "type": "adm2",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 54942,
-      "name": "Traù",
+      "name": "Trogir",
       "name_default": "Trogir",
       "native": "Trogir",
       "type": "adm2",
@@ -1391,7 +1391,7 @@
       "id": 54945,
       "name": "Turjaci",
       "name_default": "Turjaci",
-      "native": "Travnjak",
+      "native": "Turjaci",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 54987,
-      "name": "Vranjic",
+      "name": "Vragnizza",
       "name_default": "Vranjic",
       "native": "Vranjic",
       "type": "city",

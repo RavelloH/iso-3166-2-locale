@@ -294,7 +294,7 @@
       "name": "Okres Bánovce nad Bebravou",
       "name_default": "Okres Bánovce nad Bebravou",
       "native": "Okres Bánovce nad Bebravou",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 34910,
@@ -330,7 +330,7 @@
       "name": "Okres Myjava",
       "name_default": "Okres Myjava",
       "native": "Okres Myjava",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 24809,
@@ -345,7 +345,7 @@
     },
     {
       "id": 104482,
-      "name": "Okres Nové Mesto nad Váhom",
+      "name": "Nové Mesto nad Váhom ili",
       "name_default": "Okres Nové Mesto nad Váhom",
       "native": "Okres Nové Mesto nad Váhom",
       "type": "area",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104484,
-      "name": "Okres Partizanske",
+      "name": "Partizánske ili",
       "name_default": "Okres Partizánske",
       "native": "Okres Partizánske",
       "type": "area",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104489,
-      "name": "Okres Považská Bystrica",
+      "name": "Považská Bystrica ili",
       "name_default": "Okres Považská Bystrica",
       "native": "Okres Považská Bystrica",
       "type": "area",
@@ -399,7 +399,7 @@
     },
     {
       "id": 104491,
-      "name": "Okres Prievidza",
+      "name": "Prievidza ili",
       "name_default": "Okres Prievidza",
       "native": "Okres Prievidza",
       "type": "area",
@@ -417,7 +417,7 @@
     },
     {
       "id": 104492,
-      "name": "Okres Púchov",
+      "name": "Púchov ili",
       "name_default": "Okres Púchov",
       "native": "Okres Púchov",
       "type": "area",
@@ -435,7 +435,7 @@
     },
     {
       "id": 104508,
-      "name": "Okres Trenčín",
+      "name": "Trenčín ili",
       "name_default": "Okres Trenčín",
       "native": "Okres Trenčín",
       "type": "area",
@@ -453,7 +453,7 @@
     },
     {
       "id": 104523,
-      "name": "Partizanske",
+      "name": "Partizánske",
       "name_default": "Partizánske",
       "native": "Partizánske",
       "type": "adm2",

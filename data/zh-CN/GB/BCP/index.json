@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48561,
-      "name": "布兰德福德论坛",
-      "name_default": "Blandford Forum",
-      "native": "Blandford Forum",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10607,
-      "latitude": "50.86073000",
-      "longitude": "-2.16174000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q644530",
-      "country_code": "GB",
-      "state_code": "BCP",
-      "state_id": 5459,
-      "country_id": 232
-    },
-    {
       "id": 48625,
       "name": "伯恩茅斯",
       "name_default": "Bournemouth",
@@ -93,7 +75,7 @@
     },
     {
       "id": 48713,
-      "name": "布罗德斯通",
+      "name": "布拉斯通",
       "name_default": "Broadstone",
       "native": "Broadstone",
       "type": "city",
@@ -111,7 +93,7 @@
     },
     {
       "id": 48844,
-      "name": "坎福德希思",
+      "name": "康福特希斯",
       "name_default": "Canford Heath",
       "native": "Canford Heath",
       "type": "section",
@@ -200,24 +182,6 @@
       "country_id": 232
     },
     {
-      "id": 49547,
-      "name": "芬当",
-      "name_default": "Ferndown",
-      "native": "Ferndown",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 17650,
-      "latitude": "50.80743000",
-      "longitude": "-1.89975000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1406936",
-      "country_code": "GB",
-      "state_code": "BCP",
-      "state_id": 5459,
-      "country_id": 232
-    },
-    {
       "id": 50855,
       "name": "帕克斯通",
       "name_default": "Parkstone",
@@ -273,7 +237,7 @@
     },
     {
       "id": 51528,
-      "name": "斯沃尼奇",
+      "name": "斯旺纳奇",
       "name_default": "Swanage",
       "native": "Swanage",
       "type": "city",
@@ -290,26 +254,8 @@
       "country_id": 232
     },
     {
-      "id": 51716,
-      "name": "弗伍德",
-      "name_default": "Verwood",
-      "native": "Wrecked",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 15172,
-      "latitude": "50.87575000",
-      "longitude": "-1.87023000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1242850",
-      "country_code": "GB",
-      "state_code": "BCP",
-      "state_id": 5459,
-      "country_id": 232
-    },
-    {
       "id": 51917,
-      "name": "温伯恩大教堂",
+      "name": "温伯恩明斯特",
       "name_default": "Wimborne Minster",
       "native": "Wimborne Minster",
       "type": "city",

@@ -147,7 +147,7 @@
     },
     {
       "id": 90061,
-      "name": "Barselona",
+      "name": "Barcea",
       "name_default": "Barcea",
       "native": "Barcea",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 90763,
-      "name": "Cişmele",
+      "name": "Cișmele",
       "name_default": "Cișmele",
       "native": "Cișmele",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 90937,
-      "name": "Barcea Mahallesi",
+      "name": "Comuna Barcea",
       "name_default": "Comuna Barcea",
       "native": "Comuna Barcea",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 91131,
-      "name": "Buciumeni Mahallesi",
+      "name": "Comuna Buciumeni",
       "name_default": "Comuna Buciumeni",
       "native": "Comuna Buciumeni",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 91445,
-      "name": "Corod Topluluğu",
+      "name": "Comuna Corod",
       "name_default": "Comuna Corod",
       "native": "Comuna Corod",
       "type": "city",
@@ -651,7 +651,7 @@
     },
     {
       "id": 91519,
-      "name": "Cuca Mahallesi",
+      "name": "Comuna Cuca",
       "name_default": "Comuna Cuca",
       "native": "Comuna Cuca",
       "type": "adm2",
@@ -669,9 +669,9 @@
     },
     {
       "id": 91521,
-      "name": "Cudalbi Mahallesi",
+      "name": "Comuna Cudalbi",
       "name_default": "Comuna Cudalbi",
-      "native": "Laș comun",
+      "native": "Comuna Cudalbi",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -777,7 +777,7 @@
     },
     {
       "id": 91800,
-      "name": "Topluluk Fonları",
+      "name": "Comuna Fundeni",
       "name_default": "Comuna Fundeni",
       "native": "Comuna Fundeni",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 91853,
-      "name": "Ghidigeni Mahallesi",
+      "name": "Comuna Ghidigeni",
       "name_default": "Comuna Ghidigeni",
       "native": "Comuna Ghidigeni",
       "type": "adm2",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 92587,
-      "name": "Piscu Mahallesi",
+      "name": "Comuna Piscu",
       "name_default": "Comuna Piscu",
       "native": "Comuna Piscu",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 92622,
-      "name": "Poiana Mahallesi",
+      "name": "Comuna Poiana",
       "name_default": "Comuna Poiana",
       "native": "Comuna Poiana",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 92885,
-      "name": "Topluluk Şeması",
+      "name": "Comuna Schela",
       "name_default": "Comuna Schela",
       "native": "Comuna Schela",
       "type": "adm2",
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 93025,
-      "name": "Suceveni Mahallesi",
+      "name": "Comuna Suceveni",
       "name_default": "Comuna Suceveni",
       "native": "Comuna Suceveni",
       "type": "adm2",
@@ -1445,7 +1445,7 @@
       "id": 93637,
       "name": "Corni",
       "name_default": "Corni",
-      "native": "Coarne",
+      "native": "Corni",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 93646,
-      "name": "Korod",
+      "name": "Corod",
       "name_default": "Corod",
       "native": "Corod",
       "type": "adm2",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": 94242,
-      "name": "Fantânele",
+      "name": "Fântânele",
       "name_default": "Fântânele",
       "native": "Fântânele",
       "type": "city",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 94665,
-      "name": "Bağımsızlık",
+      "name": "Independenţa",
       "name_default": "Independenţa",
       "native": "Independenţa",
       "type": "adm2",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 94696,
-      "name": "İveşti",
+      "name": "Iveşti",
       "name_default": "Iveşti",
       "native": "Iveşti",
       "type": "adm2",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 94934,
-      "name": "Matça",
+      "name": "Matca",
       "name_default": "Matca",
       "native": "Matca",
       "type": "adm2",
@@ -1983,9 +1983,9 @@
     },
     {
       "id": 95076,
-      "name": "Cami",
+      "name": "Moscu",
       "name_default": "Moscu",
-      "native": "Muşchi",
+      "native": "Moscu",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 95186,
-      "name": "Tecuci Belediyesi",
+      "name": "Municipiul Tecuci",
       "name_default": "Municipiul Tecuci",
       "native": "Municipiul Tecuci",
       "type": "adm2",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": 95323,
-      "name": "Negrileşti",
+      "name": "Negrilești",
       "name_default": "Negrilești",
       "native": "Negrilești",
       "type": "adm2",
@@ -2235,9 +2235,9 @@
     },
     {
       "id": 95797,
-      "name": "Balık",
+      "name": "Piscu",
       "name_default": "Piscu",
-      "native": "La scriitor",
+      "native": "Piscu",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2291,7 +2291,7 @@
       "id": 95953,
       "name": "Priponeşti",
       "name_default": "Priponeşti",
-      "native": "Patch -uri",
+      "native": "Priponeşti",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -2361,7 +2361,7 @@
     },
     {
       "id": 96268,
-      "name": "Şema",
+      "name": "Schela",
       "name_default": "Schela",
       "native": "Schela",
       "type": "adm2",

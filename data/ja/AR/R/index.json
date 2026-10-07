@@ -224,7 +224,7 @@
     },
     {
       "id": 764,
-      "name": "チョーレ・チョーレ",
+      "name": "チョエーレ・チョエル",
       "name_default": "Choele Choel",
       "native": "Choele Choel",
       "type": "adm2",
@@ -260,7 +260,7 @@
     },
     {
       "id": 770,
-      "name": "チポレッティ",
+      "name": "シポジェッティ",
       "name_default": "Cipolletti",
       "native": "Cipolletti",
       "type": "city",
@@ -316,7 +316,7 @@
       "id": 798,
       "name": "コロネル・ベリスル",
       "name_default": "Coronel Belisle",
-      "native": "Belisle de coronel",
+      "native": "Coronel Belisle",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -353,7 +353,7 @@
       "name": "アベジャネーダ県",
       "name_default": "Departamento de Avellaneda",
       "native": "Departamento de Avellaneda",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 41352,
@@ -476,7 +476,7 @@
     },
     {
       "id": 1103,
-      "name": "フェルナンデス・オロ将軍",
+      "name": "ヘネラル・フェルナンデス・オロ",
       "name_default": "General Fernández Oro",
       "native": "General Fernández Oro",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1112,
-      "name": "ロカ将軍",
+      "name": "ヘネラル・ロカ",
       "name_default": "General Roca",
       "native": "General Roca",
       "type": "city",
@@ -512,7 +512,7 @@
     },
     {
       "id": 1152,
-      "name": "インジェニエロ・ヤコバッチ",
+      "name": "インヘニェロ・ハコバクシ",
       "name_default": "Ingeniero Jacobacci",
       "native": "Ingeniero Jacobacci",
       "type": "city",
@@ -586,7 +586,7 @@
       "id": 1263,
       "name": "メインケ",
       "name_default": "Mainqué",
-      "native": "Mano",
+      "native": "Mainqué",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -602,7 +602,7 @@
     },
     {
       "id": 1268,
-      "name": "マシンチャオ",
+      "name": "マキンチャオ",
       "name_default": "Maquinchao",
       "native": "Maquinchao",
       "type": "adm2",
@@ -656,7 +656,7 @@
     },
     {
       "id": 1389,
-      "name": "リオコロラド",
+      "name": "リオ・コロラド",
       "name_default": "Río Colorado",
       "native": "Río Colorado",
       "type": "adm2",
@@ -674,7 +674,7 @@
     },
     {
       "id": 1409,
-      "name": "サンアントニオオエステ",
+      "name": "サン・アントニオ・オエステ",
       "name_default": "San Antonio Oeste",
       "native": "San Antonio Oeste",
       "type": "adm2",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1418,
-      "name": "サンカルロスデバリローチェ",
+      "name": "サン・カルロス・デ・バリローチェ",
       "name_default": "San Carlos de Bariloche",
       "native": "San Carlos de Bariloche",
       "type": "adm3",
@@ -746,7 +746,7 @@
     },
     {
       "id": 1525,
-      "name": "ヴァルチェタ",
+      "name": "バルチェタ",
       "name_default": "Valcheta",
       "native": "Valcheta",
       "type": "adm2",
@@ -782,7 +782,7 @@
     },
     {
       "id": 1574,
-      "name": "ヴィラ レジーナ",
+      "name": "ビジャ・レヒーナ",
       "name_default": "Villa Regina",
       "native": "Villa regina",
       "type": "city",

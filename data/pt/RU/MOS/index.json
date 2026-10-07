@@ -322,7 +322,7 @@
     },
     {
       "id": 97665,
-      "name": "Arkhangel'skoye",
+      "name": "Arkhangel’skoye",
       "name_default": "Arkhangel’skoye",
       "native": "Архангельское",
       "type": "city",
@@ -412,7 +412,7 @@
     },
     {
       "id": 97723,
-      "name": "Autopoligon",
+      "name": "Avtopoligon",
       "name_default": "Avtopoligon",
       "native": "Автополигон",
       "type": "city",
@@ -484,7 +484,7 @@
     },
     {
       "id": 97774,
-      "name": "Okrug Urbano de Balashikha",
+      "name": "Balashikha Urban Okrug",
       "name_default": "Balashikha Urban Okrug",
       "native": "Городской округ Балашиха",
       "type": "city",
@@ -646,7 +646,7 @@
     },
     {
       "id": 98013,
-      "name": "Bol'shoye Gryzlovo",
+      "name": "Bol’shoye Gryzlovo",
       "name_default": "Bol’shoye Gryzlovo",
       "native": "Большое Грызлово",
       "type": "city",
@@ -664,7 +664,7 @@
     },
     {
       "id": 97998,
-      "name": "Bolchevo",
+      "name": "Bolshevo",
       "name_default": "Bolshevo",
       "native": "Болшево",
       "type": "section",
@@ -772,7 +772,7 @@
     },
     {
       "id": 98135,
-      "name": "Tchekhov",
+      "name": "Chekhov",
       "name_default": "Chekhov",
       "native": "Чехов",
       "type": "adm2",
@@ -790,7 +790,7 @@
     },
     {
       "id": 98161,
-      "name": "Tcherkizovo",
+      "name": "Cherkizovo",
       "name_default": "Cherkizovo",
       "native": "Черкизово",
       "type": "city",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": 98386,
-      "name": "Eletrostal’",
+      "name": "Elektrostal’",
       "name_default": "Elektrostal’",
       "native": "Электросталь",
       "type": "adm2",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 98387,
-      "name": "Elektrougli",
+      "name": "Elektroiugli",
       "name_default": "Elektrougli",
       "native": "Электроугли",
       "type": "city",
@@ -1330,7 +1330,7 @@
     },
     {
       "id": 98439,
-      "name": "Frianovo",
+      "name": "Fryanovo",
       "name_default": "Fryanovo",
       "native": "Фряново",
       "type": "city",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": 98440,
-      "name": "Friazevo",
+      "name": "Fryazevo",
       "name_default": "Fryazevo",
       "native": "Фрязево",
       "type": "city",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": 98506,
-      "name": "Golitsyno",
+      "name": "Golitsino",
       "name_default": "Golitsyno",
       "native": "Голицыно",
       "type": "city",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 98625,
-      "name": "Gzhel'",
+      "name": "Gzhel’",
       "name_default": "Gzhel’",
       "native": "Гжель",
       "type": "city",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": 98653,
-      "name": "Il'inskiy",
+      "name": "Il’inskiy",
       "name_default": "Il’inskiy",
       "native": "Ильинский",
       "type": "city",
@@ -1528,7 +1528,7 @@
     },
     {
       "id": 98654,
-      "name": "Il'inskiy Pogost",
+      "name": "Il’inskiy Pogost",
       "name_default": "Il’inskiy Pogost",
       "native": "Ильинский погост",
       "type": "city",
@@ -1546,7 +1546,7 @@
     },
     {
       "id": 98657,
-      "name": "Il'inskoye",
+      "name": "Il’inskoye",
       "name_default": "Il’inskoye",
       "native": "Ильинское",
       "type": "city",
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 98981,
-      "name": "Okrug Urbano de Khimki",
+      "name": "Khimki Urban Okrug",
       "name_default": "Khimki Urban Okrug",
       "native": "Химкинский городской округ",
       "type": "adm2",
@@ -2032,7 +2032,7 @@
     },
     {
       "id": 99215,
-      "name": "Korolyov",
+      "name": "Korolev",
       "name_default": "Korolyov",
       "native": "Королев",
       "type": "adm2",
@@ -2086,7 +2086,7 @@
     },
     {
       "id": 99245,
-      "name": "Kotel'niki",
+      "name": "Kotel’niki",
       "name_default": "Kotel’niki",
       "native": "Котельники",
       "type": "section",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": 99728,
-      "name": "L'vovskiy",
+      "name": "L’vovskiy",
       "name_default": "L’vovskiy",
       "native": "Львовский",
       "type": "city",
@@ -2403,24 +2403,6 @@
       "longitude": "37.58333000",
       "timezone": "Europe/Moscow",
       "wikiDataId": "Q2627647",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
-      "id": 99575,
-      "name": "Leninskiye Gory",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
       "country_code": "RU",
       "state_code": "MOS",
       "state_id": 1882,
@@ -2680,7 +2662,7 @@
     },
     {
       "id": 99714,
-      "name": "Lyubertsy",
+      "name": "Liubertsi",
       "name_default": "Lyubertsy",
       "native": "Люберцы",
       "type": "adm2",
@@ -2824,7 +2806,7 @@
     },
     {
       "id": 99847,
-      "name": "Medvezh'i Ozëra",
+      "name": "Medvezh’i Ozëra",
       "name_default": "Medvezh’i Ozëra",
       "native": "Медвежьи Озёра",
       "type": "city",
@@ -2986,7 +2968,7 @@
     },
     {
       "id": 99985,
-      "name": "Mozhaysk",
+      "name": "Mojaisk",
       "name_default": "Mozhaysk",
       "native": "Можайск",
       "type": "adm2",
@@ -3040,7 +3022,7 @@
     },
     {
       "id": 100034,
-      "name": "Mytishchi",
+      "name": "Mitischi",
       "name_default": "Mytishchi",
       "native": "Мытищи",
       "type": "adm2",
@@ -3184,7 +3166,7 @@
     },
     {
       "id": 100191,
-      "name": "Noginsk",
+      "name": "Noguinsk",
       "name_default": "Noginsk",
       "native": "Ногинск",
       "type": "adm2",
@@ -3238,7 +3220,7 @@
     },
     {
       "id": 100218,
-      "name": "Novo-Nikol'skoye",
+      "name": "Novo-Nikol’skoye",
       "name_default": "Novo-Nikol’skoye",
       "native": "Ново-Никольское",
       "type": "city",
@@ -3310,7 +3292,7 @@
     },
     {
       "id": 100307,
-      "name": "Novosin'kovo",
+      "name": "Novosin’kovo",
       "name_default": "Novosin’kovo",
       "native": "Новосиньково",
       "type": "city",
@@ -3364,7 +3346,7 @@
     },
     {
       "id": 100367,
-      "name": "Nudol'",
+      "name": "Nudol’",
       "name_default": "Nudol’",
       "native": "Нудоль",
       "type": "city",
@@ -3454,7 +3436,7 @@
     },
     {
       "id": 100412,
-      "name": "Oktyabr'skiy",
+      "name": "Oktyabr’skiy",
       "name_default": "Oktyabr’skiy",
       "native": "Октябрьский",
       "type": "city",
@@ -3544,7 +3526,7 @@
     },
     {
       "id": 100481,
-      "name": "Orud'yevo",
+      "name": "Orud’yevo",
       "name_default": "Orud’yevo",
       "native": "Орудьево",
       "type": "city",
@@ -3616,7 +3598,7 @@
     },
     {
       "id": 100521,
-      "name": "Ozherel'ye",
+      "name": "Ozherel’ye",
       "name_default": "Ozherel’ye",
       "native": "Ожерелье",
       "type": "city",
@@ -3634,7 +3616,7 @@
     },
     {
       "id": 100522,
-      "name": "Distrito Urbano de Ozyory",
+      "name": "Ozyory Urban Okrug",
       "name_default": "Ozyory Urban Okrug",
       "native": "Озёрский городской округ",
       "type": "city",
@@ -3778,7 +3760,7 @@
     },
     {
       "id": 100657,
-      "name": "Petrovo-Dal'neye",
+      "name": "Petrovo-Dal’neye",
       "name_default": "Petrovo-Dal’neye",
       "native": "Петрово-Дальнее",
       "type": "city",
@@ -3886,7 +3868,7 @@
     },
     {
       "id": 100788,
-      "name": "Posëlok Mar'ino",
+      "name": "Posëlok Mar’ino",
       "name_default": "Posëlok Mar’ino",
       "native": "Поселок Марьино",
       "type": "city",
@@ -4264,7 +4246,7 @@
     },
     {
       "id": 100981,
-      "name": "Rogachevo",
+      "name": "Rogachëvo",
       "name_default": "Rogachëvo",
       "native": "Рогачево",
       "type": "city",
@@ -4282,7 +4264,7 @@
     },
     {
       "id": 100997,
-      "name": "Roshal'",
+      "name": "Roshal’",
       "name_default": "Roshal’",
       "native": "Рошаль",
       "type": "city",
@@ -4552,7 +4534,7 @@
     },
     {
       "id": 101182,
-      "name": "Sergiyev Posad",
+      "name": "Serguiev Possad",
       "name_default": "Sergiyev Posad",
       "native": "Сергиев Посад",
       "type": "adm2",
@@ -4642,7 +4624,7 @@
     },
     {
       "id": 101232,
-      "name": "Shaburno",
+      "name": "Shaburnovo",
       "name_default": "Shaburnovo",
       "native": "Шабурново",
       "type": "city",
@@ -4750,7 +4732,7 @@
     },
     {
       "id": 101275,
-      "name": "Shchelkovo",
+      "name": "Schiolkovo",
       "name_default": "Shchyolkovo",
       "native": "Щелково",
       "type": "city",
@@ -4786,7 +4768,7 @@
     },
     {
       "id": 101306,
-      "name": "Sheremet'yevskiy",
+      "name": "Sheremet’yevskiy",
       "name_default": "Sheremet’yevskiy",
       "native": "Шереметьевский",
       "type": "city",
@@ -5020,7 +5002,7 @@
     },
     {
       "id": 101638,
-      "name": "Estupino",
+      "name": "Stupino",
       "name_default": "Stupino",
       "native": "Ступино",
       "type": "adm2",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "Vostryakovo",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "Vysokovsk",
       "name_default": "Vysokovsk",
@@ -5542,7 +5506,7 @@
     },
     {
       "id": 102465,
-      "name": "Yakhroma",
+      "name": "Iakhroma",
       "name_default": "Yakhroma",
       "native": "Яхрома",
       "type": "city",
@@ -5578,9 +5542,9 @@
     },
     {
       "id": 102477,
-      "name": "Inhame",
+      "name": "Yam",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5632,7 +5596,7 @@
     },
     {
       "id": 102525,
-      "name": "Yegor'yevsk",
+      "name": "Yegor’yevsk",
       "name_default": "Yegor’yevsk",
       "native": "Егорьевск",
       "type": "adm2",
@@ -5758,7 +5722,7 @@
     },
     {
       "id": 102650,
-      "name": "Zaraysk",
+      "name": "Zaraisca",
       "name_default": "Zaraysk",
       "native": "Зарайск",
       "type": "adm2",
@@ -5776,7 +5740,7 @@
     },
     {
       "id": 102656,
-      "name": "Zarech'ye",
+      "name": "Zarech’ye",
       "name_default": "Zarech’ye",
       "native": "Заречье",
       "type": "city",
@@ -5920,7 +5884,7 @@
     },
     {
       "id": 102743,
-      "name": "Zhukovskiy",
+      "name": "Jukovsky",
       "name_default": "Zhukovsky",
       "native": "Жуковский",
       "type": "city",

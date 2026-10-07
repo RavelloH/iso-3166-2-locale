@@ -270,7 +270,7 @@
     },
     {
       "id": 10277,
-      "name": "Антониу Жуан",
+      "name": "Антониу-Жуан",
       "name_default": "Antônio João",
       "native": "Antônio João",
       "type": "city",
@@ -377,24 +377,6 @@
       "country_id": 31
     },
     {
-      "id": 10580,
-      "name": "Батайпоран",
-      "name_default": "Bataiporã",
-      "native": "Breakbong quebrado",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10712,
-      "latitude": "-22.29528000",
-      "longitude": "-53.27111000",
-      "timezone": "America/Campo_Grande",
-      "wikiDataId": "Q1796657",
-      "country_code": "BR",
-      "state_code": "MS",
-      "state_id": 2010,
-      "country_id": 31
-    },
-    {
       "id": 10584,
       "name": "Батайпора",
       "name_default": "Batayporã",
@@ -413,8 +395,26 @@
       "country_id": 31
     },
     {
+      "id": 10580,
+      "name": "Батайпоран",
+      "name_default": "Batayporã",
+      "native": "Batayporã",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10712,
+      "latitude": "-22.29528000",
+      "longitude": "-53.27111000",
+      "timezone": "America/Campo_Grande",
+      "wikiDataId": "Q1796657",
+      "country_code": "BR",
+      "state_code": "MS",
+      "state_id": 2010,
+      "country_id": 31
+    },
+    {
       "id": 10594,
-      "name": "Бела Виста",
+      "name": "Бела-Виста",
       "name_default": "Bela Vista",
       "native": "Bela Vista",
       "type": "city",
@@ -450,7 +450,7 @@
     },
     {
       "id": 10737,
-      "name": "Бонито",
+      "name": "Бониту",
       "name_default": "Bonito",
       "native": "Bonito",
       "type": "city",
@@ -522,7 +522,7 @@
     },
     {
       "id": 10989,
-      "name": "Кампо-Гранде",
+      "name": "Кампу-Гранди",
       "name_default": "Campo Grande",
       "native": "Campo Grande",
       "type": "adm1",
@@ -560,7 +560,7 @@
       "id": 11102,
       "name": "Караколь",
       "name_default": "Caracol",
-      "native": "Lesma",
+      "native": "Caracol",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -576,7 +576,7 @@
     },
     {
       "id": 11183,
-      "name": "Кассиландия",
+      "name": "Касиландия",
       "name_default": "Cassilândia",
       "native": "Cassilândia",
       "type": "city",
@@ -684,7 +684,7 @@
     },
     {
       "id": 11458,
-      "name": "Коксим",
+      "name": "Кошин",
       "name_default": "Coxim",
       "native": "Coxim",
       "type": "city",
@@ -756,7 +756,7 @@
     },
     {
       "id": 11654,
-      "name": "Доурадос",
+      "name": "Дорадус",
       "name_default": "Dourados",
       "native": "Dourados",
       "type": "city",
@@ -774,7 +774,7 @@
     },
     {
       "id": 11677,
-      "name": "Эльдорадо",
+      "name": "Элдораду",
       "name_default": "Eldorado",
       "native": "Eldorado",
       "type": "city",
@@ -990,7 +990,7 @@
     },
     {
       "id": 12583,
-      "name": "Жардим",
+      "name": "Жардин",
       "name_default": "Jardim",
       "native": "Jardim",
       "type": "city",
@@ -1028,7 +1028,7 @@
       "id": 12711,
       "name": "Джути",
       "name_default": "Juti",
-      "native": "Vem.",
+      "native": "Juti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1116,7 +1116,7 @@
     },
     {
       "id": 13270,
-      "name": "Новый мир",
+      "name": "Мунду-Нову",
       "name_default": "Mundo Novo",
       "native": "Mundo Novo",
       "type": "city",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": 13647,
-      "name": "Параньос",
+      "name": "Параньюс",
       "name_default": "Paranhos",
       "native": "Paranhos",
       "type": "city",
@@ -1296,7 +1296,7 @@
     },
     {
       "id": 13958,
-      "name": "Понта Поран",
+      "name": "Понта-Поран",
       "name_default": "Ponta Porã",
       "native": "Ponta Porã",
       "type": "city",
@@ -1332,7 +1332,7 @@
     },
     {
       "id": 14011,
-      "name": "Порту Муртинью",
+      "name": "Порту-Муртинью",
       "name_default": "Porto Murtinho",
       "native": "Porto Murtinho",
       "type": "city",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": 14230,
-      "name": "Рибас-ду-Рио-Парду",
+      "name": "Рибас-ду-Риу-Парду",
       "name_default": "Ribas do Rio Pardo",
       "native": "Ribas do Rio Pardo",
       "type": "city",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": 14267,
-      "name": "Рио-Брильанте",
+      "name": "Риу-Брильянти",
       "name_default": "Rio Brilhante",
       "native": "Rio Brilhante",
       "type": "city",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": 14284,
-      "name": "Рио-Негро",
+      "name": "Риу-Негру",
       "name_default": "Rio Negro",
       "native": "Rio Negro",
       "type": "city",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": 14301,
-      "name": "Рио-Верде-де-Мату-Гросу",
+      "name": "Риу-Верди-ди-Мату-Гросу",
       "name_default": "Rio Verde de Mato Grosso",
       "native": "Rio Verde de Mato Grosso",
       "type": "city",

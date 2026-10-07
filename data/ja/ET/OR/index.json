@@ -221,7 +221,7 @@
       "id": 38601,
       "name": "ベデレ",
       "name_default": "Bedelē",
-      "native": "ደመወዝ",
+      "native": "በደሌ ከተማ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 38605,
-      "name": "ビショフトゥ",
+      "name": "デブレ・ゼイト",
       "name_default": "Bishoftu",
       "native": "ቢሾፍቱ",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 38623,
-      "name": "ドドラ",
+      "name": "ドローラ",
       "name_default": "Dodola",
       "native": "ዶዶላ",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 38626,
-      "name": "東ハレルゲゾーン",
+      "name": "East Harerghe Zone",
       "name_default": "East Harerghe Zone",
       "native": "ምስራቅ ሀረርጋ ዞን",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 38627,
-      "name": "東シェワゾーン",
+      "name": "East Shewa Zone",
       "name_default": "East Shewa Zone",
       "native": "ምስራቅ ሸዋ ዞን",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 38628,
-      "name": "東ウェレガゾーン",
+      "name": "East Wellega Zone",
       "name_default": "East Wellega Zone",
       "native": "ምስራቅ ዌልጋ ዞን",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 38638,
-      "name": "ギンビ",
+      "name": "ジンビ",
       "name_default": "Gimbi",
       "native": "ጠፍቷል",
       "type": "city",
@@ -545,7 +545,7 @@
       "id": 38640,
       "name": "ゴバ",
       "name_default": "Goba",
-      "native": "ሁን",
+      "native": "ጎባ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -579,7 +579,7 @@
     },
     {
       "id": 38643,
-      "name": "ゴレ",
+      "name": "ゴール",
       "name_default": "Gorē",
       "native": "ጎሬ",
       "type": "city",
@@ -633,9 +633,9 @@
     },
     {
       "id": 38654,
-      "name": "ハゲレ・ヒウェト",
+      "name": "アンボ",
       "name_default": "Hāgere Hiywet",
-      "native": "የፈረስ ወሬ",
+      "native": "አምቦ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -741,7 +741,7 @@
     },
     {
       "id": 38660,
-      "name": "ジマ",
+      "name": "ジンマ",
       "name_default": "Jimma",
       "native": "ጂም",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 38687,
-      "name": "北シェワゾーン",
+      "name": "North Shewa Zone",
       "name_default": "North Shewa Zone",
       "native": "ሰሜን ሸዋ ዞን",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 38695,
-      "name": "シャシェメネ",
+      "name": "シャシャメイン",
       "name_default": "Shashamane",
       "native": "ሻሽሜን",
       "type": "city",
@@ -1147,7 +1147,7 @@
       "latitude": "8.31667000",
       "longitude": "39.48333000",
       "timezone": "Africa/Addis_Ababa",
-      "wikiDataId": "Q1070673",
+      "wikiDataId": null,
       "country_code": "ET",
       "state_code": "OR",
       "state_id": 5,
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 38714,
-      "name": "西ハレルゲゾーン",
+      "name": "West Harerghe Zone",
       "name_default": "West Harerghe Zone",
       "native": "ዌስት ሀረራልሄ ዞን",
       "type": "city",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 38715,
-      "name": "西ウェレガゾーン",
+      "name": "West Wellega Zone",
       "name_default": "West Wellega Zone",
       "native": "የምእራብ ወለጋ ዞን",
       "type": "city",

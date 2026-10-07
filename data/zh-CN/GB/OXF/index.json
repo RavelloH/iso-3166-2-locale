@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48184,
-      "name": "阿宾登",
+      "name": "泰晤士河畔阿宾顿",
       "name_default": "Abingdon",
       "native": "Abingdon",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 48194,
-      "name": "阿德伯里",
+      "name": "阿达布利",
       "name_default": "Adderbury",
       "native": "Adderbury",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 48367,
-      "name": "班伯里",
+      "name": "班布利",
       "name_default": "Banbury",
       "native": "Banbury",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 48491,
-      "name": "比斯特",
+      "name": "比斯特镇",
       "name_default": "Bicester",
       "native": "Bicester",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 48643,
-      "name": "布拉克利",
+      "name": "布拉克雷",
       "name_default": "Brackley",
       "native": "Brackley",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 48765,
-      "name": "伯福德",
+      "name": "布尔福特",
       "name_default": "Burford",
       "native": "Burford",
       "type": "city",
@@ -221,7 +221,7 @@
       "id": 48875,
       "name": "卡特顿",
       "name_default": "Carterton",
-      "native": "Carteron",
+      "native": "Carterton",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 48981,
-      "name": "乔尔西",
+      "name": "寇斯伊",
       "name_default": "Cholsey",
       "native": "Cholsey",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 49282,
-      "name": "迪德科特",
+      "name": "迪高特镇",
       "name_default": "Didcot",
-      "native": "Slander",
+      "native": "Didcot",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 49334,
-      "name": "达克灵顿",
+      "name": "德肯灵顿",
       "name_default": "Ducklington",
       "native": "Ducklington",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 49512,
-      "name": "恩舍姆",
+      "name": "艾恩斯汉姆",
       "name_default": "Eynsham",
       "native": "Eynsham",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 49527,
-      "name": "法灵顿",
+      "name": "法灵登",
       "name_default": "Faringdon",
       "native": "Faringdon",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 49681,
-      "name": "戈林",
+      "name": "泰晤士河畔戈林",
       "name_default": "Goring",
       "native": "Goring",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 49904,
-      "name": "亨利泰晤士河畔",
+      "name": "泰晤士河畔亨利",
       "name_default": "Henley-on-Thames",
       "native": "Henley-on-Thames",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 50136,
-      "name": "基德灵顿",
+      "name": "奇丁顿",
       "name_default": "Kidlington",
       "native": "Kidlington",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 50167,
-      "name": "金斯·萨顿",
+      "name": "金斯萨顿",
       "name_default": "Kings Sutton",
       "native": "Kings Sutton",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 50177,
-      "name": "金斯顿·巴格普伊兹",
+      "name": "金斯顿巴格皮尤兹",
       "name_default": "Kingston Bagpuize",
       "native": "Kingston Bagpuize",
       "type": "city",
@@ -581,7 +581,7 @@
       "id": 50492,
       "name": "马查姆",
       "name_default": "Marcham",
-      "native": "March",
+      "native": "Marcham",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 50600,
-      "name": "明斯特·洛弗尔",
+      "name": "明斯特洛弗尔",
       "name_default": "Minster Lovell",
       "native": "Minster Lovell",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 50757,
-      "name": "北利",
+      "name": "North Leigh",
       "name_default": "North Leigh",
       "native": "North Leigh",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 51297,
-      "name": "什里文汉姆",
+      "name": "斯里文汉",
       "name_default": "Shrivenham",
       "native": "Shrivenham",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 51522,
-      "name": "萨顿·考特尼",
+      "name": "萨顿科特尼",
       "name_default": "Sutton Courtenay",
       "native": "Sutton Courtenay",
       "type": "city",
@@ -830,8 +830,44 @@
       "country_id": 232
     },
     {
+      "id": 51584,
+      "name": "泰晤",
+      "name_default": "Thame",
+      "native": "Thame",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13269,
+      "latitude": "51.74840000",
+      "longitude": "-0.97624000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q2094727",
+      "country_code": "GB",
+      "state_code": "OXF",
+      "state_id": 2321,
+      "country_id": 232
+    },
+    {
+      "id": 51745,
+      "name": "万蒂奇",
+      "name_default": "Wantage",
+      "native": "Wantage",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18505,
+      "latitude": "51.58846000",
+      "longitude": "-1.42565000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q953957",
+      "country_code": "GB",
+      "state_code": "OXF",
+      "state_id": 2321,
+      "country_id": 232
+    },
+    {
       "id": 51861,
-      "name": "惠特利",
+      "name": "惠特雷",
       "name_default": "Wheatley",
       "native": "Wheatley",
       "type": "city",
@@ -903,7 +939,7 @@
     },
     {
       "id": 52013,
-      "name": "亚恩顿",
+      "name": "雅安顿",
       "name_default": "Yarnton",
       "native": "Yarnton",
       "type": "city",

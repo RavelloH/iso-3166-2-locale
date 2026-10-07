@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 89750,
-      "name": "Colonie Menno",
+      "name": "Colonia Menno",
       "name_default": "Colonia Menno",
       "native": "Colonia Menno",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 89752,
-      "name": "Colonie Neuland",
+      "name": "Colonia Neuland",
       "name_default": "Colonia Neuland",
-      "native": "Colonia nuevo territorio",
+      "native": "Colonia Neuland",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 89766,
-      "name": "Philadelphie",
+      "name": "Filadelfia",
       "name_default": "Filadelfia",
       "native": "Filadelfia",
       "type": "adm1",
@@ -147,7 +147,7 @@
     },
     {
       "id": 161650,
-      "name": "Mariscal José Félix Estigarribia",
+      "name": "Mariscal Estigarribia",
       "name_default": "Mariscal José Félix Estigarribia",
       "native": "Mariscal José Félix Estigarribia",
       "type": "city",

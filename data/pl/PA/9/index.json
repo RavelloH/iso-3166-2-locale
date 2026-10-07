@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79964,
-      "name": "Góra Jezusa",
+      "name": "Alto de Jesús",
       "name_default": "Alto de Jesús",
       "native": "Alto de Jesús",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 79970,
-      "name": "Areny",
+      "name": "Arenas",
       "name_default": "Arenas",
       "native": "Arena",
       "type": "adm3",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80024,
-      "name": "Kalidonia",
+      "name": "Calidonia",
       "name_default": "Calidonia",
       "native": "Calidonia",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80025,
-      "name": "Kalobre",
+      "name": "Calobre",
       "name_default": "Calobre",
       "native": "Calobre",
       "type": "adm2",
@@ -221,7 +221,7 @@
       "id": 80026,
       "name": "Calovébora",
       "name_default": "Calovébora",
-      "native": "Calvo",
+      "native": "Calovébora",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 80031,
-      "name": "Pieśń Llano",
+      "name": "Canto del Llano",
       "name_default": "Canto del Llano",
       "native": "Canto del Llano",
       "type": "adm3",
@@ -291,10 +291,10 @@
     },
     {
       "id": 80089,
-      "name": "Dystrykt Atalaya",
+      "name": "Distrito de Atalaya",
       "name_default": "Distrito de Atalaya",
       "native": "Distrito de Atalaya",
-      "type": "adm3",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 11321,
@@ -309,7 +309,7 @@
     },
     {
       "id": 80096,
-      "name": "Dystrykt Calobre",
+      "name": "Distrito de Calobre",
       "name_default": "Distrito de Calobre",
       "native": "Distrito de Calobre",
       "type": "adm3",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80121,
-      "name": "Dystrykt Montijo",
+      "name": "Distrito de Montijo",
       "name_default": "Distrito de Montijo",
       "native": "Distrito de Montijo",
       "type": "section",
@@ -417,7 +417,7 @@
     },
     {
       "id": 80136,
-      "name": "Dystrykt San Francisco",
+      "name": "Distrito de San Francisco",
       "name_default": "Distrito de San Francisco",
       "native": "Distrito de San Francisco",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 80183,
-      "name": "El Maria",
+      "name": "El María",
       "name_default": "El María",
       "native": "El María",
       "type": "adm3",
@@ -651,7 +651,7 @@
     },
     {
       "id": 80191,
-      "name": "Pikador",
+      "name": "El Picador",
       "name_default": "El Picador",
       "native": "El Picador",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80205,
-      "name": "Uvito",
+      "name": "El Uvito",
       "name_default": "El Uvito",
       "native": "El Uvito",
       "type": "section",
@@ -921,7 +921,7 @@
     },
     {
       "id": 80309,
-      "name": "Lwy Arriba",
+      "name": "Leones Arriba",
       "name_default": "Leones Arriba",
       "native": "Leones Arriba",
       "type": "adm3",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 80349,
-      "name": "Dzielnica Mariato",
+      "name": "Mariato",
       "name_default": "Mariato",
       "native": "Distrito de Mariato",
       "type": "district",
@@ -1085,7 +1085,7 @@
       "id": 80421,
       "name": "Ponuga",
       "name_default": "Ponuga",
-      "native": "Oferta",
+      "native": "Ponuga",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 80446,
-      "name": "Złota Quebrada",
+      "name": "Quebrada de Oro",
       "name_default": "Quebrada de Oro",
       "native": "Quebrada de Oro",
       "type": "adm3",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 80460,
-      "name": "Rio Grande",
+      "name": "Río Grande",
       "name_default": "Río Grande",
       "native": "Río Grande",
       "type": "adm3",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 80488,
-      "name": "Święty Marcelo",
+      "name": "San Marcelo",
       "name_default": "San Marcelo",
       "native": "San Marcelo",
       "type": "adm3",
@@ -1319,7 +1319,7 @@
       "id": 80516,
       "name": "Soná",
       "name_default": "Soná",
-      "native": "Hijo",
+      "native": "Soná",
       "type": "adm2",
       "level": null,
       "parent_id": null,

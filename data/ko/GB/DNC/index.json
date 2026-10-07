@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48199,
-      "name": "애드윅 르 스트리트",
+      "name": "애드윅 레 스트리트",
       "name_default": "Adwick le Street",
       "native": "Adwick Le Street",
       "type": "city",
@@ -75,9 +75,9 @@
     },
     {
       "id": 48280,
-      "name": "암소프",
+      "name": "암쏠프",
       "name_default": "Armthorpe",
-      "native": "HREATHORPE",
+      "native": "Armthorpe",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -95,7 +95,7 @@
       "id": 48301,
       "name": "애스컨",
       "name_default": "Askern",
-      "native": "The asker",
+      "native": "Askern",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 49089,
-      "name": "코니스브러",
+      "name": "코니스브루",
       "name_default": "Conisbrough",
       "native": "Conisbrough",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 49303,
-      "name": "돈캐스터",
+      "name": "동커스터 도시 자치구",
       "name_default": "Doncaster",
       "native": "Doncaster",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 49559,
-      "name": "피닝리",
+      "name": "피닝글리",
       "name_default": "Finningley",
       "native": "Finningley",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 50563,
-      "name": "멕스버러",
+      "name": "맥스보루",
       "name_default": "Mexborough",
       "native": "Mexborough",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 51596,
-      "name": "쏜",
+      "name": "톤",
       "name_default": "Thorne",
       "native": "Thorne",
       "type": "city",

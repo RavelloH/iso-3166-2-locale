@@ -136,7 +136,7 @@
       "id": 68012,
       "name": "Abasolo",
       "name_default": "Abasolo",
-      "native": "Tarifa",
+      "native": "Abasolo",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -350,7 +350,7 @@
     },
     {
       "id": 68852,
-      "name": "Domy",
+      "name": "Casas",
       "name_default": "Casas",
       "native": "Casas",
       "type": "adm2",
@@ -386,7 +386,7 @@
     },
     {
       "id": 69147,
-      "name": "Miasto Camargo",
+      "name": "Ciudad Camargo",
       "name_default": "Ciudad Camargo",
       "native": "Ciudad Camargo",
       "type": "adm2",
@@ -476,7 +476,7 @@
     },
     {
       "id": 69176,
-      "name": "Miasto Río Bravo",
+      "name": "Ciudad Río Bravo",
       "name_default": "Ciudad Río Bravo",
       "native": "Ciudad Río Bravo",
       "type": "adm2",
@@ -494,7 +494,7 @@
     },
     {
       "id": 69182,
-      "name": "Miasto Tula",
+      "name": "Ciudad Tula",
       "name_default": "Ciudad Tula",
       "native": "Ciudad Tula",
       "type": "adm2",
@@ -512,7 +512,7 @@
     },
     {
       "id": 69184,
-      "name": "Miasto Victoria",
+      "name": "Ciudad Victoria",
       "name_default": "Ciudad Victoria",
       "native": "Ciudad Victoria",
       "type": "adm1",
@@ -532,7 +532,7 @@
       "id": 69419,
       "name": "Comales",
       "name_default": "Comales",
-      "native": "Cuenta",
+      "native": "Comales",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -638,7 +638,7 @@
     },
     {
       "id": 69922,
-      "name": "Kontrola El",
+      "name": "El Control",
       "name_default": "El Control",
       "native": "El Control",
       "type": "city",
@@ -728,7 +728,7 @@
     },
     {
       "id": 75896,
-      "name": "Ursulo Galván",
+      "name": "Estación Manuel",
       "name_default": "Estación Manuel",
       "native": "Ursulo Galván",
       "type": "city",
@@ -746,7 +746,7 @@
     },
     {
       "id": 70355,
-      "name": "Stacja Santa Engracia",
+      "name": "Estación Santa Engracia",
       "name_default": "Estación Santa Engracia",
       "native": "Estación Santa Engracia",
       "type": "city",
@@ -874,7 +874,7 @@
       "id": 70632,
       "name": "Guerrero",
       "name_default": "Guerrero",
-      "native": "Guerrillero",
+      "native": "Guerrero",
       "type": "municipality",
       "level": null,
       "parent_id": null,
@@ -926,7 +926,7 @@
     },
     {
       "id": 70680,
-      "name": "Heroica Matamoros",
+      "name": "Matamoros",
       "name_default": "Heroica Matamoros",
       "native": "Heroica Matamoros",
       "type": "city",
@@ -1016,7 +1016,7 @@
     },
     {
       "id": 71352,
-      "name": "Wolność",
+      "name": "La Libertad",
       "name_default": "La Libertad",
       "native": "La Libertad",
       "type": "city",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 71443,
-      "name": "Ryba",
+      "name": "La Pesca",
       "name_default": "La Pesca",
       "native": "La Pesca",
       "type": "city",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": 71775,
-      "name": "Los Aztekowie",
+      "name": "Los Aztecas",
       "name_default": "Los Aztecas",
       "native": "Los Aztecas",
       "type": "city",
@@ -1250,7 +1250,7 @@
     },
     {
       "id": 71805,
-      "name": "Wojna",
+      "name": "Los Guerra",
       "name_default": "Los Guerra",
       "native": "Los Guerra",
       "type": "city",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": 72121,
-      "name": "Mier",
+      "name": "Ciudad Mier",
       "name_default": "Mier",
       "native": "Mar",
       "type": "adm2",
@@ -1396,7 +1396,7 @@
       "id": 72151,
       "name": "Miquihuana",
       "name_default": "Miquihuana",
-      "native": "de arrugas",
+      "native": "Miquihuana",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1430,7 +1430,7 @@
     },
     {
       "id": 72320,
-      "name": "Nicolas Bravo",
+      "name": "Nicolás Bravo",
       "name_default": "Nicolás Bravo",
       "native": "Nicolás Bravo",
       "type": "city",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": 72360,
-      "name": "Nowa Apolonia",
+      "name": "Nueva Apolonia",
       "name_default": "Nueva Apolonia",
       "native": "Nueva Apolonia",
       "type": "city",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": 72383,
-      "name": "Regionalne Nuevo Cereso w Altamira",
+      "name": "Nuevo Cereso Regional de Altamira",
       "name_default": "Nuevo Cereso Regional de Altamira",
       "native": "Nuevo Cereso Regional de Altamira",
       "type": "city",
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 72390,
-      "name": "Nowy Laredo",
+      "name": "Nuevo Laredo",
       "name_default": "Nuevo Laredo",
       "native": "Nuevo Laredo",
       "type": "city",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": 72396,
-      "name": "Nowe Morelos",
+      "name": "Nuevo Morelos",
       "name_default": "Nuevo Morelos",
       "native": "Nuevo Morelos",
       "type": "adm2",
@@ -1556,7 +1556,7 @@
     },
     {
       "id": 72404,
-      "name": "Nowy Postęp",
+      "name": "Nuevo Progreso",
       "name_default": "Nuevo Progreso",
       "native": "Nuevo Progreso",
       "type": "city",
@@ -1574,7 +1574,7 @@
     },
     {
       "id": 72415,
-      "name": "Nowy Tantoán",
+      "name": "Nuevo Tantoán",
       "name_default": "Nuevo Tantoán",
       "native": "Nuevo Tantoán",
       "type": "city",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": 72597,
-      "name": "Palmille",
+      "name": "Palmillas",
       "name_default": "Palmillas",
       "native": "Palmillas",
       "type": "adm2",
@@ -1844,7 +1844,7 @@
     },
     {
       "id": 74249,
-      "name": "Święty Mikołaj",
+      "name": "San Nicolás",
       "name_default": "San Nicolás",
       "native": "San Nicolás",
       "type": "adm2",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": 74518,
-      "name": "Święta Adelaida",
+      "name": "Santa Adelaida",
       "name_default": "Santa Adelaida",
       "native": "Santa Adelaida",
       "type": "city",
@@ -1880,7 +1880,7 @@
     },
     {
       "id": 74562,
-      "name": "Święta Apolonia",
+      "name": "Santa Apolonia",
       "name_default": "Santa Apolonia",
       "native": "Santa Apolonia",
       "type": "city",
@@ -1918,7 +1918,7 @@
       "id": 75127,
       "name": "Soto la Marina",
       "name_default": "Soto la Marina",
-      "native": "Soto la Armada",
+      "native": "Soto la Marina",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1970,7 +1970,7 @@
     },
     {
       "id": 75790,
-      "name": "Tuła",
+      "name": "Tula",
       "name_default": "Tula",
       "native": "Tula",
       "type": "municipality",
@@ -2008,7 +2008,7 @@
       "id": 75905,
       "name": "Valadeces",
       "name_default": "Valadeces",
-      "native": "Valor",
+      "native": "Valadeces",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2060,7 +2060,7 @@
     },
     {
       "id": 75983,
-      "name": "Wiktoria",
+      "name": "Victoria",
       "name_default": "Victoria",
       "native": "Victoria",
       "type": "municipality",
@@ -2078,7 +2078,7 @@
     },
     {
       "id": 76033,
-      "name": "Willa Mainero",
+      "name": "Villa Mainero",
       "name_default": "Villa Mainero",
       "native": "Villa mainero",
       "type": "adm2",

@@ -268,7 +268,7 @@
     },
     {
       "id": 97628,
-      "name": "Андріївка",
+      "name": "Андреєвка",
       "name_default": "Andreyevka",
       "native": "Андреевка",
       "type": "city",
@@ -286,7 +286,7 @@
     },
     {
       "id": 97630,
-      "name": "Андріївське",
+      "name": "Андрієвське",
       "name_default": "Andreyevskoye",
       "native": "Андреевское",
       "type": "city",
@@ -304,7 +304,7 @@
     },
     {
       "id": 97650,
-      "name": "Апрелівка",
+      "name": "Апрелєвка",
       "name_default": "Aprelevka",
       "native": "Апрелевка",
       "type": "city",
@@ -358,7 +358,7 @@
     },
     {
       "id": 97700,
-      "name": "Ашукіно",
+      "name": "Ашукіне",
       "name_default": "Ashukino",
       "native": "Ашукино",
       "type": "city",
@@ -502,7 +502,7 @@
     },
     {
       "id": 97800,
-      "name": "Барвіха",
+      "name": "Барвиха",
       "name_default": "Barvikha",
       "native": "Барвиха",
       "type": "city",
@@ -934,7 +934,7 @@
     },
     {
       "id": 98255,
-      "name": "Деденево",
+      "name": "Деденьово",
       "name_default": "Dedenëvo",
       "native": "Деденево",
       "type": "city",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 98387,
-      "name": "Електровуглі",
+      "name": "Електроуглі",
       "name_default": "Elektrougli",
       "native": "Электроугли",
       "type": "city",
@@ -1582,7 +1582,7 @@
     },
     {
       "id": 98671,
-      "name": "Ім'я Воровського",
+      "name": "Імені Воровського",
       "name_default": "Imeni Vorovskogo",
       "native": "Имени Воровского",
       "type": "city",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 98736,
-      "name": "Івантеївка",
+      "name": "Івантєєвка",
       "name_default": "Ivanteyevka",
       "native": "Ивантеевка",
       "type": "city",
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 99104,
-      "name": "Клін",
+      "name": "Клин",
       "name_default": "Klin",
       "native": "Клин",
       "type": "adm2",
@@ -1978,7 +1978,7 @@
     },
     {
       "id": 99188,
-      "name": "Константиново",
+      "name": "с. Константиново",
       "name_default": "Konstantinovo",
       "native": "Константиново",
       "type": "city",
@@ -2409,24 +2409,6 @@
       "country_id": 182
     },
     {
-      "id": 99575,
-      "name": "Ленінські гори",
-      "name_default": "Leninskiye Gory",
-      "native": "Ленинские горы",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.70000000",
-      "longitude": "37.56667000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4258282",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 99595,
       "name": "Лісний",
       "name_default": "Lesnoy",
@@ -2464,7 +2446,7 @@
     },
     {
       "id": 99602,
-      "name": "Лісові Поляни",
+      "name": "Лісні Поляни",
       "name_default": "Lesnyye Polyany",
       "native": "Лесные Поляны",
       "type": "city",
@@ -2788,7 +2770,7 @@
     },
     {
       "id": 99778,
-      "name": "Мамонтівка",
+      "name": "Мамонтовка",
       "name_default": "Mamontovka",
       "native": "Мамонтовка",
       "type": "city",
@@ -3148,7 +3130,7 @@
     },
     {
       "id": 100102,
-      "name": "Немчинівка",
+      "name": "Німчиновка",
       "name_default": "Nemchinovka",
       "native": "Немчиновка",
       "type": "city",
@@ -3346,7 +3328,7 @@
     },
     {
       "id": 100341,
-      "name": "Новий Побут",
+      "name": "Novyy Byt",
       "name_default": "Novyy Byt",
       "native": "Новый Быт",
       "type": "city",
@@ -3706,7 +3688,7 @@
     },
     {
       "id": 100606,
-      "name": "Пересвіт",
+      "name": "Пересвєт",
       "name_default": "Peresvet",
       "native": "Пересвет",
       "type": "city",
@@ -3850,7 +3832,7 @@
     },
     {
       "id": 100725,
-      "name": "Подосинки",
+      "name": "Підосинки",
       "name_default": "Podosinki",
       "native": "Подосинки",
       "type": "city",
@@ -3940,7 +3922,7 @@
     },
     {
       "id": 100803,
-      "name": "Правдинський",
+      "name": "Правдинське",
       "name_default": "Pravdinskiy",
       "native": "Правдинский",
       "type": "city",
@@ -3976,7 +3958,7 @@
     },
     {
       "id": 100871,
-      "name": "Протвино",
+      "name": "Протвіно",
       "name_default": "Protvino",
       "native": "Протвино",
       "type": "city",
@@ -4174,7 +4156,7 @@
     },
     {
       "id": 100953,
-      "name": "Розвілка",
+      "name": "Розвилка",
       "name_default": "Razvilka",
       "native": "Развилка",
       "type": "city",
@@ -4624,7 +4606,7 @@
     },
     {
       "id": 101207,
-      "name": "Північний",
+      "name": "Severnyy",
       "name_default": "Severnyy",
       "native": "Северный",
       "type": "city",
@@ -4822,7 +4804,7 @@
     },
     {
       "id": 101387,
-      "name": "Східня",
+      "name": "Сходня",
       "name_default": "Skhodnya",
       "native": "Сходня",
       "type": "city",
@@ -4876,7 +4858,7 @@
     },
     {
       "id": 101422,
-      "name": "Снігірі",
+      "name": "Снігурі",
       "name_default": "Snegiri",
       "native": "Снегири",
       "type": "city",
@@ -5236,7 +5218,7 @@
     },
     {
       "id": 101961,
-      "name": "Туголеський Бор",
+      "name": "Туголіський Бір",
       "name_default": "Tugolesskiy Bor",
       "native": "Туголесский Бор",
       "type": "city",
@@ -5344,7 +5326,7 @@
     },
     {
       "id": 102302,
-      "name": "Відне",
+      "name": "Видне",
       "name_default": "Vidnoye",
       "native": "Видное",
       "type": "adm2",
@@ -5505,24 +5487,6 @@
       "country_id": 182
     },
     {
-      "id": 102402,
-      "name": "Востряково",
-      "name_default": "Vostryakovo",
-      "native": "Востряково",
-      "type": "section",
-      "level": null,
-      "parent_id": null,
-      "population": 30000,
-      "latitude": "55.66667000",
-      "longitude": "37.45000000",
-      "timezone": "Europe/Moscow",
-      "wikiDataId": "Q4126688",
-      "country_code": "RU",
-      "state_code": "MOS",
-      "state_id": 1882,
-      "country_id": 182
-    },
-    {
       "id": 102449,
       "name": "Високовськ",
       "name_default": "Vysokovsk",
@@ -5580,7 +5544,7 @@
       "id": 102477,
       "name": "Ямс",
       "name_default": "Yam",
-      "native": "сладкий картофель",
+      "native": "Ям",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -5704,7 +5668,7 @@
     },
     {
       "id": 102583,
-      "name": "Ювілейний",
+      "name": "Юбілейний",
       "name_default": "Yubileyny",
       "native": "Юбилейный",
       "type": "city",
@@ -5830,7 +5794,7 @@
     },
     {
       "id": 102715,
-      "name": "Жаворонки",
+      "name": "Жайворонки",
       "name_default": "Zhavoronki",
       "native": "Жаворонки",
       "type": "city",
@@ -5902,7 +5866,7 @@
     },
     {
       "id": 102740,
-      "name": "Жуківка",
+      "name": "Жуковка",
       "name_default": "Zhukovka",
       "native": "Жуковка",
       "type": "city",

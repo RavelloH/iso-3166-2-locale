@@ -147,7 +147,7 @@
     },
     {
       "id": 104410,
-      "name": "코시체 1세",
+      "name": "코시체 1구",
       "name_default": "Košice I",
       "native": "Košice I",
       "type": "area",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104411,
-      "name": "코시체 2세",
+      "name": "코시체 2구",
       "name_default": "Košice II",
       "native": "Košice II",
       "type": "area",
@@ -183,7 +183,7 @@
     },
     {
       "id": 104412,
-      "name": "코시체 3세",
+      "name": "코시체 3구",
       "name_default": "Košice III",
       "native": "Košice III",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104413,
-      "name": "코시체 4세",
+      "name": "코시체 4구",
       "name_default": "Košice IV",
       "native": "Košice IV",
       "type": "area",
@@ -255,7 +255,7 @@
     },
     {
       "id": 104433,
-      "name": "미할로브체",
+      "name": "미할로우체",
       "name_default": "Michalovce",
       "native": "Michalovce",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 104462,
-      "name": "오크레스 겔니카",
+      "name": "겔니차구",
       "name_default": "Okres Gelnica",
       "native": "Okres Gelnica",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 104478,
-      "name": "오크레스 미할로브체",
+      "name": "미할로우체구",
       "name_default": "Okres Michalovce",
       "native": "Okres Michalovce",
       "type": "area",
@@ -345,7 +345,7 @@
     },
     {
       "id": 104494,
-      "name": "오크레스 로즈나바",
+      "name": "로주냐바구",
       "name_default": "Okres Rožňava",
       "native": "Okres Rožňava",
       "type": "area",
@@ -417,7 +417,7 @@
     },
     {
       "id": 104537,
-      "name": "로즈나바",
+      "name": "로주냐바",
       "name_default": "Rožňava",
       "native": "Rožňava",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 104547,
-      "name": "소브란스",
+      "name": "소브란체",
       "name_default": "Sobrance",
       "native": "Sobrance",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 104549,
-      "name": "스피슈스카 노바 베스",
+      "name": "스피슈스카노바베스",
       "name_default": "Spišská Nová Ves",
       "native": "Spišská Nová Ves",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 104565,
-      "name": "트레비소프",
+      "name": "트레비쇼우",
       "name_default": "Trebišov",
       "native": "Trebišov",
       "type": "adm2",
@@ -527,7 +527,7 @@
       "id": 104575,
       "name": "비네",
       "name_default": "Vinné",
-      "native": "Energický",
+      "native": "Vinné",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -545,7 +545,7 @@
       "id": 104599,
       "name": "제라",
       "name_default": "Žehra",
-      "native": "Bielizeň",
+      "native": "Žehra",
       "type": "adm3",
       "level": null,
       "parent_id": null,

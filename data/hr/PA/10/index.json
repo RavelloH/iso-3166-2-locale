@@ -167,7 +167,7 @@
       "id": 80033,
       "name": "Capira",
       "name_default": "Capira",
-      "native": "Cabeza",
+      "native": "Capira",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -219,9 +219,9 @@
     },
     {
       "id": 80053,
-      "name": "Čame",
+      "name": "Chame",
       "name_default": "Chame",
-      "native": "Semen",
+      "native": "Chame",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -294,7 +294,7 @@
       "name": "Distrito de Chame",
       "name_default": "Distrito de Chame",
       "native": "Distrito de Chame",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 31373,
@@ -309,7 +309,7 @@
     },
     {
       "id": 80112,
-      "name": "Okrug La Chorrera",
+      "name": "Distrito de La Chorrera",
       "name_default": "Distrito de La Chorrera",
       "native": "Distrito de La Chorrera",
       "type": "area",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80135,
-      "name": "Okrug San Carlos",
+      "name": "Distrito de San Carlos",
       "name_default": "Distrito de San Carlos",
       "native": "Distrito de San Carlos",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 80179,
-      "name": "Libanon",
+      "name": "El Líbano",
       "name_default": "El Líbano",
       "native": "El Líbano",
       "type": "adm3",
@@ -633,7 +633,7 @@
     },
     {
       "id": 80345,
-      "name": "Lidice",
+      "name": "Lídice",
       "name_default": "Lídice",
       "native": "Ledice",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80371,
-      "name": "Nova Arenosa",
+      "name": "Nueva Arenosa",
       "name_default": "Nueva Arenosa",
       "native": "Nueva Arenosa",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80373,
-      "name": "Nova Gorgona",
+      "name": "Nueva Gorgona",
       "name_default": "Nueva Gorgona",
       "native": "Nueva Gorgona",
       "type": "adm3",
@@ -741,7 +741,7 @@
     },
     {
       "id": 80377,
-      "name": "Novi car",
+      "name": "Nuevo Emperador",
       "name_default": "Nuevo Emperador",
       "native": "Nuevo Emperador",
       "type": "adm3",
@@ -813,7 +813,7 @@
     },
     {
       "id": 80458,
-      "name": "Rio Kongo",
+      "name": "Río Congo",
       "name_default": "Río Congo",
       "native": "Río Congo",
       "type": "adm3",
@@ -923,7 +923,7 @@
       "id": 80518,
       "name": "Sorá",
       "name_default": "Sorá",
-      "native": "Frotis",
+      "native": "Sorá",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -957,7 +957,7 @@
     },
     {
       "id": 80543,
-      "name": "Vila Carmen",
+      "name": "Villa Carmen",
       "name_default": "Villa Carmen",
       "native": "Villa Carmen",
       "type": "adm3",
@@ -975,7 +975,7 @@
     },
     {
       "id": 80545,
-      "name": "Vila Rosario",
+      "name": "Villa Rosario",
       "name_default": "Villa Rosario",
       "native": "Villa Rosario",
       "type": "adm3",

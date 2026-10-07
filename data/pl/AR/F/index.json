@@ -206,7 +206,7 @@
     },
     {
       "id": 752,
-      "name": "Chemiczny",
+      "name": "Chamical",
       "name_default": "Chamical",
       "native": "Chamical",
       "type": "adm2",
@@ -245,7 +245,7 @@
       "name": "Departamento de Arauco",
       "name_default": "Departamento de Arauco",
       "native": "Departamento de Arauco",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 16257,
@@ -404,7 +404,7 @@
     },
     {
       "id": 1543,
-      "name": "Willa Bustos",
+      "name": "Villa Bustos",
       "name_default": "Villa Bustos",
       "native": "Villa Bustos",
       "type": "city",
@@ -458,7 +458,7 @@
     },
     {
       "id": 1588,
-      "name": "Winchina",
+      "name": "Vinchina",
       "name_default": "Vinchina",
       "native": "Vinchina",
       "type": "adm2",

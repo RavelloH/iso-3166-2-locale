@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 55210,
-      "name": "بالاساگیارمات",
+      "name": "بالاشایارمات",
       "name_default": "Balassagyarmat",
       "native": "Balassagyarmat",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 55293,
-      "name": "باتونیترنیه",
+      "name": "باتنترنیه",
       "name_default": "Bátonyterenye",
       "native": "Bátonyterenye",
       "type": "adm2",
@@ -129,9 +129,9 @@
     },
     {
       "id": 55237,
-      "name": "برسل",
+      "name": "برتسل",
       "name_default": "Bercel",
-      "native": "Harapás",
+      "native": "Bercel",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 55363,
-      "name": "دیوسجنو",
+      "name": "دیوشینو",
       "name_default": "Diósjenő",
       "native": "Diósjenő",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 55565,
-      "name": "کارانچکزی",
+      "name": "کارانچکسی",
       "name_default": "Karancskeszi",
       "native": "Karancskeszi",
       "type": "city",
@@ -293,7 +293,7 @@
       "id": 55725,
       "name": "ماترانووک",
       "name_default": "Mátranovák",
-      "native": "Menta",
+      "native": "Mátranovák",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 55759,
-      "name": "ناگیوروشی",
+      "name": "ناگیوروسی",
       "name_default": "Nagyoroszi",
       "native": "Nagyoroszi",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 55844,
-      "name": "پاشتو",
+      "name": "پاستو",
       "name_default": "Pásztó",
       "native": "Pásztó",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 55877,
-      "name": "رتساگ",
+      "name": "رتشاگ",
       "name_default": "Rétság",
       "native": "Rétság",
       "type": "city",
@@ -455,7 +455,7 @@
       "id": 55865,
       "name": "ریموک",
       "name_default": "Rimóc",
-      "native": "Cococan perem",
+      "native": "Rimóc",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -489,7 +489,7 @@
     },
     {
       "id": 55889,
-      "name": "سالگوتاریان",
+      "name": "شالگوتاریان",
       "name_default": "Salgótarján",
       "native": "Salgótarján",
       "type": "adm1",
@@ -543,7 +543,7 @@
     },
     {
       "id": 55972,
-      "name": "سزنی",
+      "name": "سچنی",
       "name_default": "Szécsény",
       "native": "Szécsény",
       "type": "adm2",
@@ -599,7 +599,7 @@
       "id": 56011,
       "name": "تار",
       "name_default": "Tar",
-      "native": "Kátrány",
+      "native": "Tar",
       "type": "city",
       "level": null,
       "parent_id": null,

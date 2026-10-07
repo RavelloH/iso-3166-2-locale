@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54384,
-      "name": "Balya",
+      "name": "Bale",
       "name_default": "Bale",
       "native": "Bala",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 54385,
-      "name": "Bale-Vadisi",
+      "name": "Bale-Valle",
       "name_default": "Bale-Valle",
       "native": "Bala",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 54506,
-      "name": "Mezun Buzet",
+      "name": "Grad Buzet",
       "name_default": "Grad Buzet",
       "native": "Grad Buzet",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 54530,
-      "name": "Mezun Labin",
+      "name": "Grad Labin",
       "name_default": "Grad Labin",
       "native": "Grad Labin",
       "type": "adm2",
@@ -309,7 +309,7 @@
     },
     {
       "id": 54542,
-      "name": "Mezun Pazin",
+      "name": "Grad Pazin",
       "name_default": "Grad Pazin",
       "native": "Grad Pazin",
       "type": "adm1",
@@ -435,7 +435,7 @@
     },
     {
       "id": 54681,
-      "name": "Labin",
+      "name": "Albona",
       "name_default": "Labin",
       "native": "Labin",
       "type": "adm2",
@@ -579,7 +579,7 @@
     },
     {
       "id": 54763,
-      "name": "Novigrad-Cittanova",
+      "name": "Sitenova",
       "name_default": "Novigrad",
       "native": "Novigrad-Cittanova",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 54761,
-      "name": "Novigrad",
+      "name": "Sitenova",
       "name_default": "Novigrad",
       "native": "Novigrad",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 54826,
-      "name": "Poreč",
+      "name": "Piranse",
       "name_default": "Poreč",
       "native": "Poreč",
       "type": "adm2",
@@ -705,9 +705,9 @@
     },
     {
       "id": 54844,
-      "name": "Pula",
+      "name": "Pola",
       "name_default": "Pula",
-      "native": "U svakom slučaju",
+      "native": "Pula",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -759,7 +759,7 @@
     },
     {
       "id": 54855,
-      "name": "Raşa",
+      "name": "Raša",
       "name_default": "Raša",
       "native": "Raša",
       "type": "adm2",
@@ -777,7 +777,7 @@
     },
     {
       "id": 54867,
-      "name": "Rovinj",
+      "name": "Ruvinye",
       "name_default": "Rovinj",
       "native": "Rovinj",
       "type": "adm2",
@@ -823,7 +823,7 @@
       "latitude": "45.14932000",
       "longitude": "14.09889000",
       "timezone": "Europe/Zagreb",
-      "wikiDataId": "Q925754",
+      "wikiDataId": null,
       "country_code": "HR",
       "state_code": "18",
       "state_id": 743,
@@ -833,7 +833,7 @@
       "id": 54931,
       "name": "Sveti Lovreč",
       "name_default": "Sveti Lovreč",
-      "native": "Svet",
+      "native": "Sveti Lovreč",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,9 +849,9 @@
     },
     {
       "id": 54933,
-      "name": "Katran",
+      "name": "Tar",
       "name_default": "Tar",
-      "native": "Katran",
+      "native": "Tar",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
     },
     {
       "id": 54949,
-      "name": "Umag",
+      "name": "Omago",
       "name_default": "Umag",
       "native": "Umag",
       "type": "adm2",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 54996,
-      "name": "Vrsar",
+      "name": "Orsara",
       "name_default": "Vrsar",
       "native": "Vrsar",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 55039,
-      "name": "Zminj",
+      "name": "Žminj",
       "name_default": "Žminj",
       "native": "Žminj",
       "type": "adm2",

@@ -253,7 +253,7 @@
   "cities": [
     {
       "id": 111225,
-      "name": "알파인",
+      "name": "앨파인",
       "name_default": "Alpine",
       "native": "Alpine",
       "type": "city",
@@ -271,7 +271,7 @@
     },
     {
       "id": 111273,
-      "name": "아메리칸 포크",
+      "name": "아메리칸포크",
       "name_default": "American Fork",
       "native": "American Fork",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 112610,
-      "name": "풍부한",
+      "name": "바운티풀",
       "name_default": "Bountiful",
       "native": "Bountiful",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112784,
-      "name": "브리검 시티",
+      "name": "브리검시티",
       "name_default": "Brigham City",
       "native": "Brigham City",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 113543,
-      "name": "캐슬 데일",
+      "name": "캐슬데일",
       "name_default": "Castle Dale",
       "native": "Castle Dale",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 113603,
-      "name": "시더 시티",
+      "name": "시더시티",
       "name_default": "Cedar City",
       "native": "Cedar City",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 113616,
-      "name": "시더 힐스",
+      "name": "시더힐스",
       "name_default": "Cedar Hills",
       "native": "Cedar Hills",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 114705,
-      "name": "코튼우드 하이츠",
+      "name": "코튼우드하이츠",
       "name_default": "Cottonwood Heights",
       "native": "Cottonwood Heights",
       "type": "city",
@@ -649,7 +649,7 @@
     },
     {
       "id": 115022,
-      "name": "다니엘",
+      "name": "대니얼",
       "name_default": "Daniel",
       "native": "Daniel",
       "type": "city",
@@ -685,7 +685,7 @@
     },
     {
       "id": 115469,
-      "name": "포목상",
+      "name": "드레이퍼",
       "name_default": "Draper",
       "native": "Draper",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 115607,
-      "name": "이글 마운틴",
+      "name": "이글마운틴",
       "name_default": "Eagle Mountain",
       "native": "Eagle Mountain",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 115992,
-      "name": "엘크 리지",
+      "name": "엘크리지",
       "name_default": "Elk Ridge",
       "native": "Elk Ridge",
       "type": "city",
@@ -811,7 +811,7 @@
     },
     {
       "id": 116142,
-      "name": "에녹",
+      "name": "이넉",
       "name_default": "Enoch",
       "native": "Enoch",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 116151,
-      "name": "기업",
+      "name": "Enterprise",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 116162,
       "name": "에르다",
       "name_default": "Erda",
-      "native": "On the ground",
+      "native": "Erda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -919,7 +919,7 @@
     },
     {
       "id": 116428,
-      "name": "패리 웨스트",
+      "name": "파웨스트",
       "name_default": "Farr West",
       "native": "Farr West",
       "type": "city",
@@ -939,7 +939,7 @@
       "id": 116496,
       "name": "페론",
       "name_default": "Ferron",
-      "native": "Iron",
+      "native": "Ferron",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 116780,
-      "name": "파운틴 그린",
+      "name": "파운틴그린",
       "name_default": "Fountain Green",
       "native": "Fountain Green",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 116967,
-      "name": "프루트 하이츠",
+      "name": "프루트하이츠",
       "name_default": "Fruit Heights",
       "native": "Fruit Heights",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 117149,
-      "name": "제놀라",
+      "name": "저놀라",
       "name_default": "Genola",
       "native": "Genola",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 118229,
-      "name": "헤버 시티",
+      "name": "히버시티",
       "name_default": "Heber City",
       "native": "Heber City",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 118262,
-      "name": "돕는 사람",
+      "name": "헬퍼",
       "name_default": "Helper",
       "native": "Helper",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 118338,
       "name": "헤리먼",
       "name_default": "Herriman",
-      "native": "Faculation",
+      "native": "Herriman",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1189,7 +1189,7 @@
     },
     {
       "id": 118400,
-      "name": "고지",
+      "name": "하일랜드",
       "name_default": "Highland",
       "native": "Highland",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 118853,
-      "name": "하이드 파크",
+      "name": "하이드파크",
       "name_default": "Hyde Park",
       "native": "Hyde Park",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 119051,
-      "name": "이빈스",
+      "name": "아이빈스",
       "name_default": "Ivins",
       "native": "Ivins",
       "type": "city",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 119370,
-      "name": "카마스",
+      "name": "캐머스",
       "name_default": "Kamas",
       "native": "Kamas",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 119372,
-      "name": "카나브",
+      "name": "캐나브",
       "name_default": "Kanab",
       "native": "Kanab",
       "type": "city",
@@ -1441,7 +1441,7 @@
     },
     {
       "id": 119403,
-      "name": "케이스빌",
+      "name": "케이즈빌",
       "name_default": "Kaysville",
       "native": "Kaysville",
       "type": "city",
@@ -1479,7 +1479,7 @@
       "id": 119807,
       "name": "라버킨",
       "name_default": "LaVerkin",
-      "native": "Staple",
+      "native": "LaVerkin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1495,7 +1495,7 @@
     },
     {
       "id": 120254,
-      "name": "레이튼",
+      "name": "레이턴",
       "name_default": "Layton",
       "native": "Layton",
       "type": "city",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 120333,
-      "name": "레히",
+      "name": "리하이",
       "name_default": "Lehi",
       "native": "Lehi",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 120468,
-      "name": "자유",
+      "name": "Liberty",
       "name_default": "Liberty",
       "native": "Liberty",
       "type": "city",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": 120571,
-      "name": "린든",
+      "name": "린던",
       "name_default": "Lindon",
       "native": "Lindon",
       "type": "city",
@@ -1605,7 +1605,7 @@
       "id": 120668,
       "name": "로아",
       "name_default": "Loa",
-      "native": "Very well",
+      "native": "Loa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 121297,
-      "name": "메리어트-슬레이터빌",
+      "name": "매리엇슬레이터빌",
       "name_default": "Marriott-Slaterville",
       "native": "Marriott-Slaterville",
       "type": "city",
@@ -1801,7 +1801,7 @@
     },
     {
       "id": 121859,
-      "name": "밀포드",
+      "name": "밀퍼드",
       "name_default": "Milford",
       "native": "Milford",
       "type": "city",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 121875,
-      "name": "밀크릭",
+      "name": "밀크리크",
       "name_default": "Millcreek",
       "native": "Millcreek",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 122372,
-      "name": "올림포스 산",
+      "name": "Mount Olympus",
       "name_default": "Mount Olympus",
       "native": "Mount Olympus",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 122381,
-      "name": "마운트 플레전트",
+      "name": "마운트플레전트",
       "name_default": "Mount Pleasant",
       "native": "Mount Pleasant",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 122492,
-      "name": "머레이",
+      "name": "머리",
       "name_default": "Murray",
       "native": "Murray",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 123060,
-      "name": "노스 로건",
+      "name": "노스로건",
       "name_default": "North Logan",
       "native": "North Logan",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 123099,
-      "name": "노스 솔트레이크",
+      "name": "노스솔트레이크",
       "name_default": "North Salt Lake",
       "native": "North Salt Lake",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 123369,
-      "name": "오그든",
+      "name": "오그던",
       "name_default": "Ogden",
       "native": "Ogden",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 123551,
-      "name": "오렘",
+      "name": "오럼",
       "name_default": "Orem",
       "native": "Orem",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 123800,
-      "name": "팡귀치",
+      "name": "팽귀치",
       "name_default": "Panguitch",
       "native": "Panguitch",
       "type": "city",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 123840,
-      "name": "파크 시티",
+      "name": "파크시티",
       "name_default": "Park City",
       "native": "Park City",
       "type": "city",
@@ -2271,7 +2271,7 @@
       "id": 123888,
       "name": "파로완",
       "name_default": "Parowan",
-      "native": "Evaporating",
+      "native": "Parowan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 124315,
-      "name": "플레인 시티",
+      "name": "플레인시티",
       "name_default": "Plain City",
       "native": "Plain City",
       "type": "city",
@@ -2341,7 +2341,7 @@
     },
     {
       "id": 124367,
-      "name": "플레전트 그로브",
+      "name": "플레전트그로브",
       "name_default": "Pleasant Grove",
       "native": "Pleasant Grove",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 124381,
-      "name": "쾌적한 전망",
+      "name": "플레전트뷰",
       "name_default": "Pleasant View",
       "native": "Pleasant View",
       "type": "city",
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 124663,
-      "name": "가격",
+      "name": "프라이스",
       "name_default": "Price",
       "native": "Price",
       "type": "city",
@@ -2467,7 +2467,7 @@
     },
     {
       "id": 125097,
-      "name": "리치몬드",
+      "name": "리치먼드",
       "name_default": "Richmond",
       "native": "Richmond",
       "type": "city",
@@ -2485,7 +2485,7 @@
     },
     {
       "id": 125181,
-      "name": "리버 하이츠",
+      "name": "리버하이츠",
       "name_default": "River Heights",
       "native": "River Heights",
       "type": "city",
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 125215,
-      "name": "리버튼",
+      "name": "리버턴",
       "name_default": "Riverton",
       "native": "Riverton",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 125644,
-      "name": "세인트 조지",
+      "name": "세인트조지",
       "name_default": "Saint George",
       "native": "Saint George",
       "type": "city",
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 125739,
-      "name": "살렘",
+      "name": "세일럼",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 125881,
-      "name": "남자 이름",
+      "name": "샌디",
       "name_default": "Sandy",
       "native": "Sandy",
       "type": "city",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": 125929,
-      "name": "산타퀸",
+      "name": "샌터퀸",
       "name_default": "Santaquin",
       "native": "Santaquin",
       "type": "city",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 125945,
-      "name": "사라토가 스프링스",
+      "name": "새러토가스프링스",
       "name_default": "Saratoga Springs",
       "native": "Saratoga Springs",
       "type": "city",
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 126680,
-      "name": "사우스 조던",
+      "name": "사우스조던",
       "name_default": "South Jordan",
       "native": "South Jordan",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 126722,
-      "name": "사우스 솔트레이크",
+      "name": "사우스솔트레이크",
       "name_default": "South Salt Lake",
       "native": "South Salt Lake",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 126745,
-      "name": "사우스 웨버",
+      "name": "사우스웨버",
       "name_default": "South Weber",
       "native": "South Weber",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 126798,
-      "name": "스페인 포크",
+      "name": "스패니시포크",
       "name_default": "Spanish Fork",
       "native": "Spanish Fork",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 126965,
-      "name": "스탠스베리 공원",
+      "name": "Stansbury park",
       "name_default": "Stansbury park",
       "native": "Stansbury park",
       "type": "city",
@@ -3007,7 +3007,7 @@
     },
     {
       "id": 127273,
-      "name": "일몰",
+      "name": "선셋",
       "name_default": "Sunset",
       "native": "Sunset",
       "type": "city",
@@ -3117,7 +3117,7 @@
       "id": 127956,
       "name": "유인타",
       "name_default": "Uintah",
-      "native": "Government",
+      "native": "Uintah",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3133,7 +3133,7 @@
     },
     {
       "id": 128187,
-      "name": "봄 같은",
+      "name": "버널",
       "name_default": "Vernal",
       "native": "Vernal",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 128272,
-      "name": "포도원",
+      "name": "비니어드",
       "name_default": "Vineyard",
       "native": "Vineyard",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 128586,
-      "name": "워싱턴 테라스",
+      "name": "워싱턴테라스",
       "name_default": "Washington Terrace",
       "native": "Washington Terrace",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 128829,
-      "name": "웨스트 바운티풀",
+      "name": "웨스트바운티풀",
       "name_default": "West Bountiful",
       "native": "West Bountiful",
       "type": "city",
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 128888,
-      "name": "웨스트 헤이븐",
+      "name": "웨스트헤이븐",
       "name_default": "West Haven",
       "native": "West Haven",
       "type": "city",
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 128905,
-      "name": "웨스트 조던",
+      "name": "웨스트조던",
       "name_default": "West Jordan",
       "native": "West Jordan",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 128997,
-      "name": "웨스트 밸리 시티",
+      "name": "웨스트밸리시티",
       "name_default": "West Valley City",
       "native": "West Valley City",
       "type": "city",
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 129132,
-      "name": "화이트 시티",
+      "name": "화이트시티",
       "name_default": "White City",
       "native": "White City",
       "type": "city",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": 129531,
-      "name": "우들랜드 힐스",
+      "name": "우들랜드힐스",
       "name_default": "Woodland Hills",
       "native": "Woodland Hills",
       "type": "city",
@@ -3439,7 +3439,7 @@
     },
     {
       "id": 129551,
-      "name": "우즈 크로스",
+      "name": "우즈크로스",
       "name_default": "Woods Cross",
       "native": "Woods Cross",
       "type": "city",

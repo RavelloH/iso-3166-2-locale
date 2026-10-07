@@ -271,7 +271,7 @@
     },
     {
       "id": 111273,
-      "name": "چنگال آمریکایی",
+      "name": "آمریکن فورک",
       "name_default": "American Fork",
       "native": "American Fork",
       "type": "city",
@@ -289,7 +289,7 @@
     },
     {
       "id": 111663,
-      "name": "شفق قطبی",
+      "name": "آرورا",
       "name_default": "Aurora",
       "native": "Aurora",
       "type": "city",
@@ -343,7 +343,7 @@
     },
     {
       "id": 112170,
-      "name": "بنیامین",
+      "name": "بنجامین",
       "name_default": "Benjamin",
       "native": "Benjamin",
       "type": "city",
@@ -397,7 +397,7 @@
     },
     {
       "id": 112482,
-      "name": "بلوفدیل",
+      "name": "بلافدل",
       "name_default": "Bluffdale",
       "native": "Bluffdale",
       "type": "city",
@@ -415,7 +415,7 @@
     },
     {
       "id": 112610,
-      "name": "فراوان",
+      "name": "بونتیفول",
       "name_default": "Bountiful",
       "native": "Bountiful",
       "type": "city",
@@ -433,7 +433,7 @@
     },
     {
       "id": 112784,
-      "name": "بریگام سیتی",
+      "name": "بریگهم سیتی",
       "name_default": "Brigham City",
       "native": "Brigham City",
       "type": "city",
@@ -451,7 +451,7 @@
     },
     {
       "id": 113360,
-      "name": "حاشیه دره",
+      "name": "کانیون ریم",
       "name_default": "Canyon Rim",
       "native": "Canyon Rim",
       "type": "city",
@@ -469,7 +469,7 @@
     },
     {
       "id": 113391,
-      "name": "کاربونویل",
+      "name": "کاربون‌ویل",
       "name_default": "Carbonville",
       "native": "Carbonville",
       "type": "city",
@@ -487,7 +487,7 @@
     },
     {
       "id": 113543,
-      "name": "کسل دیل",
+      "name": "کاسل‌دیل",
       "name_default": "Castle Dale",
       "native": "Castle Dale",
       "type": "city",
@@ -505,7 +505,7 @@
     },
     {
       "id": 113603,
-      "name": "شهر سدر",
+      "name": "سدارسیتی",
       "name_default": "Cedar City",
       "native": "Cedar City",
       "type": "city",
@@ -523,7 +523,7 @@
     },
     {
       "id": 113616,
-      "name": "سیدار هیلز",
+      "name": "سدارهیلز",
       "name_default": "Cedar Hills",
       "native": "Cedar Hills",
       "type": "city",
@@ -631,7 +631,7 @@
     },
     {
       "id": 114705,
-      "name": "کاتن‌وود هایتس",
+      "name": "کاتن وود هایتز",
       "name_default": "Cottonwood Heights",
       "native": "Cottonwood Heights",
       "type": "city",
@@ -703,7 +703,7 @@
     },
     {
       "id": 115502,
-      "name": "دوشسن",
+      "name": "داچسن",
       "name_default": "Duchesne",
       "native": "Duchesne",
       "type": "city",
@@ -721,7 +721,7 @@
     },
     {
       "id": 115607,
-      "name": "کوه عقاب",
+      "name": "ایگل ماونتین",
       "name_default": "Eagle Mountain",
       "native": "Eagle Mountain",
       "type": "city",
@@ -739,7 +739,7 @@
     },
     {
       "id": 115642,
-      "name": "شهر کربن شرقی",
+      "name": "ایست کربن",
       "name_default": "East Carbon City",
       "native": "East Carbon City",
       "type": "city",
@@ -775,7 +775,7 @@
     },
     {
       "id": 115992,
-      "name": "الک ریج",
+      "name": "الک‌ریج",
       "name_default": "Elk Ridge",
       "native": "Elk Ridge",
       "type": "city",
@@ -829,7 +829,7 @@
     },
     {
       "id": 116151,
-      "name": "تصدی",
+      "name": "انترپرایز",
       "name_default": "Enterprise",
       "native": "Enterprise",
       "type": "city",
@@ -867,7 +867,7 @@
       "id": 116162,
       "name": "اردا",
       "name_default": "Erda",
-      "native": "On the ground",
+      "native": "Erda",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -883,7 +883,7 @@
     },
     {
       "id": 116357,
-      "name": "فرویو",
+      "name": "فیرویو",
       "name_default": "Fairview",
       "native": "Fairview",
       "type": "city",
@@ -919,7 +919,7 @@
     },
     {
       "id": 116428,
-      "name": "غرب فار",
+      "name": "وست فار",
       "name_default": "Farr West",
       "native": "Farr West",
       "type": "city",
@@ -937,9 +937,9 @@
     },
     {
       "id": 116496,
-      "name": "فرون",
+      "name": "فررون",
       "name_default": "Ferron",
-      "native": "Iron",
+      "native": "Ferron",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -973,7 +973,7 @@
     },
     {
       "id": 116780,
-      "name": "فواره سبز",
+      "name": "فانتین گرین",
       "name_default": "Fountain Green",
       "native": "Fountain Green",
       "type": "city",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 116967,
-      "name": "ارتفاعات میوه",
+      "name": "فروت هایتس",
       "name_default": "Fruit Heights",
       "native": "Fruit Heights",
       "type": "city",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": 117149,
-      "name": "ژنولا",
+      "name": "گنولا",
       "name_default": "Genola",
       "native": "Genola",
       "type": "city",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 117492,
-      "name": "گرانیت",
+      "name": "گرنیت",
       "name_default": "Granite",
       "native": "Granite",
       "type": "city",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 117803,
-      "name": "گانیسون",
+      "name": "گانیسن",
       "name_default": "Gunnison",
       "native": "Gunnison",
       "type": "city",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 118229,
-      "name": "شهر هبر",
+      "name": "هبر",
       "name_default": "Heber City",
       "native": "Heber City",
       "type": "city",
@@ -1153,7 +1153,7 @@
     },
     {
       "id": 118262,
-      "name": "یاور",
+      "name": "هلپر",
       "name_default": "Helper",
       "native": "Helper",
       "type": "city",
@@ -1173,7 +1173,7 @@
       "id": 118338,
       "name": "هریمن",
       "name_default": "Herriman",
-      "native": "Faculation",
+      "native": "Herriman",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1207,7 +1207,7 @@
     },
     {
       "id": 118429,
-      "name": "هیلدال",
+      "name": "هیل‌دیل",
       "name_default": "Hildale",
       "native": "Hildale",
       "type": "city",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 118536,
-      "name": "هالادی",
+      "name": "هال‌لیدی",
       "name_default": "Holladay",
       "native": "Holladay",
       "type": "city",
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 118828,
-      "name": "طوفان",
+      "name": "هاریکن",
       "name_default": "Hurricane",
       "native": "Hurricane",
       "type": "city",
@@ -1333,7 +1333,7 @@
     },
     {
       "id": 118853,
-      "name": "هاید پارک",
+      "name": "هید پارک",
       "name_default": "Hyde Park",
       "native": "Hyde Park",
       "type": "city",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": 118857,
-      "name": "هایروم",
+      "name": "هیریوم",
       "name_default": "Hyrum",
       "native": "Hyrum",
       "type": "city",
@@ -1369,7 +1369,7 @@
     },
     {
       "id": 119051,
-      "name": "ایوینز",
+      "name": "ایونس",
       "name_default": "Ivins",
       "native": "Ivins",
       "type": "city",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 119332,
-      "name": "تقاطع",
+      "name": "جانکشن",
       "name_default": "Junction",
       "native": "Junction",
       "type": "city",
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 119372,
-      "name": "کناب",
+      "name": "کاناب",
       "name_default": "Kanab",
       "native": "Kanab",
       "type": "city",
@@ -1479,7 +1479,7 @@
       "id": 119807,
       "name": "لاورکین",
       "name_default": "LaVerkin",
-      "native": "Staple",
+      "native": "LaVerkin",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 120333,
-      "name": "لیحی",
+      "name": "لحی",
       "name_default": "Lehi",
       "native": "Lehi",
       "type": "city",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 120429,
-      "name": "لویستون",
+      "name": "لوئیزتون",
       "name_default": "Lewiston",
       "native": "Lewiston",
       "type": "city",
@@ -1549,7 +1549,7 @@
     },
     {
       "id": 120468,
-      "name": "آزادی",
+      "name": "لیبرتی",
       "name_default": "Liberty",
       "native": "Liberty",
       "type": "city",
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 120615,
-      "name": "دره نهر کوچک کاتن‌وود",
+      "name": "لیتل کاتن‌وود کریک ولی",
       "name_default": "Little Cottonwood Creek Valley",
       "native": "Little Cottonwood Creek Valley",
       "type": "city",
@@ -1605,7 +1605,7 @@
       "id": 120668,
       "name": "لوا",
       "name_default": "Loa",
-      "native": "Very well",
+      "native": "Loa",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 121030,
-      "name": "مایزر",
+      "name": "مایسر",
       "name_default": "Maeser",
       "native": "Maeser",
       "type": "city",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 122006,
-      "name": "موآب",
+      "name": "مواب",
       "name_default": "Moab",
       "native": "Moab",
       "type": "city",
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 122171,
-      "name": "مونتیسلو",
+      "name": "مانتیسلو",
       "name_default": "Monticello",
       "native": "Monticello",
       "type": "city",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 122372,
-      "name": "کوه المپ",
+      "name": "مانت اولیمپوس",
       "name_default": "Mount Olympus",
       "native": "Mount Olympus",
       "type": "city",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": 122381,
-      "name": "کوه پلیزنت",
+      "name": "مونت پلزنت",
       "name_default": "Mount Pleasant",
       "native": "Mount Pleasant",
       "type": "city",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 122413,
-      "name": "کوه سبز",
+      "name": "مانتین گرین",
       "name_default": "Mountain Green",
       "native": "Mountain Green",
       "type": "city",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 122492,
-      "name": "موری",
+      "name": "مورای",
       "name_default": "Murray",
       "native": "Murray",
       "type": "city",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 123060,
-      "name": "نورث لوگان",
+      "name": "لوگان شمالی",
       "name_default": "North Logan",
       "native": "North Logan",
       "type": "city",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 123074,
-      "name": "اوگدن شمالی",
+      "name": "اوجن شمالی",
       "name_default": "North Ogden",
       "native": "North Ogden",
       "type": "city",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 123099,
-      "name": "دریاچه نمک شمالی",
+      "name": "سالت لیک شمالی",
       "name_default": "North Salt Lake",
       "native": "North Salt Lake",
       "type": "city",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": 123369,
-      "name": "اوگدن",
+      "name": "اودن",
       "name_default": "Ogden",
       "native": "Ogden",
       "type": "city",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": 123551,
-      "name": "اورم",
+      "name": "اوریم",
       "name_default": "Orem",
       "native": "Orem",
       "type": "city",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": 123800,
-      "name": "پانگوئیچ",
+      "name": "پنگوئیچ",
       "name_default": "Panguitch",
       "native": "Panguitch",
       "type": "city",
@@ -2269,9 +2269,9 @@
     },
     {
       "id": 123888,
-      "name": "پروان",
+      "name": "پارووان",
       "name_default": "Parowan",
-      "native": "Evaporating",
+      "native": "Parowan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 124315,
-      "name": "شهر دشتی",
+      "name": "پلین سیتی",
       "name_default": "Plain City",
       "native": "Plain City",
       "type": "city",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": 124381,
-      "name": "منظره دلپذیر",
+      "name": "پلزنت ویو",
       "name_default": "Pleasant View",
       "native": "Pleasant View",
       "type": "city",
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 124663,
-      "name": "قیمت",
+      "name": "پرایس",
       "name_default": "Price",
       "native": "Price",
       "type": "city",
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 124721,
-      "name": "پروو",
+      "name": "پرووو",
       "name_default": "Provo",
       "native": "Provo",
       "type": "city",
@@ -2485,7 +2485,7 @@
     },
     {
       "id": 125181,
-      "name": "ارتفاعات رودخانه",
+      "name": "ریور هیتز",
       "name_default": "River Heights",
       "native": "River Heights",
       "type": "city",
@@ -2575,7 +2575,7 @@
     },
     {
       "id": 125644,
-      "name": "سنت جورج",
+      "name": "سنت. جورج",
       "name_default": "Saint George",
       "native": "Saint George",
       "type": "city",
@@ -2593,7 +2593,7 @@
     },
     {
       "id": 125739,
-      "name": "سالم",
+      "name": "سیلم",
       "name_default": "Salem",
       "native": "Salem",
       "type": "city",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 125767,
-      "name": "سالت لیک سیتی",
+      "name": "سالت‌لیک‌سیتی",
       "name_default": "Salt Lake City",
       "native": "Salt Lake City",
       "type": "city",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": 126438,
-      "name": "اجلاس نقره‌ای",
+      "name": "سیلور سامیت",
       "name_default": "Silver Summit",
       "native": "Silver Summit",
       "type": "city",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": 126521,
-      "name": "اسمیتفیلد",
+      "name": "اسمیت‌فیلد",
       "name_default": "Smithfield",
       "native": "Smithfield",
       "type": "city",
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 126680,
-      "name": "جردن جنوبی",
+      "name": "ساوت جردن",
       "name_default": "South Jordan",
       "native": "South Jordan",
       "type": "city",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": 126681,
-      "name": "ارتفاعات ساوت جردن",
+      "name": "South Jordan Heights",
       "name_default": "South Jordan Heights",
       "native": "South Jordan Heights",
       "type": "section",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": 126696,
-      "name": "اوگدن جنوبی",
+      "name": "اودن جنوبی",
       "name_default": "South Ogden",
       "native": "South Ogden",
       "type": "city",
@@ -2845,7 +2845,7 @@
     },
     {
       "id": 126722,
-      "name": "دریاچه نمک جنوبی",
+      "name": "ساوت سالت لیک",
       "name_default": "South Salt Lake",
       "native": "South Salt Lake",
       "type": "city",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": 126745,
-      "name": "وبر جنوبی",
+      "name": "ساوت وبر",
       "name_default": "South Weber",
       "native": "South Weber",
       "type": "city",
@@ -2881,7 +2881,7 @@
     },
     {
       "id": 126749,
-      "name": "ویلارد جنوبی",
+      "name": "ساوت ویلارد",
       "name_default": "South Willard",
       "native": "South Willard",
       "type": "city",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 126798,
-      "name": "چنگال اسپانیایی",
+      "name": "اسپنیش فورک",
       "name_default": "Spanish Fork",
       "native": "Spanish Fork",
       "type": "city",
@@ -2917,7 +2917,7 @@
     },
     {
       "id": 126853,
-      "name": "شهر بهاری",
+      "name": "اسپرینگ سیتی",
       "name_default": "Spring City",
       "native": "Spring City",
       "type": "city",
@@ -2935,7 +2935,7 @@
     },
     {
       "id": 126855,
-      "name": "بهار گلن",
+      "name": "Spring Glen",
       "name_default": "Spring Glen",
       "native": "Spring Glen",
       "type": "city",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": 126965,
-      "name": "پارک استنزبری",
+      "name": "استنزبری پارک",
       "name_default": "Stansbury park",
       "native": "Stansbury park",
       "type": "city",
@@ -2989,7 +2989,7 @@
     },
     {
       "id": 127219,
-      "name": "پارک سامیت",
+      "name": "سامیت پارک",
       "name_default": "Summit Park",
       "native": "Summit Park",
       "type": "city",
@@ -3007,7 +3007,7 @@
     },
     {
       "id": 127273,
-      "name": "غروب آفتاب",
+      "name": "سان‌ست",
       "name_default": "Sunset",
       "native": "Sunset",
       "type": "city",
@@ -3079,7 +3079,7 @@
     },
     {
       "id": 127738,
-      "name": "توکرويل",
+      "name": "تاکوئرویل",
       "name_default": "Toquerville",
       "native": "Toquerville",
       "type": "city",
@@ -3117,7 +3117,7 @@
       "id": 127956,
       "name": "یونیتا",
       "name_default": "Uintah",
-      "native": "Government",
+      "native": "Uintah",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3133,7 +3133,7 @@
     },
     {
       "id": 128187,
-      "name": "بهاره",
+      "name": "ورنال",
       "name_default": "Vernal",
       "native": "Vernal",
       "type": "city",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 128272,
-      "name": "تاکستان",
+      "name": "وینیارد",
       "name_default": "Vineyard",
       "native": "Vineyard",
       "type": "city",
@@ -3169,7 +3169,7 @@
     },
     {
       "id": 128551,
-      "name": "واشنگتن",
+      "name": "واشینگتن",
       "name_default": "Washington",
       "native": "Washington",
       "type": "city",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": 128586,
-      "name": "تراس واشنگتن",
+      "name": "واشینگتن تراس",
       "name_default": "Washington Terrace",
       "native": "Washington Terrace",
       "type": "city",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 128801,
-      "name": "وندوور",
+      "name": "ونداور",
       "name_default": "Wendover",
       "native": "Wendover",
       "type": "city",
@@ -3259,7 +3259,7 @@
     },
     {
       "id": 128829,
-      "name": "وست بونتفول",
+      "name": "وست بونتیفول",
       "name_default": "West Bountiful",
       "native": "West Bountiful",
       "type": "city",
@@ -3313,7 +3313,7 @@
     },
     {
       "id": 128937,
-      "name": "کوه غربی",
+      "name": "وست ماونتن",
       "name_default": "West Mountain",
       "native": "West Mountain",
       "type": "city",
@@ -3349,7 +3349,7 @@
     },
     {
       "id": 128997,
-      "name": "شهر وست ولی",
+      "name": "وست ولی سیتی",
       "name_default": "West Valley City",
       "native": "West Valley City",
       "type": "city",
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 129132,
-      "name": "شهر سفید",
+      "name": "وایت سیتی",
       "name_default": "White City",
       "native": "White City",
       "type": "city",

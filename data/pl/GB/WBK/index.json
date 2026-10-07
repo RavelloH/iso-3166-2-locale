@@ -129,7 +129,7 @@
     },
     {
       "id": 49062,
-      "name": "Zimny popiół",
+      "name": "Cold Ash",
       "name_default": "Cold Ash",
       "native": "Cold Ash",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 49910,
-      "name": "Pustelnia",
+      "name": "Hermitage",
       "name_default": "Hermitage",
       "native": "Hermitage",
       "type": "city",
@@ -203,7 +203,7 @@
       "id": 50171,
       "name": "Kingsclere",
       "name_default": "Kingsclere",
-      "native": "Kingscere",
+      "native": "Kingsclere",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 51700,
-      "name": "Górny Basildon",
+      "name": "Upper Basildon",
       "name_default": "Upper Basildon",
       "native": "Upper Basildon",
       "type": "adm3",
@@ -344,26 +344,8 @@
       "country_id": 232
     },
     {
-      "id": 51745,
-      "name": "Wantage",
-      "name_default": "Wantage",
-      "native": "Wantage",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 18505,
-      "latitude": "51.58846000",
-      "longitude": "-1.42565000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q953957",
-      "country_code": "GB",
-      "state_code": "WBK",
-      "state_id": 2471,
-      "country_id": 232
-    },
-    {
       "id": 51806,
-      "name": "Zachodnie Berkshire",
+      "name": "West Berkshire",
       "name_default": "West Berkshire",
       "native": "West Berkshire",
       "type": "area",
@@ -381,7 +363,7 @@
     },
     {
       "id": 51821,
-      "name": "Zachodni Ilsley",
+      "name": "West Ilsley",
       "name_default": "West Ilsley",
       "native": "West Ilsley",
       "type": "adm1",

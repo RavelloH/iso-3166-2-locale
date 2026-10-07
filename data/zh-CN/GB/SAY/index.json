@@ -93,7 +93,7 @@
     },
     {
       "id": 48840,
-      "name": "坎贝尔敦",
+      "name": "坎贝尔城",
       "name_default": "Campbeltown",
       "native": "Campbeltown",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49646,
-      "name": "吉尔文",
+      "name": "格尔文",
       "name_default": "Girvan",
       "native": "Girvan",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50531,
-      "name": "梅博尔",
+      "name": "梅博勒",
       "name_default": "Maybole",
       "native": "Maybole",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 50859,
-      "name": "巴特那",
+      "name": "帕特纳",
       "name_default": "Patna",
       "native": "Patna",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 50990,
-      "name": "普雷斯蒂克",
+      "name": "普雷斯威克",
       "name_default": "Prestwick",
       "native": "Prestwick",
       "type": "city",
@@ -254,24 +254,6 @@
       "country_id": 232
     },
     {
-      "id": 51488,
-      "name": "斯特兰拉尔",
-      "name_default": "Stranraer",
-      "native": "Stranner",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10320,
-      "latitude": "54.90234000",
-      "longitude": "-5.02731000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1001935",
-      "country_code": "GB",
-      "state_code": "SAY",
-      "state_id": 2377,
-      "country_id": 232
-    },
-    {
       "id": 51540,
       "name": "西明顿",
       "name_default": "Symington",
@@ -291,7 +273,7 @@
     },
     {
       "id": 51559,
-      "name": "塔博尔顿",
+      "name": "塔伯尔顿",
       "name_default": "Tarbolton",
       "native": "Tarbolton",
       "type": "city",
@@ -302,6 +284,24 @@
       "longitude": "-4.48648000",
       "timezone": "Europe/London",
       "wikiDataId": "Q1011743",
+      "country_code": "GB",
+      "state_code": "SAY",
+      "state_id": 2377,
+      "country_id": 232
+    },
+    {
+      "id": 51673,
+      "name": "特伦",
+      "name_default": "Troon",
+      "native": "Troon",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14680,
+      "latitude": "55.54359000",
+      "longitude": "-4.66335000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q1021167",
       "country_code": "GB",
       "state_code": "SAY",
       "state_id": 2377,

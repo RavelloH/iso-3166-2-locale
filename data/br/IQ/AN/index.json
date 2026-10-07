@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134552,
-      "name": "'Anah",
+      "name": "‘Anah",
       "name_default": "‘Anah",
       "native": "عنة",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 134553,
-      "name": "Anat al Qadīmah",
+      "name": "‘Anat al Qadīmah",
       "name_default": "‘Anat al Qadīmah",
       "native": "عنة القديمة",
       "type": "destroyed",
@@ -165,9 +165,9 @@
     },
     {
       "id": 134514,
-      "name": "Skeiñ",
+      "name": "Hīt",
       "name_default": "Hīt",
-      "native": "يضرب",
+      "native": "هيت",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 134515,
-      "name": "Distrig Hīt",
+      "name": "Hīt District",
       "name_default": "Hīt District",
       "native": "منطقة هيت",
       "type": "district",

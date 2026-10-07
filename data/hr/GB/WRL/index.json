@@ -165,7 +165,7 @@
     },
     {
       "id": 50561,
-      "name": "Metropolitanska općina Wirral",
+      "name": "Metropolitan Borough of Wirral",
       "name_default": "Metropolitan Borough of Wirral",
       "native": "Metropolitan Borough of Wirral",
       "type": "area",
@@ -200,26 +200,8 @@
       "country_id": 232
     },
     {
-      "id": 50676,
-      "name": "Neston",
-      "name_default": "Neston",
-      "native": "Nest",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 15352,
-      "latitude": "53.28333000",
-      "longitude": "-3.05000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q925760",
-      "country_code": "GB",
-      "state_code": "WRL",
-      "state_id": 2408,
-      "country_id": 232
-    },
-    {
       "id": 50688,
-      "name": "Novi trajekt",
+      "name": "New Ferry",
       "name_default": "New Ferry",
       "native": "New Ferry",
       "type": "section",
@@ -273,7 +255,7 @@
     },
     {
       "id": 51824,
-      "name": "Zapadni Kirby",
+      "name": "West Kirby",
       "name_default": "West Kirby",
       "native": "West Kirby",
       "type": "city",

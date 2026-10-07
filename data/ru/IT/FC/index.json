@@ -59,7 +59,7 @@
       "id": 135753,
       "name": "Баньярола",
       "name_default": "Bagnarola",
-      "native": "BAGNO",
+      "native": "Bagnarola",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 137378,
-      "name": "Кастрокаро-Терме и Терра-дель-Соле",
+      "name": "Кастрокаро-Терме-е-Терра-дель-Соле",
       "name_default": "Castrocaro Terme e Terra del Sole",
       "native": "Castrocaro Terme e Terra del Sole",
       "type": "adm3",
@@ -201,7 +201,7 @@
     },
     {
       "id": 137803,
-      "name": "Чивителла-ди-Романья",
+      "name": "Чивителла-Ди-Романья",
       "name_default": "Civitella di Romagna",
       "native": "Civitella di Romagna",
       "type": "adm3",
@@ -435,7 +435,7 @@
     },
     {
       "id": 140078,
-      "name": "Меркато Сарачено",
+      "name": "Меркато-Сарачено",
       "name_default": "Mercato Saraceno",
       "native": "Mercato Saraceno",
       "type": "adm3",
@@ -471,7 +471,7 @@
     },
     {
       "id": 140556,
-      "name": "Монтиано",
+      "name": "Монтьяно",
       "name_default": "Montiano",
       "native": "Montiano",
       "type": "adm3",
@@ -507,7 +507,7 @@
     },
     {
       "id": 58751,
-      "name": "Поджо Берни",
+      "name": "Поджо-Берни",
       "name_default": "Poggio Berni",
       "native": "Poggio Berni",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 58920,
-      "name": "Portico e San Benedetto",
+      "name": "Портико-е-Сан-Бенедетто",
       "name_default": "Portico e San Benedetto",
       "native": "Portico e San Benedetto",
       "type": "adm3",
@@ -579,7 +579,7 @@
     },
     {
       "id": 59057,
-      "name": "Premilcuore",
+      "name": "Премилькуоре",
       "name_default": "Premilcuore",
       "native": "Premilcuore",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 59476,
-      "name": "Рокка Сан Кашано",
+      "name": "Рокка-Сан-Кашано",
       "name_default": "Rocca San Casciano",
       "native": "Rocca San Casciano",
       "type": "adm3",
@@ -777,7 +777,7 @@
     },
     {
       "id": 60491,
-      "name": "Санта София",
+      "name": "Санта-София",
       "name_default": "Santa Sofia",
       "native": "Santa Sofia",
       "type": "adm3",
@@ -788,24 +788,6 @@
       "longitude": "11.90867000",
       "timezone": "Europe/Rome",
       "wikiDataId": "Q99955",
-      "country_code": "IT",
-      "state_code": "FC",
-      "state_id": 1779,
-      "country_id": 107
-    },
-    {
-      "id": 60503,
-      "name": "Сантарканджело",
-      "name_default": "Santarcangelo",
-      "native": "Santarcangelo",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 10934,
-      "latitude": "44.06326000",
-      "longitude": "12.44657000",
-      "timezone": "Europe/Rome",
-      "wikiDataId": null,
       "country_code": "IT",
       "state_code": "FC",
       "state_id": 1779,
@@ -831,7 +813,7 @@
     },
     {
       "id": 60590,
-      "name": "Savignano sul Rubicone",
+      "name": "Савиньяно-суль-Рубиконе",
       "name_default": "Savignano sul Rubicone",
       "native": "Savignano sul Rubicone",
       "type": "adm3",
@@ -849,7 +831,7 @@
     },
     {
       "id": 60897,
-      "name": "Соглиано-аль-Рубиконе",
+      "name": "Сольяно-аль-Рубиконе",
       "name_default": "Sogliano al Rubicone",
       "native": "Sogliano al Rubicone",
       "type": "adm3",

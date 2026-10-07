@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 31229,
-      "name": "Akbu",
+      "name": "Akbou",
       "name_default": "Akbou",
       "native": "أكبو",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 31256,
-      "name": "Barbekü",
+      "name": "Barbacha",
       "name_default": "Barbacha",
       "native": "بارباشا",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 31259,
-      "name": "Bejaïa",
+      "name": "Bicaye",
       "name_default": "Béjaïa",
       "native": "بجاية",
       "type": "adm1",
@@ -157,7 +157,7 @@
       "latitude": "36.65000000",
       "longitude": "4.77361000",
       "timezone": "Africa/Algiers",
-      "wikiDataId": "Q3575264",
+      "wikiDataId": null,
       "country_code": "DZ",
       "state_code": "06",
       "state_id": 1128,
@@ -201,7 +201,7 @@
     },
     {
       "id": 31357,
-      "name": "İğram",
+      "name": "Ighram",
       "name_default": "Ighram",
       "native": "إغرام",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 31421,
-      "name": "Sedduk",
+      "name": "Seddouk",
       "name_default": "Seddouk",
       "native": "صدوق",
       "type": "city",

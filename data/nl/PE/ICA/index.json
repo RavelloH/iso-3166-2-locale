@@ -75,7 +75,7 @@
     },
     {
       "id": 80667,
-      "name": "Ika",
+      "name": "Ica",
       "name_default": "Ica",
       "native": "ICA",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80805,
-      "name": "Provincie Chincha",
+      "name": "Provincia de Chincha",
       "name_default": "Provincia de Chincha",
       "native": "Provincia de Chincha",
       "type": "province",
@@ -255,10 +255,10 @@
     },
     {
       "id": 80872,
-      "name": "Provincie Palpa",
+      "name": "Provincia de Palpa",
       "name_default": "Provincia de Palpa",
       "native": "Provincia de Palpa",
-      "type": "city",
+      "type": "province",
       "level": null,
       "parent_id": null,
       "population": 13232,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80878,
-      "name": "Provincie Pisco",
+      "name": "Provincia de Pisco",
       "name_default": "Provincia de Pisco",
       "native": "Provincia de Pisco",
       "type": "province",
@@ -391,7 +391,7 @@
       "latitude": "-13.71135000",
       "longitude": "-76.14980000",
       "timezone": "America/Lima",
-      "wikiDataId": "Q941183",
+      "wikiDataId": null,
       "country_code": "PE",
       "state_code": "ICA",
       "state_id": 3700,

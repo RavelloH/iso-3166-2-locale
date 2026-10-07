@@ -331,8 +331,26 @@
       "country_id": 142
     },
     {
+      "id": 70633,
+      "name": "گوریرو نگرو",
+      "name_default": "Guerrero Negro",
+      "native": "Guerrero Negro",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 13596,
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000",
+      "timezone": "America/Mexico_City",
+      "wikiDataId": "Q957163",
+      "country_code": "MX",
+      "state_code": "BCS",
+      "state_id": 3460,
+      "country_id": 142
+    },
+    {
       "id": 71436,
-      "name": "لاپاز",
+      "name": "لا پاس٬ باخا کالیفرنیا سور",
       "name_default": "La Paz",
       "native": "La Paz",
       "type": "adm1",
@@ -602,7 +620,7 @@
     },
     {
       "id": 73834,
-      "name": "سن خوزه دل کابو",
+      "name": "سان خوزه دل کابو",
       "name_default": "San José del Cabo",
       "native": "San José del Cabo",
       "type": "city",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48233,
-      "name": "奥尔特灵厄姆",
+      "name": "奥特林汉姆",
       "name_default": "Altrincham",
       "native": "Altrincham",
       "type": "city",
@@ -128,26 +128,8 @@
       "country_id": 232
     },
     {
-      "id": 50223,
-      "name": "纳茨福德",
-      "name_default": "Knutsford",
-      "native": "Knutsford",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 13259,
-      "latitude": "53.30289000",
-      "longitude": "-2.37482000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q1470791",
-      "country_code": "GB",
-      "state_code": "TRF",
-      "state_id": 2293,
-      "country_id": 232
-    },
-    {
       "id": 50856,
-      "name": "帕廷顿",
+      "name": "帕汀顿",
       "name_default": "Partington",
       "native": "Partington",
       "type": "adm3",
@@ -165,7 +147,7 @@
     },
     {
       "id": 51180,
-      "name": "销售",
+      "name": "塞尔",
       "name_default": "Sale",
       "native": "Sale",
       "type": "city",
@@ -237,7 +219,7 @@
     },
     {
       "id": 51658,
-      "name": "特拉福德公园球场",
+      "name": "特拉福德公园",
       "name_default": "Trafford Park",
       "native": "Trafford Park",
       "type": "city",
@@ -257,7 +239,7 @@
       "id": 51708,
       "name": "厄姆斯顿",
       "name_default": "Urmston",
-      "native": "Urfon",
+      "native": "Urmston",
       "type": "city",
       "level": null,
       "parent_id": null,

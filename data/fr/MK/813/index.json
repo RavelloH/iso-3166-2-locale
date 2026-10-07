@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 67386,
-      "name": "Batinci",
+      "name": "Batintsi",
       "name_default": "Batinci",
       "native": "Батинци",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 67419,
-      "name": "Dolno Količani",
+      "name": "Dolno Kolitchani",
       "name_default": "Dolno Količani",
       "native": "Долно Количани",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 67539,
-      "name": "Studeničane",
-      "name_default": "Studeničane",
-      "native": "Студеничане",
+      "name": "Studeničani",
+      "name_default": "Studeničani",
+      "native": "Студеничани",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -121,7 +121,7 @@
       "latitude": "41.92208000",
       "longitude": "21.53483000",
       "timezone": "Europe/Skopje",
-      "wikiDataId": "Q48814",
+      "wikiDataId": null,
       "country_code": "MK",
       "state_code": "813",
       "state_id": 711,

@@ -255,7 +255,7 @@
     },
     {
       "id": 15855,
-      "name": "체르비엔’",
+      "name": "체르벤",
       "name_default": "Červień",
       "native": "Чэрвень",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 15940,
-      "name": "클리에츠크",
+      "name": "클레차크",
       "name_default": "Klyetsk",
       "native": "Клецк",
       "type": "adm2",
@@ -867,7 +867,7 @@
     },
     {
       "id": 15981,
-      "name": "말라제크나",
+      "name": "말라제치나",
       "name_default": "Maladzyechna",
       "native": "Маладзечна",
       "type": "adm2",
@@ -1389,9 +1389,9 @@
     },
     {
       "id": 16068,
-      "name": "눈",
+      "name": "Snow",
       "name_default": "Snow",
-      "native": "Снег",
+      "native": "Сноў",
       "type": "city",
       "level": null,
       "parent_id": null,

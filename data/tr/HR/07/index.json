@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 54404,
-      "name": "Bjelovar",
+      "name": "Belovar",
       "name_default": "Bjelovar",
       "native": "Bjelovar",
       "type": "adm1",
@@ -93,7 +93,7 @@
     },
     {
       "id": 55017,
-      "name": "Čazma",
+      "name": "Çeşne",
       "name_default": "Čazma",
       "native": "Čazma",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 54489,
-      "name": "Garešnica",
+      "name": "Gerzence",
       "name_default": "Garešnica",
       "native": "Garešnica",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 54505,
-      "name": "Mezun Bjelovar",
+      "name": "Grad Bjelovar",
       "name_default": "Grad Bjelovar",
       "native": "Grad Bjelovar",
       "type": "adm1",
@@ -309,7 +309,7 @@
     },
     {
       "id": 54593,
-      "name": "Hersek",
+      "name": "Hercegovac",
       "name_default": "Hercegovac",
       "native": "Hercegovac",
       "type": "adm2",
@@ -347,7 +347,7 @@
       "id": 54630,
       "name": "Kapela",
       "name_default": "Kapela",
-      "native": "Bend",
+      "native": "Kapela",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -363,9 +363,9 @@
     },
     {
       "id": 54658,
-      "name": "Končanica",
+      "name": "Končaniçe",
       "name_default": "Končanica",
-      "native": "Prepustiti se",
+      "native": "Končanica",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -417,9 +417,9 @@
     },
     {
       "id": 55028,
-      "name": "Şandrovac",
+      "name": "Šandrovac",
       "name_default": "Šandrovac",
-      "native": "Lutati",
+      "native": "Šandrovac",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 54960,
-      "name": "Velika Pisanica",
+      "name": "Velika Pisaniçe",
       "name_default": "Velika Pisanica",
       "native": "Velika Pisanica",
       "type": "adm2",

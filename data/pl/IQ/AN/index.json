@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 134552,
-      "name": "„Anah",
+      "name": "‘Anah",
       "name_default": "‘Anah",
       "native": "عنة",
       "type": "adm2",
@@ -165,9 +165,9 @@
     },
     {
       "id": 134514,
-      "name": "Uderzyć",
+      "name": "Hit",
       "name_default": "Hīt",
-      "native": "يضرب",
+      "native": "هيت",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 134515,
-      "name": "Dystrykt Hit",
+      "name": "Hīt District",
       "name_default": "Hīt District",
       "native": "منطقة هيت",
       "type": "district",
@@ -201,7 +201,7 @@
     },
     {
       "id": 134533,
-      "name": "Ramadi",
+      "name": "Ar-Ramadi",
       "name_default": "Ramadi",
       "native": "الرمادي",
       "type": "adm1",
@@ -219,7 +219,7 @@
     },
     {
       "id": 134535,
-      "name": "Rawa",
+      "name": "Rāwah",
       "name_default": "Rāwah",
       "native": "راوة",
       "type": "adm2",

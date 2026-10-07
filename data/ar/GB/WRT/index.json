@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 48264,
-      "name": "أبلتون ثورن",
+      "name": "ابلتون تورن",
       "name_default": "Appleton Thorn",
       "native": "Appleton Thorn",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 48795,
-      "name": "بيرتونوود",
+      "name": "بورتونوود",
       "name_default": "Burtonwood",
       "native": "Burtonwood",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 49197,
-      "name": "كولشيث",
+      "name": "كولتشث",
       "name_default": "Culcheth",
       "native": "Culcheth",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 49701,
-      "name": "جرابنهال",
+      "name": "غرببنهلل",
       "name_default": "Grappenhall",
       "native": "Grappenhall",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 49731,
-      "name": "سانكي العظيم",
+      "name": "غريت سنكي",
       "name_default": "Great Sankey",
       "native": "Great Sankey",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 50448,
-      "name": "ليم",
+      "name": "ليمم",
       "name_default": "Lymm",
       "native": "Lymm",
       "type": "adm3",
@@ -176,24 +176,6 @@
       "longitude": "-2.47763000",
       "timezone": "Europe/London",
       "wikiDataId": "Q998181",
-      "country_code": "GB",
-      "state_code": "WRT",
-      "state_id": 2420,
-      "country_id": 232
-    },
-    {
-      "id": 50734,
-      "name": "نيوتن لو ويلوز",
-      "name_default": "Newton-le-Willows",
-      "native": "Newton-le-Willows",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 21782,
-      "latitude": "53.45000000",
-      "longitude": "-2.60000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q750000",
       "country_code": "GB",
       "state_code": "WRT",
       "state_id": 2420,

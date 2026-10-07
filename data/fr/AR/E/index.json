@@ -134,7 +134,7 @@
   "cities": [
     {
       "id": 645,
-      "name": "Village de San Antonio",
+      "name": "Aldea San Antonio",
       "name_default": "Aldea San Antonio",
       "native": "Aldea San Antonio",
       "type": "city",
@@ -154,7 +154,7 @@
       "id": 665,
       "name": "Aranguren",
       "name_default": "Aranguren",
-      "native": "Argurur",
+      "native": "Aranguren",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -242,7 +242,7 @@
     },
     {
       "id": 783,
-      "name": "Côlon",
+      "name": "Colón",
       "name_default": "Colón",
       "native": "Colon",
       "type": "adm2",
@@ -260,7 +260,7 @@
     },
     {
       "id": 779,
-      "name": "Colonie Elía",
+      "name": "Colonia Elía",
       "name_default": "Colonia Elía",
       "native": "Colonia Elía",
       "type": "city",
@@ -314,9 +314,9 @@
     },
     {
       "id": 794,
-      "name": "Conscrit Bernardi",
+      "name": "Conscripto Bernardi",
       "name_default": "Conscripto Bernardi",
-      "native": "Bernardo",
+      "native": "Conscripto Bernardi",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -334,7 +334,7 @@
       "id": 808,
       "name": "Crespo",
       "name_default": "Crespo",
-      "native": "Copa",
+      "native": "Crespo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -350,7 +350,7 @@
     },
     {
       "id": 902,
-      "name": "Département de Gualeguaychú",
+      "name": "Departamento de Gualeguaychú",
       "name_default": "Departamento de Gualeguaychú",
       "native": "Departamento de Gualeguaychú",
       "type": "area",
@@ -368,7 +368,7 @@
     },
     {
       "id": 955,
-      "name": "Département de Paraná",
+      "name": "Departamento de Paraná",
       "name_default": "Departamento de Paraná",
       "native": "Departamento de Paraná",
       "type": "area",
@@ -386,7 +386,7 @@
     },
     {
       "id": 1040,
-      "name": "Diamant",
+      "name": "Diamante",
       "name_default": "Diamante",
       "native": "Diamante",
       "type": "adm2",
@@ -404,7 +404,7 @@
     },
     {
       "id": 1075,
-      "name": "Fédération",
+      "name": "Federación",
       "name_default": "Federación",
       "native": "Federación",
       "type": "adm2",
@@ -422,7 +422,7 @@
     },
     {
       "id": 1076,
-      "name": "Fédéral",
+      "name": "Federal",
       "name_default": "Federal",
       "native": "Federal",
       "type": "adm2",
@@ -440,9 +440,9 @@
     },
     {
       "id": 1098,
-      "name": "Général Campos",
+      "name": "General Campos",
       "name_default": "General Campos",
-      "native": "Campos general",
+      "native": "General Campos",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -458,7 +458,7 @@
     },
     {
       "id": 1104,
-      "name": "Général Galarza",
+      "name": "General Galarza",
       "name_default": "General Galarza",
       "native": "General Galarza",
       "type": "city",
@@ -476,7 +476,7 @@
     },
     {
       "id": 1110,
-      "name": "Général Ramírez",
+      "name": "General Ramírez",
       "name_default": "General Ramírez",
       "native": "General Ramírez",
       "type": "city",
@@ -494,7 +494,7 @@
     },
     {
       "id": 1119,
-      "name": "Gouverneur Mansilla",
+      "name": "Gobernador Mansilla",
       "name_default": "Gobernador Mansilla",
       "native": "Gobernador Mansilla",
       "type": "city",
@@ -566,7 +566,7 @@
     },
     {
       "id": 1137,
-      "name": "Hernandez",
+      "name": "Hernández",
       "name_default": "Hernández",
       "native": "Hernández",
       "type": "city",
@@ -656,7 +656,7 @@
     },
     {
       "id": 1245,
-      "name": "Les Charrúas",
+      "name": "Los Charrúas",
       "name_default": "Los Charrúas",
       "native": "Los Charrúas",
       "type": "city",
@@ -674,7 +674,7 @@
     },
     {
       "id": 1247,
-      "name": "Les Conquistadors",
+      "name": "Los Conquistadores",
       "name_default": "Los Conquistadores",
       "native": "Los Conquistadores",
       "type": "city",
@@ -692,7 +692,7 @@
     },
     {
       "id": 1257,
-      "name": "Lucas Gonzalez",
+      "name": "Lucas González",
       "name_default": "Lucas González",
       "native": "Lucas González",
       "type": "city",
@@ -710,7 +710,7 @@
     },
     {
       "id": 1261,
-      "name": "Macia",
+      "name": "Maciá",
       "name_default": "Maciá",
       "native": "Maciá",
       "type": "city",
@@ -728,7 +728,7 @@
     },
     {
       "id": 1564,
-      "name": "Villa María Grande",
+      "name": "María Grande",
       "name_default": "María Grande",
       "native": "Villa María Grande",
       "type": "city",
@@ -764,7 +764,7 @@
     },
     {
       "id": 1309,
-      "name": "Or vert",
+      "name": "Oro Verde",
       "name_default": "Oro Verde",
       "native": "Oro Verde",
       "type": "city",
@@ -818,7 +818,7 @@
     },
     {
       "id": 1348,
-      "name": "Prononciation",
+      "name": "Pronunciamiento",
       "name_default": "Pronunciamiento",
       "native": "Pronunciamiento",
       "type": "city",
@@ -908,7 +908,7 @@
     },
     {
       "id": 1426,
-      "name": "Saint Gustave",
+      "name": "San Gustavo",
       "name_default": "San Gustavo",
       "native": "San Gustavo",
       "type": "city",
@@ -1036,7 +1036,7 @@
       "id": 1480,
       "name": "Sauce de Luna",
       "name_default": "Sauce de Luna",
-      "native": "Salsa de la luna",
+      "native": "Sauce de Luna",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1052,7 +1052,7 @@
     },
     {
       "id": 1482,
-      "name": "Continuer",
+      "name": "Seguí",
       "name_default": "Seguí",
       "native": "Seguí",
       "type": "city",
@@ -1108,7 +1108,7 @@
       "id": 1522,
       "name": "Urdinarrain",
       "name_default": "Urdinarrain",
-      "native": "Azul",
+      "native": "Urdinarrain",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1126,7 +1126,7 @@
       "id": 1531,
       "name": "Viale",
       "name_default": "Viale",
-      "native": "Avenida",
+      "native": "Viale",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1178,7 +1178,7 @@
     },
     {
       "id": 1043,
-      "name": "Domínguez",
+      "name": "villa Dominguez",
       "name_default": "Villa Domínguez",
       "native": "Domínguez",
       "type": "city",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": 1562,
-      "name": "Villa Mantero",
+      "name": "villa Mantero",
       "name_default": "Villa Mantero",
       "native": "Villa Montero",
       "type": "city",
@@ -1250,7 +1250,7 @@
     },
     {
       "id": 1571,
-      "name": "Villa Paranacito",
+      "name": "villa Paranacito",
       "name_default": "Villa Paranacito",
       "native": "Villa paranacito",
       "type": "adm2",

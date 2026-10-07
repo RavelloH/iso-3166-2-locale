@@ -270,7 +270,7 @@
     },
     {
       "id": 10277,
-      "name": "安东尼奥·若昂",
+      "name": "安东尼奥若昂",
       "name_default": "Antônio João",
       "native": "Antônio João",
       "type": "city",
@@ -377,24 +377,6 @@
       "country_id": 31
     },
     {
-      "id": 10580,
-      "name": "巴泰波朗",
-      "name_default": "Bataiporã",
-      "native": "Breakbong quebrado",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 10712,
-      "latitude": "-22.29528000",
-      "longitude": "-53.27111000",
-      "timezone": "America/Campo_Grande",
-      "wikiDataId": "Q1796657",
-      "country_code": "BR",
-      "state_code": "MS",
-      "state_id": 2010,
-      "country_id": 31
-    },
-    {
       "id": 10584,
       "name": "巴泰波朗",
       "name_default": "Batayporã",
@@ -407,6 +389,24 @@
       "longitude": "-53.17683000",
       "timezone": "America/Campo_Grande",
       "wikiDataId": "Q650500",
+      "country_code": "BR",
+      "state_code": "MS",
+      "state_id": 2010,
+      "country_id": 31
+    },
+    {
+      "id": 10580,
+      "name": "巴泰波朗",
+      "name_default": "Batayporã",
+      "native": "Batayporã",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10712,
+      "latitude": "-22.29528000",
+      "longitude": "-53.27111000",
+      "timezone": "America/Campo_Grande",
+      "wikiDataId": "Q1796657",
       "country_code": "BR",
       "state_code": "MS",
       "state_id": 2010,
@@ -450,7 +450,7 @@
     },
     {
       "id": 10737,
-      "name": "鲣",
+      "name": "博尼塔",
       "name_default": "Bonito",
       "native": "Bonito",
       "type": "city",
@@ -522,7 +522,7 @@
     },
     {
       "id": 10989,
-      "name": "坎普格兰德",
+      "name": "大坎普",
       "name_default": "Campo Grande",
       "native": "Campo Grande",
       "type": "adm1",
@@ -560,7 +560,7 @@
       "id": 11102,
       "name": "卡拉科尔",
       "name_default": "Caracol",
-      "native": "Lesma",
+      "native": "Caracol",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -594,7 +594,7 @@
     },
     {
       "id": 11268,
-      "name": "南查帕丹",
+      "name": "Chapadão do Sul",
       "name_default": "Chapadão do Sul",
       "native": "Chapadão do Sul",
       "type": "city",
@@ -684,7 +684,7 @@
     },
     {
       "id": 11458,
-      "name": "科克辛",
+      "name": "科欣",
       "name_default": "Coxim",
       "native": "Coxim",
       "type": "city",
@@ -756,7 +756,7 @@
     },
     {
       "id": 11654,
-      "name": "多拉多斯",
+      "name": "多拉杜斯",
       "name_default": "Dourados",
       "native": "Dourados",
       "type": "city",
@@ -792,7 +792,7 @@
     },
     {
       "id": 11908,
-      "name": "南法蒂玛",
+      "name": "Fátima do Sul",
       "name_default": "Fátima do Sul",
       "native": "Fátima do Sul",
       "type": "city",
@@ -1028,7 +1028,7 @@
       "id": 12711,
       "name": "朱蒂",
       "name_default": "Juti",
-      "native": "Vem.",
+      "native": "Juti",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1116,7 +1116,7 @@
     },
     {
       "id": 13270,
-      "name": "新世界",
+      "name": "新蒙杜",
       "name_default": "Mundo Novo",
       "native": "Mundo Novo",
       "type": "city",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": 13348,
-      "name": "南新阿尔沃拉达",
+      "name": "Nova Alvorada do Sul",
       "name_default": "Nova Alvorada do Sul",
       "native": "Nova Alvorada do Sul",
       "type": "city",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": 13351,
-      "name": "新安德拉迪纳",
+      "name": "Nova Andradina",
       "name_default": "Nova Andradina",
       "native": "Nova Andradina",
       "type": "city",
@@ -1206,7 +1206,7 @@
     },
     {
       "id": 13465,
-      "name": "新地平线",
+      "name": "Novo Horizonte do Sul",
       "name_default": "Novo Horizonte do Sul",
       "native": "Novo Horizonte do Sul",
       "type": "city",
@@ -1242,7 +1242,7 @@
     },
     {
       "id": 13645,
-      "name": "巴拉那伊巴",
+      "name": "帕拉纳伊巴",
       "name_default": "Paranaíba",
       "native": "Paranaíba",
       "type": "city",
@@ -1332,7 +1332,7 @@
     },
     {
       "id": 14011,
-      "name": "波尔图穆尔蒂尼奥",
+      "name": "穆尔蒂纽港",
       "name_default": "Porto Murtinho",
       "native": "Porto Murtinho",
       "type": "city",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": 14230,
-      "name": "里瓦斯·杜里奥·帕尔多",
+      "name": "帕尔杜河畔里巴斯",
       "name_default": "Ribas do Rio Pardo",
       "native": "Ribas do Rio Pardo",
       "type": "city",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": 14267,
-      "name": "里奥·布里汉特",
+      "name": "里奥布里朗蒂",
       "name_default": "Rio Brilhante",
       "native": "Rio Brilhante",
       "type": "city",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": 14284,
-      "name": "里奥内格罗",
+      "name": "内格罗河",
       "name_default": "Rio Negro",
       "native": "Rio Negro",
       "type": "city",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": 14301,
-      "name": "马托格罗索州里奥韦尔德",
+      "name": "里奥韦尔德",
       "name_default": "Rio Verde de Mato Grosso",
       "native": "Rio Verde de Mato Grosso",
       "type": "city",
@@ -1458,7 +1458,7 @@
     },
     {
       "id": 14911,
-      "name": "西圣加布里埃尔",
+      "name": "São Gabriel do Oeste",
       "name_default": "São Gabriel do Oeste",
       "native": "São Gabriel do Oeste",
       "type": "city",
@@ -1512,7 +1512,7 @@
     },
     {
       "id": 14773,
-      "name": "西德罗兰迪亚",
+      "name": "锡德罗兰迪亚",
       "name_default": "Sidrolândia",
       "native": "Sidrolândia",
       "type": "city",

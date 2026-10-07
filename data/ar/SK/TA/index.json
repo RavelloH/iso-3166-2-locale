@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104387,
-      "name": "دوناجسكا ستريدا",
+      "name": "دونيسكا ستريدا",
       "name_default": "Dunajská Streda",
       "native": "Dunajská Streda",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 104390,
-      "name": "غالانتا",
+      "name": "غالنتا",
       "name_default": "Galanta",
-      "native": "Galantný",
+      "native": "Galanta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 104391,
-      "name": "جبيلى",
+      "name": "غبلي",
       "name_default": "Gbely",
       "native": "Gbely",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 104395,
-      "name": "هلوهوفيتش",
+      "name": "هلوهوفيتس",
       "name_default": "Hlohovec",
       "native": "Hlohovec",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 104396,
-      "name": "هوليتش",
+      "name": "هليتش",
       "name_default": "Holíč",
       "native": "Holíč",
       "type": "city",
@@ -222,7 +222,7 @@
       "name": "أوكريس هلوهوفيتش",
       "name_default": "Okres Hlohovec",
       "native": "Okres Hlohovec",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 42762,
@@ -345,7 +345,7 @@
     },
     {
       "id": 104541,
-      "name": "سينيكا",
+      "name": "سينيتسا",
       "name_default": "Senica",
       "native": "Senica",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104543,
-      "name": "سكاليكا",
+      "name": "سكاليتسا",
       "name_default": "Skalica",
       "native": "Skalica",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104544,
-      "name": "سلادكوفيتشوفو",
+      "name": "سلادكوفيتسوفو",
       "name_default": "Sládkovičovo",
       "native": "Sládkovičovo",
       "type": "city",

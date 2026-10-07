@@ -93,7 +93,7 @@
     },
     {
       "id": 131019,
-      "name": "Алиса",
+      "name": "Элис",
       "name_default": "Alice",
       "native": "Alice",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 131037,
-      "name": "Бхишо",
+      "name": "Бишо",
       "name_default": "Bhisho",
       "native": "Bhisho",
       "type": "adm1",
@@ -201,7 +201,7 @@
     },
     {
       "id": 131053,
-      "name": "Бургерсдорп",
+      "name": "Бюргерсдорп",
       "name_default": "Burgersdorp",
       "native": "Burgersdorp",
       "type": "adm3",
@@ -327,7 +327,7 @@
     },
     {
       "id": 131093,
-      "name": "Восточный Лондон",
+      "name": "Ист-Лондон",
       "name_default": "East London",
       "native": "East London",
       "type": "adm2",
@@ -344,26 +344,8 @@
       "country_id": 204
     },
     {
-      "id": 131103,
-      "name": "Эллиот",
-      "name_default": "Elliot",
-      "native": "Elliot",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 17224,
-      "latitude": "-31.33333000",
-      "longitude": "27.85000000",
-      "timezone": "Africa/Johannesburg",
-      "wikiDataId": "Q1880498",
-      "country_code": "ZA",
-      "state_code": "EC",
-      "state_id": 938,
-      "country_id": 204
-    },
-    {
       "id": 131109,
-      "name": "Форт Бофорт",
+      "name": "Форт-Бофорт",
       "name_default": "Fort Beaufort",
       "native": "Fort Beaufort",
       "type": "adm3",
@@ -399,7 +381,7 @@
     },
     {
       "id": 131225,
-      "name": "Порт-Элизабет",
+      "name": "Гцгебеха",
       "name_default": "Gqeberha",
       "native": "Port Elizabeth",
       "type": "adm2",
@@ -417,7 +399,7 @@
     },
     {
       "id": 131119,
-      "name": "Граафф-Рейнет",
+      "name": "Храфф-Рейнет",
       "name_default": "Graaff-Reinet",
       "native": "Graaff-Reinet",
       "type": "adm3",
@@ -435,7 +417,7 @@
     },
     {
       "id": 131121,
-      "name": "Грэхэмстаун",
+      "name": "Грейамстаун",
       "name_default": "Grahamstown",
       "native": "Grahamstown",
       "type": "adm3",
@@ -473,7 +455,7 @@
       "id": 131133,
       "name": "Илинге",
       "name_default": "Ilinge",
-      "native": "It's a challenge",
+      "native": "Ilinge",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -524,6 +506,24 @@
       "country_id": 204
     },
     {
+      "id": 131103,
+      "name": "Khowa",
+      "name_default": "Khowa",
+      "native": "Khowa",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17224,
+      "latitude": "-31.33333000",
+      "longitude": "27.85000000",
+      "timezone": "Africa/Johannesburg",
+      "wikiDataId": "Q1880498",
+      "country_code": "ZA",
+      "state_code": "EC",
+      "state_id": 938,
+      "country_id": 204
+    },
+    {
       "id": 131141,
       "name": "Кирквуд",
       "name_default": "Kirkwood",
@@ -545,7 +545,7 @@
       "id": 131152,
       "name": "Круисфонтейн",
       "name_default": "Kruisfontein",
-      "native": "Crossfontein",
+      "native": "Kruisfontein",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -651,7 +651,7 @@
     },
     {
       "id": 131191,
-      "name": "Мтата",
+      "name": "Умтата",
       "name_default": "Mthatha",
       "native": "Mthatha",
       "type": "city",
@@ -849,7 +849,7 @@
     },
     {
       "id": 131279,
-      "name": "Уитенхаге",
+      "name": "Эйтенхахе",
       "name_default": "Uitenhage",
       "native": "Uitenhage",
       "type": "city",

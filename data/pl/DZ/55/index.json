@@ -56,8 +56,26 @@
   },
   "cities": [
     {
+      "id": 31335,
+      "name": "El Hadjira",
+      "name_default": "El Hadjira",
+      "native": "الحجيرة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 39744,
+      "latitude": "32.61336000",
+      "longitude": "5.51259000",
+      "timezone": "Africa/Algiers",
+      "wikiDataId": "Q3049930",
+      "country_code": "DZ",
+      "state_code": "55",
+      "state_id": 4911,
+      "country_id": 4
+    },
+    {
       "id": 31378,
-      "name": "Megaryna",
+      "name": "Megarine",
       "name_default": "Megarine",
       "native": "ميجارين",
       "type": "city",
@@ -111,7 +129,7 @@
     },
     {
       "id": 31462,
-      "name": "Touggourt",
+      "name": "Tukkurt",
       "name_default": "Touggourt",
       "native": "تقرت",
       "type": "adm1",

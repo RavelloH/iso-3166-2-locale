@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 104387,
-      "name": "دونایسکا استردا",
+      "name": "دونایسکا ستردا",
       "name_default": "Dunajská Streda",
       "native": "Dunajská Streda",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 104390,
       "name": "گالانتا",
       "name_default": "Galanta",
-      "native": "Galantný",
+      "native": "Galanta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 104395,
-      "name": "هلوهووِک",
+      "name": "هلهوتس",
       "name_default": "Hlohovec",
       "native": "Hlohovec",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 104396,
-      "name": "هولیچ",
+      "name": "هلیچ",
       "name_default": "Holíč",
       "native": "Holíč",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 104420,
-      "name": "لئوپولدوف",
+      "name": "لئوپولدو",
       "name_default": "Leopoldov",
       "native": "Leopoldov",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 104461,
-      "name": "اوکرِس گالانتا",
+      "name": "شهرستان گالانتا",
       "name_default": "Okres Galanta",
       "native": "Okres Galanta",
       "type": "area",
@@ -219,10 +219,10 @@
     },
     {
       "id": 104463,
-      "name": "اوکرش هلوهووچ",
+      "name": "شهرستان هلووهوک",
       "name_default": "Okres Hlohovec",
       "native": "Okres Hlohovec",
-      "type": "city",
+      "type": "area",
       "level": null,
       "parent_id": null,
       "population": 42762,
@@ -309,7 +309,7 @@
     },
     {
       "id": 104525,
-      "name": "پیِشتانی",
+      "name": "پیه‌شتانی",
       "name_default": "Piešťany",
       "native": "Piešťany",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 104592,
-      "name": "شامورین",
+      "name": "شامرین",
       "name_default": "Šamorín",
       "native": "Šamorín",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 104541,
-      "name": "سنیکا",
+      "name": "سنیتسا",
       "name_default": "Senica",
       "native": "Senica",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 104543,
-      "name": "اسکالیکا",
+      "name": "سکالیتسا",
       "name_default": "Skalica",
       "native": "Skalica",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 104544,
-      "name": "اسلادکوویچوو",
+      "name": "سلادکویچوو",
       "name_default": "Sládkovičovo",
       "native": "Sládkovičovo",
       "type": "city",

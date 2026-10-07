@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 8042,
-      "name": "Amirdjan",
+      "name": "Amirdzhan",
       "name_default": "Amirdzhan",
-      "native": "Məzhəb",
+      "native": "Amirdzhan",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 8052,
-      "name": "Bakou",
+      "name": "Baku",
       "name_default": "Baku",
       "native": "Bakı",
       "type": "capital",
@@ -147,7 +147,7 @@
     },
     {
       "id": 8060,
-      "name": "Bilajari",
+      "name": "Biləcəri",
       "name_default": "Bilajari",
       "native": "Biləcəri",
       "type": "city",
@@ -201,9 +201,9 @@
     },
     {
       "id": 8063,
-      "name": "Binə (Bakou)",
+      "name": "Biny Selo",
       "name_default": "Biny Selo",
-      "native": "Kiçik Selo",
+      "native": "Biny Selo",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -237,7 +237,7 @@
     },
     {
       "id": 8093,
-      "name": "Hövsan",
+      "name": "Hovsan",
       "name_default": "Hövsan",
       "native": "Hövsan",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 8100,
-      "name": "Khodzhi-Gasan",
+      "name": "Khojasan",
       "name_default": "Khojasan",
       "native": "XODZHİ-GASAN",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 8113,
-      "name": "Mardakan",
+      "name": "Mərdəkan",
       "name_default": "Mardakan",
       "native": "Mərdəkan",
       "type": "city",
@@ -401,7 +401,7 @@
       "id": 8134,
       "name": "Puta",
       "name_default": "Puta",
-      "native": "Lyuk",
+      "native": "Puta",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,9 +417,9 @@
     },
     {
       "id": 8136,
-      "name": "Qala",
+      "name": "Gala",
       "name_default": "Qala",
-      "native": "Başlamaq",
+      "native": "Qala",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 67344,
-      "name": "Sbarra",
+      "name": "Antivari",
       "name_default": "Bar",
       "native": "Бара",
       "type": "adm1",
@@ -75,7 +75,7 @@
     },
     {
       "id": 67369,
-      "name": "Stari Bar",
+      "name": "Antivari Vecchia",
       "name_default": "Stari Bar",
       "native": "Стари Бар",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 67375,
-      "name": "Šušanj",
+      "name": "Zuccanegra",
       "name_default": "Šušanj",
-      "native": "Бука",
+      "native": "Шушањ",
       "type": "city",
       "level": null,
       "parent_id": null,

@@ -61,5 +61,24 @@
     "wikiDataId": "Q2150989",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67205,
+      "name": "ستي فاطمة",
+      "name_default": "Setti Fatma",
+      "native": "ستي فاطمة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22283,
+      "latitude": "31.22508000",
+      "longitude": "-7.67751000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q1523840",
+      "country_code": "MA",
+      "state_code": "HAO",
+      "state_id": 3320,
+      "country_id": 149
+    }
+  ]
 }

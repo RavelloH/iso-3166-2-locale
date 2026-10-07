@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 79960,
-      "name": "Belediye Başkanı Diaz",
+      "name": "Alcalde Díaz",
       "name_default": "Alcalde Díaz",
       "native": "Alcalde Díaz",
       "type": "adm3",
@@ -75,7 +75,7 @@
     },
     {
       "id": 79968,
-      "name": "Ancon",
+      "name": "Ancón",
       "name_default": "Ancón",
       "native": "Ancón",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 80045,
-      "name": "Mavi Tepe",
+      "name": "Cerro Azul",
       "name_default": "Cerro Azul",
       "native": "Cerro Azul",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 80055,
-      "name": "Çepillo",
+      "name": "Chepillo",
       "name_default": "Chepillo",
       "native": "Chepillo",
       "type": "adm3",
@@ -257,7 +257,7 @@
       "id": 80061,
       "name": "Chimán",
       "name_default": "Chimán",
-      "native": "Pájaro",
+      "native": "Chimán",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 80074,
-      "name": "Kontadora",
+      "name": "Contadora",
       "name_default": "Contadora",
       "native": "Contador",
       "type": "adm3",
@@ -309,7 +309,7 @@
     },
     {
       "id": 80090,
-      "name": "Balboa Bölgesi",
+      "name": "Distrito de Balboa",
       "name_default": "Distrito de Balboa",
       "native": "Distrito de Balboa",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 80103,
-      "name": "Chepo Bölgesi",
+      "name": "Distrito de Chepo",
       "name_default": "Distrito de Chepo",
       "native": "Distrito de Chepo",
       "type": "area",
@@ -381,7 +381,7 @@
     },
     {
       "id": 80144,
-      "name": "Taboga Bölgesi",
+      "name": "Distrito de Taboga",
       "name_default": "Distrito de Taboga",
       "native": "Ditrito de Tatboga",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 80237,
-      "name": "Juan Diaz",
+      "name": "Juan Díaz",
       "name_default": "Juan Díaz",
       "native": "Juan Díaz",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 80251,
-      "name": "Esmeralda",
+      "name": "La Esmeralda",
       "name_default": "La Esmeralda",
       "native": "La Esmeralda",
       "type": "adm3",
@@ -543,7 +543,7 @@
     },
     {
       "id": 80256,
-      "name": "La Gine",
+      "name": "La Guinea",
       "name_default": "La Guinea",
       "native": "La Guinea",
       "type": "adm3",
@@ -597,7 +597,7 @@
     },
     {
       "id": 80372,
-      "name": "Yeni Umut",
+      "name": "Nueva Esperanza",
       "name_default": "Nueva Esperanza",
       "native": "Nueva Esperanza",
       "type": "section",
@@ -615,7 +615,7 @@
     },
     {
       "id": 80375,
-      "name": "Yeni Belén",
+      "name": "Nuevo Belén",
       "name_default": "Nuevo Belén",
       "native": "Nuevo Belén",
       "type": "section",
@@ -669,7 +669,7 @@
     },
     {
       "id": 80400,
-      "name": "Lefevre Parkı",
+      "name": "Parque Lefevre",
       "name_default": "Parque Lefevre",
       "native": "Parque Lefevre",
       "type": "section",
@@ -687,7 +687,7 @@
     },
     {
       "id": 80441,
-      "name": "Pasiga",
+      "name": "Pásiga",
       "name_default": "Pásiga",
       "native": "Pásmica",
       "type": "adm3",
@@ -705,7 +705,7 @@
     },
     {
       "id": 80456,
-      "name": "Rio Abajo",
+      "name": "Río Abajo",
       "name_default": "Río Abajo",
       "native": "Río Abajo",
       "type": "section",
@@ -849,7 +849,7 @@
     },
     {
       "id": 80533,
-      "name": "Azuero Birliği",
+      "name": "Unión de Azuero",
       "name_default": "Unión de Azuero",
       "native": "Unión de Azuero",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 80532,
-      "name": "Santeña Birliği",
+      "name": "Unión Santeña",
       "name_default": "Unión Santeña",
       "native": "Unión Santeña",
       "type": "adm3",
@@ -903,7 +903,7 @@
     },
     {
       "id": 80548,
-      "name": "Güzel Manzara",
+      "name": "Vista Hermosa",
       "name_default": "Vista Hermosa",
       "native": "Vista Hermosa",
       "type": "section",
