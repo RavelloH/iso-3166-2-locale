@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57596,
-      "name": "阿多尔",
+      "name": "阿多奥尔",
       "name_default": "Adoor",
       "native": "अदूर",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 57647,
-      "name": "阿鲁瓦",
+      "name": "阿鲁法",
       "name_default": "Aluva",
       "native": "अलुवा",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 57738,
-      "name": "阿鲁尔",
+      "name": "阿罗奥尔",
       "name_default": "Aroor",
       "native": "अरूर",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 57762,
-      "name": "阿廷加尔",
+      "name": "阿特廷格阿尔",
       "name_default": "Attingal",
       "native": "अट्टिंगल",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 57945,
-      "name": "贝伊波尔",
+      "name": "贝伊波雷",
       "name_default": "Beypore",
       "native": "बेपोर",
       "type": "city",
@@ -417,9 +417,9 @@
     },
     {
       "id": 131516,
-      "name": "成甘努尔",
+      "name": "琴格阿恩努尔",
       "name_default": "Chengannur",
-      "native": "चेंगन्नूर",
+      "native": "चेंगान्नूर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -491,7 +491,7 @@
       "id": 131521,
       "name": "切尔塔拉",
       "name_default": "Cherthala",
-      "native": "चेरतला",
+      "native": "चेर्तला",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -687,9 +687,9 @@
     },
     {
       "id": 131844,
-      "name": "埃拉图佩塔",
+      "name": "埃拉特图佩特塔",
       "name_default": "Erattupetta",
-      "native": "एर्नाकुट्टम",
+      "native": "ईराट्टुपेट्टा",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -867,7 +867,7 @@
     },
     {
       "id": 132171,
-      "name": "伊林贾拉库达",
+      "name": "伊林贾勒古达",
       "name_default": "Irinjalakuda",
       "native": "इरिंजालकुडा",
       "type": "city",
@@ -957,9 +957,9 @@
     },
     {
       "id": 132344,
-      "name": "卡拉马塞里",
+      "name": "卡拉马斯塞尔伊",
       "name_default": "Kalamassery",
-      "native": "कलामासेरी",
+      "native": "कलमस्सेरी",
       "type": "section",
       "level": null,
       "parent_id": null,
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 132720,
-      "name": "卡萨拉戈德",
+      "name": "加瑟勒戈德",
       "name_default": "Kasaragod",
       "native": "कासरगोड",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 132731,
-      "name": "卡扬库拉姆",
+      "name": "卡耶姆库拉姆",
       "name_default": "Kayamkulam",
       "native": "कायमकुलम",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 131617,
-      "name": "科钦",
+      "name": "戈奇",
       "name_default": "Kochi",
       "native": "कोचीन",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 132545,
-      "name": "科东加卢尔",
+      "name": "格朗格努尔",
       "name_default": "Kodungallur",
       "native": "कोडुन्गल्लुर",
       "type": "city",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 132558,
-      "name": "科拉姆",
+      "name": "奎隆",
       "name_default": "Kollam",
       "native": "कोल्लम",
       "type": "adm2",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 132650,
-      "name": "昆南库兰",
+      "name": "库恩纳姆库拉姆",
       "name_default": "Kunnamkulam",
       "native": "कुन्नम्कुलम",
       "type": "city",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 132852,
-      "name": "马埃岛",
+      "name": "马埃",
       "name_default": "Mahe",
       "native": "माहे",
       "type": "city",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 132913,
-      "name": "曼杰里",
+      "name": "马恩杰里",
       "name_default": "Manjeri",
       "native": "मंजेरी",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 132950,
-      "name": "马沃",
+      "name": "马沃奥尔",
       "name_default": "Mavoor",
       "native": "मावूर",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 133034,
-      "name": "蒙纳尔",
+      "name": "慕那尔",
       "name_default": "Munnar",
       "native": "मुन्नार",
       "type": "city",
@@ -1857,7 +1857,7 @@
     },
     {
       "id": 133198,
-      "name": "内杜曼加德",
+      "name": "讷杜曼嘎特",
       "name_default": "Nedumangad",
       "native": "नेदुमनगड",
       "type": "city",
@@ -1893,9 +1893,9 @@
     },
     {
       "id": 133211,
-      "name": "内亚丁卡拉",
+      "name": "内伊耶特蒂恩卡拉",
       "name_default": "Neyyattinkara",
-      "native": "नेय्याट्टिंकारा",
+      "native": "नेय्याट्टिनकरा",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 133306,
-      "name": "奥塔帕拉姆",
+      "name": "奥特塔普帕拉姆",
       "name_default": "Ottapalam",
       "native": "ओट्टापलम",
       "type": "city",
@@ -2001,9 +2001,9 @@
     },
     {
       "id": 133528,
-      "name": "帕尔加特",
+      "name": "帕拉卡德",
       "name_default": "Palakkad",
-      "native": "के पालघाट",
+      "native": "पालक्काड़",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2127,7 +2127,7 @@
     },
     {
       "id": 133380,
-      "name": "帕塔南提塔",
+      "name": "伯特纳姆提德",
       "name_default": "Pathanamthitta",
       "native": "पथानामथिट्टा",
       "type": "city",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 133399,
-      "name": "帕亚努尔",
+      "name": "帕伊耶恩努尔",
       "name_default": "Payyanur",
       "native": "पैय्यानूर",
       "type": "city",
@@ -2199,9 +2199,9 @@
     },
     {
       "id": 133423,
-      "name": "佩鲁姆巴沃",
+      "name": "佩鲁姆巴沃奥尔",
       "name_default": "Perumbavoor",
-      "native": "पेरुम्बवूर",
+      "native": "पेरुम्बावूर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 133477,
-      "name": "庞纳尼",
+      "name": "波恩纳尼",
       "name_default": "Ponnani",
       "native": "पोन्नानी",
       "type": "city",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": 133502,
-      "name": "普纳卢尔",
+      "name": "普纳鲁尔",
       "name_default": "Punalur",
       "native": "पुनालुर",
       "type": "city",
@@ -2451,7 +2451,7 @@
     },
     {
       "id": 133915,
-      "name": "肖拉努尔",
+      "name": "绍勒努尔",
       "name_default": "Shoranur",
       "native": "शोरानूर",
       "type": "city",
@@ -2469,7 +2469,7 @@
     },
     {
       "id": 134103,
-      "name": "塔利帕兰巴",
+      "name": "塔利帕拉姆巴",
       "name_default": "Taliparamba",
       "native": "तालीपरम्बा",
       "type": "city",
@@ -2541,7 +2541,7 @@
     },
     {
       "id": 134129,
-      "name": "萨拉塞里",
+      "name": "塔拉斯塞尔伊",
       "name_default": "Thalassery",
       "native": "थालास्सेरी",
       "type": "city",
@@ -2649,7 +2649,7 @@
     },
     {
       "id": 134161,
-      "name": "特里苏尔",
+      "name": "特丽苏尔",
       "name_default": "Thrissur",
       "native": "त्रिशूर",
       "type": "adm2",
@@ -2703,7 +2703,7 @@
     },
     {
       "id": 134194,
-      "name": "蒂鲁瓦拉",
+      "name": "蒂鲁瓦尔拉",
       "name_default": "Tiruvalla",
       "native": "तिरुवल्ला",
       "type": "city",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 57786,
-      "name": "瓦塔卡拉",
+      "name": "瓦达卡拉",
       "name_default": "Vatakara",
       "native": "वाटकरा",
       "type": "city",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": 134400,
-      "name": "瓦亚纳德",
+      "name": "瓦亚纳德县",
       "name_default": "Wayanad",
       "native": "वायनाड",
       "type": "area",

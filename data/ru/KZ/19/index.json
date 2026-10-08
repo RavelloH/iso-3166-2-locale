@@ -188,24 +188,6 @@
       "country_id": 112
     },
     {
-      "id": 65689,
-      "name": "Капшагай",
-      "name_default": "Kapshagay",
-      "native": "Қапшағай",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "43.86681000",
-      "longitude": "77.06304000",
-      "timezone": "Asia/Almaty",
-      "wikiDataId": "Q1816833",
-      "country_code": "KZ",
-      "state_code": "19",
-      "state_id": 143,
-      "country_id": 112
-    },
-    {
       "id": 65694,
       "name": "Кеген",
       "name_default": "Kegen",
@@ -225,7 +207,7 @@
     },
     {
       "id": 65715,
-      "name": "Лепси",
+      "name": "Лепсы",
       "name_default": "Lepsi",
       "native": "Лепси",
       "type": "city",
@@ -314,6 +296,24 @@
       "country_id": 112
     },
     {
+      "id": 65689,
+      "name": "Конаев",
+      "name_default": "Qonaev",
+      "native": "Қонаев",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.86681000",
+      "longitude": "77.06304000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q1816833",
+      "country_code": "KZ",
+      "state_code": "19",
+      "state_id": 143,
+      "country_id": 112
+    },
+    {
       "id": 165151,
       "name": "Shelek",
       "name_default": "Shelek",
@@ -387,7 +387,7 @@
     },
     {
       "id": 65823,
-      "name": "Уш-Тюбе",
+      "name": "Уштобе",
       "name_default": "Ushtobe",
       "native": "Үш-Төбе",
       "type": "adm2",

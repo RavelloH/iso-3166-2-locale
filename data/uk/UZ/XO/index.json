@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 129905,
-      "name": "Богхот Тумані",
+      "name": "Багатський район",
       "name_default": "Boghot Tumani",
       "native": "Boghot Tumani",
       "type": "area",
@@ -82,9 +82,9 @@
     },
     {
       "id": 129929,
-      "name": "Гурлан",
+      "name": "Гурлен",
       "name_default": "Gurlan",
-      "native": "Sozlash; o'rnatish",
+      "native": "Gurlan",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -174,7 +174,7 @@
       "id": 130001,
       "name": "Шоут",
       "name_default": "Shovot",
-      "native": "She'riyat",
+      "native": "Shovot",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -190,7 +190,7 @@
     },
     {
       "id": 130013,
-      "name": "Урганч",
+      "name": "Ургенч",
       "name_default": "Urganch",
       "native": "Urganch",
       "type": "adm1",

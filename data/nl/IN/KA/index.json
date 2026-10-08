@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "Åland",
+      "name": "Aland",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 58199,
-      "name": "Channarayapatna",
+      "name": "Channarayapattana",
       "name_default": "Channarayapatna",
       "native": "चन्नारायपत्ना",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 131616,
-      "name": "Closepet",
+      "name": "Ramanagaram",
       "name_default": "Closepet",
       "native": "क्लोज़पेट",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "Gurmatkal",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 132124,
-      "name": "Ziekenhuis",
+      "name": "Hospet",
       "name_default": "Hosapete",
       "native": "होसपेट",
       "type": "city",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 132165,
-      "name": "Indiaas",
+      "name": "Indi",
       "name_default": "Indi",
       "native": "इंडी",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 132719,
-      "name": "Karkala",
+      "name": "Karkal",
       "name_default": "Karkala",
       "native": "करकला",
       "type": "city",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 132628,
-      "name": "Kudachi",
+      "name": "Kudchi",
       "name_default": "Kudachi",
       "native": "कुदाची",
       "type": "city",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 132774,
-      "name": "Londen",
+      "name": "Londa",
       "name_default": "Londa",
       "native": "लोंदा",
       "type": "city",
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 132847,
-      "name": "Mahalingpur",
+      "name": "Mahalingapur",
       "name_default": "Mahalingpur",
       "native": "महालिंगपुर",
       "type": "city",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": 133011,
-      "name": "Modderhol",
+      "name": "Mudhol",
       "name_default": "Mudhol",
       "native": "मुधोल",
       "type": "city",
@@ -3189,7 +3189,7 @@
     },
     {
       "id": 133027,
-      "name": "Wereldgod",
+      "name": "Mundgod",
       "name_default": "Mundgod",
       "native": "मुंडगोड",
       "type": "city",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 133184,
-      "name": "Zeegund",
+      "name": "Navalgund",
       "name_default": "Navalgund",
       "native": "नवलगुंड",
       "type": "city",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 133642,
-      "name": "Robertsonpet",
+      "name": "Robertson Pet",
       "name_default": "Robertsonpet",
       "native": "रॉबर्टसनपेट",
       "type": "city",
@@ -3765,7 +3765,7 @@
     },
     {
       "id": 133827,
-      "name": "Saundatti",
+      "name": "Saundatti-Yellamma",
       "name_default": "Saundatti",
       "native": "सौंदत्ती",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "Sravana Belgola",
+      "name": "Sravanabelagola",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4287,7 +4287,7 @@
     },
     {
       "id": 134125,
-      "name": "Tekkalakote",
+      "name": "Tekkalakota",
       "name_default": "Tekkalakote",
       "native": "तेक्कलाकोटे",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "Vijayapura",
+      "name": "Bijapur",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",

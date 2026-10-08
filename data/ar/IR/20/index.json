@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150585,
-      "name": "العامرية",
+      "name": "اميريه",
       "name_default": "Amiriyeh",
       "native": "امیریه",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 150589,
-      "name": "بستم",
+      "name": "بسطام",
       "name_default": "Bastam",
-      "native": "به اندازه کافی",
+      "native": "بسطام",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,9 +147,9 @@
     },
     {
       "id": 150596,
-      "name": "دارجازين",
+      "name": "درجزين",
       "name_default": "Darjazin",
-      "native": "دره",
+      "native": "درجزین",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,9 +255,9 @@
     },
     {
       "id": 150584,
-      "name": "كوهان آباد",
+      "name": "كهن أباد",
       "name_default": "Kohanabad",
-      "native": "کوه آباد",
+      "native": "کهن‌آباد",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -309,9 +309,9 @@
     },
     {
       "id": 150594,
-      "name": "موين",
+      "name": "مجن",
       "name_default": "Mojen",
-      "native": "موژن",
+      "native": "مجن",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 150597,
-      "name": "شاهميرزاد",
+      "name": "شهميرزاد",
       "name_default": "Shahmirzad",
       "native": "شاهمرزاد",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 150592,
-      "name": "شهرود",
+      "name": "شاهرود",
       "name_default": "Shahroud",
       "native": "شاهرود",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 135105,
-      "name": "شهرود",
+      "name": "شاهرود",
       "name_default": "Shahrud",
       "native": "شاهرود",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 150588,
-      "name": "سورخيه",
+      "name": "سرخه",
       "name_default": "Sorkheh",
       "native": "سرخه",
       "type": "adm2",

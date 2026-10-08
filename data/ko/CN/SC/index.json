@@ -172,7 +172,7 @@
     },
     {
       "id": 19320,
-      "name": "바르캄",
+      "name": "마얼캉시",
       "name_default": "Barkam",
       "native": "马尔康",
       "type": "adm2",
@@ -352,7 +352,7 @@
     },
     {
       "id": 19387,
-      "name": "청두",
+      "name": "청두시",
       "name_default": "Chengdu",
       "native": "成都",
       "type": "prefecture",
@@ -406,9 +406,9 @@
     },
     {
       "id": 159146,
-      "name": "충저우",
+      "name": "충저우시",
       "name_default": "Chongzhou",
-      "native": "崇",
+      "native": "崇州市",
       "type": "city",
       "level": "2",
       "parent_id": "19387",
@@ -712,7 +712,7 @@
     },
     {
       "id": 19454,
-      "name": "더양",
+      "name": "더양시",
       "name_default": "Deyang",
       "native": "德阳",
       "type": "prefecture",
@@ -1090,7 +1090,7 @@
     },
     {
       "id": 159233,
-      "name": "광안",
+      "name": "광안시",
       "name_default": "Guang'an",
       "native": "广安",
       "type": "prefecture",
@@ -1126,7 +1126,7 @@
     },
     {
       "id": 159169,
-      "name": "광한",
+      "name": "광한시",
       "name_default": "Guanghan",
       "native": "广汉",
       "type": "city",
@@ -1306,9 +1306,9 @@
     },
     {
       "id": 159298,
-      "name": "후일리",
+      "name": "후이리현",
       "name_default": "Huili",
-      "native": "会利",
+      "native": "会理市",
       "type": "city",
       "level": "2",
       "parent_id": "19816",
@@ -1378,7 +1378,7 @@
     },
     {
       "id": 159226,
-      "name": "장안",
+      "name": "장안현",
       "name_default": "Jiang'an",
       "native": "江安",
       "type": "county",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": 159147,
-      "name": "젠양",
+      "name": "젠양시",
       "name_default": "Jianyang",
       "native": "简阳",
       "type": "city",
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 19772,
-      "name": "강딩",
+      "name": "캉딩 현",
       "name_default": "Kangding",
       "native": "康定",
       "type": "adm2",
@@ -1738,7 +1738,7 @@
     },
     {
       "id": 159279,
-      "name": "강딩",
+      "name": "캉딩 현",
       "name_default": "Kangding",
       "native": "康定",
       "type": "city",
@@ -1756,7 +1756,7 @@
     },
     {
       "id": 19798,
-      "name": "랑중",
+      "name": "랑중시",
       "name_default": "Langzhong",
       "native": "阆中",
       "type": "adm3",
@@ -1954,7 +1954,7 @@
     },
     {
       "id": 159197,
-      "name": "룽창",
+      "name": "룽창시",
       "name_default": "Longchang",
       "native": "隆昌",
       "type": "city",
@@ -2242,7 +2242,7 @@
     },
     {
       "id": 19917,
-      "name": "면양",
+      "name": "몐양시",
       "name_default": "Mianyang",
       "native": "绵阳",
       "type": "prefecture",
@@ -2512,7 +2512,7 @@
     },
     {
       "id": 19975,
-      "name": "판즈화",
+      "name": "판즈화시",
       "name_default": "Panzhihua",
       "native": "攀枝花",
       "type": "prefecture",
@@ -3178,7 +3178,7 @@
     },
     {
       "id": 20143,
-      "name": "쑤이닝",
+      "name": "쑤이닝시",
       "name_default": "Suining",
       "native": "遂宁",
       "type": "prefecture",
@@ -3556,7 +3556,7 @@
     },
     {
       "id": 20280,
-      "name": "시창",
+      "name": "시창시",
       "name_default": "Xichang",
       "native": "西昌",
       "type": "adm2",

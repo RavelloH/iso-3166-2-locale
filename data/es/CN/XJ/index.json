@@ -190,7 +190,7 @@
     },
     {
       "id": 19277,
-      "name": "Altay Diqu",
+      "name": "Altay",
       "name_default": "Altay",
       "native": "阿勒泰地区",
       "type": "city",
@@ -334,7 +334,7 @@
     },
     {
       "id": 19300,
-      "name": "Baijiantán",
+      "name": "Baijiantan",
       "name_default": "Baijiantan",
       "native": "白剑潭",
       "type": "city",
@@ -678,7 +678,7 @@
       "id": 19519,
       "name": "Fukang",
       "name_default": "Fukang",
-      "native": "福康",
+      "native": "阜康市",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -784,7 +784,7 @@
     },
     {
       "id": 19593,
-      "name": "Hami",
+      "name": "Kumul",
       "name_default": "Hami",
       "native": "哈密",
       "type": "prefecture",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": 19775,
-      "name": "Kashgar",
+      "name": "Kasgar",
       "name_default": "Kashgar",
       "native": "喀什",
       "type": "prefecture",
@@ -1954,7 +1954,7 @@
     },
     {
       "id": 20153,
-      "name": "Tacheng Diqu",
+      "name": "Tacheng",
       "name_default": "Tacheng",
       "native": "塔城市地区",
       "type": "adm2",
@@ -2098,9 +2098,9 @@
     },
     {
       "id": 159962,
-      "name": "Tumxuk",
+      "name": "Tumshuke",
       "name_default": "Tumxuk",
-      "native": "图姆苏克",
+      "native": "图木舒克市",
       "type": "city",
       "level": "2",
       "parent_id": "159959",
@@ -2134,7 +2134,7 @@
     },
     {
       "id": 20201,
-      "name": "Turpan Diqu",
+      "name": "Turfán",
       "name_default": "Turpan",
       "native": "吐鲁番地区",
       "type": "adm3",
@@ -2152,7 +2152,7 @@
     },
     {
       "id": 20204,
-      "name": "Ürümqi Shi",
+      "name": "Urumqi",
       "name_default": "Urumqi",
       "native": "乌鲁木齐市",
       "type": "prefecture",
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 20484,
-      "name": "Ürümqi",
+      "name": "Urumqi",
       "name_default": "Ürümqi",
       "native": "乌鲁木齐",
       "type": "adm1",
@@ -2460,7 +2460,7 @@
       "id": 159933,
       "name": "Yining",
       "name_default": "Yining",
-      "native": "依宁",
+      "native": "伊宁市",
       "type": "city",
       "level": "2",
       "parent_id": "159932",

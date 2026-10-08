@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "Molto",
+      "name": "Alot",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -392,24 +392,6 @@
       "longitude": "76.72208000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q582291",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
-      "id": 58103,
-      "name": "Babai",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -1695,7 +1677,7 @@
     },
     {
       "id": 131936,
-      "name": "Ghansor",
+      "name": "Ghansore",
       "name_default": "Ghansor",
       "native": "घंसौर",
       "type": "city",
@@ -1731,7 +1713,7 @@
     },
     {
       "id": 131966,
-      "name": "Gohadi",
+      "name": "Gohad",
       "name_default": "Gohad",
       "native": "गोहादी",
       "type": "city",
@@ -2163,7 +2145,7 @@
     },
     {
       "id": 132309,
-      "name": "Giamai",
+      "name": "Jamai",
       "name_default": "Jamai",
       "native": "जमाई",
       "type": "city",
@@ -2289,7 +2271,7 @@
     },
     {
       "id": 132283,
-      "name": "Lavoro",
+      "name": "Jobat",
       "name_default": "Jobat",
       "native": "जोबट",
       "type": "city",
@@ -2469,7 +2451,7 @@
     },
     {
       "id": 132511,
-      "name": "Khachrod",
+      "name": "Khacharod",
       "name_default": "Khachrod",
       "native": "खाचरोद",
       "type": "city",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "Kumbhraj",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3008,6 +2990,24 @@
       "country_id": 101
     },
     {
+      "id": 58103,
+      "name": "Makhan Nagar",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
       "id": 164963,
       "name": "Makronia",
       "name_default": "Makronia",
@@ -3153,7 +3153,7 @@
     },
     {
       "id": 132897,
-      "name": "Mandsauro",
+      "name": "Mandsaur",
       "name_default": "Mandsaur",
       "native": "मन्दसौर",
       "type": "city",
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 133022,
-      "name": "Multipli",
+      "name": "Multai",
       "name_default": "Multai",
       "native": "मुल्ताई",
       "type": "city",
@@ -3333,7 +3333,7 @@
     },
     {
       "id": 133028,
-      "name": "Mondo",
+      "name": "Mundi",
       "name_default": "Mundi",
       "native": "मुंडी",
       "type": "city",
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 133308,
-      "name": "Pachmarhi",
+      "name": "Pachmarhi Cantonment",
       "name_default": "Pachmarhi",
       "native": "पचमढ़ी",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 133371,
-      "name": "Parasia",
+      "name": "Dongar Parasia",
       "name_default": "Parasia",
       "native": "परासिया",
       "type": "city",
@@ -4035,7 +4035,7 @@
     },
     {
       "id": 133591,
-      "name": "Sollevare",
+      "name": "Raisen",
       "name_default": "Raisen",
       "native": "रायसेन",
       "type": "city",
@@ -4395,7 +4395,7 @@
     },
     {
       "id": 133829,
-      "name": "Salsiccia",
+      "name": "Sausar",
       "name_default": "Sausar",
       "native": "सौसर",
       "type": "city",

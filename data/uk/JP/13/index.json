@@ -129,7 +129,7 @@
     },
     {
       "id": 63289,
-      "name": "Бункьо-ку",
+      "name": "Район Бункьо",
       "name_default": "Bunkyō-ku",
       "native": "文京区",
       "type": "section",
@@ -147,7 +147,7 @@
     },
     {
       "id": 63311,
-      "name": "Тійода-ку",
+      "name": "Район Чійода",
       "name_default": "Chiyoda-ku",
       "native": "千代田区",
       "type": "section",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63313,
-      "name": "Чофу-ші",
+      "name": "Чьофу",
       "name_default": "Chōfu-shi",
       "native": "調布市",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 63336,
-      "name": "Фучу-ші",
+      "name": "Фучю",
       "name_default": "Fuchū-shi",
       "native": "府中市",
       "type": "adm2",
@@ -273,7 +273,7 @@
     },
     {
       "id": 63410,
-      "name": "Хачіодзі",
+      "name": "Хачіоджі",
       "name_default": "Hachiōji",
       "native": "八王子",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 63465,
-      "name": "Хігашімураяма",
+      "name": "Хіґаші-Мураяма",
       "name_default": "Higashimurayama",
       "native": "東村山市",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63468,
-      "name": "Хігасіямато",
+      "name": "Хіґаші-Ямато",
       "name_default": "Higashiyamato",
       "native": "東大和",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63605,
-      "name": "Ітабаші-ку",
+      "name": "Район Ітабаші",
       "name_default": "Itabashi-ku",
       "native": "板橋区",
       "type": "section",
@@ -507,7 +507,7 @@
     },
     {
       "id": 63797,
-      "name": "Кіта-ку",
+      "name": "Район Кіта",
       "name_default": "Kita-ku",
       "native": "北区",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 63903,
-      "name": "Кото-ку",
+      "name": "Район Кото",
       "name_default": "Kōtō-ku",
       "native": "江東区",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 63943,
-      "name": "Мегуро-ку",
+      "name": "Район Меґуро",
       "name_default": "Meguro-ku",
       "native": "目黒区",
       "type": "section",
@@ -777,7 +777,7 @@
     },
     {
       "id": 64052,
-      "name": "Мусасіно",
+      "name": "Мусашіно",
       "name_default": "Musashino",
       "native": "武蔵野",
       "type": "adm2",
@@ -795,7 +795,7 @@
     },
     {
       "id": 64087,
-      "name": "Накано-ку",
+      "name": "Район Накано",
       "name_default": "Nakano-ku",
       "native": "中野区",
       "type": "adm2",
@@ -813,7 +813,7 @@
     },
     {
       "id": 64122,
-      "name": "Неріма-ку",
+      "name": "Район Неріма",
       "name_default": "Nerima-ku",
       "native": "練馬区",
       "type": "section",
@@ -849,7 +849,7 @@
     },
     {
       "id": 64155,
-      "name": "Нісітокьо-ші",
+      "name": "Ніші-Токьо",
       "name_default": "Nishitōkyō-shi",
       "native": "西東京市",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64758,
-      "name": "Ота-ку",
+      "name": "Район Ота",
       "name_default": "Ōta-ku",
       "native": "大田区",
       "type": "adm2",
@@ -921,7 +921,7 @@
     },
     {
       "id": 64302,
-      "name": "Сетагая-ку",
+      "name": "Район Сетаґая",
       "name_default": "Setagaya-ku",
       "native": "世田谷区",
       "type": "section",
@@ -939,7 +939,7 @@
     },
     {
       "id": 64316,
-      "name": "Сібуя-ку",
+      "name": "Район Шібуя",
       "name_default": "Shibuya-ku",
       "native": "渋谷区",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 64338,
-      "name": "Сінагава-ку",
+      "name": "Район Шінаґава",
       "name_default": "Shinagawa-ku",
       "native": "品川区",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 64342,
-      "name": "Шіндзюку-ку",
+      "name": "Район Шінджюку",
       "name_default": "Shinjuku-ku",
       "native": "新宿区",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 64376,
-      "name": "Сугінамі-ку",
+      "name": "Район Суґінамі",
       "name_default": "Suginami-ku",
       "native": "杉並区",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 64383,
-      "name": "Суміда-ку",
+      "name": "Район Суміда",
       "name_default": "Sumida-ku",
       "native": "墨田区",
       "type": "section",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 64414,
-      "name": "Тайто-ку",
+      "name": "Район Тайто",
       "name_default": "Taitō-ku",
       "native": "台東区",
       "type": "section",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 64517,
-      "name": "Тосіма-ку",
+      "name": "Район Тошіма",
       "name_default": "Toshima-ku",
       "native": "豊島区",
       "type": "section",

@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63244,
-      "name": "阿米",
+      "name": "阿见町",
       "name_default": "Ami",
-      "native": "アミ",
+      "native": "阿見町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 63281,
-      "name": "坂东",
+      "name": "坂东市",
       "name_default": "Bandō",
       "native": "坂東",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 63300,
-      "name": "筑星",
+      "name": "筑西市",
       "name_default": "Chikusei",
       "native": "筑西市",
       "type": "adm2",
@@ -111,9 +111,9 @@
     },
     {
       "id": 63317,
-      "name": "醍醐",
+      "name": "大子町",
       "name_default": "Daigo",
-      "native": "醍醐",
+      "native": "大子町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63570,
-      "name": "稲敷",
+      "name": "稻敷市",
       "name_default": "Inashiki",
       "native": "稲敷",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63601,
-      "name": "石冈",
+      "name": "石冈市",
       "name_default": "Ishioka",
       "native": "石岡",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63606,
-      "name": "潮来",
+      "name": "潮来市",
       "name_default": "Itako",
       "native": "潮来市",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 63749,
-      "name": "霞浦",
+      "name": "霞浦市",
       "name_default": "Kasumigaura",
       "native": "かすみがうら市",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 63993,
-      "name": "光海堂",
+      "name": "Mitsukaidō",
       "name_default": "Mitsukaidō",
       "native": "水海道",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 64032,
-      "name": "守屋",
+      "name": "守谷市",
       "name_default": "Moriya",
-      "native": "守屋",
+      "native": "守谷市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 64093,
-      "name": "行方",
+      "name": "行方市",
       "name_default": "Namegata",
       "native": "行方",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 64233,
-      "name": "龙崎",
+      "name": "龙崎市",
       "name_default": "Ryūgasaki",
       "native": "竜ヶ崎",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 64419,
-      "name": "高萩",
+      "name": "高萩市",
       "name_default": "Takahagi",
       "native": "高萩",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 64547,
-      "name": "筑波未来",
+      "name": "筑波未来市",
       "name_default": "Tsukubamirai",
       "native": "つくばみらい",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 64603,
-      "name": "牛久",
+      "name": "牛久市",
       "name_default": "Ushiku",
       "native": "牛久",
       "type": "adm2",

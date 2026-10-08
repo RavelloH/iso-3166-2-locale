@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150585,
-      "name": "Амирие",
+      "name": "Эмирабад",
       "name_default": "Amiriyeh",
       "native": "امیریه",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 150589,
-      "name": "Бастам",
+      "name": "Бестам",
       "name_default": "Bastam",
-      "native": "به اندازه کافی",
+      "native": "بسطام",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -149,7 +149,7 @@
       "id": 150596,
       "name": "Дарьязин",
       "name_default": "Darjazin",
-      "native": "دره",
+      "native": "درجزین",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -257,7 +257,7 @@
       "id": 150584,
       "name": "Коханабад",
       "name_default": "Kohanabad",
-      "native": "کوه آباد",
+      "native": "کهن‌آباد",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -311,7 +311,7 @@
       "id": 150594,
       "name": "Моджен",
       "name_default": "Mojen",
-      "native": "موژن",
+      "native": "مجن",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 150597,
-      "name": "Шахмирзад",
+      "name": "Шехмирзад",
       "name_default": "Shahmirzad",
       "native": "شاهمرزاد",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 150592,
-      "name": "Шахруд",
+      "name": "Имамшехр",
       "name_default": "Shahroud",
       "native": "شاهرود",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 135105,
-      "name": "Шахруд",
+      "name": "Имамшехр",
       "name_default": "Shahrud",
       "native": "شاهرود",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 150588,
-      "name": "Соркхех",
+      "name": "Сорхе",
       "name_default": "Sorkheh",
       "native": "سرخه",
       "type": "adm2",

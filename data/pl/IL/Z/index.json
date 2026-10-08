@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 57581,
-      "name": "„Eilabun",
+      "name": "‘Eilabun",
       "name_default": "‘Eilabun",
       "native": "עילבון",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 57583,
-      "name": "Uzeir",
+      "name": "‘Uzeir",
       "name_default": "‘Uzeir",
       "native": "עוזיר",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 57435,
-      "name": "Akr",
+      "name": "Akka",
       "name_default": "Acre",
-      "native": "אַקְר",
+      "native": "עכו",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -147,7 +147,7 @@
     },
     {
       "id": 57445,
-      "name": "Beit Jann",
+      "name": "Beit Dżan",
       "name_default": "Beit Jann",
       "native": "בית ג'אן",
       "type": "city",
@@ -165,7 +165,7 @@
     },
     {
       "id": 57448,
-      "name": "Bet Szean",
+      "name": "Bet She’an",
       "name_default": "Bet She’an",
       "native": "בית שאן",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 57458,
-      "name": "Deir Hannā",
+      "name": "Dejr Channa",
       "name_default": "Deir Ḥannā",
       "native": "דיר חנה",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 57464,
-      "name": "Jej Królowa",
+      "name": "Rejne",
       "name_default": "Er Reina",
       "native": "אר ריינה",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 57578,
-      "name": "Ḥurfeish",
+      "name": "Churfeisz",
       "name_default": "Ḥurfeish",
       "native": "הורפיש",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 57481,
-      "name": "Iksāl",
+      "name": "Iksal",
       "name_default": "Iksāl",
       "native": "איכסאל",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 57486,
-      "name": "Jisz",
+      "name": "Jish",
       "name_default": "Jīsh",
       "native": "ג'יש",
       "type": "city",
@@ -417,7 +417,7 @@
     },
     {
       "id": 57487,
-      "name": "Kafr Kamma",
+      "name": "Kafr Kammā",
       "name_default": "Kafr Kammā",
       "native": "כפר קמה",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 57488,
-      "name": "Kafr Kannā",
+      "name": "Kafr Kanna",
       "name_default": "Kafr Kannā",
       "native": "כפר קאנא",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 57489,
-      "name": "Kafr Mandā",
+      "name": "Kefar Maneda",
       "name_default": "Kafr Mandā",
       "native": "כפר מנדא",
       "type": "city",
@@ -471,7 +471,7 @@
     },
     {
       "id": 57490,
-      "name": "Kafr Miṣr",
+      "name": "Kafr Misr",
       "name_default": "Kafr Miṣr",
       "native": "כפר מיסר",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 57497,
-      "name": "Kefar Tavor",
+      "name": "Kefar Tawor",
       "name_default": "Kfar Tavor",
       "native": "כפר תבור",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57577,
-      "name": "maalot Tarshīhā",
+      "name": "Ma'alot-Tarszicha",
       "name_default": "maalot Tarshīhā",
       "native": "מעלות תרשיחא",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 57506,
-      "name": "Maghār",
+      "name": "Maghar",
       "name_default": "Maghār",
       "native": "מַגַר",
       "type": "city",
@@ -687,7 +687,7 @@
     },
     {
       "id": 57516,
-      "name": "Naharijja",
+      "name": "Nahariyya",
       "name_default": "Nahariyya",
       "native": "נהריה",
       "type": "city",
@@ -705,7 +705,7 @@
     },
     {
       "id": 57518,
-      "name": "Naḥf",
+      "name": "Nachf",
       "name_default": "Naḥf",
       "native": "נאחף",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 57520,
-      "name": "Nie",
+      "name": "Najn",
       "name_default": "Nein",
       "native": "ניין",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 57539,
-      "name": "Kirjat Szemona",
+      "name": "Kirjat Szmona",
       "name_default": "Qiryat Shemona",
       "native": "קריית שמונה",
       "type": "city",
@@ -831,7 +831,7 @@
     },
     {
       "id": 57545,
-      "name": "Ramat Jiszaj",
+      "name": "Ramat Yishay",
       "name_default": "Ramat Yishay",
       "native": "רמת ישי",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 57561,
-      "name": "Sājūr",
+      "name": "Sadżur",
       "name_default": "Sājūr",
       "native": "סאג'ור",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 57554,
-      "name": "Sakhnīn",
+      "name": "Sachnin",
       "name_default": "Sakhnīn",
       "native": "סכנין",
       "type": "city",
@@ -975,7 +975,7 @@
     },
     {
       "id": 57558,
-      "name": "Szelomi",
+      "name": "Szlomi",
       "name_default": "Shlomi",
       "native": "שלומי",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 57572,
-      "name": "Jawneel",
+      "name": "Yavne’el",
       "name_default": "Yavne’el",
       "native": "יבנאל",
       "type": "city",

@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 148287,
-      "name": "阿奇",
+      "name": "阿智村",
       "name_default": "Achi",
-      "native": "アチ",
+      "native": "阿智村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 148214,
-      "name": "上松",
+      "name": "上松町",
       "name_default": "Agematsu",
       "native": "上松",
       "type": "city",
@@ -93,9 +93,9 @@
     },
     {
       "id": 148279,
-      "name": "阿南",
+      "name": "阿南町",
       "name_default": "Anan",
-      "native": "アナン",
+      "native": "阿南町",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 148259,
-      "name": "青木",
+      "name": "青木村",
       "name_default": "Aoki",
       "native": "青木",
       "type": "locality",
@@ -129,7 +129,7 @@
     },
     {
       "id": 148261,
-      "name": "朝日",
+      "name": "朝日村",
       "name_default": "Asahi",
       "native": "朝日",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 148299,
-      "name": "安昙野",
+      "name": "安昙野市",
       "name_default": "Azumino",
       "native": "安曇野",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 148293,
-      "name": "筑北",
+      "name": "筑北村",
       "name_default": "Chikuhoku",
       "native": "筑北",
       "type": "city",
@@ -219,9 +219,9 @@
     },
     {
       "id": 63303,
-      "name": "奇诺",
+      "name": "茅野市",
       "name_default": "Chino",
-      "native": "チノ",
+      "native": "茅野市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 148225,
-      "name": "富士见",
+      "name": "富士见町",
       "name_default": "Fujimi",
       "native": "富士見",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 63419,
-      "name": "白马",
+      "name": "白马村",
       "name_default": "Hakuba",
       "native": "白馬",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 148274,
-      "name": "原",
+      "name": "原村",
       "name_default": "Hara",
       "native": "原",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 148286,
-      "name": "平谷",
+      "name": "平谷村",
       "name_default": "Hiraya",
       "native": "平谷",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 63547,
-      "name": "饭田",
+      "name": "饭田市",
       "name_default": "Iida",
       "native": "飯田",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 148236,
-      "name": "饭岛",
+      "name": "饭岛町",
       "name_default": "Iijima",
       "native": "飯島",
       "type": "city",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63549,
-      "name": "饭山",
+      "name": "饭山市",
       "name_default": "Iiyama",
       "native": "飯山",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 148290,
-      "name": "饭纲",
+      "name": "饭纲町",
       "name_default": "Iizuna",
       "native": "飯綱",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 148284,
-      "name": "池田",
+      "name": "池田町",
       "name_default": "Ikeda",
       "native": "池田",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 148267,
-      "name": "生坂",
+      "name": "生坂村",
       "name_default": "Ikusaka",
       "native": "生坂",
       "type": "city",
@@ -471,9 +471,9 @@
     },
     {
       "id": 63565,
-      "name": "伊娜",
+      "name": "伊那市",
       "name_default": "Ina",
-      "native": "イナ",
+      "native": "伊那市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -525,7 +525,7 @@
     },
     {
       "id": 148237,
-      "name": "轻井泽",
+      "name": "轻井泽町",
       "name_default": "Karuizawa",
       "native": "軽井沢",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 148288,
-      "name": "川上",
+      "name": "川上村",
       "name_default": "Kawakami",
       "native": "川上",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 148264,
-      "name": "木岛平",
+      "name": "木岛平村",
       "name_default": "Kijimadaira",
       "native": "木島平",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 148281,
-      "name": "北合木",
+      "name": "北相木村",
       "name_default": "Kitaaiki",
       "native": "北相木",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 63833,
-      "name": "驹根",
+      "name": "驹根市",
       "name_default": "Komagane",
       "native": "駒ヶ根",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 63841,
-      "name": "小诸",
+      "name": "小诸市",
       "name_default": "Komoro",
       "native": "小諸",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 148252,
-      "name": "松川",
+      "name": "松川町",
       "name_default": "Matsukawa",
       "native": "松川",
       "type": "city",
@@ -669,7 +669,7 @@
     },
     {
       "id": 63935,
-      "name": "松本",
+      "name": "松本市",
       "name_default": "Matsumoto",
       "native": "松本",
       "type": "adm2",
@@ -705,7 +705,7 @@
     },
     {
       "id": 148256,
-      "name": "南ミナイキ",
+      "name": "南相木村",
       "name_default": "Minamiaiki",
       "native": "南相木",
       "type": "city",
@@ -723,7 +723,7 @@
     },
     {
       "id": 148228,
-      "name": "南牧",
+      "name": "南牧村",
       "name_default": "Minamimaki",
       "native": "南牧",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 148235,
-      "name": "南三之轮",
+      "name": "南箕轮村",
       "name_default": "Minamiminowa",
       "native": "南箕輪",
       "type": "city",
@@ -759,7 +759,7 @@
     },
     {
       "id": 148254,
-      "name": "三之轮",
+      "name": "箕轮町",
       "name_default": "Minowa",
       "native": "箕輪",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 148265,
-      "name": "宫田",
+      "name": "宫田村",
       "name_default": "Miyada",
       "native": "宮田",
       "type": "city",
@@ -813,9 +813,9 @@
     },
     {
       "id": 148291,
-      "name": "御代田",
+      "name": "御代田町",
       "name_default": "Miyota",
-      "native": "ミヨタ",
+      "native": "御代田町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -831,7 +831,7 @@
     },
     {
       "id": 64064,
-      "name": "长野",
+      "name": "长野市",
       "name_default": "Nagano",
       "native": "長野",
       "type": "adm1",
@@ -867,9 +867,9 @@
     },
     {
       "id": 148238,
-      "name": "长川",
+      "name": "长和町",
       "name_default": "Nagawa",
-      "native": "ナガワ",
+      "native": "長和町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -885,7 +885,7 @@
     },
     {
       "id": 148263,
-      "name": "南木曾",
+      "name": "南木曾町",
       "name_default": "Nagiso",
       "native": "南木曽",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 148224,
-      "name": "中川",
+      "name": "中川村",
       "name_default": "Nakagawa",
       "native": "中川",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 148243,
-      "name": "仲条",
+      "name": "中条村",
       "name_default": "Nakajō",
       "native": "中条",
       "type": "city",
@@ -939,7 +939,7 @@
     },
     {
       "id": 148249,
-      "name": "中野",
+      "name": "中野市",
       "name_default": "Nakano",
       "native": "中野",
       "type": "city",
@@ -975,9 +975,9 @@
     },
     {
       "id": 148297,
-      "name": "根巴",
+      "name": "根羽村",
       "name_default": "Neba",
-      "native": "ネバ",
+      "native": "根羽村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -993,7 +993,7 @@
     },
     {
       "id": 148240,
-      "name": "野泽温泉",
+      "name": "野泽温泉村",
       "name_default": "Nozawaonsen",
       "native": "野沢温泉",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 148233,
-      "name": "小布施",
+      "name": "小布施町",
       "name_default": "Obuse",
       "native": "小布施",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 148303,
-      "name": "小川",
+      "name": "小川村",
       "name_default": "Ogawa",
       "native": "小川",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 64193,
-      "name": "冈谷",
+      "name": "冈谷市",
       "name_default": "Okaya",
       "native": "岡谷",
       "type": "adm2",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 148251,
-      "name": "大桑",
+      "name": "大桑村",
       "name_default": "Ōkuwa",
       "native": "大桑",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 148321,
-      "name": "大町",
+      "name": "大町市",
       "name_default": "Ōmachi",
       "native": "大町",
       "type": "adm2",
@@ -1137,9 +1137,9 @@
     },
     {
       "id": 148241,
-      "name": "近江",
+      "name": "麻绩村",
       "name_default": "Omi",
-      "native": "近江",
+      "native": "麻績村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 148260,
-      "name": "Ōshika",
+      "name": "大鹿村",
       "name_default": "Ōshika",
       "native": "大鹿",
       "type": "city",
@@ -1173,9 +1173,9 @@
     },
     {
       "id": 148250,
-      "name": "大泷",
+      "name": "王泷村",
       "name_default": "Ōtaki",
-      "native": "大滝",
+      "native": "王滝村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 148242,
-      "name": "小谷",
+      "name": "小谷村",
       "name_default": "Otari",
       "native": "小谷",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 148275,
-      "name": "荣",
+      "name": "荣村",
       "name_default": "Sakae",
       "native": "栄",
       "type": "city",
@@ -1227,9 +1227,9 @@
     },
     {
       "id": 148216,
-      "name": "榊",
+      "name": "坂城町",
       "name_default": "Sakaki",
-      "native": "榊",
+      "native": "坂城町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1245,9 +1245,9 @@
     },
     {
       "id": 64266,
-      "name": "佐久",
+      "name": "佐久市",
       "name_default": "Saku",
-      "native": "サク",
+      "native": "佐久市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 148239,
-      "name": "作穗",
+      "name": "佐久穗町",
       "name_default": "Sakuho",
       "native": "佐久穂",
       "type": "adm2",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 148277,
-      "name": "下条",
+      "name": "下条村",
       "name_default": "Shimojō",
       "native": "下条",
       "type": "city",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 148272,
-      "name": "下诹访",
+      "name": "下诹访町",
       "name_default": "Shimosuwa",
       "native": "下諏訪",
       "type": "city",
@@ -1353,7 +1353,7 @@
     },
     {
       "id": 148278,
-      "name": "信浓",
+      "name": "信浓町",
       "name_default": "Shinano",
       "native": "信濃",
       "type": "city",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 64349,
-      "name": "盐尻",
+      "name": "盐尻市",
       "name_default": "Shiojiri",
       "native": "塩尻",
       "type": "adm2",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": 64390,
-      "name": "诹访",
+      "name": "诹访市",
       "name_default": "Suwa",
       "native": "諏訪",
       "type": "adm2",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 64392,
-      "name": "须坂",
+      "name": "须坂市",
       "name_default": "Suzaka",
       "native": "須坂",
       "type": "adm2",
@@ -1443,9 +1443,9 @@
     },
     {
       "id": 148226,
-      "name": "高木",
+      "name": "乔木村",
       "name_default": "Takagi",
-      "native": "高木",
+      "native": "喬木村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 148222,
-      "name": "高森",
+      "name": "高森町",
       "name_default": "Takamori",
       "native": "高森",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 148283,
-      "name": "高山",
+      "name": "高山村",
       "name_default": "Takayama",
       "native": "高山",
       "type": "city",
@@ -1497,9 +1497,9 @@
     },
     {
       "id": 148285,
-      "name": "蓼科",
+      "name": "立科町",
       "name_default": "Tateshina",
-      "native": "蓼科",
+      "native": "立科町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 148295,
-      "name": "龙野",
+      "name": "辰野町",
       "name_default": "Tatsuno",
       "native": "辰野",
       "type": "city",
@@ -1587,9 +1587,9 @@
     },
     {
       "id": 148268,
-      "name": "丰冈",
+      "name": "丰丘村",
       "name_default": "Toyooka",
-      "native": "豊岡",
+      "native": "豊丘村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 64578,
-      "name": "上田",
+      "name": "上田市",
       "name_default": "Ueda",
       "native": "上田",
       "type": "adm2",
@@ -1641,9 +1641,9 @@
     },
     {
       "id": 148220,
-      "name": "卖木",
+      "name": "卖木村",
       "name_default": "Urugi",
-      "native": "ウルギ",
+      "native": "売木村",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 148219,
-      "name": "山形",
+      "name": "山形村",
       "name_default": "Yamagata",
       "native": "山形",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 148234,
-      "name": "山之内",
+      "name": "山之内町",
       "name_default": "Yamanouchi",
       "native": "山ノ内",
       "type": "city",
@@ -1695,9 +1695,9 @@
     },
     {
       "id": 148229,
-      "name": "安冈",
+      "name": "泰阜村",
       "name_default": "Yasuoka",
-      "native": "安岡",
+      "native": "泰阜村",
       "type": "city",
       "level": null,
       "parent_id": null,

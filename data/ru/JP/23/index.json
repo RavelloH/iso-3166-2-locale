@@ -93,7 +93,7 @@
     },
     {
       "id": 63246,
-      "name": "Андзё-ши",
+      "name": "Андзё",
       "name_default": "Anjō-shi",
       "native": "安城市",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 63305,
-      "name": "Чирю",
+      "name": "Тирю",
       "name_default": "Chiryū",
       "native": "知立",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 63307,
-      "name": "Чита",
+      "name": "Тита",
       "name_default": "Chita",
       "native": "知多",
       "type": "adm2",
@@ -149,7 +149,7 @@
       "id": 63382,
       "name": "Гамагори",
       "name_default": "Gamagōri",
-      "native": "鎌郡",
+      "native": "蒲郡市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 63383,
-      "name": "Гамагори-ши",
+      "name": "Гамагори",
       "name_default": "Gamagōri-shi",
       "native": "蒲郡市",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63542,
-      "name": "Ичиномия",
+      "name": "Итиномия",
       "name_default": "Ichinomiya",
       "native": "一宮市",
       "type": "adm2",
@@ -293,7 +293,7 @@
       "id": 63598,
       "name": "Исики",
       "name_default": "Ishiki",
-      "native": "イシキ",
+      "native": "一色町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63711,
-      "name": "Кани",
+      "name": "Каниэ",
       "name_default": "Kanie",
       "native": "蟹江",
       "type": "city",
@@ -507,9 +507,9 @@
     },
     {
       "id": 63897,
-      "name": "Конан-ши",
+      "name": "Конан",
       "name_default": "Kōnan-shi",
-      "native": "湖南市",
+      "native": "江南市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -653,7 +653,7 @@
       "id": 64715,
       "name": "Обу",
       "name_default": "Ōbu",
-      "native": "大部",
+      "native": "大府市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 64716,
-      "name": "Обу-ши",
+      "name": "Обу",
       "name_default": "Ōbu-shi",
       "native": "大府市",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 64450,
-      "name": "Такетойо",
+      "name": "Такетоё",
       "name_default": "Taketoyo",
       "native": "武豊",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 64568,
-      "name": "Токай-си",
+      "name": "Токай",
       "name_default": "Tōkai-shi",
       "native": "東海市",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64522,
-      "name": "Тоёаке",
+      "name": "Тоёакэ",
       "name_default": "Toyoake",
       "native": "豊明",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 64525,
-      "name": "Тойохаси",
+      "name": "Тоёхаси",
       "name_default": "Toyohashi",
       "native": "豊橋",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 64527,
-      "name": "Тойокава",
+      "name": "Тоёкава",
       "name_default": "Toyokawa",
       "native": "豊川市",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 64534,
-      "name": "Тойота-ши",
+      "name": "Тоёта",
       "name_default": "Toyota-shi",
       "native": "豊田市",
       "type": "city",

@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63244,
-      "name": "Vriend",
+      "name": "Ami",
       "name_default": "Ami",
-      "native": "アミ",
+      "native": "阿見町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 63317,
       "name": "Daigo",
       "name_default": "Daigo",
-      "native": "醍醐",
+      "native": "大子町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -725,7 +725,7 @@
       "id": 64032,
       "name": "Moriya",
       "name_default": "Moriya",
-      "native": "守屋",
+      "native": "守谷市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 64093,
-      "name": "Naamgata",
+      "name": "Namegata",
       "name_default": "Namegata",
       "native": "行方",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 64233,
-      "name": "Ryūgasaki",
+      "name": "Ryugasaki",
       "name_default": "Ryūgasaki",
       "native": "竜ヶ崎",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64234,
-      "name": "Ryūgasaki-shi",
+      "name": "Ryugasaki",
       "name_default": "Ryūgasaki-shi",
       "native": "龍ヶ崎市",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 64707,
-      "name": "Yuki-shi",
+      "name": "Yuki",
       "name_default": "Yūki-shi",
       "native": "結城市",
       "type": "adm1",

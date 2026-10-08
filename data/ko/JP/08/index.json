@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63244,
-      "name": "아미",
+      "name": "아미정",
       "name_default": "Ami",
-      "native": "アミ",
+      "native": "阿見町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 63281,
-      "name": "반도",
+      "name": "반도시",
       "name_default": "Bandō",
       "native": "坂東",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 63300,
-      "name": "치쿠세이",
+      "name": "지쿠세이시",
       "name_default": "Chikusei",
       "native": "筑西市",
       "type": "adm2",
@@ -111,9 +111,9 @@
     },
     {
       "id": 63317,
-      "name": "다이고",
+      "name": "다이고정",
       "name_default": "Daigo",
-      "native": "醍醐",
+      "native": "大子町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 63331,
-      "name": "에도사키",
+      "name": "에도사키정",
       "name_default": "Edosaki",
       "native": "江戸崎",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 63354,
-      "name": "후지시로",
+      "name": "후지시로정",
       "name_default": "Fujishiro",
       "native": "藤代",
       "type": "city",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63570,
-      "name": "이나시키",
+      "name": "이나시키시",
       "name_default": "Inashiki",
       "native": "稲敷",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 63592,
-      "name": "이시게",
+      "name": "이시게정",
       "name_default": "Ishige",
       "native": "石毛",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63601,
-      "name": "이시오카",
+      "name": "이시오카시",
       "name_default": "Ishioka",
       "native": "石岡",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63606,
-      "name": "이타코",
+      "name": "이타코시",
       "name_default": "Itako",
       "native": "潮来市",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63631,
-      "name": "이와세",
+      "name": "이와세정",
       "name_default": "Iwase",
       "native": "岩瀬",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 63749,
-      "name": "가스미가우라",
+      "name": "가스미가우라시",
       "name_default": "Kasumigaura",
       "native": "かすみがうら市",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 63914,
-      "name": "마카베",
+      "name": "마카베정",
       "name_default": "Makabe",
       "native": "真壁",
       "type": "city",
@@ -723,9 +723,9 @@
     },
     {
       "id": 64032,
-      "name": "모리야",
+      "name": "모리야시",
       "name_default": "Moriya",
-      "native": "守屋",
+      "native": "守谷市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 64093,
-      "name": "나메가타",
+      "name": "나메가타시",
       "name_default": "Namegata",
       "native": "行方",
       "type": "adm2",
@@ -885,7 +885,7 @@
     },
     {
       "id": 64233,
-      "name": "류가사키",
+      "name": "류가사키시",
       "name_default": "Ryūgasaki",
       "native": "竜ヶ崎",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 64419,
-      "name": "타카하기",
+      "name": "다카하기시",
       "name_default": "Takahagi",
       "native": "高萩",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 64547,
-      "name": "쓰쿠바미라이",
+      "name": "쓰쿠바미라이시",
       "name_default": "Tsukubamirai",
       "native": "つくばみらい",
       "type": "adm2",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 64603,
-      "name": "우시쿠",
+      "name": "우시쿠시",
       "name_default": "Ushiku",
       "native": "牛久",
       "type": "adm2",

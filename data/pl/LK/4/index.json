@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 66483,
-      "name": "Jaffna",
+      "name": "Dżafna",
       "name_default": "Jaffna",
-      "native": "ජැෆ්ෆා",
+      "native": "යාපනය",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -93,9 +93,9 @@
     },
     {
       "id": 66496,
-      "name": "Kilinoczchi",
+      "name": "Kilinochchi",
       "name_default": "Kilinochchi",
-      "native": "කර්නොච්චි",
+      "native": "කිලිනොච්චිය",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -111,7 +111,7 @@
     },
     {
       "id": 66497,
-      "name": "Rejon Kilinoczchi",
+      "name": "Kilinoćći",
       "name_default": "Kilinochchi District",
       "native": "කිලිනොච්චි දිස්ත්රික්කය",
       "type": "district",
@@ -129,7 +129,7 @@
     },
     {
       "id": 66522,
-      "name": "Punkt Pedro",
+      "name": "Point Pedro",
       "name_default": "Point Pedro",
       "native": "පොයින්ට් පේද්රෝ",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 66540,
-      "name": "Dystrykt Vavuniya",
+      "name": "Wawunija",
       "name_default": "Vavuniya District",
       "native": "වවුනියා දිස්ත්රික්කය",
       "type": "district",

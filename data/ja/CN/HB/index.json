@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 19282,
-      "name": "アンル",
+      "name": "安陸市",
       "name_default": "Anlu",
       "native": "安陆",
       "type": "adm3",
@@ -280,7 +280,7 @@
     },
     {
       "id": 158163,
-      "name": "唐陽",
+      "name": "当陽市",
       "name_default": "Dangyang",
       "native": "当阳",
       "type": "city",
@@ -352,7 +352,7 @@
     },
     {
       "id": 19440,
-      "name": "デイ",
+      "name": "大冶市",
       "name_default": "Daye",
       "native": "大冶",
       "type": "city",
@@ -370,9 +370,9 @@
     },
     {
       "id": 158143,
-      "name": "デイ",
+      "name": "大冶市",
       "name_default": "Daye",
-      "native": "戴伊",
+      "native": "大冶市",
       "type": "city",
       "level": "2",
       "parent_id": "19658",
@@ -532,7 +532,7 @@
     },
     {
       "id": 19495,
-      "name": "鄂",
+      "name": "鄂州市",
       "name_default": "Ezhou",
       "native": "鄂州",
       "type": "prefecture",
@@ -820,7 +820,7 @@
     },
     {
       "id": 158194,
-      "name": "紅湖",
+      "name": "洪湖市",
       "name_default": "Honghu",
       "native": "洪湖",
       "type": "city",
@@ -856,7 +856,7 @@
     },
     {
       "id": 19647,
-      "name": "黄岡",
+      "name": "黄岡市",
       "name_default": "Huanggang",
       "native": "黄冈",
       "type": "prefecture",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 158196,
-      "name": "建里",
+      "name": "監利県",
       "name_default": "Jianli",
       "native": "监利",
       "type": "city",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": 19736,
-      "name": "荊門",
+      "name": "荊門市",
       "name_default": "Jingmen",
       "native": "荆门",
       "type": "prefecture",
@@ -1234,7 +1234,7 @@
     },
     {
       "id": 19738,
-      "name": "荊",
+      "name": "荊州市",
       "name_default": "Jingzhou",
       "native": "荆州",
       "type": "prefecture",
@@ -1270,7 +1270,7 @@
     },
     {
       "id": 19805,
-      "name": "老河口",
+      "name": "老河口市",
       "name_default": "Laohekou",
       "native": "老河口市",
       "type": "city",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 158171,
-      "name": "老河口",
+      "name": "老河口市",
       "name_default": "Laohekou",
       "native": "老河口",
       "type": "city",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": 20008,
-      "name": "銭江",
+      "name": "潜江市",
       "name_default": "Qianjiang",
       "native": "潜江",
       "type": "adm4",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 158226,
-      "name": "銭江",
+      "name": "潜江市",
       "name_default": "Qianjiang",
       "native": "潜江",
       "type": "city",
@@ -1666,7 +1666,7 @@
     },
     {
       "id": 158193,
-      "name": "師匠",
+      "name": "石首市",
       "name_default": "Shishou",
       "native": "石首",
       "type": "city",
@@ -1702,9 +1702,9 @@
     },
     {
       "id": 158195,
-      "name": "宋子",
+      "name": "松滋市",
       "name_default": "Songzi",
-      "native": "松子",
+      "native": "松滋市",
       "type": "city",
       "level": "2",
       "parent_id": "19738",
@@ -1756,7 +1756,7 @@
     },
     {
       "id": 158227,
-      "name": "天門",
+      "name": "天門市",
       "name_default": "Tianmen",
       "native": "天门",
       "type": "city",
@@ -1882,7 +1882,7 @@
     },
     {
       "id": 20233,
-      "name": "武漢",
+      "name": "武漢市",
       "name_default": "Wuhan",
       "native": "武汉",
       "type": "prefecture",
@@ -1918,7 +1918,7 @@
     },
     {
       "id": 20240,
-      "name": "呉雪",
+      "name": "武穴市",
       "name_default": "Wuxue",
       "native": "武穴",
       "type": "adm3",
@@ -1936,7 +1936,7 @@
     },
     {
       "id": 158206,
-      "name": "呉雪",
+      "name": "武穴市",
       "name_default": "Wuxue",
       "native": "武穴",
       "type": "city",
@@ -2062,7 +2062,7 @@
     },
     {
       "id": 20261,
-      "name": "咸寧",
+      "name": "咸寧市",
       "name_default": "Xianning",
       "native": "咸宁",
       "type": "prefecture",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": 20266,
-      "name": "仙桃",
+      "name": "仙桃市",
       "name_default": "Xiantao",
       "native": "仙桃",
       "type": "city",
@@ -2422,7 +2422,7 @@
     },
     {
       "id": 20366,
-      "name": "宜昌",
+      "name": "宜昌市",
       "name_default": "Yichang",
       "native": "宜昌",
       "type": "prefecture",
@@ -2476,9 +2476,9 @@
     },
     {
       "id": 158162,
-      "name": "イドゥ",
+      "name": "宜都市",
       "name_default": "Yidu",
-      "native": "义都",
+      "native": "宜都市",
       "type": "city",
       "level": "2",
       "parent_id": "20366",
@@ -2728,9 +2728,9 @@
     },
     {
       "id": 20446,
-      "name": "志江",
+      "name": "枝江市",
       "name_default": "Zhijiang",
-      "native": "之江",
+      "native": "枝江市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2764,9 +2764,9 @@
     },
     {
       "id": 20455,
-      "name": "忠祥",
+      "name": "鍾祥市",
       "name_default": "Zhongxiang",
-      "native": "忠祥",
+      "native": "钟祥市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2782,9 +2782,9 @@
     },
     {
       "id": 158180,
-      "name": "忠祥",
+      "name": "鍾祥市",
       "name_default": "Zhongxiang",
-      "native": "忠祥",
+      "native": "钟祥市",
       "type": "city",
       "level": "2",
       "parent_id": "19736",

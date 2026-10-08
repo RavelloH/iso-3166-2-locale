@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63270,
-      "name": "아타미",
+      "name": "아타미시",
       "name_default": "Atami",
       "native": "熱海",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 63347,
-      "name": "후지노미야",
+      "name": "후지노미야시",
       "name_default": "Fujinomiya",
       "native": "富士宮市",
       "type": "adm2",
@@ -147,7 +147,7 @@
     },
     {
       "id": 63368,
-      "name": "후쿠로이",
+      "name": "후쿠로이시",
       "name_default": "Fukuroi",
       "native": "袋井",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63425,
-      "name": "하마키타",
+      "name": "하마키타시",
       "name_default": "Hamakita",
       "native": "浜北",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 63452,
-      "name": "헤다",
+      "name": "헤다촌",
       "name_default": "Heda",
       "native": "ヘダ",
       "type": "city",
@@ -255,9 +255,9 @@
     },
     {
       "id": 63616,
-      "name": "이토",
+      "name": "이토시",
       "name_default": "Itō",
-      "native": "伊藤",
+      "native": "伊東市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -275,7 +275,7 @@
       "id": 63617,
       "name": "이토시",
       "name_default": "Itō Shi",
-      "native": "伊藤史",
+      "native": "伊東市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -291,9 +291,9 @@
     },
     {
       "id": 63632,
-      "name": "이와타",
+      "name": "이와타시",
       "name_default": "Iwata",
-      "native": "岩田",
+      "native": "磐田市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63638,
-      "name": "이즈",
+      "name": "이즈시",
       "name_default": "Izu",
       "native": "伊豆",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63669,
-      "name": "카케가와",
+      "name": "가케가와시",
       "name_default": "Kakegawa",
       "native": "掛川市",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 63845,
-      "name": "코사이",
+      "name": "고사이시",
       "name_default": "Kosai",
       "native": "湖西",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63985,
-      "name": "미시마",
+      "name": "미시마시",
       "name_default": "Mishima",
       "native": "三島",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 64028,
-      "name": "모리",
+      "name": "모리정",
       "name_default": "Mori",
       "native": "森",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 64244,
-      "name": "사가라",
+      "name": "사가라정",
       "name_default": "Sagara",
       "native": "サガラ",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 64327,
-      "name": "시마다",
+      "name": "시마다시",
       "name_default": "Shimada",
       "native": "島田",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 64330,
-      "name": "시모다",
+      "name": "시모다시",
       "name_default": "Shimoda",
       "native": "下田",
       "type": "adm2",
@@ -651,7 +651,7 @@
     },
     {
       "id": 64388,
-      "name": "수소노",
+      "name": "스소노시",
       "name_default": "Susono",
       "native": "裾野",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 64634,
-      "name": "야이즈",
+      "name": "야이즈시",
       "name_default": "Yaizu",
       "native": "焼津",
       "type": "adm2",

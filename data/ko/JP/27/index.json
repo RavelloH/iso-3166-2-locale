@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63321,
-      "name": "다이토초",
+      "name": "다이토시",
       "name_default": "Daitō",
       "native": "大東市",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 63435,
-      "name": "한난",
+      "name": "한난시",
       "name_default": "Hannan",
       "native": "阪南",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 63655,
-      "name": "카도마",
+      "name": "가도마시",
       "name_default": "Kadoma",
       "native": "門真",
       "type": "adm2",
@@ -633,7 +633,7 @@
     },
     {
       "id": 64029,
-      "name": "모리구치",
+      "name": "모리구치시",
       "name_default": "Moriguchi",
       "native": "守口",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 64214,
-      "name": "오사카",
+      "name": "오사카시",
       "name_default": "Osaka",
       "native": "大阪",
       "type": "adm1",
@@ -743,7 +743,7 @@
       "id": 64257,
       "name": "사카이 시",
       "name_default": "Sakai Shi",
-      "native": "酒井氏",
+      "native": "堺市",
       "type": "city",
       "level": null,
       "parent_id": null,

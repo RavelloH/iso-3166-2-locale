@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "آلاند",
+      "name": "ألند",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57933,
-      "name": "بنغالورو",
+      "name": "بنغالور",
       "name_default": "Bengaluru",
       "native": "बेंगलुरु",
       "type": "adm1",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57848,
-      "name": "بنغالورو الحضرية",
+      "name": "بنغالور منطقة الحضرية",
       "name_default": "Bengaluru Urban",
       "native": "बेंगलुरु शहरी",
       "type": "area",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 131701,
-      "name": "ديفانهالي",
+      "name": "ديوانهالي",
       "name_default": "Devanahalli",
       "native": "देवनहल्ली",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "جورماتكال",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 132411,
-      "name": "كاروار",
+      "name": "كَرْوار",
       "name_default": "Karwar",
       "native": "कारवार",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "فيجايابورا",
+      "name": "بيجابور",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",

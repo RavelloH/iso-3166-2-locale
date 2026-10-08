@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "많이",
+      "name": "알롯",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -255,7 +255,7 @@
     },
     {
       "id": 57673,
-      "name": "암바",
+      "name": "암바흐",
       "name_default": "Ambah",
       "native": "अंबाह",
       "type": "city",
@@ -392,24 +392,6 @@
       "longitude": "76.72208000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q582291",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
-      "id": 58103,
-      "name": "바바이",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -813,7 +795,7 @@
     },
     {
       "id": 58148,
-      "name": "바소다",
+      "name": "간즈 바소다",
       "name_default": "Basoda",
       "native": "बासौदा",
       "type": "city",
@@ -831,7 +813,7 @@
     },
     {
       "id": 57913,
-      "name": "베감간지",
+      "name": "베가간지",
       "name_default": "Begamganj",
       "native": "बेगमगंज",
       "type": "city",
@@ -849,7 +831,7 @@
     },
     {
       "id": 57935,
-      "name": "베오하리",
+      "name": "베하리",
       "name_default": "Beohari",
       "native": "बेओहारी",
       "type": "city",
@@ -957,7 +939,7 @@
     },
     {
       "id": 57959,
-      "name": "바인스데히",
+      "name": "바이젠데이",
       "name_default": "Bhainsdehi",
       "native": "भैंसदेही",
       "type": "city",
@@ -1011,7 +993,7 @@
     },
     {
       "id": 57980,
-      "name": "비칸가온",
+      "name": "바이칸온",
       "name_default": "Bhikangaon",
       "native": "भीकनगांव",
       "type": "city",
@@ -1281,7 +1263,7 @@
     },
     {
       "id": 131534,
-      "name": "친드와라",
+      "name": "크힌와르",
       "name_default": "Chhindwara",
       "native": "छिंदवाड़ा",
       "type": "city",
@@ -1443,7 +1425,7 @@
     },
     {
       "id": 131693,
-      "name": "데팔푸르",
+      "name": "디팔푸르",
       "name_default": "Depalpur",
       "native": "देपालपुर",
       "type": "city",
@@ -1731,7 +1713,7 @@
     },
     {
       "id": 131966,
-      "name": "고하디",
+      "name": "고하드",
       "name_default": "Gohad",
       "native": "गोहादी",
       "type": "city",
@@ -1821,7 +1803,7 @@
     },
     {
       "id": 132040,
-      "name": "그왈리오르",
+      "name": "괄리오르",
       "name_default": "Gwalior",
       "native": "ग्वालियर",
       "type": "city",
@@ -1911,7 +1893,7 @@
     },
     {
       "id": 132082,
-      "name": "하르수드",
+      "name": "하르수스",
       "name_default": "Harsud",
       "native": "हरसूद",
       "type": "abandoned",
@@ -2019,7 +2001,7 @@
     },
     {
       "id": 132152,
-      "name": "이차와르",
+      "name": "이키하와르",
       "name_default": "Ichhawar",
       "native": "इछावर",
       "type": "city",
@@ -2091,7 +2073,7 @@
     },
     {
       "id": 132179,
-      "name": "이타르시",
+      "name": "이타시",
       "name_default": "Itarsi",
       "native": "इटारसी",
       "type": "city",
@@ -2469,7 +2451,7 @@
     },
     {
       "id": 132511,
-      "name": "하흐로드",
+      "name": "차로드",
       "name_default": "Khachrod",
       "native": "खाचरोद",
       "type": "city",
@@ -2523,7 +2505,7 @@
     },
     {
       "id": 132467,
-      "name": "칸드와",
+      "name": "콴다와",
       "name_default": "Khandwa",
       "native": "खंडवा",
       "type": "city",
@@ -2793,7 +2775,7 @@
     },
     {
       "id": 132631,
-      "name": "쿠크시",
+      "name": "쿡시",
       "name_default": "Kukshi",
       "native": "कुक्षी",
       "type": "city",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "쿰브라즈",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3002,6 +2984,24 @@
       "longitude": "79.92396000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q2552260",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
+      "id": 58103,
+      "name": "바바이",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -3225,7 +3225,7 @@
     },
     {
       "id": 132947,
-      "name": "마우간지",
+      "name": "마간즈",
       "name_default": "Mauganj",
       "native": "मऊगंज",
       "type": "city",
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 133022,
-      "name": "멀티타이",
+      "name": "물타이",
       "name_default": "Multai",
       "native": "मुल्ताई",
       "type": "city",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 133030,
-      "name": "뭉가올리",
+      "name": "문가올리",
       "name_default": "Mungaoli",
       "native": "मुंगावली",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 133542,
-      "name": "판세말",
+      "name": "판스멀",
       "name_default": "Pansemal",
       "native": "पानसेमल",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 133623,
-      "name": "레흘리",
+      "name": "렐리",
       "name_default": "Rehli",
       "native": "रेहली",
       "type": "city",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": 133738,
-      "name": "사발가르",
+      "name": "사바가르",
       "name_default": "Sabalgarh",
       "native": "सबलगढ़",
       "type": "city",
@@ -4251,7 +4251,7 @@
     },
     {
       "id": 133757,
-      "name": "세일라나",
+      "name": "사일라나",
       "name_default": "Sailana",
       "native": "सैलाना",
       "type": "city",
@@ -4413,7 +4413,7 @@
     },
     {
       "id": 133835,
-      "name": "세호르",
+      "name": "세호",
       "name_default": "Sehore",
       "native": "सीहोर",
       "type": "city",
@@ -4629,7 +4629,7 @@
     },
     {
       "id": 133880,
-      "name": "시브푸리",
+      "name": "시부푸리",
       "name_default": "Shivpuri",
       "native": "शिवपुरी",
       "type": "city",
@@ -4755,7 +4755,7 @@
     },
     {
       "id": 133956,
-      "name": "시르마우르",
+      "name": "시르마르",
       "name_default": "Sirmaur",
       "native": "सिरमौर",
       "type": "city",
@@ -4773,7 +4773,7 @@
     },
     {
       "id": 133959,
-      "name": "시론지",
+      "name": "시론즈",
       "name_default": "Sironj",
       "native": "सिरोंज",
       "type": "city",
@@ -4881,7 +4881,7 @@
     },
     {
       "id": 134055,
-      "name": "수스너",
+      "name": "서스너",
       "name_default": "Susner",
       "native": "सुसनेर",
       "type": "city",
@@ -4989,7 +4989,7 @@
     },
     {
       "id": 134132,
-      "name": "테온타르",
+      "name": "테온싸르",
       "name_default": "Teonthar",
       "native": "तेओन्थर",
       "type": "city",

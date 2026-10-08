@@ -93,7 +93,7 @@
     },
     {
       "id": 57601,
-      "name": "أغرا",
+      "name": "أغرة",
       "name_default": "Agra",
       "native": "आगरा",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 57687,
-      "name": "عمروها",
+      "name": "أمروها",
       "name_default": "Amroha",
       "native": "अमरोहा",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57777,
-      "name": "أزامجاره",
+      "name": "أعظم كره",
       "name_default": "Azamgarh",
       "native": "आजमगढ़",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 57801,
-      "name": "باغبات",
+      "name": "باغبت",
       "name_default": "Baghpat",
       "native": "बागपत",
       "type": "city",
@@ -795,7 +795,7 @@
     },
     {
       "id": 57804,
-      "name": "بهجوي",
+      "name": "بهجوئي",
       "name_default": "Bahjoi",
       "native": "बहज़ोई",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 57805,
-      "name": "بهرايش",
+      "name": "باهرايتش",
       "name_default": "Bahraich",
       "native": "बहराइच",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 58124,
-      "name": "باندا",
+      "name": "بندة",
       "name_default": "Banda",
       "native": "बाँदा",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 58043,
-      "name": "بيلجرام",
+      "name": "بلكرام",
       "name_default": "Bilgram",
       "native": "बिलग्राम",
       "type": "city",
@@ -2057,7 +2057,7 @@
       "id": 58091,
       "name": "بوذانا",
       "name_default": "Budhana",
-      "native": "बुढ़ाना",
+      "native": "बुढाना",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 58093,
-      "name": "بولاندشهر",
+      "name": "بلندشهر",
       "name_default": "Bulandshahr",
       "native": "बुलंदशहर",
       "type": "city",
@@ -2263,7 +2263,7 @@
       "latitude": "29.54687000",
       "longitude": "77.59438000",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "UP",
       "state_id": 4022,
@@ -2561,7 +2561,7 @@
       "id": 131653,
       "name": "دانكور",
       "name_default": "Dankaur",
-      "native": "डंकौर",
+      "native": "दनकौर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3063,7 +3063,7 @@
     },
     {
       "id": 131851,
-      "name": "فايز آباد",
+      "name": "فيض آباد",
       "name_default": "Faizabad",
       "native": "फैजाबाद",
       "type": "city",
@@ -3135,7 +3135,7 @@
     },
     {
       "id": 131858,
-      "name": "فاروخاباد",
+      "name": "فرروخاباد",
       "name_default": "Farrukhabad",
       "native": "फर्रुखाबाद",
       "type": "city",
@@ -3261,7 +3261,7 @@
     },
     {
       "id": 131870,
-      "name": "فاتحبور سيكري",
+      "name": "فتحبور سيكري",
       "name_default": "Fatehpur Sikri",
       "native": "फतेहपुर सीकरी",
       "type": "city",
@@ -3387,7 +3387,7 @@
     },
     {
       "id": 131903,
-      "name": "جانجوه",
+      "name": "كنكوه",
       "name_default": "Gangoh",
       "native": "गंगोह",
       "type": "city",
@@ -3783,7 +3783,7 @@
     },
     {
       "id": 131992,
-      "name": "جوراخبور",
+      "name": "غوراخبور",
       "name_default": "Gorakhpur",
       "native": "गोरखपुर",
       "type": "city",
@@ -4089,7 +4089,7 @@
     },
     {
       "id": 132072,
-      "name": "هاردوي",
+      "name": "هردوي",
       "name_default": "Hardoi",
       "native": "हरदोई",
       "type": "city",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 132306,
-      "name": "جالاون",
+      "name": "جلاون",
       "name_default": "Jalaun",
       "native": "जालौन",
       "type": "city",
@@ -4701,7 +4701,7 @@
     },
     {
       "id": 132264,
-      "name": "جوار",
+      "name": "جيوار",
       "name_default": "Jewar",
       "native": "जेवर",
       "type": "city",
@@ -4917,7 +4917,7 @@
     },
     {
       "id": 132335,
-      "name": "كايمغانج",
+      "name": "قائم كنج",
       "name_default": "Kaimganj",
       "native": "कायमगंज",
       "type": "city",
@@ -5079,7 +5079,7 @@
     },
     {
       "id": 132697,
-      "name": "كاندلا",
+      "name": "كاندهلة",
       "name_default": "Kandhla",
       "native": "कांधला",
       "type": "city",
@@ -5097,7 +5097,7 @@
     },
     {
       "id": 132378,
-      "name": "كانوج",
+      "name": "قنوج",
       "name_default": "Kannauj",
       "native": "कन्नौज",
       "type": "city",
@@ -5745,7 +5745,7 @@
     },
     {
       "id": 132531,
-      "name": "كيشانبور",
+      "name": "كيشونبور",
       "name_default": "Kishanpur",
       "native": "किशनपुर",
       "type": "city",
@@ -6033,7 +6033,7 @@
     },
     {
       "id": 132665,
-      "name": "كوشيناغار",
+      "name": "كوشينجار",
       "name_default": "Kushinagar",
       "native": "कुशीनगर",
       "type": "city",
@@ -6249,7 +6249,7 @@
     },
     {
       "id": 132782,
-      "name": "لكناو",
+      "name": "لكنو",
       "name_default": "Lucknow",
       "native": "लखनऊ",
       "type": "adm1",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": 132783,
-      "name": "منطقة لكناو",
+      "name": "منطقة لكنو",
       "name_default": "Lucknow District",
       "native": "लखनऊ जिला",
       "type": "district",
@@ -6285,7 +6285,7 @@
     },
     {
       "id": 132805,
-      "name": "ماشليشهر",
+      "name": "متشليشهر",
       "name_default": "Machhlishahr",
       "native": "मछलीशहर",
       "type": "city",
@@ -6537,7 +6537,7 @@
     },
     {
       "id": 132857,
-      "name": "ماينبوري",
+      "name": "مينبوري",
       "name_default": "Mainpuri",
       "native": "मैनपुरी",
       "type": "city",
@@ -6735,7 +6735,7 @@
     },
     {
       "id": 132936,
-      "name": "مارياهو",
+      "name": "مرياهون",
       "name_default": "Mariahu",
       "native": "मारियाहू",
       "type": "city",
@@ -6753,7 +6753,7 @@
     },
     {
       "id": 132940,
-      "name": "ماتاوند",
+      "name": "ماتوندا",
       "name_default": "Mataundh",
       "native": "मटौंध",
       "type": "city",
@@ -7113,7 +7113,7 @@
     },
     {
       "id": 133001,
-      "name": "مراد آباد",
+      "name": "مراد أباد",
       "name_default": "Moradabad",
       "native": "मुरादाबाद",
       "type": "adm2",
@@ -7149,7 +7149,7 @@
     },
     {
       "id": 133007,
-      "name": "مباركبور",
+      "name": "مباركفور",
       "name_default": "Mubarakpur",
       "native": "मुबारकपुर",
       "type": "city",
@@ -7329,7 +7329,7 @@
     },
     {
       "id": 133051,
-      "name": "مظفر نجار",
+      "name": "مظفر نگر",
       "name_default": "Muzaffarnagar",
       "native": "मुजफ्फरनगर",
       "type": "city",
@@ -7437,7 +7437,7 @@
     },
     {
       "id": 133129,
-      "name": "ناكور",
+      "name": "ناكر",
       "name_default": "Nakur",
       "native": "नाकुर",
       "type": "city",
@@ -7455,7 +7455,7 @@
     },
     {
       "id": 133139,
-      "name": "نانوتا",
+      "name": "نانوتة",
       "name_default": "Nanauta",
       "native": "नानौता",
       "type": "city",
@@ -8283,7 +8283,7 @@
     },
     {
       "id": 133561,
-      "name": "بيليبيت",
+      "name": "بيليبت",
       "name_default": "Pilibhit",
       "native": "पीलीभीत",
       "type": "city",
@@ -8553,7 +8553,7 @@
     },
     {
       "id": 133580,
-      "name": "رايباريلي",
+      "name": "راي بريلي",
       "name_default": "Raebareli",
       "native": "रायबरेली",
       "type": "city",
@@ -8735,7 +8735,7 @@
       "id": 133723,
       "name": "راث",
       "name_default": "Rath",
-      "native": "अधिक तत्पर",
+      "native": "राठ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -9021,7 +9021,7 @@
     },
     {
       "id": 133753,
-      "name": "ساهارانبور",
+      "name": "سَهَارَنبور",
       "name_default": "Saharanpur",
       "native": "सहारनपुर",
       "type": "city",
@@ -9219,7 +9219,7 @@
     },
     {
       "id": 133770,
-      "name": "سامبال",
+      "name": "سنبل",
       "name_default": "Sambhal",
       "native": "संभल",
       "type": "adm2",
@@ -9597,7 +9597,7 @@
     },
     {
       "id": 133895,
-      "name": "شاهجهانبور",
+      "name": "شهجهنبور",
       "name_default": "Shahjahanpur",
       "native": "शाहजहांपुर",
       "type": "city",
@@ -10659,7 +10659,7 @@
     },
     {
       "id": 147569,
-      "name": "فيندياشال",
+      "name": "فيندياتشال",
       "name_default": "Vindhyachal",
       "native": "विंध्याचल",
       "type": "city",
@@ -10715,7 +10715,7 @@
       "id": 134401,
       "name": "وزيرغانج",
       "name_default": "Wazirganj",
-      "native": "वजीरगंज",
+      "native": "वज़ीरगंज",
       "type": "city",
       "level": null,
       "parent_id": null,

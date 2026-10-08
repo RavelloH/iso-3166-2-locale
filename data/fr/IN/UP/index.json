@@ -291,7 +291,7 @@
     },
     {
       "id": 57666,
-      "name": "Ambahta",
+      "name": "Ambehta",
       "name_default": "Ambahta",
       "native": "अंबाहटा",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 57759,
-      "name": "Atraulie",
+      "name": "Atraulia",
       "name_default": "Atraulia",
       "native": "अत्रौलिया",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 57808,
-      "name": "Bahua",
+      "name": "Bahuwa",
       "name_default": "Bahua",
       "native": "बहुआ",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 57944,
-      "name": "Attention",
+      "name": "Bewar",
       "name_default": "Bewar",
       "native": "बेवर",
       "type": "city",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": 57958,
-      "name": "Bhagwantnagar",
+      "name": "Bhagwant Nagar",
       "name_default": "Bhagwantnagar",
       "native": "भगवंतनगर",
       "type": "city",
@@ -2057,7 +2057,7 @@
       "id": 58091,
       "name": "Budhana",
       "name_default": "Budhana",
-      "native": "बुढ़ाना",
+      "native": "बुढाना",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 58187,
-      "name": "District de Chandauli",
+      "name": "Chandauli District",
       "name_default": "Chandauli District",
       "native": "चंदौली जिला",
       "type": "district",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": 58201,
-      "name": "Charkhari",
+      "name": "Charkhârî",
       "name_default": "Charkhari",
       "native": "चरखारी",
       "type": "city",
@@ -2263,7 +2263,7 @@
       "latitude": "29.54687000",
       "longitude": "77.59438000",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "UP",
       "state_id": 4022,
@@ -2561,7 +2561,7 @@
       "id": 131653,
       "name": "Dankaur",
       "name_default": "Dankaur",
-      "native": "डंकौर",
+      "native": "दनकौर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2667,7 +2667,7 @@
     },
     {
       "id": 131674,
-      "name": "Dayal Bagh",
+      "name": "Dayalbagh",
       "name_default": "Dayal Bagh",
       "native": "दयाल बाग",
       "type": "city",
@@ -2685,7 +2685,7 @@
     },
     {
       "id": 131682,
-      "name": "Déoband",
+      "name": "Deoband",
       "name_default": "Deoband",
       "native": "देवबंद",
       "type": "city",
@@ -2703,7 +2703,7 @@
     },
     {
       "id": 147463,
-      "name": "Déogarh",
+      "name": "Deogarh",
       "name_default": "Deogarh",
       "native": "देवगढ़",
       "type": "city",
@@ -2721,7 +2721,7 @@
     },
     {
       "id": 131689,
-      "name": "Déoranien",
+      "name": "Deoranian",
       "name_default": "Deoranian",
       "native": "देवरानियन",
       "type": "city",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 131692,
-      "name": "Déoria",
+      "name": "Deoria",
       "name_default": "Deoria",
       "native": "देवरिया",
       "type": "city",
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 147464,
-      "name": "Dérapur",
+      "name": "Derapur",
       "name_default": "Derapur",
       "native": "डेरापुर",
       "type": "city",
@@ -3171,7 +3171,7 @@
     },
     {
       "id": 131863,
-      "name": "Fatehganj Ouest",
+      "name": "Fatehganj Pashchimi",
       "name_default": "Fatehganj West",
       "native": "फतेहगंज पश्चिम",
       "type": "city",
@@ -3261,7 +3261,7 @@
     },
     {
       "id": 131870,
-      "name": "Fatehpur Sikri",
+      "name": "Fatehpur-Sikrī",
       "name_default": "Fatehpur Sikri",
       "native": "फतेहपुर सीकरी",
       "type": "city",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 131920,
-      "name": "Garhmuktesar",
+      "name": "Garhmukteshwar",
       "name_default": "Garhmuktesar",
       "native": "गढ़मुक्तेसर",
       "type": "city",
@@ -3621,7 +3621,7 @@
     },
     {
       "id": 131941,
-      "name": "Ghiror",
+      "name": "Ghiraur",
       "name_default": "Ghiror",
       "native": "घिरोर",
       "type": "city",
@@ -3855,7 +3855,7 @@
     },
     {
       "id": 132005,
-      "name": "Grand Noida",
+      "name": "Greater Noida",
       "name_default": "Greater Noida",
       "native": "ग्रेटर नोएडा",
       "type": "city",
@@ -4359,7 +4359,7 @@
     },
     {
       "id": 132191,
-      "name": "Jagnair",
+      "name": "Jagner",
       "name_default": "Jagnair",
       "native": "जगनैर",
       "type": "city",
@@ -4467,7 +4467,7 @@
     },
     {
       "id": 132202,
-      "name": "Jaïs",
+      "name": "Jais",
       "name_default": "Jais",
       "native": "जैस",
       "type": "city",
@@ -4701,7 +4701,7 @@
     },
     {
       "id": 132264,
-      "name": "Juif",
+      "name": "Jewar",
       "name_default": "Jewar",
       "native": "जेवर",
       "type": "city",
@@ -5007,7 +5007,7 @@
     },
     {
       "id": 132683,
-      "name": "Kalpi",
+      "name": "Kalpî",
       "name_default": "Kalpi",
       "native": "कालपी",
       "type": "city",
@@ -5745,7 +5745,7 @@
     },
     {
       "id": 132531,
-      "name": "Kishanpur",
+      "name": "Kishunpur",
       "name_default": "Kishanpur",
       "native": "किशनपुर",
       "type": "city",
@@ -5763,7 +5763,7 @@
     },
     {
       "id": 147499,
-      "name": "Baral de Kishanpur",
+      "name": "Kishanpur baral",
       "name_default": "Kishanpur baral",
       "native": "किशनपुर बराल",
       "type": "adm2",
@@ -5799,7 +5799,7 @@
     },
     {
       "id": 132535,
-      "name": "Kithor",
+      "name": "Kithaur",
       "name_default": "Kithor",
       "native": "किथोर",
       "type": "city",
@@ -6033,7 +6033,7 @@
     },
     {
       "id": 132665,
-      "name": "Kushinagar",
+      "name": "Kusinâgar",
       "name_default": "Kushinagar",
       "native": "कुशीनगर",
       "type": "city",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": 132783,
-      "name": "District de Lucknow",
+      "name": "district de Lucknow",
       "name_default": "Lucknow District",
       "native": "लखनऊ जिला",
       "type": "district",
@@ -6285,7 +6285,7 @@
     },
     {
       "id": 132805,
-      "name": "Machhlishahr",
+      "name": "Machhali Shahar",
       "name_default": "Machhlishahr",
       "native": "मछलीशहर",
       "type": "city",
@@ -6645,7 +6645,7 @@
     },
     {
       "id": 132910,
-      "name": "Maniar",
+      "name": "Maniyar",
       "name_default": "Maniar",
       "native": "मनियार",
       "type": "city",
@@ -6951,7 +6951,7 @@
     },
     {
       "id": 132974,
-      "name": "Lait",
+      "name": "Milak",
       "name_default": "Milak",
       "native": "मिलक",
       "type": "city",
@@ -7131,7 +7131,7 @@
     },
     {
       "id": 133004,
-      "name": "Papillon de nuit",
+      "name": "Moth",
       "name_default": "Moth",
       "native": "कीट",
       "type": "city",
@@ -7149,7 +7149,7 @@
     },
     {
       "id": 133007,
-      "name": "Moubarakpur",
+      "name": "Mubarakpur",
       "name_default": "Mubarakpur",
       "native": "मुबारकपुर",
       "type": "city",
@@ -7239,7 +7239,7 @@
     },
     {
       "id": 147523,
-      "name": "Muradabad",
+      "name": "Moradabad",
       "name_default": "Muradabad",
       "native": "मुरादाबाद",
       "type": "adm2",
@@ -7725,7 +7725,7 @@
     },
     {
       "id": 133215,
-      "name": "Nihtaur",
+      "name": "Nehtaur",
       "name_default": "Nihtaur",
       "native": "निहतौर",
       "type": "city",
@@ -7815,7 +7815,7 @@
     },
     {
       "id": 133295,
-      "name": "Œuvre",
+      "name": "Obra",
       "name_default": "Obra",
       "native": "ओबरा",
       "type": "city",
@@ -7977,7 +7977,7 @@
     },
     {
       "id": 133014,
-      "name": "Saraï moghol",
+      "name": "Mughalsarai",
       "name_default": "Pandit Deen Dayal Upadhyaya Nagar",
       "native": "पंडित दीन दयाल उपाध्याय नगर",
       "type": "city",
@@ -8193,7 +8193,7 @@
     },
     {
       "id": 133436,
-      "name": "Phariha",
+      "name": "Fariha",
       "name_default": "Phariha",
       "native": "फ़रिहा",
       "type": "city",
@@ -8211,7 +8211,7 @@
     },
     {
       "id": 147538,
-      "name": "Phéona",
+      "name": "Pheona",
       "name_default": "Pheona",
       "native": "फेओना",
       "type": "city",
@@ -8735,7 +8735,7 @@
       "id": 133723,
       "name": "Rath",
       "name_default": "Rath",
-      "native": "अधिक तत्पर",
+      "native": "राठ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -8769,7 +8769,7 @@
     },
     {
       "id": 147546,
-      "name": "Réadaptation",
+      "name": "Rehar",
       "name_default": "Rehar",
       "native": "रेहार",
       "type": "city",
@@ -8805,7 +8805,7 @@
     },
     {
       "id": 133629,
-      "name": "Réoti",
+      "name": "Reoti",
       "name_default": "Reoti",
       "native": "रेवती",
       "type": "city",
@@ -8823,7 +8823,7 @@
     },
     {
       "id": 147548,
-      "name": "Réotipur",
+      "name": "Reotipur",
       "name_default": "Reotipur",
       "native": "रेवतीपुर",
       "type": "city",
@@ -8985,7 +8985,7 @@
     },
     {
       "id": 134059,
-      "name": "Sadate",
+      "name": "Sadat",
       "name_default": "Sadat",
       "native": "सादात",
       "type": "city",
@@ -9363,7 +9363,7 @@
     },
     {
       "id": 133812,
-      "name": "Saraï Mir",
+      "name": "Sarai Mir",
       "name_default": "Sarai Mir",
       "native": "सराय मीर",
       "type": "city",
@@ -9381,7 +9381,7 @@
     },
     {
       "id": 133802,
-      "name": "Sarauli",
+      "name": "Sirauli",
       "name_default": "Sarauli",
       "native": "सरौली",
       "type": "city",
@@ -9597,7 +9597,7 @@
     },
     {
       "id": 133895,
-      "name": "Shah Jahanpur",
+      "name": "Shahjahanpur",
       "name_default": "Shahjahanpur",
       "native": "शाहजहांपुर",
       "type": "city",
@@ -10317,7 +10317,7 @@
     },
     {
       "id": 134170,
-      "name": "Tikaitnagar",
+      "name": "Tikait Nagar",
       "name_default": "Tikaitnagar",
       "native": "टिकैतनगर",
       "type": "city",
@@ -10425,7 +10425,7 @@
     },
     {
       "id": 147565,
-      "name": "Tori Fatehpur",
+      "name": "État de Tori Fatehpur",
       "name_default": "Tori Fatehpur",
       "native": "तोरी फतेहपुर",
       "type": "city",
@@ -10533,7 +10533,7 @@
     },
     {
       "id": 134471,
-      "name": "ONU",
+      "name": "Un",
       "name_default": "Un",
       "native": "संयुक्त राष्ट्र",
       "type": "city",
@@ -10587,7 +10587,7 @@
     },
     {
       "id": 134294,
-      "name": "Utilisez-le",
+      "name": "Usehat",
       "name_default": "Usehat",
       "native": "यूसेहट",
       "type": "city",
@@ -10641,7 +10641,7 @@
     },
     {
       "id": 134327,
-      "name": "Varanasi",
+      "name": "Bénarès",
       "name_default": "Varanasi",
       "native": "वाराणसी",
       "type": "city",
@@ -10715,7 +10715,7 @@
       "id": 134401,
       "name": "Wazirganj",
       "name_default": "Wazirganj",
-      "native": "वजीरगंज",
+      "native": "वज़ीरगंज",
       "type": "city",
       "level": null,
       "parent_id": null,

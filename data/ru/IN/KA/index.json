@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "Аланды",
+      "name": "Аланд",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57757,
-      "name": "Атни",
+      "name": "Атхани",
       "name_default": "Athani",
       "native": "अथनी",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57848,
-      "name": "Бангалор Урбан",
+      "name": "Городской Бангалор",
       "name_default": "Bengaluru Urban",
       "native": "बेंगलुरु शहरी",
       "type": "area",
@@ -705,7 +705,7 @@
     },
     {
       "id": 58042,
-      "name": "Бильги",
+      "name": "Билаги",
       "name_default": "Bilgi",
       "native": "बिल्गी",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 131616,
-      "name": "Closepet",
+      "name": "Раманагара",
       "name_default": "Closepet",
       "native": "क्लोज़पेट",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 131701,
-      "name": "Деванхалли",
+      "name": "Деванахалли",
       "name_default": "Devanahalli",
       "native": "देवनहल्ली",
       "type": "city",
@@ -1209,7 +1209,7 @@
     },
     {
       "id": 131885,
-      "name": "Гадаг-Бетагери",
+      "name": "Гадаг-Бетигери",
       "name_default": "Gadag-Betageri",
       "native": "गडग",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "Гурматкал",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 132115,
-      "name": "Хонавар",
+      "name": "Хоннавар",
       "name_default": "Honnavar",
       "native": "होनावर",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 132119,
-      "name": "Хосдурга",
+      "name": "Хосадурга",
       "name_default": "Hosadurga",
       "native": "होसदुर्गा",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 132516,
-      "name": "Ханапур",
+      "name": "Кханапур",
       "name_default": "Khanapur",
       "native": "खानपुर",
       "type": "city",
@@ -2433,7 +2433,7 @@
     },
     {
       "id": 132579,
-      "name": "Коратагере",
+      "name": "Котагере",
       "name_default": "Koratagere",
       "native": "कोराटागेरे",
       "type": "city",
@@ -3801,7 +3801,7 @@
     },
     {
       "id": 133846,
-      "name": "Серам",
+      "name": "Седам",
       "name_default": "Sedam",
       "native": "सेराम",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "Шравана Белгола",
+      "name": "Шраванабелагола",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "Виджаяпура",
+      "name": "Биджапур",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",
@@ -4593,7 +4593,7 @@
     },
     {
       "id": 134430,
-      "name": "Йеландур",
+      "name": "Еландур",
       "name_default": "Yelandur",
       "native": "येलंडूर",
       "type": "city",

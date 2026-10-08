@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150710,
-      "name": "Abgarm",
+      "name": "Abgerm",
       "name_default": "Abgarm",
       "native": "کوشش",
       "type": "city",
@@ -77,7 +77,7 @@
       "id": 150708,
       "name": "Abyek",
       "name_default": "Abyek",
-      "native": "جبهه",
+      "native": "آبیک",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -165,9 +165,9 @@
     },
     {
       "id": 150711,
-      "name": "Bidestan",
+      "name": "Bidistan",
       "name_default": "Bidestan",
-      "native": "در",
+      "native": "بیدستان",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 150715,
-      "name": "Danimarka",
+      "name": "Danisfahan",
       "name_default": "Danesfahan",
       "native": "دانسفان",
       "type": "city",
@@ -237,9 +237,9 @@
     },
     {
       "id": 150718,
-      "name": "Esfarvarin",
+      "name": "Asferverin",
       "name_default": "Esfarvarin",
-      "native": "پری",
+      "native": "اسفرورین",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 150719,
-      "name": "Hürremdaşt",
+      "name": "Hürremdeşt",
       "name_default": "Khorramdasht",
       "native": "خاردار",
       "type": "city",
@@ -363,9 +363,9 @@
     },
     {
       "id": 150721,
-      "name": "Narjeh",
+      "name": "Nerce",
       "name_default": "Narjeh",
-      "native": "نرگس",
+      "native": "نرجه",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -399,9 +399,9 @@
     },
     {
       "id": 150723,
-      "name": "Razmian",
+      "name": "Razmiyan",
       "name_default": "Razmian",
-      "native": "رزم",
+      "native": "رازمیان",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 150724,
-      "name": "Şirdan",
+      "name": "Sirdan",
       "name_default": "Sirdan",
       "native": "سیردان",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 135134,
-      "name": "Takestan",
+      "name": "Takistan",
       "name_default": "Takestan",
       "native": "تاکستان",
       "type": "adm2",
@@ -507,7 +507,7 @@
     },
     {
       "id": 150720,
-      "name": "Ziyabad",
+      "name": "Ziyaabad",
       "name_default": "Ziaabad",
       "native": "ضیاآباد",
       "type": "city",

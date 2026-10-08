@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63244,
-      "name": "أمي",
+      "name": "آمي",
       "name_default": "Ami",
-      "native": "アミ",
+      "native": "阿見町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 63300,
-      "name": "تشيكوسي",
+      "name": "تشيكوسه",
       "name_default": "Chikusei",
       "native": "筑西市",
       "type": "adm2",
@@ -111,9 +111,9 @@
     },
     {
       "id": 63317,
-      "name": "دايجو",
+      "name": "دايغو",
       "name_default": "Daigo",
-      "native": "醍醐",
+      "native": "大子町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63570,
-      "name": "إيناشيكي",
+      "name": "إناشيكي",
       "name_default": "Inashiki",
       "native": "稲敷",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63606,
-      "name": "إيتاكو",
+      "name": "إتاكو",
       "name_default": "Itako",
       "native": "潮来市",
       "type": "adm2",
@@ -725,7 +725,7 @@
       "id": 64032,
       "name": "موريا",
       "name_default": "Moriya",
-      "native": "守屋",
+      "native": "守谷市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 64093,
-      "name": "ناميغاتا",
+      "name": "نامه-غاتا",
       "name_default": "Namegata",
       "native": "行方",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64234,
-      "name": "ريوغاساكي-شي",
+      "name": "ريوغاساكي",
       "name_default": "Ryūgasaki-shi",
       "native": "龍ヶ崎市",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 64419,
-      "name": "تاكاهاجي",
+      "name": "تاكاهاغي",
       "name_default": "Takahagi",
       "native": "高萩",
       "type": "adm2",
@@ -1137,7 +1137,7 @@
     },
     {
       "id": 64547,
-      "name": "تسوكوباميراي",
+      "name": "تسوكوبا-ميراي",
       "name_default": "Tsukubamirai",
       "native": "つくばみらい",
       "type": "adm2",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 64707,
-      "name": "يوكي شي",
+      "name": "يوكي",
       "name_default": "Yūki-shi",
       "native": "結城市",
       "type": "adm1",

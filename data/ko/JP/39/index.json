@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 148213,
-      "name": "아키",
+      "name": "아키시",
       "name_default": "Aki",
-      "native": "アキ",
+      "native": "安芸市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -75,7 +75,7 @@
     },
     {
       "id": 148257,
-      "name": "게이세이",
+      "name": "게이세이촌",
       "name_default": "Geisei",
       "native": "芸西",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 148276,
-      "name": "히다카",
+      "name": "히다카촌",
       "name_default": "Hidaka",
       "native": "日高",
       "type": "city",
@@ -111,9 +111,9 @@
     },
     {
       "id": 148305,
-      "name": "이노",
+      "name": "이노정",
       "name_default": "Ino",
-      "native": "イノ",
+      "native": "いの町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -129,7 +129,7 @@
     },
     {
       "id": 148289,
-      "name": "기타가와",
+      "name": "기타가와촌",
       "name_default": "Kitagawa",
       "native": "北川",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 148317,
-      "name": "고치",
+      "name": "고치시",
       "name_default": "Kōchi",
       "native": "高知",
       "type": "adm1",
@@ -165,9 +165,9 @@
     },
     {
       "id": 148300,
-      "name": "코난",
+      "name": "고난시",
       "name_default": "Kōnan",
-      "native": "江南",
+      "native": "香南市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 148280,
-      "name": "쿠로시오",
+      "name": "구로시오정",
       "name_default": "Kuroshio",
       "native": "黒潮",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 148227,
-      "name": "미하라",
+      "name": "미하라촌",
       "name_default": "Mihara",
       "native": "三原",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 148215,
-      "name": "모토야마",
+      "name": "모토야마정",
       "name_default": "Motoyama",
       "native": "本山",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 148314,
-      "name": "무로토",
+      "name": "무로토시",
       "name_default": "Muroto",
       "native": "室戸",
       "type": "adm2",
@@ -255,9 +255,9 @@
     },
     {
       "id": 148270,
-      "name": "나하리",
+      "name": "나하리정",
       "name_default": "Nahari",
-      "native": "ナハリ",
+      "native": "奈半利町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": 148245,
-      "name": "나카무라",
+      "name": "나카무라정",
       "name_default": "Nakamura",
       "native": "中村",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 148302,
-      "name": "난코쿠",
+      "name": "난코쿠시",
       "name_default": "Nankoku",
       "native": "南国市",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 148271,
-      "name": "니요도가와",
+      "name": "니요도가와정",
       "name_default": "Niyodogawa",
       "native": "仁淀川",
       "type": "city",
@@ -345,9 +345,9 @@
     },
     {
       "id": 148266,
-      "name": "오치",
+      "name": "오치정",
       "name_default": "Ochi",
-      "native": "越智",
+      "native": "越知町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 148262,
-      "name": "오카와",
+      "name": "오카와촌",
       "name_default": "Ōkawa",
       "native": "大川",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 148218,
-      "name": "오토요",
+      "name": "오토요정",
       "name_default": "Ōtoyo",
       "native": "大豊",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 148223,
-      "name": "오츠키",
+      "name": "오쓰키정",
       "name_default": "Ōtsuki",
       "native": "大月",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 148255,
-      "name": "사카와",
+      "name": "사카와정",
       "name_default": "Sakawa",
       "native": "佐川",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 148308,
-      "name": "스쿠모",
+      "name": "스쿠모시",
       "name_default": "Sukumo",
       "native": "宿毛",
       "type": "adm2",
@@ -471,7 +471,7 @@
     },
     {
       "id": 148318,
-      "name": "수사키",
+      "name": "스사키시",
       "name_default": "Susaki",
       "native": "須崎",
       "type": "adm2",
@@ -489,9 +489,9 @@
     },
     {
       "id": 148232,
-      "name": "타노",
+      "name": "다노정",
       "name_default": "Tano",
-      "native": "タノ",
+      "native": "田野町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -507,7 +507,7 @@
     },
     {
       "id": 148320,
-      "name": "토사",
+      "name": "도사시",
       "name_default": "Tosa",
       "native": "土佐",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 148319,
-      "name": "토사시미즈",
+      "name": "도사시미즈시",
       "name_default": "Tosashimizu",
       "native": "土佐清水",
       "type": "adm2",
@@ -543,9 +543,9 @@
     },
     {
       "id": 148296,
-      "name": "도요",
+      "name": "도요정",
       "name_default": "Tōyō",
-      "native": "東陽",
+      "native": "東洋町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -561,7 +561,7 @@
     },
     {
       "id": 148221,
-      "name": "츠노",
+      "name": "쓰노정",
       "name_default": "Tsuno",
       "native": "津野",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 148248,
-      "name": "미국",
+      "name": "우사정",
       "name_default": "Usa",
       "native": "アメリカ合衆国",
       "type": "adm2",
@@ -615,7 +615,7 @@
     },
     {
       "id": 148282,
-      "name": "야스다",
+      "name": "야스다정",
       "name_default": "Yasuda",
       "native": "安田",
       "type": "city",
@@ -633,7 +633,7 @@
     },
     {
       "id": 148230,
-      "name": "유스하라",
+      "name": "유스하라정",
       "name_default": "Yusuhara",
       "native": "梼原",
       "type": "city",

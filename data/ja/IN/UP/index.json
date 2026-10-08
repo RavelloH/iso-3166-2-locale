@@ -93,7 +93,7 @@
     },
     {
       "id": 57601,
-      "name": "アグラ",
+      "name": "アーグラ",
       "name_default": "Agra",
       "native": "आगरा",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 57724,
-      "name": "アヌプシャール",
+      "name": "アヌップシャー",
       "name_default": "Anupshahr",
       "native": "अनूपशहर",
       "type": "city",
@@ -489,7 +489,7 @@
     },
     {
       "id": 57760,
-      "name": "アトラウリ",
+      "name": "アトロウリ",
       "name_default": "Atrauli",
       "native": "अतरौली",
       "type": "city",
@@ -525,7 +525,7 @@
     },
     {
       "id": 57764,
-      "name": "オーライヤ",
+      "name": "アウライヤ",
       "name_default": "Auraiya",
       "native": "औरैया",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57777,
-      "name": "アザムガル",
+      "name": "アーザムガル",
       "name_default": "Azamgarh",
       "native": "आजमगढ़",
       "type": "adm2",
@@ -759,7 +759,7 @@
     },
     {
       "id": 58112,
-      "name": "ばか",
+      "name": "バー",
       "name_default": "Bah",
       "native": "बाह",
       "type": "city",
@@ -813,7 +813,7 @@
     },
     {
       "id": 57805,
-      "name": "バーライチ",
+      "name": "バーライク",
       "name_default": "Bahraich",
       "native": "बहराइच",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 57833,
-      "name": "バルラムプル",
+      "name": "バルラムプール",
       "name_default": "Balrampur",
       "native": "बलरामपुर",
       "type": "city",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": 58124,
-      "name": "バンダ",
+      "name": "バーンダー",
       "name_default": "Banda",
       "native": "बाँदा",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 58130,
-      "name": "バンスディ",
+      "name": "バンズディー",
       "name_default": "Bansdih",
       "native": "बांसडीह",
       "type": "city",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 57965,
-      "name": "バールタナ",
+      "name": "バーサナ",
       "name_default": "Bharthana",
       "native": "भरथना",
       "type": "city",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 58035,
-      "name": "ビジノール",
+      "name": "ビジノーア",
       "name_default": "Bijnor",
       "native": "बिजनौर",
       "type": "city",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 58158,
-      "name": "ビカプル",
+      "name": "ビカプール",
       "name_default": "Bikapur",
       "native": "बीकापुर",
       "type": "city",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": 58044,
-      "name": "ビルハウル",
+      "name": "ビホー",
       "name_default": "Bilhaur",
       "native": "बिल्हौर",
       "type": "city",
@@ -1893,7 +1893,7 @@
     },
     {
       "id": 58057,
-      "name": "ビンドキ",
+      "name": "ビンドゥキ",
       "name_default": "Bindki",
       "native": "बिंदकी",
       "type": "city",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 58161,
-      "name": "ビサルプル",
+      "name": "ビサルプール",
       "name_default": "Bisalpur",
       "native": "बीसलपुर",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 58062,
-      "name": "ビサウリ",
+      "name": "ビソウリ",
       "name_default": "Bisauli",
       "native": "बिसौली",
       "type": "city",
@@ -2055,9 +2055,9 @@
     },
     {
       "id": 58091,
-      "name": "ブダナ",
+      "name": "ブッダナ",
       "name_default": "Budhana",
-      "native": "बुढ़ाना",
+      "native": "बुढाना",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2145,7 +2145,7 @@
     },
     {
       "id": 58186,
-      "name": "チャンダウリ",
+      "name": "チャンドォウリ",
       "name_default": "Chandauli",
       "native": "चंदौली",
       "type": "city",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": 58201,
-      "name": "チャルカリ",
+      "name": "チャリカリ",
       "name_default": "Charkhari",
       "native": "चरखारी",
       "type": "city",
@@ -2263,7 +2263,7 @@
       "latitude": "29.54687000",
       "longitude": "77.59438000",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "UP",
       "state_id": 4022,
@@ -2397,7 +2397,7 @@
     },
     {
       "id": 131569,
-      "name": "チルガオン",
+      "name": "チールガオン",
       "name_default": "Chirgaon",
       "native": "चिरगांव",
       "type": "city",
@@ -2433,7 +2433,7 @@
     },
     {
       "id": 147459,
-      "name": "チトラクート・ダム",
+      "name": "カーウィ・チトラクート・ダム",
       "name_default": "Chitrakoot Dham",
       "native": "चित्रकूट धाम",
       "type": "city",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 131806,
-      "name": "ダドリ",
+      "name": "ダッドリ",
       "name_default": "Dadri",
       "native": "दादरी",
       "type": "city",
@@ -2541,7 +2541,7 @@
     },
     {
       "id": 131646,
-      "name": "ダルマウ",
+      "name": "ダルモウ",
       "name_default": "Dalmau",
       "native": "डलमऊ",
       "type": "city",
@@ -2561,7 +2561,7 @@
       "id": 131653,
       "name": "ダンカウル",
       "name_default": "Dankaur",
-      "native": "डंकौर",
+      "native": "दनकौर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2757,7 +2757,7 @@
     },
     {
       "id": 147464,
-      "name": "デラプル",
+      "name": "デラプール",
       "name_default": "Derapur",
       "native": "डेरापुर",
       "type": "city",
@@ -2793,7 +2793,7 @@
     },
     {
       "id": 131750,
-      "name": "ダンプル",
+      "name": "ダムプール",
       "name_default": "Dhampur",
       "native": "धामपुर",
       "type": "city",
@@ -2973,7 +2973,7 @@
     },
     {
       "id": 131818,
-      "name": "ドゥディ",
+      "name": "ドゥ―ディ",
       "name_default": "Dudhi",
       "native": "दुधी",
       "type": "city",
@@ -3027,7 +3027,7 @@
     },
     {
       "id": 147469,
-      "name": "エトマドプル",
+      "name": "エツマッドプール",
       "name_default": "Etmadpur",
       "native": "एतमादपुर",
       "type": "city",
@@ -3063,7 +3063,7 @@
     },
     {
       "id": 131851,
-      "name": "ファイザバード",
+      "name": "ファイザーバード",
       "name_default": "Faizabad",
       "native": "फैजाबाद",
       "type": "city",
@@ -3135,7 +3135,7 @@
     },
     {
       "id": 131858,
-      "name": "ファルッカバード",
+      "name": "ファッルハーバード",
       "name_default": "Farrukhabad",
       "native": "फर्रुखाबाद",
       "type": "city",
@@ -3171,7 +3171,7 @@
     },
     {
       "id": 131863,
-      "name": "ファテガンジ西",
+      "name": "Fatehganj West",
       "name_default": "Fatehganj West",
       "native": "फतेहगंज पश्चिम",
       "type": "city",
@@ -3441,7 +3441,7 @@
     },
     {
       "id": 131916,
-      "name": "ガラウタ",
+      "name": "ガラウサ",
       "name_default": "Garautha",
       "native": "गरौथा",
       "type": "city",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 131920,
-      "name": "ガルムクテサル",
+      "name": "ガームクテシュウォール",
       "name_default": "Garhmuktesar",
       "native": "गढ़मुक्तेसर",
       "type": "city",
@@ -3495,7 +3495,7 @@
     },
     {
       "id": 147475,
-      "name": "ガルワ",
+      "name": "ガーワ",
       "name_default": "Garhwa",
       "native": "गढ़वा",
       "type": "city",
@@ -3513,7 +3513,7 @@
     },
     {
       "id": 147476,
-      "name": "ガウリガンジ",
+      "name": "ゴウリガンジ",
       "name_default": "Gauriganj",
       "native": "गौरीगंज",
       "type": "city",
@@ -3567,7 +3567,7 @@
     },
     {
       "id": 131950,
-      "name": "ガタンプル",
+      "name": "ガタムプール",
       "name_default": "Ghatampur",
       "native": "घाटमपुर",
       "type": "city",
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 131953,
-      "name": "ガジアバード",
+      "name": "ガーズィヤーバード",
       "name_default": "Ghaziabad",
       "native": "गाजियाबाद",
       "type": "adm2",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 131940,
-      "name": "ガジプル",
+      "name": "ガーズィープル",
       "name_default": "Ghazipur",
       "native": "गाजीपुर",
       "type": "city",
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 131946,
-      "name": "ゴシ",
+      "name": "ゴーシ",
       "name_default": "Ghosi",
       "native": "घोसी",
       "type": "city",
@@ -3693,7 +3693,7 @@
     },
     {
       "id": 131973,
-      "name": "ゴクル",
+      "name": "ゴークラ",
       "name_default": "Gokul",
       "native": "गोकुल",
       "type": "city",
@@ -3855,7 +3855,7 @@
     },
     {
       "id": 132005,
-      "name": "グレーターノイダ",
+      "name": "グレーター・ノイダ",
       "name_default": "Greater Noida",
       "native": "ग्रेटर नोएडा",
       "type": "city",
@@ -3891,7 +3891,7 @@
     },
     {
       "id": 132026,
-      "name": "グンナウル",
+      "name": "ガンナー",
       "name_default": "Gunnaur",
       "native": "गुन्नौर",
       "type": "city",
@@ -3945,7 +3945,7 @@
     },
     {
       "id": 132042,
-      "name": "ギャンプル",
+      "name": "ギャンプール",
       "name_default": "Gyanpur",
       "native": "ज्ञानपुर",
       "type": "city",
@@ -4089,7 +4089,7 @@
     },
     {
       "id": 132072,
-      "name": "ハルドイ",
+      "name": "ハードイ",
       "name_default": "Hardoi",
       "native": "हरदोई",
       "type": "city",
@@ -4125,7 +4125,7 @@
     },
     {
       "id": 132085,
-      "name": "ハサンプル",
+      "name": "ハサンパー",
       "name_default": "Hasanpur",
       "native": "हसनपुर",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 132146,
-      "name": "畑",
+      "name": "ハタ",
       "name_default": "Hata",
       "native": "हठ",
       "type": "city",
@@ -4557,7 +4557,7 @@
     },
     {
       "id": 132212,
-      "name": "ジャレサール",
+      "name": "ジャレサー",
       "name_default": "Jalesar",
       "native": "जलेसर",
       "type": "city",
@@ -4701,7 +4701,7 @@
     },
     {
       "id": 132264,
-      "name": "ジュワー",
+      "name": "ジューワー",
       "name_default": "Jewar",
       "native": "जेवर",
       "type": "city",
@@ -4881,7 +4881,7 @@
     },
     {
       "id": 132676,
-      "name": "カディプル",
+      "name": "カディプール",
       "name_default": "Kadipur",
       "native": "कादीपुर",
       "type": "city",
@@ -5007,7 +5007,7 @@
     },
     {
       "id": 132683,
-      "name": "カルピ",
+      "name": "カールピー",
       "name_default": "Kalpi",
       "native": "कालपी",
       "type": "city",
@@ -5061,7 +5061,7 @@
     },
     {
       "id": 132364,
-      "name": "カンピル",
+      "name": "カーンピル",
       "name_default": "Kampil",
       "native": "कम्पिल",
       "type": "city",
@@ -5115,7 +5115,7 @@
     },
     {
       "id": 132384,
-      "name": "カンプール",
+      "name": "カーンプル",
       "name_default": "Kanpur",
       "native": "कानपुर",
       "type": "city",
@@ -5169,7 +5169,7 @@
     },
     {
       "id": 132712,
-      "name": "カント",
+      "name": "カンス",
       "name_default": "Kanth",
       "native": "कंठ",
       "type": "city",
@@ -5259,7 +5259,7 @@
     },
     {
       "id": 147496,
-      "name": "カルチャナ",
+      "name": "カーチャナ",
       "name_default": "Karchana",
       "native": "करछना",
       "type": "city",
@@ -5277,7 +5277,7 @@
     },
     {
       "id": 132400,
-      "name": "カルハル",
+      "name": "カーハル",
       "name_default": "Karhal",
       "native": "करहल",
       "type": "city",
@@ -5403,7 +5403,7 @@
     },
     {
       "id": 132512,
-      "name": "カガ",
+      "name": "カーガ",
       "name_default": "Khaga",
       "native": "खागा",
       "type": "city",
@@ -5439,7 +5439,7 @@
     },
     {
       "id": 132454,
-      "name": "カイール",
+      "name": "カイアー",
       "name_default": "Khair",
       "native": "खैर",
       "type": "city",
@@ -5493,7 +5493,7 @@
     },
     {
       "id": 132459,
-      "name": "ハリラバード",
+      "name": "カリラバッド",
       "name_default": "Khalilabad",
       "native": "खलीलाबाद",
       "type": "city",
@@ -6033,7 +6033,7 @@
     },
     {
       "id": 132665,
-      "name": "クシナガル",
+      "name": "クシナガラ",
       "name_default": "Kushinagar",
       "native": "कुशीनगर",
       "type": "city",
@@ -6159,7 +6159,7 @@
     },
     {
       "id": 132755,
-      "name": "ラリトプル",
+      "name": "ラリットプール",
       "name_default": "Lalitpur",
       "native": "ललितपुर",
       "type": "city",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": 132783,
-      "name": "ラクナウ地区",
+      "name": "ラクナウ県",
       "name_default": "Lucknow District",
       "native": "लखनऊ जिला",
       "type": "district",
@@ -6285,7 +6285,7 @@
     },
     {
       "id": 132805,
-      "name": "マクリシャール",
+      "name": "マッチャリ・シャハール",
       "name_default": "Machhlishahr",
       "native": "मछलीशहर",
       "type": "city",
@@ -6411,7 +6411,7 @@
     },
     {
       "id": 132837,
-      "name": "マホバ",
+      "name": "マホーバー",
       "name_default": "Mahoba",
       "native": "महोबा",
       "type": "city",
@@ -6483,7 +6483,7 @@
     },
     {
       "id": 132840,
-      "name": "マロニ",
+      "name": "マーロニ",
       "name_default": "Mahroni",
       "native": "महरोनी",
       "type": "city",
@@ -6537,7 +6537,7 @@
     },
     {
       "id": 132857,
-      "name": "メインプリ",
+      "name": "マインプリ",
       "name_default": "Mainpuri",
       "native": "मैनपुरी",
       "type": "city",
@@ -6609,7 +6609,7 @@
     },
     {
       "id": 132878,
-      "name": "マリハバード",
+      "name": "マリハバッド",
       "name_default": "Malihabad",
       "native": "मलीहाबाद",
       "type": "city",
@@ -6681,7 +6681,7 @@
     },
     {
       "id": 132914,
-      "name": "マンジャンプル",
+      "name": "マンジャンプール",
       "name_default": "Manjhanpur",
       "native": "मंझनपुर",
       "type": "city",
@@ -6825,7 +6825,7 @@
     },
     {
       "id": 132946,
-      "name": "マウダハ",
+      "name": "モウダハ",
       "name_default": "Maudaha",
       "native": "मौदाहा",
       "type": "city",
@@ -6951,7 +6951,7 @@
     },
     {
       "id": 132974,
-      "name": "ミラク",
+      "name": "ミラック",
       "name_default": "Milak",
       "native": "मिलक",
       "type": "city",
@@ -7041,7 +7041,7 @@
     },
     {
       "id": 132976,
-      "name": "ミルザプール",
+      "name": "ミールザープル",
       "name_default": "Mirzapur",
       "native": "मिर्जापुर",
       "type": "city",
@@ -7149,7 +7149,7 @@
     },
     {
       "id": 133007,
-      "name": "ムバラクプル",
+      "name": "ムバーラクプル",
       "name_default": "Mubarakpur",
       "native": "मुबारकपुर",
       "type": "city",
@@ -7167,7 +7167,7 @@
     },
     {
       "id": 133016,
-      "name": "ムハンマダバード",
+      "name": "ムハマダバッド",
       "name_default": "Muhammadabad",
       "native": "मुहम्मदाबाद",
       "type": "city",
@@ -7221,7 +7221,7 @@
     },
     {
       "id": 147522,
-      "name": "ムンシャリ",
+      "name": "ムンシアリ",
       "name_default": "Munsyari",
       "native": "मुनस्यारी",
       "type": "city",
@@ -7239,7 +7239,7 @@
     },
     {
       "id": 147523,
-      "name": "ムラダバード",
+      "name": "ムラーダーバード",
       "name_default": "Muradabad",
       "native": "मुरादाबाद",
       "type": "adm2",
@@ -7419,7 +7419,7 @@
     },
     {
       "id": 133127,
-      "name": "ナジババード",
+      "name": "ナジーバ―バード",
       "name_default": "Najibabad",
       "native": "नजीबाबाद",
       "type": "city",
@@ -7437,7 +7437,7 @@
     },
     {
       "id": 133129,
-      "name": "ナクル",
+      "name": "ナクール",
       "name_default": "Nakur",
       "native": "नाकुर",
       "type": "city",
@@ -7887,7 +7887,7 @@
     },
     {
       "id": 133316,
-      "name": "パドラウナ",
+      "name": "パドロウナ",
       "name_default": "Padrauna",
       "native": "पडरौना",
       "type": "city",
@@ -8391,7 +8391,7 @@
     },
     {
       "id": 147429,
-      "name": "アラハバード",
+      "name": "イラーハーバード",
       "name_default": "Prayagraj",
       "native": "इलाहाबाद",
       "type": "city",
@@ -8445,7 +8445,7 @@
     },
     {
       "id": 133569,
-      "name": "プランプル",
+      "name": "プランプール",
       "name_default": "Puranpur",
       "native": "पूरनपुर",
       "type": "city",
@@ -8481,7 +8481,7 @@
     },
     {
       "id": 133514,
-      "name": "プルワ",
+      "name": "パーワ",
       "name_default": "Purwa",
       "native": "पूर्वा",
       "type": "city",
@@ -8625,7 +8625,7 @@
     },
     {
       "id": 133705,
-      "name": "ラムプール",
+      "name": "ラームプル",
       "name_default": "Rampur",
       "native": "रामपुर",
       "type": "city",
@@ -8735,7 +8735,7 @@
       "id": 133723,
       "name": "ラス",
       "name_default": "Rath",
-      "native": "अधिक तत्पर",
+      "native": "राठ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -9021,7 +9021,7 @@
     },
     {
       "id": 133753,
-      "name": "サハランプル",
+      "name": "サハーランプル",
       "name_default": "Saharanpur",
       "native": "सहारनपुर",
       "type": "city",
@@ -9057,7 +9057,7 @@
     },
     {
       "id": 133751,
-      "name": "サハスワン",
+      "name": "サースワン",
       "name_default": "Sahaswan",
       "native": "सहसवान",
       "type": "city",
@@ -9183,7 +9183,7 @@
     },
     {
       "id": 147555,
-      "name": "サレンプル",
+      "name": "サレムパール",
       "name_default": "Salempur",
       "native": "सलेमपुर",
       "type": "city",
@@ -9219,7 +9219,7 @@
     },
     {
       "id": 133770,
-      "name": "サンバル",
+      "name": "サムバル",
       "name_default": "Sambhal",
       "native": "संभल",
       "type": "adm2",
@@ -9399,7 +9399,7 @@
     },
     {
       "id": 133803,
-      "name": "サルダナ",
+      "name": "サーダナ",
       "name_default": "Sardhana",
       "native": "सरधना",
       "type": "city",
@@ -9597,7 +9597,7 @@
     },
     {
       "id": 133895,
-      "name": "シャージャハーンプル",
+      "name": "シャージャハンプール",
       "name_default": "Shahjahanpur",
       "native": "शाहजहांपुर",
       "type": "city",
@@ -9759,7 +9759,7 @@
     },
     {
       "id": 133867,
-      "name": "シコハバード",
+      "name": "シコハバッド",
       "name_default": "Shikohabad",
       "native": "शिकोहाबाद",
       "type": "city",
@@ -9867,7 +9867,7 @@
     },
     {
       "id": 133921,
-      "name": "シドハウリ",
+      "name": "シダウリ",
       "name_default": "Sidhauli",
       "native": "सिधौली",
       "type": "city",
@@ -9975,7 +9975,7 @@
     },
     {
       "id": 133969,
-      "name": "シラトゥ",
+      "name": "シラス",
       "name_default": "Sirathu",
       "native": "सिराथू",
       "type": "city",
@@ -10083,7 +10083,7 @@
     },
     {
       "id": 134091,
-      "name": "シタプル",
+      "name": "シータープル",
       "name_default": "Sitapur",
       "native": "सीतापुर",
       "type": "city",
@@ -10281,7 +10281,7 @@
     },
     {
       "id": 134136,
-      "name": "タクルドワラ",
+      "name": "サコードゥワラ",
       "name_default": "Thakurdwara",
       "native": "ठाकुरद्वारा",
       "type": "city",
@@ -10353,7 +10353,7 @@
     },
     {
       "id": 134171,
-      "name": "ティルハール",
+      "name": "ティルハー",
       "name_default": "Tilhar",
       "native": "तिलहर",
       "type": "city",
@@ -10551,7 +10551,7 @@
     },
     {
       "id": 134285,
-      "name": "ウンナオ",
+      "name": "ウナオ",
       "name_default": "Unnao",
       "native": "उन्नाव",
       "type": "city",
@@ -10641,7 +10641,7 @@
     },
     {
       "id": 134327,
-      "name": "バラナシ",
+      "name": "ヴァーラーナシー",
       "name_default": "Varanasi",
       "native": "वाराणसी",
       "type": "city",
@@ -10715,7 +10715,7 @@
       "id": 134401,
       "name": "ワジルガンジ",
       "name_default": "Wazirganj",
-      "native": "वजीरगंज",
+      "native": "वज़ीरगंज",
       "type": "city",
       "level": null,
       "parent_id": null,

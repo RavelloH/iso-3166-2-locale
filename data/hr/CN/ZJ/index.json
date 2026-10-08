@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 159493,
-      "name": "Anži",
+      "name": "Anji",
       "name_default": "Anji",
       "native": "安吉",
       "type": "county",
@@ -730,7 +730,7 @@
     },
     {
       "id": 19715,
-      "name": "Jiaxing Shi",
+      "name": "Jiaxing",
       "name_default": "Jiaxing",
       "native": "嘉兴市",
       "type": "adm2",
@@ -1648,9 +1648,9 @@
     },
     {
       "id": 159499,
-      "name": "Šengzhou",
+      "name": "Shengzhou",
       "name_default": "Shengzhou",
-      "native": "嵊",
+      "native": "嵊州市",
       "type": "city",
       "level": "2",
       "parent_id": "20082",
@@ -2116,7 +2116,7 @@
     },
     {
       "id": 20383,
-      "name": "Jivu",
+      "name": "Yiwu",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "adm3",
@@ -2134,7 +2134,7 @@
     },
     {
       "id": 159506,
-      "name": "Jivu",
+      "name": "Yiwu",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "city",
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 159508,
-      "name": "Jongkang",
+      "name": "Yongkang",
       "name_default": "Yongkang",
       "native": "永康",
       "type": "city",
@@ -2208,7 +2208,7 @@
       "id": 159480,
       "name": "Yueqing",
       "name_default": "Yueqing",
-      "native": "岳清",
+      "native": "乐清市",
       "type": "city",
       "level": "2",
       "parent_id": "20226",
@@ -2298,7 +2298,7 @@
       "id": 159468,
       "name": "Yuyao",
       "name_default": "Yuyao",
-      "native": "余瑶",
+      "native": "余姚市",
       "type": "city",
       "level": "2",
       "parent_id": "19959",

@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150729,
-      "name": "داستجرد",
+      "name": "دستجرد",
       "name_default": "Dastjerd",
       "native": "خجالتی",
       "type": "city",
@@ -113,7 +113,7 @@
       "id": 150731,
       "name": "قنوات",
       "name_default": "Qanavat",
-      "native": "لگد زدن",
+      "native": "قنوات",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -131,7 +131,7 @@
       "id": 134744,
       "name": "قم",
       "name_default": "Qom",
-      "native": "سعدی",
+      "native": "قم",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -147,9 +147,9 @@
     },
     {
       "id": 150730,
-      "name": "سالافتشجان",
+      "name": "سلفتشغان",
       "name_default": "Salafchegan",
-      "native": "سالاری",
+      "native": "سلفچگان",
       "type": "city",
       "level": null,
       "parent_id": null,

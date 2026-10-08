@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "Isole Åland",
+      "name": "Aland",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57757,
-      "name": "Ateniesi",
+      "name": "Athni",
       "name_default": "Athani",
       "native": "अथनी",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57933,
-      "name": "Bengaluru",
+      "name": "Bangalore",
       "name_default": "Bengaluru",
       "native": "बेंगलुरु",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57847,
-      "name": "Bengaluru rurale",
+      "name": "Bengaluru Rural",
       "name_default": "Bengaluru Rural",
       "native": "बेंगलुरु ग्रामीण",
       "type": "area",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57848,
-      "name": "Bengaluru Urban",
+      "name": "Urbano di Bangalore",
       "name_default": "Bengaluru Urban",
       "native": "बेंगलुरु शहरी",
       "type": "area",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 131616,
-      "name": "Closepet",
+      "name": "Ramanagara",
       "name_default": "Closepet",
       "native": "क्लोज़पेट",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 131652,
-      "name": "Dandelì",
+      "name": "Dandeli",
       "name_default": "Dandeli",
       "native": "डांडेली",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "Gurmatkal",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1533,7 +1533,7 @@
     },
     {
       "id": 132079,
-      "name": "Harpanahalli",
+      "name": "Harapanahalli",
       "name_default": "Harpanahalli",
       "native": "हरपनहल्ली",
       "type": "city",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 132124,
-      "name": "Ospedaliero",
+      "name": "Hospet",
       "name_default": "Hosapete",
       "native": "होसपेट",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 132719,
-      "name": "Karkala",
+      "name": "Karkal",
       "name_default": "Karkala",
       "native": "करकला",
       "type": "city",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 132628,
-      "name": "Kudachi",
+      "name": "Kudchi",
       "name_default": "Kudachi",
       "native": "कुदाची",
       "type": "city",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": 133642,
-      "name": "Robertsonpet",
+      "name": "Robertson Pet",
       "name_default": "Robertsonpet",
       "native": "रॉबर्टसनपेट",
       "type": "city",
@@ -3765,7 +3765,7 @@
     },
     {
       "id": 133827,
-      "name": "Saundatti",
+      "name": "Saundatti-Yellamma",
       "name_default": "Saundatti",
       "native": "सौंदत्ती",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "Sravana Belgola",
+      "name": "Shravanabelagola",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4287,7 +4287,7 @@
     },
     {
       "id": 134125,
-      "name": "Tekkalakote",
+      "name": "Tekkalakota",
       "name_default": "Tekkalakote",
       "native": "तेक्कलाकोटे",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "Vijayapura",
+      "name": "Bijapur",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 134414,
-      "name": "Uadi",
+      "name": "Wadi",
       "name_default": "Wadi",
       "native": "वाडी",
       "type": "city",

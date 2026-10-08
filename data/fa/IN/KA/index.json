@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "آلند",
+      "name": "الاند",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 57656,
-      "name": "آلور",
+      "name": "الور",
       "name_default": "Alur",
       "native": "अलूर",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57757,
-      "name": "آتنی",
+      "name": "آتانی",
       "name_default": "Athani",
       "native": "अथनी",
       "type": "city",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57848,
-      "name": "بنگلور شهری",
+      "name": "شهری بنگلور",
       "name_default": "Bengaluru Urban",
       "native": "बेंगलुरु शहरी",
       "type": "area",
@@ -795,7 +795,7 @@
     },
     {
       "id": 58178,
-      "name": "چالاکره",
+      "name": "چلکره",
       "name_default": "Challakere",
       "native": "छल्लाकेरे",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 58199,
-      "name": "چانارایاپاتنا",
+      "name": "کانالارایپاتنا",
       "name_default": "Channarayapatna",
       "native": "चन्नारायपत्ना",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 131616,
-      "name": "کلوزپت",
+      "name": "راماناگارا",
       "name_default": "Closepet",
       "native": "क्लोज़पेट",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "گورماتکال",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 132124,
-      "name": "هاسپِت",
+      "name": "هوسپت",
       "name_default": "Hosapete",
       "native": "होसपेट",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2433,7 +2433,7 @@
     },
     {
       "id": 132579,
-      "name": "کوراتاگر",
+      "name": "کوراتاگره",
       "name_default": "Koratagere",
       "native": "कोराटागेरे",
       "type": "city",
@@ -2775,7 +2775,7 @@
     },
     {
       "id": 132809,
-      "name": "ماداگیری",
+      "name": "مادهوگیری",
       "name_default": "Madhugiri",
       "native": "मधुगिरि",
       "type": "city",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 133083,
-      "name": "مانوی",
+      "name": "منوی",
       "name_default": "Manvi",
       "native": "मानवी",
       "type": "city",
@@ -3567,7 +3567,7 @@
     },
     {
       "id": 133719,
-      "name": "رانیبنور",
+      "name": "رانبنورو",
       "name_default": "Ranebennur",
       "native": "रानीबेन्नूर",
       "type": "city",
@@ -3621,7 +3621,7 @@
     },
     {
       "id": 133649,
-      "name": "ران",
+      "name": "رون",
       "name_default": "Ron",
       "native": "रॉन",
       "type": "city",
@@ -3675,7 +3675,7 @@
     },
     {
       "id": 133760,
-      "name": "ساکلسپور",
+      "name": "ساکلشپور",
       "name_default": "Sakleshpur",
       "native": "सक्लेश्पुर",
       "type": "city",
@@ -3729,7 +3729,7 @@
     },
     {
       "id": 133789,
-      "name": "سنکشوار",
+      "name": "سانکشوار",
       "name_default": "Sankeshwar",
       "native": "संकेश्वर",
       "type": "city",
@@ -3783,7 +3783,7 @@
     },
     {
       "id": 133830,
-      "name": "ساوانور",
+      "name": "ساوانورو",
       "name_default": "Savanur",
       "native": "सवनूर",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 133907,
-      "name": "شاه آباد",
+      "name": "شاه‌آباد",
       "name_default": "Shahabad",
       "native": "शाहाबाद",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 133898,
-      "name": "شاهپور",
+      "name": "شاهاپور",
       "name_default": "Shahpur",
       "native": "शाहपुर",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "سراوانا بلگولا",
+      "name": "شروانابلاگولا",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "ویجیاپورا",
+      "name": "بیجاپور",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",

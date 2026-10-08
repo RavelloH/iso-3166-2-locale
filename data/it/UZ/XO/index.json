@@ -64,7 +64,7 @@
   "cities": [
     {
       "id": 129905,
-      "name": "Boghot Tumani",
+      "name": "distretto di Bogot",
       "name_default": "Boghot Tumani",
       "native": "Boghot Tumani",
       "type": "area",
@@ -84,7 +84,7 @@
       "id": 129929,
       "name": "Gurlan",
       "name_default": "Gurlan",
-      "native": "Sozlash; o'rnatish",
+      "native": "Gurlan",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": 129934,
-      "name": "Hazorasp",
+      "name": "Khzorasp",
       "name_default": "Hazorasp",
       "native": "Hazorasp",
       "type": "adm2",
@@ -174,7 +174,7 @@
       "id": 130001,
       "name": "Shovot",
       "name_default": "Shovot",
-      "native": "She'riyat",
+      "native": "Shovot",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -190,7 +190,7 @@
     },
     {
       "id": 130013,
-      "name": "Urganch",
+      "name": "Urgench",
       "name_default": "Urganch",
       "native": "Urganch",
       "type": "adm1",

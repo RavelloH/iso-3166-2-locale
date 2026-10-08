@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 66449,
-      "name": "アンパラ",
+      "name": "アンパーラ",
       "name_default": "Ampara",
-      "native": "සශ්රීක",
+      "native": "අම්පාර",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,9 +75,9 @@
     },
     {
       "id": 66450,
-      "name": "アンパラ地区",
+      "name": "アンパーラ県",
       "name_default": "Ampara District",
-      "native": "දිස්ත්රික් ආවරණ",
+      "native": "අම්පාර පරිපාලන දිස්ත්‍රික්කය",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 66456,
-      "name": "バティカロア",
+      "name": "バッティカロア",
       "name_default": "Batticaloa",
       "native": "බට්ටිකාලා",
       "type": "city",
@@ -149,7 +149,7 @@
       "id": 66486,
       "name": "カルムナイ",
       "name_default": "Kalmunai",
-      "native": "වචනය",
+      "native": "කල්මුනේ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 66535,
-      "name": "トリンコマリー地区",
+      "name": "トリンコマリー県",
       "name_default": "Trincomalee District",
       "native": "ත්රිකුණාමලය දිස්ත්රික්කය",
       "type": "district",

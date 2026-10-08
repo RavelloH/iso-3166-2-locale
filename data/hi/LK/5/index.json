@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 66449,
-      "name": "ऍम्पारा",
+      "name": "अम्पारा",
       "name_default": "Ampara",
-      "native": "සශ්රීක",
+      "native": "අම්පාර",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -75,9 +75,9 @@
     },
     {
       "id": 66450,
-      "name": "अम्पारा जिला",
+      "name": "अम्पार' जिला",
       "name_default": "Ampara District",
-      "native": "දිස්ත්රික් ආවරණ",
+      "native": "අම්පාර පරිපාලන දිස්ත්‍රික්කය",
       "type": "district",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 66456,
-      "name": "बत्तिसलोआ",
+      "name": "बट्टिकलोवा",
       "name_default": "Batticaloa",
       "native": "බට්ටිකාලා",
       "type": "city",
@@ -149,7 +149,7 @@
       "id": 66486,
       "name": "कलमुनाई",
       "name_default": "Kalmunai",
-      "native": "වචනය",
+      "native": "කල්මුනේ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -165,7 +165,7 @@
     },
     {
       "id": 66534,
-      "name": "त्रिंकोमाली",
+      "name": "त्रिंकोमली",
       "name_default": "Trincomalee",
       "native": "ත්රිකුණාමලය",
       "type": "adm1",
@@ -183,7 +183,7 @@
     },
     {
       "id": 66535,
-      "name": "त्रिंकोमाली जिला",
+      "name": "त्रिंकोन्माली जिला",
       "name_default": "Trincomalee District",
       "native": "ත්රිකුණාමලය දිස්ත්රික්කය",
       "type": "district",

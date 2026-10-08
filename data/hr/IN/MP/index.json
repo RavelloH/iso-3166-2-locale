@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "Mnogo",
+      "name": "Alot",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -291,7 +291,7 @@
     },
     {
       "id": 57706,
-      "name": "Andžad",
+      "name": "Anjad",
       "name_default": "Anjad",
       "native": "अंजाद",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 57750,
-      "name": "Ašoknagar",
+      "name": "Ashoknagar",
       "name_default": "Ashoknagar",
       "native": "अशोकनगर",
       "type": "city",
@@ -381,7 +381,7 @@
     },
     {
       "id": 57752,
-      "name": "Ašta",
+      "name": "Ashta",
       "name_default": "Ashta",
       "native": "अष्ट",
       "type": "city",
@@ -392,24 +392,6 @@
       "longitude": "76.72208000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q582291",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
-      "id": 58103,
-      "name": "Babai",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -867,7 +849,7 @@
     },
     {
       "id": 57936,
-      "name": "Berazija",
+      "name": "Berasia",
       "name_default": "Berasia",
       "native": "बैरसिया",
       "type": "city",
@@ -1209,7 +1191,7 @@
     },
     {
       "id": 58188,
-      "name": "Čanderi",
+      "name": "Chanderi",
       "name_default": "Chanderi",
       "native": "चंदेरी",
       "type": "city",
@@ -1227,7 +1209,7 @@
     },
     {
       "id": 58189,
-      "name": "Čandija",
+      "name": "Chandia",
       "name_default": "Chandia",
       "native": "चंदिया",
       "type": "city",
@@ -1245,7 +1227,7 @@
     },
     {
       "id": 58191,
-      "name": "Čandla",
+      "name": "Chandla",
       "name_default": "Chandla",
       "native": "चंदला",
       "type": "city",
@@ -1281,7 +1263,7 @@
     },
     {
       "id": 131534,
-      "name": "Čhindvara",
+      "name": "Chhindwara",
       "name_default": "Chhindwara",
       "native": "छिंदवाड़ा",
       "type": "city",
@@ -1299,7 +1281,7 @@
     },
     {
       "id": 131543,
-      "name": "Čičli",
+      "name": "Chichli",
       "name_default": "Chichli",
       "native": "चिचली",
       "type": "city",
@@ -1317,7 +1299,7 @@
     },
     {
       "id": 131581,
-      "name": "Čorhat",
+      "name": "Churhat",
       "name_default": "Churhat",
       "native": "चुरहट",
       "type": "city",
@@ -1407,7 +1389,7 @@
     },
     {
       "id": 131662,
-      "name": "Data",
+      "name": "Datia",
       "name_default": "Datia",
       "native": "दतिया",
       "type": "area",
@@ -1731,7 +1713,7 @@
     },
     {
       "id": 131966,
-      "name": "Gohadi",
+      "name": "Gohad",
       "name_default": "Gohad",
       "native": "गोहादी",
       "type": "city",
@@ -1965,7 +1947,7 @@
     },
     {
       "id": 132098,
-      "name": "Hindorija",
+      "name": "Hindoria",
       "name_default": "Hindoria",
       "native": "हिंडोरिया",
       "type": "city",
@@ -2109,7 +2091,7 @@
     },
     {
       "id": 132181,
-      "name": "Džabalpur",
+      "name": "Jabalpur",
       "name_default": "Jabalpur",
       "native": "जबलपुर",
       "type": "city",
@@ -2199,7 +2181,7 @@
     },
     {
       "id": 132251,
-      "name": "Džatara",
+      "name": "Jatara",
       "name_default": "Jatara",
       "native": "जतारा",
       "type": "city",
@@ -2217,7 +2199,7 @@
     },
     {
       "id": 132314,
-      "name": "Džavad",
+      "name": "Jawad",
       "name_default": "Jawad",
       "native": "जवाद",
       "type": "city",
@@ -2235,7 +2217,7 @@
     },
     {
       "id": 132275,
-      "name": "Džabua",
+      "name": "Jhabua",
       "name_default": "Jhabua",
       "native": "झाबुआ",
       "type": "city",
@@ -2397,7 +2379,7 @@
     },
     {
       "id": 132407,
-      "name": "Karrapura",
+      "name": "Karrapur",
       "name_default": "Karrapur",
       "native": "कर्रापुर",
       "type": "city",
@@ -2523,7 +2505,7 @@
     },
     {
       "id": 132467,
-      "name": "Khandva",
+      "name": "Khandwa",
       "name_default": "Khandwa",
       "native": "खंडवा",
       "type": "city",
@@ -2631,7 +2613,7 @@
     },
     {
       "id": 132498,
-      "name": "Kirkijan",
+      "name": "Khirkiya",
       "name_default": "Khirkiya",
       "native": "खिरकियाँ",
       "type": "city",
@@ -2793,7 +2775,7 @@
     },
     {
       "id": 132631,
-      "name": "Kukši",
+      "name": "Kukshi",
       "name_default": "Kukshi",
       "native": "कुक्षी",
       "type": "city",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "Kumbhraj",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3002,6 +2984,24 @@
       "longitude": "79.92396000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q2552260",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
+      "id": 58103,
+      "name": "Makhan Nagar",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -3711,7 +3711,7 @@
     },
     {
       "id": 133530,
-      "name": "pali",
+      "name": "Pali",
       "name_default": "Pali",
       "native": "पाली",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 133371,
-      "name": "Parazija",
+      "name": "Parasia",
       "name_default": "Parasia",
       "native": "परासिया",
       "type": "city",
@@ -3873,7 +3873,7 @@
     },
     {
       "id": 133381,
-      "name": "Patarija",
+      "name": "Patharia",
       "name_default": "Patharia",
       "native": "पथरिया",
       "type": "city",
@@ -4341,7 +4341,7 @@
     },
     {
       "id": 133820,
-      "name": "Šatna",
+      "name": "Satna",
       "name_default": "Satna",
       "native": "सतना",
       "type": "city",
@@ -4359,7 +4359,7 @@
     },
     {
       "id": 133824,
-      "name": "Satve",
+      "name": "Satwas",
       "name_default": "Satwas",
       "native": "सतवास",
       "type": "city",
@@ -4521,7 +4521,7 @@
     },
     {
       "id": 133893,
-      "name": "Šahgarh",
+      "name": "Shahgarh",
       "name_default": "Shahgarh",
       "native": "शाहगढ़",
       "type": "city",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 133899,
-      "name": "Šahpur",
+      "name": "Shahpur",
       "name_default": "Shahpur",
       "native": "शाहपुर",
       "type": "city",
@@ -4575,7 +4575,7 @@
     },
     {
       "id": 133910,
-      "name": "Šadžapur",
+      "name": "Shajapur",
       "name_default": "Shajapur",
       "native": "शाजापुर",
       "type": "city",
@@ -4593,7 +4593,7 @@
     },
     {
       "id": 133912,
-      "name": "Šamgarh",
+      "name": "Shamgarh",
       "name_default": "Shamgarh",
       "native": "शामगढ़",
       "type": "city",
@@ -4611,7 +4611,7 @@
     },
     {
       "id": 133861,
-      "name": "Šeopur",
+      "name": "Sheopur",
       "name_default": "Sheopur",
       "native": "श्योपुर",
       "type": "city",
@@ -4629,7 +4629,7 @@
     },
     {
       "id": 133880,
-      "name": "Šivpuri",
+      "name": "Shivpuri",
       "name_default": "Shivpuri",
       "native": "शिवपुरी",
       "type": "city",
@@ -4647,7 +4647,7 @@
     },
     {
       "id": 133888,
-      "name": "Šujalpur",
+      "name": "Shujalpur",
       "name_default": "Shujalpur",
       "native": "शुजालपुर",
       "type": "city",
@@ -5169,7 +5169,7 @@
     },
     {
       "id": 134354,
-      "name": "Vidiša",
+      "name": "Vidisha",
       "name_default": "Vidisha",
       "native": "विदिशा",
       "type": "city",

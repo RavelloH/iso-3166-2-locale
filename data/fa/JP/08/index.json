@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63244,
-      "name": "امی",
+      "name": "آمی",
       "name_default": "Ami",
-      "native": "アミ",
+      "native": "阿見町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -113,7 +113,7 @@
       "id": 63317,
       "name": "دایگو",
       "name_default": "Daigo",
-      "native": "醍醐",
+      "native": "大子町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 63601,
-      "name": "ایشیوکا",
+      "name": "ایشی‌اوکا",
       "name_default": "Ishioka",
       "native": "石岡",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 63749,
-      "name": "کاسومیگاورا",
+      "name": "کاسومیگائورا",
       "name_default": "Kasumigaura",
       "native": "かすみがうら市",
       "type": "adm2",
@@ -725,7 +725,7 @@
       "id": 64032,
       "name": "موریا",
       "name_default": "Moriya",
-      "native": "守屋",
+      "native": "守谷市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -795,7 +795,7 @@
     },
     {
       "id": 64093,
-      "name": "نامگاتا",
+      "name": "نامه‌گاتا",
       "name_default": "Namegata",
       "native": "行方",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64234,
-      "name": "ریوگازاکی-شی",
+      "name": "ریوگاساکی",
       "name_default": "Ryūgasaki-shi",
       "native": "龍ヶ崎市",
       "type": "city",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 64707,
-      "name": "یوکی شی",
+      "name": "یوکی",
       "name_default": "Yūki-shi",
       "native": "結城市",
       "type": "adm1",

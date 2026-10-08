@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 150879,
-      "name": "أحمدسرغراب",
+      "name": "احمدسرغوراب",
       "name_default": "Ahmadsargurab",
       "native": "احمدگراب",
       "type": "city",
@@ -75,7 +75,7 @@
     },
     {
       "id": 150860,
-      "name": "أملاش",
+      "name": "أملش",
       "name_default": "Amlash",
       "native": "امبول",
       "type": "adm2",
@@ -93,7 +93,7 @@
     },
     {
       "id": 150883,
-      "name": "أساليم",
+      "name": "أسالم",
       "name_default": "Asalem",
       "native": "اسلام",
       "type": "adm2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 135154,
-      "name": "أستانه أشرفية",
+      "name": "أستانة أشرفية",
       "name_default": "Astaneh-ye Ashrafiyeh",
       "native": "آستانه اشرفیه",
       "type": "adm2",
@@ -149,7 +149,7 @@
       "id": 134578,
       "name": "بندر أنزلي",
       "name_default": "Bandar Anzali",
-      "native": "شهر انزالی",
+      "native": "بندر انزلی",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -201,7 +201,7 @@
     },
     {
       "id": 150874,
-      "name": "تشابوكسار",
+      "name": "تشابكسر",
       "name_default": "Chaboksar",
       "native": "چلیکسار",
       "type": "city",
@@ -291,7 +291,7 @@
     },
     {
       "id": 150881,
-      "name": "جراب زرميخ",
+      "name": "غوراب زرميخ",
       "name_default": "Gurab Zarmikh",
       "native": "گراف زرمیخ",
       "type": "city",
@@ -309,9 +309,9 @@
     },
     {
       "id": 134653,
-      "name": "هشتبار",
+      "name": "هشتبر",
       "name_default": "Hashtpar",
-      "native": "پپاتور",
+      "native": "هشتپر",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 150885,
-      "name": "هافيك",
+      "name": "حويق",
       "name_default": "Haviq",
       "native": "هویچ",
       "type": "city",
@@ -363,7 +363,7 @@
     },
     {
       "id": 150876,
-      "name": "كيلاتشاي",
+      "name": "كلاتشاي",
       "name_default": "Kelachay",
       "native": "کلاچای",
       "type": "city",
@@ -383,7 +383,7 @@
       "id": 150863,
       "name": "خمام",
       "name_default": "Khomam",
-      "native": "خود را نگه دارید",
+      "native": "خمام",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -401,7 +401,7 @@
       "id": 150862,
       "name": "خوشكي بيجار",
       "name_default": "Khoshkebijar",
-      "native": "خس",
+      "native": "خشکبیجار",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -417,7 +417,7 @@
     },
     {
       "id": 150859,
-      "name": "كياشهر",
+      "name": "كيا شهر",
       "name_default": "Kiashahr",
       "native": "کیاشهر",
       "type": "city",
@@ -435,7 +435,7 @@
     },
     {
       "id": 150865,
-      "name": "كوشصفهان",
+      "name": "كوتشصفهان",
       "name_default": "Kuchesfahan",
       "native": "کواسفان",
       "type": "city",
@@ -453,7 +453,7 @@
     },
     {
       "id": 150893,
-      "name": "كوميليه",
+      "name": "كومله",
       "name_default": "Kumeleh",
       "native": "باید",
       "type": "city",
@@ -489,9 +489,9 @@
     },
     {
       "id": 134689,
-      "name": "لانغرود",
+      "name": "لنغرود",
       "name_default": "Langarud",
-      "native": "لانگا",
+      "native": "لنگرود",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -507,7 +507,7 @@
     },
     {
       "id": 150866,
-      "name": "لَشْت نَشَة",
+      "name": "لشت نشا",
       "name_default": "Lasht-e Nesha",
       "native": "نیشا",
       "type": "city",
@@ -543,7 +543,7 @@
     },
     {
       "id": 150886,
-      "name": "ليزر",
+      "name": "ليسار",
       "name_default": "Lisar",
       "native": "لیزار",
       "type": "adm2",
@@ -581,7 +581,7 @@
       "id": 150873,
       "name": "لوشان",
       "name_default": "Lowshan",
-      "native": "لجش",
+      "native": "لوشان",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 150888,
-      "name": "ماكلافان",
+      "name": "ماكلوان",
       "name_default": "Maklavan",
       "native": "ماکلاوان",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 134730,
-      "name": "مانجيل",
+      "name": "منجيل",
       "name_default": "Manjil",
       "native": "مانجیل",
       "type": "city",
@@ -633,9 +633,9 @@
     },
     {
       "id": 150882,
-      "name": "مارجاغال",
+      "name": "مرجغل",
       "name_default": "Marjaghal",
-      "native": "مرجال",
+      "native": "مرجغل",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -669,7 +669,7 @@
     },
     {
       "id": 150887,
-      "name": "ماسوله",
+      "name": "ماسولة",
       "name_default": "Masuleh",
       "native": "ماسول",
       "type": "city",
@@ -849,9 +849,9 @@
     },
     {
       "id": 134761,
-      "name": "رودسار",
+      "name": "رودسر",
       "name_default": "Rudsar",
-      "native": "رودرس",
+      "native": "رودسر",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": 150892,
-      "name": "شالمان",
+      "name": "شلمان",
       "name_default": "Shalman",
       "native": "شالن",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 150870,
-      "name": "توتكبون",
+      "name": "توتكابن",
       "name_default": "Tutkabon",
       "native": "توتکابن",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 150877,
-      "name": "فاجارجاه",
+      "name": "واجارغاه",
       "name_default": "Vajargah",
       "native": "وجارگا",
       "type": "city",

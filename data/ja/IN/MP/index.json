@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "たくさん",
+      "name": "アロット",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -219,7 +219,7 @@
     },
     {
       "id": 57663,
-      "name": "アマルパタン",
+      "name": "アマールパタン",
       "name_default": "Amarpatan",
       "native": "अमरपाटन",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57664,
-      "name": "アマルワラ",
+      "name": "アマーワラ",
       "name_default": "Amarwara",
       "native": "अमरवाड़ा",
       "type": "city",
@@ -255,7 +255,7 @@
     },
     {
       "id": 57673,
-      "name": "アンバ",
+      "name": "アムバー",
       "name_default": "Ambah",
       "native": "अंबाह",
       "type": "city",
@@ -398,24 +398,6 @@
       "country_id": 101
     },
     {
-      "id": 58103,
-      "name": "ババイ",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
       "id": 165029,
       "name": "Bada Malhera",
       "name_default": "Bada Malhera",
@@ -471,7 +453,7 @@
     },
     {
       "id": 57793,
-      "name": "バドナワール",
+      "name": "バッドナワール",
       "name_default": "Badnawar",
       "native": "बदनावर",
       "type": "city",
@@ -741,7 +723,7 @@
     },
     {
       "id": 57872,
-      "name": "バルヒ",
+      "name": "バーヒ",
       "name_default": "Barhi",
       "native": "बरही",
       "type": "city",
@@ -813,7 +795,7 @@
     },
     {
       "id": 58148,
-      "name": "バソダ",
+      "name": "ガンジ・バソダ",
       "name_default": "Basoda",
       "native": "बासौदा",
       "type": "city",
@@ -849,7 +831,7 @@
     },
     {
       "id": 57935,
-      "name": "ベオハリ",
+      "name": "ベオアリ",
       "name_default": "Beohari",
       "native": "बेओहारी",
       "type": "city",
@@ -993,7 +975,7 @@
     },
     {
       "id": 58012,
-      "name": "バンプラ",
+      "name": "バーンプラ",
       "name_default": "Bhanpura",
       "native": "भानपुरा",
       "type": "city",
@@ -1065,7 +1047,7 @@
     },
     {
       "id": 57995,
-      "name": "ボパール",
+      "name": "ボーパール",
       "name_default": "Bhopal",
       "native": "भोपाल",
       "type": "adm1",
@@ -1101,7 +1083,7 @@
     },
     {
       "id": 58038,
-      "name": "ビジャワル",
+      "name": "ビジャーワル",
       "name_default": "Bijawar",
       "native": "बिजावर",
       "type": "city",
@@ -1209,7 +1191,7 @@
     },
     {
       "id": 58188,
-      "name": "チャンデリー",
+      "name": "チャンデーリー",
       "name_default": "Chanderi",
       "native": "चंदेरी",
       "type": "city",
@@ -1443,7 +1425,7 @@
     },
     {
       "id": 131693,
-      "name": "デパルプル",
+      "name": "デパールプール",
       "name_default": "Depalpur",
       "native": "देपालपुर",
       "type": "city",
@@ -1587,7 +1569,7 @@
     },
     {
       "id": 132043,
-      "name": "ガダルワラ",
+      "name": "ガダーワラ",
       "name_default": "Gadarwara",
       "native": "गाडरवारा",
       "type": "city",
@@ -1731,7 +1713,7 @@
     },
     {
       "id": 131966,
-      "name": "ゴハディ",
+      "name": "ゴハッド",
       "name_default": "Gohad",
       "native": "गोहादी",
       "type": "city",
@@ -1821,7 +1803,7 @@
     },
     {
       "id": 132040,
-      "name": "グワリオール",
+      "name": "グワーリヤル",
       "name_default": "Gwalior",
       "native": "ग्वालियर",
       "type": "city",
@@ -1911,7 +1893,7 @@
     },
     {
       "id": 132082,
-      "name": "ハルスド",
+      "name": "ハースッド",
       "name_default": "Harsud",
       "native": "हरसूद",
       "type": "abandoned",
@@ -2019,7 +2001,7 @@
     },
     {
       "id": 132152,
-      "name": "イチャワール",
+      "name": "イッカウォール",
       "name_default": "Ichhawar",
       "native": "इछावर",
       "type": "city",
@@ -2217,7 +2199,7 @@
     },
     {
       "id": 132314,
-      "name": "ジャワド",
+      "name": "ジャワッド",
       "name_default": "Jawad",
       "native": "जवाद",
       "type": "city",
@@ -2235,7 +2217,7 @@
     },
     {
       "id": 132275,
-      "name": "ジャブア",
+      "name": "ジャーブア",
       "name_default": "Jhabua",
       "native": "झाबुआ",
       "type": "city",
@@ -2343,7 +2325,7 @@
     },
     {
       "id": 132382,
-      "name": "カンノド",
+      "name": "カノッド",
       "name_default": "Kannod",
       "native": "कन्नोड",
       "type": "city",
@@ -2415,7 +2397,7 @@
     },
     {
       "id": 132419,
-      "name": "カシュラワド",
+      "name": "カスロウワッド",
       "name_default": "Kasrawad",
       "native": "कसरावद",
       "type": "city",
@@ -2469,7 +2451,7 @@
     },
     {
       "id": 132511,
-      "name": "カフロッド",
+      "name": "カークロッド",
       "name_default": "Khachrod",
       "native": "खाचरोद",
       "type": "city",
@@ -2577,7 +2559,7 @@
     },
     {
       "id": 132519,
-      "name": "カテガオン",
+      "name": "カーテガオン",
       "name_default": "Khategaon",
       "native": "खातेगांव",
       "type": "city",
@@ -2613,7 +2595,7 @@
     },
     {
       "id": 132497,
-      "name": "キルチプル",
+      "name": "キルチプール",
       "name_default": "Khilchipur",
       "native": "खिलचीपुर",
       "type": "city",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "クンブラジ",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2973,7 +2955,7 @@
     },
     {
       "id": 132854,
-      "name": "マイハール",
+      "name": "マイハル",
       "name_default": "Maihar",
       "native": "मैहर",
       "type": "city",
@@ -3002,6 +2984,24 @@
       "longitude": "79.92396000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q2552260",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
+      "id": 58103,
+      "name": "ババイ",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -3045,7 +3045,7 @@
     },
     {
       "id": 132869,
-      "name": "マルハルガル",
+      "name": "マルハーガー",
       "name_default": "Malhargarh",
       "native": "मल्हारगढ़",
       "type": "city",
@@ -3081,7 +3081,7 @@
     },
     {
       "id": 132931,
-      "name": "マナワール",
+      "name": "マナワー",
       "name_default": "Manawar",
       "native": "मनावर",
       "type": "city",
@@ -3225,7 +3225,7 @@
     },
     {
       "id": 132947,
-      "name": "モーガンジ",
+      "name": "モウガンジ",
       "name_default": "Mauganj",
       "native": "मऊगंज",
       "type": "city",
@@ -3405,7 +3405,7 @@
     },
     {
       "id": 133259,
-      "name": "ナゴド",
+      "name": "ナゴッド",
       "name_default": "Nagod",
       "native": "नागोद",
       "type": "city",
@@ -3531,7 +3531,7 @@
     },
     {
       "id": 133172,
-      "name": "ナルシンガル",
+      "name": "ナーシンガー",
       "name_default": "Narsinghgarh",
       "native": "नरसिंहगढ़",
       "type": "city",
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 133304,
-      "name": "オルチャ",
+      "name": "オールチャー",
       "name_default": "Orchha",
       "native": "ओरछा",
       "type": "city",
@@ -3657,7 +3657,7 @@
     },
     {
       "id": 133308,
-      "name": "パッチマリ",
+      "name": "パチマリ",
       "name_default": "Pachmarhi",
       "native": "पचमढ़ी",
       "type": "city",
@@ -3909,7 +3909,7 @@
     },
     {
       "id": 133430,
-      "name": "ペトラワド",
+      "name": "ペットラワッド",
       "name_default": "Petlawad",
       "native": "पेटलावद",
       "type": "city",
@@ -3945,7 +3945,7 @@
     },
     {
       "id": 133462,
-      "name": "ピタンプル",
+      "name": "ピータンプル",
       "name_default": "Pithampur",
       "native": "पीथमपुर",
       "type": "city",
@@ -4143,7 +4143,7 @@
     },
     {
       "id": 133618,
-      "name": "ラトラム",
+      "name": "ラットラム",
       "name_default": "Ratlam",
       "native": "रतलाम",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 133623,
-      "name": "レリ",
+      "name": "レーリ",
       "name_default": "Rehli",
       "native": "रेहली",
       "type": "city",
@@ -4197,7 +4197,7 @@
     },
     {
       "id": 133633,
-      "name": "レワ",
+      "name": "リーワー",
       "name_default": "Rewa",
       "native": "रीवा",
       "type": "city",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": 133738,
-      "name": "サバルガル",
+      "name": "サバルガー",
       "name_default": "Sabalgarh",
       "native": "सबलगढ़",
       "type": "city",
@@ -4395,7 +4395,7 @@
     },
     {
       "id": 133829,
-      "name": "ソーサー",
+      "name": "サウサール",
       "name_default": "Sausar",
       "native": "सौसर",
       "type": "city",
@@ -4431,7 +4431,7 @@
     },
     {
       "id": 133838,
-      "name": "センドワ",
+      "name": "センドゥワ",
       "name_default": "Sendhwa",
       "native": "सेंधवा",
       "type": "city",
@@ -4449,7 +4449,7 @@
     },
     {
       "id": 133840,
-      "name": "ソンダ",
+      "name": "セオンダ",
       "name_default": "Seondha",
       "native": "स्योंधा",
       "type": "city",
@@ -4629,7 +4629,7 @@
     },
     {
       "id": 133880,
-      "name": "シヴプリ",
+      "name": "シブプリ",
       "name_default": "Shivpuri",
       "native": "शिवपुरी",
       "type": "city",
@@ -4647,7 +4647,7 @@
     },
     {
       "id": 133888,
-      "name": "シュジャルプル",
+      "name": "シュハルプール",
       "name_default": "Shujalpur",
       "native": "शुजालपुर",
       "type": "city",
@@ -4755,7 +4755,7 @@
     },
     {
       "id": 133956,
-      "name": "シルマウル",
+      "name": "サーモー",
       "name_default": "Sirmaur",
       "native": "सिरमौर",
       "type": "city",
@@ -4791,7 +4791,7 @@
     },
     {
       "id": 134090,
-      "name": "シタマウ",
+      "name": "シタモウ",
       "name_default": "Sitamau",
       "native": "सीतामऊ",
       "type": "city",
@@ -4827,7 +4827,7 @@
     },
     {
       "id": 133982,
-      "name": "ソハグプル",
+      "name": "ソハッグプール",
       "name_default": "Sohagpur",
       "native": "सोहागपुर",
       "type": "city",
@@ -4881,7 +4881,7 @@
     },
     {
       "id": 134055,
-      "name": "サスナー",
+      "name": "ススネー",
       "name_default": "Susner",
       "native": "सुसनेर",
       "type": "city",
@@ -4989,7 +4989,7 @@
     },
     {
       "id": 134132,
-      "name": "テオンタール",
+      "name": "テオンサール",
       "name_default": "Teonthar",
       "native": "तेओन्थर",
       "type": "city",
@@ -5007,7 +5007,7 @@
     },
     {
       "id": 134137,
-      "name": "タンドラ",
+      "name": "サンドラ",
       "name_default": "Thandla",
       "native": "थांदला",
       "type": "city",

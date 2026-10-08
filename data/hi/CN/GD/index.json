@@ -228,7 +228,7 @@
       "id": 157458,
       "name": "शाओयांग",
       "name_default": "Chaoyang",
-      "native": "朝阳",
+      "native": "潮阳区",
       "type": "district",
       "level": "2",
       "parent_id": "20076",
@@ -244,7 +244,7 @@
     },
     {
       "id": 19383,
-      "name": "चाओझोउ",
+      "name": "चायोज़होउ",
       "name_default": "Chaozhou",
       "native": "潮州",
       "type": "prefecture",
@@ -496,7 +496,7 @@
     },
     {
       "id": 19467,
-      "name": ", Dongguan",
+      "name": "डोंग्गूआन",
       "name_default": "Dongguan",
       "native": "东莞",
       "type": "prefecture",
@@ -712,7 +712,7 @@
     },
     {
       "id": 19514,
-      "name": "फ़ोशान",
+      "name": "फोशान",
       "name_default": "Foshan",
       "native": "佛山",
       "type": "prefecture",
@@ -892,7 +892,7 @@
     },
     {
       "id": 19562,
-      "name": "गुआंगज़ौ",
+      "name": "ग्वांगझोउ",
       "name_default": "Guangzhou",
       "native": "广州",
       "type": "prefecture",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 19675,
-      "name": "Huizhou",
+      "name": "ह्यूज़हौ",
       "name_default": "Huizhou",
       "native": "惠州",
       "type": "prefecture",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": 19699,
-      "name": "Jiangmen",
+      "name": "जिआंगमेन",
       "name_default": "Jiangmen",
       "native": "江门",
       "type": "prefecture",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 19821,
-      "name": "लियानजियांग",
+      "name": "लिएन्जियांग",
       "name_default": "Lianjiang",
       "native": "廉江",
       "type": "city",
@@ -1684,7 +1684,7 @@
     },
     {
       "id": 19826,
-      "name": "लियानझोउ",
+      "name": "लियांज़होउ",
       "name_default": "Lianzhou",
       "native": "连州",
       "type": "adm3",
@@ -1992,7 +1992,7 @@
       "id": 157483,
       "name": "माओनान",
       "name_default": "Maonan",
-      "native": "毛南",
+      "native": "茂南区",
       "type": "district",
       "level": "2",
       "parent_id": "19904",
@@ -2062,7 +2062,7 @@
     },
     {
       "id": 19913,
-      "name": "मेइझोऊ",
+      "name": "मैंज़होउ",
       "name_default": "Meizhou",
       "native": "梅州",
       "type": "prefecture",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": 19996,
-      "name": "प्युनिंग",
+      "name": "पुनिंग",
       "name_default": "Puning",
       "native": "普宁",
       "type": "city",
@@ -2350,7 +2350,7 @@
     },
     {
       "id": 157548,
-      "name": "प्युनिंग",
+      "name": "पुनिंग",
       "name_default": "Puning",
       "native": "普宁",
       "type": "city",
@@ -2404,7 +2404,7 @@
     },
     {
       "id": 20027,
-      "name": "क़िन्ग्युआन",
+      "name": "किनग्यूआन",
       "name_default": "Qingyuan",
       "native": "清远",
       "type": "prefecture",
@@ -2548,7 +2548,7 @@
     },
     {
       "id": 20076,
-      "name": "शान्ताउ",
+      "name": "शांतोऊ",
       "name_default": "Shantou",
       "native": "汕头",
       "type": "prefecture",
@@ -2620,7 +2620,7 @@
     },
     {
       "id": 20091,
-      "name": "शेन्ज़ेन",
+      "name": "शेन्झेन",
       "name_default": "Shenzhen",
       "native": "深圳",
       "type": "prefecture",
@@ -2854,9 +2854,9 @@
     },
     {
       "id": 20160,
-      "name": "ताइशान",
+      "name": "तैशान",
       "name_default": "Taishan",
-      "native": "泰山",
+      "native": "台山市",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2962,7 +2962,7 @@
     },
     {
       "id": 20230,
-      "name": "उचुआन",
+      "name": "वुचुआन",
       "name_default": "Wuchuan",
       "native": "吴川",
       "type": "city",
@@ -3448,7 +3448,7 @@
     },
     {
       "id": 157529,
-      "name": "यिंगदे",
+      "name": "यिंग्दे",
       "name_default": "Yingde",
       "native": "英德",
       "type": "city",
@@ -3610,7 +3610,7 @@
     },
     {
       "id": 20433,
-      "name": "Zhaoqing",
+      "name": "ज़हॉकिंग",
       "name_default": "Zhaoqing",
       "native": "肇庆",
       "type": "prefecture",
@@ -3646,7 +3646,7 @@
     },
     {
       "id": 20451,
-      "name": "ZHONGSHAN",
+      "name": "झोंगशान",
       "name_default": "Zhongshan",
       "native": "中山",
       "type": "prefecture",
@@ -3700,7 +3700,7 @@
     },
     {
       "id": 20466,
-      "name": "Zhuhai",
+      "name": "ज़ह्हाई",
       "name_default": "Zhuhai",
       "native": "珠海",
       "type": "prefecture",

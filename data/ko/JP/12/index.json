@@ -111,7 +111,7 @@
     },
     {
       "id": 63293,
-      "name": "치바",
+      "name": "지바시",
       "name_default": "Chiba",
       "native": "千葉",
       "type": "adm1",
@@ -165,7 +165,7 @@
     },
     {
       "id": 63381,
-      "name": "훗쓰",
+      "name": "훗쓰시",
       "name_default": "Futtsu",
       "native": "富津市",
       "type": "adm2",
@@ -291,7 +291,7 @@
     },
     {
       "id": 63603,
-      "name": "이스미",
+      "name": "이스미시",
       "name_default": "Isumi",
       "native": "いすみ",
       "type": "adm2",
@@ -363,7 +363,7 @@
     },
     {
       "id": 63739,
-      "name": "가시와",
+      "name": "가시와시",
       "name_default": "Kashiwa",
       "native": "柏",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63760,
-      "name": "가쓰우라",
+      "name": "가쓰우라시",
       "name_default": "Katsuura",
       "native": "勝浦",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 63787,
-      "name": "키미츠",
+      "name": "기미쓰시",
       "name_default": "Kimitsu",
       "native": "君津市",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63793,
-      "name": "기사라즈",
+      "name": "기사라즈시",
       "name_default": "Kisarazu",
       "native": "木更津市",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 64022,
-      "name": "모바라",
+      "name": "모바라시",
       "name_default": "Mobara",
       "native": "茂原",
       "type": "adm2",
@@ -597,7 +597,7 @@
     },
     {
       "id": 64108,
-      "name": "나리타",
+      "name": "나리타시",
       "name_default": "Narita",
       "native": "成田",
       "type": "adm2",
@@ -723,7 +723,7 @@
     },
     {
       "id": 64724,
-      "name": "오하라",
+      "name": "오하라정",
       "name_default": "Ōhara",
       "native": "大原",
       "type": "city",
@@ -741,7 +741,7 @@
     },
     {
       "id": 64204,
-      "name": "오미가와",
+      "name": "오미가와정",
       "name_default": "Omigawa",
       "native": "小見川",
       "type": "city",
@@ -759,9 +759,9 @@
     },
     {
       "id": 64268,
-      "name": "사쿠라",
+      "name": "사쿠라시",
       "name_default": "Sakura",
-      "native": "さくら",
+      "native": "佐倉市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -813,9 +813,9 @@
     },
     {
       "id": 64279,
-      "name": "산무",
+      "name": "산무시",
       "name_default": "Sanmu",
-      "native": "サンム",
+      "native": "山武市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -849,7 +849,7 @@
     },
     {
       "id": 64295,
-      "name": "사와라",
+      "name": "사와라시",
       "name_default": "Sawara",
       "native": "佐原",
       "type": "city",
@@ -957,9 +957,9 @@
     },
     {
       "id": 64474,
-      "name": "다테야마",
+      "name": "다테야마시",
       "name_default": "Tateyama",
-      "native": "立山",
+      "native": "館山市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -993,7 +993,7 @@
     },
     {
       "id": 64566,
-      "name": "토가네",
+      "name": "도가네시",
       "name_default": "Tōgane",
       "native": "東金",
       "type": "adm2",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 64567,
-      "name": "토가네시",
+      "name": "도가네시",
       "name_default": "Tōgane-shi",
       "native": "東金市",
       "type": "city",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 64629,
-      "name": "야치마타",
+      "name": "야치마타시",
       "name_default": "Yachimata",
       "native": "八街市",
       "type": "adm2",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 64703,
-      "name": "요카이치바",
+      "name": "요카이치바시",
       "name_default": "Yōkaichiba",
       "native": "八日市場",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 64690,
-      "name": "요쓰카이도",
+      "name": "요쓰카이도시",
       "name_default": "Yotsukaidō",
       "native": "四街道",
       "type": "adm2",

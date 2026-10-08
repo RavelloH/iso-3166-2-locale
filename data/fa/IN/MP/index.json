@@ -93,7 +93,7 @@
     },
     {
       "id": 57626,
-      "name": "آکودیا",
+      "name": "اکودای",
       "name_default": "Akodia",
       "native": "अकोदिया",
       "type": "city",
@@ -147,7 +147,7 @@
     },
     {
       "id": 133595,
-      "name": "راجپور",
+      "name": "علی‌راجپور",
       "name_default": "Alirajpur",
       "native": "आलीराजपुर",
       "type": "city",
@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "زیاد",
+      "name": "الات",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 57691,
-      "name": "آمانگنج",
+      "name": "امان‌کنج",
       "name_default": "Amanganj",
       "native": "अमानगंज",
       "type": "city",
@@ -201,7 +201,7 @@
     },
     {
       "id": 57659,
-      "name": "آمارکانتاک",
+      "name": "امارکانتاک",
       "name_default": "Amarkantak",
       "native": "अमरकंटक",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 57663,
-      "name": "آمارپاتان",
+      "name": "امارپاتان",
       "name_default": "Amarpatan",
       "native": "अमरपाटन",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57664,
-      "name": "آمارورا",
+      "name": "اماروارا",
       "name_default": "Amarwara",
       "native": "अमरवाड़ा",
       "type": "city",
@@ -392,24 +392,6 @@
       "longitude": "76.72208000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q582291",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
-      "id": 58103,
-      "name": "بابایی",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -831,7 +813,7 @@
     },
     {
       "id": 57913,
-      "name": "بگومگنج",
+      "name": "بیگم‌گنج",
       "name_default": "Begamganj",
       "native": "बेगमगंज",
       "type": "city",
@@ -1065,7 +1047,7 @@
     },
     {
       "id": 57995,
-      "name": "بوپال",
+      "name": "بهوپال",
       "name_default": "Bhopal",
       "native": "भोपाल",
       "type": "adm1",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "کومبهراج",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2973,7 +2955,7 @@
     },
     {
       "id": 132854,
-      "name": "مهیار",
+      "name": "میهار",
       "name_default": "Maihar",
       "native": "मैहर",
       "type": "city",
@@ -3002,6 +2984,24 @@
       "longitude": "79.92396000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q2552260",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
+      "id": 58103,
+      "name": "بابایی",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -3081,7 +3081,7 @@
     },
     {
       "id": 132931,
-      "name": "مناور",
+      "name": "ماناوار",
       "name_default": "Manawar",
       "native": "मनावर",
       "type": "city",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": 132894,
-      "name": "مندی‌دیپ",
+      "name": "ماندیدیپ",
       "name_default": "Mandideep",
       "native": "मंडीदीप",
       "type": "city",
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 133022,
-      "name": "مولتای",
+      "name": "مولتایی",
       "name_default": "Multai",
       "native": "मुल्ताई",
       "type": "city",
@@ -3441,7 +3441,7 @@
     },
     {
       "id": 133124,
-      "name": "ناینپور",
+      "name": "نائینپور",
       "name_default": "Nainpur",
       "native": "नैनपुर",
       "type": "city",
@@ -3531,7 +3531,7 @@
     },
     {
       "id": 133172,
-      "name": "نارسینگگر",
+      "name": "نارسینگهه",
       "name_default": "Narsinghgarh",
       "native": "नरसिंहगढ़",
       "type": "city",
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 133304,
-      "name": "اورخا",
+      "name": "اورچها",
       "name_default": "Orchha",
       "native": "ओरछा",
       "type": "city",
@@ -3783,7 +3783,7 @@
     },
     {
       "id": 133538,
-      "name": "پاندهورنا",
+      "name": "پاندورنا",
       "name_default": "Pandhurna",
       "native": "पंधुरना",
       "type": "city",
@@ -3909,7 +3909,7 @@
     },
     {
       "id": 133430,
-      "name": "پتلاواد",
+      "name": "پتلواد",
       "name_default": "Petlawad",
       "native": "पेटलावद",
       "type": "city",
@@ -3963,7 +3963,7 @@
     },
     {
       "id": 133481,
-      "name": "پرسا",
+      "name": "پورسا",
       "name_default": "Porsa",
       "native": "पोर्सा",
       "type": "city",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": 133738,
-      "name": "سبالگر",
+      "name": "سبلگره",
       "name_default": "Sabalgarh",
       "native": "सबलगढ़",
       "type": "city",
@@ -4269,7 +4269,7 @@
     },
     {
       "id": 133796,
-      "name": "سنواد",
+      "name": "ساناواد",
       "name_default": "Sanawad",
       "native": "सनावद",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 133843,
-      "name": "سئونی مالوا",
+      "name": "سونی مالوا",
       "name_default": "Seoni Malwa",
       "native": "सिवनी मालवा",
       "type": "city",
@@ -4593,7 +4593,7 @@
     },
     {
       "id": 133912,
-      "name": "شمگر",
+      "name": "شمگره",
       "name_default": "Shamgarh",
       "native": "शामगढ़",
       "type": "city",
@@ -5061,7 +5061,7 @@
     },
     {
       "id": 134251,
-      "name": "اودایپورا",
+      "name": "یودایپورا",
       "name_default": "Udaipura",
       "native": "उदयपुरा",
       "type": "city",

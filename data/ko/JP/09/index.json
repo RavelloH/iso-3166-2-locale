@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63266,
-      "name": "아시카가",
+      "name": "아시카가시",
       "name_default": "Ashikaga",
       "native": "足利",
       "type": "adm2",
@@ -75,7 +75,7 @@
     },
     {
       "id": 63349,
-      "name": "후지오카",
+      "name": "후지오카정",
       "name_default": "Fujioka",
       "native": "藤岡",
       "type": "city",
@@ -111,7 +111,7 @@
     },
     {
       "id": 63694,
-      "name": "카미노카와",
+      "name": "가미노카와정",
       "name_default": "Kaminokawa",
       "native": "上三川",
       "type": "city",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63878,
-      "name": "쿠로이소",
+      "name": "구로이소시",
       "name_default": "Kuroiso",
       "native": "黒磯",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63945,
-      "name": "미부",
+      "name": "미부정",
       "name_default": "Mibu",
       "native": "壬生",
       "type": "city",
@@ -273,7 +273,7 @@
     },
     {
       "id": 64037,
-      "name": "모테기",
+      "name": "모테기정",
       "name_default": "Motegi",
       "native": "茂木",
       "type": "city",
@@ -309,7 +309,7 @@
     },
     {
       "id": 64113,
-      "name": "나스카라스야마",
+      "name": "나스카라스야마시",
       "name_default": "Nasukarasuyama",
       "native": "那須烏山",
       "type": "adm2",
@@ -381,7 +381,7 @@
     },
     {
       "id": 64762,
-      "name": "오타와라",
+      "name": "오타와라시",
       "name_default": "Ōtawara",
       "native": "大田原",
       "type": "adm2",
@@ -417,9 +417,9 @@
     },
     {
       "id": 64222,
-      "name": "오야마",
+      "name": "오야마시",
       "name_default": "Oyama",
-      "native": "大山",
+      "native": "小山市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": 64281,
-      "name": "사노",
+      "name": "사노시",
       "name_default": "Sano",
       "native": "佐野",
       "type": "adm2",
@@ -525,7 +525,7 @@
     },
     {
       "id": 64467,
-      "name": "타누마",
+      "name": "다누마정",
       "name_default": "Tanuma",
       "native": "田沼",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 64632,
-      "name": "야이타",
+      "name": "야이타시",
       "name_default": "Yaita",
       "native": "矢板",
       "type": "adm2",

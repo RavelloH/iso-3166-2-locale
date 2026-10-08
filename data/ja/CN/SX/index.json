@@ -100,7 +100,7 @@
     },
     {
       "id": 19378,
-      "name": "長治",
+      "name": "長治市",
       "name_default": "Changzhi",
       "native": "长治",
       "type": "prefecture",
@@ -172,7 +172,7 @@
     },
     {
       "id": 19436,
-      "name": "大同",
+      "name": "大同市",
       "name_default": "Datong",
       "native": "大同",
       "type": "prefecture",
@@ -280,7 +280,7 @@
     },
     {
       "id": 159127,
-      "name": "汾陽",
+      "name": "汾陽市",
       "name_default": "Fenyang",
       "native": "汾阳",
       "type": "city",
@@ -316,7 +316,7 @@
     },
     {
       "id": 159053,
-      "name": "高平",
+      "name": "高平市",
       "name_default": "Gaoping",
       "native": "高平",
       "type": "city",
@@ -352,7 +352,7 @@
     },
     {
       "id": 159021,
-      "name": "グジャオ",
+      "name": "古交市",
       "name_default": "Gujiao",
       "native": "古交",
       "type": "city",
@@ -406,7 +406,7 @@
     },
     {
       "id": 159083,
-      "name": "ヘジン",
+      "name": "河津市",
       "name_default": "Hejin",
       "native": "河津",
       "type": "city",
@@ -478,7 +478,7 @@
     },
     {
       "id": 159113,
-      "name": "ホーマ",
+      "name": "侯馬市",
       "name_default": "Houma",
       "native": "侯马",
       "type": "city",
@@ -640,9 +640,9 @@
     },
     {
       "id": 159034,
-      "name": "焦曲",
+      "name": "郊区",
       "name_default": "Jiaoqu",
-      "native": "焦曲",
+      "native": "郊区",
       "type": "district",
       "level": "2",
       "parent_id": "20345",
@@ -658,7 +658,7 @@
     },
     {
       "id": 19722,
-      "name": "継秀",
+      "name": "介休市",
       "name_default": "Jiexiu",
       "native": "介休",
       "type": "city",
@@ -694,9 +694,9 @@
     },
     {
       "id": 19729,
-      "name": "金城",
+      "name": "晋城市",
       "name_default": "Jincheng",
-      "native": "金城",
+      "native": "晋城市",
       "type": "prefecture",
       "level": "1",
       "parent_id": null,
@@ -748,7 +748,7 @@
     },
     {
       "id": 19751,
-      "name": "晋中史",
+      "name": "晋中市",
       "name_default": "Jinzhong",
       "native": "晋中市",
       "type": "prefecture",
@@ -820,9 +820,9 @@
     },
     {
       "id": 159033,
-      "name": "光曲",
+      "name": "礦区",
       "name_default": "Kuangqu",
-      "native": "狂曲",
+      "native": "矿区",
       "type": "district",
       "level": "2",
       "parent_id": "20345",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 20162,
-      "name": "太原",
+      "name": "太原市",
       "name_default": "Taiyuan",
       "native": "太原",
       "type": "prefecture",
@@ -2152,9 +2152,9 @@
     },
     {
       "id": 159082,
-      "name": "ヨンジ",
+      "name": "永済市",
       "name_default": "Yongji",
-      "native": "永基",
+      "native": "永济市",
       "type": "city",
       "level": "2",
       "parent_id": "20400",
@@ -2188,7 +2188,7 @@
     },
     {
       "id": 20391,
-      "name": "元平",
+      "name": "原平市",
       "name_default": "Yuanping",
       "native": "原平",
       "type": "city",

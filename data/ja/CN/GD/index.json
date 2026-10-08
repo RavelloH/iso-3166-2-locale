@@ -118,7 +118,7 @@
     },
     {
       "id": 157446,
-      "name": "宝安",
+      "name": "宝安区",
       "name_default": "Bao'an",
       "native": "宝安",
       "type": "district",
@@ -226,9 +226,9 @@
     },
     {
       "id": 157458,
-      "name": "朝陽",
+      "name": "潮陽区",
       "name_default": "Chaoyang",
-      "native": "朝阳",
+      "native": "潮阳区",
       "type": "district",
       "level": "2",
       "parent_id": "20076",
@@ -244,7 +244,7 @@
     },
     {
       "id": 19383,
-      "name": "潮",
+      "name": "潮州市",
       "name_default": "Chaozhou",
       "native": "潮州",
       "type": "prefecture",
@@ -496,7 +496,7 @@
     },
     {
       "id": 19467,
-      "name": "東莞",
+      "name": "東莞市",
       "name_default": "Dongguan",
       "native": "东莞",
       "type": "prefecture",
@@ -712,7 +712,7 @@
     },
     {
       "id": 19514,
-      "name": "佛山",
+      "name": "仏山市",
       "name_default": "Foshan",
       "native": "佛山",
       "type": "prefecture",
@@ -820,7 +820,7 @@
     },
     {
       "id": 19550,
-      "name": "高",
+      "name": "高州市",
       "name_default": "Gaozhou",
       "native": "高州",
       "type": "adm4",
@@ -892,7 +892,7 @@
     },
     {
       "id": 19562,
-      "name": "広",
+      "name": "広州市",
       "name_default": "Guangzhou",
       "native": "广州",
       "type": "prefecture",
@@ -1054,7 +1054,7 @@
     },
     {
       "id": 19620,
-      "name": "河源",
+      "name": "河源市",
       "name_default": "Heyuan",
       "native": "河源",
       "type": "prefecture",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 19675,
-      "name": "恵",
+      "name": "恵州市",
       "name_default": "Huizhou",
       "native": "惠州",
       "type": "prefecture",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": 19699,
-      "name": "江門",
+      "name": "江門市",
       "name_default": "Jiangmen",
       "native": "江门",
       "type": "prefecture",
@@ -1450,7 +1450,7 @@
     },
     {
       "id": 19723,
-      "name": "掲陽",
+      "name": "掲陽市",
       "name_default": "Jieyang",
       "native": "揭阳",
       "type": "prefecture",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 19821,
-      "name": "連江市",
+      "name": "廉江市",
       "name_default": "Lianjiang",
       "native": "廉江",
       "type": "city",
@@ -1684,7 +1684,7 @@
     },
     {
       "id": 19826,
-      "name": "林",
+      "name": "連州市",
       "name_default": "Lianzhou",
       "native": "连州",
       "type": "adm3",
@@ -1990,9 +1990,9 @@
     },
     {
       "id": 157483,
-      "name": "マオナン",
+      "name": "茂南区",
       "name_default": "Maonan",
-      "native": "毛南",
+      "native": "茂南区",
       "type": "district",
       "level": "2",
       "parent_id": "19904",
@@ -2062,7 +2062,7 @@
     },
     {
       "id": 19913,
-      "name": "梅",
+      "name": "梅州市",
       "name_default": "Meizhou",
       "native": "梅州",
       "type": "prefecture",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": 19996,
-      "name": "普寧",
+      "name": "普寧市",
       "name_default": "Puning",
       "native": "普宁",
       "type": "city",
@@ -2350,7 +2350,7 @@
     },
     {
       "id": 157548,
-      "name": "普寧",
+      "name": "普寧市",
       "name_default": "Puning",
       "native": "普宁",
       "type": "city",
@@ -2404,7 +2404,7 @@
     },
     {
       "id": 20027,
-      "name": "清遠",
+      "name": "清遠市",
       "name_default": "Qingyuan",
       "native": "清远",
       "type": "prefecture",
@@ -2548,7 +2548,7 @@
     },
     {
       "id": 20076,
-      "name": "汕頭",
+      "name": "汕頭市",
       "name_default": "Shantou",
       "native": "汕头",
       "type": "prefecture",
@@ -2620,7 +2620,7 @@
     },
     {
       "id": 20091,
-      "name": "深セン",
+      "name": "深圳市",
       "name_default": "Shenzhen",
       "native": "深圳",
       "type": "prefecture",
@@ -2854,9 +2854,9 @@
     },
     {
       "id": 20160,
-      "name": "泰山",
+      "name": "台山市",
       "name_default": "Taishan",
-      "native": "泰山",
+      "native": "台山市",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -2926,7 +2926,7 @@
     },
     {
       "id": 157425,
-      "name": "天河",
+      "name": "天河区",
       "name_default": "Tianhe",
       "native": "天河",
       "type": "district",
@@ -2962,7 +2962,7 @@
     },
     {
       "id": 20230,
-      "name": "武川",
+      "name": "呉川市",
       "name_default": "Wuchuan",
       "native": "吴川",
       "type": "city",
@@ -3214,7 +3214,7 @@
     },
     {
       "id": 20312,
-      "name": "信義",
+      "name": "信宜市",
       "name_default": "Xinyi",
       "native": "信宜",
       "type": "city",
@@ -3304,7 +3304,7 @@
     },
     {
       "id": 20341,
-      "name": "陽春",
+      "name": "陽春市",
       "name_default": "Yangchun",
       "native": "阳春",
       "type": "city",
@@ -3448,7 +3448,7 @@
     },
     {
       "id": 157529,
-      "name": "英徳",
+      "name": "英徳市",
       "name_default": "Yingde",
       "native": "英德",
       "type": "city",
@@ -3610,7 +3610,7 @@
     },
     {
       "id": 20433,
-      "name": "肇慶",
+      "name": "肇慶市",
       "name_default": "Zhaoqing",
       "native": "肇庆",
       "type": "prefecture",
@@ -3646,7 +3646,7 @@
     },
     {
       "id": 20451,
-      "name": "中山",
+      "name": "中山市",
       "name_default": "Zhongshan",
       "native": "中山",
       "type": "prefecture",
@@ -3700,7 +3700,7 @@
     },
     {
       "id": 20466,
-      "name": "珠海",
+      "name": "珠海市",
       "name_default": "Zhuhai",
       "native": "珠海",
       "type": "prefecture",

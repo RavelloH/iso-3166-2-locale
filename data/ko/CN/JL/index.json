@@ -100,7 +100,7 @@
     },
     {
       "id": 19306,
-      "name": "바이산",
+      "name": "바이산시",
       "name_default": "Baishan",
       "native": "白山",
       "type": "prefecture",
@@ -154,7 +154,7 @@
     },
     {
       "id": 19363,
-      "name": "창춘",
+      "name": "창춘시",
       "name_default": "Changchun",
       "native": "长春",
       "type": "prefecture",
@@ -334,7 +334,7 @@
     },
     {
       "id": 19447,
-      "name": "더휘",
+      "name": "더후이시",
       "name_default": "Dehui",
       "native": "德惠",
       "type": "adm3",
@@ -352,7 +352,7 @@
     },
     {
       "id": 158560,
-      "name": "더휘",
+      "name": "더후이시",
       "name_default": "Dehui",
       "native": "德惠",
       "type": "city",
@@ -442,7 +442,7 @@
     },
     {
       "id": 19485,
-      "name": "둔화",
+      "name": "둔화시",
       "name_default": "Dunhua",
       "native": "敦化",
       "type": "adm3",
@@ -460,7 +460,7 @@
     },
     {
       "id": 158606,
-      "name": "둔화",
+      "name": "둔화시",
       "name_default": "Dunhua",
       "native": "敦化",
       "type": "city",
@@ -622,7 +622,7 @@
     },
     {
       "id": 19557,
-      "name": "공주링",
+      "name": "궁주링시",
       "name_default": "Gongzhuling",
       "native": "公主岭",
       "type": "city",
@@ -676,9 +676,9 @@
     },
     {
       "id": 19612,
-      "name": "화룡",
+      "name": "허룽시",
       "name_default": "Helong",
-      "native": "贺龙",
+      "native": "和龙市",
       "type": "adm4",
       "level": null,
       "parent_id": null,
@@ -694,9 +694,9 @@
     },
     {
       "id": 158609,
-      "name": "화룡",
+      "name": "허룽시",
       "name_default": "Helong",
-      "native": "鹤龙",
+      "native": "和龙市",
       "type": "city",
       "level": "2",
       "parent_id": "158603",
@@ -730,9 +730,9 @@
     },
     {
       "id": 19634,
-      "name": "화전",
+      "name": "화뎬시",
       "name_default": "Huadian",
-      "native": "华电",
+      "native": "桦甸市",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -820,7 +820,7 @@
     },
     {
       "id": 19682,
-      "name": "훈춘",
+      "name": "훈춘시",
       "name_default": "Hunchun",
       "native": "珲春",
       "type": "adm3",
@@ -838,7 +838,7 @@
     },
     {
       "id": 158607,
-      "name": "훈춘",
+      "name": "훈춘시",
       "name_default": "Hunchun",
       "native": "珲春",
       "type": "city",
@@ -894,7 +894,7 @@
       "id": 19763,
       "name": "지안",
       "name_default": "Ji’an",
-      "native": "吉安",
+      "native": "集安市",
       "type": "adm3",
       "level": null,
       "parent_id": null,
@@ -1072,7 +1072,7 @@
     },
     {
       "id": 19830,
-      "name": "요원",
+      "name": "랴오위안시",
       "name_default": "Liaoyuan",
       "native": "辽源",
       "type": "prefecture",
@@ -1090,7 +1090,7 @@
     },
     {
       "id": 19845,
-      "name": "린장",
+      "name": "린장시",
       "name_default": "Linjiang",
       "native": "临江",
       "type": "adm3",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 158592,
-      "name": "린장",
+      "name": "린장시",
       "name_default": "Linjiang",
       "native": "临江",
       "type": "city",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": 19868,
-      "name": "롱징",
+      "name": "룽징시",
       "name_default": "Longjing",
       "native": "龙井",
       "type": "adm3",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 19910,
-      "name": "메이허커우",
+      "name": "메이허커우시",
       "name_default": "Meihekou",
       "native": "梅河口",
       "type": "adm3",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": 20125,
-      "name": "슈란",
+      "name": "수란시",
       "name_default": "Shulan",
       "native": "舒兰",
       "type": "adm3",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": 20138,
-      "name": "송원",
+      "name": "쑹위안시",
       "name_default": "Songyuan",
       "native": "松原",
       "type": "prefecture",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": 20198,
-      "name": "두문",
+      "name": "투먼시",
       "name_default": "Tumen",
       "native": "图们",
       "type": "adm3",
@@ -1918,7 +1918,7 @@
     },
     {
       "id": 20350,
-      "name": "옌지",
+      "name": "옌지시",
       "name_default": "Yanji",
       "native": "延吉",
       "type": "adm4",
@@ -2008,9 +2008,9 @@
     },
     {
       "id": 20406,
-      "name": "유슈",
+      "name": "위수시",
       "name_default": "Yushu",
-      "native": "玉树",
+      "native": "榆树市",
       "type": "adm3",
       "level": null,
       "parent_id": null,

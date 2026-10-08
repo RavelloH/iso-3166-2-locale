@@ -165,7 +165,7 @@
     },
     {
       "id": 57711,
-      "name": "Ankara",
+      "name": "Ankola",
       "name_default": "Ankola",
       "native": "अंकोला",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57757,
-      "name": "Atni",
+      "name": "Athani",
       "name_default": "Athani",
       "native": "अथनी",
       "type": "city",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57933,
-      "name": "Bengaluru",
+      "name": "Bangalore",
       "name_default": "Bengaluru",
       "native": "बेंगलुरु",
       "type": "adm1",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57847,
-      "name": "Bengaluru Kırsalı",
+      "name": "Bengaluru Rural",
       "name_default": "Bengaluru Rural",
       "native": "बेंगलुरु ग्रामीण",
       "type": "area",
@@ -597,7 +597,7 @@
     },
     {
       "id": 57848,
-      "name": "Bengaluru Kentsel",
+      "name": "Bengaluru Urban",
       "name_default": "Bengaluru Urban",
       "native": "बेंगलुरु शहरी",
       "type": "area",
@@ -885,7 +885,7 @@
     },
     {
       "id": 131547,
-      "name": "Çik Ballapur",
+      "name": "Chik Ballapur",
       "name_default": "Chik Ballapur",
       "native": "चिक बल्लापुर",
       "type": "city",
@@ -921,7 +921,7 @@
     },
     {
       "id": 131552,
-      "name": "Çikkamagaluru",
+      "name": "Chikkamagaluru",
       "name_default": "Chikkamagaluru",
       "native": "चिक्कामगलुरु",
       "type": "city",
@@ -957,7 +957,7 @@
     },
     {
       "id": 131555,
-      "name": "Çikodi",
+      "name": "Chikodi",
       "name_default": "Chikodi",
       "native": "चिकोडी",
       "type": "city",
@@ -993,7 +993,7 @@
     },
     {
       "id": 131566,
-      "name": "Çintamani",
+      "name": "Chintamani",
       "name_default": "Chintamani",
       "native": "चिंतामणि",
       "type": "city",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 131613,
-      "name": "Çitapur",
+      "name": "Chitapur",
       "name_default": "Chitapur",
       "native": "चितापुर",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 131652,
-      "name": "Karahindiba",
+      "name": "Dandeli",
       "name_default": "Dandeli",
       "native": "डांडेली",
       "type": "city",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 131701,
-      "name": "Devanhalli",
+      "name": "Devanahalli",
       "name_default": "Devanahalli",
       "native": "देवनहल्ली",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 131780,
-      "name": "Dod Ballapur",
+      "name": "Doddaballapura",
       "name_default": "Doddaballapura",
       "native": "डोड बल्लापुर",
       "type": "city",
@@ -1425,9 +1425,9 @@
     },
     {
       "id": 132034,
-      "name": "Gürmatkal",
+      "name": "Gurmatkal",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1749,7 +1749,7 @@
     },
     {
       "id": 132115,
-      "name": "Honavar",
+      "name": "Honnavar",
       "name_default": "Honnavar",
       "native": "होनावर",
       "type": "city",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 132119,
-      "name": "Hosdurga",
+      "name": "Hosadurga",
       "name_default": "Hosadurga",
       "native": "होसदुर्गा",
       "type": "city",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 132124,
-      "name": "Hastane",
+      "name": "Hosapete",
       "name_default": "Hosapete",
       "native": "होसपेट",
       "type": "city",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 132160,
-      "name": "İlkal",
+      "name": "Ilkal",
       "name_default": "Ilkal",
       "native": "इलकल",
       "type": "city",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 132165,
-      "name": "Hindistan",
+      "name": "Indi",
       "name_default": "Indi",
       "native": "इंडी",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2253,7 +2253,7 @@
     },
     {
       "id": 132516,
-      "name": "Hanapur",
+      "name": "Khanapur",
       "name_default": "Khanapur",
       "native": "खानपुर",
       "type": "city",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": 132628,
-      "name": "Kudaçi",
+      "name": "Kudachi",
       "name_default": "Kudachi",
       "native": "कुदाची",
       "type": "city",
@@ -2667,7 +2667,7 @@
     },
     {
       "id": 132668,
-      "name": "Kuşalnagar",
+      "name": "Kushalnagar",
       "name_default": "Kushalnagar",
       "native": "कुशलनगर",
       "type": "city",
@@ -2685,7 +2685,7 @@
     },
     {
       "id": 132666,
-      "name": "Kuştagi",
+      "name": "Kushtagi",
       "name_default": "Kushtagi",
       "native": "कुश्तागी",
       "type": "city",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 132774,
-      "name": "Londra",
+      "name": "Londa",
       "name_default": "Londa",
       "native": "लोंदा",
       "type": "city",
@@ -3153,7 +3153,7 @@
     },
     {
       "id": 133101,
-      "name": "Mülki",
+      "name": "Mulki",
       "name_default": "Mulki",
       "native": "मुल्की",
       "type": "city",
@@ -3207,7 +3207,7 @@
     },
     {
       "id": 133033,
-      "name": "Münirabad",
+      "name": "Munirabad",
       "name_default": "Munirabad",
       "native": "मुनिराबाद",
       "type": "city",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": 133184,
-      "name": "Deniz Kuvvetleri",
+      "name": "Navalgund",
       "name_default": "Navalgund",
       "native": "नवलगुंड",
       "type": "city",
@@ -3567,7 +3567,7 @@
     },
     {
       "id": 133719,
-      "name": "Ranibennur",
+      "name": "Ranebennur",
       "name_default": "Ranebennur",
       "native": "रानीबेन्नूर",
       "type": "city",
@@ -3801,7 +3801,7 @@
     },
     {
       "id": 133846,
-      "name": "Seram",
+      "name": "Sedam",
       "name_default": "Sedam",
       "native": "सेराम",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 133907,
-      "name": "Şehadet",
+      "name": "Shahabad",
       "name_default": "Shahabad",
       "native": "शाहाबाद",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 133898,
-      "name": "Şahpur",
+      "name": "Shahpur",
       "name_default": "Shahpur",
       "native": "शाहपुर",
       "type": "city",
@@ -3909,7 +3909,7 @@
     },
     {
       "id": 133873,
-      "name": "Şiraguppi",
+      "name": "Shiraguppi",
       "name_default": "Shiraguppi",
       "native": "शिरागुप्पी",
       "type": "village",
@@ -3945,7 +3945,7 @@
     },
     {
       "id": 133884,
-      "name": "Şurapur",
+      "name": "Shorapur",
       "name_default": "Shorapur",
       "native": "शोरापुर",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "Sravana Belgola",
+      "name": "Şravanabelagola",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "Vijayapura",
+      "name": "Bicapur",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": 134414,
-      "name": "Vadi",
+      "name": "Wadi",
       "name_default": "Wadi",
       "native": "वाडी",
       "type": "city",

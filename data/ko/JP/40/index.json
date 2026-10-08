@@ -57,9 +57,9 @@
   "cities": [
     {
       "id": 63239,
-      "name": "아마기",
+      "name": "아마기시",
       "name_default": "Amagi",
-      "native": "天城",
+      "native": "甘木市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -93,7 +93,7 @@
     },
     {
       "id": 63290,
-      "name": "부젠",
+      "name": "부젠시",
       "name_default": "Buzen",
       "native": "豊前",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63551,
-      "name": "이즈카",
+      "name": "이즈카시",
       "name_default": "Iizuka",
       "native": "飯塚",
       "type": "adm2",
@@ -239,7 +239,7 @@
       "id": 63552,
       "name": "이즈카 시",
       "name_default": "Iizuka Shi",
-      "native": "飯塚氏",
+      "native": "飯塚市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -345,7 +345,7 @@
     },
     {
       "id": 63808,
-      "name": "기타큐슈",
+      "name": "기타큐슈시",
       "name_default": "Kitakyushu",
       "native": "北九州市",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 63879,
-      "name": "쿠루메",
+      "name": "구루메시",
       "name_default": "Kurume",
       "native": "久留米",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 64007,
-      "name": "미야타",
+      "name": "미야타정",
       "name_default": "Miyata",
       "native": "宮田",
       "type": "city",
@@ -507,7 +507,7 @@
     },
     {
       "id": 64084,
-      "name": "나카마",
+      "name": "나카마시",
       "name_default": "Nakama",
       "native": "中間市",
       "type": "adm2",
@@ -543,7 +543,7 @@
     },
     {
       "id": 64174,
-      "name": "노가타",
+      "name": "노가타시",
       "name_default": "Nōgata",
       "native": "直方",
       "type": "adm2",
@@ -669,7 +669,7 @@
     },
     {
       "id": 64749,
-      "name": "오노조",
+      "name": "오노조시",
       "name_default": "Ōnojō",
       "native": "大野城",
       "type": "adm2",
@@ -687,7 +687,7 @@
     },
     {
       "id": 64287,
-      "name": "사사구리",
+      "name": "사사구리정",
       "name_default": "Sasaguri",
       "native": "篠栗",
       "type": "city",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64650,
-      "name": "야나가와",
+      "name": "야나가와시",
       "name_default": "Yanagawa",
       "native": "柳川",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 64696,
-      "name": "유쿠하시",
+      "name": "유쿠하시시",
       "name_default": "Yukuhashi",
       "native": "行橋市",
       "type": "adm2",

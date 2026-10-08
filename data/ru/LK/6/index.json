@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 66460,
-      "name": "Чилау",
+      "name": "Чилав",
       "name_default": "Chilaw",
       "native": "චිලව්",
       "type": "city",
@@ -95,7 +95,7 @@
       "id": 66502,
       "name": "Курунегала",
       "name_default": "Kurunegala",
-      "native": "ජනපදනල්",
+      "native": "කුරුණෑගල",
       "type": "adm1",
       "level": null,
       "parent_id": null,
@@ -111,9 +111,9 @@
     },
     {
       "id": 66503,
-      "name": "Район Курунегала",
+      "name": "Курунегала",
       "name_default": "Kurunegala District",
-      "native": "කොල්ලෙගල දිස්ත්රික්කය",
+      "native": "කුරුණෑගල දිස්ත් රික්කය",
       "type": "district",
       "level": null,
       "parent_id": null,

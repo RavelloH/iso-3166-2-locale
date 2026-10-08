@@ -543,7 +543,7 @@
     },
     {
       "id": 57769,
-      "name": "Auren",
+      "name": "Auras",
       "name_default": "Auras",
       "native": "औरस",
       "type": "city",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 57944,
-      "name": "Vorsicht",
+      "name": "Bewar",
       "name_default": "Bewar",
       "native": "बेवर",
       "type": "city",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 147445,
-      "name": "Bharatpur",
+      "name": "Bharatpura",
       "name_default": "Bharatpura",
       "native": "भरतपुरा",
       "type": "city",
@@ -2057,7 +2057,7 @@
       "id": 58091,
       "name": "Budhana",
       "name_default": "Budhana",
-      "native": "बुढ़ाना",
+      "native": "बुढाना",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 58187,
-      "name": "Distrikt Chandauli",
+      "name": "Chandauli District",
       "name_default": "Chandauli District",
       "native": "चंदौली जिला",
       "type": "district",
@@ -2263,7 +2263,7 @@
       "latitude": "29.54687000",
       "longitude": "77.59438000",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "UP",
       "state_id": 4022,
@@ -2505,7 +2505,7 @@
     },
     {
       "id": 131621,
-      "name": "Oberstganj",
+      "name": "Colonelganj",
       "name_default": "Colonelganj",
       "native": "कर्नलगंज",
       "type": "city",
@@ -2561,7 +2561,7 @@
       "id": 131653,
       "name": "Dankaur",
       "name_default": "Dankaur",
-      "native": "डंकौर",
+      "native": "दनकौर",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2667,7 +2667,7 @@
     },
     {
       "id": 131674,
-      "name": "Dayal Bagh",
+      "name": "Dayalbagh",
       "name_default": "Dayal Bagh",
       "native": "दयाल बाग",
       "type": "city",
@@ -2919,7 +2919,7 @@
     },
     {
       "id": 131783,
-      "name": "Dohrighthat",
+      "name": "Dohrighat",
       "name_default": "Dohrighat",
       "native": "दोहरीघाट",
       "type": "city",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 131920,
-      "name": "Garhmuktesar",
+      "name": "Garhmukteshwar",
       "name_default": "Garhmuktesar",
       "native": "गढ़मुक्तेसर",
       "type": "city",
@@ -3729,7 +3729,7 @@
     },
     {
       "id": 131975,
-      "name": "Gola Gokarannath",
+      "name": "Gola Gokaran Nath",
       "name_default": "Gola Gokarannath",
       "native": "गोला गोकर्णनाथ",
       "type": "city",
@@ -3855,7 +3855,7 @@
     },
     {
       "id": 132005,
-      "name": "Großraum Noida",
+      "name": "Greater Noida",
       "name_default": "Greater Noida",
       "native": "ग्रेटर नोएडा",
       "type": "city",
@@ -4197,7 +4197,7 @@
     },
     {
       "id": 147482,
-      "name": "Hula",
+      "name": "Hulas",
       "name_default": "Hulas",
       "native": "हुलास",
       "type": "city",
@@ -5601,7 +5601,7 @@
     },
     {
       "id": 132490,
-      "name": "Khekra",
+      "name": "Khekada",
       "name_default": "Khekra",
       "native": "खेकड़ा",
       "type": "city",
@@ -5763,7 +5763,7 @@
     },
     {
       "id": 147499,
-      "name": "Kishanpur Baral",
+      "name": "Kishanpur baral",
       "name_default": "Kishanpur baral",
       "native": "किशनपुर बराल",
       "type": "adm2",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": 132783,
-      "name": "Distrikt Lucknow",
+      "name": "Lucknow",
       "name_default": "Lucknow District",
       "native": "लखनऊ जिला",
       "type": "district",
@@ -7131,7 +7131,7 @@
     },
     {
       "id": 133004,
-      "name": "Motte",
+      "name": "Moth",
       "name_default": "Moth",
       "native": "कीट",
       "type": "city",
@@ -7239,7 +7239,7 @@
     },
     {
       "id": 147523,
-      "name": "Muradabad",
+      "name": "Moradabad",
       "name_default": "Muradabad",
       "native": "मुरादाबाद",
       "type": "adm2",
@@ -7725,7 +7725,7 @@
     },
     {
       "id": 133215,
-      "name": "Nihtaur",
+      "name": "Nehtaur",
       "name_default": "Nihtaur",
       "native": "निहतौर",
       "type": "city",
@@ -7977,7 +7977,7 @@
     },
     {
       "id": 133014,
-      "name": "Mughal Sarai",
+      "name": "Mughalsarai",
       "name_default": "Pandit Deen Dayal Upadhyaya Nagar",
       "native": "पंडित दीन दयाल उपाध्याय नगर",
       "type": "city",
@@ -8139,7 +8139,7 @@
     },
     {
       "id": 133432,
-      "name": "Phalauda",
+      "name": "Phalawda",
       "name_default": "Phalauda",
       "native": "फलौदा",
       "type": "city",
@@ -8735,7 +8735,7 @@
       "id": 133723,
       "name": "Rath",
       "name_default": "Rath",
-      "native": "अधिक तत्पर",
+      "native": "राठ",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -9633,7 +9633,7 @@
     },
     {
       "id": 133913,
-      "name": "Schamli",
+      "name": "Shamli",
       "name_default": "Shamli",
       "native": "शामली",
       "type": "adm2",
@@ -9651,7 +9651,7 @@
     },
     {
       "id": 133855,
-      "name": "Schamsabad",
+      "name": "Shamsabad",
       "name_default": "Shamsabad",
       "native": "शम्साबाद",
       "type": "city",
@@ -10715,7 +10715,7 @@
       "id": 134401,
       "name": "Wazirganj",
       "name_default": "Wazirganj",
-      "native": "वजीरगंज",
+      "native": "वज़ीरगंज",
       "type": "city",
       "level": null,
       "parent_id": null,

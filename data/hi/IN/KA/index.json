@@ -1083,7 +1083,7 @@
     },
     {
       "id": 131652,
-      "name": "Dandeli",
+      "name": "डांडेली",
       "name_default": "Dandeli",
       "native": "डांडेली",
       "type": "city",
@@ -1425,9 +1425,9 @@
     },
     {
       "id": 132034,
-      "name": "Gurmatkal",
+      "name": "गुरमठकल",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -3729,7 +3729,7 @@
     },
     {
       "id": 133789,
-      "name": "Sankeshwar",
+      "name": "संकेश्वर",
       "name_default": "Sankeshwar",
       "native": "संकेश्वर",
       "type": "city",
@@ -4197,7 +4197,7 @@
     },
     {
       "id": 134029,
-      "name": "Srinivaspur",
+      "name": "श्रीनिवासपुर",
       "name_default": "Srinivaspur",
       "native": "श्रीनिवासपुर",
       "type": "city",

@@ -111,7 +111,7 @@
     },
     {
       "id": 63305,
-      "name": "치류",
+      "name": "지류시",
       "name_default": "Chiryū",
       "native": "知立",
       "type": "adm2",
@@ -129,7 +129,7 @@
     },
     {
       "id": 63307,
-      "name": "치타",
+      "name": "지타시",
       "name_default": "Chita",
       "native": "知多",
       "type": "adm2",
@@ -147,9 +147,9 @@
     },
     {
       "id": 63382,
-      "name": "가마고리",
+      "name": "가마고리시",
       "name_default": "Gamagōri",
-      "native": "鎌郡",
+      "native": "蒲郡市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": 63433,
-      "name": "한다",
+      "name": "한다시",
       "name_default": "Handa",
       "native": "半田",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 63453,
-      "name": "헤키난",
+      "name": "헤키난시",
       "name_default": "Hekinan",
       "native": "碧南市",
       "type": "adm2",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63542,
-      "name": "이치노미야",
+      "name": "이치노미야시",
       "name_default": "Ichinomiya",
       "native": "一宮市",
       "type": "adm2",
@@ -237,7 +237,7 @@
     },
     {
       "id": 63573,
-      "name": "이나자와",
+      "name": "이나자와시",
       "name_default": "Inazawa",
       "native": "稲沢市",
       "type": "adm2",
@@ -293,7 +293,7 @@
       "id": 63598,
       "name": "이시키",
       "name_default": "Ishiki",
-      "native": "イシキ",
+      "native": "一色町",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -309,7 +309,7 @@
     },
     {
       "id": 63624,
-      "name": "이와쿠라",
+      "name": "이와쿠라시",
       "name_default": "Iwakura",
       "native": "岩倉",
       "type": "adm2",
@@ -327,7 +327,7 @@
     },
     {
       "id": 63711,
-      "name": "카니에",
+      "name": "가니에정",
       "name_default": "Kanie",
       "native": "蟹江",
       "type": "city",
@@ -345,7 +345,7 @@
     },
     {
       "id": 63723,
-      "name": "카리야",
+      "name": "가리야시",
       "name_default": "Kariya",
       "native": "刈谷",
       "type": "adm2",
@@ -417,7 +417,7 @@
     },
     {
       "id": 63811,
-      "name": "기타나고야",
+      "name": "기타나고야시",
       "name_default": "Kitanagoya",
       "native": "北名古屋",
       "type": "adm2",
@@ -453,7 +453,7 @@
     },
     {
       "id": 63835,
-      "name": "코마키",
+      "name": "고마키시",
       "name_default": "Komaki",
       "native": "小牧市",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 63896,
-      "name": "코난",
+      "name": "고난시",
       "name_default": "Kōnan",
       "native": "江南",
       "type": "adm2",
@@ -509,7 +509,7 @@
       "id": 63897,
       "name": "고난시",
       "name_default": "Kōnan-shi",
-      "native": "湖南市",
+      "native": "江南市",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -597,7 +597,7 @@
     },
     {
       "id": 64078,
-      "name": "나고야",
+      "name": "나고야시",
       "name_default": "Nagoya",
       "native": "名古屋",
       "type": "adm1",
@@ -615,7 +615,7 @@
     },
     {
       "id": 64152,
-      "name": "니시오",
+      "name": "니시오시",
       "name_default": "Nishio",
       "native": "西尾",
       "type": "adm2",
@@ -651,9 +651,9 @@
     },
     {
       "id": 64715,
-      "name": "오부",
+      "name": "오부시",
       "name_default": "Ōbu",
-      "native": "大部",
+      "native": "大府市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -723,7 +723,7 @@
     },
     {
       "id": 64304,
-      "name": "세토",
+      "name": "세토시",
       "name_default": "Seto",
       "native": "瀬戸",
       "type": "adm2",
@@ -741,7 +741,7 @@
     },
     {
       "id": 64345,
-      "name": "신시로",
+      "name": "신시로시",
       "name_default": "Shinshiro",
       "native": "新城",
       "type": "adm2",
@@ -849,7 +849,7 @@
     },
     {
       "id": 64450,
-      "name": "타케토요",
+      "name": "다케토요정",
       "name_default": "Taketoyo",
       "native": "武豊",
       "type": "city",
@@ -885,7 +885,7 @@
     },
     {
       "id": 64493,
-      "name": "도코나메",
+      "name": "도코나메시",
       "name_default": "Tokoname",
       "native": "常滑",
       "type": "adm2",
@@ -903,7 +903,7 @@
     },
     {
       "id": 64522,
-      "name": "토요아케",
+      "name": "도요아케시",
       "name_default": "Toyoake",
       "native": "豊明",
       "type": "adm2",
@@ -939,7 +939,7 @@
     },
     {
       "id": 64525,
-      "name": "도요하시",
+      "name": "도요하시시",
       "name_default": "Toyohashi",
       "native": "豊橋",
       "type": "adm2",
@@ -957,7 +957,7 @@
     },
     {
       "id": 64527,
-      "name": "도요카와",
+      "name": "도요카와시",
       "name_default": "Toyokawa",
       "native": "豊川市",
       "type": "adm2",
@@ -975,7 +975,7 @@
     },
     {
       "id": 64534,
-      "name": "도요타시",
+      "name": "도요타",
       "name_default": "Toyota-shi",
       "native": "豊田市",
       "type": "city",

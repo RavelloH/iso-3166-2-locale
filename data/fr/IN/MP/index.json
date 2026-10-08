@@ -147,7 +147,7 @@
     },
     {
       "id": 133595,
-      "name": "Alirajpur",
+      "name": "Ali Rajpur",
       "name_default": "Alirajpur",
       "native": "आलीराजपुर",
       "type": "city",
@@ -165,9 +165,9 @@
     },
     {
       "id": 57646,
-      "name": "Beaucoup",
+      "name": "Alot",
       "name_default": "Alot",
-      "native": "बहुत",
+      "native": "आलोट",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -363,7 +363,7 @@
     },
     {
       "id": 57750,
-      "name": "Ashok Nagar",
+      "name": "Ashoknagar",
       "name_default": "Ashoknagar",
       "native": "अशोकनगर",
       "type": "city",
@@ -392,24 +392,6 @@
       "longitude": "76.72208000",
       "timezone": "Asia/Kolkata",
       "wikiDataId": "Q582291",
-      "country_code": "IN",
-      "state_code": "MP",
-      "state_id": 4039,
-      "country_id": 101
-    },
-    {
-      "id": 58103,
-      "name": "Babaï",
-      "name_default": "Babai",
-      "native": "बाबई",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 16741,
-      "latitude": "22.70256000",
-      "longitude": "77.93494000",
-      "timezone": "Asia/Kolkata",
-      "wikiDataId": "Q765367",
       "country_code": "IN",
       "state_code": "MP",
       "state_id": 4039,
@@ -813,7 +795,7 @@
     },
     {
       "id": 58148,
-      "name": "Basoda",
+      "name": "Ganj Basoda",
       "name_default": "Basoda",
       "native": "बासौदा",
       "type": "city",
@@ -867,7 +849,7 @@
     },
     {
       "id": 57936,
-      "name": "Bérasie",
+      "name": "Berasia",
       "name_default": "Berasia",
       "native": "बैरसिया",
       "type": "city",
@@ -903,7 +885,7 @@
     },
     {
       "id": 57942,
-      "name": "Bétul",
+      "name": "Betul",
       "name_default": "Betul",
       "native": "बेतुल",
       "type": "area",
@@ -921,7 +903,7 @@
     },
     {
       "id": 57943,
-      "name": "Bazar de Betul",
+      "name": "Betul Bazar",
       "name_default": "Betul Bazar",
       "native": "बैतूल बाजार",
       "type": "city",
@@ -1029,7 +1011,7 @@
     },
     {
       "id": 57982,
-      "name": "Derrière",
+      "name": "Bhind",
       "name_default": "Bhind",
       "native": "भिंड",
       "type": "city",
@@ -1407,7 +1389,7 @@
     },
     {
       "id": 131662,
-      "name": "Données",
+      "name": "Datia",
       "name_default": "Datia",
       "native": "दतिया",
       "type": "area",
@@ -1443,7 +1425,7 @@
     },
     {
       "id": 131693,
-      "name": "Dépalpur",
+      "name": "Depalpur",
       "name_default": "Depalpur",
       "native": "देपालपुर",
       "type": "city",
@@ -1515,7 +1497,7 @@
     },
     {
       "id": 131753,
-      "name": "Dhar",
+      "name": "Dhâr",
       "name_default": "Dhar",
       "native": "धार",
       "type": "city",
@@ -1731,7 +1713,7 @@
     },
     {
       "id": 131966,
-      "name": "Gohadi",
+      "name": "Gohad",
       "name_default": "Gohad",
       "native": "गोहादी",
       "type": "city",
@@ -1821,7 +1803,7 @@
     },
     {
       "id": 132040,
-      "name": "Gwalior",
+      "name": "Gwâlior",
       "name_default": "Gwalior",
       "native": "ग्वालियर",
       "type": "city",
@@ -1965,7 +1947,7 @@
     },
     {
       "id": 132098,
-      "name": "Hindouria",
+      "name": "Hindoria",
       "name_default": "Hindoria",
       "native": "हिंडोरिया",
       "type": "city",
@@ -2163,7 +2145,7 @@
     },
     {
       "id": 132309,
-      "name": "Jamaï",
+      "name": "Jamai",
       "name_default": "Jamai",
       "native": "जमाई",
       "type": "city",
@@ -2595,7 +2577,7 @@
     },
     {
       "id": 132495,
-      "name": "Khétie",
+      "name": "Khetia",
       "name_default": "Khetia",
       "native": "खेतिया",
       "type": "city",
@@ -2813,7 +2795,7 @@
       "id": 132640,
       "name": "Kumbhraj",
       "name_default": "Kumbhraj",
-      "native": "कुंभराज",
+      "native": "कुम्भराज",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -3008,6 +2990,24 @@
       "country_id": 101
     },
     {
+      "id": 58103,
+      "name": "Makhan Nagar",
+      "name_default": "Makhan Nagar",
+      "native": "माखन नगर",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 16741,
+      "latitude": "22.70256000",
+      "longitude": "77.93494000",
+      "timezone": "Asia/Kolkata",
+      "wikiDataId": "Q765367",
+      "country_code": "IN",
+      "state_code": "MP",
+      "state_id": 4039,
+      "country_id": 101
+    },
+    {
       "id": 164963,
       "name": "Makronia",
       "name_default": "Makronia",
@@ -3153,7 +3153,7 @@
     },
     {
       "id": 132897,
-      "name": "Mandsaure",
+      "name": "Mandsaur",
       "name_default": "Mandsaur",
       "native": "मन्दसौर",
       "type": "city",
@@ -3315,7 +3315,7 @@
     },
     {
       "id": 133022,
-      "name": "Multaï",
+      "name": "Multai",
       "name_default": "Multai",
       "native": "मुल्ताई",
       "type": "city",
@@ -3333,7 +3333,7 @@
     },
     {
       "id": 133028,
-      "name": "Monde",
+      "name": "Mundi",
       "name_default": "Mundi",
       "native": "मुंडी",
       "type": "city",
@@ -3639,7 +3639,7 @@
     },
     {
       "id": 133304,
-      "name": "Orchha",
+      "name": "Orchhâ",
       "name_default": "Orchha",
       "native": "ओरछा",
       "type": "city",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 133542,
-      "name": "Pansémal",
+      "name": "Pansemal",
       "name_default": "Pansemal",
       "native": "पानसेमल",
       "type": "city",
@@ -3837,7 +3837,7 @@
     },
     {
       "id": 133371,
-      "name": "Parasie",
+      "name": "Dongar Parasia",
       "name_default": "Parasia",
       "native": "परासिया",
       "type": "city",
@@ -4035,7 +4035,7 @@
     },
     {
       "id": 133591,
-      "name": "Raisin",
+      "name": "Raisen",
       "name_default": "Raisen",
       "native": "रायसेन",
       "type": "city",
@@ -4449,7 +4449,7 @@
     },
     {
       "id": 133840,
-      "name": "Deuxième",
+      "name": "Seondha",
       "name_default": "Seondha",
       "native": "स्योंधा",
       "type": "city",
@@ -4935,7 +4935,7 @@
     },
     {
       "id": 134119,
-      "name": "Tarana",
+      "name": "Tarânâ",
       "name_default": "Tarana",
       "native": "तराना",
       "type": "city",

@@ -298,7 +298,7 @@
     },
     {
       "id": 19481,
-      "name": "दोन्ग्यांग",
+      "name": "डोंगयांग",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "adm3",
@@ -316,7 +316,7 @@
     },
     {
       "id": 159507,
-      "name": "दोन्ग्यांग",
+      "name": "डोंगयांग",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "city",
@@ -586,7 +586,7 @@
     },
     {
       "id": 159459,
-      "name": "जियांडे",
+      "name": "जिआनदे",
       "name_default": "Jiande",
       "native": "建德",
       "type": "city",
@@ -712,7 +712,7 @@
     },
     {
       "id": 19714,
-      "name": "कंपनी Jiaxing",
+      "name": "जियाक्सिंग",
       "name_default": "Jiaxing",
       "native": "嘉兴",
       "type": "prefecture",
@@ -730,7 +730,7 @@
     },
     {
       "id": 19715,
-      "name": "जियाक्सिंग शि",
+      "name": "जियाक्सिंग",
       "name_default": "Jiaxing",
       "native": "嘉兴市",
       "type": "adm2",
@@ -784,7 +784,7 @@
     },
     {
       "id": 19740,
-      "name": "जिंहुआ",
+      "name": "जिन्हुआ",
       "name_default": "Jinhua",
       "native": "金华",
       "type": "prefecture",
@@ -910,7 +910,7 @@
     },
     {
       "id": 19801,
-      "name": "लैंक्सी",
+      "name": "लंक्सि",
       "name_default": "Lanxi",
       "native": "兰溪",
       "type": "city",
@@ -928,7 +928,7 @@
     },
     {
       "id": 159505,
-      "name": "लैंक्सी",
+      "name": "लंक्सि",
       "name_default": "Lanxi",
       "native": "兰溪",
       "type": "city",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 159536,
-      "name": "लोंगक्वान",
+      "name": "लोंगकुआं",
       "name_default": "Longquan",
       "native": "龙泉",
       "type": "city",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": 159487,
-      "name": "पिंगु",
+      "name": "पिंघु",
       "name_default": "Pinghu",
       "native": "平湖",
       "type": "city",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 20039,
-      "name": "क्यूज़ोऊ",
+      "name": "क़ुज़्हौ",
       "name_default": "Quzhou",
       "native": "衢州",
       "type": "prefecture",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": 20082,
-      "name": "Shaoxing",
+      "name": "शाओसिंग",
       "name_default": "Shaoxing",
       "native": "绍兴",
       "type": "prefecture",
@@ -1648,9 +1648,9 @@
     },
     {
       "id": 159499,
-      "name": "शेंगझोउ",
+      "name": "शेंग्ज़्हौ",
       "name_default": "Shengzhou",
-      "native": "嵊",
+      "native": "嵊州市",
       "type": "city",
       "level": "2",
       "parent_id": "20082",
@@ -2116,7 +2116,7 @@
     },
     {
       "id": 20383,
-      "name": "यिवु",
+      "name": "यिवू",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "adm3",
@@ -2134,7 +2134,7 @@
     },
     {
       "id": 159506,
-      "name": "यिवु",
+      "name": "यिवू",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "city",
@@ -2206,9 +2206,9 @@
     },
     {
       "id": 159480,
-      "name": "युइकिंग",
+      "name": "यूएकइंग",
       "name_default": "Yueqing",
-      "native": "岳清",
+      "native": "乐清市",
       "type": "city",
       "level": "2",
       "parent_id": "20226",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": 20411,
-      "name": "युयाओ",
+      "name": "यूयाओ सिटी",
       "name_default": "Yuyao",
       "native": "余姚",
       "type": "adm3",
@@ -2296,9 +2296,9 @@
     },
     {
       "id": 159468,
-      "name": "युयाओ",
+      "name": "यूयाओ सिटी",
       "name_default": "Yuyao",
-      "native": "余瑶",
+      "native": "余姚市",
       "type": "city",
       "level": "2",
       "parent_id": "19959",
@@ -2368,7 +2368,7 @@
     },
     {
       "id": 20461,
-      "name": "झाउशान",
+      "name": "ज़ूउशान",
       "name_default": "Zhoushan",
       "native": "舟山",
       "type": "prefecture",
@@ -2386,7 +2386,7 @@
     },
     {
       "id": 20467,
-      "name": "झूजी",
+      "name": "ज़हजी",
       "name_default": "Zhuji",
       "native": "诸暨",
       "type": "adm3",
@@ -2404,7 +2404,7 @@
     },
     {
       "id": 159498,
-      "name": "झूजी",
+      "name": "ज़हजी",
       "name_default": "Zhuji",
       "native": "诸暨",
       "type": "city",

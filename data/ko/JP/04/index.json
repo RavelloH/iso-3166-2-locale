@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 63379,
-      "name": "후루카와",
+      "name": "후루카와시",
       "name_default": "Furukawa",
       "native": "古川",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 63599,
-      "name": "이시노마키",
+      "name": "이시노마키시",
       "name_default": "Ishinomaki",
       "native": "石巻",
       "type": "adm2",
@@ -165,7 +165,7 @@
     },
     {
       "id": 63673,
-      "name": "카쿠다",
+      "name": "가쿠다시",
       "name_default": "Kakuda",
       "native": "角田",
       "type": "adm2",
@@ -183,7 +183,7 @@
     },
     {
       "id": 63781,
-      "name": "게센누마",
+      "name": "게센누마시",
       "name_default": "Kesennuma",
       "native": "気仙沼",
       "type": "adm2",
@@ -201,7 +201,7 @@
     },
     {
       "id": 63828,
-      "name": "코고타",
+      "name": "고고타정",
       "name_default": "Kogota",
       "native": "小牛田",
       "type": "city",
@@ -219,7 +219,7 @@
     },
     {
       "id": 63870,
-      "name": "구리하라",
+      "name": "구리하라시",
       "name_default": "Kurihara",
       "native": "栗原",
       "type": "adm2",
@@ -345,7 +345,7 @@
     },
     {
       "id": 64752,
-      "name": "오사키",
+      "name": "오사키시",
       "name_default": "Ōsaki",
       "native": "大崎",
       "type": "adm2",
@@ -399,7 +399,7 @@
     },
     {
       "id": 64300,
-      "name": "센다이",
+      "name": "센다이시",
       "name_default": "Sendai",
       "native": "仙台",
       "type": "adm1",
@@ -417,7 +417,7 @@
     },
     {
       "id": 64348,
-      "name": "시오가마",
+      "name": "시오가마시",
       "name_default": "Shiogama",
       "native": "塩釜",
       "type": "adm2",
@@ -435,7 +435,7 @@
     },
     {
       "id": 64359,
-      "name": "시로이시",
+      "name": "시로이시시",
       "name_default": "Shiroishi",
       "native": "白石",
       "type": "adm2",
@@ -489,7 +489,7 @@
     },
     {
       "id": 64509,
-      "name": "토미야",
+      "name": "도미야 정",
       "name_default": "Tomiya",
       "native": "富谷",
       "type": "city",
@@ -507,9 +507,9 @@
     },
     {
       "id": 64622,
-      "name": "와쿠야",
+      "name": "와쿠야정",
       "name_default": "Wakuya",
-      "native": "ワクヤ",
+      "native": "涌谷町",
       "type": "city",
       "level": null,
       "parent_id": null,

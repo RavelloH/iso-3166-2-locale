@@ -154,7 +154,7 @@
     },
     {
       "id": 19343,
-      "name": "بينزو",
+      "name": "بينزهو",
       "name_default": "Binzhou",
       "native": "滨州",
       "type": "prefecture",
@@ -514,7 +514,7 @@
     },
     {
       "id": 19455,
-      "name": "ديتشو",
+      "name": "دتشو",
       "name_default": "Dezhou",
       "native": "德州",
       "type": "prefecture",
@@ -856,7 +856,7 @@
     },
     {
       "id": 19541,
-      "name": "جاومي",
+      "name": "غاومي",
       "name_default": "Gaomi",
       "native": "高密",
       "type": "adm3",
@@ -874,7 +874,7 @@
     },
     {
       "id": 158938,
-      "name": "جاومي",
+      "name": "غاومي",
       "name_default": "Gaomi",
       "native": "高密",
       "type": "city",
@@ -1306,7 +1306,7 @@
     },
     {
       "id": 19741,
-      "name": "جيننج",
+      "name": "جينينغ",
       "name_default": "Jining",
       "native": "济宁",
       "type": "prefecture",
@@ -1540,7 +1540,7 @@
     },
     {
       "id": 19790,
-      "name": "ليوو",
+      "name": "لايوو",
       "name_default": "Laiwu",
       "native": "莱芜",
       "type": "prefecture",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": 19791,
-      "name": "لايكسي",
+      "name": "لايشي",
       "name_default": "Laixi",
       "native": "莱西",
       "type": "adm3",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 158897,
-      "name": "لايكسي",
+      "name": "لايشي",
       "name_default": "Laixi",
       "native": "莱西",
       "type": "city",
@@ -1594,7 +1594,7 @@
     },
     {
       "id": 19792,
-      "name": "لايانغ",
+      "name": "لاي يانغ",
       "name_default": "Laiyang",
       "native": "莱阳",
       "type": "city",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": 158923,
-      "name": "لايانغ",
+      "name": "لاي يانغ",
       "name_default": "Laiyang",
       "native": "莱阳",
       "type": "city",
@@ -1650,7 +1650,7 @@
       "id": 158924,
       "name": "لايتشو",
       "name_default": "Laizhou",
-      "native": "莱",
+      "native": "莱州市",
       "type": "city",
       "level": "2",
       "parent_id": "20356",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": 19828,
-      "name": "ياوتشنغ",
+      "name": "لياوتشنغ",
       "name_default": "Liaocheng",
       "native": "聊城",
       "type": "prefecture",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": 158995,
-      "name": "لينكينج",
+      "name": "لينكنغ",
       "name_default": "Linqing",
       "native": "临清",
       "type": "city",
@@ -1936,9 +1936,9 @@
     },
     {
       "id": 19856,
-      "name": "لينيي",
+      "name": "ليني",
       "name_default": "Linyi",
-      "native": "临邑",
+      "native": "临沂市",
       "type": "prefecture",
       "level": "1",
       "parent_id": null,
@@ -2278,7 +2278,7 @@
     },
     {
       "id": 19978,
-      "name": "بينجدو",
+      "name": "بينغدو",
       "name_default": "Pingdu",
       "native": "平度",
       "type": "adm3",
@@ -2296,7 +2296,7 @@
     },
     {
       "id": 158896,
-      "name": "بينجدو",
+      "name": "بينغدو",
       "name_default": "Pingdu",
       "native": "平度",
       "type": "city",
@@ -2532,7 +2532,7 @@
       "id": 158934,
       "name": "تشينغتشو",
       "name_default": "Qingzhou",
-      "native": "青",
+      "native": "青州市",
       "type": "city",
       "level": "2",
       "parent_id": "20213",
@@ -2548,7 +2548,7 @@
     },
     {
       "id": 158926,
-      "name": "كيكسيا",
+      "name": "تشيشيا",
       "name_default": "Qixia",
       "native": "栖霞",
       "type": "city",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": 20037,
-      "name": "تشوفو",
+      "name": "تشيوفو",
       "name_default": "Qufu",
       "native": "曲阜",
       "type": "city",
@@ -2584,7 +2584,7 @@
     },
     {
       "id": 158949,
-      "name": "تشوفو",
+      "name": "تشيوفو",
       "name_default": "Qufu",
       "native": "曲阜",
       "type": "city",
@@ -3106,9 +3106,9 @@
     },
     {
       "id": 158910,
-      "name": "تنغتشو",
+      "name": "تينغتشو",
       "name_default": "Tengzhou",
-      "native": "滕",
+      "native": "滕州市",
       "type": "city",
       "level": "2",
       "parent_id": "20415",

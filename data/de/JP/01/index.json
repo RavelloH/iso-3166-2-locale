@@ -237,9 +237,9 @@
     },
     {
       "id": 63322,
-      "name": "Datum",
+      "name": "Date",
       "name_default": "Date",
-      "native": "日付",
+      "native": "伊達市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -327,7 +327,7 @@
     },
     {
       "id": 63357,
-      "name": "Fukagawa-shi",
+      "name": "Fukagawa",
       "name_default": "Fukagawa-shi",
       "native": "深川市",
       "type": "city",
@@ -615,7 +615,7 @@
     },
     {
       "id": 63886,
-      "name": "Kushiro",
+      "name": "Kushiro-shi",
       "name_default": "Kushiro",
       "native": "釧路",
       "type": "adm2",
@@ -671,7 +671,7 @@
       "id": 63951,
       "name": "Mikasa",
       "name_default": "Mikasa",
-      "native": "ミカサ",
+      "native": "三笠市",
       "type": "adm2",
       "level": null,
       "parent_id": null,
@@ -1245,7 +1245,7 @@
     },
     {
       "id": 64565,
-      "name": "Tobetsu",
+      "name": "Tōbetsu",
       "name_default": "Tōbetsu",
       "native": "当別",
       "type": "city",

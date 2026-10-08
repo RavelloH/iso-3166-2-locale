@@ -93,7 +93,7 @@
     },
     {
       "id": 57632,
-      "name": "Åland",
+      "name": "Aland",
       "name_default": "Aland",
       "native": "अलैंड",
       "type": "city",
@@ -237,7 +237,7 @@
     },
     {
       "id": 57757,
-      "name": "Athen",
+      "name": "Athni",
       "name_default": "Athani",
       "native": "अथनी",
       "type": "city",
@@ -579,7 +579,7 @@
     },
     {
       "id": 57847,
-      "name": "Bengaluru Ländlich",
+      "name": "Bengaluru Rural",
       "name_default": "Bengaluru Rural",
       "native": "बेंगलुरु ग्रामीण",
       "type": "area",
@@ -705,7 +705,7 @@
     },
     {
       "id": 58042,
-      "name": "Bilgi",
+      "name": "Bilagi",
       "name_default": "Bilgi",
       "native": "बिल्गी",
       "type": "city",
@@ -867,7 +867,7 @@
     },
     {
       "id": 58199,
-      "name": "Channarayapatna",
+      "name": "Channarayapattana",
       "name_default": "Channarayapatna",
       "native": "चन्नारायपत्ना",
       "type": "city",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 131616,
-      "name": "Closepet",
+      "name": "Ramanagara",
       "name_default": "Closepet",
       "native": "क्लोज़पेट",
       "type": "city",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 131652,
-      "name": "Löwenli",
+      "name": "Dandeli",
       "name_default": "Dandeli",
       "native": "डांडेली",
       "type": "city",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 131780,
-      "name": "Dod Ballapur",
+      "name": "Dodballapur",
       "name_default": "Doddaballapura",
       "native": "डोड बल्लापुर",
       "type": "city",
@@ -1427,7 +1427,7 @@
       "id": 132034,
       "name": "Gurmatkal",
       "name_default": "Gurmatkal",
-      "native": "गुरमितकल",
+      "native": "गुरमठकल",
       "type": "city",
       "level": null,
       "parent_id": null,
@@ -1965,7 +1965,7 @@
     },
     {
       "id": 132165,
-      "name": "Indien",
+      "name": "Indi",
       "name_default": "Indi",
       "native": "इंडी",
       "type": "city",
@@ -2173,7 +2173,7 @@
       "latitude": "12.54540890",
       "longitude": "77.41322860",
       "timezone": "Asia/Kolkata",
-      "wikiDataId": "",
+      "wikiDataId": null,
       "country_code": "IN",
       "state_code": "KA",
       "state_id": 4026,
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 132774,
-      "name": "London",
+      "name": "Londa",
       "name_default": "Londa",
       "native": "लोंदा",
       "type": "city",
@@ -3189,7 +3189,7 @@
     },
     {
       "id": 133027,
-      "name": "Mundgott",
+      "name": "Mundgod",
       "name_default": "Mundgod",
       "native": "मुंडगोड",
       "type": "city",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": 134024,
-      "name": "Sravana Belgola",
+      "name": "Shravanabelagola",
       "name_default": "Sravana Belgola",
       "native": "श्रवण बेलगोला",
       "type": "city",
@@ -4323,7 +4323,7 @@
     },
     {
       "id": 134176,
-      "name": "Tipp",
+      "name": "Tiptur",
       "name_default": "Tiptur",
       "native": "तिप्तूर",
       "type": "city",
@@ -4485,7 +4485,7 @@
     },
     {
       "id": 58031,
-      "name": "Vijayapura",
+      "name": "Bijapur",
       "name_default": "Vijayapura",
       "native": "विजयपुरा",
       "type": "city",

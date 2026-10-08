@@ -118,7 +118,7 @@
     },
     {
       "id": 19333,
-      "name": "베이피아오",
+      "name": "베이퍄오시",
       "name_default": "Beipiao",
       "native": "北票",
       "type": "city",
@@ -136,7 +136,7 @@
     },
     {
       "id": 158703,
-      "name": "베이피아오",
+      "name": "베이퍄오시",
       "name_default": "Beipiao",
       "native": "北票",
       "type": "city",
@@ -154,7 +154,7 @@
     },
     {
       "id": 158666,
-      "name": "베이젠",
+      "name": "베이전시",
       "name_default": "Beizhen",
       "native": "北镇",
       "type": "city",
@@ -352,7 +352,7 @@
     },
     {
       "id": 158672,
-      "name": "다시교",
+      "name": "다스차오시",
       "name_default": "Dashiqiao",
       "native": "大石桥",
       "type": "city",
@@ -388,9 +388,9 @@
     },
     {
       "id": 158686,
-      "name": "뎅타",
+      "name": "덩타시",
       "name_default": "Dengta",
-      "native": "邓塔",
+      "native": "灯塔市",
       "type": "city",
       "level": "2",
       "parent_id": "19829",
@@ -406,7 +406,7 @@
     },
     {
       "id": 158696,
-      "name": "디아오빙산",
+      "name": "댜오빙산시",
       "name_default": "Diaobingshan",
       "native": "调兵山",
       "type": "city",
@@ -496,7 +496,7 @@
     },
     {
       "id": 19504,
-      "name": "펑청",
+      "name": "펑청시",
       "name_default": "Fengcheng",
       "native": "凤城",
       "type": "city",
@@ -514,7 +514,7 @@
     },
     {
       "id": 158659,
-      "name": "펑청",
+      "name": "펑청시",
       "name_default": "Fengcheng",
       "native": "凤城",
       "type": "city",
@@ -568,7 +568,7 @@
     },
     {
       "id": 19533,
-      "name": "가이저우",
+      "name": "가이저우시",
       "name_default": "Gaizhou",
       "native": "盖州",
       "type": "adm3",
@@ -676,7 +676,7 @@
     },
     {
       "id": 19583,
-      "name": "하이청",
+      "name": "하이청시",
       "name_default": "Haicheng",
       "native": "海城",
       "type": "adm3",
@@ -694,7 +694,7 @@
     },
     {
       "id": 158640,
-      "name": "하이청",
+      "name": "하이청시",
       "name_default": "Haicheng",
       "native": "海城",
       "type": "city",
@@ -856,7 +856,7 @@
     },
     {
       "id": 19678,
-      "name": "후루다오",
+      "name": "후루다오시",
       "name_default": "Huludao",
       "native": "葫芦岛",
       "type": "prefecture",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": 19829,
-      "name": "랴오양",
+      "name": "랴오양시",
       "name_default": "Liaoyang",
       "native": "辽阳",
       "type": "prefecture",
@@ -1252,7 +1252,7 @@
     },
     {
       "id": 158665,
-      "name": "링하이",
+      "name": "링하이시",
       "name_default": "Linghai",
       "native": "凌海",
       "type": "city",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 19843,
-      "name": "링위안",
+      "name": "링위안시",
       "name_default": "Lingyuan",
       "native": "凌源",
       "type": "city",
@@ -1738,7 +1738,7 @@
     },
     {
       "id": 20090,
-      "name": "선양",
+      "name": "선양시",
       "name_default": "Shenyang",
       "native": "沈阳",
       "type": "prefecture",
@@ -2008,7 +2008,7 @@
     },
     {
       "id": 20206,
-      "name": "와팡디안",
+      "name": "와팡뎬시",
       "name_default": "Wafangdian",
       "native": "瓦房店",
       "type": "city",
@@ -2026,7 +2026,7 @@
     },
     {
       "id": 158633,
-      "name": "와팡디안",
+      "name": "와팡뎬시",
       "name_default": "Wafangdian",
       "native": "瓦房店",
       "type": "city",
@@ -2224,7 +2224,7 @@
     },
     {
       "id": 20293,
-      "name": "싱청",
+      "name": "싱청시",
       "name_default": "Xingcheng",
       "native": "兴城",
       "type": "city",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": 20302,
-      "name": "신민",
+      "name": "신민시",
       "name_default": "Xinmin",
       "native": "新民",
       "type": "city",
@@ -2296,7 +2296,7 @@
     },
     {
       "id": 158624,
-      "name": "신민",
+      "name": "신민시",
       "name_default": "Xinmin",
       "native": "新民",
       "type": "city",
@@ -2422,7 +2422,7 @@
     },
     {
       "id": 20378,
-      "name": "잉커우",
+      "name": "잉커우시",
       "name_default": "Yingkou",
       "native": "营口",
       "type": "prefecture",
@@ -2602,7 +2602,7 @@
     },
     {
       "id": 20464,
-      "name": "장허",
+      "name": "좡허시",
       "name_default": "Zhuanghe",
       "native": "庄河",
       "type": "city",
@@ -2620,7 +2620,7 @@
     },
     {
       "id": 158634,
-      "name": "장허",
+      "name": "좡허시",
       "name_default": "Zhuanghe",
       "native": "庄河",
       "type": "city",

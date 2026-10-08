@@ -298,7 +298,7 @@
     },
     {
       "id": 19481,
-      "name": "دونغيانغ",
+      "name": "دونغ يانغ",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "adm3",
@@ -316,7 +316,7 @@
     },
     {
       "id": 159507,
-      "name": "دونغيانغ",
+      "name": "دونغ يانغ",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "city",
@@ -586,7 +586,7 @@
     },
     {
       "id": 159459,
-      "name": "جيانده",
+      "name": "جياندا",
       "name_default": "Jiande",
       "native": "建德",
       "type": "city",
@@ -730,7 +730,7 @@
     },
     {
       "id": 19715,
-      "name": "جياشينغ شي",
+      "name": "جياشينغ",
       "name_default": "Jiaxing",
       "native": "嘉兴市",
       "type": "adm2",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": 159487,
-      "name": "بينغهو",
+      "name": "بنغهو",
       "name_default": "Pinghu",
       "native": "平湖",
       "type": "city",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 20039,
-      "name": "تشوتشو",
+      "name": "كو زهو",
       "name_default": "Quzhou",
       "native": "衢州",
       "type": "prefecture",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": 20082,
-      "name": "شاوشينغ",
+      "name": "شاوكسينج",
       "name_default": "Shaoxing",
       "native": "绍兴",
       "type": "prefecture",
@@ -1648,9 +1648,9 @@
     },
     {
       "id": 159499,
-      "name": "شينغتشو",
+      "name": "شينغزو",
       "name_default": "Shengzhou",
-      "native": "嵊",
+      "native": "嵊州市",
       "type": "city",
       "level": "2",
       "parent_id": "20082",
@@ -1828,7 +1828,7 @@
     },
     {
       "id": 20219,
-      "name": "وينلينغ",
+      "name": "نلينغ",
       "name_default": "Wenling",
       "native": "温岭",
       "type": "city",
@@ -1846,7 +1846,7 @@
     },
     {
       "id": 159525,
-      "name": "وينلينغ",
+      "name": "نلينغ",
       "name_default": "Wenling",
       "native": "温岭",
       "type": "city",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": 20226,
-      "name": "ونتشو",
+      "name": "ونجو",
       "name_default": "Wenzhou",
       "native": "温州",
       "type": "prefecture",
@@ -2208,7 +2208,7 @@
       "id": 159480,
       "name": "يويهتشينغ",
       "name_default": "Yueqing",
-      "native": "岳清",
+      "native": "乐清市",
       "type": "city",
       "level": "2",
       "parent_id": "20226",
@@ -2298,7 +2298,7 @@
       "id": 159468,
       "name": "يوياو",
       "name_default": "Yuyao",
-      "native": "余瑶",
+      "native": "余姚市",
       "type": "city",
       "level": "2",
       "parent_id": "19959",
@@ -2368,7 +2368,7 @@
     },
     {
       "id": 20461,
-      "name": "تشوشان",
+      "name": "زهوشان",
       "name_default": "Zhoushan",
       "native": "舟山",
       "type": "prefecture",

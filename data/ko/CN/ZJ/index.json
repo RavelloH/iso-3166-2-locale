@@ -298,7 +298,7 @@
     },
     {
       "id": 19481,
-      "name": "동양",
+      "name": "둥양시",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "adm3",
@@ -316,7 +316,7 @@
     },
     {
       "id": 159507,
-      "name": "동양",
+      "name": "둥양시",
       "name_default": "Dongyang",
       "native": "东阳",
       "type": "city",
@@ -442,7 +442,7 @@
     },
     {
       "id": 19591,
-      "name": "하이닝",
+      "name": "하이닝시",
       "name_default": "Haining",
       "native": "海宁",
       "type": "adm3",
@@ -460,7 +460,7 @@
     },
     {
       "id": 159486,
-      "name": "하이닝",
+      "name": "하이닝시",
       "name_default": "Haining",
       "native": "海宁",
       "type": "city",
@@ -568,7 +568,7 @@
     },
     {
       "id": 19689,
-      "name": "후저우",
+      "name": "후저우시",
       "name_default": "Huzhou",
       "native": "湖州",
       "type": "prefecture",
@@ -586,7 +586,7 @@
     },
     {
       "id": 159459,
-      "name": "젠더",
+      "name": "젠더시",
       "name_default": "Jiande",
       "native": "建德",
       "type": "city",
@@ -712,7 +712,7 @@
     },
     {
       "id": 19714,
-      "name": "자싱",
+      "name": "자싱시",
       "name_default": "Jiaxing",
       "native": "嘉兴",
       "type": "prefecture",
@@ -730,7 +730,7 @@
     },
     {
       "id": 19715,
-      "name": "시 자싱",
+      "name": "자싱시",
       "name_default": "Jiaxing",
       "native": "嘉兴市",
       "type": "adm2",
@@ -784,7 +784,7 @@
     },
     {
       "id": 19740,
-      "name": "진화",
+      "name": "진화시",
       "name_default": "Jinhua",
       "native": "金华",
       "type": "prefecture",
@@ -910,7 +910,7 @@
     },
     {
       "id": 19801,
-      "name": "란시",
+      "name": "란시시",
       "name_default": "Lanxi",
       "native": "兰溪",
       "type": "city",
@@ -928,7 +928,7 @@
     },
     {
       "id": 159505,
-      "name": "란시",
+      "name": "란시시",
       "name_default": "Lanxi",
       "native": "兰溪",
       "type": "city",
@@ -1000,7 +1000,7 @@
     },
     {
       "id": 19844,
-      "name": "린하이",
+      "name": "린하이시",
       "name_default": "Linhai",
       "native": "临海",
       "type": "adm3",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": 159526,
-      "name": "린하이",
+      "name": "린하이시",
       "name_default": "Linhai",
       "native": "临海",
       "type": "city",
@@ -1072,7 +1072,7 @@
     },
     {
       "id": 19858,
-      "name": "리수이",
+      "name": "리수이시",
       "name_default": "Lishui",
       "native": "丽水",
       "type": "prefecture",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 159536,
-      "name": "롱취안",
+      "name": "룽취안시",
       "name_default": "Longquan",
       "native": "龙泉",
       "type": "city",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": 159487,
-      "name": "핑후",
+      "name": "핑후시",
       "name_default": "Pinghu",
       "native": "平湖",
       "type": "city",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": 159516,
-      "name": "푸퉈",
+      "name": "푸퉈구",
       "name_default": "Putuo",
       "native": "普陀",
       "type": "district",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 20039,
-      "name": "취저우",
+      "name": "취저우시",
       "name_default": "Quzhou",
       "native": "衢州",
       "type": "prefecture",
@@ -1522,7 +1522,7 @@
     },
     {
       "id": 159479,
-      "name": "루이안",
+      "name": "뤼안시",
       "name_default": "Rui'an",
       "native": "瑞安",
       "type": "city",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": 20082,
-      "name": "사오싱",
+      "name": "사오싱시",
       "name_default": "Shaoxing",
       "native": "绍兴",
       "type": "prefecture",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": 159518,
-      "name": "성시",
+      "name": "성쓰현",
       "name_default": "Shengsi",
       "native": "嵊泗",
       "type": "county",
@@ -1648,9 +1648,9 @@
     },
     {
       "id": 159499,
-      "name": "성저우",
+      "name": "성저우시",
       "name_default": "Shengzhou",
-      "native": "嵊",
+      "native": "嵊州市",
       "type": "city",
       "level": "2",
       "parent_id": "20082",
@@ -1828,7 +1828,7 @@
     },
     {
       "id": 20219,
-      "name": "웬링",
+      "name": "원링시",
       "name_default": "Wenling",
       "native": "温岭",
       "type": "city",
@@ -1846,7 +1846,7 @@
     },
     {
       "id": 159525,
-      "name": "웬링",
+      "name": "원링시",
       "name_default": "Wenling",
       "native": "温岭",
       "type": "city",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": 20226,
-      "name": "원저우",
+      "name": "원저우시",
       "name_default": "Wenzhou",
       "native": "温州",
       "type": "prefecture",
@@ -2116,7 +2116,7 @@
     },
     {
       "id": 20383,
-      "name": "이우",
+      "name": "이우시",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "adm3",
@@ -2134,7 +2134,7 @@
     },
     {
       "id": 159506,
-      "name": "이우",
+      "name": "이우시",
       "name_default": "Yiwu",
       "native": "义乌",
       "type": "city",
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 159508,
-      "name": "용강",
+      "name": "융캉시",
       "name_default": "Yongkang",
       "native": "永康",
       "type": "city",
@@ -2206,9 +2206,9 @@
     },
     {
       "id": 159480,
-      "name": "월청",
+      "name": "웨칭시",
       "name_default": "Yueqing",
-      "native": "岳清",
+      "native": "乐清市",
       "type": "city",
       "level": "2",
       "parent_id": "20226",
@@ -2242,7 +2242,7 @@
     },
     {
       "id": 159527,
-      "name": "옥환",
+      "name": "위환시",
       "name_default": "Yuhuan",
       "native": "玉环",
       "type": "city",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": 20411,
-      "name": "위야오",
+      "name": "위야오시",
       "name_default": "Yuyao",
       "native": "余姚",
       "type": "adm3",
@@ -2296,9 +2296,9 @@
     },
     {
       "id": 159468,
-      "name": "위야오",
+      "name": "위야오시",
       "name_default": "Yuyao",
-      "native": "余瑶",
+      "native": "余姚市",
       "type": "city",
       "level": "2",
       "parent_id": "19959",
@@ -2368,7 +2368,7 @@
     },
     {
       "id": 20461,
-      "name": "저우산",
+      "name": "저우산시",
       "name_default": "Zhoushan",
       "native": "舟山",
       "type": "prefecture",
@@ -2386,7 +2386,7 @@
     },
     {
       "id": 20467,
-      "name": "주지",
+      "name": "주지시",
       "name_default": "Zhuji",
       "native": "诸暨",
       "type": "adm3",
@@ -2404,7 +2404,7 @@
     },
     {
       "id": 159498,
-      "name": "주지",
+      "name": "주지시",
       "name_default": "Zhuji",
       "native": "诸暨",
       "type": "city",

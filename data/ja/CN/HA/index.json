@@ -352,9 +352,9 @@
     },
     {
       "id": 158083,
-      "name": "鄧州",
+      "name": "鄧州市",
       "name_default": "Dengzhou",
-      "native": "登州",
+      "native": "邓州市",
       "type": "city",
       "level": "2",
       "parent_id": "19950",
@@ -496,7 +496,7 @@
     },
     {
       "id": 157972,
-      "name": "鞏義",
+      "name": "鞏義市",
       "name_default": "Gongyi",
       "native": "巩义",
       "type": "city",
@@ -604,7 +604,7 @@
     },
     {
       "id": 19602,
-      "name": "蛇壁",
+      "name": "鶴壁市",
       "name_default": "Hebi",
       "native": "鹤壁",
       "type": "prefecture",
@@ -838,7 +838,7 @@
     },
     {
       "id": 158034,
-      "name": "恵県",
+      "name": "輝県市",
       "name_default": "Huixian",
       "native": "辉县",
       "type": "city",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": 19761,
-      "name": "済源",
+      "name": "済源市",
       "name_default": "Jiyuan",
       "native": "济源",
       "type": "adm2",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": 158124,
-      "name": "済源",
+      "name": "済源市",
       "name_default": "Jiyuan",
       "native": "济源",
       "type": "city",
@@ -1270,7 +1270,7 @@
     },
     {
       "id": 19883,
-      "name": "洛河",
+      "name": "漯河市",
       "name_default": "Luohe",
       "native": "漯河",
       "type": "prefecture",
@@ -1468,9 +1468,9 @@
     },
     {
       "id": 158045,
-      "name": "孟州",
+      "name": "孟州市",
       "name_default": "Mengzhou",
-      "native": "孟",
+      "native": "孟州市",
       "type": "city",
       "level": "2",
       "parent_id": "19712",
@@ -1666,7 +1666,7 @@
     },
     {
       "id": 19977,
-      "name": "平頂山",
+      "name": "平頂山市",
       "name_default": "Pingdingshan",
       "native": "平顶山",
       "type": "prefecture",
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 158046,
-      "name": "濮陽",
+      "name": "濮陽市",
       "name_default": "Puyang",
       "native": "濮阳",
       "type": "prefecture",
@@ -1828,7 +1828,7 @@
     },
     {
       "id": 158044,
-      "name": "秦陽",
+      "name": "沁陽市",
       "name_default": "Qinyang",
       "native": "沁阳",
       "type": "city",
@@ -1936,7 +1936,7 @@
     },
     {
       "id": 20048,
-      "name": "如",
+      "name": "汝州市",
       "name_default": "Ruzhou",
       "native": "汝州",
       "type": "adm3",
@@ -1954,9 +1954,9 @@
     },
     {
       "id": 158010,
-      "name": "如州",
+      "name": "汝州市",
       "name_default": "Ruzhou",
-      "native": "汝",
+      "native": "汝州市",
       "type": "city",
       "level": "2",
       "parent_id": "19977",
@@ -2062,7 +2062,7 @@
     },
     {
       "id": 20066,
-      "name": "商丘",
+      "name": "商丘市",
       "name_default": "Shangqiu",
       "native": "商丘",
       "type": "prefecture",
@@ -2566,9 +2566,9 @@
     },
     {
       "id": 158033,
-      "name": "威輝",
+      "name": "衛輝市",
       "name_default": "Weihui",
-      "native": "伟辉",
+      "native": "卫辉市",
       "type": "city",
       "level": "2",
       "parent_id": "20308",
@@ -2656,9 +2656,9 @@
     },
     {
       "id": 158009,
-      "name": "武剛",
+      "name": "舞鋼市",
       "name_default": "Wugang",
-      "native": "武冈",
+      "native": "舞钢市",
       "type": "city",
       "level": "2",
       "parent_id": "19977",
@@ -2890,7 +2890,7 @@
     },
     {
       "id": 157973,
-      "name": "興陽",
+      "name": "滎陽市",
       "name_default": "Xingyang",
       "native": "荥阳",
       "type": "city",
@@ -2944,7 +2944,7 @@
     },
     {
       "id": 157974,
-      "name": "新密",
+      "name": "新密市",
       "name_default": "Xinmi",
       "native": "新密",
       "type": "city",
@@ -3394,7 +3394,7 @@
     },
     {
       "id": 20373,
-      "name": "イマ",
+      "name": "義馬市",
       "name_default": "Yima",
       "native": "义马",
       "type": "city",
@@ -3412,9 +3412,9 @@
     },
     {
       "id": 158069,
-      "name": "イマ",
+      "name": "義馬市",
       "name_default": "Yima",
-      "native": "伊玛",
+      "native": "义马市",
       "type": "city",
       "level": "2",
       "parent_id": "158064",
@@ -3664,7 +3664,7 @@
     },
     {
       "id": 20439,
-      "name": "鄭",
+      "name": "鄭州市",
       "name_default": "Zhengzhou",
       "native": "郑州",
       "type": "prefecture",
@@ -3772,7 +3772,7 @@
     },
     {
       "id": 20470,
-      "name": "駐馬店",
+      "name": "駐馬店市",
       "name_default": "Zhumadian",
       "native": "驻马店",
       "type": "prefecture",

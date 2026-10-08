@@ -57,7 +57,7 @@
   "cities": [
     {
       "id": 66448,
-      "name": "أمبالانجودا",
+      "name": "أمبالانغودا",
       "name_default": "Ambalangoda",
       "native": "අම්බලන්ගොඩ",
       "type": "city",
@@ -93,7 +93,7 @@
     },
     {
       "id": 66458,
-      "name": "بنتوتا",
+      "name": "بينتوتا",
       "name_default": "Bentota",
       "native": "බෙන්ටෝටා",
       "type": "city",
@@ -129,7 +129,7 @@
     },
     {
       "id": 66468,
-      "name": "جالي",
+      "name": "غالي",
       "name_default": "Galle",
       "native": "ගාල්ල",
       "type": "adm1",
@@ -147,7 +147,7 @@
     },
     {
       "id": 66469,
-      "name": "منطقة جالي",
+      "name": "مديرية جالي",
       "name_default": "Galle District",
       "native": "ගාල්ල දිස්ත්රික්කය",
       "type": "district",
@@ -237,7 +237,7 @@
     },
     {
       "id": 66508,
-      "name": "منطقة ماتارا",
+      "name": "مديرية ماتارا",
       "name_default": "Matara District",
       "native": "මාතර දිස්ත්රික්කය",
       "type": "district",
@@ -291,7 +291,7 @@
     },
     {
       "id": 66533,
-      "name": "تانغال",
+      "name": "تانجالي",
       "name_default": "Tangalle",
       "native": "තංගල්ල",
       "type": "city",
@@ -327,9 +327,9 @@
     },
     {
       "id": 66543,
-      "name": "ويليغاما",
+      "name": "فيليغاما",
       "name_default": "Weligama",
-      "native": "කවදාවත්",
+      "native": "වැලිගම",
       "type": "city",
       "level": null,
       "parent_id": null,
