@@ -54,5 +54,42 @@
     "wikiDataId": "Q23890528",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31651,
+      "name": "Локса",
+      "name_default": "Loksa",
+      "native": "Loksa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3463,
+      "latitude": "59.57639000",
+      "longitude": "25.72139000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q213740",
+      "country_code": "EE",
+      "state_code": "424",
+      "state_id": 5803,
+      "country_id": 69
+    },
+    {
+      "id": 31652,
+      "name": "Локса Лінн",
+      "name_default": "Loksa linn",
+      "native": "Loksa linn",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.57844000",
+      "longitude": "25.71667000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q23890528",
+      "country_code": "EE",
+      "state_code": "424",
+      "state_id": 5803,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q44857261",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31713,
+      "name": "Сымеру",
+      "name_default": "Sõmeru",
+      "native": "Sõmeru",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1199,
+      "latitude": "59.36111000",
+      "longitude": "26.43750000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3462156",
+      "country_code": "EE",
+      "state_code": "661",
+      "state_id": 5776,
+      "country_id": 69
+    }
+  ]
 }

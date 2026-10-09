@@ -54,5 +54,42 @@
     "wikiDataId": "Q42808650",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31611,
+      "name": "یاروا-یانی",
+      "name_default": "Järva-Jaani",
+      "native": "Järva-Jaani",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 983,
+      "latitude": "59.03861000",
+      "longitude": "25.88639000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2028864",
+      "country_code": "EE",
+      "state_code": "255",
+      "state_id": 5747,
+      "country_id": 69
+    },
+    {
+      "id": 31635,
+      "name": "کوئرو",
+      "name_default": "Koeru",
+      "native": "Koeru",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1121,
+      "latitude": "58.96306000",
+      "longitude": "26.03083000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2604576",
+      "country_code": "EE",
+      "state_code": "255",
+      "state_id": 5747,
+      "country_id": 69
+    }
+  ]
 }

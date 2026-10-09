@@ -54,5 +54,24 @@
     "wikiDataId": "Q868792",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67973,
+      "name": "مچینجی",
+      "name_default": "Mchinji",
+      "native": "Mchinji",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 31592,
+      "latitude": "-13.79841000",
+      "longitude": "32.88019000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1188150",
+      "country_code": "MW",
+      "state_code": "MC",
+      "state_id": 3099,
+      "country_id": 131
+    }
+  ]
 }

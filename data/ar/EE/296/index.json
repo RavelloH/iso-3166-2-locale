@@ -54,5 +54,24 @@
     "wikiDataId": "Q23890555",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31629,
+      "name": "كايلا",
+      "name_default": "Keila",
+      "native": "Keila",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 10964,
+      "latitude": "59.30361000",
+      "longitude": "24.41306000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q207275",
+      "country_code": "EE",
+      "state_code": "296",
+      "state_id": 5801,
+      "country_id": 69
+    }
+  ]
 }

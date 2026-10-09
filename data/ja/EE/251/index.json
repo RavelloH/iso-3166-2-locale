@@ -54,5 +54,42 @@
     "wikiDataId": "Q1640282",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31616,
+      "name": "ユフヴィ",
+      "name_default": "Jõhvi",
+      "native": "Jõhvi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 10880,
+      "latitude": "59.35917000",
+      "longitude": "27.42111000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q211059",
+      "country_code": "EE",
+      "state_code": "251",
+      "state_id": 5746,
+      "country_id": 69
+    },
+    {
+      "id": 31745,
+      "name": "ヴォカ",
+      "name_default": "Voka",
+      "native": "Voka",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 754,
+      "latitude": "59.40776000",
+      "longitude": "27.58263000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1024196",
+      "country_code": "EE",
+      "state_code": "251",
+      "state_id": 5746,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q31277892",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31645,
+      "name": "캐르들라",
+      "name_default": "Kärdla",
+      "native": "Kärdla",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 2921,
+      "latitude": "58.99778000",
+      "longitude": "22.74917000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q155066",
+      "country_code": "EE",
+      "state_code": "205",
+      "state_id": 5742,
+      "country_id": 69
+    }
+  ]
 }

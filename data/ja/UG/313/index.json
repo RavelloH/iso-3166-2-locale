@@ -54,5 +54,24 @@
     "wikiDataId": "Q1362587",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110964,
+      "name": "ユンベ",
+      "name_default": "Yumbe",
+      "native": "Yumbe",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 47600,
+      "latitude": "3.46506000",
+      "longitude": "31.24689000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2488907",
+      "country_code": "UG",
+      "state_code": "313",
+      "state_id": 330,
+      "country_id": 229
+    }
+  ]
 }

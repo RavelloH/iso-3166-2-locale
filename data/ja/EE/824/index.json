@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627973",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31728,
+      "name": "トルヴァ",
+      "name_default": "Tõrva",
+      "native": "Tõrva",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2631,
+      "latitude": "58.00278000",
+      "longitude": "25.93500000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q819514",
+      "country_code": "EE",
+      "state_code": "824",
+      "state_id": 5790,
+      "country_id": 69
+    }
+  ]
 }

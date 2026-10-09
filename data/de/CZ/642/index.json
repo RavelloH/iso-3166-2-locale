@@ -45,7 +45,7 @@
     "name_default": "Brno-město",
     "native": "Brno-město",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "4602",
     "population": 402739,
     "latitude": "49.19506020",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q850531",
     "country_code": "CZ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 22166,
+      "name": "Brünn",
+      "name_default": "Brno",
+      "native": "Brno",
+      "type": "city",
+      "level": "3",
+      "parent_id": null,
+      "population": 402739,
+      "latitude": "49.19522000",
+      "longitude": "16.60796000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q14960",
+      "country_code": "CZ",
+      "state_code": "642",
+      "state_id": 4568,
+      "country_id": 58
+    },
+    {
+      "id": 22712,
+      "name": "Mokrá Hora",
+      "name_default": "Mokrá Hora",
+      "native": "Mokrá Hora",
+      "type": "section",
+      "level": "4",
+      "parent_id": "22166",
+      "population": 2612,
+      "latitude": "49.26176000",
+      "longitude": "16.59107000",
+      "timezone": "Europe/Prague",
+      "wikiDataId": "Q12038508",
+      "country_code": "CZ",
+      "state_code": "642",
+      "state_id": 4568,
+      "country_id": 58
+    }
+  ]
 }

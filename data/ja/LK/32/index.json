@@ -45,7 +45,7 @@
     "name_default": "Matara",
     "native": "මාතර",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2801",
     "population": null,
     "latitude": "5.94493480",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1281285",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66543,
+      "name": "ウェリガマ",
+      "name_default": "Weligama",
+      "native": "වැලිගම",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 22179,
+      "latitude": "5.97501000",
+      "longitude": "80.42968000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q3534843",
+      "country_code": "LK",
+      "state_code": "32",
+      "state_id": 2806,
+      "country_id": 208
+    }
+  ]
 }

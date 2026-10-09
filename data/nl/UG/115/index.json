@@ -54,5 +54,24 @@
     "wikiDataId": "Q1230005",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110936,
+      "name": "Mityana",
+      "name_default": "Mityana",
+      "native": "Mityana",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 105200,
+      "latitude": "0.41750000",
+      "longitude": "32.02278000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2267729",
+      "country_code": "UG",
+      "state_code": "115",
+      "state_id": 364,
+      "country_id": 229
+    }
+  ]
 }

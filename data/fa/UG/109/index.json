@@ -54,5 +54,24 @@
     "wikiDataId": "Q976859",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110944,
+      "name": "ناکاسونگولا",
+      "name_default": "Nakasongola",
+      "native": "Nakasongola",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 6921,
+      "latitude": "1.30889000",
+      "longitude": "32.45639000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q3530559",
+      "country_code": "UG",
+      "state_code": "109",
+      "state_id": 406,
+      "country_id": 229
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q1365304",
     "country_code": "FJ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 39138,
+      "name": "람바사",
+      "name_default": "Labasa",
+      "native": "Labasa",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 27949,
+      "latitude": "-16.43320000",
+      "longitude": "179.36451000",
+      "timezone": "Pacific/Fiji",
+      "wikiDataId": "Q579556",
+      "country_code": "FJ",
+      "state_code": "07",
+      "state_id": 1922,
+      "country_id": 73
+    }
+  ]
 }

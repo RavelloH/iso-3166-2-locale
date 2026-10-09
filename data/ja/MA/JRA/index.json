@@ -61,5 +61,24 @@
     "wikiDataId": "Q1687516",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67075,
+      "name": "アイン・ベニ・マタル",
+      "name_default": "Aïn Beni Mathar",
+      "native": "عين بني مطهر",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 17787,
+      "latitude": "34.00970000",
+      "longitude": "-2.03238000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q794128",
+      "country_code": "MA",
+      "state_code": "JRA",
+      "state_id": 3307,
+      "country_id": 149
+    }
+  ]
 }

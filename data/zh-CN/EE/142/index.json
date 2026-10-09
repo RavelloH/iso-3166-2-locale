@@ -54,5 +54,24 @@
     "wikiDataId": "Q44491738",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31736,
+      "name": "瓦纳-安茨拉",
+      "name_default": "Vana-Antsla",
+      "native": "Vana-Antsla",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1468,
+      "latitude": "57.86611000",
+      "longitude": "26.53222000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477487",
+      "country_code": "EE",
+      "state_code": "142",
+      "state_id": 5738,
+      "country_id": 69
+    }
+  ]
 }

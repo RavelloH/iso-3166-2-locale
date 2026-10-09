@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318865",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110918,
+      "name": "キルフラ",
+      "name_default": "Kiruhura",
+      "native": "KirUhura",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 14000,
+      "latitude": "-0.19664000",
+      "longitude": "30.84446000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6415051",
+      "country_code": "UG",
+      "state_code": "419",
+      "state_id": 355,
+      "country_id": 229
+    }
+  ]
 }

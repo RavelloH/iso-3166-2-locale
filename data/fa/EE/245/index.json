@@ -54,5 +54,42 @@
     "wikiDataId": "Q993036",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31613,
+      "name": "ژولهتمه والد",
+      "name_default": "Jõelähtme vald",
+      "native": "Jõelähtme vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.43996000",
+      "longitude": "25.13535000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q993036",
+      "country_code": "EE",
+      "state_code": "245",
+      "state_id": 5744,
+      "country_id": 69
+    },
+    {
+      "id": 31653,
+      "name": "لو",
+      "name_default": "Loo",
+      "native": "Loo",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2093,
+      "latitude": "59.43123000",
+      "longitude": "24.94949000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2989890",
+      "country_code": "EE",
+      "state_code": "245",
+      "state_id": 5744,
+      "country_id": 69
+    }
+  ]
 }

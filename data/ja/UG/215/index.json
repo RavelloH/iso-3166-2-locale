@@ -54,5 +54,24 @@
     "wikiDataId": "Q1375835",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110958,
+      "name": "シロンコ",
+      "name_default": "Sironko",
+      "native": "Sironko",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 19300,
+      "latitude": "1.23132000",
+      "longitude": "34.24773000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2252605",
+      "country_code": "UG",
+      "state_code": "215",
+      "state_id": 429,
+      "country_id": 229
+    }
+  ]
 }

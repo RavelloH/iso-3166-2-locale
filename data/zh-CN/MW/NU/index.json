@@ -54,5 +54,24 @@
     "wikiDataId": "Q797937",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67991,
+      "name": "恩切乌",
+      "name_default": "Ntcheu",
+      "native": "Ntcheu",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 23956,
+      "latitude": "-14.82027000",
+      "longitude": "34.63586000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1022517",
+      "country_code": "MW",
+      "state_code": "NU",
+      "state_id": 3088,
+      "country_id": 131
+    }
+  ]
 }

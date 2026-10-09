@@ -61,5 +61,24 @@
     "wikiDataId": "Q1759567",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67153,
+      "name": "クサル・エル・ケビル",
+      "name_default": "Ksar El Kebir",
+      "native": "القصر الكبير",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 138262,
+      "latitude": "35.00044000",
+      "longitude": "-5.90378000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q52603",
+      "country_code": "MA",
+      "state_code": "LAR",
+      "state_id": 3268,
+      "country_id": 149
+    }
+  ]
 }

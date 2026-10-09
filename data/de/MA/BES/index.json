@@ -61,5 +61,42 @@
     "wikiDataId": "Q15198365",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67079,
+      "name": "Benslimane",
+      "name_default": "Benslimane",
+      "native": "بنسليمان",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 67317,
+      "latitude": "33.50000000",
+      "longitude": "-7.16667000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q15198365",
+      "country_code": "MA",
+      "state_code": "BES",
+      "state_id": 3304,
+      "country_id": 149
+    },
+    {
+      "id": 67094,
+      "name": "Bouznika",
+      "name_default": "Bouznika",
+      "native": "بوزنيقة",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 40663,
+      "latitude": "33.78942000",
+      "longitude": "-7.15968000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q638967",
+      "country_code": "MA",
+      "state_code": "BES",
+      "state_id": 3304,
+      "country_id": 149
+    }
+  ]
 }

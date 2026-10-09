@@ -42,10 +42,10 @@
     "iso3166_2": "LT-45",
     "fips_code": "59",
     "name": "Silalė",
-    "name_default": "Šilalė ",
+    "name_default": "Šilalė",
     "native": "Šilalė",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1573",
     "population": 4640,
     "latitude": "55.49268000",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q677400",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66715,
+      "name": "Šilalė",
+      "name_default": "Šilalė",
+      "native": "Šilalė",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 4699,
+      "latitude": "55.46667000",
+      "longitude": "22.20000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q1417346",
+      "country_code": "LT",
+      "state_code": "45",
+      "state_id": 1613,
+      "country_id": 126
+    }
+  ]
 }

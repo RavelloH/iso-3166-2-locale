@@ -61,5 +61,24 @@
     "wikiDataId": "Q1969535",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67083,
+      "name": "البهالیل",
+      "name_default": "Bhalil",
+      "native": "بهاليل",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 13727,
+      "latitude": "33.85194000",
+      "longitude": "-4.87228000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2294821",
+      "country_code": "MA",
+      "state_code": "SEF",
+      "state_id": 3289,
+      "country_id": 149
+    }
+  ]
 }

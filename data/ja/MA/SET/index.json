@@ -61,5 +61,24 @@
     "wikiDataId": "Q1523840",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67203,
+      "name": "セタット",
+      "name_default": "Settat",
+      "native": "سطات",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 171556,
+      "latitude": "33.00103000",
+      "longitude": "-7.61662000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q818019",
+      "country_code": "MA",
+      "state_code": "SET",
+      "state_id": 3282,
+      "country_id": 149
+    }
+  ]
 }

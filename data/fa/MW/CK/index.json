@@ -54,5 +54,24 @@
     "wikiDataId": "Q722509",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67948,
+      "name": "چیکواوا",
+      "name_default": "Chikwawa",
+      "native": "Chikwawa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 6987,
+      "latitude": "-16.03352000",
+      "longitude": "34.80091000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1022541",
+      "country_code": "MW",
+      "state_code": "CK",
+      "state_id": 3107,
+      "country_id": 131
+    }
+  ]
 }

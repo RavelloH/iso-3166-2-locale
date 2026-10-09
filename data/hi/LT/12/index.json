@@ -45,7 +45,7 @@
     "name_default": "Jurbarkas",
     "native": "Jurbarkas",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1573",
     "population": 11412,
     "latitude": "55.07770770",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q2089815",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66609,
+      "name": "जुर्बर्कास",
+      "name_default": "Jurbarkas",
+      "native": "Jurbarkas",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10571,
+      "latitude": "55.10859000",
+      "longitude": "22.79885000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2089815",
+      "country_code": "LT",
+      "state_code": "12",
+      "state_id": 1555,
+      "country_id": 126
+    }
+  ]
 }

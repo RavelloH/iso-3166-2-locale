@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318815",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110923,
+      "name": "क्येंजोजो",
+      "name_default": "Kyenjojo",
+      "native": "KYANJOJO",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 28600,
+      "latitude": "0.63278000",
+      "longitude": "30.62139000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q5368395",
+      "country_code": "UG",
+      "state_code": "415",
+      "state_id": 402,
+      "country_id": 229
+    }
+  ]
 }

@@ -61,5 +61,42 @@
     "wikiDataId": "Q2301648",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67076,
+      "name": "آئین لوح",
+      "name_default": "Aïn Leuh",
+      "native": "عين اللوح",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5426,
+      "latitude": "33.28984000",
+      "longitude": "-5.33863000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q540643",
+      "country_code": "MA",
+      "state_code": "IFR",
+      "state_id": 3325,
+      "country_id": 149
+    },
+    {
+      "id": 67074,
+      "name": "آزرو",
+      "name_default": "Azrou",
+      "native": "أزرو",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 57657,
+      "latitude": "33.43443000",
+      "longitude": "-5.22126000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q794128",
+      "country_code": "MA",
+      "state_code": "IFR",
+      "state_id": 3325,
+      "country_id": 149
+    }
+  ]
 }

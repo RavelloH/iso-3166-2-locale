@@ -54,5 +54,24 @@
     "wikiDataId": "Q3321637",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110907,
+      "name": "卡诺尼",
+      "name_default": "Kanoni",
+      "native": "Kanoni",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "0.17722000",
+      "longitude": "31.88111000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q6685692",
+      "country_code": "UG",
+      "state_code": "121",
+      "state_id": 366,
+      "country_id": 229
+    }
+  ]
 }

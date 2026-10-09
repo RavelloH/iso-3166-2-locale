@@ -45,7 +45,7 @@
     "name_default": "Hiiu",
     "native": "Hiiu",
     "type": "county",
-    "level": null,
+    "level": "1",
     "parent_id": null,
     "population": 3986,
     "latitude": "58.83333333",
@@ -54,24 +54,5 @@
     "wikiDataId": "Q1466462",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31645,
-      "name": "凯尔德拉",
-      "name_default": "Kärdla",
-      "native": "Kärdla",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": 2921,
-      "latitude": "58.99778000",
-      "longitude": "22.74917000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q155066",
-      "country_code": "EE",
-      "state_code": "39",
-      "state_id": 3555,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }

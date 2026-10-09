@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627724",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31754,
+      "name": "于莱努尔梅",
+      "name_default": "Ülenurme",
+      "native": "Ülenurme",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1047,
+      "latitude": "58.31620000",
+      "longitude": "26.72517000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3468727",
+      "country_code": "EE",
+      "state_code": "283",
+      "state_id": 5749,
+      "country_id": 69
+    }
+  ]
 }

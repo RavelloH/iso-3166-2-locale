@@ -54,5 +54,60 @@
     "wikiDataId": "Q2627878",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31618,
+      "name": "ユリ",
+      "name_default": "Jüri",
+      "native": "Jüri",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3719,
+      "latitude": "59.35417000",
+      "longitude": "24.89417000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2443435",
+      "country_code": "EE",
+      "state_code": "653",
+      "state_id": 5775,
+      "country_id": 69
+    },
+    {
+      "id": 31689,
+      "name": "レイ・ヴァルド",
+      "name_default": "Rae vald",
+      "native": "Rae vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 939,
+      "latitude": "59.33202000",
+      "longitude": "24.93932000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1009353",
+      "country_code": "EE",
+      "state_code": "653",
+      "state_id": 5775,
+      "country_id": 69
+    },
+    {
+      "id": 31734,
+      "name": "ヴァイダ",
+      "name_default": "Vaida",
+      "native": "Vaida",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 911,
+      "latitude": "59.28546000",
+      "longitude": "24.97897000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3451312",
+      "country_code": "EE",
+      "state_code": "653",
+      "state_id": 5775,
+      "country_id": 69
+    }
+  ]
 }

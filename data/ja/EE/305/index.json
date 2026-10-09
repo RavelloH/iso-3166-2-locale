@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627752",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31631,
+      "name": "キイリ",
+      "name_default": "Kiili",
+      "native": "Kiili",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1841,
+      "latitude": "59.30775000",
+      "longitude": "24.83776000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3117761",
+      "country_code": "EE",
+      "state_code": "305",
+      "state_id": 5754,
+      "country_id": 69
+    },
+    {
+      "id": 31632,
+      "name": "キイリ・ヴァルド",
+      "name_default": "Kiili vald",
+      "native": "Kiili vald",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.29672000",
+      "longitude": "24.85292000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q992974",
+      "country_code": "EE",
+      "state_code": "305",
+      "state_id": 5754,
+      "country_id": 69
+    }
+  ]
 }

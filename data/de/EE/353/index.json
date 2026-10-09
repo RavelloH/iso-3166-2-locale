@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627772",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31644,
+      "name": "Kuusalu",
+      "name_default": "Kuusalu",
+      "native": "Kuusalu",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 6464,
+      "latitude": "59.44389000",
+      "longitude": "25.44139000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2668988",
+      "country_code": "EE",
+      "state_code": "353",
+      "state_id": 5757,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,60 @@
     "wikiDataId": "Q2627930",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31647,
+      "name": "라그리",
+      "name_default": "Laagri",
+      "native": "Laagri",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 6117,
+      "latitude": "59.35083000",
+      "longitude": "24.61418000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q720023",
+      "country_code": "EE",
+      "state_code": "726",
+      "state_id": 5784,
+      "country_id": 69
+    },
+    {
+      "id": 31695,
+      "name": "리시페레",
+      "name_default": "Riisipere",
+      "native": "Riisipere",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 868,
+      "latitude": "59.11417000",
+      "longitude": "24.31056000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2006948",
+      "country_code": "EE",
+      "state_code": "726",
+      "state_id": 5784,
+      "country_id": 69
+    },
+    {
+      "id": 31706,
+      "name": "소스",
+      "name_default": "Saue",
+      "native": "Saue",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 6227,
+      "latitude": "59.32258000",
+      "longitude": "24.54967000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q86206",
+      "country_code": "EE",
+      "state_code": "726",
+      "state_id": 5784,
+      "country_id": 69
+    }
+  ]
 }

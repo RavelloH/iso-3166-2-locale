@@ -54,5 +54,24 @@
     "wikiDataId": "Q42309166",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31676,
+      "name": "Палдиски",
+      "name_default": "Paldiski",
+      "native": "Paldiski",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 4073,
+      "latitude": "59.35667000",
+      "longitude": "24.05306000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q204091",
+      "country_code": "EE",
+      "state_code": "431",
+      "state_id": 5758,
+      "country_id": 69
+    }
+  ]
 }

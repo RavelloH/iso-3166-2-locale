@@ -54,5 +54,42 @@
     "wikiDataId": "Q195356",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67957,
+      "name": "Dowa",
+      "name_default": "Dowa",
+      "native": "Dowo",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 8047,
+      "latitude": "-13.65399000",
+      "longitude": "33.93754000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1253056",
+      "country_code": "MW",
+      "state_code": "DO",
+      "state_id": 3090,
+      "country_id": 131
+    },
+    {
+      "id": 67976,
+      "name": "Mponela",
+      "name_default": "Mponela",
+      "native": "Mponela",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 27681,
+      "latitude": "-13.53194000",
+      "longitude": "33.74008000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1253227",
+      "country_code": "MW",
+      "state_code": "DO",
+      "state_id": 3090,
+      "country_id": 131
+    }
+  ]
 }

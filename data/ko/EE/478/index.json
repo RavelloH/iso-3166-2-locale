@@ -54,5 +54,42 @@
     "wikiDataId": "Q657993",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31649,
+      "name": "리바",
+      "name_default": "Liiva",
+      "native": "Liiva",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "58.60194000",
+      "longitude": "23.24694000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2670409",
+      "country_code": "EE",
+      "state_code": "478",
+      "state_id": 5763,
+      "country_id": 69
+    },
+    {
+      "id": 31660,
+      "name": "무후 발드",
+      "name_default": "Muhu vald",
+      "native": "Muhu vald",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.58486000",
+      "longitude": "23.25609000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q634654",
+      "country_code": "EE",
+      "state_code": "478",
+      "state_id": 5763,
+      "country_id": 69
+    }
+  ]
 }

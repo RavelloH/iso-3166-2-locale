@@ -54,5 +54,24 @@
     "wikiDataId": "Q44624256",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31614,
+      "name": "جوجيفا",
+      "name_default": "Jõgeva",
+      "native": "Jõgeva",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 6396,
+      "latitude": "58.74667000",
+      "longitude": "26.39389000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q117513",
+      "country_code": "EE",
+      "state_code": "247",
+      "state_id": 5745,
+      "country_id": 69
+    }
+  ]
 }

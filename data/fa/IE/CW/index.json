@@ -54,5 +54,60 @@
     "wikiDataId": "Q181882",
     "country_code": "IE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 57087,
+      "name": "بگنالستاون",
+      "name_default": "Bagenalstown",
+      "native": "Bagenalstown",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2837,
+      "latitude": "52.70031000",
+      "longitude": "-6.96181000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q2091051",
+      "country_code": "IE",
+      "state_code": "CW",
+      "state_id": 1095,
+      "country_id": 105
+    },
+    {
+      "id": 57144,
+      "name": "کارلو",
+      "name_default": "Carlow",
+      "native": "Carlow",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 24272,
+      "latitude": "52.84083000",
+      "longitude": "-6.92611000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q2669915",
+      "country_code": "IE",
+      "state_code": "CW",
+      "state_id": 1095,
+      "country_id": 105
+    },
+    {
+      "id": 57423,
+      "name": "تولو",
+      "name_default": "Tullow",
+      "native": "Tullow",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 4673,
+      "latitude": "52.80028000",
+      "longitude": "-6.73694000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q1025610",
+      "country_code": "IE",
+      "state_code": "CW",
+      "state_id": 1095,
+      "country_id": 105
+    }
+  ]
 }

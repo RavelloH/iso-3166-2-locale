@@ -61,5 +61,42 @@
     "wikiDataId": "Q2165392",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67104,
+      "name": "Дебду",
+      "name_default": "Debdou",
+      "native": "دبدو",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 4447,
+      "latitude": "33.98228000",
+      "longitude": "-3.04263000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q654695",
+      "country_code": "MA",
+      "state_code": "TAI",
+      "state_id": 3322,
+      "country_id": 149
+    },
+    {
+      "id": 67238,
+      "name": "Таурирт",
+      "name_default": "Taourirt",
+      "native": "تاوريرت",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 100402,
+      "latitude": "34.40731000",
+      "longitude": "-2.89732000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2329701",
+      "country_code": "MA",
+      "state_code": "TAI",
+      "state_id": 3322,
+      "country_id": 149
+    }
+  ]
 }

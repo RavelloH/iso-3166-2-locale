@@ -54,5 +54,42 @@
     "wikiDataId": "Q44492102",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31708,
+      "name": "Сауґа",
+      "name_default": "Sauga",
+      "native": "Sauga",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1318,
+      "latitude": "58.42720000",
+      "longitude": "24.49496000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3470339",
+      "country_code": "EE",
+      "state_code": "809",
+      "state_id": 5789,
+      "country_id": 69
+    },
+    {
+      "id": 31710,
+      "name": "Сінді",
+      "name_default": "Sindi",
+      "native": "Sindi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3836,
+      "latitude": "58.40056000",
+      "longitude": "24.66750000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q730707",
+      "country_code": "EE",
+      "state_code": "809",
+      "state_id": 5789,
+      "country_id": 69
+    }
+  ]
 }

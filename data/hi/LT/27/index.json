@@ -45,7 +45,7 @@
     "name_default": "Molėtai",
     "native": "Molėtai",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1621",
     "population": 5716,
     "latitude": "55.22653090",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q2089785",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66639,
+      "name": "मोलेटाई",
+      "name_default": "Moletai",
+      "native": "Moletai",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 7243,
+      "latitude": "55.23333000",
+      "longitude": "25.41667000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2089785",
+      "country_code": "LT",
+      "state_code": "27",
+      "state_id": 1582,
+      "country_id": 126
+    }
+  ]
 }

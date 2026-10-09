@@ -54,5 +54,60 @@
     "wikiDataId": "Q42329911",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31682,
+      "name": "파르누-야구피",
+      "name_default": "Pärnu-Jaagupi",
+      "native": "Pärnu-Jaagupi",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1140,
+      "latitude": "58.61052000",
+      "longitude": "24.50689000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477447",
+      "country_code": "EE",
+      "state_code": "638",
+      "state_id": 5773,
+      "country_id": 69
+    },
+    {
+      "id": 31725,
+      "name": "투트시",
+      "name_default": "Tootsi",
+      "native": "Tootsi",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 774,
+      "latitude": "58.57806000",
+      "longitude": "24.79250000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1001607",
+      "country_code": "EE",
+      "state_code": "638",
+      "state_id": 5773,
+      "country_id": 69
+    },
+    {
+      "id": 31749,
+      "name": "반드라",
+      "name_default": "Vändra",
+      "native": "Vändra",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2148,
+      "latitude": "58.64806000",
+      "longitude": "25.03611000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1805635",
+      "country_code": "EE",
+      "state_code": "638",
+      "state_id": 5773,
+      "country_id": 69
+    }
+  ]
 }

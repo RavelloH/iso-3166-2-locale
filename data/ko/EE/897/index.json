@@ -54,5 +54,24 @@
     "wikiDataId": "Q23890459",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31740,
+      "name": "빌리안디",
+      "name_default": "Viljandi",
+      "native": "Viljandi",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 17255,
+      "latitude": "58.36389000",
+      "longitude": "25.59000000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q44840",
+      "country_code": "EE",
+      "state_code": "897",
+      "state_id": 5813,
+      "country_id": 69
+    }
+  ]
 }

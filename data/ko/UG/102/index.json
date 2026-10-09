@@ -54,5 +54,24 @@
     "wikiDataId": "Q926417",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110903,
+      "name": "캄팔라",
+      "name_default": "Kampala",
+      "native": "Kampala",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 1797722,
+      "latitude": "0.31628000",
+      "longitude": "32.58219000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q3894",
+      "country_code": "UG",
+      "state_code": "102",
+      "state_id": 382,
+      "country_id": 229
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q44511803",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31701,
+      "name": "Риуге",
+      "name_default": "Rõuge",
+      "native": "Rõuge",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 435,
+      "latitude": "57.72778000",
+      "longitude": "26.90972000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3469834",
+      "country_code": "EE",
+      "state_code": "698",
+      "state_id": 5779,
+      "country_id": 69
+    }
+  ]
 }

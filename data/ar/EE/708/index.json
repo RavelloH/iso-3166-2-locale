@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627914",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31699,
+      "name": "رابينا",
+      "name_default": "Räpina",
+      "native": "Räpina",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2126,
+      "latitude": "58.09806000",
+      "longitude": "27.46361000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1483558",
+      "country_code": "EE",
+      "state_code": "708",
+      "state_id": 5780,
+      "country_id": 69
+    }
+  ]
 }

@@ -45,7 +45,7 @@
     "name_default": "Tauragė",
     "native": "Tauragė",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1573",
     "population": null,
     "latitude": "55.25036600",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q2071640",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66590,
+      "name": "Būgai",
+      "name_default": "Būgai",
+      "native": "Būgai",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1976,
+      "latitude": "55.41387000",
+      "longitude": "22.60894000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q763504",
+      "country_code": "LT",
+      "state_code": "50",
+      "state_id": 1572,
+      "country_id": 126
+    },
+    {
+      "id": 66683,
+      "name": "Taurogi",
+      "name_default": "Taurage",
+      "native": "Tauražas",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 21416,
+      "latitude": "55.25222000",
+      "longitude": "22.28972000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q193787",
+      "country_code": "LT",
+      "state_code": "50",
+      "state_id": 1572,
+      "country_id": 126
+    }
+  ]
 }

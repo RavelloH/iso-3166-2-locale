@@ -54,5 +54,24 @@
     "wikiDataId": "Q198587",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67989,
+      "name": "न्सांजे",
+      "name_default": "Nsanje",
+      "native": "Nsanje",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 30276,
+      "latitude": "-16.91995000",
+      "longitude": "35.26199000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1939876",
+      "country_code": "MW",
+      "state_code": "NS",
+      "state_id": 3085,
+      "country_id": 131
+    }
+  ]
 }

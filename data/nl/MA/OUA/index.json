@@ -61,5 +61,60 @@
     "wikiDataId": "Q1629229",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67177,
+      "name": "Ouarzazate",
+      "name_default": "Ouarzazate",
+      "native": "ورزازات",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 77603,
+      "latitude": "30.91894000",
+      "longitude": "-6.89341000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q505208",
+      "country_code": "MA",
+      "state_code": "OUA",
+      "state_id": 3269,
+      "country_id": 149
+    },
+    {
+      "id": 67246,
+      "name": "Tazenakht",
+      "name_default": "Taznakht",
+      "native": "تازناخت",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 7950,
+      "latitude": "30.57836000",
+      "longitude": "-7.20341000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q13420293",
+      "country_code": "MA",
+      "state_code": "OUA",
+      "state_id": 3269,
+      "country_id": 149
+    },
+    {
+      "id": 67247,
+      "name": "Telouet",
+      "name_default": "Telouet",
+      "native": "تيلويت",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "31.28925000",
+      "longitude": "-7.23789000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q1010760",
+      "country_code": "MA",
+      "state_code": "OUA",
+      "state_id": 3269,
+      "country_id": 149
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q23890602",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31709,
+      "name": "سیلامائه",
+      "name_default": "Sillamäe",
+      "native": "Sillamäe",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 12352,
+      "latitude": "59.39697000",
+      "longitude": "27.76331000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q207748",
+      "country_code": "EE",
+      "state_code": "735",
+      "state_id": 5810,
+      "country_id": 69
+    }
+  ]
 }

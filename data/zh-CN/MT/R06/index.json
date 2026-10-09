@@ -1,0 +1,58 @@
+{
+  "locale": "zh-CN",
+  "country": {
+    "id": 135,
+    "code": "MT",
+    "iso3": "MLT",
+    "numeric_code": "470",
+    "name": "马耳他",
+    "name_default": "Malta",
+    "native": "Malta",
+    "capital": "Valletta",
+    "phonecode": "356",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "population": 574250,
+    "gdp": 25750,
+    "region": "Europe",
+    "region_id": 4,
+    "subregion": "Southern Europe",
+    "subregion_id": 16,
+    "nationality": "Maltese",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  },
+  "state": {
+    "id": 5847,
+    "code": "R06",
+    "iso2": "R06",
+    "iso3166_2": null,
+    "fips_code": null,
+    "name": "戈佐地区",
+    "name_default": "Gozo Region",
+    "native": "Reġjun Għawdex",
+    "type": "region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "36.04444444",
+    "longitude": "14.23972222",
+    "timezone": "Europe/Malta",
+    "wikiDataId": "Q2054290",
+    "country_code": "MT"
+  },
+  "cities": []
+}

@@ -54,5 +54,24 @@
     "wikiDataId": "Q60769694",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110884,
+      "name": "Busembatia",
+      "name_default": "Busembatia",
+      "native": "Busembatia",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 15889,
+      "latitude": "0.77725000",
+      "longitude": "33.62364000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q2597300",
+      "country_code": "UG",
+      "state_code": "235",
+      "state_id": 5350,
+      "country_id": 229
+    }
+  ]
 }

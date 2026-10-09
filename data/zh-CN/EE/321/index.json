@@ -54,5 +54,24 @@
     "wikiDataId": "Q23890605",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31638,
+      "name": "科赫特拉-耶尔韦",
+      "name_default": "Kohtla-Järve",
+      "native": "Kohtla-Järve",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 33434,
+      "latitude": "59.39861000",
+      "longitude": "27.27306000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q201391",
+      "country_code": "EE",
+      "state_code": "321",
+      "state_id": 5802,
+      "country_id": 69
+    }
+  ]
 }

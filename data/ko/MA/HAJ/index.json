@@ -61,5 +61,24 @@
     "wikiDataId": "Q2540509",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67109,
+      "name": "엘 하제브",
+      "name_default": "El Hajeb",
+      "native": "الحاجب",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 41359,
+      "latitude": "33.68786000",
+      "longitude": "-5.37100000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2606723",
+      "country_code": "MA",
+      "state_code": "HAJ",
+      "state_id": 3291,
+      "country_id": 149
+    }
+  ]
 }

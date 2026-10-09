@@ -54,5 +54,42 @@
     "wikiDataId": "Q2628006",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31599,
+      "name": "アセリ",
+      "name_default": "Aseri",
+      "native": "Aseri",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1108,
+      "latitude": "59.45056000",
+      "longitude": "26.86750000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q724294",
+      "country_code": "EE",
+      "state_code": "903",
+      "state_id": 5796,
+      "country_id": 69
+    },
+    {
+      "id": 31641,
+      "name": "クンダ",
+      "name_default": "Kunda",
+      "native": "Kunda",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2990,
+      "latitude": "59.49861000",
+      "longitude": "26.52611000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q213178",
+      "country_code": "EE",
+      "state_code": "903",
+      "state_id": 5796,
+      "country_id": 69
+    }
+  ]
 }

@@ -1,0 +1,58 @@
+{
+  "locale": "hr",
+  "country": {
+    "id": 174,
+    "code": "PH",
+    "iso3": "PHL",
+    "numeric_code": "608",
+    "name": "Filipini",
+    "name_default": "Philippines",
+    "native": "Pilipinas",
+    "capital": "Manila",
+    "phonecode": "63",
+    "currency": "PHP",
+    "currency_name": "Philippine peso",
+    "currency_symbol": "₱",
+    "tld": ".ph",
+    "population": 114123600,
+    "gdp": 497495,
+    "region": "Asia",
+    "region_id": 3,
+    "subregion": "South-Eastern Asia",
+    "subregion_id": 13,
+    "nationality": "Philippine, Filipino",
+    "timezones": [
+      {
+        "zoneName": "Asia/Manila",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "PHT",
+        "tzName": "Philippine Time"
+      }
+    ],
+    "latitude": "13.00000000",
+    "longitude": "122.00000000",
+    "emoji": "🇵🇭",
+    "emojiU": "U+1F1F5 U+1F1ED"
+  },
+  "state": {
+    "id": 5853,
+    "code": "18",
+    "iso2": "18",
+    "iso3166_2": null,
+    "fips_code": null,
+    "name": "Negros Island Region",
+    "name_default": "Negros Island Region",
+    "native": "Negros Island Region",
+    "type": "region",
+    "level": "1",
+    "parent_id": null,
+    "population": null,
+    "latitude": "10.00755118",
+    "longitude": "123.01959839",
+    "timezone": "Asia/Manila",
+    "wikiDataId": "Q17081785",
+    "country_code": "PH"
+  },
+  "cities": []
+}

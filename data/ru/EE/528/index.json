@@ -54,5 +54,42 @@
     "wikiDataId": "Q1020142",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31668,
+      "name": "Ныо",
+      "name_default": "Nõo",
+      "native": "Nõo",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1645,
+      "latitude": "58.27556000",
+      "longitude": "26.53750000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477614",
+      "country_code": "EE",
+      "state_code": "528",
+      "state_id": 5767,
+      "country_id": 69
+    },
+    {
+      "id": 31669,
+      "name": "Nõo vald",
+      "name_default": "Nõo vald",
+      "native": "Nõo vald",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.24199000",
+      "longitude": "26.52499000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1020142",
+      "country_code": "EE",
+      "state_code": "528",
+      "state_id": 5767,
+      "country_id": 69
+    }
+  ]
 }

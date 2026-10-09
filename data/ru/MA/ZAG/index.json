@@ -61,5 +61,24 @@
     "wikiDataId": "Q2265471",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67049,
+      "name": "Агдз",
+      "name_default": "Agdz",
+      "native": "أكدز",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 11189,
+      "latitude": "30.69356000",
+      "longitude": "-6.44628000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2717415",
+      "country_code": "MA",
+      "state_code": "ZAG",
+      "state_id": 3283,
+      "country_id": 149
+    }
+  ]
 }

@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627740",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31612,
+      "name": "자르바칸디",
+      "name_default": "Järvakandi",
+      "native": "Järvakandi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1201,
+      "latitude": "58.77889000",
+      "longitude": "24.82583000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1010606",
+      "country_code": "EE",
+      "state_code": "293",
+      "state_id": 5752,
+      "country_id": 69
+    },
+    {
+      "id": 31627,
+      "name": "케트나",
+      "name_default": "Kehtna",
+      "native": "Kehtna",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1579,
+      "latitude": "58.93028000",
+      "longitude": "24.87806000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477357",
+      "country_code": "EE",
+      "state_code": "293",
+      "state_id": 5752,
+      "country_id": 69
+    }
+  ]
 }

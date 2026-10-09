@@ -54,5 +54,42 @@
     "wikiDataId": "Q43281004",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31603,
+      "name": "Хаапсалу",
+      "name_default": "Haapsalu",
+      "native": "Haapsalu",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 13379,
+      "latitude": "58.94306000",
+      "longitude": "23.54139000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q191106",
+      "country_code": "EE",
+      "state_code": "184",
+      "state_id": 5800,
+      "country_id": 69
+    },
+    {
+      "id": 31604,
+      "name": "Haapsalu linn",
+      "name_default": "Haapsalu linn",
+      "native": "Haapsalu linn",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.93580000",
+      "longitude": "23.53005000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q43281004",
+      "country_code": "EE",
+      "state_code": "184",
+      "state_id": 5800,
+      "country_id": 69
+    }
+  ]
 }

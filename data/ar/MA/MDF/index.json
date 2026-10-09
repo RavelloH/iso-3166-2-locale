@@ -61,5 +61,42 @@
     "wikiDataId": "Q3408887",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67120,
+      "name": "فنيدك",
+      "name_default": "Fnidek",
+      "native": "فنيدك",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 84558,
+      "latitude": "35.84906000",
+      "longitude": "-5.35747000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q513678",
+      "country_code": "MA",
+      "state_code": "MDF",
+      "state_id": 4936,
+      "country_id": 149
+    },
+    {
+      "id": 67160,
+      "name": "مرتيل",
+      "name_default": "Martil",
+      "native": "مرتيل",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 70274,
+      "latitude": "35.61662000",
+      "longitude": "-5.27522000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2626632",
+      "country_code": "MA",
+      "state_code": "MDF",
+      "state_id": 4936,
+      "country_id": 149
+    }
+  ]
 }

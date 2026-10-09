@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 110891,
+      "name": "Энтеббе",
+      "name_default": "Entebbe",
+      "native": "Entebbe",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 102600,
+      "latitude": "0.05621000",
+      "longitude": "32.47949000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q211970",
+      "country_code": "UG",
+      "state_code": "113",
+      "state_id": 362,
+      "country_id": 229
+    },
+    {
       "id": 165644,
       "name": "Kasangati",
       "name_default": "Kasangati",

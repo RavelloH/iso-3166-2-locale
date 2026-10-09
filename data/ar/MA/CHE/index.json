@@ -61,5 +61,60 @@
     "wikiDataId": "Q2354922",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67100,
+      "name": "شفشاون",
+      "name_default": "Chefchaouen",
+      "native": "شفشاون",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 46721,
+      "latitude": "35.16878000",
+      "longitude": "-5.26360000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q676778",
+      "country_code": "MA",
+      "state_code": "CHE",
+      "state_id": 3310,
+      "country_id": 149
+    },
+    {
+      "id": 67106,
+      "name": "الدردارة",
+      "name_default": "Derdara",
+      "native": "دردارا",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "35.11041000",
+      "longitude": "-5.29015000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q5261728",
+      "country_code": "MA",
+      "state_code": "CHE",
+      "state_id": 3310,
+      "country_id": 149
+    },
+    {
+      "id": 67230,
+      "name": "تاموروت",
+      "name_default": "Tamorot",
+      "native": "تاموروت",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "34.93632000",
+      "longitude": "-4.77940000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q7681643",
+      "country_code": "MA",
+      "state_code": "CHE",
+      "state_id": 3310,
+      "country_id": 149
+    }
+  ]
 }

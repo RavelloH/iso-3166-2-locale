@@ -54,5 +54,42 @@
     "wikiDataId": "Q44490248",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31594,
+      "name": "الاتسکیوی",
+      "name_default": "Alatskivi",
+      "native": "Alatskivi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 380,
+      "latitude": "58.59806000",
+      "longitude": "27.13361000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q122317",
+      "country_code": "EE",
+      "state_code": "586",
+      "state_id": 5769,
+      "country_id": 69
+    },
+    {
+      "id": 31621,
+      "name": "کالاسته",
+      "name_default": "Kallaste",
+      "native": "Kallaste",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 651,
+      "latitude": "58.66312000",
+      "longitude": "27.16164000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q613714",
+      "country_code": "EE",
+      "state_code": "586",
+      "state_id": 5769,
+      "country_id": 69
+    }
+  ]
 }

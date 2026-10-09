@@ -54,5 +54,24 @@
     "wikiDataId": "Q44511402",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31732,
+      "name": "Уулу",
+      "name_default": "Uulu",
+      "native": "Uulu",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 524,
+      "latitude": "58.28361000",
+      "longitude": "24.58722000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1020204",
+      "country_code": "EE",
+      "state_code": "214",
+      "state_id": 5743,
+      "country_id": 69
+    }
+  ]
 }

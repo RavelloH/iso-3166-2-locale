@@ -45,7 +45,7 @@
     "name_default": "Hambantota",
     "native": "හම්බන්තොට",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2801",
     "population": 57264,
     "latitude": "6.17639200",
@@ -54,5 +54,60 @@
     "wikiDataId": "Q723006",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165174,
+      "name": "Beliatta",
+      "name_default": "Beliatta",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 58675,
+      "latitude": "6.04960000",
+      "longitude": "80.73252000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q4882744",
+      "country_code": "LK",
+      "state_code": "33",
+      "state_id": 2791,
+      "country_id": 208
+    },
+    {
+      "id": 66473,
+      "name": "ハンバントタ地区",
+      "name_default": "Hambantota",
+      "native": "හම්බන්තොට දිස්ත්රික්කය",
+      "type": "district",
+      "level": null,
+      "parent_id": null,
+      "population": 529440,
+      "latitude": "6.25440000",
+      "longitude": "81.11110000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q723006",
+      "country_code": "LK",
+      "state_code": "33",
+      "state_id": 2791,
+      "country_id": 208
+    },
+    {
+      "id": 66533,
+      "name": "タンガッラ",
+      "name_default": "Tangalle",
+      "native": "තංගල්ල",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10497,
+      "latitude": "6.02338000",
+      "longitude": "80.79738000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q598658",
+      "country_code": "LK",
+      "state_code": "33",
+      "state_id": 2791,
+      "country_id": 208
+    }
+  ]
 }

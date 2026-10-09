@@ -54,5 +54,42 @@
     "wikiDataId": "Q43266354",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31666,
+      "name": "Narva-Jõesuu",
+      "name_default": "Narva-Jõesuu",
+      "native": "Narva-Jõesuu",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2681,
+      "latitude": "59.45889000",
+      "longitude": "28.04083000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q723372",
+      "country_code": "EE",
+      "state_code": "514",
+      "state_id": 5806,
+      "country_id": 69
+    },
+    {
+      "id": 31667,
+      "name": "Narva-Jõesuu linn",
+      "name_default": "Narva-Jõesuu linn",
+      "native": "Narva-Jõesuu linn",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.44127000",
+      "longitude": "28.02142000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q43266354",
+      "country_code": "EE",
+      "state_code": "514",
+      "state_id": 5806,
+      "country_id": 69
+    }
+  ]
 }

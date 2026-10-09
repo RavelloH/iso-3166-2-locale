@@ -54,5 +54,42 @@
     "wikiDataId": "Q214765",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31630,
+      "name": "Кіхну вальд",
+      "name_default": "Kihnu vald",
+      "native": "Kihnu vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.13000000",
+      "longitude": "23.99002000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2633508",
+      "country_code": "EE",
+      "state_code": "303",
+      "state_id": 5753,
+      "country_id": 69
+    },
+    {
+      "id": 31650,
+      "name": "Лінакюла",
+      "name_default": "Linaküla",
+      "native": "Linaküla",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 133,
+      "latitude": "58.13722000",
+      "longitude": "23.97444000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3455136",
+      "country_code": "EE",
+      "state_code": "303",
+      "state_id": 5753,
+      "country_id": 69
+    }
+  ]
 }

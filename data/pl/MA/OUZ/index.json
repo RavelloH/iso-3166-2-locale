@@ -61,5 +61,60 @@
     "wikiDataId": "Q3408330",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67095,
+      "name": "Bariksza",
+      "name_default": "Brikcha",
+      "native": "بريكشا",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 1274,
+      "latitude": "34.96732000",
+      "longitude": "-5.57295000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2925553",
+      "country_code": "MA",
+      "state_code": "OUZ",
+      "state_id": 4941,
+      "country_id": 149
+    },
+    {
+      "id": 67183,
+      "name": "Ouezzane",
+      "name_default": "Ouezzane",
+      "native": "وزان",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 65088,
+      "latitude": "34.79584000",
+      "longitude": "-5.57849000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q602426",
+      "country_code": "MA",
+      "state_code": "OUZ",
+      "state_id": 4941,
+      "country_id": 149
+    },
+    {
+      "id": 67270,
+      "name": "Zoumi",
+      "name_default": "Zoumi",
+      "native": "زومي",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 4846,
+      "latitude": "34.80321000",
+      "longitude": "-5.34458000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q8074648",
+      "country_code": "MA",
+      "state_code": "OUZ",
+      "state_id": 4941,
+      "country_id": 149
+    }
+  ]
 }

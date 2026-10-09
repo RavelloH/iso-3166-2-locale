@@ -42,10 +42,10 @@
     "iso3166_2": "BD-G",
     "fips_code": "G",
     "name": "Sylhet",
-    "name_default": "Sylhet ",
+    "name_default": "Sylhet",
     "native": "সিলেট",
     "type": "division",
-    "level": null,
+    "level": "1",
     "parent_id": null,
     "population": null,
     "latitude": "24.73588540",
@@ -54,24 +54,5 @@
     "wikiDataId": "Q459732",
     "country_code": "BD"
   },
-  "cities": [
-    {
-      "id": 164479,
-      "name": "Habiganj",
-      "name_default": "Habiganj",
-      "native": null,
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 88760,
-      "latitude": "24.38044000",
-      "longitude": "91.41299000",
-      "timezone": "Asia/Dhaka",
-      "wikiDataId": "Q478377",
-      "country_code": "BD",
-      "state_code": "G",
-      "state_id": 765,
-      "country_id": 19
-    }
-  ]
+  "cities": []
 }

@@ -54,5 +54,60 @@
     "wikiDataId": "Q179437",
     "country_code": "IE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 57092,
+      "name": "발라가데린",
+      "name_default": "Ballaghaderreen",
+      "native": "Ballaghaderreen",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1822,
+      "latitude": "53.90000000",
+      "longitude": "-8.58333000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q2119881",
+      "country_code": "IE",
+      "state_code": "RN",
+      "state_id": 1081,
+      "country_id": 105
+    },
+    {
+      "id": 57132,
+      "name": "보일",
+      "name_default": "Boyle",
+      "native": "Boyle",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2568,
+      "latitude": "53.96667000",
+      "longitude": "-8.30000000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q1124843",
+      "country_code": "IE",
+      "state_code": "RN",
+      "state_id": 1081,
+      "country_id": 105
+    },
+    {
+      "id": 57164,
+      "name": "캐슬레아",
+      "name_default": "Castlerea",
+      "native": "Castlerea",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1873,
+      "latitude": "53.76667000",
+      "longitude": "-8.50000000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q1049654",
+      "country_code": "IE",
+      "state_code": "RN",
+      "state_id": 1081,
+      "country_id": 105
+    }
+  ]
 }

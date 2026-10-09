@@ -54,5 +54,24 @@
     "wikiDataId": "Q1044337",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67953,
+      "name": "چیتیپا",
+      "name_default": "Chitipa",
+      "native": "Chitipa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 20011,
+      "latitude": "-9.70237000",
+      "longitude": "33.26969000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1074915",
+      "country_code": "MW",
+      "state_code": "CT",
+      "state_id": 3087,
+      "country_id": 131
+    }
+  ]
 }

@@ -54,5 +54,42 @@
     "wikiDataId": "Q13972",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31720,
+      "name": "Tartu",
+      "name_default": "Tartu",
+      "native": "Tartu",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 97759,
+      "latitude": "58.38062000",
+      "longitude": "26.72509000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q13972",
+      "country_code": "EE",
+      "state_code": "793",
+      "state_id": 5812,
+      "country_id": 69
+    },
+    {
+      "id": 31721,
+      "name": "Tartu linn",
+      "name_default": "Tartu linn",
+      "native": "Tartu linn",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.37498000",
+      "longitude": "26.73256000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q42307965",
+      "country_code": "EE",
+      "state_code": "793",
+      "state_id": 5812,
+      "country_id": 69
+    }
+  ]
 }

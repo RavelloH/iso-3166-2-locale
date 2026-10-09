@@ -54,5 +54,42 @@
     "wikiDataId": "Q426207",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31609,
+      "name": "Хулло",
+      "name_default": "Hullo",
+      "native": "Hullo",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 100,
+      "latitude": "58.99004000",
+      "longitude": "23.24441000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3451126",
+      "country_code": "EE",
+      "state_code": "907",
+      "state_id": 5797,
+      "country_id": 69
+    },
+    {
+      "id": 31746,
+      "name": "Вормси-Вальд",
+      "name_default": "Vormsi vald",
+      "native": "Vormsi vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.99986000",
+      "longitude": "23.23408000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q426207",
+      "country_code": "EE",
+      "state_code": "907",
+      "state_id": 5797,
+      "country_id": 69
+    }
+  ]
 }

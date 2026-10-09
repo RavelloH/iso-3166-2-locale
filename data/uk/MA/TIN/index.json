@@ -61,5 +61,60 @@
     "wikiDataId": "Q3408414",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67060,
+      "name": "Альніф",
+      "name_default": "Alnif",
+      "native": "النيف",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 5162,
+      "latitude": "31.11411000",
+      "longitude": "-5.17154000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q984312",
+      "country_code": "MA",
+      "state_code": "TIN",
+      "state_id": 4949,
+      "country_id": 149
+    },
+    {
+      "id": 67145,
+      "name": "Келаат Мгуна",
+      "name_default": "Kelaat Mgouna",
+      "native": "قلعة مكونة",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 18515,
+      "latitude": "31.24573000",
+      "longitude": "-6.13260000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q1018286",
+      "country_code": "MA",
+      "state_code": "TIN",
+      "state_id": 4949,
+      "country_id": 149
+    },
+    {
+      "id": 67255,
+      "name": "Тінгір",
+      "name_default": "Tinghir",
+      "native": "تنغير",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 44239,
+      "latitude": "31.51472000",
+      "longitude": "-5.53278000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q335141",
+      "country_code": "MA",
+      "state_code": "TIN",
+      "state_id": 4949,
+      "country_id": 149
+    }
+  ]
 }

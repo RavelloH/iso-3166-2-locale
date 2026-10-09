@@ -54,5 +54,24 @@
     "wikiDataId": "Q976873",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110890,
+      "name": "Byakabanda",
+      "name_default": "Byakabanda",
+      "native": "Byakabanda",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 7608,
+      "latitude": "-0.74250000",
+      "longitude": "31.40639000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q5003690",
+      "country_code": "UG",
+      "state_code": "110",
+      "state_id": 439,
+      "country_id": 229
+    }
+  ]
 }

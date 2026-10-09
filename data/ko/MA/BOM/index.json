@@ -61,5 +61,60 @@
     "wikiDataId": "Q895063",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67059,
+      "name": "알미스 마르무차",
+      "name_default": "Almis Marmoucha",
+      "native": "ألميس مارموشا",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "33.32000000",
+      "longitude": "-4.18000000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q4733854",
+      "country_code": "MA",
+      "state_code": "BOM",
+      "state_id": 3270,
+      "country_id": 149
+    },
+    {
+      "id": 67169,
+      "name": "미수르",
+      "name_default": "Missour",
+      "native": "ميسور",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 28408,
+      "latitude": "33.04893000",
+      "longitude": "-3.98947000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2540367",
+      "country_code": "MA",
+      "state_code": "BOM",
+      "state_id": 3270,
+      "country_id": 149
+    },
+    {
+      "id": 67228,
+      "name": "탈젬트",
+      "name_default": "Talzemt",
+      "native": "تالزيمت",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "33.59000000",
+      "longitude": "-4.19000000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q3514599",
+      "country_code": "MA",
+      "state_code": "BOM",
+      "state_id": 3270,
+      "country_id": 149
+    }
+  ]
 }

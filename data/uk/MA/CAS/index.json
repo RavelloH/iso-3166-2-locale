@@ -61,5 +61,24 @@
     "wikiDataId": "Q7903",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67098,
+      "name": "Касабланка",
+      "name_default": "Casablanca",
+      "native": "الدار البيضاء",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 3215935,
+      "latitude": "33.58840000",
+      "longitude": "-7.55785000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q649078",
+      "country_code": "MA",
+      "state_code": "CAS",
+      "state_id": 4930,
+      "country_id": 149
+    }
+  ]
 }

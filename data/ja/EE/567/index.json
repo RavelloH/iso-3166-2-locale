@@ -54,5 +54,42 @@
     "wikiDataId": "Q44792192",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31672,
+      "name": "パイデ",
+      "name_default": "Paide",
+      "native": "Paide",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 8073,
+      "latitude": "58.88556000",
+      "longitude": "25.55722000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q45114",
+      "country_code": "EE",
+      "state_code": "567",
+      "state_id": 5807,
+      "country_id": 69
+    },
+    {
+      "id": 31673,
+      "name": "パイド・リン",
+      "name_default": "Paide linn",
+      "native": "Paide linn",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.88504000",
+      "longitude": "25.56021000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q44792192",
+      "country_code": "EE",
+      "state_code": "567",
+      "state_id": 5807,
+      "country_id": 69
+    }
+  ]
 }

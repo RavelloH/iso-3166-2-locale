@@ -45,7 +45,7 @@
     "name_default": "Visaginas",
     "native": "Visaginas",
     "type": "municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1621",
     "population": 18024,
     "latitude": "55.59411800",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q2558824",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66706,
+      "name": "Висагінас",
+      "name_default": "Visaginas",
+      "native": "Visaginas",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 19586,
+      "latitude": "55.60000000",
+      "longitude": "26.41667000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q203892",
+      "country_code": "LT",
+      "state_code": "59",
+      "state_id": 1564,
+      "country_id": 126
+    }
+  ]
 }

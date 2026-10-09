@@ -54,5 +54,24 @@
     "wikiDataId": "Q42892510",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31610,
+      "name": "ایساکو",
+      "name_default": "Iisaku",
+      "native": "Iisaku",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1425,
+      "latitude": "59.10139000",
+      "longitude": "27.30806000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q382727",
+      "country_code": "EE",
+      "state_code": "130",
+      "state_id": 5736,
+      "country_id": 69
+    }
+  ]
 }

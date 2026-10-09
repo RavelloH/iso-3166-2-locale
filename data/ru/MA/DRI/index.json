@@ -61,5 +61,24 @@
     "wikiDataId": "Q1440552",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67166,
+      "name": "Мидар",
+      "name_default": "Midar",
+      "native": "ميدار",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 15391,
+      "latitude": "34.94025000",
+      "longitude": "-3.53311000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2152433",
+      "country_code": "MA",
+      "state_code": "DRI",
+      "state_id": 4931,
+      "country_id": 149
+    }
+  ]
 }

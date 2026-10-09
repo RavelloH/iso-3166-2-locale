@@ -54,5 +54,24 @@
     "wikiDataId": "Q23890468",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31691,
+      "name": "ラクヴェレ",
+      "name_default": "Rakvere",
+      "native": "Rakvere",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 15695,
+      "latitude": "59.34639000",
+      "longitude": "26.35583000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q191889",
+      "country_code": "EE",
+      "state_code": "663",
+      "state_id": 5809,
+      "country_id": 69
+    }
+  ]
 }

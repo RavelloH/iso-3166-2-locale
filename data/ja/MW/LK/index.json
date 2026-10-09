@@ -54,5 +54,24 @@
     "wikiDataId": "Q740622",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67963,
+      "name": "リコマ地区",
+      "name_default": "Likoma",
+      "native": "Likoma",
+      "type": "district",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "-12.06065000",
+      "longitude": "34.73608000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q740622",
+      "country_code": "MW",
+      "state_code": "LK",
+      "state_id": 3093,
+      "country_id": 131
+    }
+  ]
 }

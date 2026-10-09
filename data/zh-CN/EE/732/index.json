@@ -54,5 +54,24 @@
     "wikiDataId": "Q42900601",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31750,
+      "name": "韦尔斯卡",
+      "name_default": "Värska",
+      "native": "Värska",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 415,
+      "latitude": "57.95806000",
+      "longitude": "27.63806000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477635",
+      "country_code": "EE",
+      "state_code": "732",
+      "state_id": 5785,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q179325",
     "country_code": "IE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 57099,
+      "name": "巴利索达尔",
+      "name_default": "Ballisodare",
+      "native": "Ballisodare",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1344,
+      "latitude": "54.21110000",
+      "longitude": "-8.50865000",
+      "timezone": "Europe/Dublin",
+      "wikiDataId": "Q2672390",
+      "country_code": "IE",
+      "state_code": "SO",
+      "state_id": 1070,
+      "country_id": 105
+    }
+  ]
 }

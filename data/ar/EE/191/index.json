@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627666",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31605,
+      "name": "هلجالا",
+      "name_default": "Haljala",
+      "native": "Haljala",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1061,
+      "latitude": "59.43361000",
+      "longitude": "26.26139000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2740759",
+      "country_code": "EE",
+      "state_code": "191",
+      "state_id": 5740,
+      "country_id": 69
+    }
+  ]
 }

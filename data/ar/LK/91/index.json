@@ -45,7 +45,7 @@
     "name_default": "Ratnapura",
     "native": "රත්නපුර",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2803",
     "population": 165998,
     "latitude": "6.68036910",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q1587175",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66527,
+      "name": "راتنابورا",
+      "name_default": "Ratnapura",
+      "native": "රත්නපුර",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 47832,
+      "latitude": "6.68580000",
+      "longitude": "80.40360000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q508753",
+      "country_code": "LK",
+      "state_code": "91",
+      "state_id": 2807,
+      "country_id": 208
+    }
+  ]
 }

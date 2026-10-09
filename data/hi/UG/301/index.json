@@ -54,5 +54,24 @@
     "wikiDataId": "Q1229734",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110874,
+      "name": "ऍद्जुमनि",
+      "name_default": "Adjumani",
+      "native": "Adjumani",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 43022,
+      "latitude": "3.37786000",
+      "longitude": "31.79090000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q3499673",
+      "country_code": "UG",
+      "state_code": "301",
+      "state_id": 361,
+      "country_id": 229
+    }
+  ]
 }

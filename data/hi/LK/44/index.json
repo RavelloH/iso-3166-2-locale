@@ -45,7 +45,7 @@
     "name_default": "Vavuniya",
     "native": "වවුනියාව",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2813",
     "population": null,
     "latitude": "8.75947390",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q527980",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66539,
+      "name": "वावुनिया",
+      "name_default": "Vavuniya",
+      "native": "වවුනියා",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 75175,
+      "latitude": "8.75140000",
+      "longitude": "80.49710000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q1191330",
+      "country_code": "LK",
+      "state_code": "44",
+      "state_id": 2809,
+      "country_id": 208
+    }
+  ]
 }

@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627720",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31619,
+      "name": "Кадрина",
+      "name_default": "Kadrina",
+      "native": "Kadrina",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2208,
+      "latitude": "59.33472000",
+      "longitude": "26.14500000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3043378",
+      "country_code": "EE",
+      "state_code": "272",
+      "state_id": 5748,
+      "country_id": 69
+    },
+    {
+      "id": 31620,
+      "name": "Кадрина Вальд",
+      "name_default": "Kadrina vald",
+      "native": "Kadrina vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.37463000",
+      "longitude": "26.04150000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1013773",
+      "country_code": "EE",
+      "state_code": "272",
+      "state_id": 5748,
+      "country_id": 69
+    }
+  ]
 }

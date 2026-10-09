@@ -61,5 +61,24 @@
     "wikiDataId": "Q516261",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67093,
+      "name": "Bouskoura",
+      "name_default": "Bouskoura",
+      "native": "بوسكورة",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 112501,
+      "latitude": "33.44976000",
+      "longitude": "-7.65239000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2294847",
+      "country_code": "MA",
+      "state_code": "NOU",
+      "state_id": 3287,
+      "country_id": 149
+    }
+  ]
 }

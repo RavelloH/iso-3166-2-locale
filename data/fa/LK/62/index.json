@@ -45,7 +45,7 @@
     "name_default": "Puttalam",
     "native": "පුත්තලම",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2817",
     "population": null,
     "latitude": "8.03018560",
@@ -54,5 +54,42 @@
     "wikiDataId": "Q1665318",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66460,
+      "name": "چیلاو",
+      "name_default": "Chilaw",
+      "native": "චිලව්",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 24712,
+      "latitude": "7.57583000",
+      "longitude": "79.79528000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q2495639",
+      "country_code": "LK",
+      "state_code": "62",
+      "state_id": 2796,
+      "country_id": 208
+    },
+    {
+      "id": 66525,
+      "name": "پوتالام",
+      "name_default": "Puttalam",
+      "native": "පුත්තලම්",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 45661,
+      "latitude": "8.03620000",
+      "longitude": "79.82830000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q3088741",
+      "country_code": "LK",
+      "state_code": "62",
+      "state_id": 2796,
+      "country_id": 208
+    }
+  ]
 }

@@ -54,5 +54,60 @@
     "wikiDataId": "Q2627948",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31717,
+      "name": "Tamsalu",
+      "name_default": "Tamsalu",
+      "native": "Tamsalu",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 2397,
+      "latitude": "59.15861000",
+      "longitude": "26.11528000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q217682",
+      "country_code": "EE",
+      "state_code": "792",
+      "state_id": 5786,
+      "country_id": 69
+    },
+    {
+      "id": 31718,
+      "name": "Tapa",
+      "name_default": "Tapa",
+      "native": "Tapa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 5492,
+      "latitude": "59.26056000",
+      "longitude": "25.95861000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q650577",
+      "country_code": "EE",
+      "state_code": "792",
+      "state_id": 5786,
+      "country_id": 69
+    },
+    {
+      "id": 31719,
+      "name": "Tapa vald",
+      "name_default": "Tapa vald",
+      "native": "Tapa vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.23821000",
+      "longitude": "25.84572000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q23890484",
+      "country_code": "EE",
+      "state_code": "792",
+      "state_id": 5786,
+      "country_id": 69
+    }
+  ]
 }

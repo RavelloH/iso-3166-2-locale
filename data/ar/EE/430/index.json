@@ -54,5 +54,24 @@
     "wikiDataId": "Q31273628",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31648,
+      "name": "ليهولا",
+      "name_default": "Lihula",
+      "native": "Lihula",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1250,
+      "latitude": "58.68139000",
+      "longitude": "23.84528000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q375497",
+      "country_code": "EE",
+      "state_code": "430",
+      "state_id": 5759,
+      "country_id": 69
+    }
+  ]
 }

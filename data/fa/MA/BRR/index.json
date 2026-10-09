@@ -61,5 +61,24 @@
     "wikiDataId": "Q2395317",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67081,
+      "name": "برشید",
+      "name_default": "Berrechid",
+      "native": "برشيد",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 168687,
+      "latitude": "33.26553000",
+      "longitude": "-7.58754000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2191860",
+      "country_code": "MA",
+      "state_code": "BRR",
+      "state_id": 4929,
+      "country_id": 149
+    }
+  ]
 }

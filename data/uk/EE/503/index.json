@@ -54,5 +54,24 @@
     "wikiDataId": "Q44848112",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31662,
+      "name": "Мяр'ямаа",
+      "name_default": "Märjamaa",
+      "native": "Märjamaa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2617,
+      "latitude": "58.90389000",
+      "longitude": "24.43056000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2511250",
+      "country_code": "EE",
+      "state_code": "503",
+      "state_id": 5766,
+      "country_id": 69
+    }
+  ]
 }

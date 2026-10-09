@@ -54,5 +54,60 @@
     "wikiDataId": "Q15732437",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31593,
+      "name": "अब्जा-पलुओजा",
+      "name_default": "Abja-Paluoja",
+      "native": "Abja-Paluoja",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1056,
+      "latitude": "58.12528000",
+      "longitude": "25.34972000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q321784",
+      "country_code": "EE",
+      "state_code": "480",
+      "state_id": 5764,
+      "country_id": 69
+    },
+    {
+      "id": 31625,
+      "name": "कार्कसी-नुइया",
+      "name_default": "Karksi-Nuia",
+      "native": "Karksi-Nuia",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1436,
+      "latitude": "58.10333000",
+      "longitude": "25.56278000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1023750",
+      "country_code": "EE",
+      "state_code": "480",
+      "state_id": 5764,
+      "country_id": 69
+    },
+    {
+      "id": 31664,
+      "name": "मोइसाकुला",
+      "name_default": "Mõisaküla",
+      "native": "Mõisaküla",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 744,
+      "latitude": "58.09222000",
+      "longitude": "25.18639000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q819395",
+      "country_code": "EE",
+      "state_code": "480",
+      "state_id": 5764,
+      "country_id": 69
+    }
+  ]
 }

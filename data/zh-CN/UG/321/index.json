@@ -54,5 +54,24 @@
     "wikiDataId": "Q1318833",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110951,
+      "name": "奥亚姆区",
+      "name_default": "Oyam",
+      "native": "Oyam District",
+      "type": "district",
+      "level": null,
+      "parent_id": null,
+      "population": 477464,
+      "latitude": "2.38129000",
+      "longitude": "32.50071000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q1318833",
+      "country_code": "UG",
+      "state_code": "321",
+      "state_id": 397,
+      "country_id": 229
+    }
+  ]
 }

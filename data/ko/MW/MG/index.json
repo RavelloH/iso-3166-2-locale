@@ -54,5 +54,42 @@
     "wikiDataId": "Q722505",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67971,
+      "name": "망고치",
+      "name_default": "Mangochi",
+      "native": "Mangochi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 60338,
+      "latitude": "-14.47815000",
+      "longitude": "35.26448000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1890257",
+      "country_code": "MW",
+      "state_code": "MG",
+      "state_id": 3110,
+      "country_id": 131
+    },
+    {
+      "id": 67975,
+      "name": "몽키 베이",
+      "name_default": "Monkey Bay",
+      "native": "Monkey Bay",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 14591,
+      "latitude": "-14.08239000",
+      "longitude": "34.91652000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1944901",
+      "country_code": "MW",
+      "state_code": "MG",
+      "state_id": 3110,
+      "country_id": 131
+    }
+  ]
 }

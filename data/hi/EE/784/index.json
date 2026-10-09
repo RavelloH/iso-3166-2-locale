@@ -54,5 +54,24 @@
     "wikiDataId": "Q1770",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31716,
+      "name": "ताल्लिन",
+      "name_default": "Tallinn",
+      "native": "Tallinn",
+      "type": "capital",
+      "level": null,
+      "parent_id": null,
+      "population": 457572,
+      "latitude": "59.43696000",
+      "longitude": "24.75353000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1770",
+      "country_code": "EE",
+      "state_code": "784",
+      "state_id": 5811,
+      "country_id": 69
+    }
+  ]
 }

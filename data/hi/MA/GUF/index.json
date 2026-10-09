@@ -79,6 +79,24 @@
       "state_code": "GUF",
       "state_id": 4934,
       "country_id": 149
+    },
+    {
+      "id": 67129,
+      "name": "गेरसीफ़",
+      "name_default": "Guercif",
+      "native": "إقليم جرسيف",
+      "type": "province",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "34.25041000",
+      "longitude": "-3.32542000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2330467",
+      "country_code": "MA",
+      "state_code": "GUF",
+      "state_id": 4934,
+      "country_id": 149
     }
   ]
 }

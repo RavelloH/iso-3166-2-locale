@@ -54,5 +54,60 @@
     "wikiDataId": "Q1020183",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31690,
+      "name": "拉凯",
+      "name_default": "Rakke",
+      "native": "Rakke",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 849,
+      "latitude": "58.98167000",
+      "longitude": "26.25444000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3477375",
+      "country_code": "EE",
+      "state_code": "928",
+      "state_id": 5799,
+      "country_id": 69
+    },
+    {
+      "id": 31747,
+      "name": "小马尔亚",
+      "name_default": "Väike-Maarja",
+      "native": "Väike-Maarja",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2155,
+      "latitude": "59.12639000",
+      "longitude": "26.25000000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3053683",
+      "country_code": "EE",
+      "state_code": "928",
+      "state_id": 5799,
+      "country_id": 69
+    },
+    {
+      "id": 31748,
+      "name": "Väike-Maarja vald",
+      "name_default": "Väike-Maarja vald",
+      "native": "Väike-Maarja vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.06556000",
+      "longitude": "26.31417000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1020183",
+      "country_code": "EE",
+      "state_code": "928",
+      "state_id": 5799,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q80940",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31665,
+      "name": "纳尔瓦",
+      "name_default": "Narva",
+      "native": "Narva",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 53360,
+      "latitude": "59.37722000",
+      "longitude": "28.19028000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q102158",
+      "country_code": "EE",
+      "state_code": "511",
+      "state_id": 5805,
+      "country_id": 69
+    }
+  ]
 }

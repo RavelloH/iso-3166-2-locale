@@ -54,5 +54,24 @@
     "wikiDataId": "Q42846054",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31735,
+      "name": "Valga",
+      "name_default": "Valga",
+      "native": "Valga",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 12173,
+      "latitude": "57.77781000",
+      "longitude": "26.04730000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q193905",
+      "country_code": "EE",
+      "state_code": "855",
+      "state_id": 5792,
+      "country_id": 69
+    }
+  ]
 }

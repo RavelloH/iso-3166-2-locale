@@ -54,5 +54,42 @@
     "wikiDataId": "Q31273591",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31711,
+      "name": "Сууре-Яані",
+      "name_default": "Suure-Jaani",
+      "native": "Suure-Jaani",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1168,
+      "latitude": "58.53611000",
+      "longitude": "25.47056000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q370242",
+      "country_code": "EE",
+      "state_code": "615",
+      "state_id": 5770,
+      "country_id": 69
+    },
+    {
+      "id": 31751,
+      "name": "Вигма",
+      "name_default": "Võhma",
+      "native": "Võhma",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1272,
+      "latitude": "58.62833000",
+      "longitude": "25.54833000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q171333",
+      "country_code": "EE",
+      "state_code": "615",
+      "state_id": 5770,
+      "country_id": 69
+    }
+  ]
 }

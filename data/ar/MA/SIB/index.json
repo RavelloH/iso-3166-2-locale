@@ -61,5 +61,24 @@
     "wikiDataId": "Q3408408",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67175,
+      "name": "الوليدية",
+      "name_default": "Oualidia",
+      "native": "الوليدية",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 8484,
+      "latitude": "32.73372000",
+      "longitude": "-9.03059000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q3135328",
+      "country_code": "MA",
+      "state_code": "SIB",
+      "state_id": 4945,
+      "country_id": 149
+    }
+  ]
 }

@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627758",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31636,
+      "name": "Кохила",
+      "name_default": "Kohila",
+      "native": "Kohila",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 3295,
+      "latitude": "59.16806000",
+      "longitude": "24.75750000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2605582",
+      "country_code": "EE",
+      "state_code": "317",
+      "state_id": 5755,
+      "country_id": 69
+    },
+    {
+      "id": 31637,
+      "name": "Кохила",
+      "name_default": "Kohila vald",
+      "native": "Kohila vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.15283000",
+      "longitude": "24.73337000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1024708",
+      "country_code": "EE",
+      "state_code": "317",
+      "state_id": 5755,
+      "country_id": 69
+    }
+  ]
 }

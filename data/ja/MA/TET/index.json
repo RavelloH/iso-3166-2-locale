@@ -61,5 +61,42 @@
     "wikiDataId": "Q1257443",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67180,
+      "name": "ウエド・ラウ",
+      "name_default": "Oued Laou",
+      "native": "واد لاو",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 11690,
+      "latitude": "35.44840000",
+      "longitude": "-5.09627000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q3099183",
+      "country_code": "MA",
+      "state_code": "TET",
+      "state_id": 3318,
+      "country_id": 149
+    },
+    {
+      "id": 67269,
+      "name": "ジナット",
+      "name_default": "Zinat",
+      "native": "زينات",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "35.43000000",
+      "longitude": "-5.40000000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q204287",
+      "country_code": "MA",
+      "state_code": "TET",
+      "state_id": 3318,
+      "country_id": 149
+    }
+  ]
 }

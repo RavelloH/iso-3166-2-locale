@@ -54,5 +54,42 @@
     "wikiDataId": "Q42811297",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31601,
+      "name": "إيلفا",
+      "name_default": "Elva",
+      "native": "Elva",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 5692,
+      "latitude": "58.22250000",
+      "longitude": "26.42111000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q213071",
+      "country_code": "EE",
+      "state_code": "171",
+      "state_id": 5739,
+      "country_id": 69
+    },
+    {
+      "id": 31679,
+      "name": "بوهجا",
+      "name_default": "Puhja",
+      "native": "Puhja",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 878,
+      "latitude": "58.34194000",
+      "longitude": "26.31472000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3470336",
+      "country_code": "EE",
+      "state_code": "171",
+      "state_id": 5739,
+      "country_id": 69
+    }
+  ]
 }

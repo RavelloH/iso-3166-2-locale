@@ -54,5 +54,24 @@
     "wikiDataId": "Q44491324",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31626,
+      "name": "كيهرا",
+      "name_default": "Kehra",
+      "native": "Kehra",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2873,
+      "latitude": "59.33611000",
+      "longitude": "25.32111000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q985464",
+      "country_code": "EE",
+      "state_code": "141",
+      "state_id": 5737,
+      "country_id": 69
+    }
+  ]
 }

@@ -79,6 +79,24 @@
       "state_code": "SIF",
       "state_id": 4946,
       "country_id": 149
+    },
+    {
+      "id": 67209,
+      "name": "Сиди-Ифни",
+      "name_default": "Sidi Ifni",
+      "native": "سيدي إفني",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 22696,
+      "latitude": "29.37719000",
+      "longitude": "-10.17111000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q632361",
+      "country_code": "MA",
+      "state_code": "SIF",
+      "state_id": 4946,
+      "country_id": 149
     }
   ]
 }

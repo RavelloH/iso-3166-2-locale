@@ -45,7 +45,7 @@
     "name_default": "Zarasai",
     "native": "Zarasai",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1621",
     "population": 5947,
     "latitude": "55.73096090",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q664415",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66707,
+      "name": "자라사이",
+      "name_default": "Zarasai",
+      "native": "Zarasai",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 5942,
+      "latitude": "55.73333000",
+      "longitude": "26.25000000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q203892",
+      "country_code": "LT",
+      "state_code": "60",
+      "state_id": 1619,
+      "country_id": 126
+    }
+  ]
 }

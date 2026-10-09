@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627812",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31661,
+      "name": "머스트비",
+      "name_default": "Mustvee",
+      "native": "Mustvee",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 1662,
+      "latitude": "58.84861000",
+      "longitude": "26.93972000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q842021",
+      "country_code": "EE",
+      "state_code": "486",
+      "state_id": 5765,
+      "country_id": 69
+    }
+  ]
 }

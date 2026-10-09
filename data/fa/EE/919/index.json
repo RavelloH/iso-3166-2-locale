@@ -54,5 +54,24 @@
     "wikiDataId": "Q193838",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31752,
+      "name": "وورو",
+      "name_default": "Võru",
+      "native": "Võru",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 12112,
+      "latitude": "57.83389000",
+      "longitude": "27.01944000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q205271",
+      "country_code": "EE",
+      "state_code": "919",
+      "state_id": 5814,
+      "country_id": 69
+    }
+  ]
 }

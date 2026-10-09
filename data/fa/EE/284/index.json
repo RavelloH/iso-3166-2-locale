@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627725",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31623,
+      "name": "کانپی",
+      "name_default": "Kanepi",
+      "native": "Kanepi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 516,
+      "latitude": "57.98306000",
+      "longitude": "26.75639000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3472643",
+      "country_code": "EE",
+      "state_code": "284",
+      "state_id": 5750,
+      "country_id": 69
+    }
+  ]
 }

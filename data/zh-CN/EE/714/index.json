@@ -54,5 +54,60 @@
     "wikiDataId": "Q15732447",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31643,
+      "name": "库雷萨雷",
+      "name_default": "Kuressaare",
+      "native": "Kuressaare",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 13185,
+      "latitude": "58.24806000",
+      "longitude": "22.50389000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q188179",
+      "country_code": "EE",
+      "state_code": "714",
+      "state_id": 5782,
+      "country_id": 69
+    },
+    {
+      "id": 31670,
+      "name": "奥里萨雷",
+      "name_default": "Orissaare",
+      "native": "Orissaare",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 1065,
+      "latitude": "58.55917000",
+      "longitude": "23.08262000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3139373",
+      "country_code": "EE",
+      "state_code": "714",
+      "state_id": 5782,
+      "country_id": 69
+    },
+    {
+      "id": 31723,
+      "name": "特胡马尔迪",
+      "name_default": "Tehumardi",
+      "native": "Tehumardi",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 0,
+      "latitude": "58.18027000",
+      "longitude": "22.24646000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3451173",
+      "country_code": "EE",
+      "state_code": "714",
+      "state_id": 5782,
+      "country_id": 69
+    }
+  ]
 }

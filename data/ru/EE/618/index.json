@@ -54,5 +54,24 @@
     "wikiDataId": "Q44854656",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31683,
+      "name": "Пылтсамаа",
+      "name_default": "Põltsamaa",
+      "native": "Põltsamaa",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 4106,
+      "latitude": "58.65250000",
+      "longitude": "25.97056000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q642660",
+      "country_code": "EE",
+      "state_code": "618",
+      "state_id": 5771,
+      "country_id": 69
+    }
+  ]
 }

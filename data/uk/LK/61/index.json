@@ -45,7 +45,7 @@
     "name_default": "Kurunegala",
     "native": "කුරුණෑගල",
     "type": "district",
-    "level": "1",
+    "level": "2",
     "parent_id": "2817",
     "population": 30315,
     "latitude": "7.72798370",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q745073",
     "country_code": "LK"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66502,
+      "name": "Курунегала",
+      "name_default": "Kurunegala",
+      "native": "කුරුණෑගල",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 28571,
+      "latitude": "7.48390000",
+      "longitude": "80.36830000",
+      "timezone": "Asia/Colombo",
+      "wikiDataId": "Q776887",
+      "country_code": "LK",
+      "state_code": "61",
+      "state_id": 5342,
+      "country_id": 208
+    }
+  ]
 }

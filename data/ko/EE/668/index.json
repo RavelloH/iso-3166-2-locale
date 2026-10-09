@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627893",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31693,
+      "name": "라플라",
+      "name_default": "Rapla",
+      "native": "Rapla",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5355,
+      "latitude": "59.00722000",
+      "longitude": "24.79278000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q215971",
+      "country_code": "EE",
+      "state_code": "668",
+      "state_id": 5777,
+      "country_id": 69
+    }
+  ]
 }

@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627877",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31598,
+      "name": "阿鲁屈拉",
+      "name_default": "Aruküla",
+      "native": "Aruküla",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 2198,
+      "latitude": "59.36686000",
+      "longitude": "25.07618000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q617868",
+      "country_code": "EE",
+      "state_code": "651",
+      "state_id": 5774,
+      "country_id": 69
+    },
+    {
+      "id": 31688,
+      "name": "拉西库",
+      "name_default": "Raasiku",
+      "native": "Raasiku",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 5161,
+      "latitude": "59.36639000",
+      "longitude": "25.18306000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q2097814",
+      "country_code": "EE",
+      "state_code": "651",
+      "state_id": 5774,
+      "country_id": 69
+    }
+  ]
 }

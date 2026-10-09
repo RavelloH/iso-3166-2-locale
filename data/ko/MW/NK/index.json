@@ -54,5 +54,24 @@
     "wikiDataId": "Q687248",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67987,
+      "name": "은코타코타",
+      "name_default": "Nkhotakota",
+      "native": "Nkhotakota",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 31974,
+      "latitude": "-12.92744000",
+      "longitude": "34.29614000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1022510",
+      "country_code": "MW",
+      "state_code": "NK",
+      "state_id": 3100,
+      "country_id": 131
+    }
+  ]
 }

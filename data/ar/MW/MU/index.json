@@ -54,5 +54,24 @@
     "wikiDataId": "Q509097",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67977,
+      "name": "مولانجي",
+      "name_default": "Mulanje",
+      "native": "Mulanje",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 16672,
+      "latitude": "-16.03163000",
+      "longitude": "35.50000000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1865092",
+      "country_code": "MW",
+      "state_code": "MU",
+      "state_id": 3103,
+      "country_id": 131
+    }
+  ]
 }

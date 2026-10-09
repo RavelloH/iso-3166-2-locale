@@ -54,5 +54,24 @@
     "wikiDataId": "Q1045435",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67981,
+      "name": "مزیمبا",
+      "name_default": "Mzimba",
+      "native": "Mzimba",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 29432,
+      "latitude": "-11.90000000",
+      "longitude": "33.60000000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1666876",
+      "country_code": "MW",
+      "state_code": "MZ",
+      "state_id": 3104,
+      "country_id": 131
+    }
+  ]
 }

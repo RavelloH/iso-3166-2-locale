@@ -54,5 +54,24 @@
     "wikiDataId": "Q1044312",
     "country_code": "MW"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67997,
+      "name": "ルンピ",
+      "name_default": "Rumphi",
+      "native": "Rumphi",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 25216,
+      "latitude": "-11.01863000",
+      "longitude": "33.85746000",
+      "timezone": "Africa/Blantyre",
+      "wikiDataId": "Q1022535",
+      "country_code": "MW",
+      "state_code": "RU",
+      "state_id": 3089,
+      "country_id": 131
+    }
+  ]
 }

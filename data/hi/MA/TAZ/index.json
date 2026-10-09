@@ -61,5 +61,24 @@
     "wikiDataId": "Q1819589",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67053,
+      "name": "अकनौल",
+      "name_default": "Aknoul",
+      "native": "أكنول",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 4410,
+      "latitude": "34.65371000",
+      "longitude": "-3.86754000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q603331",
+      "country_code": "MA",
+      "state_code": "TAZ",
+      "state_id": 3296,
+      "country_id": 149
+    }
+  ]
 }

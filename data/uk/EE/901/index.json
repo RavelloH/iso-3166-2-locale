@@ -54,5 +54,60 @@
     "wikiDataId": "Q2628002",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31675,
+      "name": "Пажусті",
+      "name_default": "Pajusti",
+      "native": "Pajusti",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 645,
+      "latitude": "59.27444000",
+      "longitude": "26.42333000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3130501",
+      "country_code": "EE",
+      "state_code": "901",
+      "state_id": 5795,
+      "country_id": 69
+    },
+    {
+      "id": 31742,
+      "name": "Вінні",
+      "name_default": "Vinni",
+      "native": "Vinni",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 864,
+      "latitude": "59.29583000",
+      "longitude": "26.43222000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q3470533",
+      "country_code": "EE",
+      "state_code": "901",
+      "state_id": 5795,
+      "country_id": 69
+    },
+    {
+      "id": 31743,
+      "name": "Вінні вальд",
+      "name_default": "Vinni vald",
+      "native": "Vinni vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.23744000",
+      "longitude": "26.62261000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q301179",
+      "country_code": "EE",
+      "state_code": "901",
+      "state_id": 5795,
+      "country_id": 69
+    }
+  ]
 }

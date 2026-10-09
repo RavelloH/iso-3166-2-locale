@@ -54,5 +54,24 @@
     "wikiDataId": "Q2627872",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31685,
+      "name": "पोलवा",
+      "name_default": "Põlva",
+      "native": "Põlva",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 5498,
+      "latitude": "58.06028000",
+      "longitude": "27.06944000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q45100",
+      "country_code": "EE",
+      "state_code": "622",
+      "state_id": 5772,
+      "country_id": 69
+    }
+  ]
 }

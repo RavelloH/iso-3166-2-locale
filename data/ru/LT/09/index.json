@@ -45,7 +45,7 @@
     "name_default": "Ignalina",
     "native": "Ignalina",
     "type": "district municipality",
-    "level": "1",
+    "level": "2",
     "parent_id": "1621",
     "population": 4998,
     "latitude": "55.33989750",
@@ -54,5 +54,24 @@
     "wikiDataId": "Q2069330",
     "country_code": "LT"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 66594,
+      "name": "Дукштас",
+      "name_default": "Dūkštas",
+      "native": "Dūkštas",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 888,
+      "latitude": "55.52200000",
+      "longitude": "26.32100000",
+      "timezone": "Europe/Vilnius",
+      "wikiDataId": "Q2356406",
+      "country_code": "LT",
+      "state_code": "09",
+      "state_id": 1562,
+      "country_id": 126
+    }
+  ]
 }

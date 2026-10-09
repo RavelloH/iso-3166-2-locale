@@ -61,5 +61,60 @@
     "wikiDataId": "Q820802",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67051,
+      "name": "Ахфир",
+      "name_default": "Ahfir",
+      "native": "أحفير",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 21435,
+      "latitude": "34.95368000",
+      "longitude": "-2.10027000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2544620",
+      "country_code": "MA",
+      "state_code": "BER",
+      "state_id": 3285,
+      "country_id": 149
+    },
+    {
+      "id": 67157,
+      "name": "Мадаг",
+      "name_default": "Madagh",
+      "native": "مداغ",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 2677,
+      "latitude": "35.01032000",
+      "longitude": "-2.33701000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q6726176",
+      "country_code": "MA",
+      "state_code": "BER",
+      "state_id": 3285,
+      "country_id": 149
+    },
+    {
+      "id": 67198,
+      "name": "Саидия",
+      "name_default": "Saidia",
+      "native": "السعيدية",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 10514,
+      "latitude": "35.08195000",
+      "longitude": "-2.22897000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q4759",
+      "country_code": "MA",
+      "state_code": "BER",
+      "state_id": 3285,
+      "country_id": 149
+    }
+  ]
 }

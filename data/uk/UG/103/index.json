@@ -54,5 +54,24 @@
     "wikiDataId": "Q892064",
     "country_code": "UG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 110913,
+      "name": "Кібога",
+      "name_default": "Kiboga",
+      "native": "Kiboga",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 22400,
+      "latitude": "0.91611000",
+      "longitude": "31.77417000",
+      "timezone": "Africa/Kampala",
+      "wikiDataId": "Q1810614",
+      "country_code": "UG",
+      "state_code": "103",
+      "state_id": 347,
+      "country_id": 229
+    }
+  ]
 }

@@ -61,5 +61,60 @@
     "wikiDataId": "Q2024447",
     "country_code": "MA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 67061,
+      "name": "Aoufous",
+      "name_default": "Aoufous",
+      "native": "عوفوس",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 1295,
+      "latitude": "31.68000000",
+      "longitude": "-4.17000000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q2857997",
+      "country_code": "MA",
+      "state_code": "ERR",
+      "state_id": 3299,
+      "country_id": 149
+    },
+    {
+      "id": 67067,
+      "name": "Erfoud",
+      "name_default": "Arfoud",
+      "native": "أرفود",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 31971,
+      "latitude": "31.43530000",
+      "longitude": "-4.23258000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q648987",
+      "country_code": "MA",
+      "state_code": "ERR",
+      "state_id": 3299,
+      "country_id": 149
+    },
+    {
+      "id": 67142,
+      "name": "Jorf",
+      "name_default": "Jorf",
+      "native": "جورف",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 11865,
+      "latitude": "31.49442000",
+      "longitude": "-4.40598000",
+      "timezone": "Africa/Casablanca",
+      "wikiDataId": "Q1276800",
+      "country_code": "MA",
+      "state_code": "ERR",
+      "state_id": 3299,
+      "country_id": 149
+    }
+  ]
 }
