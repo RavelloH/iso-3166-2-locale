@@ -54,5 +54,24 @@
     "wikiDataId": "Q81581",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55925,
+      "name": "Szeged",
+      "name_default": "Szeged",
+      "native": "Szeged",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 157282,
+      "latitude": "46.25300000",
+      "longitude": "20.14824000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q81581",
+      "country_code": "HU",
+      "state_code": "SD",
+      "state_id": 1029,
+      "country_id": 99
+    }
+  ]
 }

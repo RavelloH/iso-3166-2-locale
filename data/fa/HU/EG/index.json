@@ -54,5 +54,24 @@
     "wikiDataId": "Q167109",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55398,
+      "name": "اگر",
+      "name_default": "Eger",
+      "native": "Eger",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 53876,
+      "latitude": "47.90265000",
+      "longitude": "20.37329000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q167109",
+      "country_code": "HU",
+      "state_code": "EG",
+      "state_id": 1037,
+      "country_id": 99
+    }
+  ]
 }

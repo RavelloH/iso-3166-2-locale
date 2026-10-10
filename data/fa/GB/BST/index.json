@@ -90,42 +90,6 @@
       "state_code": "BST",
       "state_id": 2413,
       "country_id": 232
-    },
-    {
-      "id": 49007,
-      "name": "City of Bristol",
-      "name_default": "City of Bristol",
-      "native": "City of Bristol",
-      "type": "area",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "51.45000000",
-      "longitude": "-2.60000000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q21693433",
-      "country_code": "GB",
-      "state_code": "BST",
-      "state_id": 2413,
-      "country_id": 232
-    },
-    {
-      "id": 50390,
-      "name": "لانگ اشتون",
-      "name_default": "Long Ashton",
-      "native": "Long Ashton",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 6534,
-      "latitude": "51.42997000",
-      "longitude": "-2.66098000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q4990691",
-      "country_code": "GB",
-      "state_code": "BST",
-      "state_id": 2413,
-      "country_id": 232
     }
   ]
 }

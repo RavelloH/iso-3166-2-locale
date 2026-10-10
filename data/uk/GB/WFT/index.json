@@ -54,24 +54,5 @@
     "wikiDataId": "Q40608",
     "country_code": "GB"
   },
-  "cities": [
-    {
-      "id": 51974,
-      "name": "Вудфорд-Грін",
-      "name_default": "Woodford Green",
-      "native": "Woodford Green",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22803,
-      "latitude": "51.60938000",
-      "longitude": "0.02329000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q2679243",
-      "country_code": "GB",
-      "state_code": "WFT",
-      "state_id": 2326,
-      "country_id": 232
-    }
-  ]
+  "cities": []
 }

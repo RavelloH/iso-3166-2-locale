@@ -54,5 +54,24 @@
     "wikiDataId": "Q79880",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55353,
+      "name": "Debrecen",
+      "name_default": "Debrecen",
+      "native": "Debrecen",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 213858,
+      "latitude": "47.53333000",
+      "longitude": "21.63333000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q79880",
+      "country_code": "HU",
+      "state_code": "DE",
+      "state_id": 1032,
+      "country_id": 99
+    }
+  ]
 }

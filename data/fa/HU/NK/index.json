@@ -54,5 +54,24 @@
     "wikiDataId": "Q14424",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55748,
+      "name": "نادکانیژا",
+      "name_default": "Nagykanizsa",
+      "native": "Nagykanizsa",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 47349,
+      "latitude": "46.45347000",
+      "longitude": "16.99104000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q14424",
+      "country_code": "HU",
+      "state_code": "NK",
+      "state_id": 1030,
+      "country_id": 99
+    }
+  ]
 }

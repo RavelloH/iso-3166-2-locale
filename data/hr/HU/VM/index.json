@@ -54,5 +54,24 @@
     "wikiDataId": "Q146317",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 56100,
+      "name": "Vesprim",
+      "name_default": "Veszprém",
+      "native": "Veszprém",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 56927,
+      "latitude": "47.09327000",
+      "longitude": "17.91149000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q146317",
+      "country_code": "HU",
+      "state_code": "VM",
+      "state_id": 1062,
+      "country_id": 99
+    }
+  ]
 }

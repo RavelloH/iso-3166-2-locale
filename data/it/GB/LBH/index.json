@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 49011,
-      "name": "Città di Londra",
-      "name_default": "City of London",
-      "native": "City of London",
-      "type": "adm3",
-      "level": null,
-      "parent_id": null,
-      "population": 8072,
-      "latitude": "51.51279000",
-      "longitude": "-0.09184000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q23311",
-      "country_code": "GB",
-      "state_code": "LBH",
-      "state_id": 2396,
-      "country_id": 232
-    },
-    {
       "id": 50229,
       "name": "Lambeth",
       "name_default": "Lambeth",

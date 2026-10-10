@@ -54,5 +54,24 @@
     "wikiDataId": "Q134494",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55466,
+      "name": "ग्योर",
+      "name_default": "Győr",
+      "native": "Győr",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 129301,
+      "latitude": "47.68333000",
+      "longitude": "17.63512000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q134494",
+      "country_code": "HU",
+      "state_code": "GY",
+      "state_id": 1041,
+      "country_id": 99
+    }
+  ]
 }

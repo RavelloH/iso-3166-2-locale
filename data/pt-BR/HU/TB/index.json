@@ -54,5 +54,24 @@
     "wikiDataId": "Q187821",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 149659,
+      "name": "Tatabánya",
+      "name_default": "Tatabánya",
+      "native": "Tatabánya",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 84985,
+      "latitude": "47.58616000",
+      "longitude": "18.39485000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q187821",
+      "country_code": "HU",
+      "state_code": "TB",
+      "state_id": 1066,
+      "country_id": 99
+    }
+  ]
 }

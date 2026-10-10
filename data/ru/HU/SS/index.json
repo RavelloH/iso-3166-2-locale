@@ -54,5 +54,24 @@
     "wikiDataId": "Q189761",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55930,
+      "name": "Сексард",
+      "name_default": "Szekszárd",
+      "native": "Szekszárd",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 29337,
+      "latitude": "46.35014000",
+      "longitude": "18.70905000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q189761",
+      "country_code": "HU",
+      "state_code": "SS",
+      "state_id": 1061,
+      "country_id": 99
+    }
+  ]
 }

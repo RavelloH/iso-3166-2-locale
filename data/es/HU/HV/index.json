@@ -54,5 +54,24 @@
     "wikiDataId": "Q124375",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55521,
+      "name": "Hódmezővásárhely",
+      "name_default": "Hódmezővásárhely",
+      "native": "Hódmezővásárhely",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 51120,
+      "latitude": "46.41667000",
+      "longitude": "20.33333000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q124375",
+      "country_code": "HU",
+      "state_code": "HV",
+      "state_id": 1027,
+      "country_id": 99
+    }
+  ]
 }

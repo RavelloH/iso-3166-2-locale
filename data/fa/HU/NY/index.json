@@ -54,5 +54,24 @@
     "wikiDataId": "Q171223",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55779,
+      "name": "نیرگهزا",
+      "name_default": "Nyíregyháza",
+      "native": "Nyíregyháza",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 117689,
+      "latitude": "47.95539000",
+      "longitude": "21.71671000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q171223",
+      "country_code": "HU",
+      "state_code": "NY",
+      "state_id": 1034,
+      "country_id": 99
+    }
+  ]
 }

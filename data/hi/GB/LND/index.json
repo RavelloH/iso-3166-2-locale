@@ -54,5 +54,24 @@
     "wikiDataId": "Q23311",
     "country_code": "GB"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 49011,
+      "name": "सिटी ऑफ़ लंदन",
+      "name_default": "City of London",
+      "native": "City of London",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 8072,
+      "latitude": "51.51279000",
+      "longitude": "-0.09184000",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q23311",
+      "country_code": "GB",
+      "state_code": "LND",
+      "state_id": 2424,
+      "country_id": 232
+    }
+  ]
 }

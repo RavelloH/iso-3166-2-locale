@@ -74,6 +74,24 @@
       "country_id": 232
     },
     {
+      "id": 50518,
+      "name": "マーシュフィールド",
+      "name_default": "Marshfield",
+      "native": "Marshfield",
+      "type": "adm3",
+      "level": null,
+      "parent_id": null,
+      "population": 3054,
+      "latitude": "51.53389000",
+      "longitude": "-3.07306000",
+      "timezone": "Europe/London",
+      "wikiDataId": null,
+      "country_code": "GB",
+      "state_code": "NWP",
+      "state_id": 2524,
+      "country_id": 232
+    },
+    {
       "id": 50720,
       "name": "ニューポート",
       "name_default": "Newport",

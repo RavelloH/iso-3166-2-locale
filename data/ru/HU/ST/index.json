@@ -54,5 +54,24 @@
     "wikiDataId": "Q189769",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55889,
+      "name": "Шальготарьян",
+      "name_default": "Salgótarján",
+      "native": "Salgótarján",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 30416,
+      "latitude": "48.09872000",
+      "longitude": "19.80303000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q189769",
+      "country_code": "HU",
+      "state_code": "ST",
+      "state_id": 1068,
+      "country_id": 99
+    }
+  ]
 }

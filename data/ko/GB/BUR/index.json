@@ -56,24 +56,6 @@
   },
   "cities": [
     {
-      "id": 48600,
-      "name": "버리 자치구",
-      "name_default": "Borough of Bury",
-      "native": "Borough of Bury",
-      "type": "area",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "53.58333000",
-      "longitude": "-2.33333000",
-      "timezone": "Europe/London",
-      "wikiDataId": "Q512036",
-      "country_code": "GB",
-      "state_code": "BUR",
-      "state_id": 2459,
-      "country_id": 232
-    },
-    {
       "id": 48798,
       "name": "베리",
       "name_default": "Bury",

@@ -54,5 +54,24 @@
     "wikiDataId": "Q181276",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55964,
+      "name": "سلنوک",
+      "name_default": "Szolnok",
+      "native": "Szolnok",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 71285,
+      "latitude": "47.18333000",
+      "longitude": "20.20000000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q181276",
+      "country_code": "HU",
+      "state_code": "SK",
+      "state_id": 1047,
+      "country_id": 99
+    }
+  ]
 }

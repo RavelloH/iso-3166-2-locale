@@ -54,5 +54,24 @@
     "wikiDataId": "Q168648",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55909,
+      "name": "Šopron",
+      "name_default": "Sopron",
+      "native": "Sopron",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 62246,
+      "latitude": "47.68501000",
+      "longitude": "16.59049000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q168648",
+      "country_code": "HU",
+      "state_code": "SN",
+      "state_id": 1057,
+      "country_id": 99
+    }
+  ]
 }

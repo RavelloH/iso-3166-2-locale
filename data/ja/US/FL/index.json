@@ -4644,24 +4644,6 @@
       "country_id": 233
     },
     {
-      "id": 117581,
-      "name": "グレーター・ノースデール",
-      "name_default": "Greater Northdale",
-      "native": "Greater Northdale",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": 22079,
-      "latitude": "28.10545000",
-      "longitude": "-82.52594000",
-      "timezone": "America/New_York",
-      "wikiDataId": "Q2510570",
-      "country_code": "US",
-      "state_code": "FL",
-      "state_id": 1436,
-      "country_id": 233
-    },
-    {
       "id": 117594,
       "name": "グリーン・コーブ・スプリングス",
       "name_default": "Green Cove Springs",
@@ -8766,7 +8748,7 @@
       "country_id": 233
     },
     {
-      "id": 123145,
+      "id": 117581,
       "name": "ノースデール",
       "name_default": "Northdale",
       "native": "Northdale",
@@ -8774,8 +8756,8 @@
       "level": null,
       "parent_id": null,
       "population": 22079,
-      "latitude": "28.09390000",
-      "longitude": "-82.50561000",
+      "latitude": "28.10545000",
+      "longitude": "-82.52594000",
       "timezone": "America/New_York",
       "wikiDataId": "Q2510570",
       "country_code": "US",

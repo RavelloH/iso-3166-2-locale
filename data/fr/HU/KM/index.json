@@ -54,5 +54,24 @@
     "wikiDataId": "Q171357",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55579,
+      "name": "Kecskemét",
+      "name_default": "Kecskemét",
+      "native": "Kecskemét",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 109847,
+      "latitude": "46.90618000",
+      "longitude": "19.69128000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q171357",
+      "country_code": "HU",
+      "state_code": "KM",
+      "state_id": 1056,
+      "country_id": 99
+    }
+  ]
 }

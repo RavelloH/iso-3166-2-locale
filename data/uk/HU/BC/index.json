@@ -54,5 +54,24 @@
     "wikiDataId": "Q178878",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55297,
+      "name": "Бекешчаба",
+      "name_default": "Békéscsaba",
+      "native": "Békéscsaba",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 74594,
+      "latitude": "46.68333000",
+      "longitude": "21.10000000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q178878",
+      "country_code": "HU",
+      "state_code": "BC",
+      "state_id": 1036,
+      "country_id": 99
+    }
+  ]
 }

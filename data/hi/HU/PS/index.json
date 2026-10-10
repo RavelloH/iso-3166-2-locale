@@ -54,5 +54,24 @@
     "wikiDataId": "Q45779",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55850,
+      "name": "पेच",
+      "name_default": "Pécs",
+      "native": "Pécs",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 172908,
+      "latitude": "46.08333000",
+      "longitude": "18.23333000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q45779",
+      "country_code": "HU",
+      "state_code": "PS",
+      "state_id": 1053,
+      "country_id": 99
+    }
+  ]
 }

@@ -54,5 +54,24 @@
     "wikiDataId": "Q184998",
     "country_code": "HU"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 55561,
+      "name": "Kaposvár",
+      "name_default": "Kaposvár",
+      "native": "Kaposvár",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 64280,
+      "latitude": "46.36667000",
+      "longitude": "17.80000000",
+      "timezone": "Europe/Budapest",
+      "wikiDataId": "Q184998",
+      "country_code": "HU",
+      "state_code": "KV",
+      "state_id": 1067,
+      "country_id": 99
+    }
+  ]
 }
