@@ -74,6 +74,24 @@
       "country_id": 232
     },
     {
+      "id": 153932,
+      "name": "Саутгемптон",
+      "name_default": "Southampton",
+      "native": "Southampton",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 271173,
+      "latitude": "50.90666667",
+      "longitude": "-1.40444444",
+      "timezone": "Europe/London",
+      "wikiDataId": "Q79848",
+      "country_code": "GB",
+      "state_code": "STH",
+      "state_id": 2294,
+      "country_id": 232
+    },
+    {
       "id": 51834,
       "name": "Вест-Веллоу",
       "name_default": "West Wellow",
