@@ -254,6 +254,24 @@
       "country_id": 240
     },
     {
+      "id": 166302,
+      "name": "Hanoi",
+      "name_default": "Hanoi",
+      "native": "Hà Nội",
+      "type": "city",
+      "level": "1",
+      "parent_id": null,
+      "population": 8858000,
+      "latitude": "21.02450000",
+      "longitude": "105.84117000",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "wikiDataId": "Q1858",
+      "country_code": "VN",
+      "state_code": "HN",
+      "state_id": 3810,
+      "country_id": 240
+    },
+    {
       "id": 154458,
       "name": "Хоайдок",
       "name_default": "Hoài Đức",

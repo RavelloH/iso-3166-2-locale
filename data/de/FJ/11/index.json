@@ -54,5 +54,24 @@
     "wikiDataId": "Q1208350",
     "country_code": "FJ"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165922,
+      "name": "Vaileka",
+      "name_default": "Vaileka",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-17.37894000",
+      "longitude": "178.15329000",
+      "timezone": "Pacific/Fiji",
+      "wikiDataId": "Q2705079",
+      "country_code": "FJ",
+      "state_code": "11",
+      "state_id": 1926,
+      "country_id": 73
+    }
+  ]
 }

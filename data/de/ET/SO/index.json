@@ -234,6 +234,24 @@
       "state_code": "SO",
       "state_id": 2,
       "country_id": 70
+    },
+    {
+      "id": 165921,
+      "name": "Warder",
+      "name_default": "Warder",
+      "native": "Wardheer",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "6.97444000",
+      "longitude": "45.34083000",
+      "timezone": "Africa/Addis_Ababa",
+      "wikiDataId": "Q635334",
+      "country_code": "ET",
+      "state_code": "SO",
+      "state_id": 2,
+      "country_id": 70
     }
   ]
 }

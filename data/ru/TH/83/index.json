@@ -236,24 +236,6 @@
       "country_id": 219
     },
     {
-      "id": 105575,
-      "name": "Столичный ампхе Пхукет",
-      "name_default": "Mueang Phuket",
-      "native": "อำเภอเมืองภูเก็ต",
-      "type": "district",
-      "level": null,
-      "parent_id": null,
-      "population": 0,
-      "latitude": "7.85609000",
-      "longitude": "98.37183000",
-      "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q476065",
-      "country_code": "TH",
-      "state_code": "83",
-      "state_id": 3536,
-      "country_id": 219
-    },
-    {
       "id": 106578,
       "name": "Най Харн",
       "name_default": "Nai Harn",
@@ -265,7 +247,7 @@
       "latitude": "7.77859000",
       "longitude": "98.30661000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q28727633",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "83",
       "state_id": 3536,

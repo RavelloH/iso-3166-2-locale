@@ -98,6 +98,24 @@
   },
   "cities": [
     {
+      "id": 165928,
+      "name": "Aksuat",
+      "name_default": "Aksuat",
+      "native": "Ақсуат",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.76124000",
+      "longitude": "82.80858000",
+      "timezone": "Asia/Almaty",
+      "wikiDataId": "Q2752954",
+      "country_code": "KZ",
+      "state_code": "10",
+      "state_id": 5455,
+      "country_id": 112
+    },
+    {
       "id": 65627,
       "name": "アヤゴズ",
       "name_default": "Ayagoz",

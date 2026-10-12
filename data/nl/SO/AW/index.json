@@ -54,5 +54,24 @@
     "wikiDataId": "Q791667",
     "country_code": "SO"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165932,
+      "name": "Borama",
+      "name_default": "Borama",
+      "native": "Boorama",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "9.93611000",
+      "longitude": "43.18278000",
+      "timezone": "Africa/Mogadishu",
+      "wikiDataId": "Q893092",
+      "country_code": "SO",
+      "state_code": "AW",
+      "state_id": 925,
+      "country_id": 203
+    }
+  ]
 }

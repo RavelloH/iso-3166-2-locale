@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165918,
+      "name": "Bala Murghab",
+      "name_default": "Bala Murghab",
+      "native": "بالا مرغاب",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "35.58408000",
+      "longitude": "63.32886000",
+      "timezone": "Asia/Kabul",
+      "wikiDataId": "Q3633185",
+      "country_code": "AF",
+      "state_code": "BDG",
+      "state_id": 3871,
+      "country_id": 1
+    },
+    {
       "id": 72,
       "name": "घोरमाच",
       "name_default": "Ghormach",

@@ -54,5 +54,24 @@
     "wikiDataId": "Q488904",
     "country_code": "SS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165934,
+      "name": "Bor",
+      "name_default": "Bor",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "6.20889000",
+      "longitude": "31.55861000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q893274",
+      "country_code": "SS",
+      "state_code": "JG",
+      "state_id": 2094,
+      "country_id": 206
+    }
+  ]
 }

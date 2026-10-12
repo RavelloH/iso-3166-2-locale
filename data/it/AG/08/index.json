@@ -54,5 +54,24 @@
     "wikiDataId": "Q1996895",
     "country_code": "AG"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165919,
+      "name": "Freetown",
+      "name_default": "Freetown",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "17.04791000",
+      "longitude": "-61.70332000",
+      "timezone": "America/Antigua",
+      "wikiDataId": "Q1942963",
+      "country_code": "AG",
+      "state_code": "08",
+      "state_id": 3710,
+      "country_id": 10
+    }
+  ]
 }

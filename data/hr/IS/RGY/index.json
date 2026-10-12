@@ -54,5 +54,24 @@
     "wikiDataId": "Q540016",
     "country_code": "IS"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165925,
+      "name": "Hella",
+      "name_default": "Hella",
+      "native": "Hella",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "63.83480000",
+      "longitude": "-20.40084000",
+      "timezone": "Atlantic/Reykjavik",
+      "wikiDataId": "Q1602650",
+      "country_code": "IS",
+      "state_code": "RGY",
+      "state_id": 5591,
+      "country_id": 100
+    }
+  ]
 }

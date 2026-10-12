@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165933,
+      "name": "Juba",
+      "name_default": "Juba",
+      "native": "Juba",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "4.85165000",
+      "longitude": "31.58247000",
+      "timezone": "Africa/Juba",
+      "wikiDataId": "Q1947",
+      "country_code": "SS",
+      "state_code": "EC",
+      "state_id": 2092,
+      "country_id": 206
+    },
+    {
       "id": 165564,
       "name": "Yei",
       "name_default": "Yei",

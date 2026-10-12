@@ -54,5 +54,24 @@
     "wikiDataId": "Q14824027",
     "country_code": "NA"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 165930,
+      "name": "Nkurenkuru",
+      "name_default": "Nkurenkuru",
+      "native": null,
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "-17.64182000",
+      "longitude": "18.61966000",
+      "timezone": "Africa/Windhoek",
+      "wikiDataId": "Q918461",
+      "country_code": "NA",
+      "state_code": "KW",
+      "state_id": 35,
+      "country_id": 152
+    }
+  ]
 }

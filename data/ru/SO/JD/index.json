@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165931,
+      "name": "Bu’aale",
+      "name_default": "Bu’aale",
+      "native": "Bu’aale",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "1.25168250",
+      "longitude": "42.57613640",
+      "timezone": "Africa/Mogadishu",
+      "wikiDataId": "Q997314",
+      "country_code": "SO",
+      "state_code": "JD",
+      "state_id": 922,
+      "country_id": 203
+    },
+    {
       "id": 104794,
       "name": "Дуджума",
       "name_default": "Dujuuma",

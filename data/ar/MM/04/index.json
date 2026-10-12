@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 165929,
+      "name": "Amarapura",
+      "name_default": "Amarapura",
+      "native": "အမရပူရမြို့",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "21.90709000",
+      "longitude": "96.04894000",
+      "timezone": "Asia/Yangon",
+      "wikiDataId": "Q454949",
+      "country_code": "MM",
+      "state_code": "04",
+      "state_id": 2134,
+      "country_id": 151
+    },
+    {
       "id": 67649,
       "name": "كياوكسي",
       "name_default": "Kyaukse",
