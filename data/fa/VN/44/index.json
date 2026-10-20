@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130210,
+      "id": 167913,
       "name": "An Minh",
       "name_default": "An Minh",
       "native": "An Minh",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130211,
+      "id": 167914,
       "name": "An Phú",
       "name_default": "An Phú",
       "native": "An Phú",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130248,
+      "id": 167942,
       "name": "Châu Phú",
       "name_default": "Châu Phú",
       "native": "Châu Phú",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130249,
+      "id": 167943,
       "name": "Châu Thành",
       "name_default": "Châu Thành",
       "native": "Châu Thành",
@@ -146,7 +146,7 @@
       "country_id": 240
     },
     {
-      "id": 130262,
+      "id": 167953,
       "name": "Chợ Mới",
       "name_default": "Chợ Mới",
       "native": "Chợ Mới",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130290,
+      "id": 167968,
       "name": "Giồng Riềng",
       "name_default": "Giồng Riềng",
       "native": "Giồng Riềng",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130295,
+      "id": 167973,
       "name": "Gò Quao",
       "name_default": "Gò Quao",
       "native": "Gò Quao",
@@ -222,8 +222,8 @@
       "name": "ها تین",
       "name_default": "Hà Tiên",
       "native": "Hà Tiên",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 100560,
       "latitude": "10.38310000",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130307,
+      "id": 167978,
       "name": "Hòn Đất",
       "name_default": "Hòn Đất",
       "native": "Hòn Đất",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130401,
+      "id": 168039,
       "name": "Phú Tân",
       "name_default": "Phú Tân",
       "native": "Phú Tân",
@@ -348,8 +348,8 @@
       "name": "راچا گیا",
       "name_default": "Rạch Giá",
       "native": "Rạch Giá",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 459860,
       "latitude": "10.01245000",
@@ -366,8 +366,8 @@
       "name": "Tân Châu",
       "name_default": "Tân Châu",
       "native": null,
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 175211,
       "latitude": "10.79832000",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130481,
+      "id": 168093,
       "name": "Tân Hiệp",
       "name_default": "Tân Hiệp",
       "native": "Tân Hiệp",
@@ -398,7 +398,7 @@
       "country_id": 240
     },
     {
-      "id": 130461,
+      "id": 168077,
       "name": "Tri Tôn",
       "name_default": "Tri Tôn",
       "native": "Tri Tôn",
@@ -416,7 +416,7 @@
       "country_id": 240
     },
     {
-      "id": 130502,
+      "id": 168108,
       "name": "Vĩnh Phong",
       "name_default": "Vĩnh Phong",
       "native": "Vĩnh Phong",

@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130218,
+      "id": 167916,
       "name": "Bá Thước",
       "name_default": "Bá Thước",
       "native": "Bá Thước",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130317,
+      "id": 167987,
       "name": "Hậu Lộc",
       "name_default": "Hậu Lộc",
       "native": "Hậu Lộc",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130341,
+      "id": 168000,
       "name": "Linh Sơn",
       "name_default": "Linh Sơn",
       "native": "Linh Sơn",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130380,
+      "id": 168025,
       "name": "Nga Sơn",
       "name_default": "Nga Sơn",
       "native": "Nga Sơn",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130389,
+      "id": 168032,
       "name": "Ngọc Lặc",
       "name_default": "Ngọc Lặc",
       "native": "Ngọc Lặc",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130391,
+      "id": 168033,
       "name": "Như Thanh",
       "name_default": "Như Thanh",
       "native": "Như Thanh",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130392,
+      "id": 168034,
       "name": "Như Xuân",
       "name_default": "Như Xuân",
       "native": "Như Xuân",
@@ -344,7 +344,7 @@
       "country_id": 240
     },
     {
-      "id": 130393,
+      "id": 168035,
       "name": "Nông Cống",
       "name_default": "Nông Cống",
       "native": "Nông Cống",
@@ -366,8 +366,8 @@
       "name": "Thanh Hóa",
       "name_default": "Thanh Hóa",
       "native": "Thanh Hóa",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 850000,
       "latitude": "19.80000000",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130451,
+      "id": 168069,
       "name": "Thọ Xuân",
       "name_default": "Thọ Xuân",
       "native": "Thọ Xuân",
@@ -398,7 +398,7 @@
       "country_id": 240
     },
     {
-      "id": 130445,
+      "id": 168063,
       "name": "Thường Xuân",
       "name_default": "Thường Xuân",
       "native": "Thường Xuân",
@@ -416,7 +416,7 @@
       "country_id": 240
     },
     {
-      "id": 130463,
+      "id": 168079,
       "name": "Triệu Sơn",
       "name_default": "Triệu Sơn",
       "native": "Triệu Sơn",
@@ -434,7 +434,7 @@
       "country_id": 240
     },
     {
-      "id": 130501,
+      "id": 168107,
       "name": "Vĩnh Lộc",
       "name_default": "Vĩnh Lộc",
       "native": "Vĩnh Lộc",
@@ -452,7 +452,7 @@
       "country_id": 240
     },
     {
-      "id": 130522,
+      "id": 168123,
       "name": "Yên Định",
       "name_default": "Yên Định",
       "native": "Yên Định",

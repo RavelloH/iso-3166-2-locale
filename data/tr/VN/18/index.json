@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130223,
+      "id": 167920,
       "name": "Bình Mỹ",
       "name_default": "Bình Mỹ",
       "native": "Bình Mỹ",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130474,
+      "id": 168086,
       "name": "Cổ Lễ",
       "name_default": "Cổ Lễ",
       "native": "Cổ Lễ",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130315,
+      "id": 167986,
       "name": "Hải Hậu",
       "name_default": "Hải Hậu",
       "native": "Hải Hậu",
@@ -258,8 +258,8 @@
       "name": "Nam Dinh",
       "name_default": "Nam Định",
       "native": "Nam Định",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 448225,
       "latitude": "20.43389000",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130377,
+      "id": 168024,
       "name": "Nam Trực",
       "name_default": "Nam Trực",
       "native": "Nam Trực",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130384,
+      "id": 168028,
       "name": "Nghĩa Hưng",
       "name_default": "Nghĩa Hưng",
       "native": "Nghĩa Hưng",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130327,
+      "id": 167992,
       "name": "Phát Diệm",
       "name_default": "Phát Diệm",
       "native": "Phát Diệm",
@@ -348,8 +348,8 @@
       "name": "Phu Ly",
       "name_default": "Phủ Lý",
       "native": "Phủ Lý",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 136654,
       "latitude": "20.54531000",
@@ -362,7 +362,7 @@
       "country_id": 240
     },
     {
-      "id": 130347,
+      "id": 168004,
       "name": "Vĩnh Trụ",
       "name_default": "Vĩnh Trụ",
       "native": "Vĩnh Trụ",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130509,
+      "id": 168114,
       "name": "Vụ Bản",
       "name_default": "Vụ Bản",
       "native": "Vụ Bản",
@@ -398,7 +398,7 @@
       "country_id": 240
     },
     {
-      "id": 130513,
+      "id": 168117,
       "name": "Yên Khánh",
       "name_default": "Yên Khánh",
       "native": "Yên Khánh",
@@ -416,7 +416,7 @@
       "country_id": 240
     },
     {
-      "id": 130517,
+      "id": 168121,
       "name": "Yên Mô",
       "name_default": "Yên Mô",
       "native": "Yên Mô",

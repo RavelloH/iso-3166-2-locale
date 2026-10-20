@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105332,
+      "id": 166988,
       "name": "Don Phut",
       "name_default": "Don Phut",
       "native": "ดอนพุด",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105529,
+      "id": 167076,
       "name": "Muak Lek",
       "name_default": "Muak Lek",
       "native": "มวกเหล็ก",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105662,
+      "id": 167109,
       "name": "Nong Don",
       "name_default": "Nong Don",
       "native": "หนองโดน",
@@ -168,8 +168,8 @@
       "name": "农开",
       "name_default": "Nong Khae",
       "native": "หนองแค",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 41067,
       "latitude": "14.34062000",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105679,
+      "id": 167122,
       "name": "Nong Saeng",
       "name_default": "Nong Saeng",
       "native": "หนองแซง",
@@ -204,8 +204,8 @@
       "name": "帕普塔巴特",
       "name_default": "Phra Phutthabat",
       "native": "พระพุทธบาท",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 57008,
       "latitude": "14.72526000",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 106193,
+      "id": 167195,
       "name": "Sao Hai",
       "name_default": "Sao Hai",
       "native": "เสาไห้",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 106338,
+      "id": 167269,
       "name": "Wang Muang",
       "name_default": "Wang Muang",
       "native": "วังม่วง",

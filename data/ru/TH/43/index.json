@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 105341,
+      "id": 166993,
       "name": "Fao Rai",
       "name_default": "Fao Rai",
       "native": "เฝ้าไร่",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105817,
+      "id": 167178,
       "name": "Sakhrai",
       "name_default": "Sakhrai",
       "native": "สระใคร",
@@ -219,15 +219,15 @@
     },
     {
       "id": 106718,
-      "name": "Tha Bo",
+      "name": "Та Бо",
       "name_default": "Tha Bo",
       "native": "ท่าบ่อ",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "17.84940000",
-      "longitude": "102.58580000",
+      "population": 35292,
+      "latitude": "17.85003000",
+      "longitude": "102.58139000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025359",
       "country_code": "TH",

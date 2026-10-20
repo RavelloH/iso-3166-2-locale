@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130207,
+      "id": 167911,
       "name": "A Lưới 2",
       "name_default": "A Lưới 2",
       "native": "A Lưới 2",
@@ -78,8 +78,8 @@
       "name": "후에",
       "name_default": "Huế",
       "native": "Huế",
-      "type": "city",
-      "level": "1",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 1380000,
       "latitude": "16.46190000",
@@ -164,7 +164,7 @@
       "country_id": 240
     },
     {
-      "id": 130410,
+      "id": 168043,
       "name": "Quảng Điền",
       "name_default": "Quảng Điền",
       "native": "Quảng Điền",

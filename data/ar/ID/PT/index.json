@@ -95,7 +95,7 @@
       "country_id": 102
     },
     {
-      "id": 56577,
+      "id": 166787,
       "name": "Enarotali",
       "name_default": "Enarotali",
       "native": "Enarotali",
@@ -113,7 +113,7 @@
       "country_id": 102
     },
     {
-      "id": 56604,
+      "id": 166802,
       "name": "Ilaga",
       "name_default": "Ilaga",
       "native": "Ilaga",
@@ -131,25 +131,7 @@
       "country_id": 102
     },
     {
-      "id": 56427,
-      "name": "Kabupaten Intan Jaya",
-      "name_default": "Intan Jaya",
-      "native": "Kabupaten Intan Jaya",
-      "type": "regency",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "-3.41016000",
-      "longitude": "136.70837000",
-      "timezone": "Asia/Jayapura",
-      "wikiDataId": "Q27458",
-      "country_code": "ID",
-      "state_code": "PT",
-      "state_id": 5235,
-      "country_id": 102
-    },
-    {
-      "id": 56399,
+      "id": 166673,
       "name": "Kigamani",
       "name_default": "Kigamani",
       "native": "Kigamani",
@@ -167,7 +149,7 @@
       "country_id": 102
     },
     {
-      "id": 153774,
+      "id": 167608,
       "name": "Kota Mulia",
       "name_default": "Kota Mulia",
       "native": "Kota Mulia",
@@ -203,7 +185,25 @@
       "country_id": 102
     },
     {
-      "id": 56535,
+      "id": 166691,
+      "name": "Sugapa",
+      "name_default": "Sugapa",
+      "native": "Sugapa",
+      "type": "town",
+      "level": "3",
+      "parent_id": null,
+      "population": null,
+      "latitude": "-3.74306000",
+      "longitude": "137.05000000",
+      "timezone": "Asia/Jayapura",
+      "wikiDataId": null,
+      "country_code": "ID",
+      "state_code": "PT",
+      "state_id": 5235,
+      "country_id": 102
+    },
+    {
+      "id": 166759,
       "name": "تيميكا",
       "name_default": "Timika",
       "native": "Timika",

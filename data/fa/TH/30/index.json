@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105201,
+      "id": 166932,
       "name": "Ban Lueam",
       "name_default": "Ban Lueam",
       "native": "บ้านเหลื่อม",
@@ -147,15 +147,15 @@
     },
     {
       "id": 106454,
-      "name": "Bua Yai",
+      "name": "بوآ یای",
       "name_default": "Bua Yai",
       "native": "บัวใหญ่",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "15.58584200",
-      "longitude": "102.43369200",
+      "population": 16832,
+      "latitude": "15.58552000",
+      "longitude": "102.42587000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025363",
       "country_code": "TH",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105275,
+      "id": 166965,
       "name": "Chakkarat",
       "name_default": "Chakkarat",
       "native": "จักราช",
@@ -183,15 +183,15 @@
     },
     {
       "id": 106477,
-      "name": "Chok Chai",
+      "name": "چوک چای",
       "name_default": "Chok Chai",
       "native": "โชคชัย",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.73051997",
-      "longitude": "102.16534371",
+      "population": 23337,
+      "latitude": "14.72844000",
+      "longitude": "102.16524000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q15861673",
       "country_code": "TH",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 105311,
+      "id": 166980,
       "name": "Chum Phuang",
       "name_default": "Chum Phuang",
       "native": "ชุมพวง",
@@ -219,15 +219,15 @@
     },
     {
       "id": 106486,
-      "name": "Dan Khun Thot",
+      "name": "دن خون توت",
       "name_default": "Dan Khun Thot",
       "native": "ด่านขุนทด",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "15.20990000",
-      "longitude": "101.76670000",
+      "population": 15580,
+      "latitude": "15.20850000",
+      "longitude": "101.77138000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025204",
       "country_code": "TH",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 105357,
+      "id": 167001,
       "name": "Huai Thalaeng",
       "name_default": "Huai Thalaeng",
       "native": "ห้วยแถลง",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 105367,
+      "id": 167004,
       "name": "Kaeng Sanam Nang",
       "name_default": "Kaeng Sanam Nang",
       "native": "แก้งสนามนาง",
@@ -290,7 +290,7 @@
       "country_id": 219
     },
     {
-      "id": 105387,
+      "id": 167012,
       "name": "Kham Thale So",
       "name_default": "Kham Thale So",
       "native": "ขามทะเลสอ",
@@ -319,7 +319,7 @@
       "latitude": "14.52541000",
       "longitude": "102.24591000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q15980680",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "30",
       "state_id": 3497,
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 105422,
+      "id": 167026,
       "name": "Mueang Khong",
       "name_default": "Mueang Khong",
       "native": "เมืองคง",
@@ -362,7 +362,7 @@
       "country_id": 219
     },
     {
-      "id": 105605,
+      "id": 167081,
       "name": "Mueang Yang",
       "name_default": "Mueang Yang",
       "native": "เมืองยาง",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 105648,
+      "id": 167103,
       "name": "Non Daeng",
       "name_default": "Non Daeng",
       "native": "โนนแดง",
@@ -542,7 +542,7 @@
       "country_id": 219
     },
     {
-      "id": 105799,
+      "id": 167171,
       "name": "Prathai",
       "name_default": "Prathai",
       "native": "ประทาย",
@@ -560,7 +560,7 @@
       "country_id": 219
     },
     {
-      "id": 106232,
+      "id": 167216,
       "name": "Sida",
       "name_default": "Sida",
       "native": "สีดา",
@@ -633,15 +633,15 @@
     },
     {
       "id": 106708,
-      "name": "Sung Noen",
+      "name": "سونگ نوئن",
       "name_default": "Sung Noen",
       "native": "สูงเนิน",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.89646605",
-      "longitude": "101.81673543",
+      "population": 14365,
+      "latitude": "14.89920000",
+      "longitude": "101.82075000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q15244029",
       "country_code": "TH",
@@ -650,7 +650,7 @@
       "country_id": 219
     },
     {
-      "id": 105280,
+      "id": 166966,
       "name": "Tha Chang",
       "name_default": "Tha Chang",
       "native": "ท่าช้าง",
@@ -686,7 +686,7 @@
       "country_id": 219
     },
     {
-      "id": 106339,
+      "id": 167270,
       "name": "Wang Nam Khiao",
       "name_default": "Wang Nam Khiao",
       "native": "วังน้ำเขียว",

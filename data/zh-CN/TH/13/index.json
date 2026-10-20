@@ -67,7 +67,7 @@
       "latitude": "13.97738000",
       "longitude": "100.77776000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "13",
       "state_id": 3500,
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105682,
+      "id": 167123,
       "name": "Nong Suea",
       "name_default": "Nong Suea",
       "native": "หนองเสือ",
@@ -147,13 +147,13 @@
     },
     {
       "id": 106614,
-      "name": "Pathum Thani",
+      "name": "巴吞他尼府",
       "name_default": "Pathum Thani",
       "native": "ปทุมธานี",
-      "type": "city",
-      "level": "3",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
-      "population": null,
+      "population": 22948,
       "latitude": "14.01346000",
       "longitude": "100.53049000",
       "timezone": "Asia/Bangkok",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 106298,
+      "id": 167247,
       "name": "探耶武里镇",
       "name_default": "Thanyaburi",
       "native": "ธัญบุรี",

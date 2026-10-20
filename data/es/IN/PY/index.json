@@ -74,7 +74,7 @@
       "country_id": 101
     },
     {
-      "id": 132715,
+      "id": 167556,
       "name": "Karaikal",
       "name_default": "Karaikal",
       "native": "कराईकल",
@@ -114,8 +114,8 @@
       "name": "Puducherry",
       "name_default": "Puducherry",
       "native": "पुदुचेरी",
-      "type": "municipality",
-      "level": "3",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 657209,
       "latitude": "11.93381000",

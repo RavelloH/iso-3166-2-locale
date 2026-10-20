@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130233,
+      "id": 167929,
       "name": "Bắc Bình",
       "name_default": "Bắc Bình",
       "native": "Bắc Bình",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130230,
+      "id": 167926,
       "name": "Bảo Lâm 1",
       "name_default": "Bảo Lâm 1",
       "native": "Bảo Lâm 1",
@@ -96,8 +96,8 @@
       "name": "Баолок",
       "name_default": "Bảo Lộc",
       "native": "Bảo Lộc",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 170920,
       "latitude": "11.54798000",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130269,
+      "id": 167957,
       "name": "Cư Jút",
       "name_default": "Cư Jút",
       "native": "Cư Jút",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130537,
+      "id": 168131,
       "name": "Đạ Tẻh",
       "name_default": "Đạ Tẻh",
       "native": "Đạ Tẻh",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130535,
+      "id": 168130,
       "name": "Đơn Dương",
       "name_default": "Đơn Dương",
       "native": "Đơn Dương",
@@ -222,8 +222,8 @@
       "name": "Ðà Lạt",
       "name_default": "Ðà Lạt",
       "native": "Ðà Lạt",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 258014,
       "latitude": "11.94646000",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130302,
+      "id": 167975,
       "name": "Hàm Thuận",
       "name_default": "Hàm Thuận",
       "native": "Hàm Thuận",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130303,
+      "id": 167976,
       "name": "Hàm Thuận Nam",
       "name_default": "Hàm Thuận Nam",
       "native": "Hàm Thuận Nam",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130333,
+      "id": 167995,
       "name": "Krông Nô",
       "name_default": "Krông Nô",
       "native": "Krông Nô",
@@ -362,7 +362,7 @@
       "country_id": 240
     },
     {
-      "id": 130475,
+      "id": 168087,
       "name": "Liên Hương",
       "name_default": "Liên Hương",
       "native": "Liên Hương",
@@ -398,7 +398,7 @@
       "country_id": 240
     },
     {
-      "id": 130479,
+      "id": 168091,
       "name": "Tánh Linh",
       "name_default": "Tánh Linh",
       "native": "Tánh Linh",

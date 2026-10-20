@@ -77,25 +77,7 @@
   },
   "cities": [
     {
-      "id": 56419,
-      "name": "Округ Північна Халмахера",
-      "name_default": "Halmahera Utara",
-      "native": "Kabupaten Halmahera Utara",
-      "type": "regency",
-      "level": null,
-      "parent_id": null,
-      "population": 34150,
-      "latitude": "1.73194000",
-      "longitude": "128.00778000",
-      "timezone": "Asia/Jayapura",
-      "wikiDataId": "Q19147",
-      "country_code": "ID",
-      "state_code": "MU",
-      "state_id": 1801,
-      "country_id": 102
-    },
-    {
-      "id": 56416,
+      "id": 166685,
       "name": "Jailolo",
       "name_default": "Jailolo",
       "native": "Jailolo",
@@ -131,7 +113,7 @@
       "country_id": 102
     },
     {
-      "id": 56271,
+      "id": 166616,
       "name": "Maba",
       "name_default": "Maba",
       "native": "Maba",
@@ -185,7 +167,7 @@
       "country_id": 102
     },
     {
-      "id": 56455,
+      "id": 166708,
       "name": "Sanana",
       "name_default": "Sanana",
       "native": "Sanana",
@@ -207,8 +189,8 @@
       "name": "Софіфі",
       "name_default": "Sofifi",
       "native": "Sofifi",
-      "type": "section",
-      "level": "4",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 36197,
       "latitude": "0.73729000",
@@ -226,7 +208,7 @@
       "name_default": "Ternate",
       "native": "Ternate",
       "type": "city",
-      "level": null,
+      "level": "2",
       "parent_id": null,
       "population": 204215,
       "latitude": "0.79065000",
@@ -250,14 +232,14 @@
       "latitude": "1.72837000",
       "longitude": "128.00948000",
       "timezone": "Asia/Jayapura",
-      "wikiDataId": "Q31549974",
+      "wikiDataId": null,
       "country_code": "ID",
       "state_code": "MU",
       "state_id": 1801,
       "country_id": 102
     },
     {
-      "id": 56418,
+      "id": 166686,
       "name": "Weda",
       "name_default": "Weda",
       "native": "Weda",

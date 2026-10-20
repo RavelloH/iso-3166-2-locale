@@ -60,8 +60,8 @@
       "name": "Buon Ma Thuot",
       "name_default": "Buôn Ma Thuột",
       "native": "Buôn Ma Thuột",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 434256,
       "latitude": "12.66747000",
@@ -78,8 +78,8 @@
       "name": "Ea Drăng",
       "name_default": "Ea Drăng",
       "native": null,
-      "type": "town",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 20600,
       "latitude": "13.20450000",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130284,
+      "id": 167965,
       "name": "Ea Súp",
       "name_default": "Ea Súp",
       "native": "Ea Súp",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130425,
+      "id": 168053,
       "name": "Sơn Hòa",
       "name_default": "Sơn Hòa",
       "native": "Sơn Hòa",
@@ -164,7 +164,7 @@
       "country_id": 240
     },
     {
-      "id": 130421,
+      "id": 168050,
       "name": "Sông Hinh",
       "name_default": "Sông Hinh",
       "native": "Sông Hinh",
@@ -186,8 +186,8 @@
       "name": "Tuy Hoa",
       "name_default": "Tuy Hòa",
       "native": "Tuy Hòa",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 155921,
       "latitude": "13.09546000",

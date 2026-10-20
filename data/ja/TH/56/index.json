@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105298,
+      "id": 166975,
       "name": "Chiang Muan",
       "name_default": "Chiang Muan",
       "native": "เชียงม่วน",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105315,
+      "id": 166983,
       "name": "Chun",
       "name_default": "Chun",
       "native": "จุน",
@@ -111,13 +111,13 @@
     },
     {
       "id": 106491,
-      "name": "Dok Kham Tai",
+      "name": "ドク・カム・タイ",
       "name_default": "Dok Kham Tai",
       "native": "ดอกคำใต้",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
+      "population": 23824,
       "latitude": "19.16242000",
       "longitude": "99.99342000",
       "timezone": "Asia/Bangkok",

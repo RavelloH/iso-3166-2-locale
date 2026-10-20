@@ -67,7 +67,7 @@
       "latitude": "53.39316000",
       "longitude": "-1.36207000",
       "timezone": "Europe/London",
-      "wikiDataId": "Q25340735",
+      "wikiDataId": "Q1852245",
       "country_code": "GB",
       "state_code": "ROT",
       "state_id": 2308,
@@ -150,8 +150,8 @@
       "name": "Maltby",
       "name_default": "Maltby",
       "native": "Maltby",
-      "type": "town",
-      "level": "3",
+      "type": "adm3",
+      "level": null,
       "parent_id": null,
       "population": 16470,
       "latitude": "53.41667000",
@@ -182,7 +182,7 @@
       "country_id": 232
     },
     {
-      "id": 51117,
+      "id": 166608,
       "name": "Rotherham",
       "name_default": "Rotherham",
       "native": "Rotherham",

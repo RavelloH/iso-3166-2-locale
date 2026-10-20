@@ -54,24 +54,5 @@
     "wikiDataId": "Q203272",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31696,
-      "name": "ルヌ",
-      "name_default": "Ruhnu",
-      "native": "Ruhnu",
-      "type": "adm2",
-      "level": null,
-      "parent_id": null,
-      "population": 64,
-      "latitude": "57.80028000",
-      "longitude": "23.24833000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q2006948",
-      "country_code": "EE",
-      "state_code": "74",
-      "state_id": 3561,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }

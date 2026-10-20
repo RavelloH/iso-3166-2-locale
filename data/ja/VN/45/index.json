@@ -60,8 +60,8 @@
       "name": "カオライン",
       "name_default": "Cao Lãnh",
       "native": "Cao Lãnh",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 211912,
       "latitude": "10.46017000",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130252,
+      "id": 167946,
       "name": "Châu Thành",
       "name_default": "Châu Thành",
       "native": "Châu Thành",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130260,
+      "id": 167951,
       "name": "Chợ Gạo",
       "name_default": "Chợ Gạo",
       "native": "Chợ Gạo",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130351,
+      "id": 168007,
       "name": "Lấp Vò",
       "name_default": "Lấp Vò",
       "native": "Lấp Vò",
@@ -204,8 +204,8 @@
       "name": "ミトー市",
       "name_default": "Mỹ Tho",
       "native": "Mỹ Tho",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 270700,
       "latitude": "10.36004000",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130293,
+      "id": 167971,
       "name": "Tân Hòa",
       "name_default": "Tân Hòa",
       "native": "Tân Hòa",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130483,
+      "id": 168095,
       "name": "Tân Hồng",
       "name_default": "Tân Hồng",
       "native": "Tân Hồng",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130486,
+      "id": 168097,
       "name": "Tân Phước 1",
       "name_default": "Tân Phước 1",
       "native": "Tân Phước 1",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130435,
+      "id": 168060,
       "name": "Thanh Bình",
       "name_default": "Thanh Bình",
       "native": "Thanh Bình",
@@ -344,7 +344,7 @@
       "country_id": 240
     },
     {
-      "id": 130430,
+      "id": 168055,
       "name": "Tràm Chim",
       "name_default": "Tràm Chim",
       "native": "Tràm Chim",
@@ -362,7 +362,7 @@
       "country_id": 240
     },
     {
-      "id": 130292,
+      "id": 167970,
       "name": "Vĩnh Bình",
       "name_default": "Vĩnh Bình",
       "native": "Vĩnh Bình",

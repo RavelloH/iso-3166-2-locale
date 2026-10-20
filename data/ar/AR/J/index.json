@@ -245,8 +245,8 @@
       "name": "نويفي دي خوليو",
       "name_default": "Nueve de Julio",
       "native": "Nueve de Julio",
-      "type": "municipality",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 7652,
       "latitude": "-31.66914000",
@@ -259,7 +259,7 @@
       "country_id": 11
     },
     {
-      "id": 966,
+      "id": 166319,
       "name": "Rivadavia",
       "name_default": "Rivadavia",
       "native": "Rivadavia",
@@ -277,7 +277,7 @@
       "country_id": 11
     },
     {
-      "id": 907,
+      "id": 166312,
       "name": "Rodeo",
       "name_default": "Rodeo",
       "native": "Rodeo",
@@ -335,8 +335,8 @@
       "name": "سان خوان",
       "name_default": "San Juan",
       "native": "San Juan",
-      "type": "municipality",
-      "level": "2",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 19092,
       "latitude": "-31.53750000",
@@ -421,7 +421,7 @@
       "country_id": 11
     },
     {
-      "id": 1028,
+      "id": 166337,
       "name": "Villa Ibáñez",
       "name_default": "Villa Ibáñez",
       "native": "Villa Ibáñez",
@@ -493,7 +493,7 @@
       "country_id": 11
     },
     {
-      "id": 998,
+      "id": 166330,
       "name": "Villa San Martín",
       "name_default": "Villa San Martín",
       "native": "Villa San Martín",

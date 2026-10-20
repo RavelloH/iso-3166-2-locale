@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105329,
+      "id": 166986,
       "name": "Don Chan",
       "name_default": "Don Chan",
       "native": "ดอนจาน",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105384,
+      "id": 167010,
       "name": "Kham Muang",
       "name_default": "Kham Muang",
       "native": "คำม่วง",
@@ -236,24 +236,6 @@
       "country_id": 219
     },
     {
-      "id": 105459,
-      "name": "Kuchinarai",
-      "name_default": "Kuchinarai",
-      "native": "กุฉินารายณ์",
-      "type": "city",
-      "level": "3",
-      "parent_id": null,
-      "population": null,
-      "latitude": "16.53179500",
-      "longitude": "104.04400200",
-      "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q13025357",
-      "country_code": "TH",
-      "state_code": "46",
-      "state_id": 3550,
-      "country_id": 219
-    },
-    {
       "id": 106543,
       "name": "Кучинарай",
       "name_default": "Kuchinarai",
@@ -272,7 +254,25 @@
       "country_id": 219
     },
     {
-      "id": 105615,
+      "id": 167047,
+      "name": "Kuchinarai",
+      "name_default": "Kuchinarai",
+      "native": "กุฉินารายณ์",
+      "type": "city",
+      "level": "3",
+      "parent_id": null,
+      "population": null,
+      "latitude": "16.53179500",
+      "longitude": "104.04400200",
+      "timezone": "Asia/Bangkok",
+      "wikiDataId": "Q13025357",
+      "country_code": "TH",
+      "state_code": "46",
+      "state_id": 3550,
+      "country_id": 219
+    },
+    {
+      "id": 167089,
       "name": "Na Khu",
       "name_default": "Na Khu",
       "native": "นาคู",
@@ -290,7 +290,7 @@
       "country_id": 219
     },
     {
-      "id": 105618,
+      "id": 167090,
       "name": "Na Mon",
       "name_default": "Na Mon",
       "native": "นามน",
@@ -326,7 +326,7 @@
       "country_id": 219
     },
     {
-      "id": 105813,
+      "id": 167175,
       "name": "Rong Kham",
       "name_default": "Rong Kham",
       "native": "ร่องคำ",
@@ -380,7 +380,7 @@
       "country_id": 219
     },
     {
-      "id": 106243,
+      "id": 167221,
       "name": "Somdet",
       "name_default": "Somdet",
       "native": "สมเด็จ",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 106274,
+      "id": 167234,
       "name": "Tha Khantho",
       "name_default": "Tha Khantho",
       "native": "ท่าคันโท",
@@ -417,15 +417,15 @@
     },
     {
       "id": 106757,
-      "name": "Yang Talat",
+      "name": "Ян Талат",
       "name_default": "Yang Talat",
       "native": "ยางตลาด",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "16.39972222",
-      "longitude": "103.36777778",
+      "population": 13360,
+      "latitude": "16.39982000",
+      "longitude": "103.36785000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28736750",
       "country_code": "TH",

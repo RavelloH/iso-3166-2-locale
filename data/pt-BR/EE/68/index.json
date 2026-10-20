@@ -54,42 +54,5 @@
     "wikiDataId": "Q185036",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31703,
-      "name": "Saarde vald",
-      "name_default": "Saarde vald",
-      "native": "Saarde vald",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.13802000",
-      "longitude": "24.95564000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q1010576",
-      "country_code": "EE",
-      "state_code": "68",
-      "state_id": 3562,
-      "country_id": 69
-    },
-    {
-      "id": 31726,
-      "name": "Tori",
-      "name_default": "Tori vald",
-      "native": "Tori vald",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.48663000",
-      "longitude": "24.88961000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q1019999",
-      "country_code": "EE",
-      "state_code": "68",
-      "state_id": 3562,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }

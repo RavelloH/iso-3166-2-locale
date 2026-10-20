@@ -77,7 +77,7 @@
   },
   "cities": [
     {
-      "id": 56361,
+      "id": 166651,
       "name": "Bandar Seri Bentan",
       "name_default": "Bandar Seri Bentan",
       "native": "Bandar Seri Bentan",
@@ -113,7 +113,7 @@
       "country_id": 102
     },
     {
-      "id": 56495,
+      "id": 166733,
       "name": "Daik Lingga",
       "name_default": "Daik Lingga",
       "native": "Daik Lingga",
@@ -149,18 +149,18 @@
       "country_id": 102
     },
     {
-      "id": 56554,
-      "name": "카부파텐 나투나",
-      "name_default": "Natuna",
-      "native": "Kabupaten Natuna",
-      "type": "regency",
-      "level": null,
+      "id": 166771,
+      "name": "Ranai",
+      "name_default": "Ranai",
+      "native": "Ranai",
+      "type": "town",
+      "level": "3",
       "parent_id": null,
       "population": null,
-      "latitude": "4.71417000",
-      "longitude": "107.97639000",
+      "latitude": "3.93840000",
+      "longitude": "108.38401000",
       "timezone": "Asia/Jakarta",
-      "wikiDataId": "Q14144",
+      "wikiDataId": null,
       "country_code": "ID",
       "state_code": "KR",
       "state_id": 1807,
@@ -203,7 +203,7 @@
       "country_id": 102
     },
     {
-      "id": 56450,
+      "id": 166704,
       "name": "Tarempa",
       "name_default": "Tarempa",
       "native": "Tarempa",

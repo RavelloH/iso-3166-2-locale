@@ -92,7 +92,7 @@
       "country_id": 225
     },
     {
-      "id": 108189,
+      "id": 167906,
       "name": "Bitlisse",
       "name_default": "Bitlis",
       "native": "Bitlis",
@@ -114,8 +114,8 @@
       "name": "Güroymak",
       "name_default": "Güroymak",
       "native": "Güroymak",
-      "type": "municipality",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 25826,
       "latitude": "38.57580000",
@@ -175,7 +175,7 @@
       "latitude": "38.49221000",
       "longitude": "42.28269000",
       "timezone": "Europe/Istanbul",
-      "wikiDataId": "Q2214840",
+      "wikiDataId": null,
       "country_code": "TR",
       "state_code": "13",
       "state_id": 2215,

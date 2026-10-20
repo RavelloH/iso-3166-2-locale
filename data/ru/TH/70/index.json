@@ -74,24 +74,6 @@
       "country_id": 219
     },
     {
-      "id": 105215,
-      "name": "Ban Pong",
-      "name_default": "Ban Pong",
-      "native": "บ้านโป่ง",
-      "type": "city",
-      "level": "3",
-      "parent_id": null,
-      "population": null,
-      "latitude": "13.81740000",
-      "longitude": "99.88300000",
-      "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q4853694",
-      "country_code": "TH",
-      "state_code": "70",
-      "state_id": 3499,
-      "country_id": 219
-    },
-    {
       "id": 106410,
       "name": "Бан Понг",
       "name_default": "Ban Pong",
@@ -103,7 +85,25 @@
       "latitude": "13.81629000",
       "longitude": "99.87739000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
+      "country_code": "TH",
+      "state_code": "70",
+      "state_id": 3499,
+      "country_id": 219
+    },
+    {
+      "id": 166942,
+      "name": "Ban Pong",
+      "name_default": "Ban Pong",
+      "native": "บ้านโป่ง",
+      "type": "city",
+      "level": "3",
+      "parent_id": null,
+      "population": null,
+      "latitude": "13.81740000",
+      "longitude": "99.88300000",
+      "timezone": "Asia/Bangkok",
+      "wikiDataId": "Q4853694",
       "country_code": "TH",
       "state_code": "70",
       "state_id": 3499,
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105707,
+      "id": 167134,
       "name": "Pak Tho",
       "name_default": "Pak Tho",
       "native": "ปากท่อ",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 106356,
+      "id": 167279,
       "name": "Wat Phleng",
       "name_default": "Wat Phleng",
       "native": "วัดเพลง",

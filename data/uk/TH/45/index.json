@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 105184,
+      "id": 166920,
       "name": "At Samat",
       "name_default": "At Samat",
       "native": "อาจสามารถ",
@@ -85,14 +85,14 @@
       "latitude": "16.01667000",
       "longitude": "103.95000000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "45",
       "state_id": 3510,
       "country_id": 219
     },
     {
-      "id": 105744,
+      "id": 167150,
       "name": "Chai Wari",
       "name_default": "Chai Wari",
       "native": "ชัยวารี",
@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105285,
+      "id": 166968,
       "name": "Changhan",
       "name_default": "Changhan",
       "native": "จังหาร",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105296,
+      "id": 166974,
       "name": "Chiang Khwan",
       "name_default": "Chiang Khwan",
       "native": "เชียงขวัญ",
@@ -165,15 +165,15 @@
     },
     {
       "id": 106515,
-      "name": "Kaset Wisai",
+      "name": "Касет Вісаї",
       "name_default": "Kaset Wisai",
       "native": "เกษตรวิสัย",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "15.65555556",
-      "longitude": "103.58361111",
+      "population": 18569,
+      "latitude": "15.65558000",
+      "longitude": "103.58361000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28732540",
       "country_code": "TH",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 105592,
+      "id": 167080,
       "name": "Mueang Suang",
       "name_default": "Mueang Suang",
       "native": "เมืองสรวง",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 105664,
+      "id": 167111,
       "name": "Nong Hi",
       "name_default": "Nong Hi",
       "native": "หนองฮี",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 105676,
+      "id": 167119,
       "name": "Nong Phok",
       "name_default": "Nong Phok",
       "native": "หนองพอก",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 105714,
+      "id": 167136,
       "name": "Pathum Rat",
       "name_default": "Pathum Rat",
       "native": "ปทุมรัตต์",
@@ -272,7 +272,7 @@
       "country_id": 219
     },
     {
-      "id": 105728,
+      "id": 167142,
       "name": "Phanom Phrai",
       "name_default": "Phanom Phrai",
       "native": "พนมไพร",
@@ -308,7 +308,7 @@
       "country_id": 219
     },
     {
-      "id": 105754,
+      "id": 167154,
       "name": "Phon Sai",
       "name_default": "Phon Sai",
       "native": "โพนทราย",
@@ -362,7 +362,7 @@
       "country_id": 219
     },
     {
-      "id": 106206,
+      "id": 167201,
       "name": "Selaphum",
       "name_default": "Selaphum",
       "native": "เสลภูมิ",
@@ -380,7 +380,7 @@
       "country_id": 219
     },
     {
-      "id": 106226,
+      "id": 167212,
       "name": "Si Somdet",
       "name_default": "Si Somdet",
       "native": "ศรีสมเด็จ",

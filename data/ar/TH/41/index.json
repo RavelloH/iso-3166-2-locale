@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105190,
+      "id": 166923,
       "name": "Ban Dung",
       "name_default": "Ban Dung",
       "native": "บ้านดุง",
@@ -121,7 +121,7 @@
       "latitude": "17.26750000",
       "longitude": "103.22472000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "41",
       "state_id": 3527,
@@ -139,14 +139,14 @@
       "latitude": "17.14272000",
       "longitude": "102.97261000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "41",
       "state_id": 3527,
       "country_id": 219
     },
     {
-      "id": 105214,
+      "id": 166941,
       "name": "Ban Phue",
       "name_default": "Ban Phue",
       "native": "บ้านผือ",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105272,
+      "id": 166964,
       "name": "Chai Wan",
       "name_default": "Chai Wan",
       "native": "ไชยวาน",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105458,
+      "id": 167046,
       "name": "Ku Kaeo",
       "name_default": "Ku Kaeo",
       "native": "กู่แก้ว",
@@ -201,15 +201,15 @@
     },
     {
       "id": 106545,
-      "name": "Kumphawapi",
+      "name": "كومفاوابي",
       "name_default": "Kumphawapi",
       "native": "กุมภวาปี",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "17.11507100",
-      "longitude": "103.01857600",
+      "population": 0,
+      "latitude": "17.10875000",
+      "longitude": "103.01487000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q43254491",
       "country_code": "TH",
@@ -219,15 +219,15 @@
     },
     {
       "id": 106546,
-      "name": "Kut Chap",
+      "name": "كوت تشاب",
       "name_default": "Kut Chap",
       "native": "กุดจับ",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "17.42620000",
-      "longitude": "102.56460000",
+      "population": 24696,
+      "latitude": "17.42570000",
+      "longitude": "102.56692000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28727267",
       "country_code": "TH",
@@ -272,7 +272,7 @@
       "country_id": 219
     },
     {
-      "id": 105652,
+      "id": 167105,
       "name": "Non Sa-at",
       "name_default": "Non Sa-at",
       "native": "โนนสะอาด",
@@ -290,7 +290,7 @@
       "country_id": 219
     },
     {
-      "id": 105663,
+      "id": 167110,
       "name": "Nong Han",
       "name_default": "Nong Han",
       "native": "หนองหาน",
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 105737,
+      "id": 167147,
       "name": "Phen",
       "name_default": "Phen",
       "native": "เพ็ญ",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 106186,
+      "id": 167191,
       "name": "Sang Khom",
       "name_default": "Sang Khom",
       "native": "สร้างคอม",
@@ -416,7 +416,7 @@
       "country_id": 219
     },
     {
-      "id": 106228,
+      "id": 167214,
       "name": "Si That",
       "name_default": "Si That",
       "native": "ศรีธาตุ",
@@ -434,7 +434,7 @@
       "country_id": 219
     },
     {
-      "id": 106312,
+      "id": 167253,
       "name": "Thung Fon",
       "name_default": "Thung Fon",
       "native": "ทุ่งฝน",
@@ -470,7 +470,7 @@
       "country_id": 219
     },
     {
-      "id": 106345,
+      "id": 167272,
       "name": "Wang Sam Mo",
       "name_default": "Wang Sam Mo",
       "native": "วังสามหมอ",

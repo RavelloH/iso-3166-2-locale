@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130225,
+      "id": 167922,
       "name": "Bình Nguyên",
       "name_default": "Bình Nguyên",
       "native": "Bình Nguyên",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130245,
+      "id": 167939,
       "name": "Cao Phong",
       "name_default": "Cao Phong",
       "native": "Cao Phong",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130530,
+      "id": 168128,
       "name": "Đoan Hùng",
       "name_default": "Đoan Hùng",
       "native": "Đoan Hùng",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130312,
+      "id": 167983,
       "name": "Hạ Hòa",
       "name_default": "Hạ Hòa",
       "native": "Hạ Hòa",
@@ -132,8 +132,8 @@
       "name": "هوا بنه",
       "name_default": "Hòa Bình",
       "native": "Hòa Bình",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 121309,
       "latitude": "20.81717000",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130350,
+      "id": 168006,
       "name": "Lạc Thủy",
       "name_default": "Lạc Thủy",
       "native": "Lạc Thủy",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130203,
+      "id": 167910,
       "name": "Lâm Thao",
       "name_default": "Lâm Thao",
       "native": "Lâm Thao",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130349,
+      "id": 168005,
       "name": "Lương Sơn",
       "name_default": "Lương Sơn",
       "native": "Lương Sơn",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130429,
+      "id": 168054,
       "name": "Tam Dương",
       "name_default": "Tam Dương",
       "native": "Tam Dương",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130432,
+      "id": 168057,
       "name": "Tam Đảo",
       "name_default": "Tam Đảo",
       "native": "Tam Đảo",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130434,
+      "id": 168059,
       "name": "Thanh Ba",
       "name_default": "Thanh Ba",
       "native": "Thanh Ba",
@@ -330,8 +330,8 @@
       "name": "فيت تري",
       "name_default": "Việt Trì",
       "native": "Việt Trì",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 415280,
       "latitude": "21.32274000",
@@ -348,8 +348,8 @@
       "name": "فينه ين",
       "name_default": "Vĩnh Yên",
       "native": "Vĩnh Yên",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 119128,
       "latitude": "21.30891000",
@@ -362,7 +362,7 @@
       "country_id": 240
     },
     {
-      "id": 130514,
+      "id": 168118,
       "name": "Yên Lạc",
       "name_default": "Yên Lạc",
       "native": "Yên Lạc",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130515,
+      "id": 168119,
       "name": "Yên Lập",
       "name_default": "Yên Lập",
       "native": "Yên Lập",

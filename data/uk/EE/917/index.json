@@ -54,5 +54,24 @@
     "wikiDataId": "Q193838",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31753,
+      "name": "Виру",
+      "name_default": "Võru vald",
+      "native": "Võru vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "57.86618000",
+      "longitude": "26.97418000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q650672",
+      "country_code": "EE",
+      "state_code": "917",
+      "state_id": 5798,
+      "country_id": 69
+    }
+  ]
 }

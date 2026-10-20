@@ -54,5 +54,24 @@
     "wikiDataId": "Q44509132",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31671,
+      "name": "Otepää vald",
+      "name_default": "Otepää vald",
+      "native": "Otepää vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.02177000",
+      "longitude": "26.45306000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q632906",
+      "country_code": "EE",
+      "state_code": "557",
+      "state_id": 5768,
+      "country_id": 69
+    }
+  ]
 }

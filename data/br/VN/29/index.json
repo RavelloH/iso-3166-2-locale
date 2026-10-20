@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130224,
+      "id": 167921,
       "name": "Bình Sơn",
       "name_default": "Bình Sơn",
       "native": "Bình Sơn",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130388,
+      "id": 168031,
       "name": "Bờ Y",
       "name_default": "Bờ Y",
       "native": "Bờ Y",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130332,
+      "id": 167994,
       "name": "Măng Đen",
       "name_default": "Măng Đen",
       "native": "Măng Đen",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130366,
+      "id": 168018,
       "name": "Mộ Đức",
       "name_default": "Mộ Đức",
       "native": "Mộ Đức",
@@ -344,7 +344,7 @@
       "country_id": 240
     },
     {
-      "id": 130383,
+      "id": 168027,
       "name": "Nghĩa Hành",
       "name_default": "Nghĩa Hành",
       "native": "Nghĩa Hành",
@@ -366,8 +366,8 @@
       "name": "Quảng Ngãi",
       "name_default": "Quảng Ngãi",
       "native": "Quảng Ngãi",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 260252,
       "latitude": "15.12047000",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130419,
+      "id": 168048,
       "name": "Sa Thầy",
       "name_default": "Sa Thầy",
       "native": "Sa Thầy",
@@ -398,7 +398,7 @@
       "country_id": 240
     },
     {
-      "id": 130464,
+      "id": 168080,
       "name": "Trà Bồng",
       "name_default": "Trà Bồng",
       "native": "Trà Bồng",
@@ -416,7 +416,7 @@
       "country_id": 240
     },
     {
-      "id": 130491,
+      "id": 168100,
       "name": "Tư Nghĩa",
       "name_default": "Tư Nghĩa",
       "native": "Tư Nghĩa",

@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105392,
+      "id": 167015,
       "name": "Khao Chakan",
       "name_default": "Khao Chakan",
       "native": "เขาฉกรรจ์",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105405,
+      "id": 167020,
       "name": "Khlong Hat",
       "name_default": "Khlong Hat",
       "native": "คลองหาด",
@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105420,
+      "id": 167025,
       "name": "Khok Sung",
       "name_default": "Khok Sung",
       "native": "โคกสูง",
@@ -129,15 +129,15 @@
     },
     {
       "id": 106671,
-      "name": "Sa Kaeo",
+      "name": "सा काओ",
       "name_default": "Sa Kaeo",
       "native": "สระแก้ว",
-      "type": "city",
-      "level": "3",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "13.82055556",
-      "longitude": "102.05888889",
+      "population": 28497,
+      "latitude": "13.81411000",
+      "longitude": "102.07222000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q1367916",
       "country_code": "TH",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 106260,
+      "id": 167229,
       "name": "Ta Phraya",
       "name_default": "Ta Phraya",
       "native": "ตาพระยา",
@@ -168,8 +168,8 @@
       "name": "वांग नाम येन",
       "name_default": "Wang Nam Yen",
       "native": "วังน้ำเย็น",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 16299,
       "latitude": "13.50325000",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 106347,
+      "id": 167273,
       "name": "Wang Sombun",
       "name_default": "Wang Sombun",
       "native": "วังสมบูรณ์",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 106358,
+      "id": 167281,
       "name": "Watthana Nakhon",
       "name_default": "Watthana Nakhon",
       "native": "วัฒนานคร",

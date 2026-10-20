@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130278,
+      "id": 167961,
       "name": "Diên Khánh",
       "name_default": "Diên Khánh",
       "native": "Diên Khánh",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130324,
+      "id": 167990,
       "name": "Khánh Sơn",
       "name_default": "Khánh Sơn",
       "native": "Khánh Sơn",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130325,
+      "id": 167991,
       "name": "Khánh Vĩnh",
       "name_default": "Khánh Vĩnh",
       "native": "Khánh Vĩnh",
@@ -132,8 +132,8 @@
       "name": "芽庄",
       "name_default": "Nha Trang",
       "native": "Nha Trang",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 579000,
       "latitude": "12.24507000",
@@ -150,8 +150,8 @@
       "name": "潘朗-塔占",
       "name_default": "Phan Rang-Tháp Chàm",
       "native": "Phan Rang-Tháp Chàm",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 207998,
       "latitude": "11.56432000",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130506,
+      "id": 168112,
       "name": "Vạn Ninh",
       "name_default": "Vạn Ninh",
       "native": "Vạn Ninh",

@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130277,
+      "id": 167960,
       "name": "Cẩm Xuyên",
       "name_default": "Cẩm Xuyên",
       "native": "Cẩm Xuyên",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130243,
+      "id": 167937,
       "name": "Can Lộc",
       "name_default": "Can Lộc",
       "native": "Can Lộc",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130525,
+      "id": 168126,
       "name": "Đức Thọ",
       "name_default": "Đức Thọ",
       "native": "Đức Thọ",
@@ -114,8 +114,8 @@
       "name": "河静市",
       "name_default": "Hà Tĩnh",
       "native": "Hà Tĩnh",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 27728,
       "latitude": "18.34282000",
@@ -164,7 +164,7 @@
       "country_id": 240
     },
     {
-      "id": 130447,
+      "id": 168065,
       "name": "Thạch Hà",
       "name_default": "Thạch Hà",
       "native": "Thạch Hà",

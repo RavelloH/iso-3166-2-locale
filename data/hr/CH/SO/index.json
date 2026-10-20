@@ -74,7 +74,7 @@
       "country_id": 214
     },
     {
-      "id": 17468,
+      "id": 167621,
       "name": "Bettlach",
       "name_default": "Bettlach",
       "native": "Bettlach",
@@ -92,7 +92,7 @@
       "country_id": 214
     },
     {
-      "id": 17525,
+      "id": 167622,
       "name": "Biberist",
       "name_default": "Biberist",
       "native": "Biberist",
@@ -121,14 +121,14 @@
       "latitude": "47.40668000",
       "longitude": "7.54554000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66672",
+      "wikiDataId": null,
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 17605,
+      "id": 167635,
       "name": "Büsserach",
       "name_default": "Büsserach",
       "native": "Büsserach",
@@ -150,8 +150,8 @@
       "name": "Deitingen",
       "name_default": "Deitingen",
       "native": "Deitingen",
-      "type": "municipality",
-      "level": "3",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 2409,
       "latitude": "47.21515000",
@@ -164,7 +164,7 @@
       "country_id": 214
     },
     {
-      "id": 17683,
+      "id": 167644,
       "name": "Derendingen",
       "name_default": "Derendingen",
       "native": "Derendingen",
@@ -200,7 +200,7 @@
       "country_id": 214
     },
     {
-      "id": 17728,
+      "id": 167651,
       "name": "Egerkingen",
       "name_default": "Egerkingen",
       "native": "Egerkingen",
@@ -229,7 +229,7 @@
       "latitude": "47.39753000",
       "longitude": "8.00797000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66252",
+      "wikiDataId": "Q689567",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -247,14 +247,14 @@
       "latitude": "47.27103000",
       "longitude": "7.83136000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q65312",
+      "wikiDataId": "Q22617552",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 17828,
+      "id": 167672,
       "name": "Gerlafingen",
       "name_default": "Gerlafingen",
       "native": "Gerlafingen",
@@ -283,14 +283,14 @@
       "latitude": "47.19210000",
       "longitude": "7.39586000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q68248",
+      "wikiDataId": "Q22440227",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 17886,
+      "id": 167685,
       "name": "Gunzgen",
       "name_default": "Gunzgen",
       "native": "Gunzgen",
@@ -308,7 +308,7 @@
       "country_id": 214
     },
     {
-      "id": 17937,
+      "id": 167697,
       "name": "Hägendorf",
       "name_default": "Hägendorf",
       "native": "Hägendorf",
@@ -326,7 +326,7 @@
       "country_id": 214
     },
     {
-      "id": 17914,
+      "id": 167692,
       "name": "Himmelried",
       "name_default": "Himmelried",
       "native": "Himmelried",
@@ -344,7 +344,7 @@
       "country_id": 214
     },
     {
-      "id": 17924,
+      "id": 167695,
       "name": "Hochwald",
       "name_default": "Hochwald",
       "native": "Hochwald",
@@ -373,14 +373,14 @@
       "latitude": "47.42518000",
       "longitude": "7.41607000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66173",
+      "wikiDataId": "Q22543608",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 18007,
+      "id": 167711,
       "name": "Kriegstetten",
       "name_default": "Kriegstetten",
       "native": "Kriegstetten",
@@ -398,7 +398,7 @@
       "country_id": 214
     },
     {
-      "id": 18035,
+      "id": 167718,
       "name": "Langendorf",
       "name_default": "Langendorf",
       "native": "Langendorf",
@@ -420,8 +420,8 @@
       "name": "Laupersdorf",
       "name_default": "Laupersdorf",
       "native": "Laupersdorf",
-      "type": "municipality",
-      "level": "3",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 1916,
       "latitude": "47.31260000",
@@ -434,7 +434,7 @@
       "country_id": 214
     },
     {
-      "id": 18092,
+      "id": 167725,
       "name": "Lostorf",
       "name_default": "Lostorf",
       "native": "Lostorf",
@@ -456,8 +456,8 @@
       "name": "Luterbach",
       "name_default": "Luterbach",
       "native": "LUTERBACH",
-      "type": "municipality",
-      "level": "3",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 3756,
       "latitude": "47.21426000",
@@ -470,7 +470,7 @@
       "country_id": 214
     },
     {
-      "id": 18134,
+      "id": 167733,
       "name": "Matzendorf",
       "name_default": "Matzendorf",
       "native": "Matzendorf",
@@ -499,7 +499,7 @@
       "latitude": "47.09155000",
       "longitude": "7.44528000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q67215",
+      "wikiDataId": "Q22498630",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -517,14 +517,14 @@
       "latitude": "47.37157000",
       "longitude": "7.98837000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q65009",
+      "wikiDataId": "Q22610708",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 18232,
+      "id": 167757,
       "name": "Nunningen",
       "name_default": "Nunningen",
       "native": "Nunningen",
@@ -546,8 +546,8 @@
       "name": "Oberbuchsiten",
       "name_default": "Oberbuchsiten",
       "native": "Oberbuchsiten",
-      "type": "municipality",
-      "level": "3",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 2382,
       "latitude": "47.31334000",
@@ -571,7 +571,7 @@
       "latitude": "47.36538000",
       "longitude": "7.95173000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q65849",
+      "wikiDataId": "Q22420400",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -607,7 +607,7 @@
       "latitude": "47.34999000",
       "longitude": "7.90329000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q68129",
+      "wikiDataId": null,
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -625,7 +625,7 @@
       "latitude": "47.23158000",
       "longitude": "7.56829000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66973",
+      "wikiDataId": "Q22381477",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -668,7 +668,7 @@
       "country_id": 214
     },
     {
-      "id": 18485,
+      "id": 167805,
       "name": "Schönenwerd",
       "name_default": "Schönenwerd",
       "native": "Schönenwerd",
@@ -686,7 +686,7 @@
       "country_id": 214
     },
     {
-      "id": 18506,
+      "id": 167808,
       "name": "Selzach",
       "name_default": "Selzach",
       "native": "Selzach",
@@ -715,7 +715,7 @@
       "latitude": "47.20791000",
       "longitude": "7.53714000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q68965",
+      "wikiDataId": null,
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
@@ -726,8 +726,8 @@
       "name": "Subingen",
       "name_default": "Subingen",
       "native": "Subingen",
-      "type": "municipality",
-      "level": "3",
+      "type": "city",
+      "level": null,
       "parent_id": null,
       "population": 3311,
       "latitude": "47.19852000",
@@ -740,7 +740,7 @@
       "country_id": 214
     },
     {
-      "id": 18603,
+      "id": 167821,
       "name": "Trimbach",
       "name_default": "Trimbach",
       "native": "Trimbach",
@@ -787,14 +787,14 @@
       "latitude": "47.28052000",
       "longitude": "7.52664000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66376",
+      "wikiDataId": "Q22559926",
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,
       "country_id": 214
     },
     {
-      "id": 18765,
+      "id": 167850,
       "name": "Wolfwil",
       "name_default": "Wolfwil",
       "native": "Wolfwil",
@@ -823,7 +823,7 @@
       "latitude": "47.20173000",
       "longitude": "7.56649000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q18473",
+      "wikiDataId": null,
       "country_code": "CH",
       "state_code": "SO",
       "state_id": 1662,

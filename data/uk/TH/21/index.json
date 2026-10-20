@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105195,
+      "id": 166927,
       "name": "Ban Khai",
       "name_default": "Ban Khai",
       "native": "บ้านค่าย",
@@ -121,14 +121,14 @@
       "latitude": "12.62824000",
       "longitude": "101.43757000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "21",
       "state_id": 3518,
       "country_id": 219
     },
     {
-      "id": 106334,
+      "id": 167266,
       "name": "Chum Saeng",
       "name_default": "Chum Saeng",
       "native": "ชุมแสง",
@@ -168,8 +168,8 @@
       "name": "Клаенг",
       "name_default": "Klaeng",
       "native": "แกลง",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 55619,
       "latitude": "12.77972000",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105645,
+      "id": 167100,
       "name": "Nikhom Phatthana",
       "name_default": "Nikhom Phatthana",
       "native": "นิคมพัฒนา",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 105790,
+      "id": 167169,
       "name": "Pluak Daeng",
       "name_default": "Pluak Daeng",
       "native": "ปลวกแดง",

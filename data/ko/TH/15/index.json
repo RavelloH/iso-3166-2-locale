@@ -85,7 +85,7 @@
       "latitude": "14.62161000",
       "longitude": "100.48739000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "15",
       "state_id": 3519,
@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105695,
+      "id": 167130,
       "name": "Pa Mok",
       "name_default": "Pa Mok",
       "native": "ป่าโมก",
@@ -132,8 +132,8 @@
       "name": "포 통",
       "name_default": "Pho Thong",
       "native": "โพธิ์ทอง",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 12200,
       "latitude": "14.66731000",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 106199,
+      "id": 167199,
       "name": "Sawaeng Ha",
       "name_default": "Sawaeng Ha",
       "native": "แสวงหา",
@@ -168,8 +168,8 @@
       "name": "위셋 차이찬",
       "name_default": "Wiset Chaichan",
       "native": "วิเศษไชยชาญ",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 19129,
       "latitude": "14.59450000",

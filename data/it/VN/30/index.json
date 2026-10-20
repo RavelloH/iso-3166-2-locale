@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130209,
+      "id": 167912,
       "name": "An Lão",
       "name_default": "An Lão",
       "native": "An Lão",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130258,
+      "id": 167949,
       "name": "Chư Păh",
       "name_default": "Chư Păh",
       "native": "Chư Păh",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130257,
+      "id": 167948,
       "name": "Chư Prông",
       "name_default": "Chư Prông",
       "native": "Chư Prông",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130259,
+      "id": 167950,
       "name": "Chư Sê",
       "name_default": "Chư Sê",
       "native": "Chư Sê",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130549,
+      "id": 168137,
       "name": "Đức Cơ",
       "name_default": "Đức Cơ",
       "native": "Đức Cơ",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130320,
+      "id": 167988,
       "name": "Ia Grai",
       "name_default": "Ia Grai",
       "native": "Ia Grai",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130335,
+      "id": 167997,
       "name": "Kông Chro",
       "name_default": "Kông Chro",
       "native": "Kông Chro",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130358,
+      "id": 168013,
       "name": "Mang Yang",
       "name_default": "Mang Yang",
       "native": "Mang Yang",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130397,
+      "id": 168038,
       "name": "Phù Mỹ",
       "name_default": "Phù Mỹ",
       "native": "Phù Mỹ",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130334,
+      "id": 167996,
       "name": "Phú Túc",
       "name_default": "Phú Túc",
       "native": "Phú Túc",
@@ -276,8 +276,8 @@
       "name": "Pleiku",
       "name_default": "Pleiku",
       "native": "Pleiku",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 114225,
       "latitude": "13.98333000",
@@ -294,8 +294,8 @@
       "name": "Qui Nhon",
       "name_default": "Qui Nhon",
       "native": "Qui Nhon",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 519208,
       "latitude": "13.77648000",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130490,
+      "id": 168099,
       "name": "Tây Sơn",
       "name_default": "Tây Sơn",
       "native": "Tây Sơn",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130476,
+      "id": 168088,
       "name": "Tuy Phước",
       "name_default": "Tuy Phước",
       "native": "Tuy Phước",
@@ -344,7 +344,7 @@
       "country_id": 240
     },
     {
-      "id": 130503,
+      "id": 168109,
       "name": "Vĩnh Thạnh",
       "name_default": "Vĩnh Thạnh",
       "native": "Vĩnh Thạnh",

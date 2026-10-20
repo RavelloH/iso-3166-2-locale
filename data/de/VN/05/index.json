@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130238,
+      "id": 167934,
       "name": "Bắc Yên",
       "name_default": "Bắc Yên",
       "native": "Bắc Yên",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130356,
+      "id": 168011,
       "name": "Mai Sơn",
       "name_default": "Mai Sơn",
       "native": "Mai Sơn",
@@ -146,7 +146,7 @@
       "country_id": 240
     },
     {
-      "id": 130363,
+      "id": 168017,
       "name": "Mường La",
       "name_default": "Mường La",
       "native": "Mường La",
@@ -168,8 +168,8 @@
       "name": "Sơn La",
       "name_default": "Sơn La",
       "native": "Sơn La",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 106052,
       "latitude": "21.32560000",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130422,
+      "id": 168051,
       "name": "Sông Mã",
       "name_default": "Sông Mã",
       "native": "Sông Mã",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130440,
+      "id": 168061,
       "name": "Thuận Châu",
       "name_default": "Thuận Châu",
       "native": "Thuận Châu",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130512,
+      "id": 168116,
       "name": "Yên Châu",
       "name_default": "Yên Châu",
       "native": "Yên Châu",

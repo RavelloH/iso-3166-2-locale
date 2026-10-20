@@ -56,7 +56,25 @@
   },
   "cities": [
     {
-      "id": 105218,
+      "id": 106415,
+      "name": "Пан Так",
+      "name_default": "Ban Tak",
+      "native": "บ้านตาก",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 18384,
+      "latitude": "17.04325000",
+      "longitude": "99.08128000",
+      "timezone": "Asia/Bangkok",
+      "wikiDataId": null,
+      "country_code": "TH",
+      "state_code": "63",
+      "state_id": 3525,
+      "country_id": 219
+    },
+    {
+      "id": 166945,
       "name": "Ban Tak",
       "name_default": "Ban Tak",
       "native": "บ้านตาก",
@@ -74,34 +92,16 @@
       "country_id": 219
     },
     {
-      "id": 106415,
-      "name": "Пан Так",
-      "name_default": "Ban Tak",
-      "native": "บ้านตาก",
+      "id": 106564,
+      "name": "Мей Рамат",
+      "name_default": "Mae Ramat",
+      "native": "แม่ระมาด",
       "type": "adm2",
       "level": null,
       "parent_id": null,
-      "population": 18384,
-      "latitude": "17.04325000",
-      "longitude": "99.08128000",
-      "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
-      "country_code": "TH",
-      "state_code": "63",
-      "state_id": 3525,
-      "country_id": 219
-    },
-    {
-      "id": 106564,
-      "name": "Mae Ramat",
-      "name_default": "Mae Ramat",
-      "native": "แม่ระมาด",
-      "type": "town",
-      "level": "3",
-      "parent_id": null,
-      "population": null,
-      "latitude": "16.98430000",
-      "longitude": "98.51720000",
+      "population": 17316,
+      "latitude": "16.98403000",
+      "longitude": "98.51665000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q15383176",
       "country_code": "TH",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 106285,
+      "id": 167239,
       "name": "Mae Tan",
       "name_default": "Mae Tan",
       "native": "แม่ต้าน",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105758,
+      "id": 167155,
       "name": "Phop Phra",
       "name_default": "Phop Phra",
       "native": "พบพระ",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 106326,
+      "id": 167260,
       "name": "Umphang",
       "name_default": "Umphang",
       "native": "อุ้มผาง",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 106335,
+      "id": 167267,
       "name": "Wang Chao",
       "name_default": "Wang Chao",
       "native": "วังเจ้า",

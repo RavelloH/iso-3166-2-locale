@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 105188,
+      "id": 166922,
       "name": "Ban Dan",
       "name_default": "Ban Dan",
       "native": "บ้านด่าน",
@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105197,
+      "id": 166929,
       "name": "Ban Kruat",
       "name_default": "Ban Kruat",
       "native": "บ้านกรวด",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105202,
+      "id": 166933,
       "name": "Ban Mai Chaiyaphot",
       "name_default": "Ban Mai Chaiyaphot",
       "native": "บ้านใหม่ไชยพจน์",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105281,
+      "id": 166967,
       "name": "Chamni",
       "name_default": "Chamni",
       "native": "ชำนิ",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105356,
+      "id": 167000,
       "name": "Huai Rat",
       "name_default": "Huai Rat",
       "native": "ห้วยราช",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105381,
+      "id": 167008,
       "name": "Khaen Dong",
       "name_default": "Khaen Dong",
       "native": "แคนดง",
@@ -200,7 +200,7 @@
       "country_id": 219
     },
     {
-      "id": 105425,
+      "id": 167027,
       "name": "Khu Mueang",
       "name_default": "Khu Mueang",
       "native": "คูเมือง",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 105454,
+      "id": 167044,
       "name": "Krasang",
       "name_default": "Krasang",
       "native": "กระสัง",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 105472,
+      "id": 167053,
       "name": "Lahan Sai",
       "name_default": "Lahan Sai",
       "native": "ละหานทราย",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 105474,
+      "id": 167054,
       "name": "Lam Plai Mat",
       "name_default": "Lam Plai Mat",
       "native": "ลำปลายมาศ",
@@ -272,7 +272,7 @@
       "country_id": 219
     },
     {
-      "id": 105621,
+      "id": 167092,
       "name": "Na Pho",
       "name_default": "Na Pho",
       "native": "นาโพธิ์",
@@ -291,15 +291,15 @@
     },
     {
       "id": 106589,
-      "name": "Nang Rong",
+      "name": "Нанг Ронг",
       "name_default": "Nang Rong",
       "native": "นางรอง",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.63633100",
-      "longitude": "102.77464600",
+      "population": 21493,
+      "latitude": "14.63770000",
+      "longitude": "102.79138000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q6664179",
       "country_code": "TH",
@@ -308,7 +308,7 @@
       "country_id": 219
     },
     {
-      "id": 105649,
+      "id": 167104,
       "name": "Non Din Daeng",
       "name_default": "Non Din Daeng",
       "native": "โนนดินแดง",
@@ -326,7 +326,7 @@
       "country_id": 219
     },
     {
-      "id": 105656,
+      "id": 167107,
       "name": "Non Suwan",
       "name_default": "Non Suwan",
       "native": "โนนสุวรรณ",
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 105666,
+      "id": 167113,
       "name": "Nong Hong",
       "name_default": "Nong Hong",
       "native": "หนองหงส์",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 105743,
+      "id": 167149,
       "name": "Phlapphla Chai",
       "name_default": "Phlapphla Chai",
       "native": "พลับพลาชัย",
@@ -416,7 +416,7 @@
       "country_id": 219
     },
     {
-      "id": 105785,
+      "id": 167165,
       "name": "Phutthaisong",
       "name_default": "Phutthaisong",
       "native": "พุทไธสง",

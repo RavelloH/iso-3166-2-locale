@@ -54,5 +54,42 @@
     "wikiDataId": "Q2627926",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31704,
+      "name": "Саку",
+      "name_default": "Saku",
+      "native": "Saku",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": 4548,
+      "latitude": "59.30354000",
+      "longitude": "24.66382000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": null,
+      "country_code": "EE",
+      "state_code": "719",
+      "state_id": 5783,
+      "country_id": 69
+    },
+    {
+      "id": 31705,
+      "name": "Saku vald",
+      "name_default": "Saku vald",
+      "native": "Saku vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "59.28069000",
+      "longitude": "24.71649000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": null,
+      "country_code": "EE",
+      "state_code": "719",
+      "state_id": 5783,
+      "country_id": 69
+    }
+  ]
 }

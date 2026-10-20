@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 130523,
+      "id": 168124,
       "name": "Ân Thi",
       "name_default": "Ân Thi",
       "native": "Ân Thi",
@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130524,
+      "id": 168125,
       "name": "Đông Hưng",
       "name_default": "Đông Hưng",
       "native": "Đông Hưng",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130456,
+      "id": 168073,
       "name": "Hoàng Hoa Thám",
       "name_default": "Hoàng Hoa Thám",
       "native": "Hoàng Hoa Thám",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130309,
+      "id": 167980,
       "name": "Hưng Hà",
       "name_default": "Hưng Hà",
       "native": "Hưng Hà",
@@ -132,8 +132,8 @@
       "name": "Hung Yen",
       "name_default": "Hưng Yên",
       "native": "Hưng Yên",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 118646,
       "latitude": "20.64637000",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130323,
+      "id": 167989,
       "name": "Khoái Châu",
       "name_default": "Khoái Châu",
       "native": "Khoái Châu",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130328,
+      "id": 167993,
       "name": "Lương Bằng",
       "name_default": "Lương Bằng",
       "native": "Lương Bằng",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130396,
+      "id": 168037,
       "name": "Quang Hưng",
       "name_default": "Quang Hưng",
       "native": "Quang Hưng",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130417,
+      "id": 168047,
       "name": "Quỳnh Phụ",
       "name_default": "Quỳnh Phụ",
       "native": "Quỳnh Phụ",
@@ -258,8 +258,8 @@
       "name": "Thai binh",
       "name_default": "Thái Bình",
       "native": "Thái Bình",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 53071,
       "latitude": "20.45000000",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130442,
+      "id": 168062,
       "name": "Thái Thụy",
       "name_default": "Thái Thụy",
       "native": "Thái Thụy",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130459,
+      "id": 168075,
       "name": "Tiền Hải",
       "name_default": "Tiền Hải",
       "native": "Tiền Hải",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130504,
+      "id": 168110,
       "name": "Vũ Thư",
       "name_default": "Vũ Thư",
       "native": "Vũ Thư",

@@ -2072,7 +2072,7 @@
       "country_id": 167
     },
     {
-      "id": 85553,
+      "id": 167885,
       "name": "Kot Addu",
       "name_default": "Kot Addu",
       "native": null,
@@ -3210,8 +3210,8 @@
       "name": "萨希瓦尔",
       "name_default": "Sahiwal",
       "native": "ساہیوال",
-      "type": "city",
-      "level": "5",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 538344,
       "latitude": "30.66595000",
@@ -3332,7 +3332,7 @@
       "country_id": 167
     },
     {
-      "id": 143777,
+      "id": 168148,
       "name": "Shahkot",
       "name_default": "Shahkot",
       "native": null,

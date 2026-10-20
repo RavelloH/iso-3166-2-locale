@@ -76,7 +76,7 @@
     {
       "id": 90823,
       "name": "Адунацій-Копечень",
-      "name_default": "Adunaţii-Copăceni",
+      "name_default": "Adunații-Copăceni",
       "native": "Adunații-Copăceni",
       "type": "municipality",
       "level": "2",
@@ -193,7 +193,7 @@
       "latitude": "44.44889000",
       "longitude": "25.75778000",
       "timezone": "Europe/Bucharest",
-      "wikiDataId": "Q2717321",
+      "wikiDataId": null,
       "country_code": "RO",
       "state_code": "GR",
       "state_id": 4726,
@@ -238,7 +238,7 @@
     {
       "id": 90365,
       "name": "Букшань",
-      "name_default": "Bucşani",
+      "name_default": "Bucșani",
       "native": "Bucșani",
       "type": "village",
       "level": "3",
@@ -256,7 +256,7 @@
     {
       "id": 91141,
       "name": "Букшань",
-      "name_default": "Bucşani",
+      "name_default": "Bucșani",
       "native": "Bucșani",
       "type": "municipality",
       "level": "2",
@@ -508,7 +508,7 @@
     {
       "id": 90795,
       "name": "Колібаші",
-      "name_default": "Colibaşi",
+      "name_default": "Colibași",
       "native": "Colibași",
       "type": "village",
       "level": "3",
@@ -526,7 +526,7 @@
     {
       "id": 91398,
       "name": "Колібаші",
-      "name_default": "Colibaşi",
+      "name_default": "Colibași",
       "native": "Colibași",
       "type": "municipality",
       "level": "2",
@@ -796,7 +796,7 @@
     {
       "id": 93585,
       "name": "Флорешть-Стоєнешть",
-      "name_default": "Floreşti-Stoeneşti",
+      "name_default": "Florești-Stoenești",
       "native": "Florești-Stoenești",
       "type": "municipality",
       "level": "2",
@@ -814,7 +814,7 @@
     {
       "id": 91794,
       "name": "Фретешть",
-      "name_default": "Frăteşti",
+      "name_default": "Frătești",
       "native": "Frătești",
       "type": "municipality",
       "level": "2",
@@ -832,7 +832,7 @@
     {
       "id": 94219,
       "name": "Фретешть",
-      "name_default": "Frăteşti",
+      "name_default": "Frătești",
       "native": "Frătești",
       "type": "village",
       "level": "3",
@@ -849,9 +849,9 @@
     },
     {
       "id": 91977,
-      "name": "Gãiseni",
-      "name_default": "Gãiseni",
-      "native": "Gãiseni",
+      "name": "Găiseni",
+      "name_default": "Găiseni",
+      "native": "Găiseni",
       "type": "municipality",
       "level": "2",
       "parent_id": null,
@@ -921,8 +921,8 @@
     },
     {
       "id": 91856,
-      "name": "Ghimpaţi",
-      "name_default": "Ghimpaţi",
+      "name": "Ghimpați",
+      "name_default": "Ghimpați",
       "native": "Ghimpați",
       "type": "municipality",
       "level": "2",
@@ -994,7 +994,7 @@
     {
       "id": 91890,
       "name": "Гогошарі",
-      "name_default": "Gogoşari",
+      "name_default": "Gogoșari",
       "native": "Gogoșari",
       "type": "municipality",
       "level": "2",
@@ -1012,7 +1012,7 @@
     {
       "id": 94371,
       "name": "Гогошарі",
-      "name_default": "Gogoşari",
+      "name_default": "Gogoșari",
       "native": "Gogoșari",
       "type": "village",
       "level": "3",
@@ -1030,7 +1030,7 @@
     {
       "id": 91909,
       "name": "Гостінарі",
-      "name_default": "Goştinari",
+      "name_default": "Goștinari",
       "native": "Goștinari",
       "type": "municipality",
       "level": "2",
@@ -1066,7 +1066,7 @@
     {
       "id": 94396,
       "name": "Гоштінарі-Векерешті",
-      "name_default": "Goştinari-Văcăreşti",
+      "name_default": "Goștinari-Văcărești",
       "native": "Goștinari-Văcărești",
       "type": "city",
       "level": null,
@@ -1210,7 +1210,7 @@
     {
       "id": 91998,
       "name": "Херешть",
-      "name_default": "Herăşti",
+      "name_default": "Herăști",
       "native": "Herăști",
       "type": "municipality",
       "level": "2",
@@ -1318,7 +1318,7 @@
     {
       "id": 92064,
       "name": "Єпурешть",
-      "name_default": "Iepureşti",
+      "name_default": "Iepurești",
       "native": "Iepurești",
       "type": "municipality",
       "level": "2",
@@ -1336,7 +1336,7 @@
     {
       "id": 94643,
       "name": "Єпурешть",
-      "name_default": "Iepureşti",
+      "name_default": "Iepurești",
       "native": "Iepurești",
       "type": "village",
       "level": "3",
@@ -1407,8 +1407,8 @@
     },
     {
       "id": 92128,
-      "name": "Joiţa",
-      "name_default": "Joiţa",
+      "name": "Joița",
+      "name_default": "Joița",
       "native": "Joița",
       "type": "municipality",
       "level": "2",
@@ -1426,7 +1426,7 @@
     {
       "id": 94744,
       "name": "Жойца",
-      "name_default": "Joiţa",
+      "name_default": "Joița",
       "native": "Joița",
       "type": "village",
       "level": "3",
@@ -1533,8 +1533,8 @@
     },
     {
       "id": 92373,
-      "name": "Mârşa",
-      "name_default": "Mârşa",
+      "name": "Mârșa",
+      "name_default": "Mârșa",
       "native": "Mârșa",
       "type": "municipality",
       "level": "2",
@@ -1552,7 +1552,7 @@
     {
       "id": 95222,
       "name": "Марша",
-      "name_default": "Mârşa",
+      "name_default": "Mârșa",
       "native": "Mârșa",
       "type": "village",
       "level": "3",
@@ -1624,7 +1624,7 @@
     {
       "id": 94995,
       "name": "Михайлешті",
-      "name_default": "Mihăileşti",
+      "name_default": "Mihăilești",
       "native": "Mihăilești",
       "type": "locality",
       "level": "3",
@@ -1642,8 +1642,8 @@
     {
       "id": 95541,
       "name": "Міхейлешть",
-      "name_default": "Mihãileşti",
-      "native": "Mihãilești",
+      "name_default": "Mihăilești",
+      "native": "Mihăilești",
       "type": "town",
       "level": "2",
       "parent_id": null,
@@ -1786,7 +1786,7 @@
     {
       "id": 95466,
       "name": "Ораш Болінтін-Вале",
-      "name_default": "Oraş Bolintin-Vale",
+      "name_default": "Oraș Bolintin-Vale",
       "native": "Oraș Bolintin-Vale",
       "type": "town",
       "level": "2",
@@ -2236,7 +2236,7 @@
     {
       "id": 93016,
       "name": "Стенешть",
-      "name_default": "Stăneşti",
+      "name_default": "Stănești",
       "native": "Stănești",
       "type": "municipality",
       "level": "2",
@@ -2254,7 +2254,7 @@
     {
       "id": 96477,
       "name": "Стенешть",
-      "name_default": "Stăneşti",
+      "name_default": "Stănești",
       "native": "Stănești",
       "type": "village",
       "level": "3",
@@ -2272,7 +2272,7 @@
     {
       "id": 92994,
       "name": "Стоєнешть",
-      "name_default": "Stoeneşti",
+      "name_default": "Stoenești",
       "native": "Stoenești",
       "type": "municipality",
       "level": "2",
@@ -2290,7 +2290,7 @@
     {
       "id": 96435,
       "name": "Стоєнешть",
-      "name_default": "Stoeneşti",
+      "name_default": "Stoenești",
       "native": "Stoenești",
       "type": "village",
       "level": "3",
@@ -2523,8 +2523,8 @@
     },
     {
       "id": 93466,
-      "name": "Vărăşti",
-      "name_default": "Vărăşti",
+      "name": "Vărăști",
+      "name_default": "Vărăști",
       "native": "Vărăști",
       "type": "municipality",
       "level": "2",
@@ -2542,7 +2542,7 @@
     {
       "id": 96974,
       "name": "Верешть",
-      "name_default": "Vărăşti",
+      "name_default": "Vărăști",
       "native": "Vărăști",
       "type": "village",
       "level": "3",

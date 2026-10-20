@@ -78,8 +78,8 @@
       "name": "सा मऊ",
       "name_default": "Cà Mau",
       "native": "Cà Mau",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 226372,
       "latitude": "9.17682000",
@@ -92,7 +92,7 @@
       "country_id": 240
     },
     {
-      "id": 130267,
+      "id": 167955,
       "name": "Cái Nước",
       "name_default": "Cái Nước",
       "native": "Cái Nước",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130540,
+      "id": 168134,
       "name": "Đầm Dơi",
       "name_default": "Đầm Dơi",
       "native": "Đầm Dơi",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130453,
+      "id": 168070,
       "name": "Thới Bình",
       "name_default": "Thới Bình",
       "native": "Thới Bình",

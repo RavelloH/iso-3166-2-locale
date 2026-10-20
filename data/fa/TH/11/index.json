@@ -67,14 +67,14 @@
       "latitude": "13.64172000",
       "longitude": "100.83272000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q340034",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "11",
       "state_id": 3481,
       "country_id": 219
     },
     {
-      "id": 105222,
+      "id": 166948,
       "name": "Bang Bo",
       "name_default": "Bang Bo",
       "native": "บางบ่อ",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105238,
+      "id": 166950,
       "name": "Bang Phli",
       "name_default": "Bang Phli",
       "native": "บางพลี",
@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105243,
+      "id": 166951,
       "name": "Bang Sao Thong",
       "name_default": "Bang Sao Thong",
       "native": "บางเสาธง",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105764,
+      "id": 167156,
       "name": "Phra Samut Chedi",
       "name_default": "Phra Samut Chedi",
       "native": "พระสมุทรเจดีย์",
@@ -168,8 +168,8 @@
       "name": "ساموت پراکان",
       "name_default": "Samut Prakan",
       "native": "สมุทรปราการ",
-      "type": "city",
-      "level": "3",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 388920,
       "latitude": "13.59934000",

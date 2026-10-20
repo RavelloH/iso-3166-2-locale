@@ -54,5 +54,24 @@
     "wikiDataId": "Q43281154",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31656,
+      "name": "莱内-尼古拉·瓦尔德",
+      "name_default": "Lääne-Nigula vald",
+      "native": "Lääne-Nigula vald",
+      "type": "adm2",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.96045000",
+      "longitude": "23.74489000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": null,
+      "country_code": "EE",
+      "state_code": "441",
+      "state_id": 5761,
+      "country_id": 69
+    }
+  ]
 }

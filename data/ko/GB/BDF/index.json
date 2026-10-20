@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 48449,
+      "id": 166594,
       "name": "베드포드",
       "name_default": "Bedford",
       "native": "Bedford",
@@ -186,8 +186,8 @@
       "name": "켐프 스턴",
       "name_default": "Kempston",
       "native": "Kempston",
-      "type": "town",
-      "level": "3",
+      "type": "adm3",
+      "level": null,
       "parent_id": null,
       "population": 20736,
       "latitude": "52.11599000",

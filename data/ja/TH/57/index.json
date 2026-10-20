@@ -139,7 +139,7 @@
       "latitude": "20.27511000",
       "longitude": "100.08689000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q856772",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "57",
       "state_id": 3498,
@@ -183,15 +183,15 @@
     },
     {
       "id": 106562,
-      "name": "Mae Chan",
+      "name": "メイ・チャン",
       "name_default": "Mae Chan",
       "native": "แม่จัน",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "20.13970000",
-      "longitude": "99.85700000",
+      "population": 37672,
+      "latitude": "20.14675000",
+      "longitude": "99.85256000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q15310472",
       "country_code": "TH",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 105504,
+      "id": 167066,
       "name": "Mae Lao",
       "name_default": "Mae Lao",
       "native": "แม่ลาว",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 105514,
+      "id": 167069,
       "name": "Mae Suai",
       "name_default": "Mae Suai",
       "native": "แม่สรวย",
@@ -308,7 +308,7 @@
       "country_id": 219
     },
     {
-      "id": 105733,
+      "id": 167145,
       "name": "Phaya Mengrai",
       "name_default": "Phaya Mengrai",
       "native": "พญาเม็งราย",
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 106359,
+      "id": 167282,
       "name": "Wiang Chai",
       "name_default": "Wiang Chai",
       "native": "เวียงชัย",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 106365,
+      "id": 167283,
       "name": "Wiang Pa Pao",
       "name_default": "Wiang Pa Pao",
       "native": "เวียงป่าเป้า",

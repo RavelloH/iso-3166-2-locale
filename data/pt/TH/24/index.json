@@ -110,7 +110,7 @@
       "country_id": 219
     },
     {
-      "id": 105212,
+      "id": 166940,
       "name": "Ban Pho",
       "name_default": "Ban Pho",
       "native": "บ้านโพธิ์",
@@ -132,8 +132,8 @@
       "name": "Bang Khla",
       "name_default": "Bang Khla",
       "native": "บางคล้า",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 13528,
       "latitude": "13.72144000",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 105788,
+      "id": 167168,
       "name": "Plaeng Yao",
       "name_default": "Plaeng Yao",
       "native": "แปลงยาว",
@@ -272,7 +272,7 @@
       "country_id": 219
     },
     {
-      "id": 106185,
+      "id": 167190,
       "name": "Sanam Chai Khet",
       "name_default": "Sanam Chai Khet",
       "native": "สนามชัยเขต",

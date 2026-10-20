@@ -85,7 +85,7 @@
       "latitude": "47.06337000",
       "longitude": "8.52349000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q69742",
+      "wikiDataId": "Q22455065",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
@@ -121,14 +121,14 @@
       "latitude": "47.12849000",
       "longitude": "8.74735000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q68950",
+      "wikiDataId": "Q22380143",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
       "country_id": 214
     },
     {
-      "id": 17787,
+      "id": 167664,
       "name": "페우시스베르크",
       "name_default": "Feusisberg",
       "native": "Feusisberg",
@@ -157,14 +157,14 @@
       "latitude": "47.20534000",
       "longitude": "8.75842000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q69780",
+      "wikiDataId": "Q22509889",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
       "country_id": 214
     },
     {
-      "id": 17830,
+      "id": 167674,
       "name": "게르사우",
       "name_default": "Gersau",
       "native": "Gersau",
@@ -218,7 +218,7 @@
       "country_id": 214
     },
     {
-      "id": 17951,
+      "id": 167701,
       "name": "인겐볼",
       "name_default": "Ingenbohl",
       "native": "Ingenbohl",
@@ -236,7 +236,7 @@
       "country_id": 214
     },
     {
-      "id": 18019,
+      "id": 167714,
       "name": "퀴스나흐트",
       "name_default": "Küssnacht",
       "native": "Küssnacht",
@@ -254,7 +254,7 @@
       "country_id": 214
     },
     {
-      "id": 18030,
+      "id": 167716,
       "name": "라헨",
       "name_default": "Lachen",
       "native": "Lachen",
@@ -283,7 +283,7 @@
       "latitude": "46.97676000",
       "longitude": "8.76499000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q66069",
+      "wikiDataId": "Q22629922",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
@@ -308,7 +308,7 @@
       "country_id": 214
     },
     {
-      "id": 18360,
+      "id": 167780,
       "name": "라이헨부르크",
       "name_default": "Reichenburg",
       "native": "Reichenburg",
@@ -326,7 +326,7 @@
       "country_id": 214
     },
     {
-      "id": 18393,
+      "id": 167786,
       "name": "로텐투름",
       "name_default": "Rothenthurm",
       "native": "Rothenthurm",
@@ -344,7 +344,7 @@
       "country_id": 214
     },
     {
-      "id": 18449,
+      "id": 167798,
       "name": "새텔",
       "name_default": "Sattel",
       "native": "Sattel",
@@ -368,7 +368,7 @@
       "native": "Schindellegi",
       "type": "section",
       "level": "4",
-      "parent_id": "17787",
+      "parent_id": "167664",
       "population": 3174,
       "latitude": "47.17460000",
       "longitude": "8.71345000",
@@ -391,7 +391,7 @@
       "latitude": "47.17326000",
       "longitude": "8.92811000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q65623",
+      "wikiDataId": "Q22548451",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
@@ -434,7 +434,7 @@
       "country_id": 214
     },
     {
-      "id": 18553,
+      "id": 167814,
       "name": "슈타이넨",
       "name_default": "Steinen",
       "native": "Stein",
@@ -452,7 +452,7 @@
       "country_id": 214
     },
     {
-      "id": 18612,
+      "id": 167822,
       "name": "투겐",
       "name_default": "Tuggen",
       "native": "Tuggen",
@@ -481,14 +481,14 @@
       "latitude": "47.06258000",
       "longitude": "8.80520000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q64824",
+      "wikiDataId": null,
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,
       "country_id": 214
     },
     {
-      "id": 18693,
+      "id": 167835,
       "name": "보르데르탈",
       "name_default": "Vorderthal",
       "native": "Vorderthal",
@@ -517,7 +517,7 @@
       "latitude": "47.19478000",
       "longitude": "8.71903000",
       "timezone": "Europe/Zurich",
-      "wikiDataId": "Q69647",
+      "wikiDataId": "Q22632539",
       "country_code": "CH",
       "state_code": "SZ",
       "state_id": 1653,

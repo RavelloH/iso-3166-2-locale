@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105259,
+      "id": 166958,
       "name": "Bueng Bun",
       "name_default": "Bueng Bun",
       "native": "บึงบูรพ์",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105358,
+      "id": 167002,
       "name": "Huai Thap Than",
       "name_default": "Huai Thap Than",
       "native": "ห้วยทับทัน",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105372,
+      "id": 167005,
       "name": "Kanthararom",
       "name_default": "Kanthararom",
       "native": "กันทรารมย์",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105432,
+      "id": 167033,
       "name": "Khun Han",
       "name_default": "Khun Han",
       "native": "ขุนหาญ",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105537,
+      "id": 167078,
       "name": "Mueang Chan",
       "name_default": "Mueang Chan",
       "native": "เมืองจันทร์",
@@ -236,7 +236,7 @@
       "country_id": 219
     },
     {
-      "id": 105735,
+      "id": 167146,
       "name": "Phayu",
       "name_default": "Phayu",
       "native": "พยุห์",
@@ -273,15 +273,15 @@
     },
     {
       "id": 106648,
-      "name": "Phrai Bueng",
+      "name": "Пхрай Буенг",
       "name_default": "Phrai Bueng",
       "native": "ไพรบึง",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.74900000",
-      "longitude": "104.35740000",
+      "population": 11494,
+      "latitude": "14.74833000",
+      "longitude": "104.36261000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025341",
       "country_code": "TH",
@@ -308,7 +308,7 @@
       "country_id": 219
     },
     {
-      "id": 105797,
+      "id": 167170,
       "name": "Prang Ku",
       "name_default": "Prang Ku",
       "native": "ปรางค์กู่",
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 106221,
+      "id": 167209,
       "name": "Si Rattana",
       "name_default": "Si Rattana",
       "native": "ศรีรัตนะ",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 106328,
+      "id": 167261,
       "name": "Uthumphon Phisai",
       "name_default": "Uthumphon Phisai",
       "native": "อุทุมพรพิสัย",
@@ -416,7 +416,7 @@
       "country_id": 219
     },
     {
-      "id": 106337,
+      "id": 167268,
       "name": "Wang Hin",
       "name_default": "Wang Hin",
       "native": "วังหิน",
@@ -434,7 +434,7 @@
       "country_id": 219
     },
     {
-      "id": 106374,
+      "id": 167287,
       "name": "Yang Chum Noi",
       "name_default": "Yang Chum Noi",
       "native": "ยางชุมน้อย",

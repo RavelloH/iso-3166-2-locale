@@ -54,24 +54,5 @@
     "wikiDataId": "Q192061",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31741,
-      "name": "Вильяндиская волость",
-      "name_default": "Viljandi vald",
-      "native": "Viljandi vald",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.36392000",
-      "longitude": "25.49103000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q44840",
-      "country_code": "EE",
-      "state_code": "84",
-      "state_id": 3556,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }

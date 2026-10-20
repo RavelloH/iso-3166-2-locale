@@ -128,7 +128,7 @@
       "country_id": 232
     },
     {
-      "id": 51460,
+      "id": 166611,
       "name": "Stockton-on-Tees",
       "name_default": "Stockton-on-Tees",
       "native": "Stockton-on-Tees",
@@ -168,8 +168,8 @@
       "name": "Yarm",
       "name_default": "Yarm",
       "native": "Yarm",
-      "type": "town",
-      "level": "3",
+      "type": "adm3",
+      "level": null,
       "parent_id": null,
       "population": 19184,
       "latitude": "54.50364000",

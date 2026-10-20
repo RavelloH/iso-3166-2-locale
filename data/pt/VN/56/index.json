@@ -44,7 +44,7 @@
     "name": "Bac Ninh",
     "name_default": "Bắc Ninh",
     "native": "Bắc Ninh",
-    "type": "province",
+    "type": "municipality",
     "level": "1",
     "parent_id": null,
     "population": 287658,
@@ -78,8 +78,8 @@
       "name": "Bac Ninh",
       "name_default": "Bắc Ninh",
       "native": "Bắc Ninh",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 287658,
       "latitude": "21.18608000",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130285,
+      "id": 167966,
       "name": "Gia Bình",
       "name_default": "Gia Bình",
       "native": "Gia Bình",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130353,
+      "id": 168009,
       "name": "Lục Nam",
       "name_default": "Lục Nam",
       "native": "Lục Nam",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130455,
+      "id": 168072,
       "name": "Tiên Du",
       "name_default": "Tiên Du",
       "native": "Tiên Du",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130518,
+      "id": 168122,
       "name": "Yên Phong",
       "name_default": "Yên Phong",
       "native": "Yên Phong",

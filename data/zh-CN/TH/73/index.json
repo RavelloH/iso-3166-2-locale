@@ -57,15 +57,15 @@
   "cities": [
     {
       "id": 106434,
-      "name": "Bang Len",
+      "name": "邦伦",
       "name_default": "Bang Len",
       "native": "บางเลน",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.02194444",
-      "longitude": "100.17194444",
+      "population": 17914,
+      "latitude": "14.02188000",
+      "longitude": "100.17183000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28726670",
       "country_code": "TH",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 106509,
+      "id": 167291,
       "name": "Kamphaeng Saen",
       "name_default": "Kamphaeng Saen",
       "native": "กำแพงแสน",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105631,
+      "id": 167097,
       "name": "Nakhon Chai Si",
       "name_default": "Nakhon Chai Si",
       "native": "นครชัยศรี",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105786,
+      "id": 167166,
       "name": "Sala Ya",
       "name_default": "Sala Ya",
       "native": "ศาลายา",
@@ -183,13 +183,13 @@
     },
     {
       "id": 106677,
-      "name": "Sam Phran",
+      "name": "萨姆·帕兰",
       "name_default": "Sam Phran",
       "native": "สามพราน",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
+      "population": 37115,
       "latitude": "13.72698000",
       "longitude": "100.21526000",
       "timezone": "Asia/Bangkok",

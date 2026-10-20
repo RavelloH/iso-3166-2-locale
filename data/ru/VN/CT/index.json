@@ -60,8 +60,8 @@
       "name": "Кантхо",
       "name_default": "Cần Thơ",
       "native": "Cần Thơ",
-      "type": "city",
-      "level": "1",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 1507187,
       "latitude": "10.11667000",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130336,
+      "id": 167998,
       "name": "Kế Sách",
       "name_default": "Kế Sách",
       "native": "Kế Sách",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130343,
+      "id": 168002,
       "name": "Long Phú",
       "name_default": "Long Phú",
       "native": "Long Phú",
@@ -146,7 +146,7 @@
       "country_id": 240
     },
     {
-      "id": 130371,
+      "id": 168019,
       "name": "Mỹ Tú",
       "name_default": "Mỹ Tú",
       "native": "Mỹ Tú",
@@ -164,7 +164,7 @@
       "country_id": 240
     },
     {
-      "id": 130372,
+      "id": 168020,
       "name": "Mỹ Xuyên",
       "name_default": "Mỹ Xuyên",
       "native": "Mỹ Xuyên",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130450,
+      "id": 168068,
       "name": "Phú Lộc",
       "name_default": "Phú Lộc",
       "native": "Phú Lộc",
@@ -218,7 +218,7 @@
       "country_id": 240
     },
     {
-      "id": 130254,
+      "id": 167947,
       "name": "Tân Hòa",
       "name_default": "Tân Hòa",
       "native": "Tân Hòa",
@@ -258,8 +258,8 @@
       "name": "Витхань",
       "name_default": "Vị Thanh",
       "native": "Vị Thanh",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 24477,
       "latitude": "9.78449000",

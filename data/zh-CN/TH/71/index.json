@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105353,
+      "id": 166999,
       "name": "Huai Krachao",
       "name_default": "Huai Krachao",
       "native": "ห้วยกระเจา",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 105484,
+      "id": 167058,
       "name": "Lao Khwan",
       "name_default": "Lao Khwan",
       "native": "เลาขวัญ",
@@ -182,7 +182,7 @@
       "country_id": 219
     },
     {
-      "id": 105677,
+      "id": 167120,
       "name": "Nong Prue",
       "name_default": "Nong Prue",
       "native": "หนองปรือ",
@@ -201,15 +201,15 @@
     },
     {
       "id": 106624,
-      "name": "Phanom Thuan",
+      "name": "帕侬顺",
       "name_default": "Phanom Thuan",
       "native": "พนมทวน",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "14.13150000",
-      "longitude": "99.70290000",
+      "population": 12469,
+      "latitude": "14.13031000",
+      "longitude": "99.69858000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28735558",
       "country_code": "TH",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 105826,
+      "id": 167183,
       "name": "Sai Yok",
       "name_default": "Sai Yok",
       "native": "ไทรโยค",
@@ -291,15 +291,15 @@
     },
     {
       "id": 106723,
-      "name": "Tha Muang",
+      "name": "塔孟",
       "name_default": "Tha Muang",
       "native": "ท่าม่วง",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "13.96111111",
-      "longitude": "99.64111111",
+      "population": 26746,
+      "latitude": "13.96118000",
+      "longitude": "99.64122000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28735554",
       "country_code": "TH",

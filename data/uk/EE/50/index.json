@@ -54,42 +54,5 @@
     "wikiDataId": "Q189974",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31615,
-      "name": "Йигева вальд",
-      "name_default": "Jõgeva vald",
-      "native": "Jõgeva vald",
-      "type": "adm1",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.78732000",
-      "longitude": "26.38122000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q1503436",
-      "country_code": "EE",
-      "state_code": "50",
-      "state_id": 3565,
-      "country_id": 69
-    },
-    {
-      "id": 31684,
-      "name": "Пілтсамаа вальд",
-      "name_default": "Põltsamaa vald",
-      "native": "Põltsamaa vald",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.64067000",
-      "longitude": "26.00957000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q1854978",
-      "country_code": "EE",
-      "state_code": "50",
-      "state_id": 3565,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }

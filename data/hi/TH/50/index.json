@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105292,
+      "id": 166972,
       "name": "Chiang Dao",
       "name_default": "Chiang Dao",
       "native": "เชียงดาว",
@@ -272,7 +272,7 @@
       "country_id": 219
     },
     {
-      "id": 105496,
+      "id": 167063,
       "name": "Mae Ai",
       "name_default": "Mae Ai",
       "native": "แม่อาย",
@@ -290,7 +290,7 @@
       "country_id": 219
     },
     {
-      "id": 105497,
+      "id": 167064,
       "name": "Mae Chaem",
       "name_default": "Mae Chaem",
       "native": "แม่แจ่ม",
@@ -344,7 +344,7 @@
       "country_id": 219
     },
     {
-      "id": 105515,
+      "id": 167070,
       "name": "Mae Taeng",
       "name_default": "Mae Taeng",
       "native": "แม่แตง",
@@ -362,7 +362,7 @@
       "country_id": 219
     },
     {
-      "id": 105518,
+      "id": 167072,
       "name": "Mae Wang",
       "name_default": "Mae Wang",
       "native": "แม่วาง",
@@ -380,7 +380,7 @@
       "country_id": 219
     },
     {
-      "id": 105690,
+      "id": 167127,
       "name": "Omkoi",
       "name_default": "Omkoi",
       "native": "อมก๋อย",
@@ -434,7 +434,7 @@
       "country_id": 219
     },
     {
-      "id": 106179,
+      "id": 167186,
       "name": "Samoeng Tai",
       "name_default": "Samoeng Tai",
       "native": "สะเมิงใต้",
@@ -453,15 +453,15 @@
     },
     {
       "id": 106683,
-      "name": "San Kamphaeng",
+      "name": "सैन काम्फेंग",
       "name_default": "San Kamphaeng",
       "native": "สันกำแพง",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "18.75000000",
-      "longitude": "99.11670000",
+      "population": 32950,
+      "latitude": "18.74486000",
+      "longitude": "99.11953000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025277",
       "country_code": "TH",
@@ -488,7 +488,7 @@
       "country_id": 219
     },
     {
-      "id": 106184,
+      "id": 167189,
       "name": "San Sai Luang",
       "name_default": "San Sai Luang",
       "native": "สันทรายหลวง",
@@ -506,7 +506,7 @@
       "country_id": 219
     },
     {
-      "id": 106195,
+      "id": 167197,
       "name": "Saraphi",
       "name_default": "Saraphi",
       "native": "สารภี",

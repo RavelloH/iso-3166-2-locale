@@ -54,5 +54,24 @@
     "wikiDataId": "Q13972",
     "country_code": "EE"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 31722,
+      "name": "تارتو والد",
+      "name_default": "Tartu vald",
+      "native": "Tartu vald",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "58.47800000",
+      "longitude": "26.74956000",
+      "timezone": "Europe/Tallinn",
+      "wikiDataId": "Q1266078",
+      "country_code": "EE",
+      "state_code": "796",
+      "state_id": 5787,
+      "country_id": 69
+    }
+  ]
 }

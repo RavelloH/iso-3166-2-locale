@@ -56,7 +56,7 @@
   },
   "cities": [
     {
-      "id": 48402,
+      "id": 166593,
       "name": "بارنزلی",
       "name_default": "Barnsley",
       "native": "Barnsley",
@@ -258,8 +258,8 @@
       "name": "پنیستون",
       "name_default": "Penistone",
       "native": "Penistone",
-      "type": "town",
-      "level": "3",
+      "type": "adm3",
+      "level": null,
       "parent_id": null,
       "population": 12674,
       "latitude": "53.52572000",

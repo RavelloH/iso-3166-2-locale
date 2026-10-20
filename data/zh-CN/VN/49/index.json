@@ -74,7 +74,7 @@
       "country_id": 240
     },
     {
-      "id": 130215,
+      "id": 167915,
       "name": "Ba Tri",
       "name_default": "Ba Tri",
       "native": "Ba Tri",
@@ -96,8 +96,8 @@
       "name": "槟椥市",
       "name_default": "Bến Tre",
       "native": "Bến Tre",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 124449,
       "latitude": "10.24147000",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130226,
+      "id": 167923,
       "name": "Bình Đại",
       "name_default": "Bình Đại",
       "native": "Bình Đại",
@@ -128,7 +128,7 @@
       "country_id": 240
     },
     {
-      "id": 130357,
+      "id": 168012,
       "name": "Cái Nhum",
       "name_default": "Cái Nhum",
       "native": "Cái Nhum",
@@ -146,7 +146,7 @@
       "country_id": 240
     },
     {
-      "id": 130272,
+      "id": 167959,
       "name": "Cầu Kè",
       "name_default": "Cầu Kè",
       "native": "Cầu Kè",
@@ -164,7 +164,7 @@
       "country_id": 240
     },
     {
-      "id": 130261,
+      "id": 167952,
       "name": "Chợ Lách",
       "name_default": "Chợ Lách",
       "native": "Chợ Lách",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130291,
+      "id": 167969,
       "name": "Giồng Trôm",
       "name_default": "Giồng Trôm",
       "native": "Giồng Trôm",
@@ -272,7 +272,7 @@
       "country_id": 240
     },
     {
-      "id": 130342,
+      "id": 168001,
       "name": "Long Hồ",
       "name_default": "Long Hồ",
       "native": "Long Hồ",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130250,
+      "id": 167944,
       "name": "Phú Túc",
       "name_default": "Phú Túc",
       "native": "Phú Túc",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130449,
+      "id": 168067,
       "name": "Thạnh Phú",
       "name_default": "Thạnh Phú",
       "native": "Thạnh Phú",
@@ -326,7 +326,7 @@
       "country_id": 240
     },
     {
-      "id": 130460,
+      "id": 168076,
       "name": "Tiểu Cần",
       "name_default": "Tiểu Cần",
       "native": "Tiểu Cần",
@@ -344,7 +344,7 @@
       "country_id": 240
     },
     {
-      "id": 130465,
+      "id": 168081,
       "name": "Trà Cú",
       "name_default": "Trà Cú",
       "native": "Trà Cú",
@@ -366,8 +366,8 @@
       "name": "茶荣市",
       "name_default": "Trà Vinh",
       "native": "Trà Vinh",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 160310,
       "latitude": "9.94719000",
@@ -380,7 +380,7 @@
       "country_id": 240
     },
     {
-      "id": 130505,
+      "id": 168111,
       "name": "Trung Thành",
       "name_default": "Trung Thành",
       "native": "Trung Thành",
@@ -402,8 +402,8 @@
       "name": "永隆市",
       "name_default": "Vĩnh Long",
       "native": "Vĩnh Long",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 137870,
       "latitude": "10.25369000",

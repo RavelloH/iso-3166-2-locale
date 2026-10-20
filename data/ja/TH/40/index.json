@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105191,
+      "id": 166924,
       "name": "Ban Fang",
       "name_default": "Ban Fang",
       "native": "บ้านฝาง",
@@ -92,7 +92,7 @@
       "country_id": 219
     },
     {
-      "id": 105192,
+      "id": 166925,
       "name": "Ban Haet",
       "name_default": "Ban Haet",
       "native": "บ้านแฮด",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105307,
+      "id": 166978,
       "name": "Chonnabot",
       "name_default": "Chonnabot",
       "native": "ชนบท",
@@ -147,15 +147,15 @@
     },
     {
       "id": 106483,
-      "name": "Chum Phae",
+      "name": "チュム・ペー",
       "name_default": "Chum Phae",
       "native": "ชุมแพ",
-      "type": "city",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "16.54310000",
-      "longitude": "102.11040000",
+      "population": 46335,
+      "latitude": "16.54430000",
+      "longitude": "102.09924000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q13025353",
       "country_code": "TH",
@@ -218,7 +218,7 @@
       "country_id": 219
     },
     {
-      "id": 106325,
+      "id": 167259,
       "name": "Khuean Ubolratana",
       "name_default": "Khuean Ubolratana",
       "native": "เขื่อนอุบลรัตน์",
@@ -254,7 +254,7 @@
       "country_id": 219
     },
     {
-      "id": 105525,
+      "id": 167074,
       "name": "Mancha Khiri",
       "name_default": "Mancha Khiri",
       "native": "มัญจาคีรี",
@@ -290,7 +290,7 @@
       "country_id": 219
     },
     {
-      "id": 105654,
+      "id": 167106,
       "name": "Non Sila",
       "name_default": "Non Sila",
       "native": "โนนศิลา",
@@ -308,7 +308,7 @@
       "country_id": 219
     },
     {
-      "id": 105674,
+      "id": 167118,
       "name": "Nong Na Kham",
       "name_default": "Nong Na Kham",
       "native": "หนองนาคำ",
@@ -326,7 +326,7 @@
       "country_id": 219
     },
     {
-      "id": 105678,
+      "id": 167121,
       "name": "Nong Ruea",
       "name_default": "Nong Ruea",
       "native": "หนองเรือ",
@@ -380,7 +380,7 @@
       "country_id": 219
     },
     {
-      "id": 105766,
+      "id": 167157,
       "name": "Phra Yuen",
       "name_default": "Phra Yuen",
       "native": "พระยืน",
@@ -398,7 +398,7 @@
       "country_id": 219
     },
     {
-      "id": 105777,
+      "id": 167162,
       "name": "Phu Pha Man",
       "name_default": "Phu Pha Man",
       "native": "ภูผาม่าน",
@@ -416,7 +416,7 @@
       "country_id": 219
     },
     {
-      "id": 105783,
+      "id": 167164,
       "name": "Phu Wiang",
       "name_default": "Phu Wiang",
       "native": "ภูเวียง",
@@ -452,7 +452,7 @@
       "country_id": 219
     },
     {
-      "id": 106178,
+      "id": 167185,
       "name": "Sam Sung",
       "name_default": "Sam Sung",
       "native": "ซำสูง",
@@ -470,7 +470,7 @@
       "country_id": 219
     },
     {
-      "id": 106212,
+      "id": 167203,
       "name": "Si Chomphu",
       "name_default": "Si Chomphu",
       "native": "สีชมพู",
@@ -488,7 +488,7 @@
       "country_id": 219
     },
     {
-      "id": 106331,
+      "id": 167263,
       "name": "Waeng Noi",
       "name_default": "Waeng Noi",
       "native": "แวงน้อย",
@@ -506,7 +506,7 @@
       "country_id": 219
     },
     {
-      "id": 106332,
+      "id": 167264,
       "name": "Waeng Yai",
       "name_default": "Waeng Yai",
       "native": "แวงใหญ่",

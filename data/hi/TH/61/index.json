@@ -74,7 +74,7 @@
       "country_id": 219
     },
     {
-      "id": 105216,
+      "id": 166943,
       "name": "Ban Rai",
       "name_default": "Ban Rai",
       "native": "บ้านไร่",
@@ -103,7 +103,7 @@
       "latitude": "15.29095000",
       "longitude": "99.61661000",
       "timezone": "Asia/Bangkok",
-      "wikiDataId": "Q667576",
+      "wikiDataId": null,
       "country_code": "TH",
       "state_code": "61",
       "state_id": 3551,
@@ -111,15 +111,15 @@
     },
     {
       "id": 106552,
-      "name": "Lan Sak",
+      "name": "लैन साक",
       "name_default": "Lan Sak",
       "native": "ลานสัก",
-      "type": "town",
-      "level": "3",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
-      "population": null,
-      "latitude": "15.45480000",
-      "longitude": "99.56340000",
+      "population": 13905,
+      "latitude": "15.45289000",
+      "longitude": "99.57606000",
       "timezone": "Asia/Bangkok",
       "wikiDataId": "Q28727752",
       "country_code": "TH",
@@ -128,7 +128,7 @@
       "country_id": 219
     },
     {
-      "id": 105660,
+      "id": 167108,
       "name": "Nong Chang",
       "name_default": "Nong Chang",
       "native": "หนองฉาง",
@@ -146,7 +146,7 @@
       "country_id": 219
     },
     {
-      "id": 105668,
+      "id": 167114,
       "name": "Nong Kha Yang",
       "name_default": "Nong Kha Yang",
       "native": "หนองขาหย่าง",
@@ -164,7 +164,7 @@
       "country_id": 219
     },
     {
-      "id": 106200,
+      "id": 167200,
       "name": "Sawang Arom",
       "name_default": "Sawang Arom",
       "native": "สว่างอารมณ์",

@@ -60,8 +60,8 @@
       "name": "بين هوا",
       "name_default": "Biên Hòa",
       "native": "Biên Hòa",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 1104000,
       "latitude": "10.94469000",
@@ -110,7 +110,7 @@
       "country_id": 240
     },
     {
-      "id": 130547,
+      "id": 168135,
       "name": "Đồng Phú",
       "name_default": "Đồng Phú",
       "native": "Đồng Phú",
@@ -132,8 +132,8 @@
       "name": "دونغ زواي",
       "name_default": "Đồng Xoài",
       "native": "Đồng Xoài",
-      "type": "city",
-      "level": "2",
+      "type": "adm1",
+      "level": null,
       "parent_id": null,
       "population": 168000,
       "latitude": "11.53495000",
@@ -236,7 +236,7 @@
       "country_id": 240
     },
     {
-      "id": 130344,
+      "id": 168003,
       "name": "Long Thành",
       "name_default": "Long Thành",
       "native": "Long Thành",
@@ -254,7 +254,7 @@
       "country_id": 240
     },
     {
-      "id": 130485,
+      "id": 168096,
       "name": "Tân Phú",
       "name_default": "Tân Phú",
       "native": "Tân Phú",
@@ -290,7 +290,7 @@
       "country_id": 240
     },
     {
-      "id": 130471,
+      "id": 168084,
       "name": "Trảng Bom",
       "name_default": "Trảng Bom",
       "native": "Trảng Bom",
@@ -308,7 +308,7 @@
       "country_id": 240
     },
     {
-      "id": 130498,
+      "id": 168104,
       "name": "Trị An",
       "name_default": "Trị An",
       "native": "Trị An",

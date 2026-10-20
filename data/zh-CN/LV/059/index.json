@@ -36,22 +36,22 @@
     "emojiU": "U+1F1F1 U+1F1FB"
   },
   "state": {
-    "id": 4433,
+    "id": 5858,
     "code": "059",
     "iso2": "059",
     "iso3166_2": "LV-059",
-    "fips_code": "20",
-    "name": "麦当娜",
+    "fips_code": null,
+    "name": "Madona",
     "name_default": "Madona",
-    "native": "Madona",
+    "native": "Madonas novads",
     "type": "municipality",
     "level": "1",
     "parent_id": null,
-    "population": 6575,
-    "latitude": "56.85174670",
-    "longitude": "26.21847690",
+    "population": null,
+    "latitude": "56.85329000",
+    "longitude": "26.21698000",
     "timezone": "Europe/Riga",
-    "wikiDataId": "Q2198472",
+    "wikiDataId": null,
     "country_code": "LV"
   },
   "cities": [
@@ -70,7 +70,7 @@
       "wikiDataId": "Q757050",
       "country_code": "LV",
       "state_code": "059",
-      "state_id": 4433,
+      "state_id": 5858,
       "country_id": 120
     },
     {
@@ -85,10 +85,10 @@
       "latitude": "56.89752000",
       "longitude": "25.63668000",
       "timezone": "Europe/Riga",
-      "wikiDataId": "Q203375",
+      "wikiDataId": null,
       "country_code": "LV",
       "state_code": "059",
-      "state_id": 4433,
+      "state_id": 5858,
       "country_id": 120
     },
     {
@@ -106,7 +106,7 @@
       "wikiDataId": "Q844477",
       "country_code": "LV",
       "state_code": "059",
-      "state_id": 4433,
+      "state_id": 5858,
       "country_id": 120
     },
     {
@@ -124,7 +124,25 @@
       "wikiDataId": "Q586048",
       "country_code": "LV",
       "state_code": "059",
-      "state_id": 4433,
+      "state_id": 5858,
+      "country_id": 120
+    },
+    {
+      "id": 66980,
+      "name": "瓦拉克利亚尼",
+      "name_default": "Varakļāni",
+      "native": "Varakļāni",
+      "type": "adm1",
+      "level": null,
+      "parent_id": null,
+      "population": 1619,
+      "latitude": "56.60826000",
+      "longitude": "26.75377000",
+      "timezone": "Europe/Riga",
+      "wikiDataId": "Q849141",
+      "country_code": "LV",
+      "state_code": "059",
+      "state_id": 5858,
       "country_id": 120
     }
   ]

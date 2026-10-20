@@ -78,8 +78,8 @@
       "name": "하이즈엉",
       "name_default": "Hải Dương",
       "native": "Hải Dương",
-      "type": "city",
-      "level": "2",
+      "type": "adm2",
+      "level": null,
       "parent_id": null,
       "population": 241373,
       "latitude": "20.94099000",
@@ -182,7 +182,7 @@
       "country_id": 240
     },
     {
-      "id": 130221,
+      "id": 167919,
       "name": "Kẻ Sặt",
       "name_default": "Kẻ Sặt",
       "native": "Kẻ Sặt",
@@ -200,7 +200,7 @@
       "country_id": 240
     },
     {
-      "id": 130376,
+      "id": 168023,
       "name": "Nam Sách",
       "name_default": "Nam Sách",
       "native": "Nam Sách",

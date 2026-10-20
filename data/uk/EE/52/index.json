@@ -54,24 +54,5 @@
     "wikiDataId": "Q188068",
     "country_code": "EE"
   },
-  "cities": [
-    {
-      "id": 31730,
-      "name": "Тюрі вальд",
-      "name_default": "Türi vald",
-      "native": "Türi vald",
-      "type": "city",
-      "level": null,
-      "parent_id": null,
-      "population": null,
-      "latitude": "58.74143000",
-      "longitude": "25.46443000",
-      "timezone": "Europe/Tallinn",
-      "wikiDataId": "Q719969",
-      "country_code": "EE",
-      "state_code": "52",
-      "state_id": 3566,
-      "country_id": 69
-    }
-  ]
+  "cities": []
 }
