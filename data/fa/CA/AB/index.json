@@ -136,10 +136,10 @@
       },
       {
         "zoneName": "America/Rainy_River",
-        "gmtOffset": -21600,
-        "gmtOffsetName": "UTC-06:00",
-        "abbreviation": "CST",
-        "tzName": "Central Standard Time (North America)"
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
       },
       {
         "zoneName": "America/Rankin_Inlet",
@@ -206,10 +206,10 @@
       },
       {
         "zoneName": "America/Winnipeg",
-        "gmtOffset": -21600,
-        "gmtOffsetName": "UTC-06:00",
-        "abbreviation": "CST",
-        "tzName": "Central Standard Time (North America)"
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
       },
       {
         "zoneName": "America/Yellowknife",
@@ -684,7 +684,7 @@
       "type": "city",
       "level": "2",
       "parent_id": null,
-      "population": 11595,
+      "population": 15661,
       "latitude": "54.46525000",
       "longitude": "-110.18154000",
       "timezone": "America/Edmonton",
@@ -936,7 +936,7 @@
       "type": "town",
       "level": "2",
       "parent_id": null,
-      "population": 2457,
+      "population": 1639,
       "latitude": "54.40007000",
       "longitude": "-116.80238000",
       "timezone": "America/Edmonton",
@@ -1389,7 +1389,7 @@
       "population": 765,
       "latitude": "53.33764000",
       "longitude": "-111.17750000",
-      "timezone": "America/Toronto",
+      "timezone": "America/Edmonton",
       "wikiDataId": "Q1890931",
       "country_code": "CA",
       "state_code": "AB",
@@ -2031,8 +2031,8 @@
       "name": "تیبر",
       "name_default": "Taber",
       "native": "Taber",
-      "type": "city",
-      "level": null,
+      "type": "town",
+      "level": "3",
       "parent_id": null,
       "population": 8862,
       "latitude": "49.78703000",
@@ -2109,7 +2109,7 @@
       "population": 1416,
       "latitude": "53.71686000",
       "longitude": "-111.75181000",
-      "timezone": "America/Toronto",
+      "timezone": "America/Edmonton",
       "wikiDataId": "Q1746071",
       "country_code": "CA",
       "state_code": "AB",

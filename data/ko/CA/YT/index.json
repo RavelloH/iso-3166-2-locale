@@ -136,10 +136,10 @@
       },
       {
         "zoneName": "America/Rainy_River",
-        "gmtOffset": -21600,
-        "gmtOffsetName": "UTC-06:00",
-        "abbreviation": "CST",
-        "tzName": "Central Standard Time (North America)"
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
       },
       {
         "zoneName": "America/Rankin_Inlet",
@@ -206,10 +206,10 @@
       },
       {
         "zoneName": "America/Winnipeg",
-        "gmtOffset": -21600,
-        "gmtOffsetName": "UTC-06:00",
-        "abbreviation": "CST",
-        "tzName": "Central Standard Time (North America)"
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
       },
       {
         "zoneName": "America/Yellowknife",
@@ -267,10 +267,10 @@
       "name": "헤인즈 정션",
       "name_default": "Haines Junction",
       "native": "Haines Junction",
-      "type": "city",
-      "level": null,
+      "type": "village",
+      "level": "3",
       "parent_id": null,
-      "population": 613,
+      "population": 688,
       "latitude": "60.75216000",
       "longitude": "-137.51082000",
       "timezone": "America/Whitehorse",
@@ -285,10 +285,10 @@
       "name": "Watson Lake",
       "name_default": "Watson Lake",
       "native": "Watson Lake",
-      "type": "city",
-      "level": null,
+      "type": "town",
+      "level": "3",
       "parent_id": null,
-      "population": 1547,
+      "population": 1133,
       "latitude": "60.06349000",
       "longitude": "-128.70893000",
       "timezone": "America/Whitehorse",
