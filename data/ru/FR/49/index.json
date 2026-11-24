@@ -380,6 +380,24 @@
       "country_id": 75
     },
     {
+      "id": 202809,
+      "name": "Blaison-Saint-Sulpice",
+      "name_default": "Blaison-Saint-Sulpice",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.39955414",
+      "longitude": "-0.37013930",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "49",
+      "state_id": null,
+      "country_id": null
+    },
+    {
       "id": 40152,
       "name": "Бушмен",
       "name_default": "Bouchemaine",
@@ -2430,6 +2448,24 @@
       "state_code": "49",
       "state_id": 5017,
       "country_id": 75
+    },
+    {
+      "id": 202810,
+      "name": "Orée d'Anjou",
+      "name_default": "Orée d'Anjou",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "47.33446452",
+      "longitude": "-1.20683342",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "49",
+      "state_id": null,
+      "country_id": null
     },
     {
       "id": 44861,

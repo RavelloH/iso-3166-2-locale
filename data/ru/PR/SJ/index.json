@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 143190,
+      "name": "Рио-Пиедрас",
+      "name_default": "Río Piedras",
+      "native": "Río Piedras",
+      "type": "city",
+      "level": null,
+      "parent_id": null,
+      "population": 332344,
+      "latitude": "18.39972222",
+      "longitude": "-66.05000000",
+      "timezone": "America/Puerto_Rico",
+      "wikiDataId": "Q683206",
+      "country_code": "PR",
+      "state_code": "SJ",
+      "state_id": 1449,
+      "country_id": 233
+    },
+    {
       "id": 153613,
       "name": "Сан-Хуан",
       "name_default": "San Juan",

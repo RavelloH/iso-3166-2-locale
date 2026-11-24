@@ -182,6 +182,24 @@
       "country_id": 75
     },
     {
+      "id": 202828,
+      "name": "Beauvallon",
+      "name_default": "Beauvallon",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "45.58468826",
+      "longitude": "4.69575013",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "69",
+      "state_id": null,
+      "country_id": null
+    },
+    {
       "id": 161689,
       "name": "Belleville-en-Beaujolais",
       "name_default": "Belleville-en-Beaujolais",
@@ -1620,6 +1638,24 @@
       "state_code": "69",
       "state_id": 5037,
       "country_id": 75
+    },
+    {
+      "id": 202827,
+      "name": "Porte des Pierres Dorées",
+      "name_default": "Porte des Pierres Dorées",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "45.96593841",
+      "longitude": "4.66936994",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "69",
+      "state_id": null,
+      "country_id": null
     },
     {
       "id": 45331,

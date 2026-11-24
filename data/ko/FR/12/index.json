@@ -56,6 +56,24 @@
   },
   "cities": [
     {
+      "id": 202778,
+      "name": "Argences en Aubrac",
+      "name_default": "Argences en Aubrac",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "44.80364760",
+      "longitude": "2.75888468",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "12",
+      "state_id": null,
+      "country_id": null
+    },
+    {
       "id": 39584,
       "name": "오빈",
       "name_default": "Aubin",

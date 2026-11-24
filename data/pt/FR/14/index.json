@@ -1298,6 +1298,24 @@
       "country_id": 75
     },
     {
+      "id": 202780,
+      "name": "La Vespière-Friardel",
+      "name_default": "La Vespière-Friardel",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "49.01851142",
+      "longitude": "0.41211269",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "14",
+      "state_id": null,
+      "country_id": null
+    },
+    {
       "id": 161830,
       "name": "Laize-Clinchamps",
       "name_default": "Laize-Clinchamps",
@@ -1980,6 +1998,24 @@
       "state_code": "14",
       "state_id": 4981,
       "country_id": 75
+    },
+    {
+      "id": 202779,
+      "name": "Saint-Martin-de-May",
+      "name_default": "Saint-Martin-de-May",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "49.10103154",
+      "longitude": "-0.37460930",
+      "timezone": "Europe/Paris",
+      "wikiDataId": null,
+      "country_code": "FR",
+      "state_code": "14",
+      "state_id": null,
+      "country_id": null
     },
     {
       "id": 46282,
