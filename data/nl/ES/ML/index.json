@@ -68,5 +68,24 @@
     "wikiDataId": "Q5831",
     "country_code": "ES"
   },
-  "cities": []
+  "cities": [
+    {
+      "id": 203754,
+      "name": "Melilla",
+      "name_default": "Melilla",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "35.28250000",
+      "longitude": "-2.94750000",
+      "timezone": "Africa/Ceuta",
+      "wikiDataId": null,
+      "country_code": "ES",
+      "state_code": "ML",
+      "state_id": null,
+      "country_id": null
+    }
+  ]
 }

@@ -1384,6 +1384,24 @@
       "country_id": 207
     },
     {
+      "id": 203305,
+      "name": "Segura",
+      "name_default": "Segura",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.00908600",
+      "longitude": "-2.25279200",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": null,
+      "country_code": "ES",
+      "state_code": "SS",
+      "state_id": null,
+      "country_id": null
+    },
+    {
       "id": 37194,
       "name": "セグラ",
       "name_default": "Segura",
@@ -1634,6 +1652,24 @@
       "state_code": "SS",
       "state_id": 1191,
       "country_id": 207
+    },
+    {
+      "id": 203306,
+      "name": "Zumarraga",
+      "name_default": "Zumarraga",
+      "native": null,
+      "type": null,
+      "level": null,
+      "parent_id": null,
+      "population": null,
+      "latitude": "43.08305600",
+      "longitude": "-2.31666700",
+      "timezone": "Europe/Madrid",
+      "wikiDataId": null,
+      "country_code": "ES",
+      "state_code": "SS",
+      "state_id": null,
+      "country_id": null
     },
     {
       "id": 38509,
